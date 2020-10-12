@@ -5,6 +5,7 @@ import json
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
+scholarly.set_retries(3)
 
 keywords = [
     'DevOps', 
@@ -27,7 +28,7 @@ for k in keywords:
         bib = e.__getattribute__("bib")
         gsrank = bib['gsrank']
 
-        if int(gsrank) > 1000:
+        if int(gsrank) > 10:
             break
 
     countMap[k] = count
@@ -35,7 +36,13 @@ for k in keywords:
 for t in countMap:
     print(t, countMap[t])
 
+
+'''
+dda
+'''
+
 # Check combinations with fewest returns
+
 
 
 
