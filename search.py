@@ -9,7 +9,7 @@ import time
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
-scholarly.set_retries(10)
+scholarly.set_retries(100)
 
 keywords = [
     """ "DevOps" """, 
@@ -38,8 +38,6 @@ def CreateSearchQuery(keyword):
     search_query = scholarly.search_pubs_custom_url(query)
     return search_query
 
-print("Queries for initial keywords:")
-
 def Count(search_query):
     count = 0
     for _ in search_query:
@@ -62,26 +60,28 @@ def CountQueryResultNumber(k, cMap):
     executed_queries.append(search_query._url)
     cMap[k] = Count(search_query)
 
-countMap = dict()
-threads = []
-for k in keywords:
-    
-    logging.info("Main    : before creating thread")
-    t = threading.Thread(target=CountQueryResultNumber, args=(k, countMap), daemon=True)
-    logging.info("Main    : before running thread")
-    t.start()
-    threads.append(t)
+def InitialSearch():
+    print("Queries for initial keywords:")
+    countMap = dict()
+    threads = []
+    for k in keywords:
+        logging.info("Main    : before creating thread")
+        t = threading.Thread(target=CountQueryResultNumber, args=(k, countMap), daemon=True)
+        logging.info("Main    : before running thread")
+        t.start()
+        threads.append(t)
 
-logging.info("Main    : wait for the thread to finish")
-for t in threads:
-    t.join()
+    logging.info("Main    : wait for the thread to finish")
+    for t in threads:
+        t.join()
 
-logging.info("Main    : all done")
+    logging.info("Main    : all done")
 
-print("Baseline count pr keyword:")
-for t in countMap:
-    print(t, countMap[t])
+    print("Baseline count pr keyword:")
+    for t in countMap:
+        print(t, countMap[t])
 
+# InitialSearch()
 '''
 Tue 13 Oct 2020 12:28:14 AM CEST
 
@@ -94,44 +94,45 @@ Continuous Integration 980
 Automation Systems 980
 Software Validation 980
 Continuous Software Engineering 980
-'''
+''' 
+def CombinedSearchLevelTwo():
+    threads = []
+    known_searches = []
+    combined_results = []
+    # Check combinations with fewest returns
+    for k in keywords:
+        # for each keyword, try combining with rest of keywords
 
-threads = []
-known_searches = []
-combined_results = []
-# Check combinations with fewest returns
-for k in keywords:
-    # for each keyword, try combining with rest of keywords
+        keyword_combination_results = dict()
+        for k2 in keywords:
+            if not k == k2:
+                combined = k.strip() + "+" + k2.strip()
 
-    keyword_combination_results = dict()
-    for k2 in keywords:
-        if not k == k2:
-            combined = k.strip() + "+" + k2.strip()
+                # avoid repeat combinations
+                if not combined in known_searches:
+                    known_searches.append(combined)
 
-            # avoid repeat combinations
-            if not combined in known_searches:
-                known_searches.append(combined)
+                    logging.info("Main    : before creating thread")
+                    t = threading.Thread(target=CountQueryResultNumber, args=(combined, keyword_combination_results), daemon=True)
+                    logging.info("Main    : before running thread")
+                    t.start()
+                    threads.append(t)
 
-                logging.info("Main    : before creating thread")
-                t = threading.Thread(target=CountQueryResultNumber, args=(combined, keyword_combination_results), daemon=True)
-                logging.info("Main    : before running thread")
-                t.start()
-                threads.append(t)
+        combined_results.append((k, keyword_combination_results))
 
-    combined_results.append((k, keyword_combination_results))
+    logging.info("Main    : wait for the thread to finish")
+    for t in threads:
+        t.join()
 
-logging.info("Main    : wait for the thread to finish")
-for t in threads:
-    t.join()
+    print("Results for combined keywords", k)
+    for tup in combined_results:
+        keyword = tup[0]
+        combinedDict = tup[1]
+        print("Rest combined with", keyword)
+        for key in combinedDict:
+            print(key, combinedDict[key])
 
-print("Results for combined keywords", k)
-for tup in combined_results:
-    keyword = tup[0]
-    combinedDict = tup[1]
-    print("Rest combined with", keyword)
-    for key in combinedDict:
-        print(key, combinedDict[key])
-
+# CombinedSearchLevelTwo()
 '''
 Queries for initial keywords:
 /scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"
@@ -308,6 +309,60 @@ Rest combined with  "Continuous+Software+Engineering"
 "Continuous+Software+Engineering"+"Continuous+Delivery" 512
 "Continuous+Software+Engineering"+"Continuous+Integration" 589
 '''
+
+def CombinedSearchLevelThree():
+    threads = []
+    known_searches = []
+    combined_results = []
+    # Check combinations with fewest returns
+    for k1 in keywords:
+        # for each keyword, try combining with rest of keywords
+        keyword_combination_results = dict()
+        for k2 in keywords:
+            if not k1 == k2:
+                for k3 in keywords:
+                    if not k3 == k2 and not k3 == k1:
+                        
+                        # sort keywords to avoid repeats when comparing out of order in known combined search strings
+                        keys = []
+                        keys.append(k1.strip())
+                        keys.append(k2.strip())
+                        keys.append(k3.strip())
+                        keys.sort()
+
+                        combined = keys[0] + "+" + keys[1] + "+" + keys[2]
+
+                        # avoid repeat combinations
+                        if not combined in known_searches:
+                            known_searches.append(combined)
+
+                            logging.info("Main    : before creating thread")
+                            t = threading.Thread(target=CountQueryResultNumber, args=(combined, keyword_combination_results), daemon=True)
+                            logging.info("Main    : before running thread")
+                            t.start()
+                            threads.append(t)
+
+        combined_results.append((k1, keyword_combination_results))
+
+    logging.info("Main    : wait for the thread to finish")
+    for t in threads:
+        t.join()
+
+    print("Results for combined keyword pr keyword")
+    for tup in combined_results:
+        keyword = tup[0]
+        combinedDict = tup[1]
+        print("Combinations with", keyword)
+        for key in combinedDict:
+            print(key, combinedDict[key])
+            
+CombinedSearchLevelThree()
+'''
+see output.txt
+'''
+
+# Check combinations with low number to check if they match what we are looking for
+
 
 # Retrieve the author's data, fill-in, and print
 # search_query = scholarly.search_author('Steven A Cholewiak')
