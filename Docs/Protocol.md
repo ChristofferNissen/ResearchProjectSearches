@@ -43,7 +43,9 @@ Difference compared to initial.txt:
 ## Analysis Levels 
 
 lvl1: Only one keyword per seach
+
 lvl2: Two keywords combined, no dublicates
+
 lvl3: Three keywords combined, no dublicates
 
 ## Output
@@ -51,5 +53,8 @@ lvl3: Three keywords combined, no dublicates
 This folder contains the output from the script, per keyword file. 
 Futhermore, the output is divided up into lvl1, lvl2 and lvl3.
 
+## Docs
+
+Contains documentation documents.
 
 

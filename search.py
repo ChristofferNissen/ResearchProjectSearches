@@ -9,11 +9,6 @@ import io
 from contextlib import redirect_stdout
 import os
 
-pg = ProxyGenerator()
-pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
-scholarly.use_proxy(pg)
-scholarly.set_retries(100)
-
 # This script takes 1 argument
 #   Argument 1: keywordlist path
 
@@ -23,10 +18,8 @@ keywordlist = open(sys.argv[1], "r")
 keywords = []
 for l in keywordlist:
     keywords.append(f""" "{l.replace(' ', '+').strip()}" """)
-
 keywordlist.close()
-
-# example of resulting collection (initial.txt)
+# example of resulting collection (from initial.txt)
 # keywords = [
 #     """ "DevOps" """, 
 #     """ "Software+Product+Lines" """,
@@ -38,6 +31,12 @@ keywordlist.close()
 #     """ "Software+Validation" """,
 #     """ "Continuous+Software+Engineering" """
 #     ]
+
+# Setup Scholarly to crawl Scholar with Tor Proxy
+pg = ProxyGenerator()
+pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
+scholarly.use_proxy(pg)
+scholarly.set_retries(100)
 
 # Creates custom query and retrives the iterator from Scholarly
 def CreateSearchQuery(keyword):
@@ -56,12 +55,6 @@ def Count(search_query):
     count = 0
     for _ in search_query:
         count = count + 1
-        # bib = e.__getattribute__("bib") Probably the same as bib = e.bib...
-        # gsrank = bib['gsrank']
-
-        # if int(gsrank) > 1000:
-        #     break
-
         # PROBLEM: Google scholar will only return 100 pages with 10 items each (1000 items)
 
     return count
@@ -81,18 +74,10 @@ def GetValuesFromBib(search_query, k, collection):
         author = pub.bib['author']
         venue = pub.bib['venue']
         year = pub.bib['year']
-        #abstract = pub.bib['abstract']
         url = pub.bib['url']
         abstract = "[Not Found]"
         if "abstract" in pub.bib:
             abstract = pub.bib['abstract']
-
-        # print("Title", title)
-        # print("Author", author)
-        # print("Venue", venue)
-        # print("Year", year)
-        # #print("Abstract", abstract)
-        # print("Url", url)
 
         collection.append((k, title, author, venue, year, abstract, url))
 
@@ -123,11 +108,13 @@ def InitialSearch():
     for t in countMap:
         print(t, countMap[t])
 
+# Check number of articles for each combination of keywords
 # Multithreaded
 def CombinedSearchLevelTwo():
     threads = []
     known_searches = []
     combined_results = []
+
     # Check combinations with fewest returns
     for k in keywords:
         # for each keyword, try combining with rest of keywords
@@ -161,11 +148,16 @@ def CombinedSearchLevelTwo():
         for key in combinedDict:
             print(key, combinedDict[key])
 
+# Check number of articles for combinations of three keywords
 # Multithreaded
 def CombinedSearchLevelThree():
     threads = []
     known_searches = []
     combined_results = []
+
+    print("Executed Queries:")
+    print()
+
     # Check combinations with fewest returns
     for k1 in keywords:
         # for each keyword, try combining with rest of keywords
@@ -202,20 +194,23 @@ def CombinedSearchLevelThree():
 
     results = []
     threads = []
+    print()
     print("Results for combined keywords")
+    print()
     for tup in combined_results:
         keyword = tup[0]
         combinedDict = tup[1]
-        print("Combinations with", keyword.strip())
+        print("    ", "Combinations with", keyword.strip())
         for key in combinedDict:
             num = combinedDict[key]
-            print(key, num)
+            print('        ', key, num)
             if num < 10:
                 logging.info("Main    : before creating thread")
                 t = threading.Thread(target=RetrieveTitleAndAbstract, args=(key, results), daemon=False)
                 logging.info("Main    : before running thread")
                 t.start()
                 threads.append(t)
+        print()
 
     logging.info("Main    : wait for the thread to finish")
     for t in threads:
@@ -223,29 +218,42 @@ def CombinedSearchLevelThree():
         
     combination_results = dict()
     for e in results:
-        (k, title, author, venue, year, abstract, url) = e
-        tmp = str(k)
-        tmp = tmp.replace('"+"', ' ')
-        tmp = tmp.replace('"', '')
-        tmp = tmp.replace('+', ' ')
-        tmp = tmp.replace(' ', '')
-        print(k)
-        print(tmp)
+        (key, title, author, venue, year, abstract, url) = e
 
-        combination_results[tmp].append((title, author, venue, year, abstract, url))
+        # initialize list before adding elements if first time we see key
+        if not key in combination_results:
+            combination_results[key] = []
 
-    for e in combination_results:
-        for v in combination_results[e]:
-            (title, author, venue, year, abstract, url) = v
-            print()
-            print("Search term", k)
-            print("Title", title)
-            print("Author", author)
-            print("Venue", venue)
-            print("Year", year)
-            print("Abstract", abstract)
-            print("Url", url)
-            print()
+        combination_results[key].append((title, author, venue, year, abstract, url))
+
+    # Maybe pipe out to individual files
+
+    print()
+    for key in combination_results:
+        outputPath = base_path+"articles"+'/'
+        if not os.path.exists(outputPath):
+            os.makedirs(outputPath)
+
+        f = io.StringIO()
+        with redirect_stdout(f):
+            print("Showing papers for search query", key)
+            for v in combination_results[key]:
+                (title, author, venue, year, abstract, url) = v
+                print()
+                print("    ", "Search term", key)
+                print("    ", "Title", title)
+                print("    ", "Author", author)
+                print("    ", "Venue", venue)
+                print("    ", "Year", year)
+                print("    ", "Abstract", abstract)
+                print("    ", "Url", url)
+                print()
+
+        out = f.getvalue()
+        output = open(outputPath+key+".out", "w")
+        output.write(out)
+        output.flush()
+        output.close()
 
 # Program Flow
 
@@ -313,3 +321,4 @@ output.close()
 
 # # Which papers cited that publication?
 # print([citation.bib['title'] for citation in pub.citedby])
+
