@@ -12,7 +12,7 @@ import os
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
-scholarly.set_retries(200)
+scholarly.set_retries(100)
 
 # This script takes 1 argument
 #   Argument 1: keywordlist path
@@ -83,15 +83,18 @@ def GetValuesFromBib(search_query, k, collection):
         year = pub.bib['year']
         #abstract = pub.bib['abstract']
         url = pub.bib['url']
-        
-        print("Title", title)
-        print("Author", author)
-        print("Venue", venue)
-        print("Year", year)
-        #print("Abstract", abstract)
-        print("Url", url)
+        abstract = "[Not Found]"
+        if "abstract" in pub.bib:
+            abstract = pub.bib['abstract']
 
-        return (title, author, venue, year, url)
+        # print("Title", title)
+        # print("Author", author)
+        # print("Venue", venue)
+        # print("Year", year)
+        # #print("Abstract", abstract)
+        # print("Url", url)
+
+        collection.append((k, title, author, venue, year, abstract, url))
 
 def RetrieveTitleAndAbstract(k, collection):
     search_query = CreateSearchQuery(k)    
@@ -120,6 +123,7 @@ def InitialSearch():
     for t in countMap:
         print(t, countMap[t])
 
+# Multithreaded
 def CombinedSearchLevelTwo():
     threads = []
     known_searches = []
@@ -157,6 +161,7 @@ def CombinedSearchLevelTwo():
         for key in combinedDict:
             print(key, combinedDict[key])
 
+# Multithreaded
 def CombinedSearchLevelThree():
     threads = []
     known_searches = []
@@ -216,8 +221,31 @@ def CombinedSearchLevelThree():
     for t in threads:
         t.join()
         
+    combination_results = dict()
     for e in results:
-        print(e)
+        (k, title, author, venue, year, abstract, url) = e
+        tmp = str(k)
+        tmp = tmp.replace('"+"', ' ')
+        tmp = tmp.replace('"', '')
+        tmp = tmp.replace('+', ' ')
+        tmp = tmp.replace(' ', '')
+        print(k)
+        print(tmp)
+
+        combination_results[tmp].append((title, author, venue, year, abstract, url))
+
+    for e in combination_results:
+        for v in combination_results[e]:
+            (title, author, venue, year, abstract, url) = v
+            print()
+            print("Search term", k)
+            print("Title", title)
+            print("Author", author)
+            print("Venue", venue)
+            print("Year", year)
+            print("Abstract", abstract)
+            print("Url", url)
+            print()
 
 # Program Flow
 
@@ -264,27 +292,8 @@ output.flush()
 output.close()
 
 
-
 # Next step
 # Check combinations with low number to check if they match what we are looking for
-
-# Refine Keyword list
-'''
-Based on our initial findings, we have decided to refine the keyword list due to semantics. 
-The most noteworthy change is to 
-Replace:
-    Continious Integration
-    Continious Delivery
-    Continious Software Engineering
-    FDA Requirement
-
-With: 
-    Continious
-    FDA Requirements
-
-(What did this improve on?)
-
-'''
 
 
 
