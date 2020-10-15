@@ -13,6 +13,6 @@
 # dirty hack to get torrc to work on Alpine. Generate file by running above commands on ubuntu
 cat << EOF > /etc/tor/torrc
 SocksPort 0.0.0.0:9050
-ControlPort 9051
+ControlPort 0.0.0.0:9051
 HashedControlPassword 16:77A8C7AD0E600338604F124CFA033B2F476531743F79B0126402A6D77D
 EOF
