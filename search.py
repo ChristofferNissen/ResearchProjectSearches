@@ -218,7 +218,9 @@ def CombinedSearchLevelThree():
         
     combination_results = dict()
     for e in results:
-        (key, title, author, venukeying elements if first time we see key
+        (key, title, author, venue, year, abstract, url) = e
+
+        # initialize list before adding elements if first time we see key
         if not key in combination_results:
             combination_results[key] = []
 
