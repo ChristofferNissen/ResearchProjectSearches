@@ -1,0 +1,39 @@
+version: '3.3'
+
+services:
+
+    tor:
+      build: tor/
+      image: stifstof/tor:latest
+      container_name: tor_container
+      restart: always
+      network_mode: host
+      ports:
+        - target: 9050
+          published: 9050
+          protocol: tcp
+          mode: host
+        - target: 9051
+          published: 9051
+          protocol: tcp
+          mode: host
+
+    torchecker:
+      build: checker/
+      image: stifstof/torchecker:latest
+      container_name: checker_container
+      restart: always
+      network_mode: host
+      depends_on:
+        - tor
+
+    analysis:
+      build: scraper/
+      image: stifstof/scraper:latest
+      container_name: scraper_container
+      restart: on-failure
+      network_mode: host
+      depends_on:
+        - tor
+      env_file:
+        - envfile.env

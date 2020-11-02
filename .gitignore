@@ -3,3 +3,13 @@ geckodriver.log
 scholar.log
 
 search.go
+
+vm-output/
+
+aws/
+
+.vagrant/
+
+envfile.env
+
+test.py
