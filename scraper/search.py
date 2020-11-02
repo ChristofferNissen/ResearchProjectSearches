@@ -36,7 +36,7 @@ keywordlist.close()
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
-scholarly.set_retries(1000)
+scholarly.set_retries(100)
 
 # Creates custom query and retrives the iterator from Scholarly
 def CreateSearchQuery(keyword):
@@ -337,7 +337,7 @@ end_three = time.time()
 bucket_url = "https://%s.s3-%s.amazonaws.com/%s/" % (AWS_BUCKET_NAME, AWS_REGION, path)
 
 # timeings
-analysis_one = start - end_one
+analysis_one = end_one - start
 analysis_two = end_two - analysis_one
 analysis_three = end_three - analysis_two
 analysis_entire = start - end_three

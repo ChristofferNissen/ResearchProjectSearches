@@ -4,6 +4,5 @@ COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 COPY search.py search.py
 COPY keyword/ keyword/
-RUN ls -lah
 ENTRYPOINT [ "python3" ]
 CMD [ "search.py" ]
