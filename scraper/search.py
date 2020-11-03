@@ -338,9 +338,9 @@ bucket_url = "https://%s.s3-%s.amazonaws.com/%s/" % (AWS_BUCKET_NAME, AWS_REGION
 
 # timeings
 analysis_one = end_one - start
-analysis_two = end_two - analysis_one
-analysis_three = end_three - analysis_two
-analysis_entire = start - end_three
+analysis_two = end_two - end_one
+analysis_three = end_three - end_two
+analysis_entire = end_three - start
 
 import smtplib, ssl
 
@@ -354,21 +354,28 @@ Subject: Processing of inputfile "{}" is now done.
 
 This message is sent from Python. \n
 \n
-Level one analysis took {}s\n
-Level two analysis took {}s\n
-Level three analysis took {}s\n
+Level one analysis took {}m\n
+Level two analysis took {}m\n
+Level three analysis took {}m\n
 \n
-Elapsed analysis time {}s\n
+Elapsed analysis time {}m\n
 \n
 The result can be found in {}.\n
 Please clean up the cloud resources.\n
-""".format(inputfilename, analysis_one, analysis_two, analysis_three, analysis_entire, bucket_url)
+""".format(inputfilename, analysis_one/3600, analysis_two/3600, analysis_three/3600, analysis_entire/3600, bucket_url)
 
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
     server.login(sender_email, password)
     server.sendmail(sender_email, receiver_email, message)
 
+
+# TEARDOWN INFRASTRUCTURE
+
+import requests
+time.sleep(300)
+url = "91.100.23.100:8080"
+res = requests.post(url)
 
 # Next step
 # Check combinations with low number to check if they match what we are looking for
