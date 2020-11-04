@@ -36,7 +36,7 @@ keywordlist.close()
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
-scholarly.set_retries(100)
+scholarly.set_retries(1000)
 
 # Creates custom query and retrives the iterator from Scholarly
 def CreateSearchQuery(keyword):
@@ -362,7 +362,7 @@ Elapsed analysis time {}m\n
 \n
 The result can be found in {}.\n
 Please clean up the cloud resources.\n
-""".format(inputfilename, analysis_one/3600, analysis_two/3600, analysis_three/3600, analysis_entire/3600, bucket_url)
+""".format(inputfilename, analysis_one/60, analysis_two/60, analysis_three/60, analysis_entire/3600, bucket_url)
 
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
