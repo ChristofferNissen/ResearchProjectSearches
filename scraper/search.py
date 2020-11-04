@@ -362,7 +362,7 @@ Elapsed analysis time {}m\n
 \n
 The result can be found in {}.\n
 Please clean up the cloud resources.\n
-""".format(inputfilename, analysis_one/60, analysis_two/60, analysis_three/60, analysis_entire/3600, bucket_url)
+""".format(inputfilename, int(analysis_one/60), int(analysis_two/60), (analysis_three/60), (analysis_entire/60), bucket_url)
 
 context = ssl.create_default_context()
 with smtplib.SMTP_SSL(smtp_server, port, context=context) as server:
