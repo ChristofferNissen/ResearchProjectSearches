@@ -1,0 +1,58 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domains"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"+"Regulated+Domains"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domains"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Product+Lines"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirements"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+"Regulated+Domains"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirements"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirements"+"Regulated+Domains"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirements"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"+"FDA+Requirements"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirements"+"Regulated+Domains"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+"Software+Product+Lines"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Domains"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+"Regulated+Domains"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Domains"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirements"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+"Software+Product+Lines"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Software+Product+Lines"+"Software+Validation"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"Regulated+Domains"+"Software+Validation" 1
+         "DevOps"+"Regulated+Domains"+"Software+Product+Lines" 2
+         "DevOps"+"Software+Product+Lines"+"Software+Validation" 5
+         "DevOps"+"FDA+Requirements"+"Software+Validation" 1
+         "DevOps"+"FDA+Requirements"+"Software+Product+Lines" 0
+         "DevOps"+"FDA+Requirements"+"Regulated+Domains" 0
+         "Case+Study"+"DevOps"+"FDA+Requirements" 4
+         "Case+Study"+"DevOps"+"Regulated+Domains" 21
+         "Case+Study"+"DevOps"+"Software+Validation" 56
+         "Case+Study"+"DevOps"+"Software+Product+Lines" 201
+
+     Combinations with "Software+Product+Lines"
+         "FDA+Requirements"+"Regulated+Domains"+"Software+Product+Lines" 0
+         "Case+Study"+"FDA+Requirements"+"Software+Product+Lines" 2
+         "Regulated+Domains"+"Software+Product+Lines"+"Software+Validation" 1
+         "Case+Study"+"Regulated+Domains"+"Software+Product+Lines" 10
+         "FDA+Requirements"+"Software+Product+Lines"+"Software+Validation" 0
+         "Case+Study"+"Software+Product+Lines"+"Software+Validation" 108
+
+     Combinations with "Regulated+Domains"
+         "Case+Study"+"FDA+Requirements"+"Regulated+Domains" 0
+         "FDA+Requirements"+"Regulated+Domains"+"Software+Validation" 0
+         "Case+Study"+"Regulated+Domains"+"Software+Validation" 9
+
+     Combinations with "FDA+Requirements"
+         "Case+Study"+"FDA+Requirements"+"Software+Validation" 37
+
+     Combinations with "Software+Validation"
+
+     Combinations with "Case+Study"
+
+

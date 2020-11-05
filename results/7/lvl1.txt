@@ -1,0 +1,14 @@
+Queries for initial keywords:
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Embedded+Devices"+OR+"Embedded+Device"+OR+"PLC"+OR+"PLC+based"+OR+"FPGA"+OR+"FPGA+based"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+OR+"Software+Product+Line"+OR+"Software+Product+Line+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software"+AND+"Validation"+OR+"Verification"
+Baseline count pr keyword:
+ "Regulated+Domains"+OR+"Regulated+Domain"  998
+ "Embedded+Devices"+OR+"Embedded+Device"+OR+"PLC"+OR+"PLC+based"+OR+"FPGA"+OR+"FPGA+based"  1000
+ "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"  999
+ "Software+Product+Lines"+OR+"Software+Product+Line"+OR+"Software+Product+Line+Engineering"  1000
+ "Software"+AND+"Validation"+OR+"Verification"  1000
+ "FDA+Requirements"+OR+"FDA+Requirement"  999
