@@ -37,3 +37,14 @@ services:
         - tor
       env_file:
         - envfile.env
+
+    # consolidate:
+    #   build: consolidate/
+    #   image: stifstof/consolidate:latest
+    #   container_name: consolidate_container
+    #   restart: on-failure
+    #   network_mode: host
+    #   depends_on:
+    #     - tor
+    #   env_file:
+    #     - envfile.env

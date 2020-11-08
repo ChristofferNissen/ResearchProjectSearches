@@ -1,0 +1,55 @@
+Showing papers for search query "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title On software simulation for mpsoc
+     Author ['F Pétrot', 'P Gerin', 'MM Hamayun']
+     Venue Design Technology for Heterogeneous …
+     Year 2012
+     Abstract instead of wire-driven FSMs, are currently in use for early software validation [4]. Although  this applies only to sophisticated OSes, they are now available for embedded devices as well  It is then possible to build hardware simulation models for execution units that implement this
+     Url https://link.springer.com/chapter/10.1007/978-94-007-1125-9_5
+
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title Testing of embedded systems
+     Author ['H Achkar', 'RD Nedelkovski']
+     Venue US Patent 7,623,981
+     Year 2009
+     Abstract G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment  In one form, the present invention relates to a method and apparatus for the testing of embedded devices
+     Url https://patents.google.com/patent/US7623981B2/en
+
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title Star-Ip Centric Platforms for SOC
+     Author ['J Alphey', 'C Baxter', 'J Connell', 'J Goodenough']
+     Venue Winning the SoC …
+     Year 2003
+     Abstract Primarily, the representations that must be provided in support of a platform are views for: hardware integration, SoC hardware/software validation, SoC architectural exploration, and application software development (hard and soft prototyping)
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-0369-9_9
+
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title ARM (R) Prime Xsys" M Platform Architecture and Methodologies
+     Author ['J Alphey', 'C Baxter', 'J Connell']
+     Venue Winning the SoC …
+     Year 2012
+     Abstract Primarily, the representations that must be provided in support of a platform are views for: hardware integration, SoC hardware/software validation, SoC architectural exploration, and application software development (hard and soft prototyping)
+     Url https://books.google.com/books?hl=en&lr=lang_en&id=jp3aBwAAQBAJ&oi=fnd&pg=PA187&dq=%22Embedded+Devices%22+%22Hardware+simulation%22+%22Software+Validation%22&ots=ErgLt6Tqej&sig=tWyK0LcuZYT1f0hc2gEF7_oT4bo
+
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title Performance and flexibility for multiple-processor soc design
+     Author ['C Rowen']
+     Venue Multiprocessor Systems-on-Chips
+     Year 2005
+     Abstract Earlier and faster hardware/ software validation is widely viewed as a critical risk reducer for new  Second, the more focused embedded devices cannot take full advantage of all of a  higher visibility and allow much faster bug fixes than typical hardware simulation and verification
+     Url https://www.sciencedirect.com/science/article/pii/B9780123852519500190
+
+
+     Search term "Embedded+Devices"+"Hardware+simulation"+"Software+Validation"
+     Title Simulators and emulators for WSNs
+     Author ['HMA Fahmy']
+     Venue Wireless sensor networks
+     Year 2016
+     Abstract accurate solution. Fundamentally, software validation and verification is different from model validation and verification. Software validation and verification is required when a computer program or code is the end product. Model
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0412-4_6
+

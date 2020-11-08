@@ -1,14 +1,16 @@
 Queries for initial keywords:
-/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+OR+"Case+Studies"
 /scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"
 /scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"
-/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"
-/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"
-/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"
 Baseline count pr keyword:
+ "Software+Validation"  999
+ "Regulated+Environments"+OR+"Regulated+Environment"  1000
+ "FDA+Requirements"+OR+"FDA+Requirement"  999
  "DevOps"  1000
- "Software+Validation"  996
- "Case+Study"  1000
- "FDA+Requirements"  1000
- "Regulated+Domains"  999
- "Software+Product+Lines"  1000
+ "Case+Study"+OR+"Case+Studies"  995
+ "Continuous"  1000
+ "Regulated+Domains"+OR+"Regulated+Domain"  998
