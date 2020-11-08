@@ -4,4 +4,4 @@ docker-compose push
 vagrant provision
 echo "Connecting to the log feed in 10 seconds"
 sleep 10
-vagrant ssh -c 'cd vagrant; docker-compose logs --follow'
+vagrant ssh -c 'cd /vagrant; docker-compose logs --tail="1000" --follow'

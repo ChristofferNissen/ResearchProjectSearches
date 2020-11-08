@@ -9,4 +9,6 @@ services:
       restart: on-failure
       network_mode: host
       env_file:
-        - envfile.env
+        - ../envfile.env
+      volumes:
+        - /home/cn/Documents/git/ResearchProjectSearches/results:/results

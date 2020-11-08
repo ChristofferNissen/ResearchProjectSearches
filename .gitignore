@@ -13,5 +13,3 @@ aws/
 envfile.env
 
 test.py
-
-consolidate/results
