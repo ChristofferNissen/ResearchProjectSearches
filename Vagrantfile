@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
     config.vm.box = 'digital_ocean'
     config.vm.box_url = "https://github.com/devopsgroup-io/vagrant-digitalocean/raw/master/box/digital_ocean.box"
 
-    (1..1).each do |machine| 
+    (1..5).each do |machine| 
       config.vm.define "scraperserver#{machine}", primary: true do |server|
         server.vm.provider :digital_ocean do |provider,  override|
           override.ssh.private_key_path = '~/.ssh/id_rsa'
@@ -10,13 +10,13 @@ Vagrant.configure("2") do |config|
           provider.token = ENV['DIGITALOCEAN_TOKEN']
           provider.image = 'docker-18-04'
           provider.region = 'fra1'
-          provider.size = '2gb'
+          provider.size = '1gb'
           provider.private_networking = true
           provider.monitoring = true
         end
 
         server.vm.synced_folder ".", "/vagrant", type: "rsync"
-        server.vm.hostname = "scraperserver"
+        server.vm.hostname = "scraperserver#{machine}"
         server.vm.provision "shell", inline: <<-SHELL
 
           # set timezone correctly
@@ -27,23 +27,20 @@ Vagrant.configure("2") do |config|
           apt-get update
           apt-get upgrade -y
 
-          echo -e "\nVerifying that docker works ...\n"
-          docker run --rm hello-world
-          docker rmi hello-world
-
-          echo -e "\nOpening ports ...\n"
-          ufw allow 9050 # tor
-          ufw allow 9051 # tor-mangement
-
           echo -e "\nStarting docker-compose ...\n"
           cd /vagrant
           docker-compose pull
+
+          sed -i '$ d' envfile.env
+          echo "FILE=keyword/"#{machine}".txt" >> envfile.env
+          # echo "FILE=keyword/4.txt" >> envfile.env
+
           docker-compose up -d
 
           echo -e "\nVagrant setup done ..."
-          # echo -e "coffee_server dashboard should be accessible at http://$(hostname -I | awk '{print $1}'):3000"
 
         SHELL
       end
     end
+
   end

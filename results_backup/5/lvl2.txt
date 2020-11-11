@@ -1,0 +1,137 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Software+Validation"+OR+"Software+Verification"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Case+Study"+OR+"Case+Studies"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Case+Study"+OR+"Case+Studies"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Automation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Software+Validation"+OR+"Software+Verification"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Concurrent+Engineering"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Validation"+OR+"Software+Verification"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Case+Study"+OR+"Case+Studies"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Factory"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Software+Validation"+OR+"Software+Verification"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Concurrent+Engineering"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Factory"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"Case+Study"+OR+"Case+Studies"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+OR+"Case+Studies"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Automation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Case+Study"+OR+"Case+Studies"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+OR+"Case+Studies"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Concurrent+Engineering"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Software+Validation"+OR+"Software+Verification"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Concurrent+Engineering"+"Factory"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Automation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Formal+methods"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Factory"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Factory"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Concurrent+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Concurrent+Engineering"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Formal+methods"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation"+"Medical"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"Regulated+Domain" 8
+
+     Combinations with "Continuous"
+
+     Combinations with "Regulated+Domain"
+         "Regulated+Domain"+"DevOps" 8
+
+     Combinations with "Regulated+Environment"
+         "Regulated+Environment"+"Hardware+simulation" 3
+
+     Combinations with "FDA+Requirement"
+
+     Combinations with "Software+Validation"+OR+"Software+Verification"
+         "Software+Validation"+OR+"Software+Verification"+"Regulated+Domain" 9
+
+     Combinations with "Case+Study"+OR+"Case+Studies"
+
+     Combinations with "Traceability"
+
+     Combinations with "Hardware+simulation"
+
+     Combinations with "Testing"
+
+     Combinations with "Medical"
+
+     Combinations with "PLC"+OR+"FPGA"
+
+     Combinations with "Automation"
+
+     Combinations with "Factory"
+
+     Combinations with "Best+practice"+OR+"General+guidelines"
+
+     Combinations with "Formal+methods"
+
+     Combinations with "Concurrent+Engineering"
+
+     Combinations with "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+

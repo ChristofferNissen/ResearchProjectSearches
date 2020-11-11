@@ -6,9 +6,9 @@ services:
       build: ./
       image: stifstof/consolidator:latest
       container_name: consolidator_container
-      restart: on-failure
-      network_mode: host
+      # restart: on-failure
+      # network_mode: host
       env_file:
         - ../envfile.env
       volumes:
-        - /home/cn/Documents/git/ResearchProjectSearches/results:/results
+        - /home/cn/Documents/git/ResearchProjectSearches/results_backup:/output
