@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Simulation platform for multi agent based manufacturing control system based on the hybrid agent
+     Author ['A Shaygan', 'RV Barenji']
+     Venue arXiv preprint arXiv:1603.07766
+     Year 2016
+     Abstract The hardware simulation platform (HSP), as mentioned before, defines the tangible actions taking place  MAST: manufacturing agent simulation tool," in Emerging Technologies and Factory Automation, 2003  [12] AV Barenji, "An RFID-based distributed control system for flexible
+     Url https://arxiv.org/abs/1603.07766
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Experience and Lessons in Building an ICS Security Testbed
+     Author ['Y Tao', 'W Xu', 'H Li', 'S Ji']
+     Venue 2019 1st International Conference on …
+     Year 2019
+     Abstract guide to industrial control systems (ics) security: Supervisory control and data acquisition (scada) systems, distributed control systems (dcs), and other control system configurations such  [11] J. Weiss, ”Assuring industrial control system (ICS) cyber security,” Center for
+     Url https://ieeexplore.ieee.org/abstract/document/8850804/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Hardware-in-the-loop Simulation Framework
+     Author ['MAA Sanvido']
+     Venue NA
+     Year 2002
+     Abstract Not forgetting all their advice and helpful hints. I would like to thank all the people at the Institute for Computer Systems - ICS - and at the Automatic Control Laboratory - IfA - for their friendship, support and fruitful discussions
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/146111/1/eth-25054-01.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Computer-aided simulation of production in the sewing room of a clothing factory
+     Author ['TCS Cocks', 'SC Harlock']
+     Venue Journal of the Textile Institute
+     Year 1989
+     Abstract (The continuous simulation would be used where there was no obvious starting or ending point, such as in a chemical- liquid factory, where the product is being made  2 Scroll display 3 Display reports 4 Change model parameters 5 Switch graph ics off 6 Printcurrentdiaplay 7
+     Url https://www.tandfonline.com/doi/pdf/10.1080/00405008908658298
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract a large multi- user distributed simulation system in a laboratory for R&D and factory testing of  Global control systems based on Phase Measurement Units and SCADA systems can also be analyzed  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Method for generating a petri net simulation model of an industrial control system
+     Author ['M Ndiaye', 'J Camerini', 'J Petin']
+     Venue US Patent App. 15 …
+     Year 2017
+     Abstract If a particular family is not present in the industrial control system no components thereof will be present in the  Which allows simulation of the ICS-model to be performed  These packet generators of all instantiated components (such as the Network, PLCs, SCADA clients and/or
+     Url https://patents.google.com/patent/US20170316129A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title REAL‐TIME MONITORING OF SCADA BASED CONTROL SYSTEM FOR FILLING PROCESS
+     Author ['AK Soe', 'AN Myint', 'MM Latt', 'Theingi']
+     Venue AIP Conference Proceedings
+     Year 2008
+     Abstract For the small factory, it is the monitoring system using Visual Basic.Net programming  components like real devices), Data mode (List of facts of SCADA system for  It writes - frmSimulation. ShowDialog( ) And the hardware simulation (btHardware) for linking the filling icon process
+     Url https://aip.scitation.org/doi/abs/10.1063/1.3008669
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Position paper: Safety and security monitoring in ics/scada systems
+     Author ['A Nicholson', 'H Janicke', 'A Cau']
+     Venue … Symposium for ICS & SCADA …
+     Year 2014
+     Abstract Monitoring safety and security properties in industrial control system (ICS) and SCADA environments faces  Factory Manager or alerting the security operations centre (SOC) for the  Position Paper: Safety and Security Monitoring in ICS/SCADA Systems Nicholson • Janicke •
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/ICSCSR2014.8
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Reactive Cyber-Security for Cyber-Physical Production Systems
+     Author ['C Krieg']
+     Venue Doctoral College Cyber-Physical Production Systems
+     Year 2017
+     Abstract The high number of interconnected devices in a Cyber-Physical System (CPS) provides an attractive attack  control systems (ICSs), and supervisory control and data acquisition (SCADA) systems facilitate  Trojan itself will serve as attack vector into the factory, thereby enabling
+     Url https://dc-cpps.tuwien.ac.at/fileadmin/t/cpps/finalreport.pdf#page=20
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Design and realization of simulation testing system
+     Author ['XB Qi', 'DD Liu', 'XX Chen']
+     Venue 2017 2nd IEEE International …
+     Year 2017
+     Abstract a vital role in the train-borne controller simulation testing and factory complete equipment  controller are the functional interfaces and communications are realized via DCS for which  The hardware simulation objects of the simulation testing system include: train IO interface, train
+     Url https://ieeexplore.ieee.org/abstract/document/8056889/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Implementation of Process Simulation for Marine Automation System
+     Author ['M Mononen']
+     Venue NA
+     Year 2020
+     Abstract Symbols and abbreviations Abbreviations AC Automation and Control Solutions Finland DCS Distributed Control System DMAIC Define, Measure, Analyze, Improve, Control FAT Factory Acceptance Test FMEA Failure Mode and Effects Analysis HAT Harbor Acceptance Test
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract were found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation  interviewers had to review written material concerning the different top- ics to better  of real-world systems, such as control of machinery on factory assembly lines
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Investigating the robustness of re-scheduling policies with multi-agent system simulation
+     Author ['M Merdan', 'T Moser', 'P Vrba', 'S Biffl']
+     Venue The International Journal of Advanced …
+     Year 2011
+     Abstract A distributed control system is more robust than a centralized control system as this approach  automation hardware and software architectures, like PLCs, operator panels, and SCADA systems, can be  of machine break downs or modifications to the physical layout of the factory
+     Url https://link.springer.com/article/10.1007/s00170-010-3049-9?null
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Celeritas: a coloured Petri net approach to simulation and control of flexible manufacturing systems
+     Author ['R Cossins', 'P Ferreira']
+     Venue The International Journal Of Production …
+     Year 1992
+     Abstract Manufacturing automation Factory automation was originally utilized in the mass production environment (or transfer line  1988), computer hardware simulation and analysis (Peterson 1981), communication protocol'correctness validation, flexible manufactur- ing systems
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207549208948131
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Study on simulation and testing of FLISR
+     Author ['L Jinsong', 'L Dong', 'L Wangshui']
+     Venue CICED 2010 …
+     Year 2010
+     Abstract [8] proposed schemes of main station factory acceptance test (FAT  Whether FLISR testing is successfully implemented depends on factors like SCADA functions, communication  The simulation testing technologies can be divided into hardware simulation, software simulation and
+     Url https://ieeexplore.ieee.org/abstract/document/5736124/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title REDUNDANT FIRMWARE TEST SETUP IN SIMULATION AND HARDWARE: A FEASIBILITY STUDY
+     Author ['P Ekström', 'E Eriksson']
+     Venue NA
+     Year 2018
+     Abstract If the supply should dry up, then obviously there can be no sales, since the factory will not be  use are ABB and their ABB AbilityTM System 800xA1 series, which is a distributed control system (DCS) and supervisory control- and data acquisition (SCADA) system for
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1224969
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Real-Time Simulation Tools for Transient Stability and Electromagnetic Transients in Power Grids
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Grid RT Tools ICMPES …
+     Year NA
+     Abstract It is used for factory acceptance and system integration tests as well as for R&D and commissioning tests  It can also be used to test new local and wide-area control, SCADA monitoring and control  [7] G. Parma and V. Dinavahi, “Real-time digital hardware simulation of
+     Url https://www.academia.edu/download/31945055/Grid_RT_Tools_ICMPES_2013.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Emerging solutions for challenges in real time simulation of power grids
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Power Engineer …
+     Year 2013
+     Abstract It is used for factory acceptance and system integration tests as well as for R&D  It can also be used to test new local and wide-area control, SCADA monitoring and  CiGRE_Recife2011_p aperfinal.pdf 7. G. Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url http://www.indianjournals.com/ijor.aspx?target=ijor:pej&volume=15&issue=2&article=001
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title 20 Hardware Protection through Logic Obfuscation
+     Author ['J Pathak', 'SL Tripathi']
+     Venue Advanced VLSI Design and Testability …
+     Year 2020
+     Abstract 20.1 INTRODUCTION With the recent burst in technology, the use of integrated circuits (ICs) in various fields has seen a tremendous increase  There are several processes employed for securing ICs against malicious attacks
+     Url https://books.google.com/books?hl=fi&lr=&id=OBn0DwAAQBAJ&oi=fnd&pg=PA339&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Factory%22+%22Hardware+simulation%22&ots=WN2Mupgk0s&sig=G-YMWZN4VkE1mW2OFXgx7XyA5xM
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Modeling, simulation and implementation of a non-coherent binary-frequency-shift-keying (BFSK) receiver-transmitter into a field programmable gate array …
+     Author ['JP Svenningsen']
+     Venue NA
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Partitioning electronic circuit designs into simulation-ready blocks
+     Author ['A Miczo']
+     Venue US Patent 7,761,828
+     Year 2010
+     Abstract 1 . The drawing shows four levels. The top-most level, level 1, shows a printed circuit board (PCB) which is expanded in level 2 to show several ICs that are mounted on the PCB, and interconnected by metal runs embedded in the PCB
+     Url https://patents.google.com/patent/US7761828B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Řízení a vizualizace pro systém se speciálním pneumatickým pohonem
+     Author ['Y Hu']
+     Venue NA
+     Year 2018
+     Abstract The whole process includes actuator sequential design, simulation design with GRAFCET language, PLC programming, hardware connection, communication establishment, and SCADA visualization design  SCADA software. Page 6. IV LIST OF CONTENTS
+     Url https://dspace.cvut.cz/handle/10467/77361
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Embedded Computing Systems and Hardware/Software Co-Design
+     Author ['WK Chen']
+     Venue Design Automation, Languages, and Simulations
+     Year 2003
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Runtime-monitoring for industrial control systems
+     Author ['H Janicke', 'A Nicholson', 'S Webber', 'A Cau']
+     Venue Electronics
+     Year 2015
+     Abstract paper expands on an earlier position paper presented at the International Symposium for Industrial Control System and SCADA  As ICS are today relying on general purpose operating systems, such as Windows, and common  Figure 2. Typical SCADA System Architecture [37]
+     Url https://www.mdpi.com/2079-9292/4/4/995
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Cloud-based manufacturing execution system: case study FMS
+     Author ['AV Barenji']
+     Venue International Journal of Industrial and Systems …
+     Year 2018
+     Abstract of the MES in this system can be classified into two groups: factory level and  The hardware simulation simulates the station level and device level of a system, such as station  Barenji, AV and Hashemipour, M. (2014b) 'A multi-agent RFID-enabled distributed control system for a
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJISE.2018.096161
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …
+     Year 2016
+     Abstract Analyzing this type of system in a real factory environment is infeasible, because of the long period of time that would be required for the development of  Hardware simulation agent module: This belongs to the CPN model of the system and is used to analyze the FAL behavior
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Power Electronics Simulation
+     Author ['T Bagnall', 'PJ Wolfs', 'S Senini']
+     Venue NA
+     Year 2001
+     Abstract converters, supplies, transformers, or loads, can also be tested for stability. Trevor Bagnall - Power ElecZror~ics Simulation Page 6 Page 7  Hardware simulation uses per-unit-scaled component values of the real system. A  Due to the increased sophistication of factory
+     Url http://acquire.cqu.edu.au:8080/vital/access/services/Download/cqu:9861/SOURCE1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Little offset in multicycle event maintaining cycle accurate tracing of stop events
+     Author ['M Agarwala', 'B Thome', 'GL Swoboda']
+     Venue US Patent 6,948,155
+     Year 2005
+     Abstract With the increasing use of ICs in the automotive industry, telecommunications, defense systems, and life support systems, thorough testing and extensive real-time  Bit I/O can be used to support factory test and other low bandwidth, non-time-critical emulator/target operations
+     Url https://patents.google.com/patent/US6948155B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Computer-Aided Design of Multi-Agent Cyber-Physical Systems
+     Author ['J Sini', 'M Violante', 'R Dessì']
+     Venue … Technologies and Factory …
+     Year 2018
+     Abstract Figure 2. Flow-chart of the proposed workflow Testing the software components of a multi-agent cyber- physical system is a very challenging task  An environment able to run and log in a real-time manner the physical models. • A real-time hardware simulation device. IV
+     Url https://ieeexplore.ieee.org/abstract/document/8502448/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract CNF Conjunction Normal Form CPS Cyber-physical System COI Cone-of-Influence  THE ROLE OF VERIFICATION to optimizations in the factory processes, the introduction of Cyber-physical Sys- tems (CPSs) enables the access to important data that allow such improvements
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Smart factory automation using internet of things to ensure quality manufacturing
+     Author ['P Pariyumbud', 'R Samkaria']
+     Venue … & Reviews: A …
+     Year 2018
+     Abstract the industries have met with Internet of things (IoT) and cyber-physical system (CPS), it has  Smart Factory Automation using Iot to Ensure Quality Manufacturing  PROTOTYPE DEVELOPMENT Proteus is hardware simulation software provided with a very understandable design
+     Url http://computerjournals.stmjournals.in/index.php/JoESA/article/view/6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Training the Human-in-the-Loop in Industrial Cyber Ranges
+     Author ['S Kucek', 'M Leitner']
+     Venue Digital Transformation in Semiconductor …
+     Year 2018
+     Abstract Scholar. Holm, H., Karresand, M., Vidström, A., Westring, E.: A survey of industrial control system testbeds  Chen, B.: On practical threat scenario testing in an electric power ICS testbed  In: Proceedings of the 4th ACM Workshop on Cyber-Physical System Security, CPSS 2018, pp
+     Url https://link.springer.com/chapter/10.1007/978-3-030-48602-0_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title DESIGN OF MPPT USING INTELLIGENT SYSTEM FOR HYBRID WIND SOLAR PV PLANT
+     Author ['S NASKAR']
+     Venue NA
+     Year 2019
+     Abstract conditions. The entire hybrid system is described given along with comprehensive simulation results that discover the feasibility of the system. A hardware simulation model has been developed on a small scale to demonstrate our ideas. Page 8. ©RCCIIT, DEPT. OF EE Page
+     Url https://www.rcciit.org/students_projects/projects/ee/2019/GR6.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title The 5ESS‐2000 Switch: Exceeding Customer Expectations
+     Author ['HG Holland', 'CP Huang', 'CE Jeschke']
+     Venue AT&T Technical …
+     Year 1994
+     Abstract Improved Hardware Simulation. With the increase in the level of circuit complexity (for example, larger ICS with higher speeds), circuit simulation  Before design-capture began, a team comprised of designers, factory engineers, component engineers, and supply-line specialists
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1994.tb00617.x
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Design method and apparatus for a semiconductor integrated circuit comprising checkers verifying the interface between circuit blocks
+     Author ['M Ito']
+     Venue US Patent 7,107,569
+     Year 2006
+     Abstract values of the block, through the external input/output pin. Thereby, logical ICs with the interface checker function that is more useful in practical use can be produced. After an LSI with the synthesizable interface checker installed
+     Url https://patents.google.com/patent/US7107569B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Modeling standard for distributed control systems: IEC 61499 from industrial automation to aerospace
+     Author ['CC Insaurralde']
+     Venue 2016 IEEE/AIAA 35th Digital Avionics …
+     Year 2016
+     Abstract On the other hand, the IEC 61499 standard [1] and a toolset for Supervisory Control And Data Acquisition (SCADA) [6] are ad hoc technologies to develop DCAs  Simulation results from the DTCS modelled by means of the IEC 61499 have been also shown
+     Url https://ieeexplore.ieee.org/abstract/document/7777980/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Single-platform stimulated simulators (SPSS)
+     Author ['CM White']
+     Venue NA
+     Year 2008
+     Abstract 27 4-5 Factory Link Screen for Simulation  With this method, the control logic is executed in the control equipment, such as a PLC or DCS, and  The main use for the Hardware to Hardware simulation method is during control logi and operator int rface d velopment and upgrading
+     Url http://research.library.mun.ca/id/eprint/9327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA DISSERTATION Approved for public release; distribution is unlimited A SYSTEMATIC SOFTWARE, FIRMWARE, AND HARDWARE CODESIGN METHODOLOGY FOR DIGITAL SIGNAL PROCESSING by
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Energy efficient hardware-software co-synthesis using reconfigurable hardware
+     Author ['J Ou', 'VK Prasanna']
+     Venue NA
+     Year 2009
+     Abstract Page 1. CHAPMAN & HALL/CRC COMPUTER and INFORMATION SCIENCE SERIES Energy Efficient Hardware-Software Co-Synthesis Using Reconfigurable Hardware Jingzhao Ou and Viktor K. Prasanna CRC PreSS Taylor & Francis Group A CHAP MAN & HALL BO OK
+     Url https://books.google.com/books?hl=fi&lr=&id=uaPQyCNAu8gC&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Factory%22+%22Hardware+simulation%22&ots=Wo4ZR3bX14&sig=dg4dEvi3KEpqaAPAxzOpw8wYt1w
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Design and Development of a Programmable Logic Controller Using Atmel Controller and MATLAB Simulink
+     Author ['P Parikh', 'H Singh', 'SK Nadar']
+     Venue 3rd International Conference on …
+     Year 2016
+     Abstract starts with an overview of the history and the role PLCs in factory automation  The core modules of an industrial-control system are examined: the analog input function, analog output  motor control Simulation using the plc prototyping board In this real hardware simulation of the
+     Url https://www.academia.edu/download/51127148/74-78.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Dynamic simulation of chemical process and the use of the simulation models in control room for source reduction and performance improvement
+     Author ['A Singh']
+     Venue NA
+     Year 2004
+     Abstract 25 3.0 The Process Plant Information Flow and Distributed Control System (DCS).... 30 The Plant Information System ..... 30  35 Rapid data recovery..... 35 Distributed Control System (DCS).... 38 Industrial Automation and Dataflow in CPI ..... 40
+     Url http://search.proquest.com/openview/00264e56fa2b38c632b810559fb9b7eb/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Automated testing of industrial automation software: practical receipts and lessons learned
+     Author ['R Ramler', 'W Putschögl', 'D Winkler']
+     Venue … of the 1st International Workshop on …
+     Year 2014
+     Abstract solution passes through many levels of testing before its commissioning; these include: (1) module testing (MT), (2) integration testing (IT), (3) factory ac- ceptance  [17] on automated unit testing for SCADA control software  Machine (Hardware) Simulation (Hardware/Software)
+     Url https://dl.acm.org/doi/abs/10.1145/2593783.2593788
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Construction of a hardware-in-the-loop simulator for Azipod control system testing
+     Author ['M Nylund']
+     Venue NA
+     Year 2016
+     Abstract operator panels Touch screen panels with SCADA ship Vessel moving by own propulsion  In [13] is a HIL simulator created to demonstrate the propeller load characteristics for electrical propulsion. In source [13] they utilized MATLAB for real-time hardware simulation
+     Url https://aaltodoc.aalto.fi/handle/123456789/21628
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Data processing on FPGAs
+     Author ['J Teubner', 'L Woods']
+     Venue Synthesis Lectures on Data …
+     Year 2013
+     Abstract Page 1. CM & MORGAN CLAYPOOL PUBLISHERS & SYNTHESIS LECTURES ON DATA MANAGEMENT M. Tamer Özsu, Series Editor TEUBNER • W OODS DATA P R OCESSING ON FPGAS M O R G A N & C L A Y P O O L Data Processing on FPGAs Jens Teubner
+     Url https://www.morganclaypool.com/doi/abs/10.2200/S00514ED1V01Y201306DTM035
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Flexible measurement point management in an industrial automatic supervision system
+     Author ['L Wang']
+     Venue 2007 IEEE Autotestcon
+     Year 2007
+     Abstract data is an important requirement of today's measurement applications, not only for operators at the factory floor, but also  multimedia timer is introduced into RS232Drv, such that the supervision software automatically communicates with hardware simulation program according
+     Url https://ieeexplore.ieee.org/abstract/document/4374270/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Trends in Functional Programming
+     Author ['Z Horvath', 'V Zsok', 'P Achten', 'P Koopman']
+     Venue NA
+     Year 2010
+     Abstract graphical languages, applications of functional programming in pure mathemat- ics, type theory  Garrin Kimmell, and Andy Gill Types and Type Families for Hardware Simulation and Synthesis: The  184 Micha l Ptaszek and Maciej Malawski Monad Factory: Type-Indexed Monads
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-22941-1.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title FACULTY OF MECHANICAL ENGINEERING
+     Author ['Y HU']
+     Venue NA
+     Year NA
+     Abstract The whole process includes actuator sequential design, simulation design with GRAFCET language, PLC programming, hardware connection, communication establishment, and SCADA visualization design  SCADA software. Page 6. IV LIST OF CONTENTS
+     Url https://core.ac.uk/download/pdf/159311278.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title IC chip at-functional-speed testing with process coverage evaluation
+     Author ['EA Foreman', 'GD Grise', 'PA Habitz', 'V Iyengar']
+     Venue US Patent …
+     Year 2009
+     Abstract It therefore allows adjustment of the chip timing delay formula to the specific IC chip 130. Collecting in-line data 134 over a wider range of IC chips manufactured also allows determining of a statistical distribution for the factory manufacturing these IC chips
+     Url https://patents.google.com/patent/US7620921B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Fast Data Collection: Event Building for a Particle Physics Detector; Prototypes and Simulation
+     Author ['T Ladzinski']
+     Venue NA
+     Year 1999
+     Abstract Page 1. POLITECHNIKA WARSZAWSKA WYDZIAL ELEKTRONIKI I TECHNIK INFORMACYJNYCH ROZPRAWA DOKTORSKA mgr ini. Tomasz Ladziinski Fast Data Collection: Event Building for a Particle Physics Detector; Prototypes and 'Simulation
+     Url https://cds.cern.ch/record/468149/files/CM-P00068845.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Hardware+simulation"
+     Title Implementation of Advanced Controller Based on Industrial Systems
+     Author ['AAF Alrhaman']
+     Venue NA
+     Year 2018
+     Abstract 2.4 Distributed control system (DCS) A Distributed Control System is an integrated set of modules with distributed functions  External connections • A DCS, throughout the whole system, must provide  In a traditional industrial control system, all control devices are wired directly
+     Url http://repos.ust.edu.sd:8080/xmlui/handle/123456789/307
+

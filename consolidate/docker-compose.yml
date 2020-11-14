@@ -11,4 +11,4 @@ services:
       env_file:
         - ../envfile.env
       volumes:
-        - /home/cn/Documents/git/ResearchProjectSearches/results_backup:/output
+        - /home/cn/Documents/git/ResearchProjectSearches/results:/output

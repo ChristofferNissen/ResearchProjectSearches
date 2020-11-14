@@ -1,0 +1,451 @@
+Showing papers for search query "Testing"+"Automation"
+
+     Search term "Testing"+"Automation"
+     Title Empirical observations on software testing automation
+     Author ['K Karhu', 'T Repo', 'O Taipale']
+     Venue … on Software Testing …
+     Year 2009
+     Abstract This study explores the factors that affect the use of software testing automation in different types of organizations. A case study was conducted in five organizations that develop and test technical software for the automation or telecommunication domains. The data was
+     Url https://ieeexplore.ieee.org/abstract/document/4815352/
+
+
+     Search term "Testing"+"Automation"
+     Title Software testing automation framework
+     Author ['LI Apostoloiu', 'X Chen', 'RS Harvey', 'YW Lee']
+     Venue US Patent …
+     Year 2014
+     Abstract Embodiments of the present invention address deficiencies of the art in respect to software test automation and provide a method, system and apparatus for a reusable software testing framework. In one embodiment of the invention, an automated application test data
+     Url https://patents.google.com/patent/US8914679B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title Software-testing automation system
+     Author ['SA Keller', 'AM Scheidegger']
+     Venue US Patent 6,662,312
+     Year 2003
+     Abstract A software-testing automation system for tests a plurality of deployed images that are spread across multiple software platforms. Each deployed image includes a test component configured to accept a connection on a known testing port, and the test component for a
+     Url https://patents.google.com/patent/US6662312B1/en
+
+
+     Search term "Testing"+"Automation"
+     Title Effective GUI testing automation: Developing an automated GUI testing tool
+     Author ['K Li', 'M Wu']
+     Venue NA
+     Year 2006
+     Abstract Have you tried using an" automated" GUI testing tool, only to find that you spent most of your time configuring, adjusting, and directing it? This book presents a sensible and highly effective alternative: it teaches you to build and use your own truly automated tool. The
+     Url https://books.google.com/books?hl=ru&lr=&id=2LZ99kBIwKYC&oi=fnd&pg=PR2&dq=%22Testing%22+%22Automation%22&ots=lC4cgaWTze&sig=NJReL7Cf7AXEf0ERi2irXoCa6Q0
+
+
+     Search term "Testing"+"Automation"
+     Title The software testing automation framework
+     Author ['C Rankin']
+     Venue IBM Systems Journal
+     Year 2002
+     Abstract Software testing is an integral, costly, and time-consuming activity in the software development life cycle. As is true for software development in general, reuse of common artifacts can provide a significant gain in productivity. In addition, because testing involves
+     Url https://ieeexplore.ieee.org/abstract/document/5386909/
+
+
+     Search term "Testing"+"Automation"
+     Title Integrating techniques and tools for testing automation
+     Author ['M Polo', 'S Tendero', 'M Piattini']
+     Venue Software Testing, Verification …
+     Year 2007
+     Abstract This article presents two tools to generate test cases, one for Java programs and one for. NET programs, as well as a structured testing process whereby such tools can be used in order to help in process automation. The main innovation in this work is the joint use of
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.348
+
+
+     Search term "Testing"+"Automation"
+     Title End to end testing automation and parallel test execution
+     Author ['RK Gupta', 'SK Janumahanthi', 'M Nagesh']
+     Venue US Patent …
+     Year 2015
+     Abstract Provisioning and/or configuring machines (real and/or virtual) for multiple parallel execution of multiple test cases. The test cases correspond to different software configurations (such as different platform version and product version configurations) and are executed at
+     Url https://patents.google.com/patent/US9032373B1/en
+
+
+     Search term "Testing"+"Automation"
+     Title Strategies for agile software testing automation: An industrial experience
+     Author ['E Collins', 'A Dias-Neto']
+     Venue 2012 IEEE 36th Annual …
+     Year 2012
+     Abstract Testing Automation has been growing in software engineering. Many organizations are investing in automated testing in order to prevent defects and increase testing effectiveness during software development. In agile methodologies, this task is considered an important
+     Url https://ieeexplore.ieee.org/abstract/document/6341616/
+
+
+     Search term "Testing"+"Automation"
+     Title One evaluation of model-based testing and its automation
+     Author ['A Pretschner', 'W Prenninger', 'S Wagner']
+     Venue Proceedings of the 27th …
+     Year 2005
+     Abstract Model-based testing relies on behavior models for the generation of model traces: input and expected output---test cases---for an implementation. We use the case study of an automotive network controller to assess different test suites in terms of error detection, model
+     Url https://dl.acm.org/doi/abs/10.1145/1062455.1062529
+
+
+     Search term "Testing"+"Automation"
+     Title Mobile application testing—Challenges and solution approach through automation
+     Author ['B Kirubakaran', 'V Karthikeyani']
+     Venue 2013 International Conference …
+     Year 2013
+     Abstract By the time this paper has been presented, the mobile app landscape will have changed. New OS versions will have been released. A bunch of new devices will have hit the market. And mobile application testing will have become that much more complex and challenging
+     Url https://ieeexplore.ieee.org/abstract/document/6496451/
+
+
+     Search term "Testing"+"Automation"
+     Title Economic perspectives in test automation: balancing automated and manual testing with opportunity cost
+     Author ['R Ramler', 'K Wolfmaier']
+     Venue … the 2006 international workshop on Automation …
+     Year 2006
+     Abstract Testing is a major cost factor in software development. Test automation has been proposed as one solution to reduce these costs. Test automation tools promise to increase the number of tests they run and the frequency at which they run them. So why not automate every test
+     Url https://dl.acm.org/doi/abs/10.1145/1138929.1138946
+
+
+     Search term "Testing"+"Automation"
+     Title Automation of GUI testing using a model-driven approach
+     Author ['M Vieira', 'J Leduc', 'B Hasling', 'R Subramanyan']
+     Venue … on Automation of …
+     Year 2006
+     Abstract This paper describes an ongoing research on test case generation based on Unified Modeling Language (UML). The described approach builds on and combines existing techniques for data and graph coverage. It first uses the Category-Partition method to
+     Url https://dl.acm.org/doi/abs/10.1145/1138929.1138932
+
+
+     Search term "Testing"+"Automation"
+     Title Software test automation
+     Author ['M Fewster', 'D Graham']
+     Venue NA
+     Year 1999
+     Abstract ISBN 0-201-33140-3 (pbk. : alk. paper) 1. Computer software-Testing-Automation. I. Graham, Dorothy, 1944- . II. Title. QA76.76.T48F49 1999 005. l'4-dc21 99-35578 CIP  3 1.1 Introduction 3 1.2 Testing and test automation are different 4 1.3 The V-model 6
+     Url https://www.academia.edu/download/54117747/Software_Test_Automation.pdf
+
+
+     Search term "Testing"+"Automation"
+     Title Just enough software test automation
+     Author ['DJ Mosley', 'BA Posey']
+     Venue NA
+     Year 2002
+     Abstract ISBN 0-13-008468-9 (paper) 1. Computer software—Testing—Automation. I. Posey, Bruce A. II. Title  It is also not an introduc- tory book on software testing automation. If you are reading this book, we,ll assume you have some level of previous experience with test automation
+     Url https://books.google.com/books?hl=ru&lr=&id=PEBvfWESIt4C&oi=fnd&pg=PR15&dq=%22Testing%22+%22Automation%22&ots=xJp-SGsn5Q&sig=dF_DhZGT7RTaez_MyZcDQa4hw_Y
+
+
+     Search term "Testing"+"Automation"
+     Title The oracle problem in software testing: A survey
+     Author ['ET Barr', 'M Harman', 'P McMinn']
+     Venue IEEE transactions on …
+     Year 2014
+     Abstract comparatively less well- solved. This current open problem represents a significant bottleneck that inhibits greater test automation and uptake of automated testing methods and tools more widely. For instance, the problem of
+     Url https://ieeexplore.ieee.org/abstract/document/6963470/
+
+
+     Search term "Testing"+"Automation"
+     Title Simulation-based interface testing automation system and method for robot software components
+     Author ['HS Park', 'JS Kang', 'HS Choi', 'SW Meng']
+     Venue US Patent …
+     Year 2013
+     Abstract A testing tool for verifying a reliability of robot software components is provided, and more particularly, a simulation-based interface testing automation system and method that may automatically perform a test for functions and performance of an interface with respect to
+     Url https://patents.google.com/patent/US8601436B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title Levels of automation and user participation in usability testing
+     Author ['KL Norman', 'E Panizzi']
+     Venue Interacting with computers
+     Year 2006
+     Abstract This paper identifies a number of factors involved in current practices of usability testing and presents profiles for three prototype methods: think-aloud, subjective ratings, and history files. We then identify ideal levels to generate the profile for new methods. These methods
+     Url https://academic.oup.com/iwc/article-abstract/18/2/246/743597
+
+
+     Search term "Testing"+"Automation"
+     Title Environment behavior models for scenario generation and testing automation
+     Author ['M Auguston', 'JB Michael', 'MT Shing']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract This paper suggests an approach to automatic scenario generation from environment models for testing of real-time reactive systems. The behavior of the system is defined as a set of events (event trace) with two basic relations: precedence and inclusion. The attributed
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083284
+
+
+     Search term "Testing"+"Automation"
+     Title Web based automation testing and tools
+     Author ['M Sharma', 'R Angmo']
+     Venue … Journal of Computer Science and Information …
+     Year 2014
+     Abstract Software testing is an essential phase of software development life cycle. Today many software applications are written as web based application that runs in an Internet Browser. The economic relevance of web based application increases the importance of controlling
+     Url https://www.academia.edu/download/55570501/WEB_BASED_AUTOMATION_TESTING_AND_TOOLS.pdf
+
+
+     Search term "Testing"+"Automation"
+     Title Experiences of test automation: case studies of software test automation
+     Author ['D Graham', 'M Fewster']
+     Venue NA
+     Year 2012
+     Abstract paper) 1. Computer software—Testing—Automation—Case studies  2 Automating Around the Testing, Not Automating the Testing 360 19.3 Automation to Support Manual Exploratory Testing 362 19.4 Automating Data Interactions 364 19.5 Automation and Monitoring 368 19.5
+     Url https://books.google.com/books?hl=ru&lr=&id=62pUzABIZSwC&oi=fnd&pg=PR9&dq=%22Testing%22+%22Automation%22&ots=VLzDIorz1F&sig=GIwL54uVD1s33Ozb_9LCAkERhM8
+
+
+     Search term "Testing"+"Automation"
+     Title Software testing of mobile applications: Challenges and future research directions
+     Author ['H Muccini', 'A Di Francesco']
+     Venue … Workshop on Automation …
+     Year 2012
+     Abstract While mobile applications are becoming so extraordinarily adopted, it is still unclear if they deserve any specific testing approach for their verification and validation. This paper wants to investigate new research directions on mobile applications testing automation, by
+     Url https://ieeexplore.ieee.org/abstract/document/6228987/
+
+
+     Search term "Testing"+"Automation"
+     Title Systems and methods for table driven automation testing of software programs
+     Author ['JS Schaefer']
+     Venue US Patent 6,993,748
+     Year 2006
+     Abstract A table driven test automation system for performing functional testing of a software program. The system may include a GUI translator component to translate one or more GUI maps into a set of database tables, a data input component to facilitate entry and editing of test case
+     Url https://patents.google.com/patent/US6993748B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title Analysis and design of selenium webdriver automation testing framework
+     Author ['S Gojare', 'R Joshi', 'D Gaigaware']
+     Venue Procedia Computer Science
+     Year 2015
+     Abstract Nowadays, number of software system has been implemented as web-based applications. These web applications are very complex. It is very difficult to test such complex web applications. Automation testing uses automation tools to reduce human intervention and
+     Url https://www.sciencedirect.com/science/article/pii/S1877050915005396
+
+
+     Search term "Testing"+"Automation"
+     Title A complete automation of unit testing for Java programs
+     Author ['Y Cheon', 'MY Kim', 'A Perumandla']
+     Venue NA
+     Year 2005
+     Abstract Program testing is expensive and labor-intensive, often consuming more than half of the total development costs, and yet it is frequently not done well and the results are not always satisfactory. However, testing is the primary method to ensure that programs comply with
+     Url https://scholarworks.utep.edu/cs_techrep/234/
+
+
+     Search term "Testing"+"Automation"
+     Title Software test automation in practice: empirical observations
+     Author ['J Kasurinen', 'O Taipale', 'K Smolander']
+     Venue Advances in Software …
+     Year 2010
+     Abstract However, there seems to be a lack of studies that investigate and compare the practice of software testing automation in different kinds of software development organizations  4. Testing and Test Automation in Surveyed Organizations 4.1
+     Url https://www.hindawi.com/archive/2010/620836/abs/
+
+
+     Search term "Testing"+"Automation"
+     Title Quantitative analysis of automation and manual testing
+     Author ['RM Sharma']
+     Venue International journal of engineering and innovative …
+     Year 2014
+     Abstract Testing is a major activity in software development process to find the defect in the software. Testing can be conducted manually as well as automated. Various types of metrics are collected during software development process and software testing process. These metrics
+     Url https://www.imvcportal.com.au/uploads/study_material/1504593504IJEIT1412201407$%23@_46.pdf
+
+
+     Search term "Testing"+"Automation"
+     Title Automation structure for software verification testing
+     Author ['J Acosta', 'J Hartje', 'A Levi', 'N Emejulu']
+     Venue US Patent App. 11/226,959
+     Year 2007
+     Abstract Functional testing of application software through exercising graphical user interface functions of the application software is automated and enhanced by providing one or more test data sets, one or more classes of panels in which each panel is described according to
+     Url https://patents.google.com/patent/US20070061625A1/en
+
+
+     Search term "Testing"+"Automation"
+     Title Method for screening of solid dispersion formulations of low-solubility compounds—miniaturization and automation of solvent casting and dissolution testing
+     Author ['A Shanbhag', 'S Rabel', 'E Nauka', 'G Casadevall']
+     Venue International journal of …
+     Year 2008
+     Abstract An efficient method has been developed for screening solid dispersion formulations that are intended to enhance the dissolution of poorly soluble compounds. The method is based on miniaturization and automation of sample preparation by solvent casting, and dissolution
+     Url https://www.sciencedirect.com/science/article/pii/S0378517307008228
+
+
+     Search term "Testing"+"Automation"
+     Title Robotic testing of mobile apps for truly black-box automation
+     Author ['K Mao', 'M Harman', 'Y Jia']
+     Venue IEEE Software
+     Year 2017
+     Abstract Robots are widely used for many repetitive tasks. Why not software testing? Robotic testing could give testers a new form of testing that's inherently more black-box than anything witnessed previously. Toward that end, researchers developed Axiz, a robotic-test generator
+     Url https://ieeexplore.ieee.org/abstract/document/7888396/
+
+
+     Search term "Testing"+"Automation"
+     Title Agile testing concepts based on keyword-driven testing for industrial automation systems
+     Author ['R Hametner', 'D Winkler', 'A Zoitl']
+     Venue IECON 2012-38th Annual …
+     Year 2012
+     Abstract In the field of industrial automation systems software becomes an important factor because engineers tend to move the realization of functional requirements from hardware to software components. The main reason for this is that software components allow increasing product
+     Url https://ieeexplore.ieee.org/abstract/document/6389298/
+
+
+     Search term "Testing"+"Automation"
+     Title Model-based testing with a general purpose keyword-driven test automation framework
+     Author ['T Pajunen', 'T Takala', 'M Katara']
+     Venue … on Software Testing …
+     Year 2011
+     Abstract Model-based testing (MBT) is a relatively new approach to software testing that extends test automation from test execution to test design using automatic test generation from models. The effective use of the new approach requires new skills and knowledge, such as test
+     Url https://ieeexplore.ieee.org/abstract/document/5954415/
+
+
+     Search term "Testing"+"Automation"
+     Title Graphic user interface modelling and testing automation
+     Author ['X Yang']
+     Venue NA
+     Year 2011
+     Abstract A Graphical User Interface (GUI) is the most widely used method whereby information systems interact with users. According to ACM Computing Surveys, on average, more than 45% of software code in a software application is dedicated to the GUI. However, GUI testing
+     Url http://vuir.vu.edu.au/16066/1/Xuebing_Yang_PhD_thesis,_May_2011.pdf
+
+
+     Search term "Testing"+"Automation"
+     Title Research on software testing techniques and software automation testing tools
+     Author ['K Sneha', 'GM Malle']
+     Venue 2017 International Conference on Energy …
+     Year 2017
+     Abstract Software Testing is a process, which involves, executing of a software program/application and finding all errors or bugs in that program/application so that the result will be a defect-free software. Quality of any software can only be known through means of testing (software
+     Url https://ieeexplore.ieee.org/abstract/document/8389562/
+
+
+     Search term "Testing"+"Automation"
+     Title Review of model-based testing approaches in production automation and adjacent domains-current challenges and research gaps
+     Author ['S Rösch', 'S Ulewicz', 'J Provost']
+     Venue Journal of Software …
+     Year 2015
+     Abstract As systems have been and are becoming more and more complex, the task of quality assurance is increasingly challenging. Model-based testing is a research field addressing this challenge and many approaches have been suggested for different applications. The
+     Url https://mediatum.ub.tum.de/doc/1345784/file.pdf
+
+
+     Search term "Testing"+"Automation"
+     Title Sensitive data protection during user interface automation testing systems and methods
+     Author ['J Wu', 'J Han']
+     Venue US Patent 9,152,812
+     Year 2015
+     Abstract There is provided systems and method for sensitive data protection during user interface automation testing. A user may transmit sensitive data to the test website framework, where the sensitive data is encrypted as a data key. The encrypted data key is set by an
+     Url https://patents.google.com/patent/US9152812B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Testing"+"Automation"
+     Title Automated Software Testing: Introduction, Management, and Performance: Introduction, Management, and Performance
+     Author ['E Dustin', 'J Rashka', 'J Paul']
+     Venue NA
+     Year 1999
+     Abstract Automated software testing : introduction, management, and performance / Elfriede Dustin, Jeff Rashka, John Paul. p. cm. Includes bibliographical references. ISBN 0-201-43287-0 1. Computer software—Testing—Automation. I. Rashka, Jeff. II. Paul, John, 1968– . III. Title
+     Url https://books.google.com/books?hl=ru&lr=&id=kl2H0G6EFf0C&oi=fnd&pg=PR5&dq=%22Testing%22+%22Automation%22&ots=wQSRuWoCpZ&sig=z2owno1HcvhW-FbZeNtspJ35LRw
+
+
+     Search term "Testing"+"Automation"
+     Title Benefits and limitations of automated software testing: Systematic literature review and practitioner survey
+     Author ['DM Rafi', 'KRK Moses', 'K Petersen']
+     Venue … on Automation of …
+     Year 2012
+     Abstract There is a documented gap between academic and practitioner views on software testing. This paper tries to close the gap by investigating both views regarding the benefits and limits of test automation. The academic views are studied with a systematic literature review while
+     Url https://ieeexplore.ieee.org/abstract/document/6228988/
+
+
+     Search term "Testing"+"Automation"
+     Title Implementing an effective test automation framework
+     Author ['EH Kim', 'JC Na', 'SM Ryoo']
+     Venue 2009 33rd Annual IEEE …
+     Year 2009
+     Abstract Testing automation tools enable developers and/or testers to easily automate the entire process of testing in software development  [3] “Software Testing Automation Framework (STAF)”, http://staf.sourceforge.net
+     Url https://ieeexplore.ieee.org/abstract/document/5254082/
+
+
+     Search term "Testing"+"Automation"
+     Title Automation of psychological testing.
+     Author ['DL Elwood']
+     Venue American Psychologist
+     Year 1969
+     Abstract Programed the WAIS for automated administration to illustrate the usefulness of automated systems in providing psychological testing service to patients. The system can automatically administer the Block Design, Picture Arrangement, and Object Assembly subtests, measure
+     Url https://psycnet.apa.org/record/1970-03011-001
+
+
+     Search term "Testing"+"Automation"
+     Title Automation of testing for user interface applications
+     Author ['H Demant', 'S Droll', 'J Fitzer', 'I Grammatikakis']
+     Venue US Patent …
+     Year 2013
+     Abstract A host software application implementing business processes and providing a graphical display associated with a user interface (UI) for a user in a client program executing on a client frontend device that is separate from a backend device storing metadata associated
+     Url https://patents.google.com/patent/US8589883B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title Antifungal susceptibility testing of yeasts: evaluation of technical variables for test automation.
+     Author ['FC Odds', 'L Vranckx']
+     Venue Antimicrobial Agents and …
+     Year 1995
+     Abstract The technical parameters for antifungal susceptibility testing with Candida species were reexamined to determine the optimal conditions for testing with semiautomated preparations of broth microdilution cultures, automated spectrophotometric readings of the cultures, and
+     Url https://aac.asm.org/content/39/9/2051.short
+
+
+     Search term "Testing"+"Automation"
+     Title Testing functional correctness and idempotence of software automation scripts
+     Author ['T Eilam', 'W Hummer', 'FA Oliveira']
+     Venue US Patent 9,317,410
+     Year 2016
+     Abstract Various embodiments automatically test software automation scripts. In one embodiment, at least one software automation script is obtained. The software automation script is configured to automatically place a computing system into a target state. A plurality of test
+     Url https://patents.google.com/patent/US9317410B2/en
+
+
+     Search term "Testing"+"Automation"
+     Title Test automation
+     Author ['M Polo', 'P Reales', 'M Piattini', 'C Ebert']
+     Venue IEEE software
+     Year 2013
+     Abstract Because we know that testing is important and cannot simply be cut out, test automation plays a key role  4. M. Polo, M. Piattini, and S. Tendero, “In- tegrating Techniques and Tools for Testing Automation,” Software Testing, Verification and Reliability, vol. 17, no. 1, 2007, pp
+     Url https://ieeexplore.ieee.org/abstract/document/6401116/
+
+
+     Search term "Testing"+"Automation"
+     Title A case study in branch testing automation
+     Author ['A Bertolino', 'R Mirandola', 'E Peciola']
+     Venue Journal of Systems and Software
+     Year 1997
+     Abstract We present a case study for the empirical validation of the usefulness of two recent research results aimed at improving the branch testing process. The results considered consist of (i) a method for the automatic generation of test paths, and (ii) a bound on the number of tests
+     Url https://www.sciencedirect.com/science/article/pii/S0164121297000617
+
+
+     Search term "Testing"+"Automation"
+     Title Automation component aspects for efficient unit testing
+     Author ['D Winkler', 'R Hametner', 'S Biffl']
+     Venue … & Factory Automation
+     Year 2009
+     Abstract Automation systems software must provide sufficient diagnosis information for testing to enable early defect detection and quality measurement. However, in many automation systems the aspects of automation, testing, and diagnosis are intertwined in the code. This
+     Url https://ieeexplore.ieee.org/abstract/document/5347022/
+
+
+     Search term "Testing"+"Automation"
+     Title User guided automation for testing mobile apps
+     Author ['X Li', 'Y Jiang', 'Y Liu', 'C Xu', 'X Ma']
+     Venue 2014 21st Asia-Pacific …
+     Year 2014
+     Abstract Mobile devices are gradually taking over traditional computers' dominance in human lives. With the ever-increasing shipment of mobile apps running on these devices, their quality issues become a severe challenge. Although automated testing techniques are being widely
+     Url https://ieeexplore.ieee.org/abstract/document/7091287/
+
+
+     Search term "Testing"+"Automation"
+     Title An integrated test automation framework for testing on heterogeneous mobile platforms
+     Author ['H Song', 'S Ryoo', 'JH Kim']
+     Venue 2011 First ACIS International …
+     Year 2011
+     Abstract Implementation of mobile application should be tested on the mobile platform. Since there are several mobile platforms compete in the marketplace, a lot of effort is needed to test the implementations on every platform. This research aims to develop an integrated test
+     Url https://ieeexplore.ieee.org/abstract/document/6150017/
+
+
+     Search term "Testing"+"Automation"
+     Title Systematic automation of scenario-based testing of user interfaces
+     Author ['JC Campos', 'C Fayollas', 'C Martinie', 'D Navarre']
+     Venue Proceedings of the 8th …
+     Year 2016
+     Abstract Ensuring the effectiveness factor of usability consists in ensuring that the application allows users to reach their goals and perform their tasks. One of the few means for reaching this goal relies on task analysis and proving the compatibility between the interactive application
+     Url https://dl.acm.org/doi/abs/10.1145/2933242.2948735
+
+
+     Search term "Testing"+"Automation"
+     Title Automation in indirect immunofluorescence testing: a new step in the evolution of the autoimmunology laboratory
+     Author ['R Tozzoli', 'A Antico', 'B Porcelli', 'D Bassetti']
+     Venue Autoimmunity Highlights
+     Year 2012
+     Abstract Indirect immunofluorescence (IIF) plays an important role in immunological and immunometric assays for detecting and measuring autoantibodies. This technology was the first multiplex method used to detect cardinal autoantibodies for the diagnosis of
+     Url https://link.springer.com/article/10.1007/s13317-012-0035-2
+

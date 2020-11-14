@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Continuous"+"Hardware+simulation"
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware-in-the-loop simulation of power electronic systems using adaptive discretization
+     Author ['MOO Faruque', 'V Dinavahi']
+     Venue IEEE transactions on industrial …
+     Year 2009
+     Abstract The voltage source converter (VSC) based HVDC sys- tem is used as a case study. Two  paramount. Therefore, the method used to discretize the continuous-time system model is a key factor influencing simulation accuracy
+     Url https://ieeexplore.ieee.org/abstract/document/5340670/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract high chopper frequency of the emulation part would be useful to impose a continuous current idcm  Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  real-time hardware-in-the- loop simulation for rail vehicles: A case study”, EPE'97
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Speeding Up Simulation by Emulation-A Case Study
+     Author ['C Fritsch', 'J Haufe', 'T Berndt']
+     Venue Proceedings User's Forum
+     Year 1999
+     Abstract This paper describes as a case study how parts of the ASIC design can be executed on an ASIC  For hardware simulation, we use Viewlogic's FusionHDL  The testbench generates stimuli modelling a continuous data stream where the data changes at every module clock cycle
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2466&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title PHEVs charging stations, communications, and control simulation in real time
+     Author ['L Herrera', 'R Murawski', 'F Guo', 'E Inoa']
+     Venue 2011 IEEE Vehicle …
+     Year 2011
+     Abstract have been developed, most focus on one aspect in modeling, either continuous (power electronics  In section V, a case study is shown to demonstrate the capabilities of the current  OPNET that can bridge the OPNET network simulation with the hardware simulation described in
+     Url https://ieeexplore.ieee.org/abstract/document/6043167/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract (a) Typical PWM and current signals (Continuous Current Conduction)  The paper reported the development of a case study for creating a HIL simulation environment for power elec- tronic systems  [4] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Volume rendering multivariate data to visualize meteorological simulations: a case study.
+     Author ['J Kniss', 'CD Hansen', 'M Grenier', 'T Robinson']
+     Venue VisSym
+     Year 2002
+     Abstract This case study applies the ideas and techniques from multi-dimensional transfer function based volume rendering to the multivariate weather  Classic warm frontal weather consists of continuous rain, with possibly some embedded convec- tion, while cold fronts tend to produce
+     Url https://www.researchgate.net/profile/Joe_Kniss/publication/262237652_Volume_rendering_multivariate_data_to_visualize_meteorological_simulations_a_case_study/links/552c55b10cf21acb0920c793/Volume-rendering-multivariate-data-to-visualize-meteorological-simulations-a-case-study.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract Page 1. 0278-0046 (c) 2015 IEEE. Personal use is permitted, but republication/ redistribution requires IEEE permission. See http://www.ieee.org/ publications_standards/publications/rights/index.html for more information. This
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A flexible platform for hardware-aware network experiments and a case study on wireless network coding
+     Author ['X Deng', 'Y Yang', 'S Hong']
+     Venue IEEE/ACM Transactions on …
+     Year 2012
+     Abstract The script is interpreted directly by NS-2, and accordingly, NS-2 and SystemC will perform the network and hardware simulation cooperatively  As will be seen in our case study later, multiple processes executed in a single processor can affect the comple- tion time of each
+     Url https://ieeexplore.ieee.org/abstract/document/6179351/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Real time simulation for the study on smart grid
+     Author ['F Guo', 'L Herrera', 'R Murawski', 'E Inoa']
+     Venue 2011 IEEE Energy …
+     Year 2011
+     Abstract This work provides an example of combining discrete and continuous software to study communication  A. Model Description A smart grid model based on case study one is combined  for use with OPNET that bridges the OPNET network simulation with the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6063883/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract Typical power system simulators apply the discrete step to approximate the continuous process, while  Moreover, to verify the proposed platform, a case study of wide area load control  simulation speed, and close practicality; (2) the application of a hardware simulation into the
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract is a (interpolated) function describing the nonlinear saturated region. In order to make sure there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A case study of a versatile generator of repeatable non-Poisson sequences of pseudorandom pulses
+     Author ['DG Maritsas', 'MG Hartley']
+     Venue IEEE Transactions on Computers
+     Year 1970
+     Abstract Applications of the proposed system may be found in the field of hardware simulation techniques and in more efficient arrange  Here, in this paper, a case study is presented  Now ifp « 1, ie, ifh << 1/ax, the discrete time process can be approximated closely bya continuous one [4
+     Url https://ieeexplore.ieee.org/abstract/document/1671393/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hybrid modeling of power electronic system for hardware-in-the-loop application
+     Author ['C Liu', 'R Ma', 'H Bai', 'Z Li', 'F Gechter', 'F Gao']
+     Venue Electric Power Systems …
+     Year 2018
+     Abstract At last, a comparative case study of traction system in the electrical locomotive train is also presented. For this case study, implementations are made on a Field Programmable Gate Arrays (FPGA) Kintex-7 embedded in National Instruments FlexRIO PXIe-7975
+     Url https://www.sciencedirect.com/science/article/pii/S0378779618301913
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract times can cause numerical issues related to discretization of continuous-time dynamics  TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Comprehensive real-time simulation of the smart grid
+     Author ['F Guo', 'L Herrera', 'R Murawski', 'E Inoa']
+     Venue IEEE Transactions …
+     Year 2013
+     Abstract Section IV describes a case study, and Section V illustrates the simulation results  for use with OPNET that bridges the OPNET network simulation with the hardware simulation  When combining the power system (continuous time system) and communication system (discrete
+     Url https://ieeexplore.ieee.org/abstract/document/6413207/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Virtual development on mixed abstraction levels: an agricultural vehicle case study
+     Author ['M Jung', 'S Piao', 'T Purusothaman', 'X Pan']
+     Venue Synopsys Usergroup …
+     Year 2015
+     Abstract Virtual Development on Mixed Abstraction Levels: an Agricultural Vehicle Case Study  Transaction Level Modelling (TLM2.0) IEEE Standard [1]. TLM speeds up hardware simulation  SMASH ​[22], the authors enabled integrated simulation of continuous ​SPICE (Simulation
+     Url https://www.researchgate.net/profile/Matthias_Jung2/publication/306355998_Virtual_Development_on_Mixed_Abstraction_Levels_an_Agricultural_Vehicle_Case_Study/links/57ba135e08aedfe0ec96eb7f.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Software and hardware simulation tools of automatic load-frequency control system
+     Author ['NY Ruban', 'MV Andreev']
+     Venue 2016 2nd International …
+     Year 2016
+     Abstract Software and Hardware Simulation Tools of  amount of simplifications and assumptions related to the need for decomposition of the continuous unified spectrum of  B. Case Study The following results of studies to determine effective settings of automatic emergency control of the
+     Url https://ieeexplore.ieee.org/abstract/document/7910994/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title FPGA-based hardware-in-the-loop for multi-domain simulation
+     Author ['AD Benhamadouche', 'F Djahli', 'A Ballouti']
+     Venue International Journal of …
+     Year 2019
+     Abstract 7. PID structure in continuous-time domain  On the other hand, to test the developed plat- form, a practical case study of a controlled power converter is used, where the  7. Parma GG, Dinavahi V., Real-time digital hardware simulation of power electronics and drives, IEEE Trans
+     Url https://www.worldscientific.com/doi/abs/10.1142/S179396231950020X
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract We apply the same concept towards transparent hardware simulation envi- ronment  like to thank Mr. Miguel Higuera Romero, who implemented the case study presented in  Integrating Discrete Event and Continuous Complex Dynamic Systems, 2 ed. Academic Press, 2000.
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware-based real-time simulation on the raspberry pi
+     Author ['J Walter', 'M Fakih', 'K Grüttner']
+     Venue 2nd. Workshop on …
+     Year 2014
+     Abstract In this paper we present a case study based on a model-based workflow to design a new control unit for electric  Hardware- Simulation Assisted  4. Since digital systems cannot exactly reproduce continuous analog systems, simulation will be divided into discrete time steps [15]
+     Url https://www.researchgate.net/profile/Kim_Gruettner/publication/288670942_Hardware-Based_Real-Time_Simulation_on_the_Raspberry_Pi/links/5683038f08ae051f9aee8d43.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title An iterative real-time nonlinear electromagnetic transient solver on FPGA
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2010
+     Abstract This paper proposes an iterative nonlinear tran- sient solver on a field programmable gate array (FPGA). The parallel solver, based on the compensation method and the Newton-Raphson algorithm (continuous and piece-wise), is en- tirely implemented in VHDL
+     Url https://ieeexplore.ieee.org/abstract/document/5518422/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Behavioral simulation and synthesis of biological neuron systems using synthesizable VHDL
+     Author ['JA Bailey', 'R Wilcock', 'PR Wilson', 'JE Chad']
+     Venue Neurocomputing
+     Year 2011
+     Abstract The locomotion system of the nematode Caenorhabditis elegans is used as a case study and the measured results show that the real time  This approach works on the basis that small compartments can be treated as isopotentials [9] therefore the continuous structure of the
+     Url https://www.sciencedirect.com/science/article/pii/S0925231211001913
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware-based real-time simulation on the raspberry pi
+     Author ['J Walter', 'M Fakih', 'K Grüttner']
+     Venue 2nd. Workshop on …
+     Year 2014
+     Abstract In this paper we present a case study based on a model-based workflow to design a new control unit for electric  Hardware- Simulation Assisted  4. Since digital systems cannot exactly reproduce continuous analog systems, simulation will be divided into discrete time steps [15]
+     Url https://www.researchgate.net/profile/Kim_Gruettner/publication/288670942_Hardware-Based_Real-Time_Simulation_on_the_Raspberry_Pi/links/5683038f08ae051f9aee8d43.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A case study of a versatile generator of repeatable non-Poisson sequences of pseudorandom pulses
+     Author ['DG Maritsas', 'MG Hartley']
+     Venue IEEE Transactions on Computers
+     Year 1970
+     Abstract Applications of the proposed system may be found in the field of hardware simulation techniques and in more efficient arrange  Here, in this paper, a case study is presented  Now ifp « 1, ie, ifh << 1/ax, the discrete time process can be approximated closely bya continuous one [4
+     Url https://ieeexplore.ieee.org/abstract/document/1671393/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …
+     Year 2018
+     Abstract of the presented approach are demonstrated through a practical case study of a  data communication and synchronization between a discrete-time and continuous-time simulator  FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Simulation experiments on applying the HiL system are used to verify the validity of self-driving algorithms in virtual scenes  II. Related Work The development of autonomous driving technologies re- quires the continuous verification and testing of unmanned driving technologies
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Exploration of FPGA-based electromagnetic transient real-time simulation system design using high-level synthesis
+     Author ['Q Li', 'Y Xiang', 'Q Mu', 'X Zhang', 'X Li', 'G He']
+     Venue The Journal of Engineering
+     Year 2018
+     Abstract 2.2 Basic elements models The behaviour of elements in real power system is continuous in time, but computers and hardware simulation platforms are  4.2 Case study and simulation results To validate the proposed HLS-based EMT Simulation system, an example power
+     Url https://digital-library.theiet.org/content/journals/10.1049/joe.2018.8879
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A new approach for interfacing SystemC-AMS models with hardware-emulated platforms
+     Author ['H Tawfik', 'M Safar', 'M AbdelSalam']
+     Venue … & Systems (ICCES)
+     Year 2015
+     Abstract 9]. 3) Electrical Linear Networks (ELN): It allows the modeling of continuous-time conservative  Those numbers has been collected while running the case study on a hardware emulator  4] B. Schnaider, E. Yogev, “Software development in a hardware simulation environment” in
+     Url https://ieeexplore.ieee.org/abstract/document/7393025/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware implementation of KLT tracker for real-time intruder detection and tracking using on-board camera
+     Author ['T Nam', 'S Kim', 'D Jung']
+     Venue International Journal of Aeronautical and Space …
+     Year 2019
+     Abstract logic written in VHDL, a timing simulation is performed using a hardware simulation tool in  architecture to increase the throughput rate but also the availability of continuous output  B, Chen YQ (2013) ADS-B for small unmanned aerial systems: case study and regulatory
+     Url https://link.springer.com/article/10.1007/s42405-018-0131-2
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title FPGA implementation of hippocampal spiking network and its real-time simulation on dynamical neuromodulation of oscillations
+     Author ['S Yang', 'B Deng', 'H Li', 'C Liu', 'J Wang', 'H Yu', 'Y Qin']
+     Venue Neurocomputing
+     Year 2018
+     Abstract loss of data. Mirror-image memory technology uses two groups of RAMs to store the variable values of two continuous steps. The read and write operations are conducted on the different RAMs at the same time. Data update
+     Url https://www.sciencedirect.com/science/article/pii/S0925231217318751
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Transaction level modeling tradeoff on accuracy and speed: A case study
+     Author ['J Su', 'W Guo', 'J Wei', 'S Shi']
+     Venue … Conference On Computer …
+     Year 2010
+     Abstract 1. INTRODUCTION With the continuous development of SoC design, software and hardware  The case study proves that these methods provides strong flexibility and scalability, which  Simon, Deepak Ravi, "Parallelizing SystemC Kernel for Fast Hardware Simulation on SMP
+     Url https://ieeexplore.ieee.org/abstract/document/5540834/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Simplessd: modeling solid state drives for holistic system simulation
+     Author ['M Jung', 'J Zhang', 'A Abulila', 'M Kwon']
+     Venue IEEE Computer …
+     Year 2017
+     Abstract As a case study, we integrated SimpleSSD with the popular full-system simulator, gem5 [6], and  models for a full system (eg, discrete event-driven, activity-driven, and continuous), HIL exposes  3.2 Hardware Simulation for Scalable SSD Parallelism Parallelism abstraction layer
+     Url https://ieeexplore.ieee.org/abstract/document/8031080/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title DACAPO‐III: Parallel multilevel hardware simulation on transputers
+     Author ['P Grabienski']
+     Venue Concurrency: Practice and Experience
+     Year 1991
+     Abstract In an analogue simulator times and values are continuous and the circuit is modelled by a  DACAPO-111: PARALLEL MULTILEVEL HARDWARE SIMULATION  KM Chandy and J. Misra, 'Distributed simulation: a case study in design and verification of distributed programs', IEEE
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4330030414
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware simulation of semi-Markov and related processes: Part I: a versatile generator
+     Author ['A Birolini']
+     Venue Mathematics and Computers in Simulation
+     Year 1977
+     Abstract (4) the semi-Markov process becomes a homogeneous Markov chain with a constant time step (At) or a homogeneous Markov process in continuous time and with a denumerable number of  4) to allow the hardware simulation of general semi-Markov processes in discrete time
+     Url https://www.sciencedirect.com/science/article/pii/0378475477900015
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Design of Distributed Discrete-Event Simulation Systems Using Deep Belief Networks
+     Author ['E Cortes', 'L Rabelo', 'AT Sarmiento', 'E Gutierrez']
+     Venue Information
+     Year 2020
+     Abstract Section 5 introduced programming in WarpIV using a case study and speedup (with its relationship to wall-clock time for these preliminary studies—other performance measures are possible, but this study just places emphasis on wall-clock time)
+     Url https://www.mdpi.com/2078-2489/11/10/467
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …
+     Year 2016
+     Abstract The simulation test platform is described in the fourth section, which is followed by the details and results of a related case study  Hardware simulation agent module: This belongs to the CPN model of the system and is used to analyze the FAL behavior. (b)
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title MODEL-BASED DESIGN OF EMBEDDED SYSTEMS USING MATHWORKS TOOLS–A CASE STUDY
+     Author ['L Fábián', 'G Somlay', 'J Márkus']
+     Venue NA
+     Year NA
+     Abstract The main advantage of MBD is that continuous test and verification of the requirements is possible by simulation throughout the complete  previous one, but the whole system had been reimplemented and targeted for the 32-bit ARM processor, the hardware simulation has been
+     Url https://www.asim-gi.org/fileadmin/user_upload_eurosim/EUROSIM_OA/Congress/2007/Contributions/Contribution465.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Rapid Simulation Development for Evaluation of Conceptual Unmanned Aerial Vehicles
+     Author ['J Player', 'D Gingras']
+     Venue AIAA Modeling and Simulation Technologies …
+     Year 2004
+     Abstract time critical development efforts, the early use of software and hardware simulation can reduce  so the geometry will be organized into a set of continuous, non-overlapping  Case Study – Conceptual UAV This study is intended to demonstrate rapid development of aerodynamics
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2004-5042
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Fast prototyping based on generic and synthesizable VHDL models. A case study: punctured Viterbi decoders
+     Author ['C Deltoso', 'C Joanblanq', 'M Cand']
+     Venue … Workshop on Rapid …
+     Year 1996
+     Abstract Based on the case study, we present, in paragraphs 4.1 and 4.2, complexity elements which  this point, enhanced simulations can also be run using a hardware simulation accelerator such  For continuous transmission schemes or infinite sequences, the most likely sequence is
+     Url https://ieeexplore.ieee.org/abstract/document/506800/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Thermo-electric co-simulation on geographically distributed real-time simulators
+     Author ['MO Faruque', 'M Sloderbeck', 'M Steurer']
+     Venue 2009 IEEE Power & …
+     Year 2009
+     Abstract since continuous network streaming of all data points is not feasible. As shown in Fig  III. CASE STUDY: THERMO-ELECTRIC CO-SIMULATION A thermo-electric test system was chosen for the proposed geographically distributed co-simulation
+     Url https://ieeexplore.ieee.org/abstract/document/5275631/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware implementation of chaos based cipher: Design of embedded systems for security applications
+     Author ['C Tanougast']
+     Venue Chaos-Based Cryptography
+     Year 2011
+     Abstract Among the systems showing a chaotic behavior, we find 3D continuous-time chaotic systems as systems of Lorenz, Lü, Colpitts, Chen, Rössler  This chapter describes this approach and presents a case study where the Lorenz's chaotic system is implemented on a FPGA Chip
+     Url https://link.springer.com/chapter/10.1007/978-3-642-20542-2_9
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A case study of automated testing implementation in the automotive industry
+     Author ['D Ganea', 'R Bogdan', 'V Ancusa']
+     Venue 2013 IEEE 14th …
+     Year 2013
+     Abstract Although the hardware simulation will have a lower accuracy than real testing on an embedded  features of this software are: the possibility to select arbitrary time- continuous signals for  The resemblance between the given examples and the case study covered by this paper
+     Url https://ieeexplore.ieee.org/abstract/document/6705243/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Project Based Learning Using ICT Tools to Achieve Outcomes for the Course'Microcontrollers Based System Design': A Case Study
+     Author ['D Kavitha', 'D Anitha']
+     Venue … on MOOCs, Innovation and Technology in …
+     Year 2016
+     Abstract II ABOUT THE COURSE The course taken for case study is 'Microcontroller based  are the consolidated marks of students which comprises of continuous assessments and  for audio, video and multimedia presentations, clickers, Laboratory hardware, Simulation software, free
+     Url https://ieeexplore.ieee.org/abstract/document/8049086/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Performance measurement systems and their relation to strategic learning: A case study in a software-developing organization
+     Author ['A Fried']
+     Venue Critical Perspectives on Accounting
+     Year 2010
+     Abstract Performance measurement systems and their relation to strategic learning: A case study in a software-developing organization  A strategic learning process initiated by the development of PMS is illustrated through a case study in the software development industry
+     Url https://www.sciencedirect.com/science/article/pii/S1045235409001361
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hla to simulate computer systems at the hardware platform level
+     Author ['T Pearce', 'A Saghir', 'G Wainer']
+     Venue Simulation …
+     Year 2004
+     Abstract Keywords: hardware simulation, DEVS, HLA  Section 4 presents a case study where the proposed simulation methodology was applied to a specific hardware  on the changes of state variable values and generates time segments that are piecewise constant and continuous
+     Url https://pdfs.semanticscholar.org/110a/7a9b822a5cf11080092037dc9d63ded2323f.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title An Optimized Hardware System on Chip for a Support Vector Machine Classifier: a Case Study on Melanoma Detection
+     Author ['S Afifi']
+     Venue NA
+     Year 2018
+     Abstract A Support Vector Machine Classifier: .... A Case Study on Melanoma Detection  supervisor A/P Hamid GholamHosseini, for the continuous support of my PhD study and
+     Url http://openrepository.aut.ac.nz/handle/10292/11913
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Simulation using code-perturbation: black-and white-box approach
+     Author ['Z Yang', 'B Min', 'G Choi']
+     Venue Proceedings of the IEEE 2001. 2nd …
+     Year 2001
+     Abstract Given a set of execution paths, we need to find out a set of non-overlap continuous paths, the number of which  It is somewhat similar to the hardware simulation  The software code coverage is used as a verification mea- surement in this case study because of its simplicity
+     Url https://ieeexplore.ieee.org/abstract/document/915204/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Teaching Reform Practice of A SCM Course Based on Inquiry Learning: A Case Study of Digital to Analog Converter
+     Author ['D Zhang', 'L Zhang', 'Z Cai']
+     Venue Metallurgical & Mining Industry
+     Year 2015
+     Abstract will take the section of Principles and the applications of DAC as a case study to introduce  the British lab center with circuit analysis and simulation function is the hardware simulation and debugging  teacher can let the stu- dents discuss why we can get the continuous waveform
+     Url http://www.metaljournal.com.ua/assets/Journal/english-edition/MMI_2015_7/020Dening%20Zhang%20120--124.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Impact of cloud computing on educational institutions: A case study
+     Author ['T Al-Rousan', 'HA Al Ese']
+     Venue Recent Patents on Computer …
+     Year 2015
+     Abstract A case study at University Sains Malaysia, Malaysia, is presented to demonstrate the importance  some important concepts such as time sharing, software sharing, hardware simulation and emulation  the rapid developments in IT technologies [6]. In reality, continuous updates of
+     Url https://www.ingentaconnect.com/content/ben/cseng/2015/00000008/00000002/art00006
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware-in-the-loop Simulation Framework
+     Author ['MAA Sanvido']
+     Venue NA
+     Year 2002
+     Abstract 1.3 Overview The dissertation is subdivided into three parts. The first part describes how embedded systems are developed and which tools are available. In this part a case study of an ECS for an autonomously flying helicopter is also presented [12]
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/146111/1/eth-25054-01.pdf
+

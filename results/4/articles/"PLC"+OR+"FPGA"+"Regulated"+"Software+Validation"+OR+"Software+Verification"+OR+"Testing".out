@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Development of a low-cost and high-speed single event effects testers based on reconfigurable field programmable gate arrays (FPGA)
+     Author ['JW Howard', 'H Kim', 'M Berg', 'KA LaBel']
+     Venue SEE …
+     Year 2006
+     Abstract be considered “disposable” to allow proton testing • The high-speed tester will allow testing of state-of-the-art devices at speed (up to low GHz)  Xilinx Spartan III FPGA (XC3S1000- 4FG456) • On-tester regulated power at 1.2, 1.8, 2.5, and 3.3 Volts
+     Url https://radhome.gsfc.nasa.gov/radhome/papers/SEESYM06_Howard.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Phospholipase C-β1 is regulated by a pertussis toxin-insensitive G-protein
+     Author ['TFJ Martin', 'JE Lewis', 'JA Kowalchyk']
+     Venue Biochemical Journal
+     Year 1991
+     Abstract 0 Fig. 3. Properties of the reconstituted GP-regulated PLC (a) [3H]PtdInsP2 hydrolysis was determined for complete incubations containing rat brain PLC and membrane- protein-containing liposomes as described in the legend to Fig
+     Url https://portlandpress.com/biochemj/article-abstract/280/3/753/27537
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Real-time FPGA control of a hexapod robot for 6-DOF biomechanical testing
+     Author ['B Ding', 'RM Stanley', 'BS Cazzolato']
+     Venue IECON 2011-37th …
+     Year 2011
+     Abstract Such compliance is significant compared to the micron order resolution for biomechanical testing  Soloist CP20 servo amplifiers receive the analog torque commands from the FPGA boards and  current sent to the servo motors, which in effect results in torque being regulated
+     Url https://ieeexplore.ieee.org/abstract/document/6119320/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploring aspects of self-regulated learning among engineering students learning digital system design in the FPGA environment—methodology and findings
+     Author ['M Barak', 'I Kastelan', 'Z Azia']
+     Venue Embedded engineering education
+     Year 2016
+     Abstract Embedded Engineering Education pp 139-160 | Cite as. Exploring Aspects of Self-regulated Learning Among Engineering Students Learning Digital System Design in the FPGA Environment—Methodology and Findings. Authors;
+     Url https://link.springer.com/chapter/10.1007/978-3-319-27540-6_10
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Iron-Regulated Phospholipase C Activity Contributes to the Cytolytic Activity and Virulence of Acinetobacter baumannii
+     Author ['SE Fiester', 'BA Arivett', 'RE Schmidt', 'AC Beckett', 'T Ticak']
+     Venue PloS one
+     Year 2016
+     Abstract isogenic insertion derivatives showed that these mutants had a significantly reduced PC-PLC activity as compared to the parental strain, while testing of plc1::ermAM/plc2::aph demonstrated that this double PC-PLC isogenic mutant  (2016) Iron-Regulated Phospholipase C
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167068
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Sequence analysis of three Bacillus cereus loci carrying PlcR-regulated genes encoding degradative enzymes and enterotoxinThe EMBL accession numbers for the …
+     Author ['OA Økstad', 'M Gominet', 'B Purnelle', 'M Rose']
+     Venue …
+     Year 1999
+     Abstract Among the genes regulated by PlcR are: plcA, encoding phosphatidylinositol-specific phospholipase C (PI-PLC); plc, encoding phosphatidylcholine-preferring phospholipase C (PC-PLC); nhe, encoding the non-haemolytic enterotoxin; hbl, encoding haemolytic enterotoxin
+     Url https://www.microbiologyresearch.org/content/journal/micro/10.1099/00221287-145-11-3129
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Regulated cleavage of intracellular glycosylphosphatidylinositol in a trypanosome: Peroxisome‐to‐endoplasmic reticulum translocation of a phospholipase C
+     Author ['S Subramanya', 'K Mensa‐Wilmot']
+     Venue The FEBS journal
+     Year 2006
+     Abstract We conclude that: (a) GPI‐PLC contributes to loss of GPIs in T. brucei treated with hypo‐osmotic or mildly alkaline buffer; (b) access of GPI‐PLC to its substrate in vivo can be regulated post‐translationally; (c) translocation of GPI‐PLC from glycosomes to the ER is important for
+     Url https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-4658.2006.05225.x
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Application of a genetic algorithm for testing SEUs in SRAM-FPGA Systems
+     Author ['C Bernardeschi', 'L Cassano', 'M Cimino']
+     Venue Proceedings of the 6th …
+     Year 2012
+     Abstract The industrial use of electronic devices in safety-critical systems is regulated by application-related  ELEC 50129 [7], and IAEA NS-G-1.3 [12], require in-service testing activities for  Two main families of test methods for FPGA circuits exist: application- dependent and application
+     Url http://www.iet.unipi.it/m.cimino/pub/hdl.handle.net_11568_202776.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A DSP FPGA based Hardware-in-the-Loop testing platform
+     Author ['TM Shih', 'HC Chang']
+     Venue … on Control Automation Robotics & Vision
+     Year 2010
+     Abstract We can also connect real UAV to the system for testing to examine the real control reaction  Compared to the traditional real-time HIL system, the FPGA module will provide better flexibility and  6. The power is connected with an on board 24 volt battery regulated to 5 volts to
+     Url https://ieeexplore.ieee.org/abstract/document/5707413/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Vitamin D regulated keratinocyte differentiation: role of coactivators
+     Author ['DD Bikle', 'CL Tu', 'Z Xie', 'Y Oda']
+     Venue Journal of cellular biochemistry
+     Year 2003
+     Abstract 3). We are currently testing this hypothesis  Both DRIP/mediator and SRC/p160 may be involved in vitamin D regulated transcription of undifferentiated proliferating cells  is shown in Figure 4. The keratinocyte expresses a CaR which by coupling to and activating PLC controls the
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/jcb.10339
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The impact of aging on an FPGA-based physical unclonable function
+     Author ['A Maiti', 'L McDougall']
+     Venue 2011 21st International …
+     Year 2011
+     Abstract voltage. The FPGAs were heated using a convection-based heating oven, and the supply to the FPGA core was increased using a regulated DC power supply. We considered four different cases for the accelerated aging testing. In
+     Url https://ieeexplore.ieee.org/abstract/document/6044799/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Development of an FPGA-based system for real-time simulation of photovoltaic modules
+     Author ['E Koutroulis', 'K Kalaitzakis', 'V Tzitzilonis']
+     Venue Microelectronics journal
+     Year 2009
+     Abstract the rapid prototype development of the corresponding devices, since the field-testing process is  I–V characteristic, which is calculated by the control circuit implemented in the FPGA unit, is  duty cycle value, the DC/DC converter output voltage is successively regulated, such that
+     Url https://www.sciencedirect.com/science/article/pii/S002626920800236X
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-Based Mixed-Signal Circuits Testing System Implementation
+     Author ['SP Pouros', 'VD Vassios', 'DK Papakostas']
+     Venue Journal of Engineering Science …
+     Year 2016
+     Abstract 3. Testing System Hardware Implementation  The FPGA can provide many different waveforms as input to the DAC which are synthesized in the FPGA. The last stage buffering before the CUT is regulated by the voltage output amplifier stage in Fig
+     Url http://jestr.org/downloads/Volume9Issue6/fulltext19962016.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC regulation: emerging pictures for molecular mechanisms
+     Author ['TD Bunney', 'M Katan']
+     Venue Trends in biochemical sciences
+     Year 2011
+     Abstract Further development of this reconstitution assay should facilitate testing of how changes in membrane properties can affect PLC  Each of the two steps could potentially be regulated. For PLCδ1, a member of the simplest mammalian PLC family, changes in PtdIns(4,5)P 2 and
+     Url https://www.sciencedirect.com/science/article/pii/S0968000410001660
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title 1α, 25 (OH) 2D3 causes a rapid increase in phosphatidylinositol-specific PLC-β activity via phospholipase A2-dependent production of lysophospholipid
+     Author ['Z Schwartz', 'D Shaked', 'RR Hardin', 'S Gruwell', 'DD Dean']
+     Venue Steroids
+     Year 2003
+     Abstract treated with 24R,25(OH) 2 D 3 to assess whether PI-PLC is regulated in a  PI-PLC and PKC activities were normalized to the protein content of the samples  Significance between groups was determined by ANOVA and post hoc testing performed using Bonferroni's modification of
+     Url https://www.sciencedirect.com/science/article/pii/S0039128X03000448
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Leptin-regulated endocannabinoids are involved in maintaining food intake
+     Author ['V Di Marzo', 'SK Goparaju', 'L Wang', 'J Liu', 'S Bátkai']
+     Venue Nature
+     Year 2001
+     Abstract of DAG, possibly at the level of a phosphatidyl-inositol-specific PLC, which are  under normal light/dark cycle were food deprived for 24 h before testing during the  This may indicate that endocannabinoids, with other leptin-regulated orexigenic signals, contribute to overeating in
+     Url https://www.nature.com/articles/35071088/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Glucagon Receptor–Mediated Extracellular Signal–Regulated Kinase 1/2 Phosphorylation in Rat Mesangial Cells: Role of Protein Kinase A and Phospholipase C
+     Author ['XC Li', 'OA Carretero', 'Y Shao', 'JL Zhuo']
+     Venue Hypertension
+     Year 2006
+     Abstract cells through glucagon receptor–activated phosphorylation of mitogen-activated protein kinase extracellular signal–regulated kinase 1/2 (p-ERK 1/2); and (2) this phosphorylation involves activation of cAMP-dependent protein kinase A (PKA) and phospholipase C (PLC)/[Ca 2
+     Url https://www.ahajournals.org/doi/abs/10.1161/01.hyp.0000197946.81754.0a
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title HERG K+ Channel Activity Is Regulated by Changes in Phosphatidyl Inositol 4,5-Bisphosphate
+     Author ['J Bian', 'J Cui', 'TV McDonald']
+     Venue Circulation research
+     Year 2001
+     Abstract is gated by [ATP] i /[ADP] i changes. 6–9 Other related K + channels (GIRK) of the inward rectifier family are complexly regulated by the βγ-subunits of G-proteins and by simultaneous PLC-mediated changes in [PIP2]. 10–13
+     Url https://www.ahajournals.org/doi/abs/10.1161/hh2401.101375
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Glycosylphosphatidylinositol (GPI)‐anchored membrane proteins are constitutively down‐regulated in psoriatic skin
+     Author ['GT Venneker', 'PK Das', 'MMHM Meinardi']
+     Venue The Journal of …
+     Year 1994
+     Abstract participates in the growth and differentiation of cells in a highly regulated way.7  transduction system, besides other isoform(s), a glycosylphosphatidylinositol (GP1)- specific PLC may also  the reasons stated in the Introduction, this study was aimed at testing whether epidermal
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/path.1711720206
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Formative assessment and self‐regulated learning: A model and seven principles of good feedback practice
+     Author ['DJ Nicol', 'D Macfarlane‐Dick']
+     Venue Studies in higher education
+     Year 2006
+     Abstract Also, the more learning becomes self‐regulated, the more students assume control over their learning, and the less dependent they  selected pieces of work—this would help change students' expectations about purpose and learning goals; (iii) automated testing with feedback
+     Url https://srhe.tandfonline.com/doi/abs/10.1080/03075070600572090
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Regulated emissions from biodiesel tested in heavy-duty engines meeting 2004 emission standards
+     Author ['RL McCormick', 'CJ Tennant', 'RR Hayes', 'S Black']
+     Venue NA
+     Year 2005
+     Abstract 7]. Additionally, the cetane improver had no impact on emissions of other regulated pollutants  ASTM – ASTM International, originally known as the American Society for Testing and Materials  BP – BP plc and its subsidiaries and affiliates, formerly known as British Petroleum
+     Url https://www.sae.org/publications/technical-papers/content/2005-01-2200/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based real-time power converter failure diagnosis for wind energy conversion systems
+     Author ['S Karimi', 'A Gaillard', 'P Poure']
+     Venue IEEE transactions on …
+     Year 2008
+     Abstract To attain such a short detection time, a FPGA (Field Programmable Gate Array) fully digital implementation is used  The proposed fault detection method is implemented using a FPGA and evaluated FPGA-based Real Time Power Converter Failure
+     Url https://ieeexplore.ieee.org/abstract/document/4668418/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Leukocyte opioid receptors mediate analgesia via Ca2+-regulated release of opioid peptides
+     Author ['MÖ Celik', 'D Labuz', 'K Henning']
+     Venue Brain, behavior, and …
+     Year 2016
+     Abstract Immune cells. Opioids. Calcium. G-protein. PLC. IP 3 receptors. Pain. Neuropathic pain  that efficient analgesia relies upon leukocyte opioid receptors signaling via intracellular Ca 2+ -regulated pathway  prepared in separate, coded vials by a colleague not involved in in vivo testing
+     Url https://www.sciencedirect.com/science/article/pii/S088915911630109X
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based current controllers for AC machine drives—A review
+     Author ['MW Naouar', 'E Monmasson']
+     Venue IEEE Transactions …
+     Year 2007
+     Abstract This step allows verifying the good functionality of the designed archi- tecture written in VHDL by testing it with a relevant set of testbench input waveforms  8). The first one generates the stimuli patterns, which are stored in FPGA memory blocks
+     Url https://ieeexplore.ieee.org/abstract/document/4271569/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Proportional-Integral-Differential (PLC) control system design of compressor performance test bench
+     Author ['Y He']
+     Venue 2010 International Conference on Electrical and …
+     Year 2010
+     Abstract are converted into standard electrical current signals by the analog output module, and the electrical current signals will be regulated by the signal-regulating circuit. In this way, the PLC's CPU controls the open degrees of the adjust valves in the testing system according to the
+     Url https://ieeexplore.ieee.org/abstract/document/5630094/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The I1‐imidazoline receptor in PC12 pheochromocytoma cells activates protein kinases C, extracellular signal‐regulated kinase (ERK) and c‐jun N‐terminal kinase …
+     Author ['L Edwards', 'D Fishman', 'P Horowitz']
+     Venue Journal of …
+     Year 2001
+     Abstract for the I 1 ‐imidazoline receptor in PC12 cells by testing involvement of  DAG; diacylglycerides; DMSO; dimethyl sulfoxide; ERK; extracellular signal‐regulated kinase; JNK; c‐jun N  PC12 pheochromocytoma cell line; PC‐PLC; phosphatidyl‐choline‐selective phospholipase C; PKC
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1471-4159.2001.00632.x
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Vascular endothelial growth factor–stimulated actin reorganization and migration of endothelial cells is regulated via the serine/threonine kinase Akt
+     Author ['M Morales-Ruiz', 'D Fulton', 'G Sowa']
+     Venue Circulation …
+     Year 2000
+     Abstract and Resuscitation; Epidemiology, Lifestyle, and Prevention; Genetics; Heart Failure and Cardiac Disease; Hypertension; Imaging and Diagnostic Testing;  8Vascular Endothelial Growth Factor–Stimulated Actin Reorganization and Migration of Endothelial Cells Is Regulated via the
+     Url https://www.ahajournals.org/doi/abs/10.1161/01.res.86.8.892
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title TESLA cavity modeling and digital implementation in fpga technology for control system development
+     Author ['T Czarski', 'KT Pozniak', 'RS Romaniuk']
+     Venue Nuclear Instruments and …
+     Year 2006
+     Abstract The electromechanical model of the TESLA cavity has been implemented in FPGA technology for real-time testing of the control system. The model includes Lorentz force detuning and beam loading effects. Step operation
+     Url https://www.sciencedirect.com/science/article/pii/S0168900205019893
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA Based Design for Accelerated Fault-testing of Integrated Circuits
+     Author ['J Dunbar']
+     Venue NA
+     Year 2010
+     Abstract It allows for the speed of hardware without needing specific circuit-testing hardware. The authors  The major difference between the two is that there are two PowerPC CPUs in the FPGA used in this research  Every device connected to this bus is regulated by the device
+     Url https://digitalcommons.bucknell.edu/masters_theses/28/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Transcriptome analysis of Listeria monocytogenes identifies three groups of genes differently regulated by PrfA
+     Author ['E Milohanic', 'P Glaser', 'JY Coppée']
+     Venue Molecular …
+     Year 2003
+     Abstract Transcriptome analysis of Listeria monocytogenes identifies three groups of genes differently regulated by PrfA. Eliane Milohanic Unité des Interactions Bactéries‐Cellules  We identified three groups of genes that are regulated differently
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2958.2003.03413.x
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design and implementation of an FPGA-based control IC for AC-voltage regulation
+     Author ['SL Jung', 'MY Chang', 'JY Jyang']
+     Venue IEEE Transactions on …
+     Year 1999
+     Abstract control circuitry [4], [5]. To further improve output performance, current-loop-regulated PWM inverters  Section III is concerned with the design and implementation of the FPGA- based control IC  V shows the architecture of the experimental setup and gives some testing results
+     Url https://ieeexplore.ieee.org/abstract/document/761696/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design of control system for testing platform of soil-bin for agricultural machine based on PLC
+     Author ['Y Yu', 'S Shang', 'X Liu']
+     Venue 2011 International Conference on New …
+     Year 2011
+     Abstract When trolley runs to the regulated position, the soft parking of motor will be cut off  III. THE SOFTWRE DESIGN OF THE FARM MACHINERY TESTING SOIL-BIN CONTROL SYSTERM The thought to make a program based on PLC, which belongs to the software
+     Url https://ieeexplore.ieee.org/abstract/document/5943750/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Tansley Review No. 120: Pathways to abscisic acid‐regulated gene expression
+     Author ['CD Rock']
+     Venue New Phytologist
+     Year 2000
+     Abstract activated protein kinase; MBPK, myelin-basic-protein kinase; OKA, okadaic acid; PA, phosphatidic acid; PLC, PLD, phospholipases C  1998), which provides some structural clues to function as well as permitting the direct testing of hypotheses  REVIEW ABA-regulated signalling
+     Url https://nph.onlinelibrary.wiley.com/doi/abs/10.1046/j.1469-8137.2000.00769.x
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A Raft-derived, Pak1-regulated entry participates in α2β1 integrin-dependent sorting to caveosomes
+     Author ['M Karjalainen', 'E Kakkonen', 'P Upla']
+     Venue Molecular biology of …
+     Year 2008
+     Abstract Cell entry is regulated by p21-activated kinase (Pak)1, Rac1, phosphatidylinositol 3-kinase  Testing the means between samples in EM, binomial t test was applied  3-kinase (PI3K); and U73122, an inhibitor of phosphatidylinositol-specific phospholipase C (PLC) (PI-PLC
+     Url https://www.molbiolcell.org/doi/abs/10.1091/mbc.e07-10-1094
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The agronomic landspreading of coal bottom ash: using a regulated solid waste as a resource
+     Author ['N Sell', 'T McIntosh', 'C Severance', 'A Peterson']
+     Venue … , Conservation and Recycling
+     Year 1989
+     Abstract 0921-3449/89/$03.50 © 1989 Elsevier Science Publishers BV/Pergamon Press plc  It is regulated as a solid  waste unless testing of a specific sample indicates it would be toxic or otherwise hazardous [9 ]. Forty-four states generically exempt "utility wastes" from their definition of
+     Url https://www.sciencedirect.com/science/article/pii/0921344989900190
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Excitatory monocyte chemoattractant protein-1 signaling is up-regulated in sensory neurons after chronic compression of the dorsal root ganglion
+     Author ['FA White', 'J Sun', 'SM Waters', 'C Ma']
+     Venue Proceedings of the …
+     Year 2005
+     Abstract Skip to main content. Submit; About: Editorial Board; PNAS Staff; FAQ; Accessibility Statement; Rights and Permissions; Site Map. Contact; Journal Club; Subscribe: Subscription Rates; Subscriptions FAQ; Open Access; Recommend PNAS to Your Librarian. Log in; Log out; My Cart
+     Url https://www.pnas.org/content/102/39/14092.short
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Fuzzy knowledge adaptation mechanism for PID controllers implemented in PLC S7-300/400
+     Author ['J Kocian', 'S Ozana', 'J Koziorek']
+     Venue Frontiers in Computer Education
+     Year 2012
+     Abstract shows implementation of functional block containing fuzzy gain scheduling by use of PLC Simatic S7  description of identification experiment and choice of model structure of regulated plant is  control and controlled ones), an appropriate sampling time and suitable testing signal
+     Url https://link.springer.com/chapter/10.1007/978-3-642-27552-4_66
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Method and apparatus for reducing the power of a signal electromagnetically coupled from a PLC medium to a DSL medium
+     Author ['RS Parnell']
+     Venue US Patent 9,391,668
+     Year 2016
+     Abstract However, the spectra of DSL and PLC are not disjoint. They overlap at 2 MHz and above. Testing confirms what stands to reason: that parasitic coupling is sufficient at some premises, at some locations, to degrade performance significantly
+     Url https://patents.google.com/patent/US9391668B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Vascular endothelial growth factor–regulated gene expression in endothelial cells: KDR-mediated induction of Egr3 and the related nuclear receptors Nur77, Nurr1 …
+     Author ['D Liu', 'H Jia', 'DIR Holmes', 'A Stannard']
+     Venue … , and vascular biology
+     Year 2003
+     Abstract dilution (Active Motive); and antibody to extracellular signal–regulated kinases (ERKs) 1 and 2 at 1:500 dilution (Cell Signaling Technology Inc). Immunoreactive bands were detected by chemiluminescence with enhanced chemiluminescence plus reagents (Amersham Plc)
+     Url https://www.ahajournals.org/doi/abs/10.1161/01.ATV.0000098644.03153.6F
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title TRPM2: a calcium influx pathway regulated by oxidative stress and the novel second messenger ADP-ribose
+     Author ['FJP Kühn', 'I Heiner', 'A Lückhoff']
+     Venue Pflügers Archiv
+     Year 2005
+     Abstract TRPM2: a calcium influx pathway regulated by oxidative stress and the novel second messenger ADP  for a class of enzymes called pyrophosphatases [1, 5, 7]. By testing various substrates of  to exist for another member of the TRP family, TRPM7 (formerly PLC-interacting kinase
+     Url https://link.springer.com/article/10.1007/s00424-005-1446-y
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title D609 Inhibits Progression of Preexisting Atheroma and Promotes Lesion Stability in Apolipoprotein E−/− Mice: A Role of Phosphatidylcholine-Specific Phospholipase …
+     Author ['L Zhang', 'J Zhao', 'L Su', 'B Huang', 'L Wang']
+     Venue … , and vascular biology
+     Year 2010
+     Abstract Results. Upregulation of PC-PLC in VEC in Atherosclerotic Lesions of apoE −/− Mice  P<0.05 vs WT mice. OxLDL Upregulated PC-PLC Level and Activity in Cultured HUVEC. We further analyzed whether oxLDL may alter the expression of PC-PLC on cultured HUVEC in vitro
+     Url https://www.ahajournals.org/doi/abs/10.1161/ATVBAHA.109.195768
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title miR-874-3p is down-regulated in hepatocellular carcinoma and negatively regulates PIN1 expression
+     Author ['KW Leong', 'CW Cheng', 'CM Wong', 'IN Oi-Lin']
+     Venue Oncotarget
+     Year 2017
+     Abstract Similarly, expression of miR-874-3p in PLC/PRF/5 with PIN1 knocked-down did not further  More importantly, miR-874-3p was found to be down-regulated in HCC tissues and its expression  miR-1207-5p) with the highest total context score were selected for further testing in this
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355269/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA realization of space-vector PWM control IC for three-phase PWM inverters
+     Author ['YY Tzou', 'HJ Hsu']
+     Venue IEEE Transactions on power electronics
+     Year 1997
+     Abstract by M.- Y. Chang and T.-S. Kuo in the design of the PWM inverter, experiment setup, and testing  [9] JH Jenkins, Designing with FPGA's and CPLD's  and BW Williams, “Field-programmable gate-arrays and semi-custom designs for sinusoidal and current-regulated PWM,” in IEE
+     Url https://ieeexplore.ieee.org/abstract/document/641493/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC-γ and PI3K link cytokines to ERK activation in hematopoietic cells with normal and oncogenic Kras
+     Author ['E Diaz-Flores', 'H Goldschmidt', 'P Depeille']
+     Venue Science …
+     Year 2013
+     Abstract Research ArticleCancer. PLC-γ and PI3K Link Cytokines to ERK Activation in Hematopoietic Cells with Normal and Oncogenic Kras. Ernesto Diaz-Flores 1 ,; Hana Goldschmidt 1 ,; Philippe Depeille 2 ,; Victor Ng 1 ,; Jon Akutagawa
+     Url https://stke.sciencemag.org/content/6/304/ra105.short
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Reliability Analysis of a Test System for Power Supply Based on FPGA [J]
+     Author ['W Xuesong', 'Z Guoyong', 'L Xin']
+     Venue Computer Measurement & …
+     Year 2013
+     Abstract of chip temperature is getting hotter and hotter in the process of testing and debugging  test system power on.Therefore,this thesis discuss the reliability of FPGA integrated circuits  Taiyuan 030051,China);Design of High-precision Numerical Control DC Regulated Power Supply
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JZCK201302048.htm
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The INAD scaffold is a dynamic, redox-regulated modulator of signaling in the Drosophila eye
+     Author ['W Liu', 'W Wen', 'Z Wei', 'J Yu', 'F Ye', 'CH Liu', 'RC Hardie']
+     Venue Cell
+     Year 2011
+     Abstract Here, we demonstrate that the redox potential of INAD PDZ5 is allosterically regulated by the direct conformational coupling of the  Finally, regulation of protein conformational couplings by protons originating from PLC-mediated PIP 2 hydrolysis may represent a new paradigm
+     Url https://www.sciencedirect.com/science/article/pii/S0092867411005411
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Phospholipase C-γ1 potentiates integrin-dependent cell spreading and migration through Pyk2/paxillin activation
+     Author ['JH Choi', 'YR Yang', 'SK Lee', 'IS Kim', 'SH Ha', 'EK Kim']
+     Venue Cellular signalling
+     Year 2007
+     Abstract To equalize the cellular proteins in each sample, total cell lysates were also run on gels and subjected to western blot analysis for testing the Rac protein  From these results, we conclude that the activation of Pyk2/paxillin is regulated in a PLC-γ1-induced PKC-or Ca 2
+     Url https://www.sciencedirect.com/science/article/pii/S0898656807001143
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA embedded system for ultrasonic non-destructive testing
+     Author ['L Zhang']
+     Venue NA
+     Year 2012
+     Abstract A novel system has been developed to provide multichannel waveform generation, data capture and signal processing for advanced lab-based research and faster-field testing. This system includes an FPGA to process multichannel data in parallel and to provide the flexibility
+     Url https://bura.brunel.ac.uk/handle/2438/14035
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA controlled pneumatic variable valve actuation
+     Author ['S Trajkovic', 'A Milosavljevic', 'P Tunestål', 'B Johansson']
+     Venue NA
+     Year 2006
+     Abstract The engine testing consists of HCCI (Homogeneous Charge Compression Ignition) operation with three different valve strategies – Negative Valve overlap, Late/Early IVC and Rebreathe  Nbr 4 - The lift also needs to be regulated  FPGA VI – Block diagram
+     Url https://www.sae.org/publications/technical-papers/content/2006-01-0041/
+
+
+     Search term "PLC"+OR+"FPGA"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Lean/agile software development methodologies in regulated environments–state of the art
+     Author ['O Cawley', 'X Wang', 'I Richardson']
+     Venue International Conference on Lean …
+     Year 2010
+     Abstract Rasmussen, R., Hughes, T., Jenks, JR, Skach, J.: Adopting Agile in an FDA Regulated Environment  Yoo, J., Cha, S., Kim, CH, Song, DY: Synthesis of FBD-based PLC design from  Tsai, WT, Paul, R., Yu, L., Wei, X.: Rapid Pattern-Oriented Scenario-Based Testing for Embedded
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16416-3_4
+

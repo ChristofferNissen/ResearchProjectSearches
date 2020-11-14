@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal verification of cyber-physical systems: coping with continuous elements
+     Author ['MU Sanwal', 'O Hasan']
+     Venue … Conference on Computational Science and Its …
+     Year 2013
+     Abstract To illustrate the usefulness of our foundational cyber- physical system analysis formalization, we present the  Traditionally, physical and continuous aspects of a CPS are analyzed by cap- turing  In the past couple of decades, formal methods [3] have been successfully used for
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39637-3_29
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Towards formal verification of analog designs
+     Author ['S Gupta', 'BH Krogh', 'RA Rutenbar']
+     Venue IEEE/ACM International …
+     Year 2004
+     Abstract Given the complexity of the problem, we believe that the right initial focus for formal methods is on the early, block-level design  verification, the user defines region of interest in the state space (the analysis region), the starting region (the initial continuous set, or ICs) for the
+     Url https://ieeexplore.ieee.org/abstract/document/1382573/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Real-Time SCADA Attack Detection by Means of Formal Methods
+     Author ['F Mercaldo', 'F Martinelli']
+     Venue 2019 IEEE 28th …
+     Year 2019
+     Abstract R. Sadre, and A. Pras, “Towards periodicity based anomaly detection in scada networks,” in  R. Kohavi, and M. Sahami, “Supervised and unsupervised discretization of continuous features,” in  networks from time series data, an approach based on formal methods,” Methods, vol
+     Url https://ieeexplore.ieee.org/abstract/document/8795430/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Test case generation from formal models of cyber physical system
+     Author ['L Zhang', 'J He', 'W Yu']
+     Venue Int. J. Hybrid Inf. Technol
+     Year 2013
+     Abstract and to remain competitive on top of that, early and continuous consideration and  Quantitative conformance testing of cyber-physical system (CPS) exploits time series of measurements, such as  facilities, or the high-speed railroad, is run on the SCADA (Supervisory Control and
+     Url http://gvpress.com/journals/IJHIT/vol6_no3/2.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract Formal Methods • 629  domains of automatic verification is the design of hybrid systems, which consist of both dis- crete and continuous components  A high-level data link control- ler (HDLC) transmitter core was de- signed at the Bell Labs Microelectron- ics Design Center in
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract Second, while much research in formal methods for model-based design focuses on the  CPSs, for example, will have both discrete- time controllers and continuous-time plant  For example, a socio- technical cyber-physical system may have components that operate at different
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract inapplicable because, as noted above, we have to model discrete, rather than continuous quantities.2  analogy with engi- neering mathematics, and stated that the purpose of formal methods is to  But engineering mathemat- ics is not used only for calculation and analysis: it also
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Verification of reactive systems: formal methods and algorithms
+     Author ['K Schneider']
+     Venue NA
+     Year 2013
+     Abstract I entered this field, it was an enormous effort to read hundreds of papers to understand the relationships between the different formal methods that are  Supplemental material on actual tools is found in [38], and further top- ics on the u-calculus and infinite games are found in [221
+     Url https://books.google.com/books?hl=en&lr=&id=1OqpCAAAQBAJ&oi=fnd&pg=PA1&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=lQhWmGE7mt&sig=a3PzXbNvmPGW8ZzwAmJ0u1iiGeA
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Really rethinking'formal methods'
+     Author ['DL Parnas']
+     Venue Computer
+     Year 2010
+     Abstract programs present their students with a very narrow slice of mathemat- ics, usually stressing  seems to have been neglected by most “mainline” researchers in the area of formal methods  to read for simple expressions and when they are used to describe continuous functions
+     Url https://www.math.pku.edu.cn/teachers/qiuzy/fm_B/literatures/ReallyRethinking.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Anomaly detection in cyber-physical systems: A formal methods approach
+     Author ['A Jones', 'Z Kong', 'C Belta']
+     Venue 53rd IEEE Conference on Decision …
+     Year 2014
+     Abstract In this paper, we apply formal methods to an anomaly de- tection framework to identify  a search over the set of iPSTL formula and using continuous optimization methods in  A. Cyber-Physical Systems Under Normal Operation We denote a cyber-physical system under normal
+     Url https://ieeexplore.ieee.org/abstract/document/7039487/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Pegasus: A framework for sound continuous invariant generation
+     Author ['A Sogokon', 'S Mitsch', 'YK Tan', 'K Cordwell']
+     Venue … on Formal Methods
+     Year 2019
+     Abstract International Symposium on Formal Methods. FM 2019: Formal Methods – The Next 30 Years pp 138-157 | Cite as. Pegasus: A Framework for Sound Continuous Invariant Generation. Authors; Authors and affiliations. Andrew
+     Url https://link.springer.com/chapter/10.1007/978-3-030-30942-8_10
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods in Human-computer interaction
+     Author ['P Palanque', 'F Paternò']
+     Venue NA
+     Year 2012
+     Abstract internal structure is becoming increasingly complex as there is a continuous demand to  Harrison M., Thimblebly H. (1990), Formal Methods in Human-Computer Interaction, Canbridge University  Science, University of Glasgow, Glasgow, G12 800, Scotland johnson@dcs.gla.ac
+     Url https://books.google.com/books?hl=en&lr=&id=nlTlBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=JCxOQzU7pG&sig=Ta_F8D9btApGmVn7aIiO_GxGDAM
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods for the analysis of authentication protocols
+     Author ['AD Rubin', 'P Honeyman']
+     Venue NA
+     Year 1993
+     Abstract Page 1. Formal Methods for the Analysis of Authentication Protocols CITI Technical Report 93-7  Page 2. Abstract In this paper, we examine current approaches and the state of the art in the application of formal methods to the analysis of cryptographic protocols
+     Url https://deepblue.lib.umich.edu/handle/2027.42/107949
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Modelling and verification of cyber-physical system
+     Author ['M Pluska', 'D Sinclair']
+     Venue NA
+     Year 2010
+     Abstract here this problem will be addressed with design methodology using formal methods for verification  hybrid system might be one of possible solution to the cyber physical system design and  which behaviour can be described by two complementary parts, continuous and discrete
+     Url http://193.1.102.107/handle/10344/669
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Model Integration and Model Transformation Approach for Multi-Paradigm Cyber Physical System Development
+     Author ['L Lichen']
+     Venue Progress in Systems Engineering
+     Year 2015
+     Abstract In cyber-physical system, the physical world aspect of the system resides in the continuous and  not only real-time requirements but also requirements related to the continuous and continual  the models of among AADL [7], Modelica [8], SysML [9] and formal methods, clarify the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-08422-0_89
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Statistical model checking of an energy-saving cyber-physical system in the railway domain
+     Author ['D Basile', 'F Di Giandomenico', 'S Gnesi']
+     Venue Proceedings of the Symposium …
+     Year 2017
+     Abstract 4. MODELLING THE CASE STUDY We propose a cyber-physical system from the railway domain as case study: a rail road switch heating system  Indeed, this formalism allows to capture both discrete, continuous and stochastic aspects in a single framework
+     Url https://dl.acm.org/doi/abs/10.1145/3019612.3019824
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods for robotic system control software
+     Author ['Y Kouskoulas', 'A Platzer', 'P Kazanzides']
+     Venue Johns Hopkins APL technical …
+     Year 2013
+     Abstract controls turn out to be necessary.7 To create a model of a cyber-physical system by using  containing discrete computation and a dynamics statement to allow the evo- lution of continuous physics  time refer- ence can be used to restrict the length of the dynam- ics statements, as
+     Url https://www.jhuapl.edu/Content/techdigest/pdf/V32-N02/32-02-Kouskoulas.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract is the generic term used in the automotive industry to describe a service that provides continuous connectivity between  autonomous, the human–machine interface to ship-board supervisory control and data acquisition (SCADA) systems, networked  5. What are formal methods
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal verification of a descent guidance control program of a lunar lander
+     Author ['H Zhao', 'M Yang', 'N Zhan', 'B Gu', 'L Zou']
+     Venue … on Formal Methods
+     Year 2014
+     Abstract For the purpose of showing the technical feasibility and effectiveness of formal methods in the verification of aerospace guidance  procedures for the continuous dy- namics and the guidance program respectively; PC_Diff models the continuous dynam- ics given by (1
+     Url https://link.springer.com/chapter/10.1007/978-3-319-06410-9_49
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods in pattern recognition: a review
+     Author ['L Nieddu', 'G Patrizi']
+     Venue European Journal of Operational Research
+     Year 2000
+     Abstract Obviously, the field was characterised by formal methods and statistical methods of proof, with an approach, which was essentially deductive  Also, the result is not tied to the application of discrete predicates, but is valid also for continuous variables
+     Url https://www.sciencedirect.com/science/article/pii/S0377221798003683
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Continuous modeling of real-time and hybrid systems: from concepts to tools
+     Author ['KG Larsen', 'B Steffen', 'C Weise']
+     Venue International Journal on Software Tools for …
+     Year 1997
+     Abstract In the untimed case, there is a large family of log- ics suitable for the analysis of reactive  time calculus is ATP (Algebra of Timed Processes, [62]), which has a discrete and a continuous interpretation  5 http://www.dcs.ed.ac.uk/home/cwb/ 6 http://www.formal.demon.co.uk/FDR2
+     Url https://link.springer.com/content/pdf/10.1007/s100090050006.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title From electronic design automation to cyber-physical system design automation: A tale of platforms and contracts
+     Author ['P Nuzzo']
+     Venue Proceedings of the 2019 International Symposium on …
+     Year 2019
+     Abstract 2015. A Mixed Discrete- Continuous Optimization Scheme for Cyber-Physical System Architecture Ex- ploration. In Proc  2017. Stochastic contracts for cyber-physical system design under probabilistic requirements. In Int. Conf. Formal Methods and Models for Co-Design. 5–14
+     Url https://dl.acm.org/doi/abs/10.1145/3299902.3311070
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Integrating formal methods by unifying abstractions
+     Author ['R Boute']
+     Venue … Conference on Integrated Formal Methods
+     Year 2004
+     Abstract on, continuous, discrete, hybrid systems, data- bases, filters, formal methods, function extension, function  with auto- mated tools in classical engineering disciplines, such as mechanics and electron- ics  much more so than the use of tools for formal methods in software
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24756-2_24
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract in scaling FMs through adequate tool support for continuous reasoning in  time, hybrid computation with differential equations, probability, and rigid body dynam- ics  4 OPPORTUNITIES FOR INTEGRATED FORMAL METHODS This section continues with the environmental part
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title From formal methods to algorithmic implementation of human inspired control on bipedal robots
+     Author ['SN Yadukumar', 'M Pasupuleti', 'AD Ames']
+     Venue Algorithmic Foundations of …
+     Year 2013
+     Abstract Page 4. 514 SN Yadukumar, M. Pasupuleti, and AD Ames 2 Formal Methods for Bipedal Robot Modeling and Control  Zα = {(θ, ˙θ) ∈ TQR : yα(θ) = 0, LfR yα(θ, ˙θ) = 0} (10) invariant and exponentially stable for the continuous dynamics
+     Url https://link.springer.com/chapter/10.1007/978-3-642-36279-8_31
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Using formal methods to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue NA
+     Year 2008
+     Abstract primary idea behind a formal method is that there is benefit in writing a precise spec- ification of a system, and formal methods use a  to specify and verify such systems it is necessary to use a specification language that encom- passes both discrete and continuous mathematics
+     Url https://bura.brunel.ac.uk/handle/2438/1871
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A formal framework for aspect-oriented specification of cyber physical systems
+     Author ['L Zhang', 'J He']
+     Venue International Conference on Hybrid Information …
+     Year 2011
+     Abstract event systems, without continuous variables or differential equations. We present a combination of the formal methods Timed-CSP, ZimOO and differential (algebraic) equations or differential logic. Each method can describe certain aspects of a cyber physical system: CSP can
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24106-2_50
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods for life-critical software
+     Author ['R Butler', 'S Johnson']
+     Venue 9th Computing in Aerospace Conference
+     Year 1993
+     Abstract Classical Systems continuous state space smooth transitions  an electronic telephone book, and we wish to write down the requirements for it using formal methods  Second, the process of translating the requirements into mathemat- ics has forced us to enumerate many things
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1993-4516
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Towards Formal Methods for Mathematical Modelling
+     Author ['U Martin']
+     Venue NASA CONFERENCE PUBLICATION
+     Year 2000
+     Abstract Ursula Martin SRI International, Menlo Park CA University of St Andrews, Scotland um@ dcs  problems arise because of fun- damental design issues which mean that continuous math is  to provide convenient embed- ded reasoning tools for computational mathemat- ics systems
+     Url https://books.google.com/books?hl=en&lr=&id=XaAmAQAAIAAJ&oi=fnd&pg=PA59&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=lb9VGdpEWk&sig=Zl0T4fZl97IO7tt7f0rYeNl5cSo
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Mission accomplished: An introduction to formal methods in mobile robot motion planning and control
+     Author ['H Lin']
+     Venue Unmanned Systems
+     Year 2014
+     Abstract Motivated by these challenges, a recent trend in the robotic motion planning and control is to use formal methods, like model checking  Finally, the gener- ated sequence of discrete states or symbols are used by the continuous layer to construct continuous feedback control laws
+     Url https://www.worldscientific.com/doi/abs/10.1142/S2301385014300029
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods and object technology
+     Author ['SJ Goldsack', 'SJH Kent']
+     Venue NA
+     Year 2012
+     Abstract III Object Technology in Formal Methods 5 D Parlog": Object-Oriented Logic Programming with Distributed Active Classes 5.1 Introduction  105 6.11.1 An example of a continuous model  e-mail: Ian.Maung@dcs.warwick.ac.uk
+     Url https://books.google.com/books?hl=en&lr=&id=UFPlBwAAQBAJ&oi=fnd&pg=PR15&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=Wv-IiM08UY&sig=DtTqkDZcGkNzvvajU0iApAzJvQU
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Towards formal verification of analog and mixed-signal designs
+     Author ['S Gupta', 'BH Krogh', 'RA Rutenbar']
+     Venue NA
+     Year 2003
+     Abstract We are exploring the potential of applying recent formal methods for verification of hybrid systems to analog designs  CheckMate uses the flow- pipe approximation technique, where the basic idea is that start- ing from the initial continuous set (ICS), the trajectories of con
+     Url http://nanosioe.ee.ntu.edu.tw/Download/@@@Conference/2003%20SRC%20TECHCON/5/p_P006048.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title 40 years of formal methods
+     Author ['D Bjørner', 'K Havelund']
+     Venue International Symposium on Formal Methods
+     Year 2014
+     Abstract reactive sys- tems we can mention: CSP16 [58] and CCS17 [85] for textually modeling con- currency, DC18 [116] for modeling time-continuous temporal properties, MSC  The “formal methods” aspects of the development approach was first documented in [10, ICS'77] – and
+     Url https://link.springer.com/chapter/10.1007/978-3-319-06410-9_4
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract While formal methods have long been praised by the dependable Cyber-Physical System community, continuous software engineering practices are now employing or promoting semi-formal approaches for achieving lean and agile processes
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Extending the application of formal methods to analyse human error and system failure during accident investigations
+     Author ['CW Johnson', 'AJ Telford']
+     Venue Software Engineering Journal
+     Year 1996
+     Abstract In contrast, the model is built and interpreted by trained analysts in much the same way that forensic scientists build and interpret continuous models of physical  formal methods analysts modelling the causal sequences identified by forensic scientists, human factors experts etc
+     Url https://digital-library.theiet.org/content/journals/10.1049/sej.1996.0046
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Study on integrated modeling methods toward co-simulation of cyber-physical system
+     Author ['Y Wang', 'X Zhou', 'D Liang']
+     Venue 2012 IEEE 14th International …
+     Year 2012
+     Abstract Various formal methods are exist and are used, eg hybrid automata or Petri net-based  In this paper we analysis the concept and composition of Cyber-Physical System  use UML for discrete computation system modeling method and use Simulink for continuous physical system
+     Url https://ieeexplore.ieee.org/abstract/document/6332395/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A formal methods approach to pattern recognition and synthesis in reaction diffusion networks
+     Author ['E Bartocci', 'EA Gol', 'I Haghighi']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract 5, NO. 1, MARCH 2018 A Formal Methods Approach to Pattern Recognition and Synthesis in Reaction Diffusion Networks  Page 2. BARTOCCI et al.: FORMAL METHODS APPROACH TO PATTERN RECOGNITION AND SYNTHESIS IN REACTION DIFFUSION NETWORKS 309
+     Url https://ieeexplore.ieee.org/abstract/document/7565496/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods for control of traffic flow: Automated control synthesis from finite-state transition models
+     Author ['S Coogan', 'M Arcak', 'C Belta']
+     Venue IEEE Control Systems Magazine
+     Year 2017
+     Abstract models, whereas control-theoretic approaches to system analysis usually consider continuous state spaces  the focus is on a particular approach for applying formal methods to control  An alternative abstraction procedure that assumes piecewise-affine dynam- ics is discussed
+     Url https://ieeexplore.ieee.org/abstract/document/7879917/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal verification of maneuvering target tracking
+     Author ['M Moulin', 'L Gluhovsky', 'E Bendersky']
+     Venue AIAA Guidance, Navigation, and …
+     Year 2003
+     Abstract A considerable challenge is to verifying hybrid systems that involve a significant amount of nonlinear continuous dynam- ics  Formal methods (model checking)1'9 provide a full-coverage verification of the interception process performance and the robustness of the
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2003-5716
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A survey of formal methods for intelligent swarms
+     Author ['CA Rouff', 'WF Truszkowski', 'JL Rash']
+     Venue Greenbelt, MD: NASA …
+     Year 2005
+     Abstract levels of assurance than other (traditional) missions that use a single or small number of spacecraft that are deterministic in nature and have near continuous communication access. One of the highest possible levels of assurance comes from the application of formal methods
+     Url https://ntrs.nasa.gov/api/citations/20050156631/downloads/20050156631.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Leveraging Applications of Formal Methods, Verification, and Validation: 4th International Symposium on Leveraging Applications, ISoLA 2010, Heraklion …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2010
+     Abstract Page 1. Tiziana Margaria LO <!- \O U^ QD > –l Bernhard Steffen (Eds.) Leveraging Applications of Formal Methods, Verification, and Validation 4th International Symposium on Leveraging Applications, ISoLA 2010 Heraklion, Crete, Greece, October 2010, Proceedings, Part I
+     Url https://books.google.com/books?hl=en&lr=&id=_aBuCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=ZLxg9ATT7W&sig=OprXTler520O9EhTs64ggtQ_pBk
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract Page 1. The State-of-the-Art in Formal Methods by Milica Barjaktarovic Wilkes University Wilkes Barre PA 18766 and WetStone Technologies, Inc. 273 Ringwood Rd  Page 2. Report: State of the Art in Formal Methods M. Barjaktarovic / WetStone Technologies i Abstract
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods in the theories of rings and domains
+     Author ['D Rinaldi']
+     Venue NA
+     Year 2014
+     Abstract Formal Methods in the Theories  ics is identified with the constructive ones and opposed to the abstract classical ones; the goal is to provide  a minimal constructive framework to deal with basic topological concepts such as open and closed subsets, and continuous functions
+     Url https://edoc.ub.uni-muenchen.de/17570/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Learning by doing: Practical courses in lightweight formal methods using vdm+
+     Author ['PG Larsen', 'J Fitzgerald', 'S Riddle']
+     Venue NA
+     Year 2006
+     Abstract When they encounter their first formal methods course, Newcastle students have at least what Boute describes as “Basic Computing  and predicate calculus, relations and func- tions, recursive structures and induction, in addition to some continuous mathemat- ics
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.1551&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal verification of maneuvering target tracking
+     Author ['M Moulin', 'L Gluhovsky', 'E Bendersky']
+     Venue AIAA Guidance, Navigation, and …
+     Year 2003
+     Abstract A considerable challenge is to verifying hybrid systems that involve a significant amount of nonlinear continuous dynam- ics  Formal methods (model checking)1'9 provide a full-coverage verification of the interception process performance and the robustness of the
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2003-5716
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Extending the application of formal methods to analyse human error and system failure during accident investigations
+     Author ['CW Johnson', 'AJ Telford']
+     Venue Software Engineering Journal
+     Year 1996
+     Abstract In contrast, the model is built and interpreted by trained analysts in much the same way that forensic scientists build and interpret continuous models of physical  formal methods analysts modelling the causal sequences identified by forensic scientists, human factors experts etc
+     Url https://digital-library.theiet.org/content/journals/10.1049/sej.1996.0046
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods for aerospace systems
+     Author ['M Bozzano', 'H Bruintjes', 'A Cimatti', 'JP Katoen']
+     Venue Cyber-physical system …
+     Year 2017
+     Abstract Cyber-Physical System Design from an Architecture Analysis Viewpoint pp 133-159 | Cite as  that opens up the possibility to apply a wealth of formal methods for various  behaviour, such as mechanics and hydraulics, the modelling language supports continuous real-valued
+     Url https://link.springer.com/chapter/10.1007/978-981-10-4436-6_6
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A model for vehicular Cyber-Physical System based on extended hybrid automaton
+     Author ['L Ye-Jing', 'C Ming-Cai', 'Z Guang-Quan']
+     Venue … Computer Science & …
+     Year 2013
+     Abstract is a typical CPS, which is known as the Vehicular Cyber-Physical System (ie VCPS)  It can express the continuous dynamic of system by differential equations, and can also  and systems engineering, Third ACM & IEEE International Conference on Formal Methods and Models
+     Url https://ieeexplore.ieee.org/abstract/document/6554123/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal methods in industrial practice-Bridging the gap (track summary)
+     Author ['M Felderer', 'D Gurov', 'M Huisman', 'B Lisper']
+     Venue … of Formal Methods
+     Year 2018
+     Abstract Industrial Testing Process) consider automatic white-box testing based on formal methods as a  of underlying SMT tools, and integration into industrial build and continuous integration processes  also to the security of more traditional critical infrastructures or SCADA systems that
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03427-6_10
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel
+     Author ['L Nelson', 'J Van Geffen', 'E Torlak']
+     Venue … on Operating Systems …
+     Year 2020
+     Abstract Applying formal methods to BPF just-in-time compilers in the Linux kernel  For instance, it introduced a Haskell prototype as the bridge between formal methods and kernel developers, separating verification arti- facts from the C implementation [45]
+     Url https://unsat.cs.washington.edu/papers/nelson-jitterbug.pdf
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Software+Validation"
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A case study in JML-based software validation
+     Author ['L du Bousquet', 'Y Ledru', 'O Maury']
+     Venue Proceedings. 19th …
+     Year 2004
+     Abstract This paper reports on a testing case study applied to a small Java application, partially specified in JML. It illustrates that JML can easily be integrated with classical testing tools based on combinatorial techniques and random generation. It also reveals difficulties to
+     Url https://ieeexplore.ieee.org/abstract/document/1342750/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Space software validation using abstract interpretation
+     Author ['O Bouissou', 'E Conquet', 'P Cousot', 'R Cousot', 'J Feret']
+     Venue NA
+     Year 2009
+     Abstract Astrium Space Transportation, CEA, and ENS have analyzed the performances of two recent tools on a case study extracted from the safety software of the ATV  One use of abstract interpretation techniques is to improve the confidence and reduce the cost of software validation
+     Url https://hal.inria.fr/inria-00528590/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Software validation in metrology: A case study for a GUM-supporting software
+     Author ['N Greif', 'H Schrepf', 'D Richter']
+     Venue Measurement
+     Year 2006
+     Abstract Software validation in metrology is a crucial, often highly interdisciplinary process. One needs to consider all steps beginning with the definition of requirements and ending with the provision of evidence that the requirements are fulfilled. This includes the refinement of
+     Url https://www.sciencedirect.com/science/article/pii/S0263224106000741
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Microservices validation: Mjolnirr platform case study
+     Author ['DI Savchenko', 'GI Radchenko']
+     Venue 2015 38th International …
+     Year 2015
+     Abstract Page 1. Microservices validation: Mjolnirr platform case study  To reach this goal, during our research we should solve the following tasks: • to provide a review of existing software validation methods to identify testing features that are specific to microservice architecture;
+     Url https://ieeexplore.ieee.org/abstract/document/7160271/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Predicting fault-proneness using OO metrics. An industrial case study
+     Author ['P Yu', 'T Systa', 'H Muller']
+     Venue … of the Sixth European Conference on …
+     Year 2002
+     Abstract These hypotheses are empirically tested in a case study, in which the client side of a large network service management system is studied  Briand, et al. [2] and Schneidewind [22] have discussed this kind of software validation in detail
+     Url https://ieeexplore.ieee.org/abstract/document/995794/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title An industrial case study of the verification and validation activities
+     Author ['T Berling', 'T Thelin']
+     Venue … in Healthcare Industry (IEEE Cat. No …
+     Year 2004
+     Abstract The results will be used as input to a quality improvement program in the company. Keywords case study, software process improvement, software testing, software validation, incremental development, fault detection technique, software process metrics
+     Url https://ieeexplore.ieee.org/abstract/document/1232470/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Caveat: A tool for software validation
+     Author ['P Baudin', 'A Pacalet', 'J Raguideau', 'D Schoen']
+     Venue … Systems and Networks
+     Year 2002
+     Abstract We prove the soundness of our approach and show its effectiveness by mutation analysis. Our case study presents an approximate 50% reuse of verification results for postconditions, and 70% reuse of verification results for sub-goals
+     Url https://www.computer.org/csdl/proceedings-article/dsn/2002/15970537/12OmNBkxsoZ
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Verification and validation of bioinformatics software without a gold standard: a case study of BWA and Bowtie
+     Author ['E Giannoulatou', 'SH Park', 'DT Humphreys', 'JWK Ho']
+     Venue BMC bioinformatics
+     Year 2014
+     Abstract This work serves as a case study for demonstrating the application of an intuitive testing framework for systematic verification and validation of  of these relations are not necessary properties of short-read alignment software, they are important for software validation and software
+     Url https://link.springer.com/article/10.1186/1471-2105-15-S16-S15
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Model simulation, validation and case study of the 2004 THS of Toyota Prius
+     Author ['E Vinot', 'J Scordia', 'R Trigui']
+     Venue … Journal of Vehicle …
+     Year 2008
+     Abstract The software validation was carried out using a set of different driving schedules, ranging from the specific urban type to the motorway type (Figure 13 and Table 2) and also dynamic performances. Page 17. Model simulation, validation and case study of the 2004 THS 155
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJVSMT.2008.023835
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title New assertion concepts for self-metric software validation
+     Author ['LG Stucki', 'GL Foshee']
+     Venue ACM SIGPLAN Notices
+     Year 1975
+     Abstract NEW ASSERTION CONCEPTS FOR SELF-METRIC SOFTWARE VALIDATION  9. Brown, JR, et al., "Automated Software Quality Assurance: A Case Study of Three Systems", ACM SIGPLAN Symposium on Computer Program Test Methods, Chapel Hill, NC, June 21-23, 1972
+     Url https://dl.acm.org/doi/abs/10.1145/390016.808425
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Automatic test generation for the analysis of a real-time system: Case study
+     Author ['D Clarke', 'I Lee']
+     Venue … Third IEEE Real-Time Technology and …
+     Year 1997
+     Abstract for software validation purposes. The major benefit of our approach is that it can be used to validate a design specification which has too many states for exhaustive state space exploration based analysis. As an illustration of this benefit, we describe the case study of using the
+     Url https://ieeexplore.ieee.org/abstract/document/601349/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Control system modernization: Turbogas unit case study
+     Author ['RR Garduño', 'PM Sánchez']
+     Venue IFAC Proceedings Volumes
+     Year 1995
+     Abstract CONTROL SYSTEM MODERNIZATION: TURBOGAS UNIT CASE STUDY RauJ Garduiio R. and Marino Sanchez P  Major emphasis is done at the modernization methodology, automation and control scheme design, and control software validation stages
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017447999
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Inception of software validation and verification practices within CMMI Level 2
+     Author ['P Monteiro', 'RJ Machado']
+     Venue 2009 Fourth International …
+     Year 2009
+     Abstract Page 1. Inception of Software Validation and Verification Practices within CMMI Level 2  [4] E. Bernard, B. Legeard, X. Luck and F. Peureux, “Generation of test sequences from formal specifications: GSM 11-11 standard case study,” Software: Practice and Experience, vol. 34, no
+     Url https://ieeexplore.ieee.org/abstract/document/5298751/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Case study: Paris metro signaling system
+     Author ['S Gerhart', 'D Craigen', 'T Ralston']
+     Venue IEEE Software
+     Year 1994
+     Abstract 4. G. Guiho and C. Hennebert, "SACEM: Software Validation," Proc. Int'l Conf Sufrd!arel!.ng., IEEE CS Press, Los Alamiros, Calif., 1990, pp. ] R6-1 91 The authors' biographies are on p.28. CASE STUDY: TRAFFIC ALERT AND COLLISION· AVOIDANCE SYil EM
+     Url https://ieeexplore.ieee.org/abstract/document/1279941/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Software Validation Study.
+     Author ['JC Bartlett', 'SG Farnum', 'PD Samson']
+     Venue NA
+     Year 1973
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A case study in hardware-in-the-loop testing: Development of an ECU for a hybrid electric vehicle
+     Author ['D Ramaswamy', 'R McGee', 'S Sivashankar']
+     Venue NA
+     Year 2004
+     Abstract 2004-01-0303 A Case Study in Hardware-In-the-Loop  Overall, a reasonable correlation of the vehicle test data and HIL system simulation data was found. The correlation was sufficient to provide a good level of confidence in the usage of the HIL system for software validation
+     Url https://www.sae.org/publications/technical-papers/content/2004-01-0303/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A test generation solution to automate software testing
+     Author ['F Bouquet', 'C Grandpierre', 'B Legeard']
+     Venue Proceedings of the 3rd …
+     Year 2008
+     Abstract In this precise case study, the scope of the functional testing and the system observation points turn out critical to success such validation campaign  Requirement Traceability in Automated Test Generation - Application to Smart Card Software Validation. In Proc. of the ICSE Int
+     Url https://dl.acm.org/doi/abs/10.1145/1370042.1370052
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A case study in design and verification of manufacturing system control software with hierarchical Petri nets
+     Author ['M Heiner', 'P Deussen', 'J Spranger']
+     Venue The International Journal of Advanced …
+     Year 1999
+     Abstract tation presented in this paper (see Section6) follows the second strategy. The process model applied in this case study can be seen as an adaptation of the general Petri net based approach to software validation presented in [2,3,4]. Key ideas are shown in Fig. 1
+     Url https://link.springer.com/content/pdf/10.1007/s001700050051.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Improving validation activities in a global software development
+     Author ['C Ebert', 'CH Parro', 'R Suttels']
+     Venue Proceedings of the 23rd …
+     Year 2001
+     Abstract We will evaluate within this case study experiences with validation activities in a global setting within Alcatel's Switching and Routing business, We will investigate three hypotheses re- lated to effects of collocated inspections, intensive coaching, and feature-oriented
+     Url https://ieeexplore.ieee.org/abstract/document/919129/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Embedded systems and software validation
+     Author ['A Roychoudhury']
+     Venue NA
+     Year 2009
+     Abstract Embedded systems and software validation / Abhik Roychoudhury. p. cm  8 2.2 CriteriaforDesignModel..... 10 2.3 Informal Requirements: A Case Study ..... 12 2.3.1 TheRequirementsDocument
+     Url https://books.google.com/books?hl=en&lr=&id=d-7r5hkYBhUC&oi=fnd&pg=PP1&dq=%22Case+Study%22+%22Software+Validation%22&ots=5OLpNPQjuy&sig=LKy2hyVNBSn6EyDLX1yOzv77Zd8
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract Moreover, various lessons have been learnt from our use of the Model-Based Testing process for smart card software validation testing: - Modeling for testing is cost effective: We show  Generation of Test Sequences from Formal Specifications: GSM 11-11 Standard Case Study
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Development and validation of energy signature method–Case study on a multi-family building in Sweden before and after deep renovation
+     Author ['M Eriksson', 'J Akander', 'B Moshfegh']
+     Venue Energy and Buildings
+     Year 2020
+     Abstract Volume 210, 1 March 2020, 109756. Energy and Buildings. Development and validation of energy signature method – Case study on a multi-family building in Sweden before and after deep renovation  2. Case study building and energy efficiency measures
+     Url https://www.sciencedirect.com/science/article/pii/S0378778819328580
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Expressing and implementing operational profiles for reactive software validation
+     Author ['L du Bousquet', 'F Ouabdesselam']
+     Venue … on Software Reliability …
+     Year 1998
+     Abstract Page 1. Expressing and Implementing Operational Profiles for Reactive Software Validation L. du Bousquet F. Ouabdesselam J.-L. Richier  Section 5 exemplifies the usefulness of these tech- niques in an industrial case study. 2. Lutess
+     Url https://ieeexplore.ieee.org/abstract/document/730885/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title V&V in the next decade [software validation]
+     Author ['JR Dunham']
+     Venue IEEE Software
+     Year 1989
+     Abstract standing about when and how to success- fully evaluate software technology can result only from additional experimenta- tion. There are four general types of evalua- tion studies: descriptive, case study, for- mal, and quasi-experiments. Descriptive evaluations
+     Url https://ieeexplore.ieee.org/abstract/document/28123/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A Case Study in JML-based Software Validation
+     Author ['L du Bousquet', 'Y Ledru', 'O Maury', 'C Oriat']
+     Venue … on Automated Software …
+     Year 2004
+     Abstract This paper reports on a testing case study applied to a small Java application, partially specified in JML. It illustrates that JML can easily be integrated with classical testing tools based on combinatorial techniques and random generation. It also reveals difficulties to
+     Url https://www.computer.org/csdl/proceedings-article/ase/2004/21310294/12OmNAtK4jZ
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Validation of temperature-perturbation and CFD-based modelling for the prediction of the thermal urban environment: The Lecce (IT) case study
+     Author ['G Maggiotto', 'R Buccolieri', 'MA Santo', 'LS Leo']
+     Venue … Modelling & Software
+     Year 2014
+     Abstract Advanced. Elsevier. Environmental Modelling & Software. Volume 60, October 2014, Pages 69-83. Environmental Modelling & Software. Validation of temperature-perturbation and CFD-based modelling for the prediction of the thermal urban environment: the Lecce (IT) case
+     Url https://www.sciencedirect.com/science/article/pii/S1364815214001650
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Requirements traceability: a systematic review and industry case study
+     Author ['R Torkar', 'T Gorschek', 'R Feldt']
+     Venue … Journal of Software …
+     Year 2012
+     Abstract Requirements Traceability: A Systematic Review and Industry Case Study 391  A Critical Study [9] Deciding to Adopt Requirements Traceability in Practice [10] Requirements Traceability in Automated Test Generation Application to Smart Card Software Validation [11] Tracing
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401250009X
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Reference Case Study “Traffic Control Systems” for Comparison and Validation of Formal Specifications Using a Railway Model Demonstrator
+     Author ['F Hänsel', 'J Poliak', 'R Slovák', 'E Schnieder']
+     Venue Integration of Software …
+     Year 2004
+     Abstract The described reference case study combines different aspects of specification problems from the traffic control system domain and was  Software validation in the context of an assessment process in railway engineering today often requires integration of hardware components
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27863-4_8
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Deploying hardware platforms for SoC validation: An industrial case study
+     Author ['A Bigot', 'F Charpentier', 'H Krupnova', 'I Sans']
+     Venue International Conference on …
+     Year 2004
+     Abstract Deploying Hardware Platforms for SoC Validation: An Industrial Case Study 71  The hardware verification platforms were deployed on one of the company sites. The hardware and software validation teams for both projects were geographically spread to more than five sites
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30117-2_9
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Integrated security verification and validation: Case study
+     Author ['D Ghindici', 'G Grimaud', 'I Simplot-Ryl']
+     Venue … . 2006 31st IEEE …
+     Year 2006
+     Abstract In our case study, insecurity arises from malicious im- plementations, as depicted by the sequence diagram in Fig- ure 3. The diagram describes the interaction sequence in- volved in the method getLastT reatment supported by the Doctor application  4. Software validation 4.1
+     Url https://ieeexplore.ieee.org/abstract/document/4116692/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Use of GSPNs for concurrent software validation in EPOCA
+     Author ['S Donatelli', 'G Franceschinis', 'M Ribaudo']
+     Venue Information and Software …
+     Year 1994
+     Abstract Use of GSPNs for concurrent software validation: S Donatelli et al. graphical layout. Details of the translation process can be found in Reference 12. Although a detailed description of a case study is out of the scope of this paper, let us consider for instance the DISC program of
+     Url https://www.sciencedirect.com/science/article/pii/0950584994900671
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title The Airlift Capabilities Estimation Prototype: A Case Study in Model Validation
+     Author ['R McCanne']
+     Venue NA
+     Year 1993
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A case study on testing CMM uncertainty simulation software (VCMM)
+     Author ['AJ Abackerli', 'PH Pereira']
+     Venue Journal of the Brazilian …
+     Year 2010
+     Abstract ISSN 1471-0005. [ Links ]. Greif, N. et al., 2006, "Software validation in metrology: A case study for a GUM-supporting software", Measurement, Vol. 39, pp. 849-855, doi:10.1016/j.measurement.2006.04.005. [ Links ]. Habra, N. et
+     Url https://www.scielo.br/scielo.php?pid=S1678-58782010000100002&script=sci_arttext
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Predicting defect content and quality assurance effectiveness by combining expert judgment and defect data-a case study
+     Author ['M Kläs', 'H Nakao', 'F Elberzhager']
+     Venue 2008 19th International …
+     Year 2008
+     Abstract Page 1. Predicting Defect Content and Quality Assurance Effectiveness by Combining Expert Judgment and Defect Data - A Case Study  To evaluate the proposed method with respect to appli- cability, application cost, and usefulness, a case study [15] was performed
+     Url https://ieeexplore.ieee.org/abstract/document/4700306/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Evaluating freshwater macroinvertebrates from eDNA metabarcoding: A river Nalón case study
+     Author ['S Fernández', 'S Rodríguez', 'JL Martínez', 'YJ Borrell']
+     Venue PloS one
+     Year 2018
+     Abstract Peer-reviewed. Research Article. Evaluating freshwater macroinvertebrates from eDNA metabarcoding: A river Nalón case study. Sara Fernández , Roles Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Software, Validation, Writing – original
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201741
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title How to assure correctness and safety of medical software: the hemodialysis machine case study
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue … , Alloy, B, TLA, VDM, and Z
+     Year 2016
+     Abstract machine case study. In: Butler, M., Schewe, K.-D., Mashkoor, A., Biro, M. (eds.) ABZ 2016. LNCS, vol. 9675, pp. 329–343. Springer, Heidelberg (2016)Google Scholar. 21. US Food and Drug Administration (FDA). General principles of software validation; final guidance for
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33600-8_30
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title State coverage: Software validation metrics beyond code coverage
+     Author ['D Vanoverberghe', 'J de Halleux', 'N Tillmann']
+     Venue … Conference on Current …
+     Year 2012
+     Abstract We propose a general definition for state coverage, a software validation metric that goes beyond code coverage  We evaluate the metric in a case study on several open-source libraries, using a prototype implementation of our algorithm
+     Url https://link.springer.com/chapter/10.1007/978-3-642-27660-6_44
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Computational-experimental approach to drug-target interaction mapping: a case study on kinase inhibitors
+     Author ['A Cichonska', 'B Ravikumar', 'E Parri']
+     Venue PLoS computational …
+     Year 2017
+     Abstract approach to drug-target interaction mapping: A case study on kinase inhibitors. Anna Cichonska , Roles Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Software, Validation, Visualization, Writing
+     Url https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1005678
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Validation of measurement software as an application of slicing and constraint solving
+     Author ['J Krinke', 'G Snelting']
+     Venue Information and Software Technology
+     Year 1998
+     Abstract method. PTB is thus highly interested in tool support for software validation. Therefore  accuracy. A final case study will show how our techniques can reveal manipulations in measurement system software. 2. The VALSOFT slicing system. The
+     Url https://www.sciencedirect.com/science/article/pii/S0950584998000901
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Socio-hydrosystem modelling for integrated water-resources management—the Hérault catchment case study, southern France
+     Author ['S Lanini', 'N Courtois', 'F Giraud', 'V Petit']
+     Venue … Modelling & Software
+     Year 2004
+     Abstract Validation of the model is presented in the third section and a proposed set of simulations is discussed in the concluding section  one (winegrower) is dedicated to human activities related to water uses (wine growing irrigation practices in the present case study), the second one
+     Url https://www.sciencedirect.com/science/article/pii/S1364815203002561
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title A case study in developing control software of manufacturing systems with hierarchical Petri nets
+     Author ['M Heiner', 'P Deussen']
+     Venue Proc. 1st Int …
+     Year 1996
+     Abstract The implemen- tation presented in this paper (see section 5) follows the second strategy. The process model applied in this case study can be seen as an adaptation of the general Petri net based approach to software validation presented in [16], [17]
+     Url https://www-dssz.informatik.tu-cottbus.de/~wwwdssz/publications/papers/1996_osaka.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title An open source and low cost solution for consumer electronics middleware validation
+     Author ['GM Calixto', 'C Hira', 'LCP Costa']
+     Venue 2013 IEEE …
+     Year 2013
+     Abstract validation have been executed with a satisfactory behavior, becoming a low cost and open source alternative to consumer electronics software validation  After that, a case study involving a middleware development is shown as well as the obtained results and conclusions. II
+     Url https://ieeexplore.ieee.org/abstract/document/6570161/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Verification, validation and testing in software engineering
+     Author ['A Dasso']
+     Venue NA
+     Year 2006
+     Abstract ISBN 1-59140-851-2 (hardcover)--ISBN 1-59140-852-0 (softcover)--ISBN 1-59140-853-9 (ebook) 1. Computer software--Validation  The authors also describe a software tool associated with the proposed method along with a case study for an embedded system
+     Url https://books.google.com/books?hl=en&lr=&id=OxDxrmef7g8C&oi=fnd&pg=PR1&dq=%22Case+Study%22+%22Software+Validation%22&ots=F_hfR904_7&sig=l2DzlJ6wXrJqBJ7PpqD80m3I5XQ
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Development and validation of system design principles for water reuse systems
+     Author ['D Joksimovic', 'DA Savic', 'GA Walters', 'D Bixio']
+     Venue Desalination
+     Year 2008
+     Abstract The principle components of the software (simulation and optimisation models) are presented, followed by the discussion on the software validation. A case study is then illustrated, on which WTRNet has been applied to develop least-cost design alternatives
+     Url https://www.sciencedirect.com/science/article/pii/S001191640700519X
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Towards the trustworthy development of active medical devices: a hemodialysis case study
+     Author ['A Mashkoor', 'M Biro']
+     Venue IEEE Embedded Systems Letters
+     Year 2015
+     Abstract [6] Food and Drug Administration (FDA), “General Principles of Software Validation; Final Guidance for  2013. [10] M. Pajic, Z. Jiang, I. Lee, O. Sokolsky, and R. Mangharam, “From ver- ification to implementation: A model translation tool and a pacemaker case study,” in Real
+     Url https://ieeexplore.ieee.org/abstract/document/7303906/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Measuring the cost of software quality of a large software project at bombardier transportation: a case study
+     Author ['CY Laporte', 'B Nabil', 'D Mikel']
+     Venue Softw Qual Manag
+     Year 2012
+     Abstract At the time of this case study, there are over 30 software development centers within Bombardier Transportation, for a total of  Analysis Software Architectural Design Software Detailed Design Software Coding and Testing Software Integration Software Validation Testing System
+     Url https://www.researchgate.net/profile/Claude_Laporte/publication/236398768_Measuring_the_Cost_of_Software_Quality_of_a_Large_Software_Project_at_Bombardier_Transportation/links/0c960517eb6c4c64e7000000/Measuring-the-Cost-of-Software-Quality-of-a-Large-Software-Project-at-Bombardier-Transportation.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title ECSS standard compliant agile software development: an industrial case study
+     Author ['E Ahmad', 'B Raza', 'R Feldt', 'T Nordebäck']
+     Venue Proceedings of the 2010 …
+     Year 2010
+     Abstract Keywords Case Study, European Cooperation for Space Standardiza- tion, Agile Paradigm  The software validation process according to ECSS con- sists of validation process implementation and its activities, with respect to technical specification and requirement base- line
+     Url https://dl.acm.org/doi/abs/10.1145/1890810.1890816
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Formal verification with Frama-C: A case study in the space software domain
+     Author ['RAB e Silva', 'NN Arai', 'LA Burgareli']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract 3, SEPTEMBER 2016 1163 Formal Verification With Frama-C: A Case Study in the Space Software Domain  Section III presents the related works. Section IV describes the case study and reports the practical experiments. Section V presents a discussion of the obtained results
+     Url https://ieeexplore.ieee.org/abstract/document/7365489/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Software validation of medical instruments
+     Author ['DR Boccardo', 'RCS Machado']
+     Venue 2014 IEEE …
+     Year 2014
+     Abstract It introduces an architecture to deal with the software validation complexity, reducing  We describe how such approach can be implemented in medical instruments (case study: sphygmomanometer) by means of a trusted hardware device or by software separation inside the
+     Url https://ieeexplore.ieee.org/abstract/document/6860090/
+
+
+     Search term "Case+Study"+"Software+Validation"
+     Title Application of rule‐based expert systems in hardware‐in‐the‐loop simulation case study: Software and performance validation of an engine electronic control unit
+     Author ['PM Ortega‐Cabezas']
+     Venue Journal of Software …
+     Year 2020
+     Abstract Koopman and Wagner exposed the main future issues when it comes to software validation in the Society of Automotive Engineers Congress.40 One  the SM, and the accuracy required for the output results They have been considered as representative for this case study by the
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2223
+

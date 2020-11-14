@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract of the Model-Based Testing process for smart card software validation testing: - Modeling  Requirements traceability further improves integration with existing development processes  In Proceedings of the International Conference on Formal Methods Europe (FME'93), volume
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract The importance of linking testing and requirements, eg, via test traceability has been  Software verification is a technique to provide for- mal guarantees that software implementations conform to  The applicability of formal methods is also reflected in formal requirements analysis
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Modeling functional requirements to support traceability analysis
+     Author ['N Kececi', 'J Garbajosa']
+     Venue 2006 IEEE International …
+     Year 2006
+     Abstract traceability analysis within the context of software verification rather than within the context of software validation  TABLE 1 CATEGORIES OF SOFTWARE VERIFICATION METHODS Category Description Formal Mathematical Verification ofSoftware Methods  A. Formal Methods
+     Url https://ieeexplore.ieee.org/abstract/document/4078923/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Ontology-based model for Rational Unified Process artifacts traceability
+     Author ['SM Yassin', 'IF Moawad', 'R El Gohary']
+     Venue … & Systems (ICCES)
+     Year 2012
+     Abstract approaches overcome some of the previously mentioned disadvantages of the formal methods  model for integrating the knowledge engineering and the automatic software verification process into  Because of managing the traceability process through the different RUP phases
+     Url https://ieeexplore.ieee.org/abstract/document/6408522/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software verification and validation: an engineering and scientific approach
+     Author ['MS Fisher']
+     Venue NA
+     Year 2007
+     Abstract such as reviews, static and dynamic analysis, testing and formal methods to provide  For example, the V&V team performs traceability analysis, interface analysis, and requirements analy  Software Verification and Validation 5 These analyses are complimentary to the developers
+     Url https://books.google.com/books?hl=ro&lr=&id=4p0RQPMVuDsC&oi=fnd&pg=PA1&dq=%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Traceability%22&ots=JN6gxCtoxV&sig=iFM7NzTzdJ0JfeTpl4ZoSimgHcY
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE SCHOOL OF INFORMATION TECHNOLOGY THE UNIVERSITY OF QUEENSLAND
+     Author ['SF Traceability', 'P Lindsay', 'O Traynor']
+     Venue NA
+     Year 1998
+     Abstract SOFTWARE VERIFICATION RESEARCH CENTRE  a document conformance system) and illustrate the bene ts accrued from our con guration management models from the traceability viewpoint  Formal Methods of software development have particular needs in relation to CM
+     Url https://www.researchgate.net/profile/Peter_Lindsay3/publication/2643393_Supporting_Fine-grained_Traceability_in_Software_Development_Environments/links/004635232d46dcf15d000000/Supporting-Fine-grained-Traceability-in-Software-Development-Environments.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Toward easy inspection and effective use of formal methods in NPP software fields
+     Author ['SR Koo', 'HS Son', 'PH Seong', 'J Yoo']
+     Venue Transactions of the …
+     Year 2002
+     Abstract Towards Easy Inspection and Effective Use of Formal Methods in NPP  of software verification and validation (V&V) is more emphasized in view of the nuclear safety  supports requirement traceability analysis, which is considered as one of important activities of software V&V
+     Url https://www.researchgate.net/profile/Poong_Seong/publication/267852290_Towards_Easy_Inspection_and_Effective_Use_of_Formal_Methods_in_NPP_Software_Fields/links/54805e8b0cf250f1edc0f0b7/Towards-Easy-Inspection-and-Effective-Use-of-Formal-Methods-in-NPP-Software-Fields.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Supporting fine-grained traceability in software development environments
+     Author ['P Lindsay', 'O Traynor']
+     Venue International Workshop on Software Configuration …
+     Year 1998
+     Abstract Formal Methods Pacific (FMP'97). Springer Verlag, 1997. 4. PA Lindsay and O. Traynor. A formal model of fine grained traceability in software development environments. Technical Report 98-10, Software Verification Research Centre, School of Information Technology, The
+     Url https://link.springer.com/chapter/10.1007/BFb0053884
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Industrial software verification and testing technology
+     Author ['P Drobintsev', 'V Kotlyarov', 'A Letichevsky']
+     Venue CEUR Workshop …
+     Year 2017
+     Abstract Industrial software verification and testing technology  Applicability of formal methods in the industry is determined to a great extent by how adequate is the formalization language to accepted engineering practice which involves not only code developers  4 Traceability matrix
+     Url http://ceur-ws.org/Vol-1989/paper52.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Development of Software Requirement Analysis Tool for NPP Software Fields Based on Software Inspection and Formal Method
+     Author ['SR Koo', 'S HS', 'PH Seong', 'JB Yoo']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract Inspection and requirement traceability analysis are widely believed to be the most effective software verification and validation (V&V) methods. Though formal methods are also considered as an effective V&V harness, they are not easy to be used properly in nuclear fields
+     Url http://dslab.konkuk.ac.kr/Publication/Old/ISOFIC2002.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Assistance in software validation
+     Author ['A Arnould', 'P Baudin', 'JM Collart']
+     Venue DASIA 98-Data …
+     Year 1998
+     Abstract 2]. It is undeniably true that the use of formal methods increases software quality and reliability  This tool meets the iiìitial requirement in assisting the user in software validation tasks: it provides a  The traceability of the remaining preconditions makes the work easier for the user
+     Url http://adsabs.harvard.edu/full/1998ESASP.422..207A
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Integrated technology for industrial software verification and testing
+     Author ['V Kotlyarov', 'P Drobintsev', 'I Nikiforov']
+     Venue Proceedings of the 2014 …
+     Year 2014
+     Abstract Applicability of formal methods in the industry is determined to a great extent by how adequate is the formalization language to  IV. TRACEABILITY MATRIX Verification project requirements formalization starts with Traceability matrix (TRM) [1] creation (TRM for specific project is
+     Url http://inase.org/library/2014/russia/bypaper/MEAS/MEAS-19.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A Requirements-to-Implementation Mapping Tool for Requirements Traceability.
+     Author ['JE Garcia', 'ACR Paiva']
+     Venue JSW
+     Year 2016
+     Abstract to support various activities such as analyzing the impact of changes and software verification and validation  Automated requirements traceability: The study of human analysts  She teaches subjects like software testing, formal methods and software engineering, among others
+     Url http://www.jsoftware.us/vol11/135-S062.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Repeatable and Tracable Software Verification for 3D Coordinate Measuring Machines
+     Author ['B Müller']
+     Venue Proceedings of the 18th World Multi-Conference on …
+     Year 2014
+     Abstract only very small and simple software systems can be verified correct based on formal methods of mathematics  The TraCIM Software Verification System (TraCIM SVS) which is under active development at the moment is part of the TraCIM project (Traceability for computational
+     Url http://www.iiis.org/CDs2014/CD2014SCI/SCI_2014/PapersPdf/MA688QD.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The Formal Methods Group of WG-71/SC-205 (Sub-group 6)
+     Author ['D Brown']
+     Venue NA
+     Year 2008
+     Abstract A-5.3 Verifiability A-5.4 Conformance A-5.6 Accuracy & Consistency Formal Methods proves properties completely thus effectively removing a need for coverage metrics  f. Traceability g. Algorithm aspects 6.0 SOFTWARE VERIFICATION PROCESS
+     Url https://hal.archives-ouvertes.fr/hal-02270314/file/ERTS2008_0116_paper.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title LADEE Flight Software: Verification Techniques SPIN 2014
+     Author ['K Gundy-Burlet']
+     Venue NA
+     Year NA
+     Abstract With this amount of data, we are _not_ going to hand-inspect the requirements • Application of formal methods techniques to telemetry streams. – 144 requirements to assess • GN&C • Modes  Time correlations among different telemetry packets. – Bidirectional Traceability
+     Url https://ntrs.nasa.gov/api/citations/20140012997/downloads/20140012997.pdf?attachment=true
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The first thirty years: experience with software verification
+     Author ['M Hennell']
+     Venue International Conference on Tests and Proofs
+     Year 2008
+     Abstract automatically generated documents showing the suc- cessful verification of the derived requirements with complete traceability  The First Thirty Years: Experience with Software Verification  own definitions and view of the world, even terms like testing and formal methods
+     Url https://link.springer.com/chapter/10.1007/978-3-540-79124-9_1
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Rich traceability
+     Author ['J Dick']
+     Venue … of the 1st international workshop on traceability in …
+     Year 2002
+     Abstract by Binary Decision Diagrams, used in hardware and software verification  In particular, rich traceability can provide the basis for  Formal Arguments that Persuade Certifiers, In Michael G Hinchey & Jonathan P Bowen (Eds), Industrial-Strength Formal Methods in Practice
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.6487&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title TEC~~ Q
+     Author ['PLD Hemer']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract determine the proven system prop- erties and check it against the correctness, consistency, and traceability  2. The place of the software verification and validation in the quality assurance  formalized, since, otherwise, to prove somewhat by the use of any formal methods will be
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A generic model for fine grained configuration management including version control and traceability
+     Author ['P Lindsay', 'Y Liu', 'O Traynor']
+     Venue Proceedings of Australian …
+     Year 1997
+     Abstract Page 1. A Generic Model for Fine Grained Configuration Management Including Version Control and Traceability Peter Lindsay, Yaowei Liu, Owen Traynor Software Verification Research Centre School of Information Technology The University of Queensland St
+     Url https://ieeexplore.ieee.org/abstract/document/623752/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Formal Analysis and Verification of Airborne Software Based on DO-333
+     Author ['Z Cao', 'W Lv', 'Y Huang', 'J Shi', 'Q Li']
+     Venue Electronics
+     Year 2020
+     Abstract This research covers the entire A-level software verification process defined in DO-333, which can  Demonstrate the practical application of formal methods using the  all the requirements were formalized with Event-B and objectives like compliance and traceability were verified
+     Url https://www.mdpi.com/2079-9292/9/2/327
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software traceability: a roadmap
+     Author ['G Spanoudakis', 'A Zisman']
+     Venue Handbook Of Software Engineering And …
+     Year 2005
+     Abstract Page 1. SOFTWARE TRACEABILITY: A ROADMAP GEORGE SPANOUDAKIS  Traceability of software artefacts has been recognized as an important factor for sup- porting various activities in the software system development process. In general
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789812775245_0014
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Med-Trace: traceability assessment method for medical device software development
+     Author ['V Casey', 'F Mc Caffery']
+     Venue NA
+     Year 2011
+     Abstract which address risk-based activities to be performed during software validation [10], premarket  that can pinpoint specific areas for improvement with regard to traceability that will  in The 4th international conference on Leveraging applications of formal methods, verification, and
+     Url https://ulir.ul.ie/handle/10344/1746
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A Review on State-of-the-art Software Verification Approaches
+     Author ['WMNW Kadir']
+     Venue NA
+     Year NA
+     Abstract up are correctness, un- ambiguity, completeness, consistency, ranking, verifiability, modifiability and traceability  So we must combine formal methods with other approaches if we actually  This paper has presented the comparative evaluation of software verification approaches
+     Url https://www.researchgate.net/profile/Wan_Mohd_Nasir_Wan_Kadir/publication/267386173_A_Review_on_State-of-the-art_Software_Verification_Approaches/links/54f83fed0cf28d6deca115a2.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Experiments on Processing and Linking Semantically Augmented Requirement Specifications
+     Author ['D Conte de Leon', 'J Alves-Foss']
+     Venue Proceedings of the Proceedings of the …
+     Year 2004
+     Abstract However, market pressure, problems in the application of formal methods, and ineffective traceability techniques may all exacerbate the difficulty of applying adequate assurance techniques to the design and development of safe and trustworthy systems
+     Url https://dl.acm.org/doi/abs/10.5555/962757.963334
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Formal Methods and Software Engineering: 15th International Conference on Formal EngineeringMethods, ICFEM 2013, Queenstown, New Zealand …
+     Author ['L Groves', 'J Sun']
+     Venue NA
+     Year 2013
+     Abstract served as an international forum for researchers and practitioners who have been dedicated to applying formal methods to practical  and Ana Cavalcanti Towards a Process Algebra Framework for Supporting Behavioural Consistency and Requirements Traceability in SysML
+     Url https://books.google.com/books?hl=ro&lr=&id=2yu6BQAAQBAJ&oi=fnd&pg=PP5&dq=%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Traceability%22&ots=9b8uF_Z8sI&sig=BE22HNjukKmU-MUVaMZnQh1BD3s
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title … technique for the software requirements analysis of NPP safety-critical systems, based on software inspection, requirements traceability, and formal specification
+     Author ['SR Koo', 'PH Seong', 'J Yoo', 'SD Cha', 'YJ Yoo']
+     Venue Reliability Engineering & …
+     Year 2005
+     Abstract So, formal methods are not easy to be used properly in nuclear fields  2, in the IEEE Standard 1012-1998, titled 'Software Verification and Validation,' [17] minimum V&V tasks  Document evaluation and traceability analysis are major tasks of the concept and requirements phases
+     Url https://www.sciencedirect.com/science/article/pii/S0951832004002297
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Means-ends and whole-part traceability analysis of safety requirements
+     Author ['JS Lee', 'V Katta', 'EK Jee', 'C Raspotnig']
+     Venue Journal of Systems and Software
+     Year 2010
+     Abstract His research interests include safety analysis of software based system, software verification and validation, embedded system testing, formal methods, digital instrumentation  His research interests include requirements engineering and traceability, safety cases, and
+     Url https://www.sciencedirect.com/science/article/pii/S0164121209002143
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Certification and software verification considerations for autonomous unmanned aircraft
+     Author ['C Torens', 'FM Adolf', 'L Goormann']
+     Venue Journal of aerospace information …
+     Year 2014
+     Abstract based techniques (DO-331) [4], object orientation (DO-332) [5], and formal methods (DO-333  3], DO-332 [4], DO-333 [5], DO-330 [6]) for software verification [14]  without probability measures (eg, establishment of development processes and existence of traceability documents)
+     Url https://arc.aiaa.org/doi/abs/10.2514/1.I010163
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Use of machine-assisted theorem-proving as a means of verifying critical software in the context of RTCA DO-178C
+     Author ['J Joyce']
+     Venue Workshop on Theorem Proving in Certification
+     Year 2010
+     Abstract FM 4.3: The Software Verification Plan will detail the methods used to gather the verification  The intent of the above elements of the formal methods supplement is to ensure that the  Traceability between requirements and verification results is a fundamental value of the best
+     Url https://www.cl.cam.ac.uk/archive/mjcg/FMStandardsWorkshop/talks/JJoyce-paper.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title More Automated Formal Methods?! If so, why, where & how?
+     Author ['AC Rao']
+     Venue AFM@ NFM
+     Year 2017
+     Abstract and its engineering~Model-driven software engineering • Software and its engineering~Software verification. KEYWORDS Automated, Interactive, Connected, Formal Methods, Systems Engineering  be a connection between model elements implemented as traceability links or
+     Url http://fm.csl.sri.com/AFM17/AFM17_paper_1.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The Role of Usability in Software Validation-Case: Medical Device Manufacturing
+     Author ['E Kaivosoja']
+     Venue NA
+     Year 2015
+     Abstract The software is a manufacturing execution system (MES) which guides the production of medical devices and collects traceability data, including the device history  3.2 Software Validation Software verification and validation (V&V) is performed in order to ensure the quality of the
+     Url https://aaltodoc.aalto.fi/handle/123456789/18672
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Assessment and certification of safety critical software
+     Author ['EM El Koursi', 'G Mariano']
+     Venue Proceedings of the 5th Biannual …
+     Year 2002
+     Abstract good knowledge of the object under assessment, the verification of internal and external consistency and the detection of traceability problems [ 13  The Formal methods is a good alternative to improve the quality of software and it has changed the development methodology
+     Url https://ieeexplore.ieee.org/abstract/document/1049420/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Twenty-five years of formal methods and railways: what next?
+     Author ['A Fantechi']
+     Venue … on Software Engineering and Formal Methods
+     Year 2013
+     Abstract Moreover, other combinations of highly recommended techniques, not including formal methods can be chosen: for example, testing combined to full traceability to requirements is a compliant, commonly used, approach to software verification of highest SIL software
+     Url https://link.springer.com/chapter/10.1007/978-3-319-05032-4_13
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software Engineering, The Development Process-Volume 1
+     Author ['RH Thayer', 'MJ Christensen']
+     Venue NA
+     Year 2005
+     Abstract Help Design Your New ACM Digital Library. We're upgrading the ACM DL, and would like your input. Please sign up to review new features, functionality and page designs. Leave an email address: or Follow @ACMDL. or [Not interested]. Google, Inc. (search)
+     Url https://dl.acm.org/citation.cfm?id=993629
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software engineering tools and methods
+     Author ['D Carrington']
+     Venue SWEBOK
+     Year 2001
+     Abstract Development, Linda M. Northrup 5.2 Object-oriented Systems Development: Survey of Structured Methods, AG Sutcliffe 5.4 A Review of Formal Methods, Robert Vienneau Chapter 7: Software Validation, Verification and Testing 7.4 Traceability, James D. Palmer Chapter 12
+     Url http://www.cs.joensuu.fi/tSoft/dokumentit/Trial_Version1_00_SWEBOK_Guide.pdf#page=172
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The Application of Formal Methods to Root Cause Analysis 0f Digital Incidents
+     Author ['C Peter Stephenson', 'F CISM']
+     Venue NA
+     Year NA
+     Abstract Applying formal methods to the analysis of root cause is a logical next  Resolve Signature Imaging Technologies Approved Methods Traceability Traceability Expert Testimony Profile Detection Chain of Custody Approved Software Validation Techniques Statistical Clarification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.77.8726&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The role of software verification and validation in software development process
+     Author ['P Sujatha', 'GV Sankar', 'AS Rao']
+     Venue IETE Technical …
+     Year 2001
+     Abstract Traceability- does these requirements trace properly to user requirements  5. Stevan R Rakitin, Software verification and validation- A Practitioner's Guide, Artech House 1997  7. Formal Methods Specification and Verification Guide Book for Software and Computer .~\·stems
+     Url https://www.tandfonline.com/doi/abs/10.1080/02564602.2001.11416938
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Formal requirements and model-checking for v&v automation of a rpas mission management system
+     Author ['C Torens', 'FM Adolf']
+     Venue AIAA Infotech@ Aerospace
+     Year 2015
+     Abstract in such software products and the overall quality is achieved by traceability to requirements  On the other hand, the use of formal methods for software, which is now  Stichwörter: DO-178C, model-checking, formal requirements, software verification and validation, UAV, RPAS
+     Url https://elib.dlr.de/94840/
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Requirements traceability: a systematic review and industry case study
+     Author ['R Torkar', 'T Gorschek', 'R Feldt']
+     Venue … Journal of Software …
+     Year 2012
+     Abstract 5] Overcoming the Traceability Bene¯t Problem [8] Traceability Techniques: A Critical Study [9] Deciding to Adopt Requirements Traceability in Practice [10] Requirements Traceability in Automated Test Generation Application to Smart Card Software Validation [11] Tracing
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401250009X
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Certification of safety-critical software under DO-178C and DO-278A
+     Author ['S Jacklin']
+     Venue Infotech@ Aerospace 2012
+     Year 2012
+     Abstract Formal Methods DO-333  DO-178C does not provide guidance for software validation testing because it is reasoned that software that is verified to be correct should, in theory, have no validation problems during software integration testing  D. Software Verification Process
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2012-2473
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Automated V&V for high integrity systems, a targeted formal methods approach
+     Author ['S Burton', 'J Clark', 'A Galloway']
+     Venue NASA …
+     Year 2000
+     Abstract intermediate results of a project to develop automated, high integrity, software verification and validation  The use of formal methods is intended to increase the integrity of engineering activities  This informal text provides the traceability between the formal opera- tions and their
+     Url https://books.google.com/books?hl=ro&lr=&id=XaAmAQAAIAAJ&oi=fnd&pg=PA129&dq=%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Traceability%22&ots=lb9VGeiCUn&sig=Wnp13fA6G5ujJ8czH7GNa94nbcs
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Using formal requirements and model-checking for verification and validation of an unmanned rotorcraft
+     Author ['C Torens', 'F Adolf']
+     Venue AIAA Infotech@ Aerospace
+     Year 2015
+     Abstract The trust in such software products and the overall quality is achieved by traceability to requirements and strict coverage  of the MiPlEx framework and its capabilities in this section, the general motivation and impact of formal methods on software verification is explained in
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2015-1645
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Model checking: cleared for take off
+     Author ['D Cofer']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 2010
+     Abstract the target computer, verifiability of requirements, conformance to standards, traceability between lifecycle  With the new guidance provided in the Formal Methods Technology Supplement to DO  FM6.2 Software Verification Process Activities a. Formal notations: Properties to be
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16164-3_6
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The optimal approach for the processes of verification and validation of NPP software and hardware complexes
+     Author ['S Korolev', 'A Tolokonsky', 'V Rogov']
+     Venue Journal of Physics …
+     Year 2017
+     Abstract Traceability analysis  Formal methods Functional and timing simulation within the framework of automated design environment  Nuclear measurement and information technologies 2 27-32 [4] Kuliamin V 2008 Methods for software verification (Moscow: Institute for System
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/781/1/012048/meta
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title DO-178C: A new standard for software safety certification
+     Author ['B Brosgol', 'C Comar']
+     Venue NA
+     Year 2010
+     Abstract 1 ▪ Formal Methods * Based on information available in February 2010 Page 4  y pp p y p , , Strong emphasis on traceability Implies traditional / static program build model  Software Development Plan Software Verification Plan Software Config Mgmt Plan Software QA Plan
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a558107.pdf
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Efficient generation of inductive validity cores for safety properties
+     Author ['E Ghassabani', 'A Gacek', 'MW Whalen']
+     Venue … of the 2016 24th ACM SIGSOFT …
+     Year 2016
+     Abstract What we would like to pro- vide is traceability information, an inductive validity core (IVC), that explains the proof, in much the  Once generated, the IVC can be used for many purposes in the software verification process, including at least the following: Vacuity detection: The idea
+     Url https://dl.acm.org/doi/abs/10.1145/2950290.2950346
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Failure modes in medical device software: an analysis of 15 years of recall data
+     Author ['DR Wallace', 'DR Kuhn']
+     Venue … Journal of Reliability, Quality and Safety …
+     Year 2001
+     Abstract While recognizing the value of better specification methods, specifically formal methods in some of these situations, we classified most of these as logic problems at the point of failure  Generic Problem Prevention Detection Logic (incorrect conditions or Traceability analysis
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021853930100058X
+
+
+     Search term "Formal+methods"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title DO-178C/ED-12C
+     Author ['S Nordhoff']
+     Venue SQS Software Quality Systems, Cologne, Germany …
+     Year 2012
+     Abstract DO-xxx/ED-218) Object-Oriented Technology Supplement (DO-xxx/ED-217) Formal Methods Supplement (DO  and Analyses of Test Cases, Proced ures and Results · Software Development Process Traceability · Software Verification Process Traceability · Verification of
+     Url http://www.academia.edu/download/38093111/DO-178C_ED-12C.pdf
+

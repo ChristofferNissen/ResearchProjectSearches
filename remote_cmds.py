@@ -23,6 +23,8 @@ if remote == "all":
         "scraperserver3",
         "scraperserver4",
         "scraperserver5",
+        "scraperserver6",
+        "scraperserver7",
     ]
 
 if use_builtin:

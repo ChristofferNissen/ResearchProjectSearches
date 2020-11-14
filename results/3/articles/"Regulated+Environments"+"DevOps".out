@@ -1,0 +1,451 @@
+Showing papers for search query "Regulated+Environments"+"DevOps"
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract While DevOps relies on continuous deployment and integration, regulated environments require strict audits and approvals before releases. Therefore, the use of modern development approaches in regulatory environments is rare, as is the research on the topic
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Implementing Secure DevOps assessment for highly regulated environments
+     Author ['H Yasar']
+     Venue Proceedings of the 12th International Conference on …
+     Year 2017
+     Abstract Secure DevOps has become a standard option for entities seeking to streamline and increase comprehensive participation by all stakeholders in their secure Security Development Lifecycle (SDLC)[1]. In most case in industry, academia, and government
+     Url https://dl.acm.org/doi/abs/10.1145/3098954.3105819
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract could not identify related research on DevOps for medical device software development, and, in fact, research on DevOps in embedded  However, they state that quick and reliable delivery is possible also in regulated environments, although accomplishing this might not be as
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Implementing DevOps practices in highly regulated environments
+     Author ['JA Morales', 'H Yasar', 'A Volkman']
+     Venue Proceedings of the 19th International …
+     Year 2018
+     Abstract In this paper, we discuss implementing DevOps practices in highly regulated environments (HREs). DevOps has become a standard option for entities seeking to streamline and increase participation by all stakeholders in their Software Development Lifecycle (SDLC)
+     Url https://dl.acm.org/doi/abs/10.1145/3234152.3234188
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract converge. Merging the static nature of regulated environments with the dynamic nature of DevOps requires considerations as this has potential implications on methods, methodologies, frameworks and tools chosen. According
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract In this article, the authors discuss enhancing a DevOps implementation in a highly regulated environment (HRE) with security principles. DevOps has become a standard option for entities seeking to streamline and increase participation by all stakeholders in their Software
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE
+     Author ['D Shepard']
+     Venue NA
+     Year 2018
+     Abstract [DISTRIBUTION STATEMENT A] This material has been approved for public release and unlimited  distribution. Please see Copyright notice for non-US Government use and distribution. This material  may be reproduced in its entirety, without modification, and freely distributed in written or electronic
+     Url https://apps.dtic.mil/sti/citations/AD1086793
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Microservices: Architecting for continuous delivery and devops
+     Author ['L Chen']
+     Venue 2018 IEEE International Conference on Software …
+     Year 2018
+     Abstract CD adoption. The adoption of DevOps and CD began in 2012. The  researchers' attention. This is especially critical for applications in risk-averse regulated environments, where bugs in production can have significant repercussions. B
+     Url https://ieeexplore.ieee.org/abstract/document/8417115/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Systematic agile development in regulated environments
+     Author ['A Poth', 'J Jacobsen', 'A Riel']
+     Venue European Conference on Software Process …
+     Year 2020
+     Abstract For established domains within highly regulated environments, a systematic approach is needed to scale agile methods and assure compliance with regulatory requirements  The last stage is interesting for the handover in cases were no DevOps is applied
+     Url https://link.springer.com/chapter/10.1007/978-3-030-56441-4_14
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title A systematic approach to agile development in highly regulated environments
+     Author ['A Poth', 'J Jacobsen', 'A Riel']
+     Venue International Conference on Agile Software …
+     Year 2020
+     Abstract For established domains within highly regulated environments, a systematic approach is needed to scale agile methods and assure compliance with regulatory requirements  The last stage is interesting for the handover in cases were no DevOps is applied
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58858-8_12
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Implementing DevOps in a Regulated Traditionally Waterfall Environment
+     Author ['J Victor', 'P Lega']
+     Venue NA
+     Year 2016
+     Abstract DevOps is adopted in so many places, and its benefits are well documented, but despite this, it is not getting the same traction in regulated environments. Is it truly impossible to implement DevOps at a regulated company when someone else makes the rules
+     Url https://www.usenix.org/conference/lisa16/conference-program/presentation/victor
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract Page 1. 127 A Survey of DevOps Concepts and Challenges LEONARDO LEITE, University  The present survey investigates and discusses DevOps challenges from the perspective of engineers, managers, and researchers. We review the
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Metrics to Meet Security & Privacy Requirements with Agile Software Development Methods in a Regulated Environment
+     Author ['TJ Wagner', 'TC Ford']
+     Venue 2020 International Conference on …
+     Year 2020
+     Abstract Many implementations of communication protocols, including those in vehicular networks, occur within regulated environments where agile development methods  communications applications, and then recommend an approach of either tools, agile methods or DevOps that is
+     Url https://ieeexplore.ieee.org/abstract/document/9049681/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title A DevOps Capability-The IVI DevOps Effectiveness Assessment
+     Author ['C Crowley', 'L Veling', 'L Beckett', 'G Clarke', 'E Kelleher']
+     Venue NA
+     Year 2018
+     Abstract Page 1. A DevOps Capability - The IVI DevOps Effectiveness Assessment IVI © 2018 - Page 1 of 7 Purpose  Understanding DevOps DevOps emerged as a response to challenges being faced by web services organizations such as Netflix, Amazon, and Google
+     Url http://eprints.maynoothuniversity.ie/9413/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Understanding the Benefits of Agile Software Development in Regulated Environments
+     Author ['J Karrenbauer', 'M Wiesche', 'H Krcmar']
+     Venue NA
+     Year 2019
+     Abstract Understanding the Benefits of Agile Software Development in Regulated Environments Jens Karrenbauer, Manuel Wiesche, Helmut Krcmar  However, in regulated environments the use of agile development is not yet common practice
+     Url https://aisel.aisnet.org/wi2019/track07/papers/5/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Guide to Implementing DevSecOps for a System of Systems in Highly Regulated Environments
+     Author ['J Morales', 'R Turner', 'S Miller', 'P Capell', 'P Place']
+     Venue NA
+     Year NA
+     Abstract 1.2 Scope This guide is intended specifically for adopting DSO infrastructure to support systems develop- ment in HREs and is based on Implementing DevOps Practices in Highly Regulated Environments [Morales 2018]. An
+     Url https://kilthub.cmu.edu/articles/journal%20contribution/Guide_to_Implementing_DevSecOps_for_a_System_of_Systems_in_Highly_Regulated_Environments/12363770/1
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Ovum Decision Matrix: Selecting an Agile Project Management Solution, 2016–17
+     Author ['M Azoff']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Evolution of Integration, Build, Test, and Release Engineering Into DevOps and to DevSecOps
+     Author ['V Pendyala']
+     Venue Tools and Techniques for Software Development in …
+     Year 2020
+     Abstract Evolution of Integration, Build, Test, and Release Engineering Into DevOps and to DevSecOps Vishnu Pendyala Cisco Systems Inc., USA Page 2. 2 Evolution of Integration, Build, Test, and Release Engineering Into DevOps and to DevSecOps Globalization has come to stay
+     Url https://www.igi-global.com/chapter/evolution-of-integration-build-test-and-release-engineering-into-devops-and-to-devsecops/247537
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Security impacts of sub-optimal DevSecOps implementations in a highly regulated environment
+     Author ['JA Morales', 'TP Scanlon', 'A Volkmann']
+     Venue Proceedings of the 15th …
+     Year 2020
+     Abstract 1 Introduction The process of implementing DevSecOps (DSO) in highly regulated environments is a non-trivial task [1]. This work details the lessons learned, observations, and insights from a multi-year engagement supporting a software development effort for a large, well
+     Url https://dl.acm.org/doi/abs/10.1145/3407023.3409186
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Accelerating Software Delivery in the context of Requirements Analysis and Breakdown for DevOps: A multiple-case study
+     Author ['F Debbiche', 'M Wrang', 'K Sinkala']
+     Venue NA
+     Year 2019
+     Abstract those features will simplify the release process and reduce the number of associated errors [2]. Yasar [45] points out to the applicability of DevOps prac- tices in case of new requirements late in the software devel- opment life cycle (SDLC) in highly regulated environments
+     Url https://gupea.ub.gu.se/handle/2077/62542
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Ovum Decision Matrix: Selecting an Application Lifecycle Management Solution, 2016–17
+     Author ['M Azoff']
+     Venue NA
+     Year 2016
+     Abstract In enterprise IT and regulated environments, there have been a number of transformations. Agile and, most recently, DevOps have taken center stage in the way in which organizations develop and deliver software, while open source tools have come to dominate core
+     Url https://intland.com/wp-content/uploads/2016/03/Intland_SWOT_Selecting-an-Application-Lifecycle-Management-Solution_2016%E2%80%9317.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Continuous delivery sounds great, but will it work here?
+     Author ['J Humble']
+     Venue Queue
+     Year 2017
+     Abstract Working in highly regulated environments Objections to the use of continuous delivery in regulated environments are usually of two types: first, the  For more on this case study, see Leading the Transformation: Applying Agile and DevOps Principles at Scale by Gary Gruver and
+     Url https://dl.acm.org/doi/pdf/10.1145/3178368.3190610
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Lean Enterprise
+     Author ['J Humble', 'J Molesky', "B O'Reilly"]
+     Venue NA
+     Year 2020
+     Abstract Any business leader who cares about creating competitive advantage through technology and building a culture of innovation needs to read this book.” Gene Kim, co-author of The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win, founder and former
+     Url https://books.google.com/books?hl=de&lr=&id=CmbyDwAAQBAJ&oi=fnd&pg=PT22&dq=%22Regulated+Environments%22+%22DevOps%22&ots=Binfo7dQyF&sig=5ZdTVHOS38oqeXtR115y35tzRzU
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Continuous delivery sounds great, but will it work here?
+     Author ['J Humble']
+     Venue Communications of the ACM
+     Year 2018
+     Abstract Working in highly regulated environ- ments. Objections to the use of continu- ous delivery in regulated environments Continuous  For more on this case study, see Leading the Transformation: Applying Agile and DevOps Principles at Scale by Gary Gruver and Tommy Mouser
+     Url https://dl.acm.org/doi/fullHtml/10.1145/3173553
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title UML-Driven Software Performance Engineering
+     Author ['V Garousi', 'S Shahnewaz', 'D Krishnamurthy']
+     Venue NA
+     Year 2013
+     Abstract Weaving Security into DevOps Practices in Highly Regulated Environments Jose Andre Morales, Hasan Yasar and Aaron Volkmann (2018). International Journal of Systems and Software Security and Protection (pp. 18-46)
+     Url https://pdfs.semanticscholar.org/b4ac/01cbcfdb8b62ad05dffa4023e95094d869cf.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title More agile testing: learning journeys for the whole team
+     Author ['J Gregory', 'L Crispin']
+     Venue NA
+     Year 2014
+     Abstract 325 Similar, Yet Different 326 Testing Is Critical 328 Agile Approaches 329 Summary 337 Chapter 21 Agile Testing in Regulated Environments 339 The  Using Agile Principles 351 Data—the Critical Asset 352 Big Data 357 Summary 360 Chapter 23 Testing and DevOps 361 A
+     Url https://books.google.com/books?hl=de&lr=&id=uq-pBAAAQBAJ&oi=fnd&pg=PR9&dq=%22Regulated+Environments%22+%22DevOps%22&ots=9CdhVJTgyQ&sig=ZrAUIqF_CtkhR4XjCasxInVFJxI
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title DECISION SCIENCES INSTITUTE
+     Author ['P Menard', 'B Sweeney', 'J Shropshire']
+     Venue NA
+     Year NA
+     Abstract Menard et al. DevOps: An Innovation Attributes Perspective 1291851 - 12 - Yasar, Hasan. "Implementing Secure DevOps assessment for highly regulated environments." Proceedings of the 12th International Conference on Availability, Reliability and Security. ACM, 2017
+     Url https://decisionsciences.org/wp-content/uploads/2017/11/p1291851.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title But Where Is My Value?
+     Author ['D Dockery', 'L Knudsen']
+     Venue Modern Business Management
+     Year 2018
+     Abstract DevOps (development operations): These are the people that automate the processes used to move a product successfully through the environments  In regulated environments, only those in ProdOps can access the production environment
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-3261-3_7
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Challenges and directions in service management automation
+     Author ['A Keller']
+     Venue Journal of Network and Systems Management
+     Year 2017
+     Abstract It is hence fair to say that, over time, the amount of DevOps-ready systems will substantially increase  Regulated Environments—especially in the healthcare, financial and energy sectors—bring additional challenges due to them being subject to very severe audit and
+     Url https://link.springer.com/article/10.1007/s10922-017-9437-9
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title A hybrid assessment approach for medical device software development companies
+     Author ['Ö Özcan‐Top', 'F McCaffery']
+     Venue Journal of Software: Evolution and …
+     Year 2018
+     Abstract and mention that “our findings suggest that agile is highly suitable when tailored to meet the needs of regulated environments and supported with  We selected eXtreme programming,50 Scrum,51 DevOps,52 Lean,53 Kanban,54 Disciplined Agile Delivery,31 and Scaled Agile
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1929
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Agile Methods as a Risk Management Strategy Toolâ€“A Fintech Case Study
+     Author ['A Zaitsev']
+     Venue NA
+     Year 2018
+     Abstract However, more recent surveys have shown that even large, complex and regulated environments can apply Agile methods successfully  chosen one of the more niche Agile methodologies, Extreme Programming (Beck 1999) accompanied with rigorous DevOps practices and
+     Url https://aisel.aisnet.org/amcis2018/AccountingIS/Presentations/9/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Moving from blocker to enabler: cloud security and the modern CISO
+     Author ['O Subramanian']
+     Venue Computer Fraud & Security
+     Year 2020
+     Abstract The adoption of modern delivery techniques such as agile, DevOps and multi-disciplinary squads is helping to shift security to the left  with the support of your CSP representative or a partner organisation that has experience in building solutions in highly regulated environments
+     Url https://www.sciencedirect.com/science/article/pii/S1361372320301068
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title CompliancePal: A Tool for Supporting Practical Agile and Regulatory-Compliant Development of Medical Software
+     Author ['V Stirbu', 'T Mikkonen']
+     Venue 2020 IEEE International Conference on …
+     Year 2020
+     Abstract Digital transformation poses a significant challenge for businesses operating in heavy regulated environments such as health care  Although the idea of using modern automation practices, commonly known as DevOps, has been explored
+     Url https://ieeexplore.ieee.org/abstract/document/9095608/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Healthcare Application Migration in Compliant Hybrid Clouds
+     Author ['A Sailer', 'B Yang', 'S Jain', 'AE Tomala-Reyes']
+     Venue … Conference on Service …
+     Year 2018
+     Abstract must first sign a written agreement called the Business Associate Agreement (BAA) before using IBM's regulated environments and services  IBM Cloud provides PaaS DevOps services which speed-up the development, building, and deployment of online applications as well as
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03596-9_52
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Case Study of Agile Security Engineering: Building Identity Management for a Government Agency
+     Author ['K Rindell', 'S Hyrynsalmi', 'V Leppänen']
+     Venue International Journal of …
+     Year 2017
+     Abstract The policy of separating the roles of developers and maintenance effectively prevents the `DevOps' type of continuous delivery maintenance model, and would require eg a form of “continuous security  Scaling agile methods to regulated environments: An industry case study.Proc
+     Url https://www.igi-global.com/article/case-study-of-agile-security-engineering/179643
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title The future of software development methods
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue The Routledge Companion to Management …
+     Year 2017
+     Abstract 2014; Poppendieck and Cusumano 2012), and DevOps (Fitzgerald and Stol, 2017), are emerging, and are at varying levels of maturity  Agile methods and regulated environments are often seen as incommensurable (Turk et al. 2005)
+     Url https://cora.ucc.ie/handle/10468/6770
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Towards agile yet regulatory-compliant development of medical software
+     Author ['V Stirbu', 'T Mikkonen']
+     Venue 2018 IEEE International Symposium on …
+     Year 2018
+     Abstract Digital transformation poses a significant challenge for businesses operating in heavy regulated environments such as health care  In this section we explore agile software development and development operations (DevOps), the two main prac- tices that enable software
+     Url https://ieeexplore.ieee.org/abstract/document/8539216/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Development and Operation of Trustworthy Smart IoT Systems: The ENACT Framework
+     Author ['N Ferry', 'J Dominiak', 'A Gallon', 'E González']
+     Venue … Workshop on Software …
+     Year 2019
+     Abstract M., Meyer, B. (eds.) DEVOPS 2018. LNCS, vol. 11350, pp. 112–127. Springer, Cham (2019). https://doi.org/10.1007/978-3-030-06019-0_9CrossRefGoogle Scholar. 8. Fitzgerald, B., Stol, K., O'Sullivan, R., O'Brien, D.: Scaling agile methods to regulated environments: an industry
+     Url https://link.springer.com/chapter/10.1007/978-3-030-39306-9_9
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Magic Quadrant for Enterprise Agile Planning Tools
+     Author ['KJ Mann', 'TE Murphy', 'M West']
+     Venue Gartner, Inc
+     Year 2018
+     Abstract ServiceNow ITBM integrates well with ServiceNow's DevOps product and brings excellent visibility to stories through the DevOps toolchain. ■ Page 11. Siemens  Organizations in regulated environments, and whose processes are subject to audit, will find it appealing
+     Url https://aptasolutions.com/wp-content/uploads/2020/06/Rally-Software-Gartner-2020.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Current and future requirements to industrial analytical infrastructure—part 2: smart sensors
+     Author ['T Eifert', 'K Eisen', 'M Maiwald', 'C Herwig']
+     Venue Analytical and Bioanalytical …
+     Year 2020
+     Abstract in the world of PAT are attractive for smart decisions, but need clear traceability in a regulated environments and model  Software agility: We propose DevOps techniques, ie, software development practices that combine software development (Dev) and information technology
+     Url https://link.springer.com/article/10.1007/s00216-020-02421-1
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Proceedings of the 1st International Workshop on …
+     Year 2014
+     Abstract In a similar vein, the recent emphasis on DevOps recognizes that the integration between software development and its operational deployment needs to be a continuous one  Keywords DevOps, BizDev, Continuous Star, continuous software engi- neering
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Remote and agile improvement of industrial control and safety systems processes
+     Author ['T Myklebust', 'MA Lundteigen', 'L Bodsberg', 'GK Hanssen']
+     Venue NA
+     Year NA
+     Abstract Hence, the DevOps concept, which is imperative in non-safety domains, is now highly relevant in regulated environments as well. The speed of this process is vital where in particular cybersecurity threats must be resolved fast to avoid safety threats
+     Url https://www.researchgate.net/profile/Thor_Myklebust/publication/343392653_Proceedings_of_the_30th_European_Safety_and_Reliability_Conference_and_the_15th_Probabilistic_Safety_Assessment_and_Management_Conference_Edited_by_Remote_and_agile_improvement_of_industrial_control_a/links/5f27f274a6fdcccc43a627d3/Proceedings-of-the-30th-European-Safety-and-Reliability-Conference-and-the-15th-Probabilistic-Safety-Assessment-and-Management-Conference-Edited-by-Remote-and-agile-improvement-of-industrial-control-a.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title The EMFIS Model—Enable More Frequent Integration of Software
+     Author ['T Mårtensson', 'D Ståhl', 'J Bosch']
+     Venue 2017 43rd Euromicro …
+     Year 2017
+     Abstract Fitzgerald also proposes the concepts “continuous compliance” and “R-scrum” (scrum for regulated environments)  194- 201. [12] M. Soni, “End to End Automation on Cloud with Build Pipeline: The Case for DevOps in Insurance Industry, Continuous Integration, Continuous
+     Url https://ieeexplore.ieee.org/abstract/document/8051321/
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Software Processes and Life Cycle Models
+     Author ['R Kneuper']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Software Processes and Life Cycle Models Ralf Kneuper An Introduction to Modelling, Using and Managing Agile, Plan-Driven and Hybrid Processes Page 2. Software Processes and Life Cycle Models Page 3. Ralf Kneuper Software Processes and Life Cycle Models
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-98845-0.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Agile at Scale: A Summary of the 8th International Workshop on Large-Scale Agile Development
+     Author ['JM Bass', 'A Salameh']
+     Venue Agile Processes in Software Engineering and …
+     Year NA
+     Abstract The third paper,“A systematic approach to agile development in highly regulated environments”[8] describes an approach, called Levels of Done  SAFe is a knowledge base (ie, toolbox) of integrated principles, practices, and competencies for Lean, Agile, and DevOps that
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/42566/2020_Book_AgileProcessesInSoftwareEngine.pdf?sequence=1#page=81
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Cloudy with high chance of DBMS: A 10-year prediction for Enterprise-Grade ML
+     Author ['A Agrawal', 'R Chatterjee', 'C Curino', 'A Floratou']
+     Venue arXiv preprint arXiv …
+     Year 2019
+     Abstract When it comes to leveraging ML in enterprise applications, es- pecially in regulated environments, the level of scrutiny for data handling, model fairness  us with automa- tion [32], tooling, and engineering best practices—ML will become an integral part of the DevOps lifecycle
+     Url https://arxiv.org/abs/1909.00084
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title DevOps em sistemas de informação: implementação em operações de tecnologias de informação
+     Author ['FO Rato']
+     Venue NA
+     Year 2018
+     Abstract Page 1. i DevOps em Sistemas de Informação Francisco de Oliveira Rato Implementação em Operações de Tecnologias de Informação  Instituto Superior de Estatística e Gestão de Informação Universidade Nova de Lisboa DEVOPS EM SISTEMAS DE INFORMAÇÃO por
+     Url https://run.unl.pt/handle/10362/35816
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Message from the general co-chairs
+     Author ['RL Aguiar', 'S Sahni']
+     Venue 2014 IEEE Symposium on Computers and …
+     Year 2014
+     Abstract Fitzgerald also proposes the concepts “continuous ,compliance” and “R-scrum” (scrum for regulated ,environments)  194201. ,[12], ,M. Soni, “End to End Automation on Cloud with Build Pipeline: The ,Case for DevOps in Insurance Industry, Continuous Integration, ,Continuous
+     Url https://www.computer.org/csdl/proceedings-article/iscc/2014/06912493/12OmNBE7Muu
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Teaching testing to programmers. What sticks, and what slides off? A journey from Teflon to Velcro.
+     Author ['R Sabourin', 'M Wodzislawski']
+     Venue NA
+     Year 2020
+     Abstract case study is a sanitized case study of acceptance tests done to accept critical security software on desktop systems in regulated environments  a new demand for this course to be online, with the main objective of guaranteeing a technically well-founded path towards DevOps
+     Url http://uploads.pnsqc.org/2020/papers/Sabourin_2020.pdf
+
+
+     Search term "Regulated+Environments"+"DevOps"
+     Title Managing software process evolution: traditional, agile and beyond–how to handle process change
+     Author ['M Kuhrmann', 'J Münch', 'I Richardson', 'A Rausch']
+     Venue NA
+     Year 2016
+     Abstract Today some of these fads are called continuous deployment, lean startups, DevOps, flow and any of the Japanese sounding concepts from  Some of his research interests include software development processes and methodologies, particularly within regulated environments
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-31545-4.pdf
+

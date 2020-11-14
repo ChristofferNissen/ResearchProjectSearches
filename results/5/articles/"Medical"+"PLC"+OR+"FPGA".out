@@ -1,0 +1,451 @@
+Showing papers for search query "Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Parallel-beam backprojection: an FPGA implementation optimized for medical imaging
+     Author ['S Coric', 'M Leeser', 'E Miller', 'M Trepanier']
+     Venue … of the 2002 ACM/SIGDA tenth …
+     Year 2002
+     Abstract Medical image processing in general and computerized tomography (CT) in particular can benefit greatly from hardware acceleration. This application domain is marked by computationally intensive algorithms requiring the rapid processing of large amounts of
+     Url https://dl.acm.org/doi/abs/10.1145/503048.503080
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Multichannel FPGA-based arbitrary waveform generator for medical ultrasound
+     Author ['S Ricci', 'L Bassi', 'E Boni', 'A Dallai', 'P Tortoli']
+     Venue Electronics Letters
+     Year 2007
+     Abstract A compact and cost-effective method for generating simultaneous arbitrary waveforms over several channels is presented. This method exploits the sigma-delta technique combined with the LVDS circuit capability of sustaining bitstreams up to 1 Gbit/s. A 32-channel
+     Url https://ieeexplore.ieee.org/abstract/document/4390977/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA based real-time image segmentation for medical systems and data processing
+     Author ['P Dillinger', 'JF Vogelbruch', 'J Leinen']
+     Venue 14th IEEE-NPSS …
+     Year 2005
+     Abstract 3D image segmentation is one of the most demanding tasks in image processing. The applications comprise industrial and scientific tasks. Due to the high data volume advanced algorithms cannot be processed on standard hardware in real time. We propose the
+     Url https://ieeexplore.ieee.org/abstract/document/1547401/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks
+     Author ['A Sanaullah', 'C Yang', 'Y Alexeev', 'K Yoshii']
+     Venue BMC …
+     Year 2018
+     Abstract Background Real-time analysis of patient data during medical procedures can provide vital diagnostic feedback that significantly improves chances of success. With sensors becoming increasingly fast, frameworks such as Deep Neural Networks are required to perform
+     Url https://link.springer.com/article/10.1186/s12859-018-2505-7
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of 3D discrete wavelet transform for real-time medical imaging
+     Author ['RM Jiang', 'D Crookes']
+     Venue 2007 18th European Conference on …
+     Year 2007
+     Abstract 3D discrete wavelet transform (DWT) is a compute-intensive task that is usually implemented on specific architectures in many real-time medical imaging systems. In this paper, a novel area-efficient high-throughput 3D DWT architecture is proposed based on distributed
+     Url https://ieeexplore.ieee.org/abstract/document/4529647/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Tamper-resistant secure medical image carrier: An iwt–svd–chaos–fpga combination
+     Author ['S Arumugham', 'S Rajagopalan', 'JBB Rayappan']
+     Venue Arabian Journal for …
+     Year 2019
+     Abstract Medical images are widely used for diagnostic and therapeutic purposes during the detection of abnormalities in various organs of the human body. A huge number of medical images are handled every day by the hospitals as well as medical practitioners. Medical
+     Url https://link.springer.com/article/10.1007/s13369-019-03883-x
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title A new FPGA-based real-time configurable system for medical image processing
+     Author ['I Chiuchisan']
+     Venue 2013 E-Health and Bioengineering Conference …
+     Year 2013
+     Abstract Given the importance of digital image processing and the significance of their implementations on hardware to achieve better performance, this paper reviews the advantages of using FPGA over softwares and DSPs as a platform for implementation of
+     Url https://ieeexplore.ieee.org/abstract/document/6707301/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical dressing
+     Author ['D Smith', 'F Mosa']
+     Venue US Patent App. 29/336,566
+     Year 2010
+     Abstract USD679023S1 (en), 2004-07-19, 2013-03-26, Thermotek, Inc. Foot wrap. USD679820S1 (en) *, 2010-10-15, 2013-04-09, Smith & Nephew Plc, Medical dressing. USD679819S1 (en) *, 2010-10-15, 2013-04-09, Smith & Nephew Plc, Medical dressing. USD686734S1 (en)
+     Url https://patents.google.com/patent/USD625018S1/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Design considerations of real-time adaptive beamformer for medical ultrasound research using FPGA and GPU
+     Author ['J Chen', 'CH Alfred', 'HKH So']
+     Venue 2012 International Conference on …
+     Year 2012
+     Abstract Adaptive beamforming has been well considered as a potential solution for improving the imaging quality of medical ultrasound systems. Despite the promised improvement in lateral resolution, image contrast and imaging penetration, the use of adaptive beamforming is
+     Url https://ieeexplore.ieee.org/abstract/document/6412134/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Connecting apparatus for medical conduits
+     Author ['A Fleetwood']
+     Venue US Patent 5,520,665
+     Year 1996
+     Abstract A connecting apparatus for medical conduits including a valve body defining a first duct and having a connector for coupling to a first conduit. A valve is incorporated within the first duct and is a ball and spring type valve normally biased in closed position. An adaptor is
+     Url https://patents.google.com/patent/US5520665A/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA-based computing platform for real-time 3D medical imaging and its application to cone-beam CT reconstruction
+     Author ['J Li', 'C Papachristou', 'R Shekhar']
+     Venue Journal of Imaging Science …
+     Year 2005
+     Abstract Real-time three-dimensional (3D) medical imaging requires both high memory and high computational bandwidth due to the massive amount of data to be processed. Application-specific systems have been designed to speed up a few selected 3D imaging algorithms
+     Url https://www.ingentaconnect.com/content/ist/jist/2005/00000049/00000003/art00004
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time 3D image preprocessing for image-guided medical interventions
+     Author ['O Dandekar', 'C Castro-Pareja', 'R Shekhar']
+     Venue Journal of Real-Time Image …
+     Year 2007
+     Abstract Minimally invasive image-guided interventions (IGIs) are time and cost efficient, minimize unintended damage to healthy tissue, and lead to faster patient recovery. One emerging trend in IGI workflow is to use volumetric imaging modalities such as low-dose computed
+     Url https://link.springer.com/article/10.1007/s11554-007-0028-y
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based computation of free-form deformations in medical image registration
+     Author ['J Jiang', 'W Luk', 'D Rueckert']
+     Venue Proceedings. 2003 IEEE …
+     Year 2003
+     Abstract This paper describes techniques for producing FPGA-based designs that support free-form deformation in medical image processing. The free-form deformation method is based on a B-spline algorithm for modelling three-dimensional deformable objects. Our design includes
+     Url https://ieeexplore.ieee.org/abstract/document/1275753/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA and ASIC implementation of ECC processor for security on medical embedded system
+     Author ['J Park', 'JT Hwang', 'YC Kim']
+     Venue Third International Conference on …
+     Year 2005
+     Abstract The system as a PACS (picture archiving and communication system), which handles medical image, saves patient's medical image information and transports them. This needs security processor for user's authentication and encrypted information based on PKI (public
+     Url https://ieeexplore.ieee.org/abstract/document/1489020/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Design and test issues of an FPGA based data acquisition system for medical imaging using PEM
+     Author ['C Leong', 'P Bento', 'P Lousã', 'J Nobre']
+     Venue … on Nuclear Science
+     Year 2006
+     Abstract The main aspects of the design and test (D&T) of a reconfigurable architecture for the Data Acquisition Electronics (DAE) system of the Clear-PEM detector are presented in this paper. The application focuses medical imaging using a compact PEM (Positron Emission
+     Url https://ieeexplore.ieee.org/abstract/document/1644939/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of artificial neural networks: an application on medical expert systems
+     Author ['GPK Economou', 'EP Mariatos']
+     Venue Proceedings of the …
+     Year 1994
+     Abstract In this paper, the FPGA implementation of an Artificial Neural Networks (ANNs) composition for a Medical Expert System (MES) focused on pulmonary diseases is discussed. Using a specially designed neuron based on pipelined bit-serial arithmetic and a successful
+     Url https://ieeexplore.ieee.org/abstract/document/593722/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of AdaBoost algorithm for detection of face biometrics
+     Author ['Y Wei', 'X Bing', 'C Chareonsak']
+     Venue IEEE International Workshop on …
+     Year 2004
+     Abstract Thus, many medical applications requiring biometric and general object detection are good candidates for AdaBoost algorithm However, in the cases of high- resolution  In (his paper, FPGA @eld I F%gm”bIe Gate Array) design of hardware for a real-time face detection baked on
+     Url https://ieeexplore.ieee.org/abstract/document/1454161/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title A high-performance FPGA-based fuzzy processor architecture for medical diagnosis
+     Author ['SR Chowdhury', 'H Saha']
+     Venue IEEE Micro
+     Year 2008
+     Abstract An auto-decision-making system for medical diagnosis could help make up for the lack of physicians in rural areas of many third-world countries. This high-performance, low-power, pipelined parallel fuzzy processor based on a dedicated single-chip architecture performs
+     Url https://ieeexplore.ieee.org/abstract/document/4659274/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Fpga as a hardware accelerator for computation intensive maximum likelihood expectation maximization medical image reconstruction algorithm
+     Author ['M Ravi', 'A Sewa', 'TG Shashidhar']
+     Venue IEEE Access
+     Year 2019
+     Abstract The major requirements of a good tomographic reconstruction algorithm are a reduction in radiation dosage, accurate reconstruction, detail enhancement, and rapid reconstruction time. Some of these factors are covered by many algorithms but are not collectively
+     Url https://ieeexplore.ieee.org/abstract/document/8784190/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical image encryption: Microcontroller and fpga perspective
+     Author ['S Rajagopalan', 'S Janakiraman']
+     Venue Medical Data Security for …
+     Year 2019
+     Abstract The healthcare industry has been facing a lot of challenges in securing electronic health records (EHR). Medical images have found a noteworthy position for diagnosis leading to therapeutic requirements. Millions of medical images of various modalities are generally
+     Url https://www.igi-global.com/chapter/medical-image-encryption/225292
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title A scalable FPGA-based custom computing machine for a medical image processing
+     Author ['T Yokota', 'M Nagafuchi', 'Y Mekada']
+     Venue … . 10th Annual IEEE …
+     Year 2002
+     Abstract Concentration index filter is a kind of spatial filters of images, and its typical application is diagnosis from medical images. This paper presents a dedicated computing engine for concentration index filtering. Original algorithm is modified to extract full parallelism and data
+     Url https://ieeexplore.ieee.org/abstract/document/1106695/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical dressing
+     Author ['YL Peron']
+     Venue US Patent App. 29/389,782
+     Year 2013
+     Abstract FIG. 3 is a top plan view of the medical dressing of FIG. 1. FIG. 4 is a bottom view of the medical dressing of FIG. 1. FIG. 5 is a far side view of the medical dressing of FIG. 1. FIG. 6 is a near side view of the medical dressing of FIG. 1. FIG. 7 is a front view of the medical
+     Url https://patents.google.com/patent/USD679819S1/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA technologies in medical equipment: Electrical impedance tomography
+     Author ['P Artem', 'S Dmitry']
+     Venue East-West Design & Test Symposium …
+     Year 2013
+     Abstract The reasons for the growth of interest to information technologies in modern medicine are discussed. The analytical overview and analysis of the various FPGA technologies application in medicine, their problems and prospects are offered. The examples of use the
+     Url https://ieeexplore.ieee.org/abstract/document/6673157/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of an efficient partial volume interpolation for medical image registration
+     Author ['CJ Moses', 'D Selvathi', 'SS Rani']
+     Venue … CONTROL AND COMPUTING …
+     Year 2010
+     Abstract Image registration is the process of overlaying two or more images of the same scene taken at different times, from different viewpoints, and/or by different sensors. It geometrically aligns two images the reference and floating images. Medical image registration
+     Url https://ieeexplore.ieee.org/abstract/document/5670541/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Implementation on a FPGA of Edge detection algorithm in medical image and tumors characterization
+     Author ['I Bouganssa', 'M Sbihi', 'M Zaim']
+     Venue 2016 5th International …
+     Year 2016
+     Abstract This paper presents the implementation of an adaptive contour detection filter and tumor Characterization on field programmable gate array (FPGA) using a combination of hardware and software components. The proposed system locates contours from a calculation of
+     Url https://ieeexplore.ieee.org/abstract/document/7905655/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical dressing
+     Author ['YL Peron']
+     Venue US Patent App. 29/389,783
+     Year 2013
+     Abstract FIG. 3 is a top plan view of the medical dressing of FIG. 1. FIG. 4 is a bottom view of the medical dressing of FIG. 1. FIG. 5 is a far side view of the medical dressing of FIG. 1. FIG. 6 is near side view of the medical dressing of FIG. 1. FIG. 7 is a front view of the medical dressing
+     Url https://patents.google.com/patent/USD679820S1/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Dispensing apparatus for metered quantities of pressurised fluid
+     Author ['DJ Howlett']
+     Venue US Patent 4,896,832
+     Year 1990
+     Abstract A dispensing apparatus comprises a pressurised dispensing container (3), a housing (2) for the container defining a bore, the container having a body (50) which is axially slidable in the bore, the container having a collapsible metering valve (8) located at a first end (6) of the
+     Url https://patents.google.com/patent/US4896832A/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-implementation of a bio-inspired medical hearing aid based DWT-OLA
+     Author ['L Bendaouia', 'H Salhi', 'SM Karabernou']
+     Venue … on Audio, Language …
+     Year 2014
+     Abstract In this paper, we describe the implementation on Field Programmable Gate Array (FPGA) of generic platform for a Bio-Inspired Medical Hearing Aid (BIMHA). The rapid growth in the industrial technologies has participated in the development of several and performed
+     Url https://ieeexplore.ieee.org/abstract/document/7009906/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title VLIW-based FPGA computation fabric with streaming memory hierarchy for medical imaging applications
+     Author ['J Hoozemans', 'R Heij', 'J van Straten', 'Z Al-Ars']
+     Venue International Symposium on …
+     Year 2017
+     Abstract In this paper, we present and evaluate an FPGA acceleration fabric that uses VLIW softcores as processing elements, combined with a memory hierarchy that is designed to stream data between intermediate stages of an image processing pipeline. These pipelines are
+     Url https://link.springer.com/chapter/10.1007/978-3-319-56258-2_4
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Multiobjective optimization of FPGA-based medical image registration
+     Author ['O Dandekar', 'W Plishker']
+     Venue … Symposium on Field …
+     Year 2008
+     Abstract With a multitude of technological innovations, one emerging trend in image processing, and medical image processing, in particular, is custom hardware implementation of computationally intensive algorithms in the quest to achieve real-time performance. For
+     Url https://ieeexplore.ieee.org/abstract/document/4724901/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title A non-contact infection screening system using medical radar and Linux-embedded FPGA: Implementation and preliminary validation
+     Author ['CV Nguyen', 'T Le Quang', 'TN Vu', 'H Le Thi']
+     Venue Informatics in Medicine …
+     Year 2019
+     Abstract Objectives In this study, an infection screening system was developed to detect patients suffering from infectious diseases. In addition, the system was also designed to deal with the variability in age and gender, which would affect the accuracy of the detection. Furthermore
+     Url https://www.sciencedirect.com/science/article/pii/S2352914819302205
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Encrypted biography of biomedical image-a pentalayer cryptosystem on FPGA
+     Author ['D Ravichandran', 'S Rajagopalan', 'HN Upadhyay']
+     Venue Journal of Signal …
+     Year 2019
+     Abstract Analyzing the merits and required enhancements in the earlier proposed solutions, a five stage encryption scheme has been adopted in this approach on FPGA based medical image encryption. This approach has the following features
+     Url https://link.springer.com/article/10.1007/s11265-018-1337-z
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title The impact of internal control system on manufacturing industries: A case study of evans medical PLC
+     Author ['OY Adebisi']
+     Venue NA
+     Year 2018
+     Abstract This study investigated the impact of internal control system on manufacturing industries using Evans Medical Plc. as a case study. Primary data were employed through structured questionnaire administered to industry selected using convenience sampling. Based on
+     Url http://www.academia.edu/download/57565208/OMOPARIOLA_YINKA_ADEBISI.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Implementation of medical image segmentation using Virtex FPGA kit
+     Author ['R Hemalatha', 'N Santhiyakumari']
+     Venue … Conference on Signal …
+     Year 2015
+     Abstract In the decade of technological advancement, the image processing techniques has made it possible to save lives of several beings. The diagnosis of cardiovascular involved in complex procedures whereas the analysis of blood vessels carried out. The image
+     Url https://ieeexplore.ieee.org/abstract/document/7058283/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title NHS plc: the privatisation of our health care
+     Author ['AM Pollock']
+     Venue BMJ
+     Year 2004
+     Abstract NHS plc: The Privatisation of Our Health Care Allyson M Pollock Verso, £15.99, pp 271 ISBN 1 84467 011 2 Rating  Yet we know that clinical research would be a long time coming if it depended only on scarce “blue chip” funding such as the Medical Research Council or
+     Url https://www.bmj.com/content/bmj/329/7478/Reviews.full.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Implementing medical CT algorithms on stand-alone FPGA based systems using an efficient workflow with SysGen and simulink
+     Author ['Z Que', 'Y Zhu', 'X Wang', 'J Yu', 'T Huang']
+     Venue 2010 10th IEEE …
+     Year 2010
+     Abstract Xilinx and Mathworks jointly proposed System Generator (SysGen) and Simulink to accelerate development of DSP (digital signal processing) style applications on Field Programmable Gate Array (FPGA) chips. However, most of developments with Simulink and
+     Url https://ieeexplore.ieee.org/abstract/document/5578297/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Single-FPGA complete 3D and 2D medical ultrasound imager
+     Author ['A Ibrahim', 'W Simon', 'D Doy', 'E Pignat']
+     Venue 2017 Conference on …
+     Year 2017
+     Abstract 3D ultrasound (US) acquisition acquires volumetric images, thus alleviating a classical US imaging bottleneck that requires a highly-trained sonographer to operate the US probe. However, this opportunity has not been explored in practice, since 3D US machines are only
+     Url https://ieeexplore.ieee.org/abstract/document/8122113/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Fpga-gpu-cpu heterogenous architecture for real-time cardiac physiological optical mapping
+     Author ['P Meng', 'M Jacobsen', 'R Kastner']
+     Venue … International Conference on …
+     Year 2012
+     Abstract output. VII. CONCLUSION We have addressed the challenge of real-time optical map- ping for cardio-electrophysiology and presented a heteroge- neous FPGA-GPU-CPU architecture for use in medical appli- cations. Our design
+     Url https://ieeexplore.ieee.org/abstract/document/6412108/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-accelerated real-time volume rendering for 3D medical image
+     Author ['J Xing', 'S Liu', 'W Zhao']
+     Venue 2010 3rd International Conference on …
+     Year 2010
+     Abstract In this paper, we present an FPGA-based volume rendering algorithm implementation for real-time 3D medical application. Our method is an block-based ray casting algorithm which is an efficient memory cache technique and inherits advantages of ray casting while prevent
+     Url https://ieeexplore.ieee.org/abstract/document/5639475/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title A single FPGA-based portable ultrasound imaging system for point-of-care applications
+     Author ['GD Kim', 'C Yoon', 'SB Kye', 'Y Lee', 'J Kang']
+     Venue IEEE transactions on …
+     Year 2012
+     Abstract life of approxi- mately 1.5 h. These results indicate that the single FPGA- based portable ultrasound system developed is able to meet the processing requirements in medical ultrasound imaging while providing improved flexibility for adapting to emerging POC applications
+     Url https://ieeexplore.ieee.org/abstract/document/6242795/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title 1024-Channel 3D ultrasound digital beamformer in a single 5W FPGA
+     Author ['F Angiolini', 'A Ibrahim', 'W Simon']
+     Venue … , Automation & Test …
+     Year 2017
+     Abstract In this paper, we present an FPGA architecture suitable for a portable medical 3D ultrasound device. We show an optimized design for the digital part of the imager, including the delay calculation block, which is its most critical part
+     Url https://ieeexplore.ieee.org/abstract/document/7927175/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Fpga acceleration for simultaneous medical image reconstruction and segmentation
+     Author ['P Li', 'T Page', 'G Luo', 'W Zhang', 'P Wang']
+     Venue 2014 IEEE 22nd …
+     Year 2014
+     Abstract The conventional approach of computed tomography (CT) is to solve each image processing task individually in sequence. An obvious drawback is that the measured data is only used once at the first step, and the possible errors, from noises in the measured data
+     Url https://ieeexplore.ieee.org/abstract/document/6861616/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Minimizing the error: a study of the implementation of an integer split-radix FFT on an FPGA for medical imaging
+     Author ['MR Mohammadnia', 'L Shannon']
+     Venue … International Conference on …
+     Year 2012
+     Abstract Fixed-point arithmetic is used to provide faster and smaller implementations in many digital signal processing applications, including medical imaging, at the expense of decreased accuracy. In particular, when a Fast Fourier Transform (FFT)-Inverse Fast Fourier Transform
+     Url https://ieeexplore.ieee.org/abstract/document/6412161/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title An overview of MRI brain classification using FPGA implementation
+     Author ['MFB Othman', 'N Abdullah']
+     Venue 2010 IEEE Symposium …
+     Year 2010
+     Abstract We intend to prove that this kennel technique will help to get more accurate result. Other than that, the implementation of FPGA as hardware re-configurable will be observed so that this technology will help to manage image processing in a number of medical applications
+     Url https://ieeexplore.ieee.org/abstract/document/5679389/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Maxwell-a 64 FPGA supercomputer
+     Author ['R Baxter', 'S Booth', 'M Bull', 'G Cawood']
+     Venue Second NASA/ESA …
+     Year 2007
+     Abstract ltd, a firm specializing in three and four-dimensional facial imaging for medical applications such  a key part of Dimensional Imaging's own software and accelerates it using FPGA hardware  OHM plc are an Aberdeen-based consultancy offering services to the oil and gas industry
+     Url https://ieeexplore.ieee.org/abstract/document/4291933/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical dressing
+     Author ['D Smith', 'H Lecomte', 'E Mumby']
+     Venue US Patent App. 29/437,181
+     Year 2013
+     Abstract FIG. 1 is a perspective view of a medical dressing. FIG. 2 is a top view of the medical dressing of FIG. 1. FIG. 3 is a bottom view of the medical dressing of FIG. 1. FIG. 4 is a front view of the medical dressing of FIG. 1. FIG. 5 is a rear view of the medical dressing of FIG. 1
+     Url https://patents.google.com/patent/USD691730S1/en
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Low complex, programmable FPGA based 8-channel ultrasound transmitter for medical imaging researches
+     Author ['C Dusa', 'P Rajalakshmi', 'S Puli']
+     Venue 2014 IEEE 16th …
+     Year 2014
+     Abstract In commercial ultrasound systems, the transmit module typically generates the time delayed excitation pulses to steer and focus the acoustic beam. However, the ultrasound transmitter module in these systems has limited access to medical ultrasound researchers. In this
+     Url https://ieeexplore.ieee.org/abstract/document/7001850/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Nuclear medical image treatment system based on FPGA in real time
+     Author ['B Mahmoud', 'MH Bedoui', 'R Raychev']
+     Venue International Journal of …
+     Year 2004
+     Abstract We present in this paper an acquisition and treatment system designed for semi-analog Gamma-camera. It consists of a nuclear medical Image Acquisition, Treatment and Display chain (IATD) ensuring the acquisition, the treatment of the signals (resulting from the Gamma
+     Url https://www.researchgate.net/profile/Bouraoui_Mahmoud/publication/255579375_Nuclear_medical_image_treatment_system_based_on_FPGA_in_real_time/links/0a85e538c82d8d6bf8000000/Nuclear-medical-image-treatment-system-based-on-FPGA-in-real-time.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical Intelligent Infusion Monitoring System Based on 5G Network and FPGA
+     Author ['C Bei', 'Y Liu', 'J Gu']
+     Venue Microprocessors and Microsystems
+     Year 2020
+     Abstract Medical infusions emphasize an approach to a distributed patient-centric approach, following a rapid transition from traditional hospitals and professionals. Several technological advances have provided medical assistance from long distances to facilitate
+     Url https://www.sciencedirect.com/science/article/pii/S0141933120305500
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"
+     Title Medical device casing
+     Author ['G Baily', 'JAD Iles']
+     Venue US Patent App. 29/115,518
+     Year 2001
+     Abstract FIG. 2 is a back elevational view thereof; FIG. 3 is a front, top and slide perspective view thereof; FIG. 4 is a back, bottom and side perspective view thereof, opposite that shown in FIG. 3; FIG. 5 is a side elevational view thereof; FIG. 6 is a side elevational view thereof
+     Url https://patents.google.com/patent/USD447569S1/en
+

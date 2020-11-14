@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Continuous"+"DevOps"
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract The task of managing large installations of computer systems presents a number of unique challenges related to heterogeneity, consistency, information flow and documentation. The emerging field of DevOps borrows practices from software engineering to tackle complexity
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps automation and Agile methodology
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2017
+     Abstract Agile Teams are focused on automated design, test automation, Continuous Integration (CI). According to Forsgren and Humble DevOps teams frequently need to use these tools, as well as metrics and monitoring systems, configuration management, virtualization, and cloud
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655581
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract In the end, DevOps automation captures everything from design, delivery, and supervision. Keywords: Continuous Integration, automation, DevOps, CI pipeline I. INTRODUCTION Continuous integration is a concept of coding and
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Improve software quality through practicing DevOps
+     Author ['P Perera', 'R Silva', 'I Perera']
+     Venue … Conference on Advances in ICT for …
+     Year 2017
+     Abstract In order to accommodate continuous releases, DevOps encourages automation of the change, configuration and release processes. The objective of this research is to study whether quality of the software gets improved when practicing DevOps in software companies
+     Url https://ieeexplore.ieee.org/abstract/document/8257807/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract Further this stage of process optimization refers to achieving automation such that as soon as developer delivers the change the build systems detects that  C. Continuous Deployment This is heart of DevOps and forms the critical piece of overall software delivery optimization
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps: continuous delivery, integration, and deployment with DevOps: dive into the core DevOps strategies
+     Author ['S Vadapalli']
+     Venue NA
+     Year 2018
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Applying DevOps Practices of Continuous Automation for Machine Learning
+     Author ['I Karamitsos', 'S Albarhami', 'C Apostolopoulos']
+     Venue Information
+     Year 2020
+     Abstract This paper proposes DevOps practices for machine learning application, integrating both the development and operation environment seamlessly. The machine learning processes of development and deployment during the experimentation phase may seem easy. However
+     Url https://www.mdpi.com/2078-2489/11/7/363
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Streamlining DevOps automation for Cloud applications
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2018
+     Abstract 2017, “A qualitative study of DevOps usage in practice,” Journal of Software: Evolution and Process, vol. 29, no. 6, p. e1885. [5] Humble, J. and Farley, D., 2010, “Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Adobe Reader)
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655574
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Simplifying the DevOps Adoption Process.
+     Author ['I Bucena', 'M Kirikova']
+     Venue BIR Workshops
+     Year 2017
+     Abstract The other driving force for DevOps adoption, mentioned in reports [3, 4], is the use of less resources for software development and maintenance, which can be achieved through automation. It is the core activity in one of the DevOps practices - the continuous delivery [5]. DevOps
+     Url http://ceur-ws.org/Vol-1898/paper14.pdf
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract We review the lit- erature and develop a DevOps conceptual map, correlating the DevOps automation tools with these  management; Pro- gramming teams; Software post-development issues; Additional Key Words and Phrases: DevOps, continuous (delivery, deployment
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps for information management systems
+     Author ['AQ Gill', 'A Loumish', 'I Riyat', 'S Han']
+     Venue VINE Journal of Information and …
+     Year 2018
+     Abstract 2014). The principles of DevOps are highly based on automation, continuous delivery, short release cycles and agile development to enable the delivery of great value to the customer (Bayser et al., 2015; Neely and Stolt, 2013)
+     Url https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-02-2017-0007/full/html
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract As both DevOps and continuous deployment aim at con- stantly delivering added value to end users, automation is needed to reduce repetitive work. This repetitive work in particular includes quality assurance, calling for automated tests, checks on code complexity, and so on
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps: Concepts, practices, tools, benefits and challenges
+     Author ['G Bou Ghantous', 'A Gill']
+     Venue PACIS2017
+     Year 2017
+     Abstract Keywords: Architecture, automation, continuous development, continuous integration, DevOps Introduction  [S29] [30] Schaefer A., Reichenbach M., Fey D. 2013. “Continuous Integration and Automation for DevOps”, HK Kim et al
+     Url https://opus.lib.uts.edu.au/bitstream/10453/130066/1/DevOps-%20Concepts%20Practices%20Tools%20Benefits%20and%20Challenges.pdf
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Including performance benchmarks into continuous integration to enable DevOps
+     Author ['J Waller', 'NC Ehmke', 'W Hasselbring']
+     Venue ACM SIGSOFT Software …
+     Year 2015
+     Abstract IT operations professionals (Ops). Automation of software quality assurance is key to DevOps success. We present how auto- mated performance benchmarks may be included into continuous integration. As an example, we
+     Url https://dl.acm.org/doi/abs/10.1145/2735399.2735416
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Evaluating the impact of DevOps practice in Sri Lankan software development organizations
+     Author ['P Perera', 'M Bandara', 'I Perera']
+     Venue 2016 Sixteenth International …
+     Year 2016
+     Abstract employees take some time. Automation, continuous deployment and changing the measurements of the organization‟s initial implementation are important to implement DevOps successfully. Initial cost for this implementation
+     Url https://ieeexplore.ieee.org/abstract/document/7829932/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Orchestrating automation and sharing in DevOps teams: a revelatory case of job satisfaction factors, risk and work conditions
+     Author ['A Hemon-Hildgen', 'F Rowe']
+     Venue European Journal of …
+     Year 2020
+     Abstract challenges with DevOps. Developers must consider additional constraints when coding in a DevOps context (eg, automation, test for continuous integration) but coding activity remains central. Senior management also considered
+     Url https://www.tandfonline.com/doi/abs/10.1080/0960085X.2020.1782276
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Dimensions of devops
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on agile …
+     Year 2015
+     Abstract and the practitioners, automation in DevOps is required in operations processes and increased test automation is necessary in the software devel- opment process [9], [15–17]. In order to keep up with the pace of Agile software de- velopment and continuous integration (CI
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_19
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract preventing and removing bloat within systems created by projects, you'd have more resources to focus on problem solving and continuous improvement of  Devops is an approach to fixing the first three problems listed above through culture, automation, measurement, and
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Improve Software Quality through practicing DevOps Automation
+     Author ['SM Mohammad']
+     Venue … DEVOPS AUTOMATION", International Journal of …
+     Year 2018
+     Abstract to presents the relationship between the technical practices of DevOps and the improved software quality in terms of instruments and technologies which permit continuous integration and delivery, test automation, and high-speed deployment. II. LITERATURE REVIEW
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681565
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Are DevOps and Automation Our Next Silver Bullet?
+     Author ['I Ozkaya']
+     Venue IEEE Software
+     Year 2019
+     Abstract While, on one hand, we de- bate how to scale agile, on the other, we run to DevOps, continuous in- tegration, and continuous deliv- ery tools to achieve the so-called orders of magnitude of productiv- ity improvement. Automation enshrines a process step without necessitating
+     Url https://ieeexplore.ieee.org/abstract/document/8738081/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract The quality assurance team must en- sure automation of all test cases and full code coverage  So, the IT operations and development teams must closely collaborate to achieve the continuous process pro- moted by the DevOps team
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Microservices: Architecting for continuous delivery and devops
+     Author ['L Chen']
+     Venue 2018 IEEE International Conference on Software …
+     Year 2018
+     Abstract A key approach used in this DevOps movement is Continuous Delivery (CD) [2]. CD is a software  However, discussions of CD have primarily focused on build, test, and deployment automation [5]; insufficient attention has been paid to software architecture
+     Url https://ieeexplore.ieee.org/abstract/document/8417115/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title How security can be the next force multiplier in devops
+     Author ['A Storms']
+     Venue RSAConference,(San Francisco, USA)
+     Year 2015
+     Abstract Commit message, additional logging 20 Page 21. #RSAC Security Makes DevOps Better - Tools ◆ Chef (IT Automation) ◆ Continuous configuration & compliance ◆ Write some code! ◆ Map security controls to recipes ◆ Apply technical controls. Ex: https://cipherli.st
+     Url https://docs.huihoo.com/rsaconference/usa-2015/asd-f01-how-security-can-be-the-next-force-multiplier-in-devops.pdf
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Relationship of DevOps to agile, lean and continuous deployment
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on product …
+     Year 2016
+     Abstract Farley, D.: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation  in agile software development: Introduction to the special section on continuous value delivery  LE, Kuvaja, P., Oivo, M.: An exploratory study of DevOps: extending the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_27
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous practices and devops: beyond the buzz, what does it all mean?
+     Author ['D Stahl', 'T Martensson', 'J Bosch']
+     Venue 2017 43rd Euromicro …
+     Year 2017
+     Abstract and multi-faceted concept, others zoom in one part or other — such as culture or automation — and instead think of that as DevOps. Indeed, this also provides a lens through which we may regard the relationship between continuous practices and DevOps, discussed further in
+     Url https://ieeexplore.ieee.org/abstract/document/8114695/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Standards-based DevOps automation and integration using TOSCA
+     Author ['J Wettinger', 'U Breitenbücher']
+     Venue 2014 IEEE/ACM 7th …
+     Year 2014
+     Abstract process needs to be highly automated to enable continuous delivery of software [3]. The constantly growing DevOps community supports this by providing a huge variety of individual approaches such as tools and artifacts to implement holistic deployment automation
+     Url https://ieeexplore.ieee.org/abstract/document/7027481/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous and Integrated Software Development using DevOps
+     Author ['A Agarwal', 'S Gupta']
+     Venue … Conference on Advances …
+     Year 2018
+     Abstract Devops is all about culture, automation, measurement and sharing (CAMS).It is gaining popularity because of its continuous approach – continuous integration(CI), continuous deployment (CD) and software delivery
+     Url https://ieeexplore.ieee.org/abstract/document/8458052/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Test orchestration a framework for continuous integration and continuous deployment
+     Author ['N Rathod', 'A Surve']
+     Venue 2015 international conference on …
+     Year 2015
+     Abstract This allows for greater association between continuous integration, DevOps and continues delivery, feeding real change in  automatically [1, 9]. Those initiatives usually involve introducing Continuous Integration and Continuous Deployment Automation, a measure
+     Url https://ieeexplore.ieee.org/abstract/document/7087120/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Architecting for devops and continuous deployment
+     Author ['M Shahin']
+     Venue Proceedings of the ASWEC 2015 24th Australasian …
+     Year 2015
+     Abstract Development and Operations (DevOps) in the context of Continuous Deployment (CD  bridge the gap between development and operations teams [2]. CD is defined as the ability to frequently and reliably put new releases into production, with as much automation as possible
+     Url https://dl.acm.org/doi/abs/10.1145/2811681.2824996
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract We hope that this work can help other formal method practitioners integrate their tools with DevOps. Keywords VDM · Modelling · Simulation · Code generation · Test automation · Continuous integration · DevOps 1 Introduction
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Building a collaborative culture: a grounded theory of well succeeded devops adoption in practice
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Proceedings of the 12th ACM/IEEE …
+     Year 2018
+     Abstract Building a Collaborative Culture: A GT of Well Succeeded DevOps Adoption in Practice  Continuous application mea- surement (3), in turn, refers to the instrumentation to provide  monitoring/ measurement can occur in an automated way, the monitoring automation has already
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240299
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title A New Form of Collaboration in IT Teams-Exploring the DevOps Phenomenon.
+     Author ['A Wiedemann']
+     Venue PACIS
+     Year 2017
+     Abstract At the same time, intensified collaboration fosters adaption of continuous integration (CI) which  The recent phenomenon DevOps delivers solutions to avoid interruptions between different stages  This novel paradigm fosters collaboration and automation, and uses new tools and
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1206&context=pacis2017
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Enabling DevOps collaboration and continuous delivery using diverse application environments
+     Author ['J Wettinger', 'V Andrikopoulos', 'F Leymann']
+     Venue … International Conferences" On …
+     Year 2015
+     Abstract für Informatik, Otto-von- Guericke-Universität Magdeburg (2010) 3. Humble, J., Farley, D.: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. Addison-Wesley Professional (2010) 4. Hüttermann, M.: DevOps for Developers
+     Url https://link.springer.com/chapter/10.1007/978-3-319-26148-5_23
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous scrum: A framework to enhance scrum with DevOps
+     Author ['SS Samarawickrama', 'I Perera']
+     Venue … International Conference on …
+     Year 2017
+     Abstract DevOps discuss about this aspect as the fast feedback from production to development. To support continuous integration and continuous delivery deployment should be automated. In a theoretical scenario, deployment of automation should be implemented to the production
+     Url https://ieeexplore.ieee.org/abstract/document/8257808/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Pioneering the automation of lnternal quality assurance system of higher education (IQAS-HE) using DevOps approach
+     Author ['A Taryana', 'I Setiawan', 'A Fadli']
+     Venue … and Technology (SIET …
+     Year 2017
+     Abstract TOSCA Institute of Architecture of Application Systems Standards - based DevOps Automation and Integration Using TOSCA,” Proc. 7th Int. Conf. Util. Cloud Comput. (UCC 2014), 2014. [4] S. Carrizo, S. Cucu, and S. Modir, Using Liberty for DevOps, Continuous Delivery, and
+     Url https://ieeexplore.ieee.org/abstract/document/8304146/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Streamlining DevOps automation for Cloud applications using TOSCA as standardized metamodel
+     Author ['J Wettinger', 'U Breitenbücher', 'O Kopp']
+     Venue Future Generation …
+     Year 2016
+     Abstract process needs to be highly automated to enable continuous delivery of software [3]. The constantly growing DevOps community supports this by providing a huge variety of individual approaches such as tools and artifacts to implement holistic deployment automation
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X15002496
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps improvements for reduced cycle times with integrated test optimizations for continuous integration
+     Author ['D Marijan', 'M Liaaen', 'S Sen']
+     Venue 2018 IEEE 42nd Annual …
+     Year 2018
+     Abstract and focusing on end-to-end automation of deployment process. One constituting practice in DevOps supporting automation is Continuous Integration (CI). CI is a software development practice of frequent integration and testing
+     Url https://ieeexplore.ieee.org/abstract/document/8377636/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps and its practices
+     Author ['L Zhu', 'L Bass', 'G Champlin-Scharff']
+     Venue IEEE Software
+     Year 2016
+     Abstract His research interests are software architecture, DevOps, and software engineering education  He has 20 years' experience at IBM helping teams grow engineering skills, embrace automation, and adopt continuous improvement
+     Url https://ieeexplore.ieee.org/abstract/document/7458765/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Introducing DevOps Techniques in a Software Construction Class
+     Author ['M Hills']
+     Venue 2020 IEEE 32nd Conference on Software Engineering …
+     Year 2020
+     Abstract of assignments, built as a sequence of steps, and carried out over the course of the semester, that are designed to teach students about DevOps techniques such as build automation and continuous deployment. These assignments
+     Url https://ieeexplore.ieee.org/abstract/document/9206183/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract Operations activities under focus and being improved in DevOps start in development, and this is  For the needs of advanced Agile development teams, the availability of continuous deployment may be a critical factor in choosing a release management automation solution
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title An exploratory study of DevOps and it's future in the United States
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract 166–177. [17] Sacks, M., 2012, Pro website development and operations: Streamlining DevOps for large-scale websites, Apress, [New York]. [18] Sikender Mohsienuddin Mohammad, "CONTINUOUS INTEGRATION AND AUTOMATION", International Journal of Creative
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668439
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Adopting DevOps in the real world: A theory, a model, and a case study
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Journal of Systems and Software
+     Year 2019
+     Abstract Thus, we asked the respondents explicitly about the role of automation and how the collaborative culture is  With DevOps we supply the need for freedom and have more power to execute some  is the best option, but considering that it is not always feasible, the continuous use of
+     Url https://www.sciencedirect.com/science/article/pii/S0164121219301517
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps for Web Development
+     Author ['M Soni']
+     Venue NA
+     Year 2016
+     Abstract for developers team, challenges for operations team, challenges faced by organizations, waterfall and agile model, importance of collaboration, cloud computing, reason to go for DevOps, benefits of DevOps, DevOps lifecycle, build automation, continuous integration and its
+     Url https://books.google.com/books?hl=en&lr=&id=uJfcDgAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22Continuous%22+%22DevOps%22&ots=h2LrFyO5mn&sig=ZQ3SdOWvBZDHNqj3-yAg5xiZmCo
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevDocOps: towards automated documentation for DevOps
+     Author ['G Rong', 'Z Jin', 'H Zhang', 'Y Zhang']
+     Venue 2019 IEEE/ACM 41st …
+     Year 2019
+     Abstract DevDocOps extends the scope of DevOps and enhances the value delivery by supporting continuous documentation and bridging the gap between feature delivery and document delivery with automation. Index Terms—DevOps, Continuous Delivery, Documentation
+     Url https://ieeexplore.ieee.org/abstract/document/8804428/
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps
+     Author ['THC Hsu']
+     Venue NA
+     Year 2018
+     Abstract DevOps security, such as risk assessment, threat modeling, and continuous security  is for This book is for system administrators, security consultants, and DevOps engineers who  Basic understanding of Cloud computing, automation frameworks, and programming is necessary
+     Url https://books.google.com/books?hl=en&lr=&id=bO1mDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22Continuous%22+%22DevOps%22&ots=pIcw5qXgkE&sig=fqgndDV8sW15xs1n7gp2Aut4vD8
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Collaborative gathering and continuous delivery of DevOps solutions through repositories
+     Author ['J Wettinger', 'U Breitenbücher', 'M Falkenthal']
+     Venue … Science-Research and …
+     Year 2017
+     Abstract These solutions provide building blocks for establishing continuous delivery pipelines as well as implementing deployment automation. Since the DevOps community is not only growing, but also very active and disruptive, it is a challenge to keep up with constantly updating
+     Url https://link.springer.com/article/10.1007/s00450-016-0338-z
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps capabilities, practices, and challenges: Insights from a case study
+     Author ['M Senapathi', 'J Buchan', 'H Osman']
+     Venue Proceedings of the 22nd …
+     Year 2018
+     Abstract of DevOps evolution. Automation of metric measurement is a technological enabler of DevOps in the sense it can support the team's capability of continuous measurement of appropriate metrics. The metrics automation may
+     Url https://dl.acm.org/doi/abs/10.1145/3210459.3210465
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title DevOps with continuous testing architecture and its metrics model
+     Author ['J Angara', 'S Gutta', 'S Prasad']
+     Venue Recent Findings in Intelligent Computing …
+     Year 2018
+     Abstract there is a critical need to strategize testing process and align it to continuous planning, continuous integration, continuous deployment and continuous monitoring, and feedback goals of DevOps practice. There is a vital difference between test automation and continuous testing
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8633-5_28
+
+
+     Search term "Automation"+"Continuous"+"DevOps"
+     Title Continuous integration, deployment and delivery automation in AWS cloud infrastructure
+     Author ['KS Poornalinga', 'P Rajkumar']
+     Venue Proc. International Research Journal …
+     Year 2016
+     Abstract automation of Continuous Integration, Deployment and Delivery doesn't require any specialized toolsets outside of the common toolset which is available in the market. Several numbers of tools are available for the automation of these Agile and DevOps practices, where a
+     Url https://www.academia.edu/download/54559422/IRJET-V3I590.pdf
+

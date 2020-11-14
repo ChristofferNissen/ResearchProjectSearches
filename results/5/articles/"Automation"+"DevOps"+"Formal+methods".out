@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"DevOps"+"Formal+methods"
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract These extensions enable Overture to be used in a DevOps setting, through continuous integration and validation of models and generated code via integration with the Jenkins automation server. We frame the integration of formal methods and DevOps in a series of principles
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title DevOps meets formal modelling in high-criticality complex systems
+     Author ['M Olszewska', 'M Waldén']
+     Venue … Workshop on Quality-Aware DevOps
+     Year 2015
+     Abstract The merge of formal methods and agile approaches is meant, among others, to speed up  12] answers these needs by putting special emphasis on collaboration, integration, communication and automation. There is no clear definition of DevOps yet [13], however, it is described
+     Url https://dl.acm.org/doi/abs/10.1145/2804371.2804373
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title A systematic mapping study on microservices architecture in devops
+     Author ['M Waseem', 'P Liang', 'M Shahin']
+     Venue Journal of Systems and Software
+     Year 2020
+     Abstract DevOps practices heavily rely on tool support and process automation (Bass, 2017)  The coexistence of microservices and DevOps enables reusability, decentralized data governance, automation, and built-in scalability (Balalaie et al., 2016)
+     Url https://www.sciencedirect.com/science/article/pii/S0164121220302053
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract at integrating formal methods and agile practices, such as [4, 9, 21], this paper brings the semi-formal methods that are  2 Behaviour Driven Development in DevOps  Gherkin is the common language to write features, particularly for the Cucumber test automation framework [22]
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Testing in DevOps
+     Author ['F Faber']
+     Venue The Future of Software Quality Assurance
+     Year 2020
+     Abstract With automation teams can get continuous feedback on their service and the steps they take to add new features to their  1991, September 17) 7. Kim, G., Behr, K., Spafford, G.: The Phoenix Project: A Novel About IT, DevOps, and Helping  In: Formal Methods at the Crossroads
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/22847/1007314.pdf?sequence=1#page=47
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Formal methods and agile development: towards a happy marriage
+     Author ['C Ghezzi']
+     Venue The Essence of Software Engineering
+     Year 2018
+     Abstract the test cases the implementation should run successfully, and then relies on automation of test  43 (4), 340–358 (2017) 5. Bass, L., Weber, I., Zhu, L.: DevOps: A Software  In: International Symposium on Leveraging Appli- cations of Formal Methods, Verification and Validation, pp
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27814/1002191.pdf?sequence=1#page=39
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Performance-oriented DevOps: A research agenda
+     Author ['A Brunnert', 'A van Hoorn', 'F Willnecker', 'A Danciu']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract source. However, they do not provide a natural linking of resource demands with software elements (eg, components, operations) like architecture-level performance models useful for DevOPs process automation. In traditional
+     Url https://arxiv.org/abs/1508.04752
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Reflections on teaching formal methods for software development in higher education
+     Author ['M Khazeev', 'H Aslam', 'D de Carvalho']
+     Venue … Workshop on Frontiers …
+     Year 2019
+     Abstract and temporal logic; and experienced variety tools of different purpose and level of automation - from model  verification [17] and in the design and delivery of courses related to DevOps [2, 3  In addition to this, we have identified the prerequisites for the course of formal methods
+     Url https://link.springer.com/chapter/10.1007/978-3-030-57663-9_3
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Towards a benefits dependency network for DevOps based on a systematic literature review
+     Author ['R Jabbari', 'N bin Ali', 'K Petersen']
+     Venue Journal of Software …
+     Year 2018
+     Abstract Towards a benefits dependency network for DevOps based on a systematic literature review. Ramtin Jabbari Corresponding Author  2.1 Existing systematic literature reviews on DevOps. Few systematic studies have been conducted on the topic of DevOps
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1957
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Exploring and Enabling DevOps for Data Analytical System with Essential Demands Elicitation
+     Author ['J Zheng', 'Y Liu', 'J Lin']
+     Venue International Journal of Software Engineering …
+     Year 2016
+     Abstract Complexity of tool integration — Massive open-source automation tools will be applied to DevOps practice  Page 7. 3.3. Long-term sustainability Until now, the DevOps community is constantly releasing new open-source automation tools to support DevOps
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401640012X
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Towards Automated Deployment of Self-adaptive Applications on Hybrid Clouds (Short Paper)
+     Author ['LM Hillah', 'R Assad', 'A Bertolino', 'M Delamaro']
+     Venue … and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 388-393 | Cite as  The main solution of the aforementioned problems is the automation of DevOps jobs, in particular test, configuration, deployment, and ops management
+     Url https://link.springer.com/chapter/10.1007/978-3-319-66197-1_26
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title System Verification, Processes and Testing
+     Author ['T Perez', 'A Morozov', 'B Rokseth']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract nature. Formal Methods can be introduced at several stages during the development process. For  etc.) properties. This automation will help with the DevOps-like process of ongoing verification described above. An obvious
+     Url https://sintef.brage.unit.no/sintef-xmlui/bitstream/handle/11250/2639825/Proceedings+of+the+1st+International+Workshop+on+Autonomous+Systems+Safety32803.pdf?sequence=2
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract Automation Requirement. A full DevOps stack is fundamental to manage the whole system and automate the whole process. Without the adoption of DevOps the system development would be much slower with microservices than with monolithic systems [S37]
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title DevOps and its Philosophy: Education Matters!
+     Author ['E Bobrov', 'A Bucchiarone', 'A Capozucca', 'N Guelfi']
+     Venue Microservices
+     Year 2020
+     Abstract Generally, technical people understand how to set up the automation, but they may  workflow reconfigurations – a process algebra perspective, in Web Services and Formal Methods – 8th International  A. Naumchev, L. Safina, A. Sillitti, K. Urysov, Teaching DevOps in corporate
+     Url https://link.springer.com/chapter/10.1007/978-3-030-31646-4_14
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title DevOps, DBAs, and DBaaS: Managing Data Platforms to Support Continuous Integration
+     Author ['MS Cuppett']
+     Venue NA
+     Year 2016
+     Abstract As DevOps database frameworks mature, DBA task inclusion becomes seam- less to the process, supporting continuous integration and automation. Core DBA work shifts from being a significant Gantt chart bar to barely a blip on the timeline
+     Url https://books.google.com/books?hl=ru&lr=&id=xme3DQAAQBAJ&oi=fnd&pg=PP6&dq=%22Automation%22+%22DevOps%22+%22Formal+methods%22&ots=936Fv29xZU&sig=9eYnhMIhBMI8Vwqgr43pWob_iBA
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract This means that code no longer can be “thrown over the wall” to operations. • Automation— DevOps relies on full automation of the build, deployment and testing in order to achieve short lead times, and consequently rapid delivery and feedback from end-users. •
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Final service provider devops concept and evaluation
+     Author ['G Marchetto', 'R Sisto', 'W John', 'P Sköldström']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract Another focus of this document is on automation of operation tasks, showing how the individual SP-DevOps tools  verification processes, with emphasis on automation. Automation is in fact a must for a proper realization of DevOps
+     Url https://arxiv.org/abs/1610.02387
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Self-reconfiguring microservices
+     Author ['M Gabbrielli', 'S Giallorenzo', 'C Guidi', 'J Mauro']
+     Venue … of Formal Methods
+     Year 2016
+     Abstract Theory and Practice of Formal Methods pp 194-210 | Cite as. Self-Reconfiguring Microservices  In this work, we combine the flexibility typical of the IaaS level with the high-level automation typical of the PaaS level by allowing the DevOps to specify their SOAs and then
+     Url https://link.springer.com/chapter/10.1007/978-3-319-30734-3_14
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Automation and intelligent scheduling of distributed system functional testing
+     Author ['LM Hillah', 'AP Maesano', 'F De Rosa', 'F Kordon']
+     Venue International Journal on …
+     Year 2017
+     Abstract adopted for addressing input and oracle generation, dynamic scheduling, and session planning issues supporting service functional test automation are illustrated. More specifically, the paper details: (i) the test input generation based on formal methods and temporal logic
+     Url https://link.springer.com/article/10.1007/s10009-016-0440-3
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Introducing programmability and automation in the synthesis of virtual firewall rules
+     Author ['D Bringhenti', 'G Marchetto', 'R Sisto']
+     Venue 2020 6th IEEE …
+     Year 2020
+     Abstract use of virtualization paradigms and the increasing adoption of automation in the  Index Terms—network functions virtualization, firewall, auto- matic programmability, cloud networking, formal methods  They belong to the category of DevOps infrastructure management tools and
+     Url https://ieeexplore.ieee.org/abstract/document/9165434/
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Boost the Impact of Continuous Formal Verification in Industry
+     Author ['FR Monteiro', 'MR Gadelha', 'LC Cordeiro']
+     Venue arXiv preprint arXiv:1904.06152
+     Year 2019
+     Abstract We believe that formal methods can be effective in improving software quality assurance of a large number of  We also need to increase automation as much as possible  highlight the impor- tance of continuous (and automatic) testing and verification in the context of DevOps
+     Url https://arxiv.org/abs/1904.06152
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Audition: a DevOps-oriented quality control and testing framework for cloud environments
+     Author ['G Borgenholt']
+     Venue NA
+     Year 2013
+     Abstract Users expect new features released regularly and frequently, with no de- gradation in service quality. This request for continuous delivery of new features, have lead to the creation of DevOps. A development paradigm with a focus on automation and continuous deliveries
+     Url https://www.duo.uio.no/handle/10852/38243
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Continuous Architecting With Microservices and DevOps: a Systematic Mapping Study
+     Author ['C Pahl']
+     Venue NA
+     Year NA
+     Abstract Automation Requirement. A full DevOps stack is fundamental to manage the whole system and automate the whole process. Without the adoption of DevOps the system development would be much slower with microservices than with monolithic systems[S37]
+     Url https://www.researchgate.net/profile/Valentina_Lenarduzzi/publication/334633866_Continuous_Architecting_With_Microservices_and_DevOps_a_Systematic_Mapping_Study/links/5d36fdcfa6fdcc370a57aba7/Continuous-Architecting-With-Microservices-and-DevOps-a-Systematic-Mapping-Study.pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Formal verification of developer tests: a research agenda inspired by mutation testing
+     Author ['S Demeyer', 'A Parsai', 'S Vercammen']
+     Venue … of Formal Methods
+     Year 2020
+     Abstract https://doi.org/10.1109/TSE.2014.2342227CrossRefGoogle Scholar. 6. Bass, L., Weber, I., Zhu, L.: DevOps: A Software Architect's Perspective  Fewster, M., Graham, D.: Software Test Automation: Effective Use of Test Execution Tools  Hall, A.: Seven myths of formal methods
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61470-6_2
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Service Provider DevOps network capabilities and tools
+     Author ['R Steinert', 'W John', 'P Sköldström', 'B Pechenot']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract in WP4, several tools and functions are planned to be released with individual licenses but packaged in a SP-DevOps Toolkit  Support for increased automation will be further developed during the remainder of the UNIFY project with focus on automated observability
+     Url https://arxiv.org/abs/1510.02818
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Track Introduction–Doctoral Symposium 2018
+     Author ['AL Lamprecht']
+     Venue … on Leveraging Applications of Formal Methods
+     Year 2018
+     Abstract of this work is to integrate learning-based testing methods into DevOps toolchains for  available to non-expert users and already comprises traditional test automation capabilities, is  1. Lamprecht, A.-L. (ed.): Leveraging Applications of Formal Methods, Verification, and Validation
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_28
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title PhD and Engineer in Computer Science and Applied Mathematics
+     Author ['S Mondet']
+     Venue NA
+     Year NA
+     Abstract on safety and security of implementations through meta-programming and formal methods (see Sec  Computational Workflow Automation > Ketrew: A workflow engine specialized in complex and con  DevOps / Resource Deployment > Secotrec: A family of tools (ie a library and
+     Url https://seb.mondet.org/CV_SebastienMONDET.pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Securing the testing process for industrial automation software
+     Author ['M Eckhart', 'K Meixner', 'D Winkler', 'A Ekelhart']
+     Venue Computers & Security
+     Year 2019
+     Abstract Computers & Security. Volume 85, August 2019, Pages 156-180. Computers & Security. Securing the testing process for industrial automation software. Author  3. Generic software testing process for automation applications. In
+     Url https://www.sciencedirect.com/science/article/pii/S0167404818314482
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Automation in software testing, can we automate anything we want
+     Author ['B Oliinyk', 'V Oleksiuk']
+     Venue Proceedings of the 2nd Student Workshop on …
+     Year 2019
+     Abstract In: Ehrig H., Floyd C., Nivat M., Thatcher J. (eds.) Formal Methods and Software Development. TAPSOFT 1985  234 15. Wyher, T.: 5 Reasons Why Manual Testing Is Still Very Important. DZone DevOps  Yehezkel, S.: World's Most Desirable Test Automation Skills!, TestProject
+     Url http://ceur-ws.org/Vol-2546/paper16.pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Software architecture: Past, present, future
+     Author ['W Hasselbring']
+     Venue The Essence of Software Engineering
+     Year 2018
+     Abstract Full automation of quality assurance and software deployment allows for early fault and error detection  33 (3), 42–52 (2016) 6. Bass, L., Weber, I., Zhu, L.: DevOps: A Software  ACM, New York (2000) 9. Bernardo, M., Inverardi, P.(eds.): Formal Methods for Software Architectures
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27814/1002191.pdf?sequence=1#page=181
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Towards automated deployment of self-adaptive applications on hybrid clouds
+     Author ['LM Hillah', 'R Assad', 'A Bertolino']
+     Venue … Formal Methods  …
+     Year 2017
+     Abstract 15th International Conference on Software Engineering and Formal Methods (SEFM 2017), Sep 2017, Trento  To adopt DevOps effectively, cloud application developers have yet to find solutions to  The main solution of the aforementioned problems is the automation of De- vOps
+     Url https://hal.sorbonne-universite.fr/hal-01538157
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Continuous Formal Verification of Microservice-Based Process Flows
+     Author ['M Camilli']
+     Venue European Conference on Software Architecture
+     Year 2020
+     Abstract operation phases. We foster the integration of the approach in modern software development practices, such as DevOps [12], in order to adopt formal methods in agile, continuous delivery, and automation setting. To achieve
+     Url https://link.springer.com/chapter/10.1007/978-3-030-59155-7_31
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Of software and change
+     Author ['C Ghezzi']
+     Venue Journal of Software: Evolution and Process
+     Year 2017
+     Abstract By following the currently widely advocated DevOps culture, agility extends in a seamless manner  paper, we embrace this holistic view and discuss the role that formal methods can play  test cases the implementation should eventually pass and then relies on automation of test
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1888
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Proceedings of the 1st International Workshop on …
+     Year 2014
+     Abstract develop- ment and operations and is thus very relevant to the DevOps phenomenon [16]  While some form of automation is typical, the frequency is also important in  & Stott [45]) Continuous Verification Adoption of verification activities including formal methods and inspections
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title OCCIware-A formal and tooled framework for managing everything as a service
+     Author ['J Parpaillon', 'P Merle', 'O Barais', 'M Dutoo', 'F Paraiso']
+     Venue NA
+     Year 2020
+     Abstract prevents them to be easily extensible and limits the automation of their  existing technological and scientific tools usually promoted in separated communities: formal methods, model-driven  neering, meta-models, Models@run.time, REST architecture style, devops prac- tices
+     Url https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/25449/https:/hal.archives-ouvertes.fr/hal-01188826/document?sequence=1
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Model Driven Architecture in Containers-Based Software Development
+     Author ['T Górski', 'B Chrabski']
+     Venue Smart Innovations in Engineering and Technology
+     Year 2017
+     Abstract that feature as essential for organizations from banking, insurance sectors where deployment automation is critical  8. Groote, JF, Osaiweran, AAH, Wesselius, JH: Analyzing the effects of formal methods on the  Hirschfield, R.: 2017 trend lines: when DevOps and hybrid collide
+     Url https://link.springer.com/chapter/10.1007/978-3-030-32861-0_10
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Investigation of the use of test automation in software quality assurance in Norwegian companies and organisations
+     Author ['S Anika']
+     Venue NA
+     Year 2016
+     Abstract Automation in Software  and Verification .....13 2.1.1 Formal Methods.....13 2.1.2  28 2.11.3 DevOps .....29 2.11.4
+     Url https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2412048
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title From monolithic to microservices: An experience report from the banking domain
+     Author ['A Bucchiarone', 'N Dragoni', 'S Dustdar', 'ST Larsen']
+     Venue Ieee …
+     Year 2018
+     Abstract The tooling coming with Docker Swarm has an API enabling automation of  applied, bringing full automa- tion to the process and following the DevOps corporate philoso  His main research interests are self-adaptive (collective) systems, applied formal methods, runtime service
+     Url https://ieeexplore.ieee.org/abstract/document/8354415/
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Software Testing Research: Emerging Trends in Tools &Techniques, Challenges and Predictions
+     Author ['S Kumar', 'A Garg', 'A Singh']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title System, method, and computer program product for grouping one or more failures in a formal verification
+     Author ['N Hanna', 'KP Singh', 'M Ziv', 'SK Srivastava']
+     Venue US Patent …
+     Year 2020
+     Abstract Server computer 12 may execute an electronic design automation (EDA) application (eg, EDA  one processor further configured to perform linting analysis using structural and formal methods of at  US9921952B2 (en), 2018-03-20, Early risk identification in DevOps environments
+     Url https://patents.google.com/patent/US10599797B1/en
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Formal Verification of Developer Tests: a Research Agenda Inspired by Mutation Testing
+     Author ['S Vercammen', 'B van Bladel', 'M Abdi']
+     Venue NA
+     Year NA
+     Abstract org/10.1109/TSE.2014.2342227 6. Bass, L., Weber, I., Zhu, L.: DevOps: A Software  MM, Hallerst- ede, S., Leuschel, M. (eds.) Proceedings FMCO 2009 (Formal Methods for Components  Fewster, M., Graham, D.: Software Test Automation: Effective Use of Test Execution Tools
+     Url https://parsai.net/files/research/Formal%20Verification%20of%20Developer%20Tests-%20a%20Research%20Agenda%20Inspired%20by%20Mutation%20Testing%20(pre-print).pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Introducing development features for virtualized network services
+     Author ['S Van Rossem', 'W Tavernier', 'D Colle']
+     Venue IEEE …
+     Year 2018
+     Abstract and technologies ranging from virtualization and network programming techniques to automation and monitoring  SDN/NFV-based services makes them a good fit for DevOps processes, a  Practically, formal methods can be integrated into editors for generating network service
+     Url https://ieeexplore.ieee.org/abstract/document/8284055/
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Integración y entregas continuas con herramientas open source basado en DevOps: Una revisión sistemática de la literatura
+     Author ['BD Juárez Avila', 'KJ Mogollón Calle']
+     Venue NA
+     Year 2020
+     Abstract Nivel de calidad 1 Enabling continuous integration in a formal methods setting 3  3,5 12 Empowering Continuous Delivery in Software Development: The DevOps Strategy 4,5  3 15 Continuous Integration and Continuous Deployment Pipeline Automation Using Jenkins Ansible
+     Url https://repositorio.upeu.edu.pe/handle/UPEU/3442
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Reports on the 2016 AAAI Fall Symposium Series
+     Author ['P Alves-Oliveira', 'RG Freedman', 'D Grollman', 'L Herlant']
+     Venue AI Magazine
+     Year 2017
+     Abstract engineer- ing for the cognitive age — “TrainOps rather than DevOps.” The panel  issue is that of user acceptance and policy constraints for machine automation  research areas, which included autonomics, machine learning, cognitive architectures, formal methods for design
+     Url https://www.aaai.org/ojs/index.php/aimagazine/article/view/2735
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Quality in Requirements Engineering
+     Author ['J Araújo', 'JL de la Vara']
+     Venue NA
+     Year NA
+     Abstract interest in Software Performance Engineering, model-based evaluation, formal methods and self  software architecting methods (eg, MDA, continuous architecting and DevOps), and social  his current research interests are focused on software test automation, software process
+     Url https://ieeexplore.ieee.org/abstract/document/8590163/
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Exploring the Challenges of Developing and Operating Consortium Blockchains: A Case Study
+     Author ['S Li', 'Q Xu', 'P Hou', 'X Chen', 'Y Wang', 'H Zhang']
+     Venue Proceedings of the …
+     Year 2020
+     Abstract smart contracts through game theory and formal methods. In Programming Languages with Applications to Biology and Security, pages 142–161. Springer, 2015. [10] Mitesh Soni. End to end automation on cloud with build pipeline: the case for devops in insurance industry
+     Url https://dl.acm.org/doi/abs/10.1145/3383219.3383276
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title WORK/RESEARCH/STUDY EXPERIENCE
+     Author ['MG Rossi']
+     Venue NA
+     Year NA
+     Abstract FMi), from 2013 to 2016 • IEEE International Conference on Automation, Quality and  AQTR) 2014 and 2016 • International Workshop on Quality-Aware DevOps (QUDOS), 2015  Trends (ICSOFT-PT), 2015, 2016, 2017 • International Workshop on Formal Methods for Industrial
+     Url http://home.deib.polimi.it/rossi/CV_Rossi_En.pdf
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Review of The Data Modeling Standards and Data Model Transformation Techniques
+     Author ['L Jaskierny']
+     Venue Applied Computer Science
+     Year 2018
+     Abstract The following chapter describes formal methods and techniques used to transform structured (eg XSD), or unstructured (eg NoSQL) data models into graph representations. Page 9. 101  An important part of DevOps is the automation of testing processes
+     Url http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-ac840f7d-91b2-4e2e-a675-0171b885a66d
+
+
+     Search term "Automation"+"DevOps"+"Formal+methods"
+     Title Validating datacenters at scale
+     Author ['K Jayaraman', 'N Bjørner', 'J Padhye', 'A Agrawal']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract We describe our experiences using formal methods and automated theorem proving for network operation at scale  The experiences provided in this paper aim to shed light on the role of verification in a DevOps cloud scenario
+     Url https://dl.acm.org/doi/abs/10.1145/3341302.3342094
+

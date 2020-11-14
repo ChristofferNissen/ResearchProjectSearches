@@ -26,16 +26,25 @@ def CreateSearchQuery(keyword):
     #   as_vis: 0
     #   as_sdt: 0,33
     #   q: keyword
-    query = f"""/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q={keyword.strip()}"""
+    # try:
+    # query = f"""/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q={keyword.strip()}"""
+    query = f"""/scholar?q={keyword.strip()}"""
+    docker_log.info(f"Constructed query with {query}")
     search_query = scholarly.search_pubs_custom_url(query)
     return search_query
+    # except Exception as e:
+    #     docker_log.error(e)
+    #     CreateSearchQuery(keyword) # retry
 
 # Traverses iterator from Scholarly to count number of articles
 def Count(search_query):
     """ Counts hits in search query. PROBLEM: Google scholar will only return 100 pages with 10 items each (1000 items) """
     count = 0
+    docker_log.info(f"Starting iteration of {search_query}")
     for _ in search_query:
         count = count + 1
+        docker_log.info(f"Count {count} Query {search_query}")
+        if(count >= THRESHOLD): return count
     return count
 
 # Thread workload
@@ -48,19 +57,24 @@ def CountQueryResultNumber(k, cMap):
 
 def GetValuesFromBib(search_query, k, collection):
     """ Extract values from bibtek """
+    i = 0
     for pub in search_query:
-        title = pub.bib['title']
-        author = pub.bib['author']
-        venue = pub.bib['venue']
-        year = pub.bib['year']
-        url = "[Not Found]"
-        if "url" in pub.bib:
-            url = pub.bib['url']
-        abstract = "[Not Found]"
-        if "abstract" in pub.bib:
-            abstract = pub.bib['abstract']
+        i = i + 1
+        if i <= THRESHOLD:
+            title = pub.bib['title']
+            author = pub.bib['author']
+            venue = pub.bib['venue']
+            year = pub.bib['year']
+            url = "[Not Found]"
+            if "url" in pub.bib:
+                url = pub.bib['url']
+            abstract = "[Not Found]"
+            if "abstract" in pub.bib:
+                abstract = pub.bib['abstract']
 
-        collection.append((k, title, author, venue, year, abstract, url))
+            collection.append((k, title, author, venue, year, abstract, url))
+        else:
+            return
 
 def RetrieveTitleAndAbstract(k, collection):
     """ Extract title and abstract from bibtek """
@@ -144,8 +158,8 @@ def ExecuteLvl2KeywordCombinations(keywords):
 
 def ExecuteLvl3KeywordCombinations(keywords):
     """ Lvl3 search """
-    threads = []
-    # futures = []
+    # threads = []
+    futures = []
     known_searches = []
     results = []
 
@@ -177,27 +191,27 @@ def ExecuteLvl3KeywordCombinations(keywords):
                                 known_searches.append(combined)
 
                                 # futures
-                                # futures.append(executor.submit(CountQueryResultNumber, k=combined, cMap=keyword_combination_results))
+                                futures.append(executor.submit(CountQueryResultNumber, k=combined, cMap=keyword_combination_results))
 
-                                docker_log.info("ExecuteLvl3KeywordCombinations    : before creating thread")
-                                t = threading.Thread(target=CountQueryResultNumber, args=(combined, keyword_combination_results), daemon=False)
-                                docker_log.info("ExecuteLvl3KeywordCombinations    : before running thread")
-                                t.start()
-                                threads.append(t)
+                                # docker_log.info("ExecuteLvl3KeywordCombinations    : before creating thread")
+                                # t = threading.Thread(target=CountQueryResultNumber, args=(combined, keyword_combination_results), daemon=True)
+                                # docker_log.info("ExecuteLvl3KeywordCombinations    : before running thread")
+                                # t.start()
+                                # threads.append(t)
 
             results.append((k1, keyword_combination_results))
     
-    docker_log.info(f"lvl3 Created {threads.__len__()} threads")
-    return (threads, results)
+    # docker_log.info(f"lvl3 Created {threads.__len__()} threads")
+    # return (threads, results)
 
-    # docker_log.info(f"lvl3 Created {futures.__len__()} futures")
-    # return (futures, results)
+    docker_log.info(f"lvl3 Created {futures.__len__()} futures")
+    return (futures, results)
 
 def PrintResultsAndCreateThreadsForSelectedQueries(input_results):
     """ fetch title and abstract information threaded """
     results = []
-    threads = []
-    # futures = []
+    # threads = []
+    futures = []
 
     print()
     print("Results for combined keywords")
@@ -210,18 +224,19 @@ def PrintResultsAndCreateThreadsForSelectedQueries(input_results):
             for key in combinedDict:
                 num = combinedDict[key]
                 print('        ', key, num)
-                if num < THRESHOLD:
-                    docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : before creating thread")
-                    t = threading.Thread(target=RetrieveTitleAndAbstract, args=(key, results), daemon=False)
-                    docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : before running thread")
-                    t.start()
-                    threads.append(t)
-                    # futures.append(executor.submit(RetrieveTitleAndAbstract, k=key, collection=results))
+                # if num <= THRESHOLD:
+                    # docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : before creating thread")
+                    # t = threading.Thread(target=RetrieveTitleAndAbstract, args=(key, results), daemon=True)
+                    # docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : before running thread")
+                    # t.start()
+                    # threads.append(t)
+
+                futures.append(executor.submit(RetrieveTitleAndAbstract, k=key, collection=results))
 
         print()
 
-    # return (futures, results)
-    return (threads, results)
+    return (futures, results)
+    # return (threads, results)
 
 def ConvertListToDict(results):
     """ Convert list(results) to dict(results_dict) """
@@ -298,23 +313,24 @@ def CombinedSearchLevelTwo(keywords):
 # Multithreaded
 def CombinedSearchLevelThree(keywords):
     """ Combines keywords in triplets, cartesian product """
-    (threads, results) = ExecuteLvl3KeywordCombinations(keywords)
-    docker_log.info("ExecuteLvl3KeywordCombinations    : wait for the thread to finish")
-    for t in threads:
-        t.join()
+    # (threads, results) = ExecuteLvl3KeywordCombinations(keywords)
+    # print("Starting threads" , threads.__len__())
+    # docker_log.info("ExecuteLvl3KeywordCombinations    : wait for the thread to finish")
+    # for t in threads:
+    #     t.join()
 
-    (threads, results) = PrintResultsAndCreateThreadsForSelectedQueries(results)
-    docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : wait for the thread to finish")
-    for t in threads:
-        t.join()
+    # (threads, results) = PrintResultsAndCreateThreadsForSelectedQueries(results)
+    # docker_log.info("PrintResultsAndCreateThreadsForSelectedQueries    : wait for the thread to finish")
+    # for t in threads:
+    #     t.join()
 
-    # (futures, results) = ExecuteLvl3KeywordCombinations(keywords)
-    # for future in concurrent.futures.as_completed(futures):
-    #     future.result() #side-effect causes values to appear in results
+    (futures, results) = ExecuteLvl3KeywordCombinations(keywords)
+    for future in concurrent.futures.as_completed(futures):
+        future.result() #side-effect causes values to appear in results
     
-    # (futures, results) = PrintResultsAndCreateThreadsForSelectedQueries(results)
-    # for future in concurrent.futures.as_completed(futures):
-    #     future.result() #side-effect causes values to appear in results
+    (futures, results) = PrintResultsAndCreateThreadsForSelectedQueries(results)
+    for future in concurrent.futures.as_completed(futures):
+        future.result() #side-effect causes values to appear in results
 
     PutArticleInformationInBucket(ConvertListToDict(results))
 
@@ -388,20 +404,20 @@ def sendTimingsEmail(start, end_one, end_two, end_three, BASE_PATH):
     sender_email = os.getenv("GMAIL")  # Enter your address
     receiver_email = os.getenv("GMAIL")  # Enter receiver address
     password = os.getenv("GMAIL_PASS")
-    message = """\n
-    Subject: Processing of inputfile "{}" is now done.
+    message = """\
+Subject: Processing of inputfile "{}" is now done.
 
-    This message is sent from Python. \n
-    \n
-    Level one analysis took {}m\n
-    Level two analysis took {}m\n
-    Level three analysis took {}m\n
-    \n
-    Elapsed analysis time {}m\n
-    \n
-    The result can be found in {}.\n
-    Please clean up the cloud resources.\n
-    """.format(inputfilename, int(analysis_one/60), int(analysis_two/60), int(analysis_three/60), int(analysis_entire/60), bucket_url)
+This message is sent from Python. \n
+\n
+Level one analysis took {}m\n
+Level two analysis took {}m\n
+Level three analysis took {}m\n
+\n
+Elapsed analysis time {}m\n
+\n
+The result can be found in {}.\n
+Please clean up the cloud resources.\n
+""".format(inputfilename, int(analysis_one/60), int(analysis_two/60), int(analysis_three/60), int(analysis_entire/60), bucket_url)
 
     docker_log.info(f"Sending mail to {receiver_email}")
 
@@ -419,8 +435,8 @@ AWS_BUCKET_NAME = os.getenv('AWS_BUCKET_NAME')
 AWS_REGION = os.getenv('AWS_REGION')
 FILE = os.getenv('FILE')
 inputfilename = FILE.split('/')[1].split('.')[0]
-BASE_PATH = f"output/{inputfilename}/"
-THRESHOLD = 50
+THRESHOLD = 10
+BASE_PATH = f"output/{inputfilename}_{THRESHOLD}/"
 
 s3_resource = boto3.resource(
     's3',
@@ -429,24 +445,31 @@ s3_resource = boto3.resource(
 
 # Setup Scholarly to crawl Scholar with Tor Proxy
 pg = ProxyGenerator()
-# pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
-pg.SingleProxy(http="localhost:16379") # use load balanced tor's 
+pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
+# pg.SingleProxy(http="127.0.0.1:16379", https="127.0.0.1:16379") # use load balanced tor's 
 scholarly.use_proxy(pg)
-scholarly.set_retries(1000)
+scholarly.set_retries(500)
 
-MAX_WORKERS=39
+MAX_WORKERS=16
 
 docker_log = logging.getLogger('docker')
 
 ## MAIN
 def main():
     
-    # disable two other logging services
-    logging.getLogger('stem').disabled = True
-    # logging.getLogger('scholarly')
-
+    # Logging setup
     logging.basicConfig(level=logging.INFO, force=True)
+    logging.getLogger('stem').disabled = True
+    scholarly_log = logging.getLogger('scholarly')
+    docker_log = logging.getLogger('docker')
     docker_log.setLevel(logging.INFO)
+    ch = logging.StreamHandler() # create console handler and set level to debug
+    ch.setLevel(logging.INFO)
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s') # create formatter
+    ch.setFormatter(formatter) # add formatter to ch
+    scholarly_log.addHandler(ch) # add ch to logger
+    docker_log.addHandler(ch) # add ch to logger
+
     docker_log.info("Starting script...")
 
     keywords = ExtractKeywords()
@@ -464,7 +487,7 @@ def main():
     print("Starting lvl 2")
     # lvl 2 search
     docker_log.info("Starting lvl2 search")
-    # CaptureOutputAsFileAndUpload(CombinedSearchLevelTwo, "lvl2.txt", keywords, BASE_PATH)
+    CaptureOutputAsFileAndUpload(CombinedSearchLevelTwo, "lvl2.txt", keywords, BASE_PATH)
     end_two = time.time()
 
     print("Starting lvl 3")
@@ -479,6 +502,7 @@ def main():
 
     ## END
 
-print("Waiting for MultiTor")
-time.sleep(120)
+# print("Waiting for MultiTor")
+# time.sleep(120)
+time.sleep(10)
 main()

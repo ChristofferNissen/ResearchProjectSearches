@@ -57,13 +57,31 @@ def Consolidate(folderpath):
                         url = lst[6].replace("Url ", "")
 
                         if title not in article_dict:
-                            article_dict[title] = (([search_term], author, venue, year, abstract, [url], 1))
+                            keywords = search_term.split("\"+\"")
+                            lst = []
+                            for k in keywords:
+                                new = k.replace('"', '')
+                                if new not in lst:
+                                    lst.append(new)
+
+                            article_dict[title] = ((lst, author, venue, year, abstract, [url], 1))
                         else:
                             (search_terms, author, venue, year, abstract, urls, count) = article_dict[title]
-                            search_terms.append(search_term)
+                            
+                            # search_terms.append(search_term)
+
+                            keywords = search_term.split("\"+\"")
+                            lst = search_terms
+                            for k in keywords:
+                                new = k.replace('"', '')
+                                if new not in lst:
+                                    lst.append(new)
+
                             if url not in urls:
                                 urls.append(url)
-                            article_dict[title] = ((search_terms, author, venue, year, abstract, urls, count + 1))
+
+                            article_dict[title] = ((lst, author, venue, year, abstract, urls, count + 1))
+
 
 def create_csv_output():
     """Takes the article_dict without duplicates with the collected information from scholar"""

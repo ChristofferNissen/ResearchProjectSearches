@@ -1,0 +1,451 @@
+Showing papers for search query "Concurrent+Engineering"+"Hardware+simulation"
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title An engineering environment for hardware/software co-simulation
+     Author ['D Becker', 'RK Singh', 'SG Tell']
+     Venue DAC
+     Year 1992
+     Abstract Design Systems, the software components can control and react to events within the hardware simulation  Before describing the simulation interface, a brief description of the NIU system is presented in section 2. The concurrent engineering environment is discussed in section
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5633&rep=rep1&type=pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Software development in a hardware simulation environment
+     Author ['B Schnaider', 'E Yogev']
+     Venue 33rd Design Automation Conference …
+     Year 1996
+     Abstract multiple processors, the dual process environment for HSE and VCPU can be scaled further to allow multiple VCPU processes running concurrently with one hardware simulation model  8 Conclusions The Virtual CPU approach provides a framework for concurrent engineering
+     Url https://ieeexplore.ieee.org/abstract/document/545661/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Concurrent Engineering in OpenGL's Product Development
+     Author ['RJ Casey', 'LL Lindstone']
+     Venue HEWLETT PACKARD JOURNAL
+     Year 1998
+     Abstract All product code had to be designed and reviewed. Hardware Simulation One key factor in our concurrent engineering process is hardware simulation. A detailed discussion of the hard- ware simulation techniques used in our project are be- yond the scope of this article
+     Url https://www.hpl.hp.com/hpjournal/98may/may98a6.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Concurrent Engineering of Robot Manipulators
+     Author ['MR Emami', 'R Chhabra']
+     Venue Robot Manipulators: New Achievements
+     Year 2010
+     Abstract While subjective notions can play a crucial role in concurrent engineering of multidisciplinary systems, their relevance must eventually be checked against  a fuzzy-logic model is developed in the primary phase of design; secondly, a software and/or hardware simulation of the
+     Url https://books.google.com/books?hl=en&lr=&id=xgmhDwAAQBAJ&oi=fnd&pg=PA211&dq=%22Concurrent+Engineering%22+%22Hardware+simulation%22&ots=y724MGqgfs&sig=pn4pVOFtXdrrJQGh0XdM1J81IXE
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Advanced methods for SOC concurrent engineering
+     Author ['C Chevallaz', 'N Mareau', 'F Ghenassia', 'A Gonier']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Simulation tools ease and speed assembly cell development
+     Author ['R Stringham']
+     Venue Assembly Automation
+     Year 1999
+     Abstract Simulation of the cell allows much of the motion and program logic to be tested without the physical hardware. Simulation allows the assembly cell to be visualized on the computer display, including interactions between the moving robotic arms and the feeders, conveyors, etc
+     Url https://www.emerald.com/insight/content/doi/10.1108/01445159910265134/full/html
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title The revolution in systems engineering
+     Author ['GR Hellestrand']
+     Venue IEEE Spectrum
+     Year 1999
+     Abstract Reported speedup of hardware simulation hits factors between 10 and 2000. The modeling of microprocessors dom- inates the software part of co-simulation  Being fast, accurate, and malleable, the virtual processor model addresses the need in the concurrent engineering pro
+     Url https://ieeexplore.ieee.org/abstract/document/789598/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title System and method for control and simulation
+     Author ['JA Tenney', 'WM Ruark', 'GJ Orelind']
+     Venue US Patent 6,944,584
+     Year 2005
+     Abstract Existing robotic hardware simulation systems require users to write a robotic simulation program in a proprietary programming language that is  the work required to develop device control software, and the integrated simulation capability enables concurrent engineering of the
+     Url https://patents.google.com/patent/US6944584B1/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Hardware-accelerated concurrent fault simulation: eventflow computing versus dataflow computing
+     Author ['W Hahn', 'A Hagerer']
+     Venue Proceedings of the Fourth …
+     Year 1995
+     Abstract 1-58. Cheng, K.-T. and VD Agrawal: Unified Methods for VLSI Simulation and Test Generation, Kluwer Academic Publishers, 1989 Hahn, W., H. Anger, A. Hagerer, and B. Schuster: A Multi-Transputer-Net as a Hardware Simulation Envi- ronment
+     Url https://ieeexplore.ieee.org/abstract/document/485324/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Architectural concepts for a system simulator for concurrent prototyping of equipment and controls
+     Author ['KP White', 'R Fritz', 'S Horvath', 'C Orellana']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract This architecture supports concurrent engineering of controls and hardware prototypes  In addition, the control engineer can more thoroughly debug and optimize the controller design inter- acting with the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/1166365/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Visualisation of real-time software in host-based simulation environment
+     Author ['J Leskela', 'M Salmela', 'M Heikkinen']
+     Venue … Workshop on Real …
+     Year 1995
+     Abstract Support for Concurrent Engineering: In- creased visibility enhances communication be- tween development teams and incremental in- tegration enables better coordination  0 testing through hardware interfaces and flexible target hardware simulation should be possible
+     Url https://ieeexplore.ieee.org/abstract/document/514290/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Manufacturing modeling architectures: architectural concepts for a system simulator for concurrent prototypng of equipment and controls
+     Author ['KP White', 'R Fritz', 'S Horvath', 'C Orellana']
+     Venue Proceedings of the 34th …
+     Year 2002
+     Abstract This architecture supports concurrent engineering of controls and hardware prototypes  In addition, the control engineer can more thoroughly debug and optimize the controller design inter- acting with the hardware simulation
+     Url https://dl.acm.org/doi/abs/10.5555/1030453.1030614
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Apparatus and method for specifying the configuration of mixed-language simulation models
+     Author ['E Powell', 'D Buhler', 'D Burgoon']
+     Venue US Patent App. 09/798,484
+     Year 2002
+     Abstract herein by reference in their entireties, provide information relating to hardware simulation, including mixed-language hardware simulation, and it is  David A., Powell, Edward W., Sorensen, Lief J., Waitz, John A. Sundragon, “Next Generation Concurrent Engineering for Complex
+     Url https://patents.google.com/patent/US20020183997A1/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Distributed simulation
+     Author ['O Wasynczuk', 'CE Lucas', 'EA Walters']
+     Venue US Patent …
+     Year 2009
+     Abstract US7490029B2 - Distributed simulation - Google Patents. Distributed simulation. Download PDF Info. Publication number US7490029B2. US7490029B2 US09/884,528 US88452801A US7490029B2 US 7490029 B2 US7490029
+     Url https://patents.google.com/patent/US7490029B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Virtual reality prototyping-a framework for the development of electronics and telecommunication products
+     Author ['M Kerttula', 'M Salmela']
+     Venue Proceedings 8th IEEE …
+     Year 1997
+     Abstract Finally, the possibilities of virtual reality prototyping as a comprehensive design framework, including software and hardware simulation features, are considered  This improves communication between disciplines in concurrent engineering projects of multi- technology products
+     Url https://ieeexplore.ieee.org/abstract/document/618812/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Modelling and simulation method
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …
+     Year 2011
+     Abstract US8082141B2 - Modelling and simulation method - Google Patents. Modelling and simulation method. Download PDF Info. Publication number US8082141B2. US8082141B2 US10/943,462 US94346204A US8082141B2 US
+     Url https://patents.google.com/patent/US8082141B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Simulation of fully autonomous control of unmanned air vehicles for maritime surveillance
+     Author ['L Ng', 'P Hubbard', "S O'Young"]
+     Venue Proceedings of the 2010 Spring …
+     Year 2010
+     Abstract Due to the risk involved with experimental use of UAV hardware, simulation is extensively used  Likewise this process of concurrent engineering of the agent/autonomous controller can be done automatically thus providing capabilities to use machine learning. 3.1
+     Url https://dl.acm.org/doi/abs/10.1145/1878537.1878579
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title chLs EUROPE '96
+     Author ['GI Nerteidigong', 'U Kingﬂom']
+     Venue NA
+     Year NA
+     Abstract 99 Page 5. 2 CONCURRENT ENGINEERING CE-based methodologies and related tools are becoming more widely used in product development projects  We are currently integrating our existing software/hardware simulation tools to the environment
+     Url https://www.researchgate.net/profile/Jouni_Similae/publication/263925902_All-Digital_Virtual_Prototyping_of_Telecommunication_Products_and_Services/links/53f5b0ab0cf22be01c3f9102.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title On the automatic synthesis of parallel SW from RTL models of hardware IPs
+     Author ['A Acquaviva', 'N Bombieri', 'F Fummi']
+     Venue Proceedings of the great …
+     Year 2012
+     Abstract Different method- ologies to allow parallel execution of SystemC descriptions are proposed in [7,8]. Nevertheless, such methodologies aim at speeding up the hardware simulation but they do not  Using RTL-to-C++ translation for large SoC concurrent engineering: A case study
+     Url https://dl.acm.org/doi/abs/10.1145/2206781.2206800
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Engineering Systems on a Chip: The Bloody Revolution in Tools, Methodologies and Power
+     Author ['GR Hellestrand']
+     Venue NA
+     Year NA
+     Abstract A proper framework for concurrent engineering requires supporting higher level languages than assembly and RTL, and providing greater modeling speed and as much precision as existing coverification  Reported hardware simulation speed up is factors between 10 to 2,000
+     Url https://www.essetek.com/tl_files/techlibrary/MPI_RevInSystemsEngineering_19990916.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title On Sharing of Objects in Concurrent Design
+     Author ['B Mitschang']
+     Venue Proceedings of the Sixth International Conference …
+     Year 2001
+     Abstract scenarios. 1. Introduction Processes in concurrent engineering and design rely on cooperation between the different participants  compatibility). The hardware simulation is described as a workflow since it is a automatable process
+     Url https://books.google.com/books?hl=en&lr=&id=c56fPT3nicsC&oi=fnd&pg=PA71&dq=%22Concurrent+Engineering%22+%22Hardware+simulation%22&ots=EHJShUAMRm&sig=mXfqA2F4dnMiaFKTyBTbBU0i408
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title A Framework-Based Execution Environment for Information Modelling.
+     Author ['B Speyer', 'P Painter']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title On sharing of objects in concurrent design
+     Author ['A Frank', 'B Mitschang']
+     Venue … of the Sixth International Conference on …
+     Year 2001
+     Abstract 1. Introduction Processes in concurrent engineering and design rely on cooperation between the different participants. This  compatibility). The hardware simulation is described as a workflow since it is a automatable process
+     Url https://ieeexplore.ieee.org/abstract/document/942234/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title A Holistic Approach to Systems Development
+     Author ['DT Wong']
+     Venue NA
+     Year 2008
+     Abstract Human-Centered Design • All Disciplines are Equally Important • Concurrent Engineering • Documentation C t D i F t • Cost as a Design Factor  Simulate (low fidelity simulation) • Emulate (higher fidelity simulation w/ hardware simulation w/ hardware emulation)
+     Url https://ntrs.nasa.gov/search.jsp?R=20080042400
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title A Rapid Prototyping Tool for Hardware/Software Cosimulation of Embedded Control Systems
+     Author ['J Bruns', 'Z Scherber']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Virtual prototypes in developing mobile software applications and devices
+     Author ['K Liukkunen', 'M Eteläperä', 'M Oivo', 'JP Soininen']
+     Venue … Conference on Product …
+     Year 2008
+     Abstract The first is to increase the abstraction level of the hardware simulation by, for example, using concurrent proc- esses that  Kluwer Academic Publishers, Boston (2002) 7. Haug, EJ, Kuhl, JG, Tsai, FF: Virtual Prototyping for Mechanical System Concurrent Engineering
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69566-0_16
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title New Jersey Institute of Technology
+     Author ['LP Fabiano']
+     Venue age
+     Year 1995
+     Abstract Student projects serve as the vehicles to learn the basic concepts of a project's life cycle and its phases, concurrent engineering  Before team reviews take place, students are instructed on the basic principles of concurrent engineering (ie design for
+     Url https://peer.asee.org/project-management-topics-in-electrical-engineering-technology.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Virtual prototyping based development and marketing of future consumer electronics products
+     Author ['PJ Pulli', 'ML Salmela', 'JK Similä']
+     Venue Advanced IT Tools
+     Year 1996
+     Abstract We are currently integrating our existing software/ hardware simulation tools to the environment  Virtual Prototyping for Mechanical System Concurrent engineering. In Haug EJ (ed.) Concurrent Engineering: Tools and Technologies for Mechanical System Design
+     Url https://link.springer.com/chapter/10.1007/978-0-387-34979-4_31
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Modelling and simulation method
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …
+     Year 2019
+     Abstract US10409937B2 - Modelling and simulation method - Google Patents. Modelling and simulation method. Download PDF Info. Publication number US10409937B2. US10409937B2 US15/073,980 US201615073980A US10409937B2
+     Url https://patents.google.com/patent/US10409937B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Method of co-simulating a digital circuit
+     Author ['V Zammit', 'A Kay']
+     Venue US Patent 7,146,300
+     Year 2006
+     Abstract 2 of the accompanying drawings, and then co-simulate the low-level description using the hardware simulation tool  The simulation engine described in David A. Burgoon. A mixed-language simulator for concurrent engineering
+     Url https://patents.google.com/patent/US7146300B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Modelling and simulation method
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …
+     Year 2016
+     Abstract US9323873B2 - Modelling and simulation method - Google Patents. Modelling and simulation method. Download PDF Info. Publication number US9323873B2. US9323873B2 US13/330,618 US201113330618A US9323873B2
+     Url https://patents.google.com/patent/US9323873B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Managing large hw/sw codesign projects
+     Author ['C Wolff', 'I Gorrochategui']
+     Venue Proceedings of the 6th …
+     Year 2011
+     Abstract The software developers need models of the later hardware to verify their components. This is solved by concurrent engineering  Due to this concept, it is useful to develop software on base of a virtual prototype, which is also used as a reference for hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6072907/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Method and system for verifying modules destined for generating circuits
+     Author ['G Bollano', 'D Ettorre', 'M Turolla']
+     Venue US Patent App. 10 …
+     Year 2003
+     Abstract [0002]. Recently, increasing demands, such as the need to provide finished product within very short time limits, has required a further evolution in design methods. [0003]. The response to this demand began with the concepts of concurrent engineering and design for re-use
+     Url https://patents.google.com/patent/US20030154465A1/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title A DSPIC implementation of a sliding mode strategy for a SEPIC converter
+     Author ['A Ezhilarasi', 'M Ramaswamy']
+     Venue SERBIAN Journal of Electrical …
+     Year 2009
+     Abstract Load [kW] Load Current [A] Hardware Simulation Hardware Simulation 1000 4.4 228.9 229.3 0.99 0.9971  G. Chindris, A. Grama, F. Hurgoi: Power Factor Correction Circuit with a New Modified SEPIC Converter, Electronics Technology: Concurrent Engineering in Electronic
+     Url http://scindeks.ceon.rs/article.aspx?artid=1451-48690902215E
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Cycle-accurate performance modelling in an ultra-fast just-in-time dynamic binary translation instruction set simulator
+     Author ['I Böhm', 'B Franke', 'N Topham']
+     Venue 2010 International Conference …
+     Year 2010
+     Abstract They help to reduce the overall development time for new microprocessors by allowing concurrent engineering during the design phase  simulator provides the following simulation modes: • Co-simulation mode working in lock-step with standard hardware simulation tools used
+     Url https://ieeexplore.ieee.org/abstract/document/5642102/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title A customizable shared information space to support concurrent design
+     Author ['A Frank', 'B Mitschang']
+     Venue Computers in Industry
+     Year 2002
+     Abstract Keywords. Concurrent design. CSCW. Information sharing. 1. Introduction. Processes in concurrent engineering and design rely on cooperation between the different participants  The hardware simulation is described as a workflow since it is an automatable process
+     Url https://www.sciencedirect.com/science/article/pii/S016636150200009X
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Embedded Computing Systems and Hardware/Software Co-Design
+     Author ['WK Chen']
+     Venue Design Automation, Languages, and Simulations
+     Year 2003
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Prototyping a Robotic M anipulator and Controller
+     Author ['TM Sobh', 'M Dekhil', 'TC Henderson']
+     Venue NA
+     Year 1993
+     Abstract Building a robot and its environment control, software, hardware, simulation, etc is a complex task that requires the e orts of an  Several research groups are jointly developing the Palo Alto Collaborative Testbed PACT 3 , which is a concurrent engineering infrastructure that
+     Url https://www.researchgate.net/profile/Tarek_Sobh3/publication/2878479_Prototyping_a_Robotic_Manipulator_and_Controller_Tarek_M_Sobh_Mohamed_Dekhil_and_Thomas_C_Henderson/links/0046351fd50516505d000000.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Improvement of control software for automatic logistic systems using executable environment models
+     Author ['C Kreiner', 'C Steger', 'R Weiss']
+     Venue … . 24th EUROMICRO Conference …
+     Year 1998
+     Abstract 0 better insight to system behavior through visualization and animation. 3.1. Related Work Honka [7] uses hardware simulation for testing of em- bedded software in concurrent engineering process for hard- ware and software of a GSM cellular phone
+     Url https://ieeexplore.ieee.org/abstract/document/708122/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title The Design of Modern Networks: Hardware, Software, Operations and Lifecycle Sustenance
+     Author ['DN Chorafas']
+     Venue High-Performance Networks, Personal …
+     Year 1997
+     Abstract modelling, has become widespread. Now the trend is towards concurrent engineering, which poses very significant com- munications requirement because of the need to interconnect remote laboratories. Frequently, a single
+     Url https://link.springer.com/chapter/10.1007/978-1-349-14175-3_7
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Method and system for virtual prototyping
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …
+     Year 2009
+     Abstract US7613599B2 - Method and system for virtual prototyping - Google Patents. Method and system for virtual prototyping. Download PDF Info. Publication number US7613599B2. US7613599B2 US09/872,435 US87243501A US7613599B2
+     Url https://patents.google.com/patent/US7613599B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Linguistic mechatronics
+     Author ['R Chhabra', 'MR Emami']
+     Venue 2008 IEEE/ASME International …
+     Year 2008
+     Abstract gap between different engineering disciplines and to devise a means for helping them to collaborate towards a common goal [1]. The necessity of communication and collaboration in mechatronics implies that it must be closely linked to concurrent engineering in managing and
+     Url https://ieeexplore.ieee.org/abstract/document/4601852/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title TLM: An overview and brief history
+     Author ['F Ghenassia', 'A Clouard']
+     Venue Transaction Level Modeling with SystemC
+     Year 2005
+     Abstract These models are very often made available since they are the most common input for logic synthesis to date. SoC micro-architectural view is engaged in two key missions. First, it debugs and validates low-level embedded software in the real hardware simulation environment
+     Url https://link.springer.com/chapter/10.1007/0-387-26233-4_1
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Development of marker-based augmented reality system for object detection in an optimum latency time
+     Author ['S Bhakar', 'DP Bhatt']
+     Venue International Journal of Product …
+     Year 2019
+     Abstract RS 232 protocol Numerical calculation at baud rate 9600 bit/second Without hardware simulation time (ms)  M. and Moczulskia, W. (2010) 'Augmented reality for machinery systems design and development', New World Situation: New Directions in Concurrent Engineering, pp.79
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJPD.2019.099211
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Design for test in automotive electronics
+     Author ['S Stoica']
+     Venue Proceedings of 3rd International Workshop on the …
+     Year 1994
+     Abstract Hence, ,only ,in a ,concurrent ,engineering environment, ,where ,all ,the  In ,addition to ,hardware ,simulation ,tools ,we ,need ,also ,testability verification ,aids ,for ,mixed-signal designs ,(for ,digital ,designis ,we ,already ,have) ,and ,CAE ,tools ,for ,software ,design verification
+     Url https://www.computer.org/csdl/proceedings-article/icedtm/1994/00496090/12OmNzZmZo2
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title System on Chip
+     Author ['W Badawy']
+     Venue System-on-chip for real-time applications
+     Year 2003
+     Abstract Design methodologies will evolve and Concurrent Engineering, Intellectual Properties (IP) reuse, HW ISW co-ilesign and co- verification, fast prototyping and  is a step in this direction but is not sufficient due to deficient processor models and slow hardware simulation speeds
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-0351-4_1
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Apparatus and method for performing event processing in a mixed-language simulator
+     Author ['EW Powell']
+     Venue US Patent 7,058,562
+     Year 2006
+     Abstract herein by reference in their entireties, provide information relating to hardware simulation, including mixed-language hardware simulation, and it is  David A., Powell, Edward W., Sorensen, Lief J., Waitz, John A. Sundragon, “Next Generation Concurrent Engineering for Complex
+     Url https://patents.google.com/patent/US7058562B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title VIRTUAL PROTOTYPING METHODOLOGY FOR MOBILE PLATFORMS.
+     Author ['G Stehr', 'J Eckmüller', 'O Bell', 'T Wilde']
+     Venue Intel Technology …
+     Year 2014
+     Abstract concurrent engineering for chip and software it would not be possible to meet such schedule requirements  A verification of RTL components at system level is possible through their instantiation in virtual prototype test benches (see the section “Fast Hardware Simulation”)
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1535864X&AN=96222289&h=z%2BKMrlYoNjY6uzm8iZwoheCeUwJtoOhYcJ9v1%2F1fudBfQhCyoCm7zSm3piZqiOSK0Wjv4ONRlJankFYdc5Yv7w%3D%3D&crl=c
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Empirical studies of embedded software development using agile methods: a systematic review
+     Author ['M Xie', 'M Shen', 'G Rong', 'D Shao']
+     Venue … of the 2nd international workshop on …
+     Year 2012
+     Abstract Concurrent engineering, which is core to Agile, is carried out under the help of abstractions to refine the boundary. Unit testing is considered to be effective for this issue in [P18]  Hardware simulation makes it possible to build an effective testing environment
+     Url https://dl.acm.org/doi/abs/10.1145/2372233.2372240
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"
+     Title Method and system for virtual prototyping
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …
+     Year 2011
+     Abstract US56661609A US7970596B2 US 7970596 B2 US7970596 B2 US 7970596B2 US 56661609 A US56661609 A US 56661609A US 7970596 B2 US7970596 B2 US 7970596B2 Authority US United States Prior art keywords design hardware simulation virtual embedded
+     Url https://patents.google.com/patent/US7970596B2/en
+

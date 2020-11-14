@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title A survey on testing for cyber physical system
+     Author ['SA Asadollah', 'R Inam', 'H Hansson']
+     Venue … International Conference on Testing …
+     Year 2015
+     Abstract code automatically to facilitate exchange of models, and simulation specifications to test a simulation of complete cyber-physical system [27]  the essential challenges in validation, verification and certification of CPS is the current gap between formal methods and testing [20
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25945-1_12
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Test case generation from formal models of cyber physical system
+     Author ['L Zhang', 'J He', 'W Yu']
+     Venue Int. J. Hybrid Inf. Technol
+     Year 2013
+     Abstract Quantitative conformance testing of cyber-physical system (CPS) exploits time series of measurements, such as  [8] S. Jung, J. -g. Song, SS Kim, “Design on SCADA Test-bed  [13] M. Krichen and S. Tripakis, “Conformance testing for real-time systems”, Formal Methods in System
+     Url http://gvpress.com/journals/IJHIT/vol6_no3/2.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Using formal methods to derive test frames in category-partition testing
+     Author ['P Ammann', 'J Offutt']
+     Venue Proceedings of COMPASS'94-1994 IEEE …
+     Year 1994
+     Abstract More recently, Stocks and Car- rington [SC93a, SC93b] have used formal methods to describe test artifacts  The category-partition method [BH089, OB881 is a specification-based testing strategy that uses an  Part,it,ions for other categories depend on the semant,ics of the system
+     Url https://ieeexplore.ieee.org/abstract/document/318466/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Testing and Validation of Modbus/TCP Protocol for Secure SCADA Communication in CPS using Formal Methods
+     Author ['IA Siddavatam', 'S Parekh', 'T Shah', 'F Kazi']
+     Venue Scalable Computing: Practice …
+     Year 2017
+     Abstract Cyber-Physical Systems (CPS's) evident representation is Supervisory Control, and Data Acquisition (SCADA). As SCADA is being refurbished with advanced computing and communication technologies, the risk involved in adopting/updating to new technology
+     Url https://www.scpe.org/index.php/scpe/article/view/1331
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title FORTEST: Formal methods and testing
+     Author ['JP Bowen', 'K Bogdanov', 'JA Clark']
+     Venue Proceedings 26th …
+     Year 2002
+     Abstract and Testing Jonathan P. Bowen South Bank University, Centre for Applied Formal Methods SCISM, Borough Road, London SE1 0AA, UK Email: bowenjp@sbu.ac.uk URL: www.cafm.sbu.ac.uk Kirill Bogdanov The University of Sheffield, UK Email: k.bogdanov@dcs.shef.ac.uk
+     Url https://ieeexplore.ieee.org/abstract/document/1044538/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Monitor based oracles for cyber-physical system testing: Practical experience report
+     Author ['A Kane', 'T Fuhrman', 'P Koopman']
+     Venue 2014 44th Annual IEEE/IFIP …
+     Year 2014
+     Abstract Page 1. Monitor Based Oracles for Cyber-Physical System Testing Practical Experience Report  Although full formal verification of such systems is still out of reach, formal methods may be of some help in performing more thorough system testing
+     Url https://ieeexplore.ieee.org/abstract/document/6903575/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Learning-guided network fuzzing for testing cyber-physical system defences
+     Author ['Y Chen', 'CM Poskitt', 'J Sun', 'S Adepu']
+     Venue 2019 34th IEEE/ACM …
+     Year 2019
+     Abstract Testing Cyber-Physical System Defences  Fuzzing, which plays a key role in our solution, is in gen- eral an automated testing technique that attempts to identify  SCADA software and tools developed by Rockwell Automa- tion are available to support analysis and experimentation
+     Url https://ieeexplore.ieee.org/abstract/document/8952193/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Using formal methods to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue NA
+     Year 2008
+     Abstract Formal methods and testing are two important approaches that assist in the development of high quality software  3. FORMAL METHODS AND TESTING 3.1 Introduction Software testing is mostly about empirically checking correctness
+     Url https://bura.brunel.ac.uk/handle/2438/1871
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract The added qual- ity, however, decreased the overall cost of software development because of the huge savings in testing  Formal Methods • 629  A high-level data link control- ler (HDLC) transmitter core was de- signed at the Bell Labs Microelectron- ics Design Center in Madrid
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract It is natural that formal methods should underlie principled testing methods, and Gaudel has established this as an important research topic [Gaudel 1995]. Hoare de- scribes the use of formal assertions in Microsoft, not for program proving, but for test- ing [Hoare 2002a]
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Testing the effectiveness of attack detection mechanisms in industrial control systems
+     Author ['G Sugumar', 'A Mathur']
+     Venue 2017 IEEE International Conference on …
+     Year 2017
+     Abstract them- selves, and with a Supervisory Control and Data Acquisition (SCADA) subsystem, through a  and D. Hutchison, “The impact of social engineering on Industrial Control System security,” in  Corporation, 2008, http://csrc.nist.gov/groups/SMA/fisma/ ics/documents/Maroochy
+     Url https://ieeexplore.ieee.org/abstract/document/8004305/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract inheritance, and dynamic binding, with mechanisms for object creation, type testing, type casting, and  Engineering UToPiA - Formal Semantics for CML,” in FM 2014: Formal Methods, ser  P. Sauer, and T. Vörtler, “Design space exploration for cyber physical system design using
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal modeling and analysis of the Modbus protocol
+     Author ['B Dutertre']
+     Venue International Conference on Critical Infrastructure …
+     Year 2007
+     Abstract effort is the first step in the devel- opment of automated methods for systematic and extensive testing of Modbus devices. Keywords: Modbus, formal methods, modeling, test-case generation 1. Introduction A distributed control system—sometimes called a SCADA system—is a
+     Url https://link.springer.com/chapter/10.1007/978-0-387-75462-8_14
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Using formal specifications to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen']
+     Venue ACM Computing …
+     Year 2009
+     Abstract This work was supported by EPSRC Formal Methods and Testing (FORTEST) grant  AJH Simons, Department of Computer Science, University of Sheffield, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK; email: {k.bogdanov,j.derrick,m.gheorghe,a.simons}@dcs.shef.ac
+     Url https://dl.acm.org/doi/abs/10.1145/1459352.1459354
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Using formal methods to enable more secure vehicles: DARPA's HACMS program
+     Author ['K Fisher']
+     Venue Proceedings of the 19th ACM SIGPLAN international …
+     Year 2014
+     Abstract Examples include SCADA systems that manage physical infrastructure, medical devices such as  in penetration testing called the SMACCMCopter "the most secure UAV on the  Categories and Subject Descriptors D.2.4 [Software/Program Verification]: Formal Methods; D.4.7
+     Url https://dl.acm.org/doi/abs/10.1145/2628136.2628165
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract In empirical testing, we examine only the external manifestations of the system, and our ability to  by analogy with engi- neering mathematics, and stated that the purpose of formal methods is to  But engineering mathemat- ics is not used only for calculation and analysis: it also
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title How Amazon web services uses formal methods
+     Author ['C Newcombe', 'T Rath', 'F Zhang', 'B Munteanu']
+     Venue Communications of the …
+     Year 2015
+     Abstract We have found that testing the code is inadequate as a method for finding subtle  Formal Methods for Real-World Systems In industry, formal methods have a reputation for requiring a  investment is justified only in safety-critical domains (such as medical systems and avion- ics)
+     Url https://dl.acm.org/doi/abs/10.1145/2699417
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title ICS: Integrated Canonizer and Solver?
+     Author ['JC Filliâtre', 'S Owre', 'H Rue', 'N Shankar']
+     Venue International Conference on …
+     Year 2001
+     Abstract database, switching between databases, and functions for maintain- ing normal forms and for testing the validity  ICS: Integrated Canonizer and Solver 249  In Mandayam Srivas and Albert Camilleri, editors, Formal Methods in Computer-Aided Design (FMCAD '96), volume 1166
+     Url https://link.springer.com/chapter/10.1007/3-540-44585-4_22
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Automated Testing of SCADA Protocols
+     Author ['N Kube', 'D Hoffman']
+     Venue … of SCADA Security Scientific Symposium
+     Year 2007
+     Abstract The term SCADA is used in this document to represent any industrial control system including Distributed  his PhD work on vulnerability testing protocol implementations in SCADA/DCS devices  Mr. Kube and his team specialize in formal methods for software testing, operations
+     Url https://s4xevents.com/wp-content/uploads/2020/04/4Wurldtech.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title The handbook of formal methods in human-computer interaction
+     Author ['B Weyers', 'J Bowen', 'A Dix', 'P Palanque']
+     Venue NA
+     Year 2017
+     Abstract use of formal methods is meant to comple- ment (and not replace) testing approaches  Fabre, Célia Martinie and Yannick Déléris Erratum to: The Handbook of Formal Methods in Human  Contributors Eric Barboni ICS-IRIT, University of Toulouse, Toulouse, France Ellen J. Bass
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-51838-1.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title A lightweight approach to formal methods
+     Author ['S Agerholm', 'PG Larsen']
+     Venue … on Current Trends in Applied Formal Methods
+     Year 1998
+     Abstract Through formal modeling in an executable notation, the user gets access to validation facilities based on the testing techniques that he  Formal Methods, Specification and Verification Guidebook for Verification of Software and Computer Systems  http://wBW.dcs.gla.ac.uk/prosper
+     Url https://link.springer.com/chapter/10.1007/3-540-48257-1_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title A simple and practical approach to unit testing: The JML and JUnit way
+     Author ['Y Cheon', 'GT Leavens']
+     Venue European Conference on Object-Oriented …
+     Year 2002
+     Abstract Page 1. A Simple and Practical Approach to Unit Testing: The JML and JUnit Way  However, unit testing is a practical approach to increasing the correctness and quality of software; for example, the Extreme Programming approach relies on frequent unit testing
+     Url https://link.springer.com/chapter/10.1007/3-540-47993-7_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for system specification
+     Author ['MG Hinchey']
+     Venue IEEE Potentials
+     Year 1993
+     Abstract Other people believe that formal methods will result in error-free soft- ware and the end of testing  Oxford Applied Mathematics & Computing Science Series, Clarendon Press, Oxford, 2nd edition 1992 “Software Engineering Mathemat- ics: Formal Methods Demystified,” Jim
+     Url https://ieeexplore.ieee.org/abstract/document/282296/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Verification of reactive systems: formal methods and algorithms
+     Author ['K Schneider']
+     Venue NA
+     Year 2013
+     Abstract Supplemental material on actual tools is found in [38], and further top- ics on the u-calculus  Gottfried Wilhelm Leibniz (1646-1716) 1.1 Formal Methods in System  if the system's development can be successfully completed, the time spent for debugging and testing grows rapidly
+     Url https://books.google.com/books?hl=fr&lr=&id=1OqpCAAAQBAJ&oi=fnd&pg=PA1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Testing%22&ots=lQhWmHD2ls&sig=HCmAagyaX5S4r_oyLGnoBzFKy48
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Report on the standardization project “formal methods in conformance testing”
+     Author ['D Hogrefe', 'S Heymer', 'J Tretmans']
+     Venue Testing of Communicating Systems
+     Year 1996
+     Abstract (5) Apart from the items mentioned above, FMCT distinguishes between paramderi7.ed and instantiated specifications, it deals with implementation options, implementation con- formance statement (ICS), and static  Page 7. Report on "Formal methods in conformance testing"
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35062-2_21
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for test case generation
+     Author ['J Rushby', 'LM De Moura', 'G Hamon']
+     Venue US Patent 7,865,339
+     Year 2011
+     Abstract Formal methods for test case generation. Download PDF Info  (See Hong et al., Data flow testing as model checking  As the SAL 2 infinite bounded model checker is based on the ICS decision procedure (described in co-pending, commonly assigned US patent application Ser
+     Url https://patents.google.com/patent/US7865339B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract for testing PLC programs developed within the UNICOS (UNified Industrial COntrol System) framework  Formal methods techniques can be applied also to complete control systems developed with UNICOS  Automated testing via SCADA is feasible and in certain cases allows to
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal Methods Based Security for Cloud-based Manufacturing Cyber Physical System
+     Author ['K Muniasamy', 'S Srinivasan', 'J Vain']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract While different methods have been studied for C2PS security full power of using formal methods has not been explored completely yet Vivek (2011); Shiju et al. (2015)  Formal Methods Based Security for Cloud-based Manufacturing Cyber Physical System
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313400
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Software debugging, testing, and verification
+     Author ['B Hailpern', 'P Santhanam']
+     Venue IBM Systems Journal
+     Year 2002
+     Abstract processes, temporal logic, algebraic systems, finite state specifications, model checking, and interval log- ics  This is primarily because no other approach based on more formal methods comes close  Hamlet22 linked good testing to the measure- ment of the dependability of the
+     Url https://ieeexplore.ieee.org/abstract/document/5386906/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for component description, coordination and adaptation
+     Author ['P Poizat', 'JC Royer', 'G Salaün']
+     Venue Issues on Coordination and …
+     Year 2004
+     Abstract sense, this correspond to the OMG 4-level meta-modeling architecture, with log- ics beings a  problems or explosion in time are well- known problems of the application of formal methods to real  In the testing framework, we are actually working within the context of a na- tional
+     Url https://www.researchgate.net/profile/Jose_Pastrana_Brincones/publication/254844926_Client_Oriented_Software_Developing/links/540811460cf2bba34c248cd1/Client-Oriented-Software-Developing.pdf#page=89
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract and avion- ics applications already entails formal methods use. In these and other safety- related components, formalization translates directly to commercial value in terms of certifiability. Conformance validation A reliable infrastructure permits sys- tem design and testing at a
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Open issues in formal methods for cryptographic protocol analysis
+     Author ['C Meadows']
+     Venue Proceedings DARPA Information Survivability …
+     Year 2000
+     Abstract As a result, the logic gained wide attention and let to a host of other log- ics, either extending BAN logic or  The NRL Protocol Analyzer is a formal methods tool for analyzing security properties of cryptographic protocols  Thus it is well suited for testing the limits of that paradigm
+     Url https://ieeexplore.ieee.org/abstract/document/824984/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal analysis of security properties of cyber-physical system based on timed automata
+     Author ['T Wang', 'Q Su', 'T Chen']
+     Venue … on Data Science in Cyberspace (DSC)
+     Year 2017
+     Abstract Another important problem is that how to design a new cyber-physical system, that is, design of security  Reference[8] discusses formal methods and software testing techniques, and proposes the application of formalization and testing techniques to security devices
+     Url https://ieeexplore.ieee.org/abstract/document/8005528/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title An improved genetic algorithm for task scheduling in the cloud environments using the priority queues: formal verification, simulation, and statistical testing
+     Author ['B Keshanchi', 'A Souri', 'NJ Navimipour']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract Since the task scheduling problem on DCS is an NP-complete problem (Navimipour and  Formal methods depict the verification and specification of the systems by using logical and  as requirement definition and analysis, modeling and model transformation, testing and property
+     Url https://www.sciencedirect.com/science/article/pii/S0164121216301066
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods in Human-computer interaction
+     Author ['P Palanque', 'F Paternò']
+     Venue NA
+     Year 2012
+     Abstract Harrison M., Thimblebly H. (1990), Formal Methods in Human-Computer Interaction, Canbridge University Press  297 14.6.3 User Testing Summary  uq.edu.au C. Johnson Department of Computing Science, University of Glasgow, Glasgow, G12 800, Scotland johnson@dcs.gla.ac
+     Url https://books.google.com/books?hl=fr&lr=&id=nlTlBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Testing%22&ots=JCxOQAT4kA&sig=ROAOeS4z8y3d8NVj_nA8C81fUMg
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal verification methods
+     Author ['O Hasan', 'S Tahar']
+     Venue … of Information Science and Technology, Third …
+     Year 2015
+     Abstract illustrates that model check- ing is a rigorous method and unlike testing it verifies  It is interesting to note that besides the traditional computing problems, formal methods are also being  days in verifying some exotic problems involving the domains of phys- ics, biology, economics
+     Url https://www.igi-global.com/chapter/formal-verification-methods/112414
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract A penetration testing expert at DARPA commented that the SMACCMCopter is probably 'the most secure UAV on  them autonomous, the human–machine interface to ship-board supervisory control and data acquisition (SCADA) systems, networked  5. What are formal methods
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Invited talk: Weaving formal methods into the undergraduate computer science curriculum
+     Author ['JM Wing']
+     Venue … Conference on Algebraic Methodology and Software …
+     Year 2000
+     Abstract mating students to the difference between a specification and code and to the idea of verification in addition to testing is a  Undergraduate upper-level electives such as Artificial Intelligence and Graph- ics presumably offer other opportunities as well  Weaving Formal Methods 7
+     Url https://link.springer.com/chapter/10.1007/3-540-45499-3_2
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal Verification of Control Strategies for a Cyber Physical System
+     Author ['A Gawanmeh', 'A Alwadi', 'S Parvin']
+     Venue 2017 IEEE 37th …
+     Year 2017
+     Abstract Formal Analysis Simulation Analysis Cyber Physical System System Behavior Exact Model Differential Equations  927–948, 2013. [3] Rajeev Kumar, ML Dewal, and Kalpana Saini, “Utility of scada in power  3, 2017. [5] P. Boca and JP Bowen J. Siddiqi, Formal Methods: State of
+     Url https://ieeexplore.ieee.org/abstract/document/7979800/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Automated Formal Methods Enter the Mainstream.
+     Author ['JM Rushby']
+     Venue J. UCS
+     Year 2007
+     Abstract construction. Most traditional engineering fields deal with physical systems, so the appropriate branches of mathemat- ics are typically based on differential equations  performed. Formal methods and testing are not antithetic, however. Formal
+     Url http://www.jucs.org/jucs_13_5/automated_formal_methods_enter/jucs_13_5_0650_0660_rushby.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for the analysis of authentication protocols
+     Author ['AD Rubin', 'P Honeyman']
+     Venue NA
+     Year 1993
+     Abstract Page 1. Formal Methods for the Analysis of Authentication Protocols CITI Technical Report 93-7  Page 2. Abstract In this paper, we examine current approaches and the state of the art in the application of formal methods to the analysis of cryptographic protocols
+     Url https://deepblue.lib.umich.edu/handle/2027.42/107949
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Faults on its sleeve: amplifying software reliability testing
+     Author ['D Hamlet', 'J Voas']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 1993
+     Abstract seeking software quality. Software testing is amuch older method with the same intent, as are inspections of software products. Formal methods in great variety are being applied throughout the development cycle. All of these
+     Url https://dl.acm.org/doi/abs/10.1145/174146.154246
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Applied formal methods for hardware Trojan detection
+     Author ['M Rathmair', 'F Schupfer', 'C Krieg']
+     Venue 2014 IEEE International …
+     Year 2014
+     Abstract This work investigates detection techniques concentrating on formal methods deduced from software verification  dedicated signal delays [6]. Besides formal analysis and testing strategies, destructive  Trojan detection use reverse engineering to analyze prototype ICs or random
+     Url https://ieeexplore.ieee.org/abstract/document/6865092/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Finite state testing and analysis of graphical user interfaces
+     Author ['F Belli']
+     Venue Proceedings 12th international symposium on software …
+     Year 2001
+     Abstract decades to model sequential systems, eg logic design of both combinatorial and sequential circuits [9, 181, protocol conformance of open systems [6], com- piler construction [I], but also for U1 specification and testing [19, 281  Based on the sub-graphs, the ICs can be generated
+     Url https://ieeexplore.ieee.org/abstract/document/989456/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Mechanized formal methods: progress and prospects
+     Author ['J Rushby']
+     Venue International Conference on Foundations of Software …
+     Year 1996
+     Abstract example, of 197 critical faults detected during integration and system testing of the  first made large-scale mechanized calculations a practical reality for formal methods and demonstrated  Tile limited expressiveness of the temporal log- ics employed in model checking means
+     Url https://link.springer.com/chapter/10.1007/3-540-62034-6_36
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for life-critical software
+     Author ['R Butler', 'S Johnson']
+     Venue 9th Computing in Aerospace Conference
+     Year 1993
+     Abstract do not involve mathematical logic in a significant way, such as statically testing for uninitial  electronic telephone book, and we wish to write down the requirements for it using formal methods  Second, the process of translating the requirements into mathemat- ics has forced us to
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1993-4516
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods for a system of systems analysis framework applied to traffic management
+     Author ['CE Dickerson', 'S Ji', 'R Roslan']
+     Venue 2016 11th System of Systems …
+     Year 2016
+     Abstract conferences. Keywords—cyber physical system; formal methods; graphical modeling language; safety critical; semantic transformation  formal. Traditional formal methods include model checking, formal testing, and proving of theorems. When
+     Url https://ieeexplore.ieee.org/abstract/document/7542918/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formalization of software testing criteria using the Z notation
+     Author ['SA Vilkomir', 'JP Bowen']
+     Venue 25th Annual International Computer …
+     Year 2001
+     Abstract [6j Bowen, JP, Hinchey M., G. The Use of Industrial-Strength Formal Methods. P rc.~cc~din,qs of 2 Is/ Ititertiertiotiul Cotti- pi~/cr Sof/~vciri~ and Aliplicarion Cot!fi,rcvic.c, ( COMPSAC '97)  Springer-Verl:ig, FACIT sei-ics, 1999. [XI Burton, S., Clark, J., <;alloway  J. Testing
+     Url https://ieeexplore.ieee.org/abstract/document/960638/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title Formal methods in pattern recognition: a review
+     Author ['L Nieddu', 'G Patrizi']
+     Venue European Journal of Operational Research
+     Year 2000
+     Abstract Invited Review. Formal methods in pattern recognition: A review  After the introduction a historical sketch of the field will be presented. Then in Section 3, the need for formal methods will be argued and various results on formal requirements as convergence etc. will be derived
+     Url https://www.sciencedirect.com/science/article/pii/S0377221798003683
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Testing"
+     Title The natural history of bugs: using formal methods to analyse software related failures in space missions
+     Author ['CW Johnson']
+     Venue International Symposium on Formal Methods
+     Year 2005
+     Abstract Department of Computing Science, University of Glasgow, Glasgow, G12 9QQ johnson@dcs. gla.ac.uk Abstract  The following pages examine the roles that formal methods might play in the analysis of software failures in space missions  1.5 Limitations of Ground-Based Testing
+     Url https://link.springer.com/chapter/10.1007/11526841_3
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Traceability"+"Formal+methods"
+
+     Search term "Traceability"+"Formal+methods"
+     Title An analysis of the requirements traceability problem
+     Author ['OCZ Gotel', 'CW Finkelstein']
+     Venue Proceedings of IEEE International …
+     Year 1994
+     Abstract the Requirements Statement Language [lo]; process entity-relationship models [24]; the Planning and Design Methodology [42]; formal methods [SI; and  For example: the KJ-editor provides traceability between ideas and requirements (561; and the T tool provides traceability
+     Url https://ieeexplore.ieee.org/abstract/document/292398/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract Section 5.1 describes a technique for traceability called hyper-requirements. We distinguish between formal methods and formal models, in that formal methods try to handle some large class of systems (such as information systems), or even all possible systems, whereas
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Experiences using lightweight formal methods for requirements modeling
+     Author ['S Easterbrook', 'R Lutz', 'R Covington']
+     Venue IEEE Transactions …
+     Year 1998
+     Abstract In each case, formal methods offered a partial solution to the original problem. In particular, they provided a con- sistent requirements model, and revealed a number of errors, some of which had not been detected using in- spection and traceability analysis
+     Url https://ieeexplore.ieee.org/abstract/document/663994/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Requirements traceability issues: generic model, methodology and formal basis
+     Author ['AEK Sahraoui']
+     Venue International Journal of Information Technology & …
+     Year 2005
+     Abstract community. An issue mentioned in Pearson20 con- cerns the use and abuse of formal methods in requirements traceability. There are many sources of errors in formal development. A commpon source is uncertainty. There
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0219622005001386
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Supporting fine-grained traceability in software development environments
+     Author ['P Lindsay', 'O Traynor']
+     Venue International Workshop on Software Configuration …
+     Year 1998
+     Abstract 3. PA Lindsay and O. Traynor. Version and configuration management of formal theories. In Proc. Formal Methods Pacific (FMP'97). Springer Verlag, 1997. 4. PA Lindsay and O. Traynor. A formal model of fine grained traceability in software development environments
+     Url https://link.springer.com/chapter/10.1007/BFb0053884
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title … technique for the software requirements analysis of NPP safety-critical systems, based on software inspection, requirements traceability, and formal specification
+     Author ['SR Koo', 'PH Seong', 'J Yoo', 'SD Cha', 'YJ Yoo']
+     Venue Reliability Engineering & …
+     Year 2005
+     Abstract is an effective technique for the software requirements analysis of nuclear power plant (NPP) safety-critical systems in Section 3. Our approach integrates software inspection, requirements traceability, and formal methods in order to support systematic requirement analysis
+     Url https://www.sciencedirect.com/science/article/pii/S0951832004002297
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract We discuss the role of formal methods in addressing three key aspects of this goal: providing reasoning support for semantically heterogeneous models, managing the complexity and scale of design space exploration, and supporting traceability and provenance in the CPS
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Goal-centric traceability for managing non-functional requirements
+     Author ['J Cleland-Huang', 'R Settimi']
+     Venue … , 2005. ICSE 2005.
+     Year 2005
+     Abstract links, graphs, or more formal methods [13]. However practice  23]. The advantages of dynamic methods are that they eliminate the need for long-term maintenance of traceability links and subsequent problems of link degradation. However
+     Url https://ieeexplore.ieee.org/abstract/document/1553579/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Modeling functional requirements to support traceability analysis
+     Author ['N Kececi', 'J Garbajosa']
+     Venue 2006 IEEE International …
+     Year 2006
+     Abstract andprocedures. Traceability Identification ofindividual software Analysis requirements entities and tracing ofthese to design entities andfrom the design entities to implementation entities. A. Formal Methods. Formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/4078923/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Recovery of traceability links between software documentation and source code
+     Author ['A Marcus', 'JI Maletic', 'A Sergeyev']
+     Venue International Journal of Software …
+     Year 2005
+     Abstract Traceability and inconsistency man- agement support is most frequently found between representations such as formal specifications and program source code that are amenable to automated analysis. Most approaches use formal methods to encode software documents and
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0218194005002543
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Coming and going from UML to B: a proposal to support traceability in rigorous IS development
+     Author ['R Laleau', 'F Polack']
+     Venue International Conference of B and Z Users
+     Year 2002
+     Abstract Here we outline the traceability needs for a tool to assist in rigorous IS de- velopment, and provide meta-structures for the required  26, 13], but exploits the increased use of and reliance on tool support for modelling, the increasing sophistication of formal methods support, and
+     Url https://link.springer.com/chapter/10.1007/3-540-45648-1_27
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title A generic model for fine grained configuration management including version control and traceability
+     Author ['P Lindsay', 'Y Liu', 'O Traynor']
+     Venue Proceedings of Australian …
+     Year 1997
+     Abstract Including Version Control and Traceability  SCM provides the mechanisms needed to demonstrate traceability between the built system, the design, the requirements documents, and other tools and artifacts of a development (such as compilers and test reports)
+     Url https://ieeexplore.ieee.org/abstract/document/623752/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Supporting traceability and inconsistency management between software artifacts
+     Author ['T Olsson', 'J Grundy']
+     Venue Proceedings of the 2002 IASTED International …
+     Year 2002
+     Abstract There has been a substantial amount of research performed on issues such as inconsistency management [Nuseibeh 00], traceability [Ramesh 01], logic-based formal methods [Allison 97], software tool inte- gration [Gray 98, Grundy 01] and round-trip engineering [Murphy 95]
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.194.7136&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Rich traceability
+     Author ['J Dick']
+     Venue … of the 1st international workshop on traceability in …
+     Year 2002
+     Abstract In particular, rich traceability can provide the basis for  GSN Andrew P Moore & J Klinker & David M Mihelcic, How to Construct Formal Arguments that Persuade Certifiers, In Michael G Hinchey & Jonathan P Bowen (Eds), Industrial-Strength Formal Methods in Practice, FACIT
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.6487&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Introducing formal methods into industry using Cleanroom and CSP
+     Author ['GH Broadfoot', 'PJ Hopcroft']
+     Venue Dedicated Systems Magazine
+     Year 2005
+     Abstract We have started to address the barriers described in Section 3 by combining two complimentary formal methods, Cleanroom Software  use the Sequence-Based Specification Method systematically to develop a formal specification while retaining complete traceability with the
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.1030&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal methods for verification and validation of partial specifications: A case study
+     Author ['S Easterbrook', 'J Callahan']
+     Venue Journal of Systems and Software
+     Year 1998
+     Abstract ing traceability between the two. Section 4 discusses the issues involved in maintaining multiple represen- tations of requirements, and the use of consistency checking to increase fidelity. We conclude that in an IV&V context, the ana- lytical benefits offered by formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S0164121297001672
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Complete traceability for requirements in satisfaction arguments
+     Author ['A Murugesan', 'MW Whalen']
+     Venue 2016 IEEE 24th …
+     Year 2016
+     Abstract In Proceedings of the International Conference on Formal Methods in Computer-Aided Design, FMCAD '11, pages 125–134, Austin, TX, 2011. FMCAD Inc. [8] A. Egyed and P. Grunbacher. Automating requirements traceability: Be- yond the record & replay paradigm
+     Url https://ieeexplore.ieee.org/abstract/document/7765544/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Event-based traceability for managing evolutionary change
+     Author ['J Cleland-Huang', 'CK Chang']
+     Venue IEEE Transactions on …
+     Year 2003
+     Abstract Many different techniques are used to represent traceability links including standard approaches such as matrices [21], [19], hypertext links [24], [25], graph-based approaches [26], formal methods [27], [28], and a variety of dynamic schemes [15], [29]
+     Url https://ieeexplore.ieee.org/abstract/document/1232285/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Using formal methods and testability concepts in the avionics systems validation and verification (v&v) process
+     Author ['O Laurent']
+     Venue 2010 Third International Conference on Software …
+     Year 2010
+     Abstract Airbus has used formal methods for several years to specify avionics systems. Thanks  conducted. Then, we focus on innovative methods based on testing strategies for traceability purposes, testing design and fault isolation
+     Url https://ieeexplore.ieee.org/abstract/document/5477108/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Ladder programs validation through model-code traceability
+     Author ['LR Sampaio', 'A Perkusich']
+     Venue 2011 IEEE International …
+     Year 2011
+     Abstract [9] L. Guo and A. Roychoudhury, “Debugging statecharts via model- code traceability,” in ISoLA, ser  [16] A. Sulflow and R. Drechsler, “Verification of PLC programs using formal proof techniques,” Formal Methods for Automation and Safety in Railway and Automotive Systems
+     Url https://ieeexplore.ieee.org/abstract/document/5754386/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Synthesis and traceability of scenario-based executable models
+     Author ['A Goel', 'A Roychoudhury']
+     Venue … Applications of Formal Methods …
+     Year 2006
+     Abstract Message Sequence Charts (MSCs) or Sequence Diagrams are one of the behavioral diagram types in the unified modeling language or UML. In system requirements modeling, MSCs are conventionally used for describing possible system scenarios. In the recent past
+     Url https://ieeexplore.ieee.org/abstract/document/4463735/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Traceability: Taming uncontrolled change in software development
+     Author ['K Kowalczykiewicz', 'D Weiss']
+     Venue Foundations of Computing and Decision …
+     Year 2002
+     Abstract of Defense spends about 4% of its IT costs on traceability, getting inadequate value from that money” [6]). No wonder software projects tend to fail  Formal methods are therefore expensive and tedious for their users, but if everything is done according to the rules set up by the
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.19.8922&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title A scenario-driven approach to traceability
+     Author ['A Egyed']
+     Venue Proceedings of the 23rd International Conference on …
+     Year 2001
+     Abstract Most trace capture methods, however, require exten- sive manual intervention [7,9] (eg, via naming dictionaries or traceability matrices); only rare cases have (semi) auto- mated support [2,12] (eg, via formal methods). Despite
+     Url https://ieeexplore.ieee.org/abstract/document/919087/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Toward easy inspection and effective use of formal methods in NPP software fields
+     Author ['SR Koo', 'HS Son', 'PH Seong', 'J Yoo']
+     Venue Transactions of the …
+     Year 2002
+     Abstract of software V&V. SIS-RT has four features; a document analysis, a traceability analysis, a formal analysis and an inspection meeting support. Though formal methods, such as Statechart [1], CPN [2], RSML [3], and SCR [4], are
+     Url https://www.researchgate.net/profile/Poong_Seong/publication/267852290_Towards_Easy_Inspection_and_Effective_Use_of_Formal_Methods_in_NPP_Software_Fields/links/54805e8b0cf250f1edc0f0b7/Towards-Easy-Inspection-and-Effective-Use-of-Formal-Methods-in-NPP-Software-Fields.pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Requirement traceability in Topcased with the requirements interchange format (RIF/ReqIF)
+     Author ['M Jastram', 'A Graf']
+     Venue NA
+     Year 2011
+     Abstract Page 5. 3.2 Event-B Traceability The Deploy approach to traceability is based on WRSPM5. WRSPM is a reference model for applying formal methods to the development of user requirements and their reduction to a behavioural system specification
+     Url http://deploy-eprints.ecs.soton.ac.uk/306/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Using traceability to support model-based regression testing
+     Author ['L Naslavsky', 'DJ Richardson']
+     Venue Proceedings of the twenty-second IEEE …
+     Year 2007
+     Abstract [5] Dick, J., Faivre, A., Automating the Generation and Sequencing of Test Cases from Model-Based Specifications, 1st International Symposium of Formal Methods Europe on Industrial-Strength Formal Methods, 1993  [10] Jouault, F., Loosely Coupled Traceability for ATL
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321744
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Softgoal traceability patterns
+     Author ['J Fletcher', 'J Cleland-Huang']
+     Venue 2006 17th International …
+     Year 2006
+     Abstract Page 1. Softgoal Traceability Patterns  This paper describes a new technique, known as softgoal traceability patterns, for enabling reusable class mechanisms such as design patterns to be applied within a goal-oriented framework
+     Url https://ieeexplore.ieee.org/abstract/document/4022002/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Practitioners' views on the use of formal methods: an industrial survey by structured interview
+     Author ['C Snook', 'R Harrison']
+     Venue Information and Software Technology
+     Year 2001
+     Abstract In particular, tool support to maintain traceability between specifications, implementation and test cases is an area of concern  Formal methods are worthwhile in terms of improved quality of software with little or no additional lifecycle costs, but only when compared to a rigorous
+     Url https://www.sciencedirect.com/science/article/pii/S095058490000166X
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Use of semi-formal and formal methods in requirement engineering of ILMS
+     Author ['S Sengupta', 'R Dasgupta']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2015
+     Abstract D.2.1 [Requirements/Specifications] B.7.2 [Verify] General Terms Requirement Engineering, Analysis Model, Verification Model Keywords Requirements Analysis, Requirement Traceability, Ontology, UML, Formal Methods, Conceptual Graph, VDM-SL 1. INTRODUCTION
+     Url https://dl.acm.org/doi/abs/10.1145/2693208.2693235
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Software product lines traceability: A systematic mapping study
+     Author ['T Vale', 'ES de Almeida', 'V Alves', 'U Kulesza']
+     Venue Information and …
+     Year 2017
+     Abstract Download PDFDownload. Share. Export. Advanced. Elsevier. Information and Software Technology. Volume 84, April 2017, Pages 1-18. Information and Software Technology. Software product lines traceability: A systematic mapping study  2.2. Software and systems traceability
+     Url https://www.sciencedirect.com/science/article/pii/S0950584916304463
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Med-Trace: traceability assessment method for medical device software development
+     Author ['V Casey', 'F Mc Caffery']
+     Venue NA
+     Year 2011
+     Abstract The focus is on a resource light assessment that can pinpoint specific areas for improvement with regard to traceability that will provide tangible results in a short time  in The 4th international conference on Leveraging applications of formal methods, verification, and validation
+     Url https://ulir.ul.ie/handle/10344/1746
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract Their tools can provide automated sup- port needed for checking completeness, traceability, verifiability, and reusability, and for supporting requirements evolution, diverse viewpoints, and inconsistency manage- ment [Ghose 2000]. Formal methods are used in specifying
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Experiments in the use of xml to enhance traceability between object-oriented design specifications and source code
+     Author ['J Alves-Foss', 'DC de Leon']
+     Venue Proceedings of the 35th …
+     Year 2002
+     Abstract in the commercial world today is designed and constructed without the use of formal verification and traceability aids because  Most of techniques used today to develop reliable computational systems, such as formal methods, structured testing, software process management
+     Url https://ieeexplore.ieee.org/abstract/document/994466/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Traceability for complex systems engineering
+     Author ['S White']
+     Venue INCOSE International Symposium
+     Year 1994
+     Abstract Figure 4 A Relation in a State Transition Diagram FUTURE WORK We intend to integrate formal methods for specifying thread interdependencies with CSRT, and develop methods for  CONCLUSIONS Good process and product traceability would reduce costs significantly
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.1994.tb01681.x
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Traceability in model-driven engineering: Efficient and scalable traceability maintenance
+     Author ['A Seibel', 'R Hebig', 'H Giese']
+     Venue Software and Systems Traceability
+     Year 2012
+     Abstract as in case of information retrieval. Because of their preciseness, formal methods are best applicable to establish traceability links between formal software artifacts and, to some extent, between semi-formal software artifacts
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-2239-5_10
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal Methods for V&V of partial specifications: An experience report
+     Author ['S Easterbrook', 'J Callahan']
+     Venue Proceedings of ISRE'97: 3rd IEEE …
+     Year 1997
+     Abstract of formal methods in this context was not always easy. The informal specification from which we derived our models did not permit an easy translation into a state-based model. We encountered severe problems in demonstrating fidelity, and provid- ing traceability between the
+     Url https://ieeexplore.ieee.org/abstract/document/566865/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Traceability analysis of recent RFID authentication protocols
+     Author ['SM Alavi', 'K Baghery', 'B Abdolmaleki']
+     Venue Wireless Personal …
+     Year 2015
+     Abstract systems. With traceability attacks, an attacker can trace a specific tag any time in any place  users. In general, the privacy of RFID authentication protocol can be investigated based on ad-hoc [15, 16] and formal methods [9, 17]
+     Url https://link.springer.com/article/10.1007/s11277-015-2469-0
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title PRO-ART: PROcess based Approach to Requirements Traceability
+     Author ['K Pohl', 'R Dömges', 'M Jarke']
+     Venue Poster Outlines: 6th Conference on …
+     Year 1994
+     Abstract Issues in the Development of a Requirements Traceability Model. In Proc. International Symposium on Requirements Engineering, January 1993. [Wing, 1990] JM Wing. A Specifier's Introduction to Formal Methods. Computer 23, 9 (September 1990), pp. 8–24. 9 Page 10
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.45.5339&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Improve-hdl-a do-254 formal property checker used for design and verification of avionics protocol controllers
+     Author ['S Dellacherie', 'L Burgaud']
+     Venue Digital Avionics Systems …
+     Year 2003
+     Abstract As DO-178B is a requirement for certifiable avionics SW design, DO-254 is a set of design guidelines for airbome HW electronics. DO254 considers the use of Formal Methods and Requirements Traceability when developing HW to support safety-critical (Level A or B) functions
+     Url https://ieeexplore.ieee.org/abstract/document/5731053/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract In particular, the higher level SIL 4 recommends the use of formal methods to control the quality of software intensive applications  In the context of formal system engineering and taking into account the need for traceability of safety properties, this approach must be enrich by
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Academia and industry meet: Some experiences of formal methods in practice
+     Author ['GH Broadfoot', 'PJ Broadfoot']
+     Venue Tenth Asia-Pacific Software …
+     Year 2003
+     Abstract experiences. 4. The Cleanroom Method In this section we present an overview of the Cleanroom Method, the first of the two formal methods in question. The  retaining complete traceability with the original informal specifica- tion. The
+     Url https://ieeexplore.ieee.org/abstract/document/1254357/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract Automating the Generation and Sequencing of Test Cases from Model-Based Specifications. In Proceedings of the International Conference on Formal Methods Europe (FME'93), volume 670 of LNCS, pages 268–284  An Analysis of the Requirements Traceability Problem
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Requirements, traceability and DSLs in Eclipse with the requirements interchange format (RIF/ReqIF)
+     Author ['M Jastram', 'A Graf']
+     Venue NA
+     Year 2011
+     Abstract We developed an approach to traceability between natural language requirements and Event-B models based on WRSPM [JHLR10]. WRSPM is a reference model for applying formal methods to the development of user requirements and their reduction to a behavioural system
+     Url http://deploy-eprints.ecs.soton.ac.uk/307/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Requirements, Traceability and Formal Software Development or a Further Analysis of Requirements Traceability
+     Author ['JK Pearson']
+     Venue … Science Department Royal Holloway University of …
+     Year 1996
+     Abstract development. While in formal software engi- neering, not only is there a Pre-RS traceability problem, there are a di erent set of requirement traceability issues in the Post-RS phrase due to the nature of formal methods. This will
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.5488&rep=rep1&type=pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal methods and the certification of critical systems
+     Author ['J Rushby']
+     Venue NA
+     Year 1993
+     Abstract Page 1. Formal Methods and the Certi cation of Critical Systems1  Page 20. Chapter 2 Issues in Formal Methods \Deduction, as a method of obtaining conclusions, has many advantages over trial and error or reasoning by induc
+     Url https://core.ac.uk/download/pdf/24314703.pdf
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Software traceability: a roadmap
+     Author ['G Spanoudakis', 'A Zisman']
+     Venue Handbook Of Software Engineering And …
+     Year 2005
+     Abstract Page 1. SOFTWARE TRACEABILITY: A ROADMAP GEORGE SPANOUDAKIS  Traceability of software artefacts has been recognized as an important factor for sup- porting various activities in the software system development process. In general
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789812775245_0014
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Strategic traceability for safety-critical projects
+     Author ['P Mäder', 'PL Jones', 'Y Zhang', 'J Cleland-Huang']
+     Venue IEEE software
+     Year 2013
+     Abstract Strategic Traceability for Safety-Critical Projects  Artifact traceability standards in saFety-critical Projects Traceability is an established tenet in the software engineering community and is essential for assuring that software is safe for use
+     Url https://ieeexplore.ieee.org/abstract/document/6504885/
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title On the industrial uptake of formal methods in the railway domain
+     Author ['D Basile', 'MH ter Beek', 'A Fantechi', 'S Gnesi']
+     Venue … Formal Methods
+     Year 2018
+     Abstract often in the form of animation of a graphical specification) is needed for a quick check of the behaviour of a model; traceability between the  These are also the phases in which formal methods cannot be substituted by any other means—while this may happen in testing, code
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_2
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title Formal methods in industry: achievements, problems, future
+     Author ['JR Abrial']
+     Venue Proceedings of the 28th international conference on …
+     Year 2006
+     Abstract of them using B [1]), I will infer from these case studies some results which are applicable to the usage of other formal methods  An important aspect of this relationship is that the Soft- ware Requirement Document becomes the starting point of the traceability of the requirements
+     Url https://dl.acm.org/doi/abs/10.1145/1134285.1134406
+
+
+     Search term "Traceability"+"Formal+methods"
+     Title On traceability of informal specifications for model-based verification
+     Author ['M Filax', 'T Gonschorek', 'M Lipaczewski']
+     Venue IMBSA: short & tutorial …
+     Year 2014
+     Abstract to be the ability of following a requirement from its origins to its development, specification and use [7]. Thus, traceability can become  not widely accepted in industry, as requirements have to be processed by domain experts, who are commonly not familiar with formal methods [4
+     Url https://cse.cs.ovgu.de/cse-wordpress/wp-content/uploads/2015/07/filax_IMBSA_2014.pdf
+

@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"Medical"
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Hardware design and implementation of a wavelet de-noising procedure for medical signal preprocessing
+     Author ['SW Chen', 'YH Chen']
+     Venue Sensors
+     Year 2015
+     Abstract Article. Hardware Design and Implementation of a Wavelet De-Noising Procedure for Medical Signal Preprocessing. by Szi-Wen Chen 1,2,* and Yuan-Ho Chen 1  Signal integrity always plays a crucial role for applications into medical signal sensing and processing
+     Url https://www.mdpi.com/1424-8220/15/10/26396
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Hardware-software co-simulation for medical x-ray control units.
+     Author ['B Kleinert', 'GR Rahimi', 'M Reichenbach', 'D Fey']
+     Venue SimuTools
+     Year 2015
+     Abstract 1. INTRODUCTION In this paper we present a simulation environment to master complexity of adaption cycles of an X-ray control unit used in a medical device  output signal traces Linux host computer software simulation hardware simulation IPC Figure 2: Virtual control unit
+     Url http://cs.virginia.edu/~gr5yf/Reza_files/papers/Simutool2015.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract simulation and constraint handling for physically-based dynamic [19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Non-linear and anisotropic elastic soft tissue models for medical simulation
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Trainer using video photographs and overlays for reconfigurable hardware simulation
+     Author ['VS De Gyarfas', 'R Saunders']
+     Venue US Patent 5,286,202
+     Year 1994
+     Abstract US5286202A - Trainer using video photographs and overlays for reconfigurable hardware simulation - Google Patents. Trainer using video photographs and overlays for reconfigurable hardware simulation. Download PDF Info
+     Url https://patents.google.com/patent/US5286202A/en
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title High-Performance Hardware 3D Medical Imaging using Wavelets in the Residue Number System
+     Author ['NI Chervyakov', 'PA Lyakhov']
+     Venue 2020 9th …
+     Year 2020
+     Abstract by modulo  2 channel is showed in Fig. 2. The input image has 8 bit of voxel bit-width. V. HARDWARE SIMULATION OF THE 3D MEDICAL IMAGES WAVELET PROCESSING An example of 3D 8-bit image “MRI_head_4_8” DWT with wavelet Daubechies 2 db is shown in Fig
+     Url https://ieeexplore.ieee.org/abstract/document/9134123/
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Preliminary Experimental results of integrated gasification fuel cell operation using hardware simulation
+     Author ['A Traverso', 'D Tucker']
+     Venue … of engineering for …
+     Year 2012
+     Abstract Preliminary Experimental Results of Integrated Gasification Fuel Cell Operation Using Hardware Simulation  "Preliminary Experimental Results of Integrated Gasification Fuel Cell Operation Using Hardware Simulation." ASME. J. Eng. Gas Turbines Power
+     Url https://asmedigitalcollection.asme.org/gasturbinespower/article-abstract/134/7/071701/455709
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title A Low Power Hardware Implementation of Lifting based Reversible Watermarking for Medical Image
+     Author ['P Jana', 'GK Maity', 'H Mandal']
+     Venue 2019 Devices for Integrated …
+     Year 2019
+     Abstract Digital arrangements in real time are necessary in significant fields like medical analysis where usually hardware based system are required  Section IV represents the software and also the hardware simulation results respectively
+     Url https://ieeexplore.ieee.org/abstract/document/8783370/
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Eigenskin: real time large deformation character skinning in hardware
+     Author ['PG Kry', 'DL James', 'DK Pai']
+     Venue Proceedings of the 2002 ACM SIGGRAPH …
+     Year 2002
+     Abstract a) FEM simulated pose b) SSD only c) EigenSkin d) Real time hardware simulation Figure 1: Comparison of EigenSkin and Skeletal-Subspace Deformation for an extreme pose not in the training data  Non-linear and anisotropic elastic soft tissue models for medical simulation
+     Url https://dl.acm.org/doi/abs/10.1145/545261.545286
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Low-Bit Hardware Implementation of DWT for 3D Medical Images Processing
+     Author ['PA Lyakhov', 'MV Valueva', 'NN Nagornov']
+     Venue … IEEE Conference of …
+     Year 2020
+     Abstract devices. This can be used for 3D medical imaging systems improvements   Flow_PerfOptimized_high. Hardware simulation was carried out for DWT of 3D grayscale tomographic images with 8 BPC by wavelet Daubechies 2 db with 4 coefficients
+     Url https://ieeexplore.ieee.org/abstract/document/9038946/
+
+
+     Search term "Hardware+simulation"+"Medical"
+     Title Hardware realisation of an intelligent medical image watermarking
+     Author ['S Bal', 'S Das', 'S Dutta', 'S Das']
+     Venue International Journal …
+     Year 2020
+     Abstract 62.805 0.8 H-GAWM (Mestiri et al., 2014) 47.587 0.55 Secured medical image watermarking method (Basu et al., 2015) 46.923 0.043 EAP (Jaiswal et al., 2013) 46 0.55 Wong et al. (2013) method 45.83 0.58 5.2 Hardware simulation results
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJNP.2020.105999
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Non-intrusive Patient Simulator for Medical Ventilator Software Verification
+     Author ['Y Zhuo']
+     Venue NA
+     Year 2014
+     Abstract Non-intrusive Patient Simulator for Medical Ventilator Software Verification Zhuo Yuzhen  Instead of sampling the gas chain directly, CPU would communicate with FPGA and read data  As discussed, medical ventilators are highly safety critical system. Even with the most
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:698552
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant [J]
+     Author ['Y XIANG', 'D WANG', 'S LIN']
+     Venue Computer Knowledge and Technology
+     Year 2012
+     Abstract Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant  China);Measure and Control System of Pressure Tester Based on PLC[J];Ordnance  University,Xi'an 710072;Preliminary study on image scale of medical instruments in
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DNZS201218092.htm
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test bench development for acquisition module FPGA of Ultrasonic flow meter
+     Author ['SV Kulkarni', 'MM Sonkhaskar']
+     Venue … on Pervasive Computing …
+     Year 2015
+     Abstract of FPGA software verification", Beihang University, Beijing, China,IEEE 2011. [2] Keith Groeschel, “Acquisition module FPGA code”, Emerson Electric, Houston, USA. [3] Leong C, "Design and test issues of a FPGA based data acquisition system for medical imaging using PEM
+     Url https://ieeexplore.ieee.org/abstract/document/7086978/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Demo abstract: Closed-loop testing for implantable cardiac pacemakers
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the 10th ACM …
+     Year 2011
+     Abstract While formal methods of verification is needed for medical device software [2, 7, 8  The VHM was implemented on a FPGA-based hardware platform and the pacemaker  FDA Center for Devices and Radiological Health, General Principles of Software Validation; Final Guidance
+     Url https://ieeexplore.ieee.org/abstract/document/5779074/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Advancing Medical Technology Using FPGAs
+     Author ['Z Olson']
+     Venue Frontiers in Biomedical Devices
+     Year 2010
+     Abstract Using FPGAs in medical devices can certainly accelerate development and offer additional flexibility  some designers have treated FPGAs as hardware, while others have gone through software validation  on tools and best practices for testing and validating FPGA designs under
+     Url https://asmedigitalcollection.asme.org/BIOMED/proceedings-abstract/BIOMED2010/49453/55/227649
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Offline PLC Failure Detection Method: A Case Study
+     Author ['MAB Vitekar', 'MS Nagmode', 'A Pawar']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiprocessor System-Level Modeling and Analysis on Platform FPGA
+     Author ['Z Lei', 'S You', 'F YongQing']
+     Venue Advances in Information Technology and …
+     Year 2011
+     Abstract is widely used in computer com- munication, digital media, auto electronics, medical electronics, aviation and  5] is modified by many scientists and used in the hardware and software verification of the  A high performance FPGA was used to implement an h.264 encoder, and the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-22418-8_58
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title STIMULUS SIGNAL GENERATION FOR FIELD PROGRAMMABLE GATE ARRAY-BASED GAMMA SPECTROSCOPY SYSTEM
+     Author ['NURAB ABD RAHMAN']
+     Venue NA
+     Year 2016
+     Abstract Code simulation or test bench enables verification of new Field Programmable Gate Array (FPGA) design to be done during code development stage  To demonstrate the application of PulseGEN data, an FPGA based MCA is designed
+     Url http://psasir.upm.edu.my/id/eprint/69935/1/ITMA%202016%205%20IR.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Computerised controllers for safety critical medical applications
+     Author ['WA Halang', 'M Śnieżek', 'M Colnarič']
+     Venue International journal of medical …
+     Year 1998
+     Abstract Employing diverse back translation for software verification is facilitated by the problem oriented architecture  Many safety related control programs, including medical ones, have the form of sequence  implemented the master using a field programmable gate array (FPGA) [11]
+     Url https://www.sciencedirect.com/science/article/pii/S1386505698000379
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Brain Tumour classification by using K. means cluster segmentation using FPGA for bio medical applications
+     Author ['M Amir', 'C Silpa']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title How gamma radiation processing systems are benefiting from the latest advances in information technology
+     Author ['WH Gibson', 'D Levesque']
+     Venue Radiation Physics and Chemistry
+     Year 2000
+     Abstract EES operates a highly automated medical device gamma sterilizer, integrating the irradiator's PLC control and real-time product tracking with a manufacturing database, a pallet staging system and automated pallet loading and unloading robots, and an automated dosimeter
+     Url https://www.sciencedirect.com/science/article/pii/S0969806X9900482X
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Cyber–physical modeling of implantable cardiac medical devices
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the IEEE
+     Year 2011
+     Abstract An effective software verification methodology is therefore needed for the risk analysis and certification of  3) Physical testbed: One of the potential problems with medical device development is  operate the heart on VHDL-based field-programmable gate array (FPGA) platform for
+     Url https://ieeexplore.ieee.org/abstract/document/5985460/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A method of classifying industrial assembly and packaging equipment
+     Author ['S Loughlin', 'J McGrory']
+     Venue 2013 11th IEEE International …
+     Year 2013
+     Abstract equipment with 83% of their equipment sales in the pharmaceutical and medical products sector  fact that there are now 2 independent controllers, namely the PLC and motion  very high speed, with complex error handling routines, requires advanced software validation skills in
+     Url https://ieeexplore.ieee.org/abstract/document/6622898/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Scope of IEC Health Software Standards
+     Author ['G Heidenreich']
+     Venue NA
+     Year NA
+     Abstract Software- Validation  1.2) NO Extension of Scope: „when software is itself a MEDICAL DEVICE or  part of the final MEDICAL DEVICE“(does not affect legislation, the standard will be broader, the law more precise) 1.2  Including FPGA with state-logic and signal processors
+     Url https://www.researchgate.net/profile/Georg_Heidenreich/publication/274392155_Scope_of_IEC_Health_Software_Standards/links/551f09bd0cf2f9c1304db72f/Scope-of-IEC-Health-Software-Standards.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title 4 INDUSTRIAL SUMMARY
+     Author ['R HEAD']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Prototype Design of Hierarchical Cluster Multiprocessor on Platform FPGA
+     Author ['RH Mu', 'PZ Zhao', 'D Li']
+     Venue … and Knowledge Engineering: Theory and Practice
+     Year 2012
+     Abstract And this design has been implemented as a prototype on FPGA  Currently, MPSoC is widely used in computer communication, digital media, auto electronics, medical electronics, aviation  8] is modified by many scientists and used in the hardware and software verification of the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-25349-2_91
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and analysis of video parallel processing on a hierachical multiprocessor system on FPGA
+     Author ['D Li', 'Y Hou', 'Z Huang', 'C Xiao']
+     Venue 2011 International Conference …
+     Year 2011
+     Abstract a Hierachical Multiprocessor System On FPGA  1]. Currently, MPSoC is widely used in computer communication, digital media, auto electronics, medical electronics, aviation  Abstraction [8] is modified by many scientists and used in the hardware and software verification of the
+     Url https://ieeexplore.ieee.org/abstract/document/5882114/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A New Approach: Software Development And Validation
+     Author ['Z Zhu']
+     Venue Biomedical instrumentation & technology
+     Year 2011
+     Abstract in the medical device industry.1 The software includes programs that are embedded in instruments and used in production/manufacturing process control, in which programmable logic controllers (PLCs) are widely used.2 The development and validation of a PLC program
+     Url https://meridian.allenpress.com/bit/article-abstract/45/5/373/142236
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Using the virtual heart model to validate the mode-switch pacemaker operation
+     Author ['Z Jiang', 'A Connolly']
+     Venue 2010 Annual International …
+     Year 2010
+     Abstract Virtual Heart Model (VHM) to act as platform for medical device software validation and verification  The VHM also provides a formal interface for interaction with medical device software  The same model also executes on a programmable hardware (FPGA) platform for software
+     Url https://ieeexplore.ieee.org/abstract/document/5626262/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hard-and software requirements for nuclear instruments eg for the ClearPET Neuro Scanner
+     Author ['K Ziemons']
+     Venue Validation Procedures of Software Applied in Nuclear …
+     Year 2007
+     Abstract In practice, software validation activities may occur both during, as well as at the end of the software  The LSO is obtained from the commercial company CTI, now Siemens Medical Solution  and decoder boards in front, one FPGA board, one slow control and finally an opto link
+     Url https://www.osti.gov/etdeweb/servlets/purl/20955536#page=48
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Enterprise resource planning (ERP) selection for a medical devices manufacturing company
+     Author ['C Zielsdorff', 'C McGinnis', 'T Daim']
+     Venue International Journal of …
+     Year 2010
+     Abstract Software validation is an additional step unique to the medical industry. This is another requirement defined in the federal regulations which requires the software being used by the company to be validated for its intended use
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJBIS.2010.034357
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Siwa: A custom RISC-V based system on chip (SOC) for low power medical applications
+     Author ['R Garcia-Ramirez', 'A Chacon-Rodriguez']
+     Venue Microelectronics …
+     Year 2020
+     Abstract based on the RISC-V R32I architecture and intended for low power medical devices was presented and evaluated against other RISC-V implementations and other processors used in the literature for implantable medical devices  Roberto Molina-Robles: Software, Validation
+     Url https://www.sciencedirect.com/science/article/pii/S0026269219303787
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA Technology and Platforms for NPP I&C systems
+     Author ['A Kovalenko', 'I Babeshko', 'V Tokarev']
+     Venue Cyber Security and …
+     Year 2020
+     Abstract FPGA design software is widely used in different industries: military, medical equipment manufacturing  verification after each stage of development is obligatory for both FPGA electronic designs  Software verification is a process aimed to confirm software compliance to defined re
+     Url https://www.igi-global.com/chapter/fpga-technology-and-platforms-for-npp-ic-systems/258688
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Survey of Formal Verification in Mission-critical High-consequence Applications.
+     Author ['Y Hu', 'RC Armstrong']
+     Venue NA
+     Year 2011
+     Abstract A few examples include memory controllers, microprocessor, network equipment, medical devices, and  verification strategies of mission-critical, high-consequence FPGA or ASIC  formal verification, formal methods, hardware verification, software verification, model checking
+     Url https://www.osti.gov/servlets/purl/1109051
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Biomechanical evaluation of the influence of posterolateral corner structures on cruciate ligaments forces during simulated gait and squatting
+     Author ['KT Kang', 'YG Koh', 'JH Nam', 'M Jung', 'SJ Kim', 'SH Kim']
+     Venue PloS one
+     Year 2019
+     Abstract Roles Data curation, Software, Validation  Posterolateral corner (PLC) structures of the knee joint comprise complex anatomical soft tissues that support static and  We combined medical imaging and motion capture of healthy subjects (four males and one female) to develop
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214496
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The Challenge of Complexity in Dependable PLC-Based Systems
+     Author ['DN Card']
+     Venue 2015 IEEE 39th Annual Computer Software and …
+     Year 2015
+     Abstract Administration report showed that 79% of software-related recalls of medical devices were  Additional research in the areas of PLC programming technology and safety analysis of  20, May 2010 [7] Food and Drug Administration, General Principles of Software Validation, 2002 [8
+     Url https://ieeexplore.ieee.org/abstract/document/7273285/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Fpga-based in-circuit verification of digital systems
+     Author ['FL Chen', 'ZX Zhu', 'XY Fan']
+     Venue Advanced Materials Research
+     Year 2011
+     Abstract This breaks the constraint of the FPGA board's limited pins and supports wide  machines, automated data-acquisition and manipulation components in bio-medical systems, etc  works Functional simulation and Timing simulation are two common software verification methods
+     Url https://www.scientific.net/AMR.187.362
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Validation of gamma irradiator controls for quality and regulatory compliance
+     Author ['RB Harding', 'FJA Pinteric']
+     Venue Radiation Physics and Chemistry
+     Year 1995
+     Abstract Figure 1 gives an overview of a Validation Program appropriate for the sterilization of medical products, according to  the cylinders do what they are supposed to do, that the conveyors convey, and that the PLC control system  software validation has been identified and accepted
+     Url https://www.sciencedirect.com/science/article/pii/0969806X95003828
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A management approach to software validation requirements
+     Author ['N Hrgarek']
+     Venue Central European Conference on Information and …
+     Year 2008
+     Abstract their rationale for those automated processes that do not require software validation  and maintains the device history record (DHR) for medical device companies  laboratory information management systems (LIMS), - programmable logic controllers (PLC) in manufacturing
+     Url https://bib.irb.hr/datoteka/496167.63-378-1-PB.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Study on Reliability Assessment for the Medical Device Software from the Viewpoint of Functional Safety
+     Author ['SM Kim', 'B Ko', 'GH Do', 'HJ Kim']
+     Venue Journal of Applied …
+     Year 2016
+     Abstract Addison-Wesley. [7] MTL Instruments Group plc (2002). “An introduction to Functional Safety and IEC 61508”  30, No. 2, pp. 62-71. [10] KFDA. (2007). “Guidelines for Software Validation of Medical devices”. Korea Food & Drug Administration. [11] IEC 62304. (2006)
+     Url https://www.koreascience.or.kr/article/JAKO201622647667216.page
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Fpga-based in-circuit verification of digital systems
+     Author ['FL Chen', 'ZX Zhu', 'XY Fan']
+     Venue Advanced Materials Research
+     Year 2011
+     Abstract This breaks the constraint of the FPGA board's limited pins and supports wide  machines, automated data-acquisition and manipulation components in bio-medical systems, etc  works Functional simulation and Timing simulation are two common software verification methods
+     Url https://www.scientific.net/AMR.187.362
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Migration from microcontroller to FPGA based SoPC design: Case study: LMS adaptive filter design on Xilinx Zynq FPGA with embedded ARM controller
+     Author ['S Shaikh', 'S Pujari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract 129 Page 2. microproccessor) for medical diagnosis system. Employing ARM micropreocessor that allows much quicker and easier design than FPGA only solution [2]. Performance analysis of Soft and hard processor based SoPC design have been considered
+     Url https://ieeexplore.ieee.org/abstract/document/7877565/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title APEnet+ 34 Gbps data transmission system and custom transmission logic
+     Author ['R Ammendola', 'A Biagioni', 'O Frezza']
+     Venue Journal of …
+     Year 2013
+     Abstract As of now, for reliable operations and upper level firmware and software validation, we use a  [8] R. Bittner, E. Ruf and A. Forin, Direct GPU/FPGA communication via  embedded transceivers and QSFP+ modules, in Nuclear Science Symposium and Medical Imaging Conference
+     Url https://iopscience.iop.org/article/10.1088/1748-0221/8/12/C12022/meta
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Validation of software" in-product" or" as-product"
+     Author ['JE Lincoln']
+     Venue Journal of Validation Technology
+     Year 2011
+     Abstract SOFTWARE VALIDATION As-product or in-product software controlling process and production equipment or  2007 [2009], “Medical Devices–Applica- tion of Risk Management to Medical Devices,” 2009  application(s). List desired plat- form (eg, PC, network, PLC), interfaces (eg
+     Url http://search.proquest.com/openview/1b38d008793721604e94d0f9beebc000/1?pq-origsite=gscholar&cbl=29232
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Field Programmable Gate Array Technology for NPP I&Cs
+     Author ['V Sklyar', 'A Andrashov', 'E Babeshko']
+     Venue Nuclear Power Plant …
+     Year 2014
+     Abstract FPGA design software is widely used in different industries: military, medical equipment manufacturing  each stage of devel- opment is obligatory for both FPGA electronic designs  Software verification is a process aimed to confirm software compliance to defined requirements by
+     Url https://www.igi-global.com/chapter/field-programmable-gate-array-technology-for-npp-ics/97152
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of Wireless Sensor Network Using Microblaze and Picoblaze Processors
+     Author ['SM Borawake', 'PG Chilveri']
+     Venue 2014 Fourth International …
+     Year 2014
+     Abstract operate in 2.4-2.843 GHz ISM (industrial, scientific, and medical) band  hardware platform verification (simulation), software platform creation, software application creation, and software verification  Project also includes FPGA architecture family and the device type which is to be
+     Url https://ieeexplore.ieee.org/abstract/document/6821561/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An IEEE 802.15. 4 baseband SoC for tracking applications in the medical environment based on Actel Cortex-M1 soft-core
+     Author ['A de la Piedra', 'A Touhafi']
+     Venue 2010 17th IEEE …
+     Year 2010
+     Abstract 802.15.4-compliant baseband System On Chip design standard focused on tracking ap- plications in the medical environment  The former one was done using Mentor Graphics Questa Codelink with a software verification model of the ARM processor; the latter, in a FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5720467/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Real-time heart model for implantable cardiac device validation and verification
+     Author ['Z Jiang', 'M Pajic', 'A Connolly', 'S Dixit']
+     Venue 2010 22nd Euromicro …
+     Year 2010
+     Abstract based heart models exist [6], [7], [8], [9], they are useful for simulation only and not for software verification  Section III provides medical validation of the VHM  Finally, Section V describes an FPGA implementation of the VHM along with the closed-loop hardware setup used for
+     Url https://ieeexplore.ieee.org/abstract/document/5562916/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Secure embedded system hardware design–a flexible security and trust enhanced approach
+     Author ['AP Fournaris', 'N Sklavos']
+     Venue Computers & Electrical Engineering
+     Year 2014
+     Abstract Embedded systems of today handle an increasingly large amount of data from our personal, social, business, medical or civilian life including  As a case study of the above proposal, an FPGA based trusted zone architecture is presented, its components are analyzed and its
+     Url https://www.sciencedirect.com/science/article/pii/S0045790613002930
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based explicit model predictive control for closed-loop control of intravenous anesthesia
+     Author ['D Ingole', 'J Holaza', 'B Takács']
+     Venue 2015 20th International …
+     Year 2015
+     Abstract New surgical techniques bring new medical technologies and more devices in the operation rooms  ISE (Integrated Synthe- sis Environment) 14.7 to the Xilinx Vertex 4 FPGA board  3) Software Verification: The synthesized HDL code is first verified in Simulink using the Xilinx ISE
+     Url https://ieeexplore.ieee.org/abstract/document/7169936/
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of an irreversible electroporation system for clinical use
+     Author ['C Bertacchini', 'PM Margotti']
+     Venue … in cancer research …
+     Year 2007
+     Abstract Figure 7: FPGA firmware architecture  UL Standard for Safety for Medical Electrical Equipment, Part 1: General Requirements for Safety, UL; 60601-1; First Edition (2003). General Principles of Software Validation, Final Guidance for Indus- try and FDA Staff, CDRH (2002)
+     Url https://journals.sagepub.com/doi/abs/10.1177/153303460700600408
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An FPGA Based Microblaze Soft Core Architecture for 2D-LIFTING
+     Author ['K Priyanka', 'M Pradeep']
+     Venue IOSR Journal of Electronics and …
+     Year 2012
+     Abstract A doctor must discern small details in medical images to help correctly  from the hardware creation to final implementation of the system on an FPGA  hardware platform verification (simulation), software platform creation, software application creation, and software verification
+     Url https://pdfs.semanticscholar.org/e98d/58c12180962e2ae504cbfdceb94bebafa35a.pdf
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of Extended 'Digital Communication Theory'Hardware Implementation Platform
+     Author ['L Jihuaa', 'Z Ronghua', 'L Shixun']
+     Venue … (CSET2015), MEDICAL …
+     Year 2015
+     Abstract Besides the hardware design, the experimental platform contains software verification part  The design and implementation of extended Mapreduce based on FPGA [J]. Computer technology and development  Page 316. CHAPTER 3 Medical Science and Biological Engineering
+     Url https://books.google.com/books?hl=ro&lr=&id=6sXACwAAQBAJ&oi=fnd&pg=PA289&dq=%22Medical%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=wTzxZMsHba&sig=UVt-XCS1ymWkC2G7bpmHT7hFZD8
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of Extended 'Digital Communication Theory'Hardware Implementation Platform
+     Author ['J Lu', 'R Zhou', 'S Luo']
+     Venue … Technology (CSET2015) & Medical Science …
+     Year 2016
+     Abstract The OMAP sub-board contains audio, LAN, serial port, SD card, SATA, video, touch screen interfaces, and EMIF connected to FPGA. Fig. 2 Block diagram of OMAP sub-board  Besides the hardware design, the experimental platform contains software verification part
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789814651011_0042
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Risk-Based Approach to Packaging Machinery Validation
+     Author ['J Davey']
+     Venue PHARMACEUTICAL ENGINEERING
+     Year 2007
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Quality Improvement Process for Software Controls in Regulated Industry using Six Sigma Methodology
+     Author ['R Rodríguez Maldonado']
+     Venue Manufacturing Engineering;
+     Year 2013
+     Abstract policy for the manufacturing of quality product, the areas related to software validation after a  causes an impact to the quality system for manufacturing of medical devices product  Category 5 (Custom) • Control of Part Programs / Program Logic Controller (PLC) Programs Out of
+     Url http://prcrepository.org:8080/xmlui/bitstream/handle/20.500.12475/837/Articulo%20Final_Ricardo%20Rodriguez.pdf?sequence=1
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Dynamic Positioning MODU Critical Control Systems Communications and Software Reliability Assessment
+     Author ['S Savoy', 'R Wilson', 'C Dewitt', 'M Romero']
+     Venue Offshore Technology …
+     Year 2015
+     Abstract Steve Savoy, Ensco plc; Richard Wilson, Cris Dewitt, Matt Romero, and Christopher  b) Software Failure Mode and Criticality Analysis (FMECA), (c) Software Verification and Validation  Industries such as nuclear, aerospace, medical and automotive require software reliability
+     Url https://www.onepetro.org/conference-paper/OTC-25981-MS
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Utilizing multicore architectures to enhance software verification in real-time embedded systems
+     Author ['PJ Fogarty']
+     Venue NA
+     Year 2013
+     Abstract FDA Food and Drug Administration FPGA Field Programmable Gate Array  It is the challenges associated with software verification on that embedded platform which is the  and off-line recording/display. Using a case-study from an actual medical device, the author
+     Url https://ulir.ul.ie/handle/10344/3602
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware implementation of adaptive feedback based reversible image watermarking for image processing application
+     Author ['S Das', 'P Singh', 'C Koley']
+     Venue Microsystem Technologies
+     Year 2018
+     Abstract Software verification of three cover images is presented  The proposed architecture has been implemented using VIVADO 2016.2 based on Xilinx Virtex-7 FPGA and Zynq device platforms  This degradation is not acceptable for all applications, like military and medical purposes
+     Url https://link.springer.com/article/10.1007/s00542-018-4024-x
+
+
+     Search term "Medical"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A 34 Gbps data transmission system with FPGAs embedded transceivers and QSFP+ modules
+     Author ['R Ammendola', 'A Biagioni', 'O Frezza']
+     Venue … and Medical …
+     Year 2012
+     Abstract 2012 IEEE Nuclear Science Symposiwn and Medical Imaging Conference Record (NSS/MIC)  The FPGA employed in APEnet+, the Stratix IV GX, provides up to 32 full-duplex Clock  at this moment, for reliable op erations and upper level firmware and software validation, we use
+     Url https://ieeexplore.ieee.org/abstract/document/6551230/
+

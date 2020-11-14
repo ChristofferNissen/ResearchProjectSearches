@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Service provider devops
+     Author ['W John', 'G Marchetto', 'F Németh']
+     Venue IEEE …
+     Year 2017
+     Abstract For telecommunication ser- vice definitions and configurations this is especial- ly true due to the high spatial distribution and the lower levels of infrastructure redundancy in an operator environment compared to centralized DCs. The first SP-DevOps process we introduce is pre
+     Url https://ieeexplore.ieee.org/abstract/document/7823363/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Formal verification of virtual network function graphs in an sp-devops context
+     Author ['S Spinoso', 'M Virgilio', 'W John', 'A Manzalini']
+     Venue … Conference on Service …
+     Year 2015
+     Abstract In fact, DevOps paradigm, formerly developed for Data Centers (DCs), is getting momentum as a source of inspiration regarding how to simplify and automate management processes for future Telecommunications infrastructures
+     Url https://link.springer.com/chapter/10.1007/978-3-319-24072-5_18
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title The Systems Engineering DevOps Lemniscate and Model-Based System Operations
+     Author ['JTJ Mathieson', 'T Mazzuchi', 'S Sarkani']
+     Venue IEEE Systems Journal
+     Year 2020
+     Abstract A use-case leveraging this “model-based system operations” framework, shows how merg- ing support elements into a spacecraft system model improves adaptability during operations, exemplifying elements of a DevOps approach to cyber-physical system sustainment
+     Url https://ieeexplore.ieee.org/abstract/document/9179780/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title CloudWave: Where adaptive cloud management meets DevOps
+     Author ['D Bruneo', 'T Fritz', 'S Keidar-Barner']
+     Venue … IEEE Symposium on …
+     Year 2014
+     Abstract 7) The developers add new application management code that off-loads encryption operations from the cloud to smart phones when the CloudWave Execution Analyt- ics Subsystem indicates  In [20] and [21] authors provide an exhaustive description of the DevOps approach
+     Url https://ieeexplore.ieee.org/abstract/document/6912638/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title TEST AUTOMATION FOR CONTROL APPLICATIONS ON DISTRIBUTED CONTROL SYSTEM
+     Author ['L Juurinen']
+     Venue Feedback
+     Year 2020
+     Abstract API Application programming interface CI Continuous integration CPU Central processing unit DCS Distributed control system DDC Direct digital control DevOps Development and operations DNA Dynamic network of applications DSL Domain-specific language
+     Url https://trepo.tuni.fi/bitstream/handle/10024/120707/JuurinenLeo.pdf?sequence=2
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Emerging Trends, Challenges, and Experiences in DevOps and Microservice APIs
+     Author ['U Zdun', 'E Wittern', 'P Leitner']
+     Venue IEEE Software
+     Year 2019
+     Abstract IN AUGUST 2019, we organized the second Vienna Software Seminar (VSS) with the topic “DevOps and Microser- vice APIs.”1 Embracing the  The seminar's 34 participants included a mix of practitioners and academ- ics, who were invited based on their roles and experiences
+     Url https://ieeexplore.ieee.org/abstract/document/8938118/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Finetuning
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue DevOps for Digital Leaders
+     Year 2016
+     Abstract However, IoT project success depends on DevOps practitioners addressing some new challenges  IT speaks of Java, C++, NoSQL, and the IP stack, plant and industrial engineers talk of programmable logic controllers and supervisory control and data acquisition (SCADA)
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-1842-6_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Performance issues? Hey DevOps, mind the uncertainty
+     Author ['C Trubiani', 'P Jamshidi', 'J Cito', 'W Shang']
+     Venue IEEE …
+     Year 2018
+     Abstract This observation high- lights the importance of handling uncertainty in the DevOps process as well as determining the sources of uncertainty  A detailed experience has been presented in the Model-Based Adaptation for Robot- ics Software project (https://github .com/cmu-mars
+     Url https://ieeexplore.ieee.org/abstract/document/8501933/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Teaching DevOps and cloud computing using a cognitive apprenticeship and story-telling approach
+     Author ['HB Christensen']
+     Venue Proceedings of the 2016 ACM conference on …
+     Year 2016
+     Abstract is based upon these methods and outlined learning top- ics, concrete project examples of exercises, as well as exam and assessment structure. Finally, we have discussed lessons learned and argued that our approach is a viable and well- received way of teaching DevOps
+     Url https://dl.acm.org/doi/abs/10.1145/2899415.2899426
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title C2MON SCADA DEPLOYMENT ON CERN CLOUD INFRASTRUCTURE
+     Author ['M Bräger', 'E Mandilara', 'F Ehm', 'A Lossent']
+     Venue NA
+     Year 2017
+     Abstract et al., “SCADA Statistics Monitoring Using the Elastic Stack”, TUPHA034, Oct 2017, ICALEPCS'17, Barcelona, Spain. [6] A. Lahiff, “Monitoring with InfluxDB and Grafana”, Fall 2015, HEPiX Workshop, New York, USA. [7] S. Picozzi et al., “Source to Image”, in DevOps with
+     Url http://accelconf.web.cern.ch/AccelConf/ICALEPCS2017/papers/thbpl01.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards a DevOps Approach in Cyber Physical Production Systems Using Digital Twins
+     Author ['MU Querejeta', 'L Etxeberria', 'G Sagardui']
+     Venue International Conference on …
+     Year 2020
+     Abstract 2. Bitton, R., et al.: Deriving a cost-effective digital twin of an ICS to facilitate  Kim, G., Humble, J., Debois, P., Willis, J.: The DevOps Handbook: How to Create World-Class  H., Yan, D., Liu, Q., Chen, X., Zhang, D.: Digital twin-driven manufacturing cyber-physical system for parallel
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_15
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Next-generation process integration: CMMI and ITIL do devops
+     Author ['B Phifer']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract 1 These are among the many reasons why the devops movement is timely and relevant, since it aims to break down the barriers that stop organizations from effectively delivering working software to the busi- ness at the pace of the business  results in devops balance
+     Url http://twinkie.homedns.org/TechDocs/itj1108.pdf#page=28
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title A DevOps framework to shorten delivery time for cloud applications
+     Author ['S Hosono']
+     Venue International Journal of Computational Science …
+     Year 2012
+     Abstract A DevOps framework to shorten delivery time for cloud applications. Shigeru  Next section. This paper proposes DevOps platforms for cloud applications, integrating both the development and operation environment seamlessly. It
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCSE.2012.049753
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Non-intrusive anomaly detection with streaming performance metrics and logs for DevOps in public clouds: a case study in AWS
+     Author ['D Sun', 'M Fu', 'L Zhu', 'G Li', 'Q Lu']
+     Venue IEEE transactions on Emerging …
+     Year 2016
+     Abstract system monitoring and sampling in public clouds like Amazon EC2 [7]. Cloud computing has been broadly adopted for data analyt- ics for public service [8]–[10]  Page 2. Sun et al.: Non-Intrusive Anomaly Detection With Streaming Performance Metrics and Logs for DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/7389388/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards the adoption of DevOps in software product organizations: A Maturity Model Approach
+     Author ['R Feijter', 'R Vliet', 'E Jagroep', 'S Overbeek']
+     Venue Technical Report …
+     Year 2017
+     Abstract Page 1. Towards the adoption of DevOps in software product organizations: A maturity model approach Rico de Feijter Rob van Vliet  3508 TB Utrecht The Netherlands Page 3. Towards the adoption of DevOps in software product organizations: A maturity model approach
+     Url https://dspace.library.uu.nl/bitstream/handle/1874/359180/devops.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title JACoW: C2MON SCADA deployment on CERN cloud infrastructure
+     Author ['F Ehm', 'M Braeger', 'E Mandilara', 'A Lossent']
+     Venue NA
+     Year 2018
+     Abstract et al., “SCADA Statistics Monitoring Using the Elastic Stack”, TUPHA034, Oct 2017, ICALEPCS'17, Barcelona, Spain. [6] A. Lahiff, “Monitoring with InfluxDB and Grafana”, Fall 2015, HEPiX Workshop, New York, USA. [7] S. Picozzi et al., “Source to Image”, in DevOps with
+     Url https://cds.cern.ch/record/2305504
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Implementation of a large-scale platform for cyber-physical system real-time monitoring
+     Author ['M Canizo', 'A Conde', 'S Charramendieta', 'R Minon']
+     Venue IEEE …
+     Year 2019
+     Abstract III. BIG DATA ARCHITECTURE FOR AN INDUSTRIAL CYBER-PHYSICAL SYSTEM MONITORING This section details the proposed Big Data architecture for ICPS real  ie, anomaly alerts or current machine status), and medium to long-term information (ie, advanced analyt- ics)
+     Url https://ieeexplore.ieee.org/abstract/document/8693711/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Reference Architecture for Multi-cloud IOT Applications
+     Author ['GB Ghantous', 'AQ Gill']
+     Venue 2018 IEEE 20th Conference on …
+     Year 2018
+     Abstract Page 1. DevOps Reference Architecture for Multi-Cloud IOT Applications Georges Bou  Abstract— There is a growing interest among organizations in adopting DevOps approach for IoT (Internet of Things) applications. However, the
+     Url https://ieeexplore.ieee.org/abstract/document/8452669/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards Process Improvement in DevOps: A Systematic Literature Review
+     Author ['S Badshah', 'AA Khan', 'B Khan']
+     Venue … of the Evaluation and Assessment in …
+     Year 2020
+     Abstract [43] R. Feijter, R. Vliet, E. Jagroep, S. Overbeek, S. Brinkkemper, and others, “Towards the adoption of DevOps in software product organizations: A maturity model approach,” Technical Report Series, no. UU-CS-2017- 009. UU BETA ICS Departement Informatica, 2017
+     Url https://dl.acm.org/doi/abs/10.1145/3383219.3383280
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Open Source Architecture for Iot Based SCADA System for Smart Home
+     Author ['SD Grigorescu', 'GC Seritan', 'BA Enache']
+     Venue … Scientific Bulletin of …
+     Year 2020
+     Abstract [11] R. Ciucu et al., “Innovative Devops for Artificial Intelligence,” Sci. Bull. Electr  [13] S. Huda, J. Yearwood, MM Hassan, and A. Almogren, “Securing the operations in SCADA- IoT platform based industrial control system using ensemble of deep belief networks,” Appl
+     Url https://content.sciendo.com/view/journals/sbeef/20/1/article-p33.xml
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Service Observability By-Design: Experimenting with Model-View-Controller
+     Author ['DA Tamburri', 'MM Bersani', 'R Mirandola']
+     Venue European Conference on …
+     Year 2018
+     Abstract Softw. Eng. 19(1), 24–40 (1993). http://dblp.uni-trier.de/db/journals/tse/tse19.html#AtleeG93. 3. Bass, L., Weber, I., Zhu, L.: DevOps: A Software Architect's Perspective  http://cidoc.ics.forth. gr/data_transformations.html. 9. Floridi, L.: Information: A Very Short Introduction
+     Url https://link.springer.com/chapter/10.1007/978-3-319-99819-0_4
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Hands-on DevOps: Explore the concept of continuous delivery and integrate it with data science concepts
+     Author ['S Vadapalli']
+     Venue NA
+     Year 2017
+     Abstract Table of Contents Virtualized Packet Core (VPC) 319 Electric Imp 319 Predix 320 Eclipse IoT 321 SmartHome 321 Eclipse SCADA 321 Contiki 322  mode 331 Data management options 332 API interface 332 Service discovery 334 Summary 335 Chapter 10: DevOps for Digital
+     Url https://books.google.com/books?hl=fr&lr=&id=0i1EDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22DevOps%22&ots=rwUXp-WGWi&sig=VbqrpMpX8dFJPqQDRiY0Bm4zXV8
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Performance Issues? Hey DevOps, Mind the Uncertainty!
+     Author ['P Jamshidi', 'J Cito', 'W Shang', 'ZM Jiang']
+     Venue NA
+     Year 2019
+     Abstract This observation high- lights the importance of handling uncertainty in the DevOps process as well as determining the sources of uncertainty  A detailed experience has been presented in the Model-Based Adaptation for Robot- ics Software project (https://github .com/cmu-mars
+     Url https://users.encs.concordia.ca/~shang/pubs/ieeeswperf.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach
+     Author ['C Castellanos', 'CA Varela', 'D Correal']
+     Venue Proceedings of the 13th …
+     Year 2019
+     Abstract 4 A DEVOPS AND DSM APPROACH Our proposal offers a high-level approach to the DevOps practice, starting from architectural artifacts  4.1 Functional Viewpoint (FV) FV describes the functional components, connectors of the analyt- ics solution and their relationships in a
+     Url https://dl.acm.org/doi/abs/10.1145/3344948.3344986
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title From theory to practice: the challenges of a DevOps infrastructure as code implementation
+     Author ['C Siebra', 'R Lacerda', 'I Cerqueira']
+     Venue Proceedings of the 13 …
+     Year 2018
+     Abstract 3 DEVOPS IMPLEMENTATION: A CASE STUDY  430 Page 5. Then, we present the implementation of our infrastructure as code approach, which is based on the PowerShell DCS, and how this new strategy significantly improved our deployment process
+     Url https://www.scitepress.org/papers/2018/68261/68261.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title A State Report of DevOps Tooling
+     Author ['Z LI', 'S LI', 'S GU', 'HE ZHANG', 'TG WANG']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Adopting DevOps Principles, Practices and Tools. Case: Identity & Access Management
+     Author ['V Blomberg']
+     Venue in practice
+     Year 2019
+     Abstract Student number 509426 Number of pages 84 Title Adopting DevOps Principles, Practices and Tools. Case: Identity & Access Management Supervisor(s) Prof  Page 2. Page 3. ADOPTING DEVOPS PRINCIPLES, PRACTICES AND TOOLS Case: Identity & Access Management
+     Url https://www.utupub.fi/bitstream/handle/10024/148086/Blomberg_Vilma_Opinnayte.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Unifying cloud and carrier network: Eu fp7 project unify
+     Author ['A Császár', 'W John', 'M Kind', 'C Meirosu']
+     Venue 2013 IEEE/ACM 6th …
+     Year 2013
+     Abstract infrastructure. New management technologies based on experience from DCs, called Service Provider DevOps, will be developed and integrated into the orchestration architecture to cope with the dynamicity of services. The
+     Url https://ieeexplore.ieee.org/abstract/document/6809448/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Empowering Continuous Delivery in Software Development: The DevOps Strategy
+     Author ['C Siebra', 'R Lacerda', 'I Cerqueira', 'JP Quintino']
+     Venue … Conference on Software …
+     Year 2018
+     Abstract Then, we present the implementation of our infrastructure as code approach, which is based on the PowerShell DCS, and how this new strategy significantly improved our deployment process  Thus, DSC supports the DevOps principle of continuous deployment
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29157-0_11
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Applying a DEVelopment OPerationS (DevOps) Reference Architecture to Accelerate Delivery of Emerging Technologies in Data Analytics, Deep Learning, and …
+     Author ['K Rothenhaus', 'K De Soto', 'E Nguyen', 'J Millard']
+     Venue NA
+     Year 2018
+     Abstract New York, NY: Basic Books. Farcic, V. (2017). The DevOps 2.0 toolkit: Automating the continuous deployment pipeline with containerized microservices. Retrieved from http://www.amazon.com Perez, C. (2016)  Retrieved from https://seal.ics.uci.edu/dissertations/eric.pdf
+     Url https://dair.nps.edu/handle/123456789/1600
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title IAI DevOps: A Systematic Framework for Prognostic Model Lifecycle Management
+     Author ['Z Guo', 'T Bao', 'W Wu', 'C Jin', 'J Lee']
+     Venue 2019 Prognostics and System …
+     Year 2019
+     Abstract Available: http://aws.amazon.com/devops/what-is-devops/. [13] “DevOps for Hybrid Cloud: an IBM Point of View,” IBM, 2017  2012. [20] M. Schlechtingen, IF Santos, and S. Achiche, “Wind turbine condition monitoring based on SCADA data using normal behavior models
+     Url https://www.researchgate.net/profile/Ziqi_Guo/publication/337313206_IAI_DevOps_A_Systematic_Framework_for_Prognostic_Model_Lifecycle_Management/links/5dd13672a6fdcc7e1387de3c/IAI-DevOps-A-Systematic-Framework-for-Prognostic-Model-Lifecycle-Management.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract prohibited. ﻿ 18 Weaving Security into DevOps Practices in Highly Regulated Environments Jose  HRE-DevSecOps. KEyWORDS DevOps Assessment, DevOps, Highly Regulated Environment, SDLC, Secure DevOps Page 2
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Security in DevOps: understanding the most efficient way to integrate security in the agile software development process
+     Author ['M Schicchi', 'K Vallittu', 'B Crispo', 'P Sainio', 'S Virtanen']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Security in DevOps: understanding the  Page 2. UNIVERSITY OF TURKU Department of Future Technologies MIRKO SCHICCHI: Security in DevOps: understanding the most efficient way to inte- grate security in the agile software development process
+     Url https://www.utupub.fi/bitstream/handle/10024/150662/Schicchi_Mirko_Thesis.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title 보안을 고려한 무중단 환경에서 개발운영조직 통합관리 (DevOps)
+     Author ['전인석']
+     Venue 정보보호학회지
+     Year 2015
+     Abstract 따라서 본 연구에서는 개발운영조직 통합관리(DevOps) 방법론을 SCADA와 같이 운영자가 해당 분야의 전문성을 가지고, 무중단으로 운영되며, 수많은 변경이 반영되는 시스템에서 개발 및 운영을 통합하였을 때, 발생할 수 있는 문제점과 개선방안을 제시하고자 한다
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE06204578
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title How Should We Address Cybersecurity Risk in an Agile or DevOps Environment
+     Author ['C Woody']
+     Venue NA
+     Year 2018
+     Abstract How Should We Address Cybersecurity Risk in an Agile or DevOps Environment? Carol Woody, Ph.D. Page 2. 2  Please see Copyright notice for non-US Government use and distribution. Agile and DevOps Impacts Page 13. 13
+     Url https://apps.dtic.mil/sti/pdfs/AD1087752.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps and Its Practices
+     Author ['G Champlin-Scharff']
+     Venue Experience the Newest and Most Advanced …
+     Year 2016
+     Abstract 32 IEEE SOFTWARE| PUBLISHED BY THE IEEE COMPUTER SOCIETY 0740-7459/16/$33.00© 2016 IEEE FOCUS: GUEST EDITORS'INTRODUCTION DevOps and Its Practices Liming Zhu, Data61| CSIRO Len Bass, Professional Education Consortium George Champlin
+     Url http://magzdb.org/file/381755/dl#page=34
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Management and Development of DevOps and Traditional IT Project Paths
+     Author ['J Ahonen']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Jonna Ahonen Management and Development of DevOps and Traditional IT Project Paths  Abstract Author Title Number of Pages Date Jonna Ahonen Management and Development of DevOps and Traditional IT Project Paths 70 pages + 2 appendices 15 January 2020
+     Url https://www.theseus.fi/bitstream/handle/10024/271531/Ahonen_Jonna.pdf?sequence=2
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps-based Collaboration for Building and Operating SDN-enabled Multisite Cloud Playground
+     Author ['AC Risdianto']
+     Venue NA
+     Year 2019
+     Abstract Page 1. Dissertation for Doctor of Philosophy DevOps-based Collaboration for Building and Operating SDN-enabled Multisite Cloud Playground  2019 Page 2. DevOps-based Collaboration for Building and Operating SDN-enabled Multisite Cloud Playground
+     Url https://www.researchgate.net/profile/Aris_Risdianto/publication/342412235_DevOps-based_Collaboration_for_Building_and_Operating_SDN-enabled_Multisite_Cloud_Playground/links/5ef32a7ca6fdcc158d26182e/DevOps-based-Collaboration-for-Building-and-Operating-SDN-enabled-Multisite-Cloud-Playground.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title PLC Virtualization and Software Defined Architectures in Industrial Control Systems
+     Author ['M Peltonen']
+     Venue NA
+     Year 2017
+     Abstract CAPEX Capital expense CPS Cyber-physical system DCS Distributed control system  HMI Human Machine Interface ICS Industrial Control System IIoT Industrial Internet of Things  RTOS Real-Time Operating System SCADA Supervisory Control and Data Acquisition
+     Url https://www.theseus.fi/handle/10024/134029
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title How many printers are on my network?.
+     Author ['DJ Fritz']
+     Venue NA
+     Year 2019
+     Abstract 1 gRER As a national laboratory... • DevOps: Can we pre-flight new hardware, software, services, to ensure operation in high consequence environments? Can we conduct predictive  ICS/SCADA: What are the best countermeasures for my IT-connected ICS
+     Url https://www.osti.gov/servlets/purl/1639725
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Cyber-Physical System and Internet of Things Security
+     Author ['T Ulz', 'S Haas', 'C Steger']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Smart Grid Communication Protocol Test Automation along with Protection Test Automation
+     Author ['SM Naik', 'M Fernandes']
+     Venue 2019 3rd International …
+     Year 2019
+     Abstract The prime objective is to make use of DevOps concepts to automate the Protection Testing operation by integrating it with the Communication operation  Keywords— Automation; SCADA; Modbus; IEC60870-5-103; DNP3; OCC(Omicron Control Centre);
+     Url https://ieeexplore.ieee.org/abstract/document/8862793/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Unifying cloud and carrier network
+     Author ['A Császár', 'W John', 'M Kind', 'C Meirosu']
+     Venue Proceedings of. DCC …
+     Year 2013
+     Abstract infrastructure. New management technologies based on experience from DCs, called Service Provider DevOps, will be developed and integrated into the orchestration architecture to cope with the dynamicity of services. The
+     Url https://www.researchgate.net/profile/Wolfgang_John/publication/269308547_Unifying_cloud_and_carrier_network_EU_FP7_Project_UNIFY/links/548c24fc0cf225bf669f8e53.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Teaching Students How to Communicate Better Through Software Models
+     Author ['A Lopes', 'E Oliveira', 'T Conte', 'CS de Souza']
+     Venue NA
+     Year 2019
+     Abstract Page 5. 5 Teachers and professionals interested in using the DCs can obtain them in [10]  28 (5), 2010, pp. 422–427. [2] E. Diel, S. Marczak, DS Cruzes, “Communication Challenges and Strategies in Distributed DevOps”, Proceedings of the 11th International Conference on
+     Url http://projetos.icomp.ufam.edu.br/uses/wp-content/uploads/2019/01/TR-USES-2019-0001.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title EPOS: a FAIR Research Infrastructure for data, data products, software and service integration in the solid Earth domain.
+     Author ['D Bailo', 'K Jeffery', 'R Paciell']
+     Venue Geophysical …
+     Year 2019
+     Abstract 4] for enabling communication among microservices, and Docker for virtualisation in the framework of a DevOps deployment method, actually enacted with GitLab CI/CD11 [5].In this contribution we will present the main technical aspects of the EPOS ICS architecture, the overall
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10297006&AN=140482528&h=XycJYNyVgNBccLLgtqB1rfC8qE6C1zUFwkffSjRgGlLfBD6oN9zsvcSIPbX5jfrOBjI2Pz8jsX5gG7G%2FW%2FcEbQ%3D%3D&crl=c
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Estudi sobre la implementació de DevOps amb contenidors de microserveis en un departament de TI
+     Author ['J Fajardo Zacarias']
+     Venue NA
+     Year NA
+     Abstract Nova filosofia: DevOps: Estudi sobre  GTMS) de l'Institut Català de la Salut (a partir d'ara ICS), del que formo part com a responsable tècnic de l'àrea de desenvolupament, dona servei a l'Hospital Universitari de Bellvitge, l'Hospital de Viladecans i la Direcció d'Atenció Primària
+     Url http://openaccess.uoc.edu/webapps/o2/handle/10609/97566
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Dynamic Capabilities related to converging software markets
+     Author ['M Smith']
+     Venue NA
+     Year 2018
+     Abstract Future Research Research is on an upward trajectory for dynamic capabilities as shown in this paper. Similar to DevOps DCs rely on information flow and trust as well as incorporation of that information (reconfiguration) to truly be successful and differentiated
+     Url https://pdxscholar.library.pdx.edu/etm_studentprojects/2214/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Self-reconfiguring microservices
+     Author ['M Gabbrielli', 'S Giallorenzo', 'C Guidi', 'J Mauro']
+     Venue Theory and Practice of …
+     Year 2016
+     Abstract Indeed, deploying on the same DC respectively two Post services and two Comments services can lead to outages in case of high load or crash of one of the DCs. Hence, the DevOps wants to specify that services of the same kind should be deployed on different machines
+     Url https://link.springer.com/chapter/10.1007/978-3-319-30734-3_14
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title I made the very model but the model was too general.
+     Author ['DJ Fritz']
+     Venue NA
+     Year 2018
+     Abstract DevOps: Can we pre-flight new hardware, software, services, to ensure operation in high consequence environments  ICS/SCADA: What are the best countermeasures for my IT-connected ICS systems, despite not having certainty about the threat
+     Url https://www.osti.gov/servlets/purl/1507830
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Product+Line"+"Continuous"
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Continuous test suite augmentation in software product lines
+     Author ['Z Xu', 'MB Cohen', 'W Motycka', 'G Rothermel']
+     Venue … Software Product Line …
+     Year 2013
+     Abstract Software Product Line (SPL) engineering offers several advantages in the development of families of software products. There is still a need, however, to generate test cases for individual products in product lines more efficiently. In this paper we propose an
+     Url https://dl.acm.org/doi/abs/10.1145/2491627.2491650
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Comparison of software product line architecture design methods: COPA, FAST, FORM, KobrA and QADA
+     Author ['M Matinlassi']
+     Venue Proceedings. 26th International Conference on …
+     Year 2004
+     Abstract Product Line Architecture Design Methods: COPA, FAST, FORM, KobrA and QADA Mari Matinlassi VTT Technical Research Centre of Finland, PO Box1100, 90571-Oulu FIN Mari.Matinlassi@vtt. fi Abstract Product line architectures (PLAs) have been under continuous attention
+     Url https://ieeexplore.ieee.org/abstract/document/1317435/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Continuous and discontinuous software evolution: aspects of software evolution across multiple product lines
+     Author ['M Aoyama']
+     Venue Proceedings of the 4th international workshop on …
+     Year 2001
+     Abstract Further study on the continuous and discontinuous evolutions will be necessary  [7] LM Northrop, A Framework for Software Product Line Practice, V. 3.0, Software Engineering Institute, http:// www.sei.cmu.edu/plp/framework.html
+     Url https://dl.acm.org/doi/abs/10.1145/602461.602477
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Running a software product line: standing still is going backwards
+     Author ['HP Jepsen', 'D Beuche']
+     Venue … of the 13th International Software Product Line …
+     Year 2009
+     Abstract Project managers and line managers unfamiliar with software in general and software product line in particular had a hard time accepting the continuous change in the code base as value creating, especially with the verification part lacking
+     Url https://dl.acm.org/doi/abs/10.5555/1753235.1753250
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Using composite feature models to support agile software product line evolution
+     Author ['S Urli', 'M Blay-Fornarino', 'P Collet']
+     Venue Proceedings of the 6th …
+     Year 2012
+     Abstract Sébastien Mosser SINTEF ICT Oslo, Norway sebastien.mosser@sintef.no ABSTRACT Managing continuous change in a Software Product Line (SPL) is one of the challenges now faced by the SPL en- gineering community
+     Url https://dl.acm.org/doi/abs/10.1145/2523599.2523604
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software product line evolution method based on kaizen approach
+     Author ['M Inoki', 'Y Fukazawa']
+     Venue Proceedings of the 2007 ACM symposium on …
+     Year 2007
+     Abstract Our core asset kaizen method provides a standard that includes core asset types based on simple metrics, kaizen patterns representing expertise, and kaizen processes for continuous improvement  Keywords Software product line, Evolution, Core asset, Kaizen, Pattern
+     Url https://dl.acm.org/doi/abs/10.1145/1244002.1244266
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Structuring the modeling space and supporting evolution in software product line engineering
+     Author ['D Dhungana', 'P Grünbacher', 'R Rabiser']
+     Venue Journal of Systems and …
+     Year 2010
+     Abstract Here, we further elaborate the underlying issues and present our experiences of applying the tool-supported approach for a real-world product line of Siemens VAI. The company is maintaining a software product line for the automation of continuous casting in steel plants
+     Url https://www.sciencedirect.com/science/article/pii/S0164121210000506
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Tracking evolution in model-based product lines
+     Author ['W Heider', 'R Rabiser', 'D Dhungana', 'P Grünbacher']
+     Venue NA
+     Year 2009
+     Abstract New customer requirements, new products derived, technology changes, and internal enhancements lead to continuous changes of the artifacts and models constituting a product line. Managing such changes therefore becomes a key issue during a product line's evolution
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.208.6986
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Supporting evolution in model-based product line engineering
+     Author ['D Dhungana', 'T Neumayer']
+     Venue … Software Product …
+     Year 2008
+     Abstract 319 12th International Software Product Line Conference 978-0-7695-3303-2/08 $25.00 © 2008 IEEE DOI 10.1109/SPLC.2008.26 319 Page 2. plant building company. The company is maintaining a software product line supporting continuous casting in steel plants
+     Url https://ieeexplore.ieee.org/abstract/document/4626865/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software product line engineering approach for enhancing agile methodologies
+     Author ['J Martinez', 'J Diaz', 'J Perez', 'J Garbajosa']
+     Venue International Conference on …
+     Year 2009
+     Abstract (2002) 5. Duvall, P., Matyas, S., Glover, A.: Continuous Integration: Improving Software Quality and Reducing Risk. Addison-Wesley Professional, Reading (2007) 6. Pohl, K., Böckle, G., Linden, F.: Software Product Line Engineering: Foundations, Principles and Techniques
+     Url https://link.springer.com/chapter/10.1007/978-3-642-01853-4_52
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software process improvement and product line practice: CMMI and the framework for software product line practice
+     Author ['LG Jones', 'AL Soule']
+     Venue NA
+     Year 2002
+     Abstract The Software Engineering Institute has captured the essential product line activities and practices in A Framework for Software Product Line Practice  Structurally, each CMMI model comes in two representations: a staged representation and a continuous representation
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a403868.pdf
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Model-driven planning and monitoring of long-term software product line evolution
+     Author ['M Schubanz', 'A Pleuss', 'L Pradhan']
+     Venue Proceedings of the …
+     Year 2013
+     Abstract Long-term Software Product Line Evolution  We extend earlier work by broadening the scope in two dimensions: 1) in time, supporting continuous plan- ning over long periods of time and many releases, and 2) in space, supporting traces from high-level decisions down to the
+     Url https://dl.acm.org/doi/abs/10.1145/2430502.2430527
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Integrated tool support for software product line engineering
+     Author ['D Dhungana', 'R Rabiser', 'P Grünbacher']
+     Venue Proceedings of the …
+     Year 2007
+     Abstract Page 1. Integrated Tool Support for Software Product Line Engineering  533 Page 2. taken for granted. Rather, we have observed continuous evolution of the product line in both domain and application engineering activities. Figure 1. Architecture of the DOPLER PLE tool suite
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321730
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Institutionalization of software product line: An empirical investigation of key organizational factors
+     Author ['F Ahmed', 'LF Capretz', 'SA Sheikh']
+     Venue Journal of Systems and Software
+     Year 2007
+     Abstract Elsevier. Journal of Systems and Software. Volume 80, Issue 6, June 2007, Pages 836-849. Journal of Systems and Software. Institutionalization of software product line: An empirical investigation of key organizational factors  1.1. Institutionalization of software product line
+     Url https://www.sciencedirect.com/science/article/pii/S0164121206002627
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software product lines in action: the best industrial practice in product line engineering
+     Author ['FJ Van der Linden', 'K Schmid', 'E Rommes']
+     Venue NA
+     Year 2007
+     Abstract After you read this book and launch a successful software product line of your own, you'll be proud to call them colleagues too. Austin, Texas, January 2007 Paul Clements Page 7. Preface The software industry is challenged with a continuous drive to improve its en- gineering
+     Url https://books.google.com/books?hl=en&lr=&id=7sU8TEyyHCsC&oi=fnd&pg=PR2&dq=%22Software+Product+Line%22+%22Continuous%22&ots=XT-jIVIE4m&sig=ilpY6oHKdJuH0kESHXceLjHLDBg
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Organizational testing management maturity model for a software product line
+     Author ['E Lamas', 'É Ferreira', 'MR do Nascimento']
+     Venue 2010 Seventh …
+     Year 2010
+     Abstract OTM3 is a framework for interactive, incremental, and continuous models  Keywords: Software Testing, Maturity Models for Software Testing, Software Product Line, Experimental Software Engineering, Process Management with Testing. 1. Introduction
+     Url https://ieeexplore.ieee.org/abstract/document/5501496/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Opening up software product line engineering
+     Author ['GK Hanssen']
+     Venue Proceedings of the 2010 ICSE Workshop on Product …
+     Year 2010
+     Abstract Especially the emphasis on short iterations and continuous feedback from involved customers has opened up the information flow dramatically  However, as Jan Bosch says: “..,there is no reason why a software product line would have to stop expanding at the organizational
+     Url https://dl.acm.org/doi/abs/10.1145/1808937.1808938
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Process fusion: An industrial case study on agile software product line engineering
+     Author ['GK Hanssen', 'TE Fægri']
+     Venue Journal of Systems and Software
+     Year 2008
+     Abstract This paper discusses two popular development approaches; software product line engineering (SPLE) and agile software development (ASD)  Agile principle, SPLE correspondence. Priority on early and continuous delivery of valuable software, Dependent upon SPLE approach
+     Url https://www.sciencedirect.com/science/article/pii/S0164121207002518
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Towards autonomic software product lines
+     Author ['N Abbas']
+     Venue … of the 15th International Software Product Line …
+     Year 2011
+     Abstract The ASPL is a dynamic software product line that supports self adaptable products  We pro- pose on-line knowledge sharing among products in a product line to achieve continuous improvement of quality in product line products
+     Url https://dl.acm.org/doi/abs/10.1145/2019136.2019187
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Minimally invasive migration to software product lines
+     Author ['HP Jepsen', 'JG Dall', 'D Beuche']
+     Venue … Software Product Line …
+     Year 2007
+     Abstract 11th International Software Product Line Conference 0-7695-2888-0/07 $25.00 © 2007 IEEE DOI 10.1109/SPLINE.2007.30 203 Page 2  The software architecture has three main parts (see Figure 2). One is the continuous processing part, which is time-driven at a very high rate
+     Url https://ieeexplore.ieee.org/abstract/document/4339269/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Integrating software product line engineering and agile development
+     Author ['K Mohan', 'B Ramesh', 'V Sugumaran']
+     Venue IEEE software
+     Year 2010
+     Abstract adaptation Successful practices in the process that integrates software product line engineering and agile methods  complexity. ■ Continuous system adaptation to respond to dynamics of the external environment though positive feedback
+     Url https://ieeexplore.ieee.org/abstract/document/5406496/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Testing High-Reliability software for continuous casting steel plants-experiences and lessons learned from siemens VAI
+     Author ['S Larndorfer', 'R Ramler', 'C Federspiel']
+     Venue 33rd EUROMICRO …
+     Year 2007
+     Abstract As the world's leading supplier of metallurgical plants, Siemens VAI provides integrated and univer- sally applicable continuous casting systems for the steel industry  Over the last recent years Siemens VAI de- veloped a flexible software product line
+     Url https://ieeexplore.ieee.org/abstract/document/4301087/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Modelling and using product line variability in automotive systems
+     Author ['S Thiel', 'A Hein']
+     Venue IEEE software
+     Year 2002
+     Abstract A software product line is a set of software- intensive products that share a common, man- aged feature set that satisfies the specific needs of a particular market segment  He has worked on several European software product line projects, including PRAISE, ESAPS, and CAFÉ
+     Url https://ieeexplore.ieee.org/abstract/document/1020289/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Introducing agile customer‐centered development in a legacy software product line
+     Author ['J Bosch', 'PM Bosch‐Sijtsema']
+     Venue Software: Practice and …
+     Year 2011
+     Abstract Introducing agile customer‐centered development in a legacy software product line  refer to as integration‐oriented software engineering, ie treating the entire SPL as one, often large, tightly coupled set of software assets that require virtually continuous coordination between
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.1063
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title An agile process model for product derivation in software product line engineering
+     Author ["P O'Leary", 'F McCaffery', 'S Thiel']
+     Venue Journal of Software …
+     Year 2012
+     Abstract In conjunction with the 2006 Software Product Line Conference (SPLC), a new workshop was arranged called Agile Product Line Engineering (APLE)  In this section, we discuss the following Agile elements of the A‐Pro‐PD: Adoption of early and continuous delivery strategy;
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.498
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A longitudinal case study of an emerging software ecosystem: Implications for practice and theory
+     Author ['GK Hanssen']
+     Venue Journal of Systems and Software
+     Year 2012
+     Abstract It also showed that the relationships with the stakeholders were fragile, and that it takes continuous and careful management to  system where the supplier and the stakeholders mutually adapt to each other through their shared interest in developing the software product line
+     Url https://www.sciencedirect.com/science/article/pii/S0164121211000963
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Variability management in an unaware software product line company: an experience report
+     Author ['D Benavides', 'JA Galindo']
+     Venue … of the Eighth International Workshop on …
+     Year 2014
+     Abstract Especially important is to define and describe how a CI approach can cohabit with a software product line engineering one. Research opportunity : Studying how continuous inte- gration and delivery practices can be combined with software product line practices
+     Url https://dl.acm.org/doi/abs/10.1145/2556624.2556633
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Incremental return on incremental investment: Engenio's transition to software product line practice
+     Author ['WA Hetrick', 'CW Krueger', 'JG Moore']
+     Venue Companion to the 21st ACM …
+     Year 2006
+     Abstract The configurator enables continuous builds for the entire portfolio (analogous to continuous builds of individual products in agile  Software product line development approaches provide a shift in perspective, so that development organization can engineer their entire portfolio as
+     Url https://dl.acm.org/doi/abs/10.1145/1176617.1176726
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software product line engineering and variability management: achievements and challenges
+     Author ['A Metzger', 'K Pohl']
+     Venue Future of Software Engineering Proceedings
+     Year 2014
+     Abstract ing: How to facilitate continuous interactions between domain requirements engineering and product management  How to handle the intertwining of requirements engineering and design in software product line engineering
+     Url https://dl.acm.org/doi/abs/10.1145/2593882.2593888
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Project management in a software product line organization
+     Author ['PC Clements', 'LG Jones', 'LM Northrop']
+     Venue IEEE …
+     Year 2005
+     Abstract Although AGM had much game domain experience, it had no software product line or software ar- chitecture experience  daily builds in the product development projects, ■ continuous testing in the core asset proj- ects, and ■ explicit contracts for the interfaces be- tween
+     Url https://ieeexplore.ieee.org/abstract/document/1504664/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title An overview of Dynamic Software Product Line architectures and techniques: Observations from research and industry
+     Author ['R Capilla', 'J Bosch', 'P Trinidad', 'A Ruiz-Cortés']
+     Venue Journal of Systems and …
+     Year 2014
+     Abstract Advanced. Elsevier. Journal of Systems and Software. Volume 91, May 2014, Pages 3-23. Journal of Systems and Software. An overview of Dynamic Software Product Line architectures and techniques: Observations from research and industry
+     Url https://www.sciencedirect.com/science/article/pii/S0164121214000119
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A framework for software product line practice, version 5.0
+     Author ['L Northrop', 'P Clements', 'F Bachmann']
+     Venue SEI.–2007–http …
+     Year 2007
+     Abstract Web site, where you can download the latest publications and more product line case studies and learn about upcoming events • a five-course Software Product Line Curriculum, with  “Software System Integration” was expanded to discuss continuous, iterative integration, and
+     Url https://resources.sei.cmu.edu/asset_files/WhitePaper/2012_019_001_495381.pdf
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Towards agile product derivation in software product line engineering
+     Author ["P O'Leary", 'F Mc Caffery', 'I Richardson', 'S Thiel']
+     Venue NA
+     Year 2009
+     Abstract To facilitate early and continuous delivery of software, the product team would not wait for scoping decisions from the CCB  and variability inherent in software product lines and according to Kurmann [6], automation is the most important aspect of an Agile software product line
+     Url http://193.1.102.107/handle/10344/1844
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Applied software product line engineering
+     Author ['KC Kang', 'V Sugumaran', 'S Park']
+     Venue NA
+     Year 2009
+     Abstract Page 1. Applied Software Product Line Engineering | | | | | _|_ _ _ | | | | | Edited by Kyo C. Kang Vijayan Sugumaran Sooyong Park Page 2. Applied Software Product Line Engineering Page 3. Page 4
+     Url https://books.google.com/books?hl=en&lr=&id=7XO_ghvkpt4C&oi=fnd&pg=PP1&dq=%22Software+Product+Line%22+%22Continuous%22&ots=doTl55wKxa&sig=4IwxfGKLZq5Is25MY0dv2uauNFU
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Managing the business of software product line: An empirical investigation of key business factors
+     Author ['F Ahmed', 'LF Capretz']
+     Venue Information and Software Technology
+     Year 2007
+     Abstract orientation is not only a first-time activity, such as the launching of a new product, but it is a continuous process of  The software product line deals with developing a considerable number of products to capture various market segments, thus providing justification for a product line
+     Url https://www.sciencedirect.com/science/article/pii/S0950584906000759
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Search based software engineering for software product line engineering: a survey and directions for future work
+     Author ['M Harman', 'Y Jia', 'J Krinke', 'WB Langdon']
+     Venue … Software Product Line …
+     Year 2014
+     Abstract We have attempted to be comprehensive, in the sense that we have sought to include all papers that ap- ply computational search techniques to problems in software product line engineering  Many approaches to software product line engineering fo- cus on feature models
+     Url https://dl.acm.org/doi/abs/10.1145/2648511.2648513
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A dynamic software product line approach using aspect models at runtime
+     Author ['T Dinkelaker', 'R Mitschke', 'K Fetzer']
+     Venue Proceedings of the 1st …
+     Year 2010
+     Abstract Software Product Line Engineering, Dynamic Fea- ture Models, Domain-Specific Languages 1. INTRODUCTION Large scale information technology infrastructures are the backbone of many enterprise processes. Yet these systems are driven to continuous adaptation, due to
+     Url http://www.i3s.unice.fr/Composition&Variability/cameraReady/compositionvariability2010_submission_4.pdf
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Optimization of variability in software product lines
+     Author ['F Loesch', 'E Ploedereder']
+     Venue … International Software Product Line …
+     Year 2007
+     Abstract During the last few years software product line engineer- ing has rapidly emerged as an important software devel- opment paradigm because it promises significant improve- ments in time-to  One of the reasons for this high complexity is that, due to continuous evolution of
+     Url https://ieeexplore.ieee.org/abstract/document/4339264/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title HATS-a formal software product line engineering methodology
+     Author ['D Clarke', 'N Diakov', 'R Hähnle']
+     Venue … in Software Product …
+     Year 2010
+     Abstract The HATS methodology emphasizes a formal software product line engineering approach  The HATS methodology aims to support continuous de- velopment of the product line itself as well as of individual family members
+     Url https://lirias.kuleuven.be/1655570?limo=0
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Control channel toolkit: a software product line case study
+     Author ['P Clements', 'S Cohen', 'P Donohoe', 'L Northrop']
+     Venue NA
+     Year 2001
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Using microservices and software product line engineering to support reuse of evolving multi-tenant saas
+     Author ['LP Tizzei', 'M Nery', 'VCVB Segura']
+     Venue … Software Product Line …
+     Year 2017
+     Abstract Thus, some works [18, 23, 38] integrate SOA and software product line aiming at offering shared applications instances that are still dynamically configurable to  Automation can rely on continuous delivery processes and tools [12], such as Travis CI3 and Jenkins4; • Isolate failure
+     Url https://dl.acm.org/doi/abs/10.1145/3106195.3106224
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A cooperative model for cross-divisional product development for a software product line
+     Author ['P Toft', 'D Coleman', 'J Ohta']
+     Venue Software Product Lines
+     Year 2000
+     Abstract Page 1. A Cooperative Model for Cross-Divisional Product Development for a Software Product Line Peter Toft, Derek Coleman, and Joni Ohta Product Generation Consulting, Hewlett-Packard, Palo Alto, USA peter@tofty.com, {derek_coleman, jonCohta}@hp.com
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4339-8_6
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title An organizational maturity model of software product line engineering
+     Author ['F Ahmed', 'LF Capretz']
+     Venue Software Quality Journal
+     Year 2010
+     Abstract OF.5.3 Organizational Learning. S.5.3.1 Research and development in the software product line is a continuous process within the organization. S.5.3.2 The organization is committed to learning and improving the level of knowledge in the area of software product lines. S.5.3.3
+     Url https://link.springer.com/article/10.1007/s11219-009-9088-5
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Predicting failure-proneness in an evolving software product line
+     Author ['S Krishnan', 'C Strasburg', 'RR Lutz']
+     Venue Information and …
+     Year 2013
+     Abstract At least in part, this may be due to the continuous change, even for commonalities and high-reuse variation components, which we previously have shown to exist  1. Introduction. A software product line displays a high degree of commonality among the products that comprise it
+     Url https://www.sciencedirect.com/science/article/pii/S0950584912002340
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A business maturity model of software product line engineering
+     Author ['F Ahmed', 'LF Capretz']
+     Venue Information Systems Frontiers
+     Year 2011
+     Abstract Business requires continuous monitoring and evaluating of customers, competitors, market segment, marketing strategies, financial, assets  Business assessment is essential for improving the overall software product line engineering process because it provides informa- tion
+     Url https://link.springer.com/content/pdf/10.1007/s10796-010-9230-8.pdf
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Software entropy in agile product evolution
+     Author ['G Hanssen', 'AF Yamashita', 'R Conradi']
+     Venue 2010 43rd Hawaii …
+     Year 2010
+     Abstract degrade over time due to continuous change. This may on one side affect the ability to act agile in planning and development. On the other side, an agile process may affect growth of entropy. We report from a case study of a successful software product line organization that
+     Url https://ieeexplore.ieee.org/abstract/document/5428534/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Salion, inc.: A software product line case study
+     Author ['PC Clements', 'LM Northrop']
+     Venue NA
+     Year 2002
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Organizational behavior & software product line engineering: An empirical study
+     Author ['F Ahmed', 'S Bouktif', 'LF Capretz']
+     Venue 2009 IEEE/ACS International …
+     Year 2009
+     Abstract concept. 11. Organization learns from its experience and lessons and avoids making mistakes again and gain. 12. Research and development in software product line is a continuous process in the organization. References
+     Url https://ieeexplore.ieee.org/abstract/document/5069359/
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title A reusable software architecture for geographic information systems based on software product line engineering
+     Author ['NR Brisaboa', 'A Cortiñas', 'MR Luaces']
+     Venue Model and Data …
+     Year 2015
+     Abstract In the last years there has been a continuous growth in functionality of geographic information systems (GIS) resulting in many  and requirements and therefore it is possible to apply techniques based on intensive software reuse, such as software product line engineering (SPLE
+     Url https://link.springer.com/chapter/10.1007/978-3-319-23781-7_26
+
+
+     Search term "Software+Product+Line"+"Continuous"
+     Title Effectively Testing for a Software Product Line with OTM3 Organizational Testing Management Maturity Model
+     Author ['E Lamas', 'LAV Dias']
+     Venue 2011 Eighth International …
+     Year 2011
+     Abstract Software Product Line can be effectively tested with a framework utilization following Experimental Software Engineering concepts  These goals are achieved according to standards, measures, controls, and continuous improvements
+     Url https://ieeexplore.ieee.org/abstract/document/5945246/
+

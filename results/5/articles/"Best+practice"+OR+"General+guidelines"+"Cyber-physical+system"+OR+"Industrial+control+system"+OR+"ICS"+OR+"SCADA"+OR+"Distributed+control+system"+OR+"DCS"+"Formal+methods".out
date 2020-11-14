@@ -1,0 +1,451 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Data-centered runtime verification of wireless medical cyber-physical system
+     Author ['Y Jiang', 'H Song', 'R Wang', 'M Gu']
+     Venue IEEE transactions on …
+     Year 2016
+     Abstract It combines formal methods in software engineering and practice guide- lines in medicine to  patient and runtime verification is adapted to cooperate with wireless medical cyber-physical system  complex temporal properties within a clinical scenario of best practice guideline are
+     Url https://ieeexplore.ieee.org/abstract/document/7480373/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Transforming medical best practice guidelines to executable and verifiable statechart models
+     Author ['C Guo', 'S Ren', 'Y Jiang', 'PL Wu', 'L Sha']
+     Venue 2016 ACM/IEEE 7th …
+     Year 2016
+     Abstract and provide medical staff with appropriate suggestions. However, how to encode best practice guidelines correctly is still a challenge in medical cyber-physical system design. Over last decade, text-based best practice guidelines
+     Url https://ieeexplore.ieee.org/abstract/document/7479121/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title DEVELOPING AND ASSESSING SAFETY CRITICAL SYSTEMS WITH FORMAL METHODS: THE SAFEFM PROJECT
+     Author ['V Stavridou', 'A Boothroyd', 'T Boyce', 'P Bradleyz']
+     Venue NA
+     Year NA
+     Abstract formal methods into existing best practice and the Work partially sponsored by EPSRC Grant No GR/H11471 under DTI Project No IED4/1/9013 yDepartment of Computer Science, Royal Holloway, University of London, Egham Hill, Egham, Surrey TW20 0EX (email bruno@dcs
+     Url http://www.csl.sri.com/users/bruno/publis/dagstuhl.ps.gz
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Trustworthy software systems
+     Author ['L Bernstein']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2005
+     Abstract the combination of formal methods with fault tolerance techniques, the development of formal methods sup- port  Research Professor Stevens Institute of Technology Hoboken, NJ 07030 http://www.ics.uci.edu  Yet the “best practice” results of this work are often not used in system
+     Url https://dl.acm.org/doi/pdf/10.1145/1039174.1039176
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Clear as MUD: generating, validating and applying IoT behavioral profiles
+     Author ['A Hamza', 'D Ranathunga', 'HH Gharakheili']
+     Venue Proceedings of the …
+     Year 2018
+     Abstract CCS CONCEPTS • Security and privacy → Formal methods and theory of security; KEYWORDS  We define a MUD rule to be SCADA (or Enterprise) zone com- patible if its corresponding traffic flow complies with SCADA (or Enterprise) best practice policy
+     Url https://dl.acm.org/doi/abs/10.1145/3229565.3229566
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Reqcap: Hierarchical requirements modeling and test generation for industrial control systems
+     Author ['A Almohammad', 'JF Ferreira']
+     Venue 2017 IEEE 25th …
+     Year 2017
+     Abstract in an in- dustrial context (at Applied Integration UK) and captures best practice gathered by  by an academic team from Teesside University who specialise in formal methods in software  starts/stops the pumps and sets the speed from a distributed control system (DCS) console
+     Url https://ieeexplore.ieee.org/abstract/document/8054877/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title An architecture framework for enterprise IT service availability analysis
+     Author ['U Franke', 'P Johnson', 'J König']
+     Venue Software & Systems Modeling
+     Year 2014
+     Abstract Royal Institute of Technology, Stockholm, Sweden e-mail: ulrikf@ics.kth.se P. Johnson e-mail: pj101@ics.kth.se J. König e-mail: johank@ics.kth.se  Table 1 Systemic causal factors with probabilities for refined Noisy- OR model Causal factor Xi pi (%) Lack of best practice
+     Url https://link.springer.com/content/pdf/10.1007/s10270-012-0307-3.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Proof patterns for formal methods
+     Author ['L Freitas', 'I Whiteside']
+     Venue International Symposium on Formal Methods
+     Year 2014
+     Abstract patterns represent a highly successful technique in software engineering, giving a reusable 'best practice' solution to  In formal methods, proof obligations tend to be large with lots of information present in  In mathemat- ics, this often occurs when trying to get rid of some difficult
+     Url https://link.springer.com/chapter/10.1007/978-3-319-06410-9_20
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Safety-critical interaction: usability in incidents and accidents
+     Author ['P Palanque', 'F Koornneef', 'C Johnson']
+     Venue CHI'04 Extended …
+     Year 2004
+     Abstract 141 330 4913, Email: johnson@dcs.gla.ac.uk Web: http://www.dcs.gla.ac  a forum for academics and industrials to exchange research problem as well as best practice in the  On the other hand conferences on formal methods or software engineering address the issues raised by
+     Url https://dl.acm.org/doi/abs/10.1145/985921.986165
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Trusting the internet of things
+     Author ['I Bojanova', 'J Voas']
+     Venue IT Professional
+     Year 2017
+     Abstract Finally, the third force is autonomy, robot- ics, and artificial intelligence (AI)  IoT while maintaining the rigor of best practice in risk assessment  While there are those who champion formal methods, we wonder whether formal methods will become practical enough to be employed
+     Url https://ieeexplore.ieee.org/abstract/document/8057730/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Methods for safe control systems design and implementation
+     Author ['JM Faure', 'JJ Lesage']
+     Venue IFAC Proceedings Volumes
+     Year 2001
+     Abstract This model indeed provides general guidelines to develop a system in a structured way  commonly used during the design and the implementation of an industrial control system and the  The first class oathers the formal methods for automatic synthesis of b control systems
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017332755
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title An e-learning portal for nurses in Singapore General Hospital
+     Author ['LG Tan', 'A Teow']
+     Venue Studies in health technology and informatics
+     Year 2006
+     Abstract Formal methods of knowledge sharing comprise online learning through interactive training modules and slides  offers many opportunities for developing nursing practice, and for sharing best practice around the world  NPV Analysis for E-Learning Projects, ICS Multimedia Inc
+     Url https://books.google.com/books?hl=nl&lr=&id=GQTvAgAAQBAJ&oi=fnd&pg=PA415&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=PwAd7JX89E&sig=huIvp3EWQETQXQQ37dxtjAwKH2o
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Assessment and certification of safety critical software
+     Author ['EM El Koursi', 'G Mariano']
+     Venue Proceedings of the 5th Biannual …
+     Year 2002
+     Abstract Such criteria are drawn from various sources : standards, state of the art, best practice and experience  These meti-ics are related to size, structuration, proof, complexity and quality of the project  The Formal methods is a good alternative to improve the quality of software and it
+     Url https://ieeexplore.ieee.org/abstract/document/1049420/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Safety Related Systems: Current And Emerging Technologies
+     Author ['MJ Ashman']
+     Venue IEE Colloquium on Computers & Safety Papers …
+     Year 1996
+     Abstract The convergence of industry sectors - SCADA, PIX, DCS, Safety has also been taking place  The pragmatic approach argues for the use of best practice currently available in the PLC world, augmented by appropriate software engineering techniques (adapted if required)
+     Url https://ieeexplore.ieee.org/abstract/document/578324/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Regulatory requirements for computerised systems in pharmaceutical manufacture
+     Author ['S Wyn']
+     Venue Software Engineering Journal
+     Year 1996
+     Abstract used the term 'Good Automated Manufacturing Practice' (GAMP) to refer to accepted best practice in this  custom configurable packages, such as distributed control ' systems (DCS), supervisory control and data acquisition packages (SCADA), manufacturing execution
+     Url https://digital-library.theiet.org/content/journals/10.1049/sej.1996.0011
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Designing safe and secure industrial control systems: a tutorial review
+     Author ['D Serpanos', 'MT Khan', 'H Shrobe']
+     Venue IEEE Design & Test
+     Year 2018
+     Abstract These standards provide the general guidelines to identify the risk of various hazards, attacks, and  Secure and safe industrial control system design Recent developments in the area of formal ver- ification have enabled the development of secure and safe ICS design by
+     Url https://ieeexplore.ieee.org/abstract/document/8320309/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Using a formal method to model software design in XP projects
+     Author ['C Thomson', 'M Holcombe']
+     Venue Annals of Mathematics, Computing and …
+     Year 2005
+     Abstract dcs.shef.ac.uk Mike Holcombe University Of Sheffield m.holcombe@dcs.shef.ac.uk Abstract—A software engineer depends on an estab- lished best practice toolbox in order to  K. eds: Proceedings of 1st South-East European Workshop on Formal Methods, Thessaloniki, Greece
+     Url https://core.ac.uk/download/pdf/51676.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A University Education Cyber Security Paradigm Shift
+     Author ['RR Schell']
+     Venue National Initiative for Cybersecurity Education (NICE) …
+     Year 2015
+     Abstract MISSI,NetTop,SELinux,MILS • Objection TCSEC interfered with research, products – Common “Best practice” misses subversion reality  Aggressive phased, selective use, eg, CDS and ICS – Commitment to education, evaluation and use  Formal methods Data base security
+     Url https://www.nist.gov/system/files/documents/2020/07/30/NICE2015_Schell.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title CVA-Based framework for ERP requirements specification
+     Author ['A Borell', 'J Hedman']
+     Venue … Research in Scandinavia IRIS, University of …
+     Year 2000
+     Abstract Borell & Jonas Hedman andreas.borell@netch.se and jonas.hedman@ics.lu.se  align their business process to the embedded business processes representing best practice, which are  and description of future state would involve formal and non-formal methods and techniques
+     Url https://www.researchgate.net/profile/Jonas_Hedman/publication/2321096_CVA_Based_Framework_for_ERP_Requirements_Specification/links/09e41508972b8d06d5000000/CVA-Based-Framework-for-ERP-Requirements-Specification.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Engineering principles of combat modeling and distributed simulation
+     Author ['A Tolk']
+     Venue NA
+     Year 2012
+     Abstract Applicable Codes of Ethics 25 Andreas Tolk 3. The NATO Code of Best Practice for Command  Tolk is senior member of the Institute of Electrical and Electron- ics Engineers (IEEE  His topics of interest are formal methods research on aviation systems at NASA Langley Research
+     Url https://books.google.com/books?hl=nl&lr=&id=QahBtKYl9LYC&oi=fnd&pg=PR11&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=UZHC2IoiBn&sig=mwpHsel_NOACZQCMI5hBrS6fZ1Y
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Goal-oriented co-engineering of security and safety requirements in cyber-physical systems
+     Author ['C Ponsard', 'G Dallons', 'P Massonet']
+     Venue International Conference on …
+     Year 2016
+     Abstract must continue running and modifications can only be made via a live update, verification is more complex because you have to consider the cyber-physical system itself as  support formal methods [2, 15, 28]. use attack trees as a best practice of security engineering [5, 9, 16]
+     Url https://link.springer.com/chapter/10.1007/978-3-319-45480-1_27
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Introduction to multi-agent simulation
+     Author ['PO Siebers', 'U Aickelin']
+     Venue … of decision making and decision support …
+     Year 2008
+     Abstract This provides an insight into system dynam- ics rather than just predicting the output of a  system and interpreted in a qualitative way to make meaningful recommendations or compile best practice guidelines  Formal methods exist to develop and validate such simulation models
+     Url https://www.igi-global.com/chapter/introduction-multi-agent-simulation/11295
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title CVA-Based framework for ERP requirements specification
+     Author ['A Borell', 'J Hedman']
+     Venue … Research in Scandinavia IRIS, University of …
+     Year 2000
+     Abstract Borell & Jonas Hedman andreas.borell@netch.se and jonas.hedman@ics.lu.se  align their business process to the embedded business processes representing best practice, which are  and description of future state would involve formal and non-formal methods and techniques
+     Url https://www.researchgate.net/profile/Jonas_Hedman/publication/2321096_CVA_Based_Framework_for_ERP_Requirements_Specification/links/09e41508972b8d06d5000000/CVA-Based-Framework-for-ERP-Requirements-Specification.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Guest Editorial Special Issue on RRCPS: Reliable and Resilient Cyber-Physical Systems
+     Author ['K Kang', 'I Lee', 'K Liu', 'MK Yoon']
+     Venue IEEE Internet of Things …
+     Year 2019
+     Abstract In the article “Design Verifiably Correct Model Patterns to Facilitate Modeling Medical Best Practice Guidelines With Statecharts,” the  include cyber-physical systems, real-time systems, embedded systems, high-confidence medical device systems, formal methods and tools, run
+     Url https://ieeexplore.ieee.org/abstract/document/8784302/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Ethical code as a means of self-regulation of economic activity
+     Author ['E Goncearenko']
+     Venue Legea şi Viaţa
+     Year 2019
+     Abstract Regulatory measures corporate social responsibility are codes of corporate eth- ics, rules and principles of behavior  Business organizations invest enor- mous funds on formal methods  the level of the Directive, which should be necessarily included in the codes of best practice
+     Url https://ibn.idsi.md/ro/vizualizare_articol/76214
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Automated Model-based Attack Tree Analysis using HiP-HOPS
+     Author ['D Whiting', 'I Sorokos', 'Y Papadopoulos']
+     Venue … Symposium on Model …
+     Year 2019
+     Abstract for managing information security while ISO 27799 specifies additional guidance specifically for health information security and provides health information security best practice guidelines  In: Proceedings of the 1st International Symposium on ICS & SCADA Cyber Security
+     Url https://link.springer.com/chapter/10.1007/978-3-030-32872-6_17
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Selecting research techniques for a method and strategy
+     Author ['KD Strang']
+     Venue The Palgrave Handbook of Research Design in …
+     Year 2015
+     Abstract Nonetheless, there are some general guidelines  These will be required in formal methods, but it may not be clear in the methodology how to align them with the  Tracy (2010, p. 840) presents a best-practice model for achieving validity when collecting any type of data using
+     Url https://link.springer.com/chapter/10.1057/9781137484956_5
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Typographical design, modernist aesthetics, and professional communication
+     Author ['C Kostelnick']
+     Venue Journal of Business and Technical …
+     Year 1990
+     Abstract While these findings, along with Tinker's experiments in line length and leading, provide general guidelines for designers, they do not provide Page 4. 8 ics, however, these rational, functional approaches to text design grew out of modernism, which provided the impetus for
+     Url https://journals.sagepub.com/doi/abs/10.1177/105065199000400101
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Software Methodologies for the SSC
+     Author ['SC Loken']
+     Venue NA
+     Year 1991
+     Abstract The environment should include statistical packages and powerful graph- ics  In most experi- ments, however, the development process does not use formal methods or modern tools  Groups have defined some general guidelines re- garding the use of common blocks for event
+     Url https://escholarship.org/content/qt6kg5j0g7/qt6kg5j0g7.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Oil and Gas digital twins after twenty years. How can they be made sustainable, maintainable and useful?
+     Author ['DB Cameron', 'A Waaler', 'TM Komulainen']
+     Venue NA
+     Year 2018
+     Abstract and proposes a program of research, standardization and best practice that addresses  The digital twin acquires physical plant data through the SCADA system or  sub-disciplines of knowledge representation, natural language technologies, formal methods, scalable computing
+     Url http://3.121.149.17/handle/10642/6798
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A review and methodology development for remaining useful life prediction of offshore fixed and floating wind turbine power converter with digital twin technology …
+     Author ['K Sivalingam', 'M Sepulveda', 'M Spring']
+     Venue 2018 2nd International …
+     Year 2018
+     Abstract ambient temperature, yaw angle and electrical power generated from SCADA records as  between workboat routes and bathymetric surveys, local scour 7. Formal methods for quantitative  8. Safety culture, best practice, emergency preparedness, design of systems and testing of
+     Url https://ieeexplore.ieee.org/abstract/document/8356292/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title European Association for Cognitive Ergonomics. Review of User Interface Design, by Thomas Green
+     Author ['TRG Green']
+     Venue NA
+     Year 1993
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A framework for supporting the development of verifiably safe medical best practice guideline systems
+     Author ['C Guo', 'Z Fu', 'Z Zhang', 'S Ren', 'L Sha']
+     Venue Journal of Systems Architecture
+     Year 2020
+     Abstract A framework for supporting the development of verifiably safe medical best practice guideline systems. Author links open  apply clinically. Hence, developing safe medical best practice guideline systems is an urgent need. The
+     Url https://www.sciencedirect.com/science/article/pii/S1383762119305004
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A PLC Implementation of PSE Approximant for Fractional Order Operator
+     Author ['K Oprzedkiewicz', 'E Gawin', 'W Mitkowski']
+     Venue Conference on Non-integer …
+     Year 2017
+     Abstract The use of formal methods in PLC programming was considered for example in [9], an example of  of special control algorithm at PLC should be done with respect to general guidelines formulated in  Here the following ideas can be used: the first one is to use SCADA scripts or
+     Url https://link.springer.com/chapter/10.1007/978-3-319-78458-8_10
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Externally directing self-assembly with dynamic programming
+     Author ['DJ Griffin', 'X Tang', 'MA Grover']
+     Venue 2016 American Control …
+     Year 2016
+     Abstract The term 'self-assembly dynam- ics' is used to refer to the time-evolution of  a formulaic approach that may be universally applied, but instead, give some general guidelines on each  by intuitive selection of the important macroscopic variables or by more formal methods such as
+     Url https://ieeexplore.ieee.org/abstract/document/7525389/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Service-Oriented Computing: 8th International Conference, ICSOC 2010, San Francisco, CA, USA, December 7-10, 2010. Proceedings
+     Author ['PP Maglio', 'M Weske', 'J Yang', 'M Fantinato']
+     Venue NA
+     Year 2010
+     Abstract de Jian Yang Macquarie University Sydney, Australia E-mail: jian@ ics. mq  Zhou Discovering Business Process Similarities: An Empirical Study with SAP Best Practice Business Processes  Jun Han, Ingo Müller, Jean-Guy Schneider, and Steve Versteeg Formal Methods A Soft
+     Url https://books.google.com/books?hl=nl&lr=&id=Cia7BQAAQBAJ&oi=fnd&pg=PR2&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=EZve_0aryl&sig=OjapwhgyWkiPRqVZzMHeuqeWpVM
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Automated Model-Based Attack Tree Analysis Using HiP-HOPS
+     Author ['G Regan', "E O'Carroll"]
+     Venue Model-Based Safety and Assessment: 6th …
+     Year 2019
+     Abstract for managing information security while ISO 27799 spec- ifies additional guidance specifically for health information security and provides health information security best practice guidelines  In: Proceedings of the 1st International Symposium on ICS & SCADA Cyber Security
+     Url https://books.google.com/books?hl=nl&lr=&id=fm21DwAAQBAJ&oi=fnd&pg=PA255&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22&ots=0mlhNQnVDZ&sig=Zai41RTqSrelUo_ze609rO_TO4E
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Software's chronic crisis
+     Author ['WW Gibbs']
+     Venue Scientific American
+     Year 1994
+     Abstract Unfortunately, the industry does not uniformly apply that which is well- known best practice, laments Larry E  have contrived ways to trans- late speci'cations and programs into the language of mathematics, where they can be analyzed with theoretical tools called formal methods
+     Url https://www.jstor.org/stable/24942840
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Formal validation of the CANopen communication protocol
+     Author ['M Barbosa', 'M Farsi', 'C Allen', 'AS Carvalho']
+     Venue IFAC Proceedings Volumes
+     Year 2003
+     Abstract addition to the well-known advantages of using formal methods during system development, formal methods bring a  However, it does provide two general guidelines on how to deal with these errors, in order to  Fieldbus to change DCS role, but death reports greatly exaggerated
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017324874
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A preliminary design-phase security methodology for cyber–physical systems
+     Author ['B Carter', 'S Adams', 'G Bakirtzis', 'T Sherburne', 'P Beling']
+     Venue Systems
+     Year 2019
+     Abstract for Standardization published the ISO/IEC 27000-series for best practice recommendations on  do not provide mathematical proof of requirement satisfaction like formal methods can for  team was required to develop (or provide from the overall cyber physical system project's SE
+     Url https://www.mdpi.com/2079-8954/7/2/21
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title 360-Degree Feedback for Sport Coaches: A Follow-Up to O'Boyle (2014)
+     Author ['MD Hoffmann', 'AM Duguay']
+     Venue International Sport …
+     Year 2017
+     Abstract In terms of formal methods, coaches distributed surveys (paper-and- pencil or online) and/or  one's coaching proficiency is warranted and must be implemented in coaching clin- ics and formal  Finally, it is a 'best practice' to discuss 360-degree feedback reports with recipients in
+     Url https://journals.humankinetics.com/view/journals/iscj/4/3/article-p335.xml
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title ABS: A high-level modeling language for cloud-aware programming
+     Author ['N Bezirgiannis', 'F de Boer']
+     Venue International Conference on Current Trends in …
+     Year 2016
+     Abstract Our design choice was based on best practice; we believe that a distributed cloud ABS application of  Besides the current open (peer-to-peer) topology of DCs we want to add support for  of ABS leads to new opportunities for furthering the application of formal methods to cloud
+     Url https://link.springer.com/chapter/10.1007/978-3-662-49192-8_35
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A Systematic Approach for Developing Cyber Physical Systems.
+     Author ['X He', 'Z Dong', 'Y Fu']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Rapid Integration of CPS Security and Safety
+     Author ['JA McDermid', 'F Asplund', 'R Oates']
+     Venue IEEE Embedded …
+     Year 2018
+     Abstract of security and safety we leverage on exisiting technical risk as- sessments: best practice in security  satellite systems,” in Proceedings of the Fourth International Workshop on Formal Methods for Interactive  [19] NIST, Guide to Industrial Control Systems (ICS) Security, Std., 2015
+     Url http://eprints.whiterose.ac.uk/143110/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Model-driven software development approaches in robotics research
+     Author ['A Ramaswamy', 'B Monsuez', 'A Tapus']
+     Venue Proceedings of the 6th …
+     Year 2014
+     Abstract due to the fact that the component attributes are not explicitly modeled using formal methods  sub-domain modeling languages such as perception, navigation, control, kinemat- ics, planner, etc  In the Special issue on Best Practice in Robot Software Development of the Journal
+     Url https://dl.acm.org/doi/abs/10.1145/2593770.2593781
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Verified Hardware/Software Co-Assurance: Enhancing Safety and Security for Critical Systems
+     Author ['DS Hardin']
+     Venue Proceedings of the 2020 IEEE Systems Conference (to …
+     Year 2020
+     Abstract a safety perspective, input validation has long been a “best practice.” For security  Cyber-physical system designers generally limit the space and time allocations for any given  of the 11th International Conference on Formal Engineering Methods: Formal Methods and Software
+     Url https://edas.info/manuscript/1594683696/final/1570593436.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title A theory of lexicographic texts: an overview
+     Author ['HE Wiegand']
+     Venue South African Journal of Linguistics
+     Year 1996
+     Abstract constructions in Japa- nese: the “tautology” controversy revisited', Journal of Pragmat- ics, 2 0 433  One of the general guidelines for the presentation of lexico- graphic texts is that there is at  This is why formal methods of presentation are used when it comes to presenting textual
+     Url https://www.tandfonline.com/doi/abs/10.1080/10118063.1996.9724061
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title The PLC implementation of fractional-order operator using CFE approximation
+     Author ['K Oprzedkiewcz', 'W Mitkowski', 'E Gawin']
+     Venue International Conference …
+     Year 2017
+     Abstract The use of formal methods in PLC programming was considered for example in [10], an example of  of special control algorithm at PLC should be done with respect to general guidelines formulated in  The first one is to use SCADA scripts or MATLAB and next send results to a
+     Url https://link.springer.com/chapter/10.1007/978-3-319-54042-9_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Software support for metrology interim status report on the flow area.
+     Author ['R Paton']
+     Venue NA
+     Year 1999
+     Abstract with further information and will help in the identification of best-practice to be  Supervisory Control And Data Acquisition (SCADA) software designed to control and record data from a test  These often have not been developed by either formal methods or by trained programmers
+     Url http://eprintspublications.npl.co.uk/1254/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"
+     Title Addressing The Human Factor In Information Systems Security.
+     Author ['PM Bednar', 'V Katos']
+     Venue MCIS
+     Year 2009
+     Abstract of Portsmouth, Portsmouth PO1 3HE, UK and Lund University, Sweden, peter.bednar@ics.lu. se  to learn from descriptions of best practice and to develop your own  Basically the fundamental flaws in the application of structured and formal methods in traditional IS methodologies
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1076&context=mcis2009
+

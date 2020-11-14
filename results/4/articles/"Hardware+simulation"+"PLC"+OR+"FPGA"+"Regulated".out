@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title PLC based intelligent traffic control system
+     Author ['MA Khattak']
+     Venue International Journal of Electrical & Computer Sciences …
+     Year 2011
+     Abstract Hardware simulation tests were successfully performed on the algorithm implemented into a PLC (programmable logic controller)  The T100MD2424+ PLC requires a single regulated, 12 to 24V (+/- 5% ripple) DC power supply for the CPU and I/Os (as shown in Figure 1). It is
+     Url https://www.academia.edu/download/53128853/110606-9494-IJECS-IJENS.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The output voltage vo has to be regulated at Vo_ref = 5 V. Switch SWR is used to put in parallel an additional resistor in order to generate step load changes. qc SW Vg + - D C vo + RC iL + - RL RO SWR RO - H⋅vo VSW ADC L RS RS d(n) FPGA CLK PLB Bus MicroBlaze®
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title The use of FPGA in field-oriented control of an induction machine
+     Author ['Ö AKIN', 'I Alan']
+     Venue Turkish Journal of Electrical Engineering & …
+     Year 2010
+     Abstract The use of FPGA in field-oriented control of an induction machine  Abstract In this study, the feasibility of embedding the field oriented control (FOC) of an induction machine into field programmable gate arrays (FPGA) is investigated
+     Url https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=11262
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA based low power hardware for quality access control of compressed gray scale image
+     Author ['H Mandal', 'A Phadikar', 'GK Maity', 'TL Chiu']
+     Venue Microsystem Technologies
+     Year 2018
+     Abstract 7a, b, respectively. The FPGA implementation of 2D DCT/IDCT module is represented in terms of resource, speed and power consumption  Total process is regulated by cascading of two different FSM. The main control FSM and nested FSM for \( S3^{'} \ are depicted in Fig
+     Url https://link.springer.com/article/10.1007/s00542-018-3817-2
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA implementation of NN based LMS–LMF control algorithm in DSTATCOM for power quality improvement
+     Author ['S Malathi', 'J Jayachandran']
+     Venue Control Engineering Practice
+     Year 2020
+     Abstract direct or indirect current control techniques are implemented for reference current estimation and the DC bus voltage is regulated by a PI  On the contrary, in FPGA implementation, the circuit is reconfigured easily and fast prototyping is carried out using a hardware description
+     Url https://www.sciencedirect.com/science/article/pii/S0967066120300484
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …
+     Year 2018
+     Abstract FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform  its effectiveness, results of the implementation and simulation of a regulated power converter  digital controller is coded using VHDL language then implemented in FPGA and the
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Modelling of Photovoltaic Systems for Real-Time Hardware Simulation
+     Author ['H Palahalli', 'Y Huo', 'G Gruosso']
+     Venue ELECTRIMACS 2019
+     Year 2020
+     Abstract Modelling of Photovoltaic Systems for Real-Time Hardware Simulation  Power will be compensated by the energy stored and the voltage is brought regulated  resistive load of 1 Ω is connected to the DC bus at 5 th s, the outputs are driven to the real world using FPGA IO and
+     Url https://link.springer.com/chapter/10.1007/978-3-030-37161-6_1
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design and validation methodology of FPGA-based motor drive for high-temperature environment
+     Author ['I Bahri', 'E Monmasson', 'F Verdiers']
+     Venue Electrical Systems for …
+     Year 2010
+     Abstract TABLE I FPGA TILE/AREA PERFORMANCES OF CONTROL ARCHITECTURE Module Latence Computation time A/D serial interface 16 0.66μs D/A serial  The voltage output of the VSI is shown in Fig.7.b. Finally, the regulated three current phases and the real position of the
+     Url https://ieeexplore.ieee.org/abstract/document/5665210/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA-based multiplier-less log-based hardware architectures for hybrid color image enhancement system
+     Author ['UA Nnolim']
+     Venue International Journal of Image and Graphics
+     Year 2017
+     Abstract 1750004-6 Page 7. FPGA-Based Multiplier-Less Log-Based Hardware Architectures  2,30 and a modified homomorphic filter that performs regulated dynamic range compression, contrast and edge enhancement while also preserving the color of the processed RGB image
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0219467817500048
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware in the loop model for irregular conditions in tension leveler applications
+     Author ['N Tošić', 'A Bukvić', 'V Dimitrijević']
+     Venue 2016 4th International …
+     Year 2016
+     Abstract Speed regulated drives receive linear velocity reference after ramp which is generated in PLC and is sent in cascade  REALZATION OF SIMULATION Hardware configuration of the PLC that controls tension leveler is emulated by dedicated hardware, Simulation Unit PN
+     Url https://ieeexplore.ieee.org/abstract/document/7748816/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware In the Loop (HIL) simulation of wind turbine power control
+     Author ['T Puleva', 'G Rouzhekov', 'T Slavov', 'B Rakov']
+     Venue NA
+     Year 2016
+     Abstract control algorithms is presented. It is based on application of programmable logical controller (PLC) and on plant dynamics simulator. A system for hardware simulation of control algorithms is developed. Its structure and characteristics
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2016.1053
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Modeling and analysis of FPGA accelerators for real-time streaming video processing in the healthcare domain
+     Author ['S van der Vlugt', 'HA Ara', 'R de Jong', 'M Hendriks']
+     Venue Journal of Signal …
+     Year 2019
+     Abstract We provide two techniques to model the timing behavior of streaming applications on FPGA-based platforms  The second model uses a detailed hardware simulation to closely mimic the timing behavior of the applications on the platform
+     Url https://link.springer.com/content/pdf/10.1007/s11265-018-1414-3.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware in the loop simulation for tension leveler
+     Author ['A Bukvić', 'N Tošić', 'V Dimitrijević', 'M Bebić']
+     Venue NA
+     Year NA
+     Abstract Speed regulated drives receive linear velocity reference which is generated in PLC as a ramp and is sent in cascade  REALIZATION OF SIMULATION Hardware configuration of the PLC that controls tension leveler is emulated by dedicated hardware, Simulation Unit PN
+     Url http://www.empr.ftn.kg.ac.rs/test%20site/Radovi_TR33016/2016/M33%20IcETRAN%202016%20Bukvic/M33%20IcETRAN%202016%20Bukvic.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design and implementation of digital controller for DC-DC buck boost converter
+     Author ['S Chithra', 'VD Maheswaran']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA Based Implementation of Sinusoidal PWM for Induction Motor Drive Applications
+     Author ['F Nekoei', 'YS Kavian']
+     Venue NA
+     Year NA
+     Abstract They concluded improving the quality of the regulated current in ON- OFF current controllers, proportional-integral (PI  [١٩] M.-W. Naouar, E. Monmasson, and AA Naassani, “FPGA-based current  [٢١] GG Parma, and V. Dinavahi, "Real-Time Digital Hardware Simulation of Power
+     Url http://rms.scu.ac.ir/Files/Articles/Conferences/Abstract/9.pdf201141717114625.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract Testing of PLC software is given special attention  databases were found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation  The separator is driven by an asynchronous induction motor regulated by a VFD (Variable Frequency
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title WEX-HIL: Design of a Wireless Extensible hardware-in-the-loop real-time simulator for electric vehicle applications
+     Author ['YK Jung', 'F Mak', 'F Qingele']
+     Venue 2016 IEEE Frontiers in …
+     Year 2016
+     Abstract The subjects discussed in the course include embedded system modeling based on Matlab/Simulink, FPGA-based hardware Fig  Motor (HIL) Battery Backplane 1 (Power & Sensor Cage) Regulated Power supply (a) (b) (c) (d) (e) (f) (g) Power Panel Backplane 2 (Control Cage)
+     Url https://ieeexplore.ieee.org/abstract/document/7757459/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title BOC (x, y) signal acquisition techniques and performances
+     Author ['N Martin', 'V Leblond', 'G Guillotel', 'V Heiries']
+     Venue … of the Satellite Division of The …
+     Year 2003
+     Abstract Open Service (OS), Safety of Life Service (SOL) and even Public Regulated Service (PRS  Hardware simulation: In order not to have a prohibitive (and pointless) computation time, the true  hardware component of the receiver, traditionally implemented in ASIC or FPGA, results in
+     Url https://www.ion.org/publications/abstract.cfm?articleID=5194
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Behavioral device-level modeling of modular multilevel converters in real time for variable-speed drive applications
+     Author ['N Lin', 'V Dinavahi']
+     Venue IEEE Journal of Emerging and Selected …
+     Year 2017
+     Abstract This paper presents the real-time hardware-in-the- loop (HIL) emulation of an induction machine (IM) driven by a modular multilevel converter (MMC) on the field-programmable gate array (FPGA)  would lead to a long hardware latency in the FPGA imple- mentation
+     Url https://ieeexplore.ieee.org/abstract/document/7862789/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA Implementation of a Low Latency and High SFDR Direct Digital Synthesizer for Resource-Efficient Quantum-Enhanced Communication
+     Author ['NFR Annafianto', 'MV Jabir', 'IA Burenkov']
+     Venue 2020 IEEE East …
+     Year 2020
+     Abstract 0, 1} . However, adding one more “direction”, that is 0 or no angular movement, yet regulated with appropriate  Since all variables in the hardware are integer, we map the hardware simulation results to that of  The hardware platform we utilized is the Xilinx Virtex-6 ML605 FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/9225029/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design and fpga implementation of an efficient deinterleaving algorithm
+     Author ['ME Olgun']
+     Venue NA
+     Year 2008
+     Abstract Page 1. DESIGN AND FPGA IMPLEMENTATION OF AN EFFICIENT DEINTERLEAVING ALGORITHM  AUGUST 2008 Page 2. Approval of the thesis: DESIGN AND FPGA IMPLEMENTATION OF AN EFFICIENT DEINTERLEAVING ALGORITHM
+     Url https://open.metu.edu.tr/handle/11511/17763
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Systems and methods for power hardware in the loop testing
+     Author ['A Monti', "S D'arco"]
+     Venue US Patent 7,979,223
+     Year 2011
+     Abstract FIG. 9 illustrates space vector modulation in FPGA. FIG. 10 illustrates PWM input averaging. FIG  In this configuration, the currents drained in each branch of the filter can be regulated by controlling the output voltages of the inverter
+     Url https://patents.google.com/patent/US7979223B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hybrid type satellite simulation system and method thereof
+     Author ['SU Lee', 'J Kim', 'HJ Lee', 'SP Lee']
+     Venue US Patent App. 11/182,133
+     Year 2006
+     Abstract CN102809937A (en) *, 2012-08-17, 2012-12-05, 上海航天测控通信研究所, PLC and 1553B based portable equivalent device for carrier rocket test-launch  en) *, 2014-09-02, 2016-03-09, 한국항공우주연구원, The Method for Tracking Nonlinear Aircraft Utilizing Regulated Point Mass
+     Url https://patents.google.com/patent/US20060100846A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Development test suite for FPGA TekBot learning platform
+     Author ['G Lai']
+     Venue NA
+     Year 2006
+     Abstract Gerald Lai for the degree of Master of Science in Electrical and Computer Engineering presented on August 25, 2006. Title: Development Test Suite for FPGA TekBot Learning Platform  as OMICRON, to comprehensively test an FPGA learning platform. It also documents
+     Url https://ir.library.oregonstate.edu/dspace/handle/1957/3048
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA implementation of event-based optical flow for robotic applications
+     Author ['M Martina', 'G Masera', 'PM Ros', 'G Tortora']
+     Venue NA
+     Year NA
+     Abstract FPGA implementation of event-based  At the end, a comparison between the expected results in Matlab and the ones obtained from the hardware simulation, as well  sectors in our daily life are dominated by the presence of AI: from economic processes, regulated and controlled
+     Url https://webthesis.biblio.polito.it/11692/1/tesi.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Real-time multi-board architecture for analog spiking neural networks
+     Author ['S Saïghi', 'J Tomas', 'Y Bornat', 'B Belhadj']
+     Venue Proceedings of 2010 …
+     Year 2010
+     Abstract following the Hodgkin-Huxley (HH) formalism, with two objectives: a) build hardware simulation systems for  IOs (synaptic inputs and spike detection outputs) are individually connected to the FPGA (Xilinx Spartan3  is 5 V and all the other power supplies are regulated on board
+     Url https://ieeexplore.ieee.org/abstract/document/5538039/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design of Digital Baseband Subsystem for S-Band Transponder
+     Author ['V Jayasudha', 'NVSSR Lakshmi']
+     Venue NA
+     Year NA
+     Abstract the DC power (spacecraft bus) input and generate the necessary regulated secondary voltages  Syed jahingir, “Simulation and implementation of a BPSK modulator on FPGA,”International Conference  7. Bhosle SS, SA Shirsat, AD Jadhav, “Hardware Simulation of BPSK Modem
+     Url https://www.researchgate.net/profile/NVSSree_Rathna_Lakshmi/publication/272751119_Design_of_Digital_Baseband_Subsystem_for_S-Band_Transponder/links/563834ea08ae51ccb3cbeedf/Design-of-Digital-Baseband-Subsystem-for-S-Band-Transponder.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design and prototyping of single‐phase shunt active power filter for harmonics elimination using model predictive current control
+     Author ['R Kanagavel', 'I Vairavasundaram']
+     Venue … on Electrical Energy …
+     Year 2020
+     Abstract The current commands are tracked using the MPCC. In this manuscript, the control technique effectiveness is demonstrated through MATLAB simulation and experimentation with Cyclone‐IV EP4CE30F484 FPGA board under dynamic operating conditions
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/2050-7038.12231
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Word length selection method for controller implementation on FPGAs using the VHDL-2008 fixed-point and floating-point packages
+     Author ['I Urriza', 'LA Barragan', 'D Navarro', 'JI Artigas']
+     Venue EURASIP Journal on …
+     Year 2010
+     Abstract The output voltage vo has to be regulated at Vo ref = 5 V. The output voltage is measured using a resistor divisor with RS = 100 kΩ which scales the output voltage to the ADC input voltage range [0, 3.3V]. The digital controller C(z) determines the value of the power  FPGA qc
+     Url https://link.springer.com/content/pdf/10.1155/2010/593264.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware-in-the-loop test automation setup for power converter system development
+     Author ['HYK Cheung']
+     Venue NA
+     Year 2019
+     Abstract Current DLL Dynamic Link-Library DSP Digital Signal Processor ECU Electronic Control Unit eHS electric Hardware Solver ESS Energy Storage System FPGA Field Programmable  These requirements are typically accomplished by having regulated sinusoidal output voltage
+     Url https://lutpub.lut.fi/handle/10024/159150
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design of energy-saving control system on escalator based on LOGO! And frequency converter
+     Author ['L Dai', 'M Chu', 'B Hong', 'P Feng']
+     Venue 2016 Chinese Control and …
+     Year 2016
+     Abstract If it is controlled by PLC, the hardware cost is higher  Furthermore hardware simulation platform was developed  converter was connected with input terminals of three-phase asynchronous motor, which supplied power to motor and at the same time regulated motor speed
+     Url https://ieeexplore.ieee.org/abstract/document/7531587/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Energy and Performance Trade-Off Optimization in Heterogeneous Computing via Reinforcement Learning
+     Author ['Z Yu', 'P Machado', 'A Zahid', 'AM Abdulghani']
+     Venue Electronics
+     Year 2020
+     Abstract In regular operation of the FPGA (PL end), the total power consumption is composed of the static power consumption, dynamic power  utility reinforcement learning (PMU-RL) as a hardware switch control algorithm so that the PL power consumption can be closely regulated
+     Url https://www.mdpi.com/2079-9292/9/11/1812
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Torque control of a spherical machine with variable pole pitch
+     Author ['K Kahlen', 'I Voss', 'C Priebe']
+     Venue IEEE Transactions on …
+     Year 2004
+     Abstract adapted to the DSP control board (ISEADSP) to check the algorithms with a hardware simulation system  that the small torque deviations are filtered by the inertia or are regulated by the  www.isea.rwth- aachen.de [9] C.-U. Karipidis, “A versatile DSP/FPGA structure optimized for
+     Url https://ieeexplore.ieee.org/abstract/document/1353355/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Methodologies for power analysis attacks on hardware implementations of AES
+     Author ['KJ Smith']
+     Venue NA
+     Year 2009
+     Abstract 84 9.4 DevelopmentBoardFPGACorePowerRegulator[12] . . . . 85 x Page 12. 9.5 Development Board FPGA Core Power Bulk and Decoupling Capacitors [12] 87 9.6 PowerMeasurementConfiguration . . . . . 88 9.7 CycloneIIIArchitecture[16]
+     Url http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=4201&context=theses
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Emulation-Based Test and Verification of a Design's Functional, Performance, Power, and Supply Voltage Behavior
+     Author ['N Druml', 'M Menghin', 'C Steger', 'R Weiss']
+     Venue 2013 21st Euromicro …
+     Year 2013
+     Abstract this very simplified case study, the LEON3 processor is operated with a regulated, constant voltage  emulation test bench is integrated in a Xilinx Spartan 3 FPGA board  TABLE I COMPARISON OF HARDWARE SIMULATION AND REAL-TIME HARDWARE EMULATION SPEEDS
+     Url https://ieeexplore.ieee.org/abstract/document/6498572/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract implementation of the water sector model in both a software and hardware simulation. Testing and results of the simulation are presented in chapter 6. Finally, conclusions and  organIsms. The levels of chlorine are strictly regulated by the US Environmental
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Motion control design of a PMSM and FPGA implementation for the Beam Wire Scanner at CERN
+     Author ['M Macchini']
+     Venue NA
+     Year 2015
+     Abstract 143 6.20 Load for the controller implemented on FPGA . . . . . 145 xiv Page 19. List of Figures 6.21 Matlab simulation vs hardware simulation vs hardware output for the controller in open-loop action . . . . . 146 xv Page 20. List of Tables
+     Url https://cds.cern.ch/record/2021089
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title An FPGA Based Controller for a MEMS Tri-mode FMCW Radar
+     Author ['S Zereen']
+     Venue NA
+     Year 2013
+     Abstract 17 2.7 State- of- the- art Automotive Radar 19 2.8 Work done in LFMCW Radar sensor design with FPGA-based platform 24 3 CHAPTER 3 26  86 6.3 The Processing Blocks Used In the Design 87 6.4 The Hardware Simulation technique and the Individual Process Blocks 89
+     Url http://scholar.uwindsor.ca/cgi/viewcontent.cgi?article=5891&context=etd
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Fpga based accelerator for real-time skin segmentation
+     Author ['B de Ruijsscher']
+     Venue NA
+     Year 2006
+     Abstract 5 2.2 FPGA based acceleration of real-time image processing operations  7.1 color space conversion results; original (a), software output (b), hardware simulation output (c) and difference between software and hardware (d) . 46 7.2 binary dilation results; original (a), software
+     Url http://ce-publications.et.tudelft.nl/publications/739_fpga_based_accelerator_for_realtime_skin_segmentation.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Enhancing VA sharing between the shunt and series APFs of UPQC with a modified SRF-PAC method
+     Author ['A Patel', 'HD Mathur', 'S Bhanot']
+     Venue IET Power Electronics
+     Year 2019
+     Abstract [Not Found]
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-pel.2018.6329
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Design and FPGA implementation of non-linear intelligent control for special electric drives
+     Author ['KM Arun Prasad', 'N Usha']
+     Venue NA
+     Year 2019
+     Abstract Fig. 7.3 Block diagram of FPGA implementation of Speed Control of PMSM using FSMC ----- 134 Fig  Fig. 7.6 Step response of PMSM with PI controller using HIL simulation and hardware simulation ----- 136 Fig
+     Url http://events.cusat.ac.in/xmlui/bitstream/handle/purl/5568/Dyuthi%20T-2610.pdf?sequence=1
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title An FPGA-Based 256-QAM Modem with Carrier Recovery
+     Author ['N Larionov']
+     Venue NA
+     Year 2002
+     Abstract 1 1.1.1 Cable System Fundamentals ..... 1 1.1.2 FPGA Basics 5 1.2 Thesis Main Objectives 8  5.4 Loop Filter 1' •••• 82 v Page 7. 6 SOFTWARE AND HARDWARE SIMULATION RESULTS 89 6.1 General Test Set-up 89
+     Url https://harvest.usask.ca/handle/10388/8424
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Simplified Strategy to Control Variable DC Power Supply Using Pre-regulator
+     Author ['R Sultana', 'CA Neha', 'S Sreejith']
+     Venue International Journal of …
+     Year 2017
+     Abstract Simulation is done for different reference values and different output values  Keywords: DC power supply; SMPS, pre regulator; PLC; HMI; Electro-chemical machining. INTRODUCTION  [6]. Supplies are of many types like switched mode power supply, regulated power supply
+     Url https://www.ripublication.com/ijaer17/ijaerv12n16_58.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Studies on MPPT in the Grid-Connected Photovoltaic Power Generation System Application
+     Author ['DK Ding', 'LX Li', 'Y Wan', 'Q Xue']
+     Venue Applied Mechanics and Materials
+     Year 2011
+     Abstract As for the part of Dc regulated power supply and large capacitance simulated solar  FPGA and MCU, MCU is used to track the maximum power, FPGA generates adjustable  This system basically can realize maximum power tracking after hardware simulation and data detection
+     Url https://www.scientific.net/AMM.63-64.377
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Studies on MPPT in The Grid-Connected Photovoltaic Power Generation System Application
+     Author ['D Diankuan', 'LI Lixin', 'WAN Yi', 'XUE Qi']
+     Venue NA
+     Year 2011
+     Abstract As for the part of Dc regulated power supply and large capacitance simulated solar  FPGA and MCU, MCU is used to track the maximum power, FPGA generates adjustable  This system basically can realize maximum power tracking after hardware simulation and data detection
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.931.5097&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Method for configuring a tester equipped for testing a control unit
+     Author ['L Juhász', 'J Lakemeier']
+     Venue US Patent 10,444,745
+     Year 2019
+     Abstract With the aid of the tester in the case of RCP, then, the technical system externally connected to the tester is regulated or controlled by means of  Depending on whether a model or a sub-model is to be executed on a processor or an FPGA of the tester, it has been necessary until
+     Url https://patents.google.com/patent/US10444745B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title «Quantum» processor for digital systems analysis
+     Author ['V Hahanov', 'D Shcherbin', 'W Gharibi']
+     Venue 2015 IEEE East-West …
+     Year 2015
+     Abstract be defined by qubit Q- vectors and implemented in the memory elements FPGA, CPLD or  In addition, it is possible to implement hardware simulation of digital systems on programmable logic devices  analysis cost of a large number of circuit components that is regulated in each
+     Url https://ieeexplore.ieee.org/abstract/document/7493179/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Digital Implementation of the Retinal Spiking Neural Network under Light Stimulation
+     Author ['S Yang', 'J Wang', 'B Deng', 'H Li']
+     Venue 2019 9th International …
+     Year 2019
+     Abstract network is realized on ALTERA DE-II development platform, which offers a hardware simulation platform equipped  Table I shows the resource utilization of the FPGA implementation  Light-evoked synaptic activity of retinal ganglion and amacrine cells is regulated in developing
+     Url https://ieeexplore.ieee.org/abstract/document/8716932/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Array Processing Techniques Applied to the Simulation of Biologically Inspired Networks
+     Author ['DRW Barr']
+     Venue NA
+     Year 2009
+     Abstract D3D Microsoft's DirectX 3D Interface DP Double Pass Rendering DSP Digital Signal Processor FPGA Field Programmable Gate Array GPU Graphics Processing Unit GPGPU General Purpose GPU GUI Graphical User Interface HLSL High Level Shader Language
+     Url http://search.proquest.com/openview/014a3705f1a50e54889897f43d02d5f4/1?pq-origsite=gscholar&cbl=2026366&diss=y
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Dynamic average modeling of a bidirectional solid state transformer for feasibility studies and real-time implementation
+     Author ['JA Martinez-Velasco', 'S Alepuz']
+     Venue Electric power systems …
+     Year 2014
+     Abstract square-wave switching strategy. The amount and direction of the active power flow between primary and secondary is regulated by the phase-shift φ (angle between transformer input and output square voltages), see Fig. 4 [33]: (3
+     Url https://www.sciencedirect.com/science/article/pii/S0378779614003022
+

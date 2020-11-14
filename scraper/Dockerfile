@@ -7,4 +7,4 @@ RUN ./geckodriver.sh
 COPY search.py search.py
 COPY keyword/ keyword/
 ENTRYPOINT [ "python3" ]
-CMD [ "-u", "search.py" ]
+CMD [ "search.py" ]

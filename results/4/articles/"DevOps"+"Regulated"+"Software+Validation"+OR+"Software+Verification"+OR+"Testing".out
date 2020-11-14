@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract Regulatory authorities have requirements for the product development process that must be fulfilled, such as proofs of the software verification and traceability of  In following, we discuss fusing these tracks in point-of-views of DevOps and regulated software development
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract Obviously, during the development life-cycle, the manufacturer may use internal continuous deployment for testing purposes  Therefore, new tools and methods should be specifically developed for using DevOps in regulated software development
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract documented. In DevOps, this puts requirements on tooling and tool validation, outlined in a Software Validation Plan as described by a QMS  sources. The most notable practices that extend DevOps in regulated development are: 1
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Implementing Secure DevOps assessment for highly regulated environments
+     Author ['H Yasar']
+     Venue Proceedings of the 12th International Conference on …
+     Year 2017
+     Abstract These technologies can also be used to assure the developer testing  CONCLUSIONS In summary, when assessing highly regulated entities for Secure DevOps implementation, one will quickly learn traditional DevOps cannot be put in place in a straight forward way
+     Url https://dl.acm.org/doi/abs/10.1145/3098954.3105819
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Implementing DevOps practices in highly regulated environments
+     Author ['JA Morales', 'H Yasar', 'A Volkman']
+     Venue Proceedings of the 19th International …
+     Year 2018
+     Abstract This can create a scenario where various groups are testing different versions of the software resulting in mixed feedback causing delays to project completion  If delivery is made Page 5. Implementing DevOps Practices in Highly Regulated Environments
+     Url https://dl.acm.org/doi/abs/10.1145/3234152.3234188
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Microservices: Architecting for continuous delivery and devops
+     Author ['L Chen']
+     Venue 2018 IEEE International Conference on Software …
+     Year 2018
+     Abstract with the increased number of services, evolving contracts among services, technology diversity, and testing  THE CONTEXT A. DevOps and CD at Paddy Power Paddy Power was a rapidly  Paddy Power offers its services in regulated markets through betting shops, phones, and
+     Url https://ieeexplore.ieee.org/abstract/document/8417115/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE
+     Author ['D Shepard']
+     Venue NA
+     Year 2018
+     Abstract SATURN 2018 What is HRE? • Highly-Regulated Environment (DoD, Health, Finance, etc) • Air-gapped computer system  SATURN 2018 DevOps on HRE Assessment: Deployment/Release Mgr  Integration process • Software verification and validation process
+     Url https://apps.dtic.mil/sti/citations/AD1086793
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps: A software architect's perspective
+     Author ['L Bass', 'I Weber', 'L Zhu']
+     Venue NA
+     Year 2015
+     Abstract Since many of the tools used in DevOps are used in the building and testing processes, we provide context for understanding these tools and how to control them  Finally, the goals specified in the definition do not restrict the scope of DevOps practices to testing and deployment
+     Url https://books.google.com/books?hl=en&lr=&id=fcwkCQAAQBAJ&oi=fnd&pg=PT13&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=KSttpaMPO9&sig=cGVXVUq2DjJTADuSWQKoMnlOKH0
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A large agile organization on its journey towards DevOps
+     Author ['K Kuusinen', 'V Balakumar', 'SC Jepsen']
+     Venue 2018 44th Euromicro …
+     Year 2018
+     Abstract Developers themselves might be against DevOps as they need to learn new skills  Technical impediments include having monolithic architecture, development and testing environments not reflecting  example in the medical software domain, which is heavily regulated to ensure
+     Url https://ieeexplore.ieee.org/abstract/document/8498186/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Productivity gains of DevOps adoption in an IT team: a case study
+     Author ['MA Silva', 'JP Faustino', 'R Pereira', 'M Mira da Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry [15] Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices [6
+     Url https://aisel.aisnet.org/isd2014/proceedings2018/ISDevelopment/8/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract Challenges: covers the challenges entailed in adopting DevOps or continuous deliv- ery/deployment. Some papers focus on specific challenges, such as DevOps in regulated do- mains [28], embedded systems [31], or communication [15]
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract 1.﻿﻿ Security﻿requirements 2.﻿﻿ Secure﻿coding 3.﻿﻿ Testing﻿for﻿vulnerabilities 4.﻿﻿ Testing﻿for﻿unexpected﻿behaviors 5.﻿﻿ Misuse﻿cases  1.﻿﻿ Detail﻿ the﻿ process﻿ of﻿ conducting﻿ a﻿ DevOps﻿ assessment﻿ for﻿ a﻿ highly﻿ regulated﻿ environment﻿(HRE)
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Metrics to Meet Security & Privacy Requirements with Agile Software Development Methods in a Regulated Environment
+     Author ['TJ Wagner', 'TC Ford']
+     Venue 2020 International Conference on …
+     Year 2020
+     Abstract For both metrics, DevOps has a strong ability to meet software regulated environment attributes, as it seeks to  The ability of DevOps to satisfy these metrics is increased because of two DevOps practices: collaborative development and continuous testing [44]
+     Url https://ieeexplore.ieee.org/abstract/document/9049681/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title More agile testing: learning journeys for the whole team
+     Author ['J Gregory', 'L Crispin']
+     Venue NA
+     Year 2014
+     Abstract Similar, Yet Different 326 Testing Is Critical 328 Agile Approaches 329 Summary 337 Chapter 21 Agile Testing in Regulated Environments 339  348 Using Agile Principles 351 Data—the Critical Asset 352 Big Data 357 Summary 360 Chapter 23 Testing and DevOps 361 A
+     Url https://books.google.com/books?hl=en&lr=&id=uq-pBAAAQBAJ&oi=fnd&pg=PR9&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=9CdhVKTcxO&sig=vbKw9Oa6cUxu_T5dbrCrKIf7Jzk
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An attempt to adopt DevOps on embedded system development: empirical evidence
+     Author ['PE Wijaya', 'I Rosyadi', 'A Taryana']
+     Venue Journal of Physics: Conference …
+     Year 2019
+     Abstract 48, no. 1, pp. 55 - 67, 2005. [15] David Saff, Michael D. Ernst, "Reducing wasted development time via continuous testing," in International Symposium on  5 - 10, 2015. [20] Teemu Laukkarinen, Kati Kuusinen, Tommi Mikkonen, "DevOps in Regulated Software Development
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078/meta
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The DevOps adoption playbook: a guide to adopting DevOps in a multi-speed IT enterprise
+     Author ['S Sharma']
+     Venue NA
+     Year 2017
+     Abstract 98 Establishing the Right Culture . . . . . 102 The DevOps Plays  123 Play: Continuous Delivery . . . . . 128 Play: Shift Left—Testing
+     Url https://books.google.com/books?hl=en&lr=&id=leXWDQAAQBAJ&oi=fnd&pg=PR23&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=j1ziay2qZi&sig=vJybSkADFKUtu6g-Hi4-OVfI-n0
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps for network function virtualisation: an architectural approach
+     Author ['H Karl', 'S Dräxler', 'M Peuster', 'A Galis']
+     Venue Transactions on …
+     Year 2016
+     Abstract services. SONATA's functionality for this layer includes DevOps functionality: catalogues, monitoring data analysis tools, testing tools, packaging tools, editors and basic functionality for application and service programmability
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3084
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Accelerate: the science of lean software and DevOps: building and scaling high performing technology organizations
+     Author ['J Humble', 'G Kim']
+     Venue NA
+     Year 2018
+     Abstract We collected data from startups and cutting-edge internet companies as well as highly regulated industries, such as finance, healthcare  or plan-driven) and just beginning your technology transformation, or whether you have been implementing Agile and DevOps practices for
+     Url https://books.google.com/books?hl=en&lr=&id=Kax-DwAAQBAJ&oi=fnd&pg=PT10&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=orvF1BfeCL&sig=Nkg-r8dLRa8YOKMigwViWFqon6I
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps and software quality: A systematic mapping
+     Author ['A Mishra', 'Z Otaiwi']
+     Venue Computer Science Review
+     Year 2020
+     Abstract 9]. DevOps capabilities are Continuous planning, Continuous integration and testing, Continuous release and deployment, Continuous infrastructure monitoring and optimization, Collaborative and continuous development, Continuous user behavior monitoring and feedback [9
+     Url https://www.sciencedirect.com/science/article/pii/S1574013720304081
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automated Inter-artefact Traceability Establishment for DevOps Practice
+     Author ['I Rubasinghe', 'D Meedeniya']
+     Venue 2018 IEEE/ACIS 17th …
+     Year 2018
+     Abstract traceability establishment between heterogeneous artefacts in DevOps based software development that encourages frequent software artefact updates with continuous integration, testing and deployment  [6] T. Laukkarinen et al., “Regulated software meets DevOps,” Inf
+     Url https://ieeexplore.ieee.org/abstract/document/8466414/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Next-generation process integration: CMMI and ITIL do devops
+     Author ['B Phifer']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract deployments early and often, far away from the intensity of release night, devops teams using  that collectively owns and is responsible for all processes involving development, testing, deployment, and  In an SEC-regulated industry, their full regression suite runs in less than five
+     Url http://twinkie.homedns.org/TechDocs/itj1108.pdf#page=28
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Evolution of Integration, Build, Test, and Release Engineering Into DevOps and to DevSecOps
+     Author ['V Pendyala']
+     Venue Tools and Techniques for Software Development in …
+     Year 2020
+     Abstract For testing, we have tools like Selenium, JUnit, and TestNG. ElectricFlow and Julu help with deployment  As can be seen, software development is a disciplined activity, which needs to be regulated by several policies  The DevOps team is responsible for enforcing the policies
+     Url https://www.igi-global.com/chapter/evolution-of-integration-build-test-and-release-engineering-into-devops-and-to-devsecops/247537
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study
+     Author ['M Shahin', 'MA Babar']
+     Venue arXiv preprint arXiv:2003.06108
+     Year 2020
+     Abstract In TeamA and TeamB, this was indeed a conscious decision to manage different levels of development, testing, and deployment in DevOps transformation [3]. Table 10. How often the teams deploy to different environments Deployment Frequency to Development Env
+     Url https://arxiv.org/abs/2003.06108
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A Systematic Literature Review on DevOps Capabilities and Areas
+     Author ['D Teixeira', 'R Pereira', 'TA Henriques', 'M Silva']
+     Venue International Journal of …
+     Year 2020
+     Abstract of﻿practices﻿for﻿software﻿development﻿(Rajkumar,﻿Pole,﻿ Adige,﻿&﻿Mahanta,﻿2016),﻿there﻿is﻿no﻿one,﻿ agreed-upon﻿definition﻿of﻿it.﻿In﻿a﻿more﻿general﻿approach,﻿ DevOps﻿integrates﻿a﻿set﻿of﻿characteristics﻿ and﻿principles﻿for﻿software﻿delivery﻿that﻿focuses﻿on:﻿speed﻿ of﻿delivery,﻿continuous﻿testing﻿in﻿an
+     Url https://www.igi-global.com/article/a-systematic-literature-review-on-devops-capabilities-and-areas/252844
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Component Analysis of DevOps and DevSecOps
+     Author ['JK Hong']
+     Venue Journal of the Korea Convergence Society
+     Year 2019
+     Abstract Management elements include image, logging/ monitoring, patches, platform governance, change, development and testing, distribution, authority and credentials  Establishing the preassessment DevOps Posture of an SDLC in a highly regulated environment: Third in a
+     Url https://www.koreascience.or.kr/article/JAKO201928862523841.page
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps in Practice for Education Management Information System at ECNU
+     Author ['D Yang', 'D Wang', 'D Yang', 'Q Dong', 'Y Wang']
+     Venue Procedia Computer …
+     Year 2020
+     Abstract practice and the use of related technologies [17], our new education and new system has basically realized the concept of DevOps and related techniques [18], making the construction, testing and release of  (2018) “Regulated software meets DevOps.” Information and
+     Url https://www.sciencedirect.com/science/article/pii/S1877050920320482
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Start and Scaling Devops in the Enterprise
+     Author ['G Gruver']
+     Venue NA
+     Year 2016
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Cynefin framework, devops and secure IoT
+     Author ['F Selgert']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract Automation of this phase means in DevOps terms “continuous testing” - an important goal, as it  be automated, while in the Complex domain, eg, if the system is heavily regulated, there are  Deploy is perceived as an activity in the Simple domain: in DevOps, deployment is tested
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_19
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Proposal to Avoid Issues in the DevOps Implementation: A Systematic Literature Review
+     Author ['M Muñoz', 'M Negrete', 'J Mejía']
+     Venue World Conference on Information Systems …
+     Year 2019
+     Abstract team and between team and stakeholders because a DevOps approach focused only on the software implementation; a lack of knowledge of how to integrate testing environments with  T. Laukkarinen, K. Kuusinen, and T. Mikkonen: DevOps in regulated software development
+     Url https://link.springer.com/chapter/10.1007/978-3-030-16181-1_63
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Practical DevOps
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue DevOps for Digital Leaders
+     Year 2016
+     Abstract Developers acquire public cloud resources to accelerate application testing, but don't  As a result, organizations (especially those in heavily regulated industries) risk compliance  By incorporating the experience of enterprises architects within DevOps teams, organizations can
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-1842-6_8
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Critical success factors of continuous practices in a DevOps context
+     Author ['M van Belzen', 'J Trienekens', 'R Kusters']
+     Venue NA
+     Year 2019
+     Abstract Shahin, Ali Babar and Zhu [35] extracted seven Critical Success Factors (CSFs) of continuous practices, in an order of importance: testing (effort and  In addition to continuous practices, recent studies show that DevOps adoption improve cycle times (and quality) as well [8, 27]
+     Url https://aisel.aisnet.org/isd2014/proceedings2019/ISDMethodologies/6/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A DevOps Capability-The IVI DevOps Effectiveness Assessment
+     Author ['C Crowley', 'L Veling', 'L Beckett', 'G Clarke', 'E Kelleher']
+     Venue NA
+     Year 2018
+     Abstract Fitzgerald, KJ Stol, R. O'Sullivan, and D. O'Brien, 'Scaling agile methods to regulated  18] W. Gottesheim, 'Challenges, benefits and best practices of performance focused DevOps', in LT 2015 - Proceedings of the 4th ACM/SPEC International Workshop on Large-Scale Testing, in
+     Url http://eprints.maynoothuniversity.ie/9413/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Agile application lifecycle management: Using DevOps to drive process improvement
+     Author ['B Aiello', 'L Sachs']
+     Venue NA
+     Year 2016
+     Abstract 7.13 Systems and Application Design 7.14 Code Quality Instrumentation 7.15 Testing the Lifecycle 7.16 Test Case Management 7.17 TestDriven Development 7.18 Environment Management 7.18.1 Gold Copies 7.19 Supporting the CMDB 7.20 Driving DevOps 7.21 Supporting
+     Url https://books.google.com/books?hl=en&lr=&id=zMY_DAAAQBAJ&oi=fnd&pg=PT26&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=YEEZ2xMkNd&sig=La-sb6Qn3b74XvIT0W0kPZU5Izc
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Productivity gains of DevOps adoption: a case study
+     Author ['MÂR Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry (Soni, 2016) Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices
+     Url https://repositorio.iscte-iul.pt/handle/10071/18293
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract in development, testing and production environments (Rajkumar et al. 2016). Furthermore, in the highly regulated software industries that require level compliance in order to meet regulatory requirements (medical, finance,food) , there is still not clear evidence that DevOps fits
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT02.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Security impacts of sub-optimal DevSecOps implementations in a highly regulated environment
+     Author ['JA Morales', 'TP Scanlon', 'A Volkmann']
+     Venue Proceedings of the 15th …
+     Year 2020
+     Abstract a multi-year engagement supporting a software development effort for a large, well-funded, and highly regulated program that  run in production, insufficient configuration management, lack of static and dynamic analysis of code, development and testing platform incompatibilities
+     Url https://dl.acm.org/doi/abs/10.1145/3407023.3409186
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title What is devops
+     Author ['D Edwards']
+     Venue Retrieved
+     Year 2010
+     Abstract from the source, the larger problem we have, so we want to keep those numbers close to 1 or 0, to say that problems are caught through fast- feedback, good testing at the  Cloud and DevOps Aren't Just for Web Apps What about IT organizations that work in regulated industries
+     Url http://www.scrummaster.dk/lib/AgileLeanLibrary/Topics/DevOps/Introducing-DevOps-to-the-Traditional-Enterprise-final.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract in development, testing and production environments (Rajkumar et al. 2016). Furthermore, in the highly regulated software industries that require level compliance in order to meet regulatory requirements (medical, finance,food) , there is still not clear evidence that DevOps fits
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT03.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Application of DevOps approach in developing business intelligence system in bank
+     Author ['M Šćekić', 'M Gazivoda', 'S Šćepanović']
+     Venue 2018 7th …
+     Year 2018
+     Abstract every software change first on the test environment, and after a successful testing, applied on  the burden on employees in the IT sector that needs to be regulated so that  We have highlighted the positive impact of applying DevOps approach: reliability of BI system, realization of
+     Url https://ieeexplore.ieee.org/abstract/document/8406047/
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Digital Transformation: IT Governance In The Agile Environment A Study Case Of Indonesia High Regulated Company
+     Author ['E Indriasari', 'SH Supangkat', 'R Kosala']
+     Venue NA
+     Year NA
+     Abstract While technical development, testing, and deployment are part of IT responsibilities, most choices  Our findings present evidence that the integration of Agile and DevOps create more  this study was to draw up recommendations for established highly regulated companies which
+     Url https://www.academia.edu/download/64340588/Digital-Transformation-It-Governance-In-The-Agile-Environment-A-Study-Case-Of-Indonesia-High-Regulated-Company.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Digital Transformation: IT Governance In The Agile Environment A Study Case Of Indonesia High Regulated Company
+     Author ['E Indriasari', 'SH Supangkat', 'R Kosala']
+     Venue NA
+     Year NA
+     Abstract While technical development, testing, and deployment are part of IT responsibilities, most choices  Our findings present evidence that the integration of Agile and DevOps create more  this study was to draw up recommendations for established highly regulated companies which
+     Url https://www.academia.edu/download/64340588/Digital-Transformation-It-Governance-In-The-Agile-Environment-A-Study-Case-Of-Indonesia-High-Regulated-Company.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Next Generation Platform-as-a-Service (NGPaaS) From DevOps to Dev-for-Operations
+     Author ['I Labrador', 'A Ramos', 'A Pasic']
+     Venue Atos White Paper
+     Year 2018
+     Abstract will be divided into different stages (eg, coding, building, configuring, testing, packaging, releasing  As already commented, this vendor-operator relationship will be surely regulated by a time-limited contract, which implies that the “Dev” part in the DevOps methodology could
+     Url http://ngpaas.eu/wp-content/uploads/2018/10/Atos_Whitepaper_Final.pdf
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards Process Improvement in DevOps: A Systematic Literature Review
+     Author ['S Badshah', 'AA Khan', 'B Khan']
+     Venue … of the Evaluation and Assessment in …
+     Year 2020
+     Abstract order to ensure that the products are developed to run in the highly regulated context that  Use engineering best practices from CMMI-Dev for technical design, testing, and product integration  The models extracted from the SLR presented the DevOps maturity differently while the
+     Url https://dl.acm.org/doi/abs/10.1145/3383219.3383280
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps practices in incident management process
+     Author ['JPC Faustino']
+     Venue NA
+     Year 2018
+     Abstract testing approach. Infrastructure as Code Allows the organisations to manage which environments need to be provisioned and configured to enable continuous delivery Stakeholder Participation The participation of stakeholders will provide more feedback to the DevOps teams
+     Url https://repositorio.iscte-iul.pt/handle/10071/18294
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Enabling devops for containerized data-intensive applications: an exploratory study
+     Author ['M Fokaefs', 'C Barna', 'R Veleda', 'M Litoiu']
+     Venue Proceedings of the 26th …
+     Year 2016
+     Abstract 3. IMPLEMENTATION OVERVIEW Given our goal to study the DevOps aspects of multi-layer  Indeed, the problem on Tomcat was solved and memory consumption was regulated  Stress testing would eventually create saturation points, which will require adaptation and scaling
+     Url https://dl.acm.org/doi/abs/10.5555/3049877.3049891
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Accelerating Software Delivery in the context of Requirements Analysis and Breakdown for DevOps: A multiple-case study
+     Author ['F Debbiche', 'M Wrang', 'K Sinkala']
+     Venue NA
+     Year 2019
+     Abstract of associated errors [2]. Yasar [45] points out to the applicability of DevOps prac- tices in  late in the software devel- opment life cycle (SDLC) in highly regulated environments  of the SDLC entails problems on project consuming significant time for design, development, or testing
+     Url https://gupea.ub.gu.se/handle/2077/62542
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title BizDevOps: A process model for the Alignment of DevOps with Business Goals
+     Author ['K Chasioti']
+     Venue NA
+     Year 2019
+     Abstract MASTER THESIS BizDevOps: A process model for the Alignment of DevOps with Business Goals  Msc. Business Informatics BizDevOps: A process model for the Alignment of DevOps with Business Goals by Kleopatra CHASIOTI
+     Url https://dspace.library.uu.nl/handle/1874/383196
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Maturity model for DevOps
+     Author ['DS Teixeira']
+     Venue NA
+     Year 2019
+     Abstract Bezemer, Eismann, Ferme, & Grohmann, 2018). In a more general approach, DevOps integrates a set of characteristics and principles for software delivery that focuses on: speed of delivery, Continuous Testing in a an environment
+     Url https://repositorio.iscte-iul.pt/handle/10071/20297
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps for Networking
+     Author ['S Armstrong']
+     Venue NA
+     Year 2016
+     Abstract daily collaboration. With the introduction of agile software development, it also has changed the way software testing is carried out too, with the same DevOps principles also being applied to testing functions. Quality assurance
+     Url https://books.google.com/books?hl=en&lr=&id=epvcDgAAQBAJ&oi=fnd&pg=PP1&dq=%22DevOps%22+%22Regulated%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=eYXjTBcimO&sig=1yjJik131J5G6vLKIngzAN-L1Ww
+
+
+     Search term "DevOps"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An empirical study of architecting and organizing for DevOps
+     Author ['M Shahin']
+     Venue NA
+     Year 2018
+     Abstract deployment. Most research on DevOps focuses on tooling support, improving automation in testing and deployment, improving performance and integrating security into the deployment process to initiate and implement DevOps. To
+     Url https://digital.library.adelaide.edu.au/dspace/handle/2440/116767
+

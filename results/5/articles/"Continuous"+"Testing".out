@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Testing"
+
+     Search term "Continuous"+"Testing"
+     Title An experimental evaluation of continuous testing during development
+     Author ['D Saff', 'MD Ernst']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2004
+     Abstract Continuous testing uses excess cycles on a developer's workstation to continuously run regression tests in the background, providing rapid feedback about test failures as source code is edited. It is intended to reduce the time and energy required to keep code well-tested
+     Url https://dl.acm.org/doi/abs/10.1145/1013886.1007523
+
+
+     Search term "Continuous"+"Testing"
+     Title Reducing wasted development time via continuous testing
+     Author ['D Saff', 'MD Ernst']
+     Venue 14th International Symposium on Software …
+     Year 2003
+     Abstract Testing is often performed frequently during development to ensure software reliability by catching regression errors quickly. However, stopping frequently to test also wastes time by holding up development progress. User studies on real development projects indicate that
+     Url https://ieeexplore.ieee.org/abstract/document/1251050/
+
+
+     Search term "Continuous"+"Testing"
+     Title Taming Google-scale continuous testing
+     Author ['A Memon', 'Z Gao', 'B Nguyen', 'S Dhanda']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract Growth in Google's code size and feature churn rate has seen increased reliance on continuous integration (CI) and testing to maintain quality. Even with enormous resources dedicated to testing, we are unable to regression test each code change individually
+     Url https://ieeexplore.ieee.org/abstract/document/7965447/
+
+
+     Search term "Continuous"+"Testing"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous testing in Eclipse
+     Author ['D Saff', 'MD Ernst']
+     Venue Electronic Notes in Theoretical Computer Science
+     Year 2004
+     Abstract Continuous testing uses excess cycles on a developer's workstation to continuously run regression tests in the background, providing rapid feedback about test failures as source code is edited. It is intended to reduce the time and energy required to keep code well
+     Url https://www.sciencedirect.com/science/article/pii/S1571066104051941
+
+
+     Search term "Continuous"+"Testing"
+     Title Data debugging with continuous testing
+     Author ['K Muşlu', 'Y Brun', 'A Meliou']
+     Venue Proceedings of the 2013 9th Joint Meeting …
+     Year 2013
+     Abstract Today, systems rely as heavily on data as on the software that manipulates those data. Errors in these systems are incredibly costly, annually resulting in multi-billion dollar losses, and, on multiple occasions, in death. While software debugging and testing have received
+     Url https://dl.acm.org/doi/abs/10.1145/2491411.2494580
+
+
+     Search term "Continuous"+"Testing"
+     Title … hydropyrolysis and hydroconversion (IH2®) for the direct production of gasoline and diesel fuels or blending components from biomass, Part 2: continuous testing
+     Author ['TL Marker', 'LG Felix', 'MB Linck']
+     Venue Environmental …
+     Year 2014
+     Abstract Cellulosic biomass can be directly converted to high‐quality hydrocarbon transportation fuels through the use of integrated hydropyrolysis plus hydroconversion (IH2®). IH2® is a new process which has been developed which has excellent economics, and low
+     Url https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/ep.11906
+
+
+     Search term "Continuous"+"Testing"
+     Title Preventing data errors with continuous testing
+     Author ['K Muşlu', 'Y Brun', 'A Meliou']
+     Venue … Symposium on Software Testing and …
+     Year 2015
+     Abstract Today, software systems that rely on data are ubiquitous, and ensuring the data's quality is an increasingly important challenge as data errors result in annual multi-billion dollar losses. While software debugging and testing have received heavy research attention, less effort
+     Url https://dl.acm.org/doi/abs/10.1145/2771783.2771792
+
+
+     Search term "Continuous"+"Testing"
+     Title Solvent extraction of vanadium from a stone coal acidic leach solution using D2EHPA/TBP: Continuous testing
+     Author ['X Li', 'Z Deng', 'C Wei', 'C Li', 'M Li', 'G Fan', 'H Huang']
+     Venue Hydrometallurgy
+     Year 2015
+     Abstract This paper reports on continuous testing of a process for the recovery of vanadium from a H 2 SO 4-HF solution, generated from the leaching of stone coal, by solvent extraction using a D2EHPA/TBP mixture as the extractant. Three unit processes are included: fully continuous
+     Url https://www.sciencedirect.com/science/article/pii/S0304386X14002564
+
+
+     Search term "Continuous"+"Testing"
+     Title Automated continuous testing of multi-agent systems
+     Author ['CD Nguyen', 'A Perini', 'P Tonella', 'FB Kessler']
+     Venue The fifth European workshop …
+     Year 2007
+     Abstract Agent-based distributed systems are increasingly used in various application domains, where autonomy, proactivity and cooperation are required. Correspondingly, the demands on the quality of the delivered agents are growing. However, testing remains a challenging
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.4261&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Testing"
+     Title Insight into the effect of the continuous testing and aging on the SO2 sensing characteristics of a YSZ (Yttria-stabilized Zirconia)-based sensor utilizing ZnGa2O4 and …
+     Author ['X Hao', 'Q Lu', 'Y Zhang', 'W Li', 'Y Zhang', 'T Liu']
+     Venue Journal of hazardous …
+     Year 2020
+     Abstract In this paper, YSZ-based mixed potential SO 2 sensor with ZnGa 2 O 4 and Pt electrodes was developed and the effect of the continuous testing and aging process on the sensing characteristics was discussed. The results showed that with this process the response of the
+     Url https://www.sciencedirect.com/science/article/pii/S0304389419317261
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous software testing in a globally distributed project
+     Author ['NB Moe', 'D Cruzes', 'T Dybå']
+     Venue 2015 IEEE 10th …
+     Year 2015
+     Abstract In globally distributed software projects the testing expertise may be scattered across multiple locations. We describe and discuss a globally distributed agile project at DNV GL Software, a multinational provider of software for a safer, smarter and greener future in the
+     Url https://ieeexplore.ieee.org/abstract/document/7224491/
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous testing system for Baeyer–Villiger biooxidation using recombinant Escherichia coli expressing cyclohexanone monooxygenase encapsulated in …
+     Author ['M Bučko', 'A Schenkmayerová', 'P Gemeiner']
+     Venue Enzyme and microbial …
+     Year 2011
+     Abstract An original strategy for universal laboratory testing of Baeyer–Villiger monooxygenases based on continuous packed-bed minireactor connected with flow calorimeter and integrated with bubble-free oxygenation is reported. Model enantioselective Baeyer–Villiger
+     Url https://www.sciencedirect.com/science/article/pii/S0141022911001165
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue … 1st International Workshop on Rapid Continuous …
+     Year 2014
+     Abstract These activities include continuous planning, continuous integration, continuous deployment, continuous delivery, continuous verification, continuous testing, contin- uous compliance, continuous security, continuous use, con- tinuous trust, continuous run-time monitoring
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Continuous"+"Testing"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract DevOps is an set of principles towards software delivery where the key focus is on speed of delivery, continuous testing in production like environment, be in shippable state at any day, continuous feedback, ability to react to change more quickly, teams working to accomplish a
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+
+
+     Search term "Continuous"+"Testing"
+     Title The implementation of school based continuous assessment (CA) in Zambia
+     Author ['WM Kapambwe']
+     Venue Educational Research and Reviews
+     Year 2010
+     Abstract This paper deals with the implementation of school based continuous assessment, focusing on the shift from emphasising continuous testing to emphasising continuous assessment  If that is done, then continuous testing is practiced
+     Url https://academicjournals.org/journal/ERR/article-abstract/5A14C3A3866
+
+
+     Search term "Continuous"+"Testing"
+     Title FITTEST: A new continuous and automated testing process for future Internet applications
+     Author ['T Vos', 'P Tonella', 'W Prasetya', 'PM Kruse']
+     Venue … -IEEE Conference on …
+     Year 2014
+     Abstract Since our society is becoming increasingly dependent on applications emerging on the Future Internet, quality of these applications becomes a matter that cannot be neglected. However, the complexity of the technologies involved in Future Internet applications makes
+     Url https://ieeexplore.ieee.org/abstract/document/6747206/
+
+
+     Search term "Continuous"+"Testing"
+     Title Integrated circuit with continuous testing of repetitive functional blocks
+     Author ['GL Miller', 'HMVDC Cavalcanti']
+     Venue US Patent 7,676,715
+     Year 2010
+     Abstract A method of continuous testing of repetitive functional blocks provided on an integrated circuit (IC) which includes selecting one of the repetitive functional blocks at a time for testing, substituting a test repetitive functional block for a selected repetitive functional block
+     Url https://patents.google.com/patent/US7676715B2/en
+
+
+     Search term "Continuous"+"Testing"
+     Title Mechanism for facilitating dynamic and continuous testing of security assertion markup language credentials in an on-demand services environment
+     Author ['J Lee']
+     Venue US Patent 8,763,098
+     Year 2014
+     Abstract In accordance with embodiments, there are provided mechanisms and methods for facilitating dynamic and continuous testing of security assertion markup language (SAML) credentials in an on-demand services environment. In one embodiment and by way of
+     Url https://patents.google.com/patent/US8763098B2/en
+
+
+     Search term "Continuous"+"Testing"
+     Title A continuous-parameter Markov model and detection procedures for intermittent faults
+     Author ['SYH Su', 'I Koren', 'YK Malaiya']
+     Venue IEEE Transactions on Computers
+     Year 1978
+     Abstract Two testing strategies are considered, continuous testing for combinational networks and repetitive testing for both combina- tional and sequential networks while only the latter strategy was considered in earlier studies. Next
+     Url https://ieeexplore.ieee.org/abstract/document/1675148/
+
+
+     Search term "Continuous"+"Testing"
+     Title FITTEST: A new continuous and automated testing process for future Internet applications
+     Author ['T Vos', 'P Tonella', 'W Prasetya', 'PM Kruse']
+     Venue … -IEEE Conference on …
+     Year 2014
+     Abstract Since our society is becoming increasingly dependent on applications emerging on the Future Internet, quality of these applications becomes a matter that cannot be neglected. However, the complexity of the technologies involved in Future Internet applications makes
+     Url https://ieeexplore.ieee.org/abstract/document/6747206/
+
+
+     Search term "Continuous"+"Testing"
+     Title Software testing and continuous quality improvement
+     Author ['WE Lewis']
+     Venue NA
+     Year 2017
+     Abstract It is often assumed that software testing is based on clearly defined requirements and software development standards. However, testing is typically performed against changing, and sometimes inaccurate, requirements. The third edition of a bestseller, Software Testing
+     Url https://books.google.com/books?hl=en&lr=&id=fgaBDd0TfT8C&oi=fnd&pg=PP1&dq=%22Continuous%22+%22Testing%22&ots=gXguGFIv9O&sig=8Jd9UHUWcaMzVmdQ_t8ctALSWfU
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing continuous-time models of the spot interest rate
+     Author ['Y Ait-Sahalia']
+     Venue The review of financial studies
+     Year 1996
+     Abstract Different continuous-time models for interest rates coexist in the literature. We test parametric models by comparing their implied parametric density to the same density estimated nonparametrically. We do not replace the continuous-time model by discrete
+     Url https://academic.oup.com/rfs/article-abstract/9/2/385/1630735
+
+
+     Search term "Continuous"+"Testing"
+     Title Techniques for improving regression testing in continuous integration development environments
+     Author ['S Elbaum', 'G Rothermel', 'J Penix']
+     Venue Proceedings of the 22nd ACM …
+     Year 2014
+     Abstract In continuous integration development environments, software engineers frequently integrate new or changed code with the mainline codebase. This can reduce the amount of code rework that is needed as systems evolve and speed up development time. While
+     Url https://dl.acm.org/doi/abs/10.1145/2635868.2635910
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing for different rates of continuous trait evolution using likelihood
+     Author ["BC O'Meara", 'C Ané', 'MJ Sanderson', 'PC Wainwright']
+     Venue Evolution
+     Year 2006
+     Abstract Rates of phenotypic evolution have changed throughout the history of life, producing variation in levels of morphological, functional, and ecological diversity among groups. Testing for the presence of these rate shifts is a key component of evaluating hypotheses
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2006.tb01171.x
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing the constancy of regression parameters against continuous structural change
+     Author ['CFJ Lin', 'T Teräsvirta']
+     Venue Journal of econometrics
+     Year 1994
+     Abstract A standard explicit or implicit assumption underlying many parameter constancy tests in linear models is that there is a single structural break in the sample. In this paper that assumption is replaced by a more general one stating that the parameters of the model may
+     Url https://www.sciencedirect.com/science/article/pii/0304407694900221
+
+
+     Search term "Continuous"+"Testing"
+     Title Comparison of continuous and intermittent multistage maximal exercise testing during beta-adrenoceptor blockade in physically active men
+     Author ['NF Gordon', 'JP Van Rensburg']
+     Venue … journal of sports …
+     Year 1987
+     Abstract Cardiorespiratory responses of 11 healthy males were studied, with placebo and propranolol, during a continuous and an intermittent multistage maximal treadmill test. With placebo, equivalent maximal heart rates were attained for the disparate test modes, and the
+     Url https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-2008-1025632
+
+
+     Search term "Continuous"+"Testing"
+     Title Reliability of strain-balanced Ga 0.331 In 0.669 As∕ Al 0.659 In 0.341 As∕ In P quantum-cascade lasers under continuous-wave room-temperature operation
+     Author ['A Evans', 'M Razeghi']
+     Venue Applied physics letters
+     Year 2006
+     Abstract QCLs are tested under continuous-wave operation at a heat sink temperature of 298 K ( 25 ° C ) corresponding to an internal temperature of 378 K ( 105 ° C ) . Over 4000 h of continuous testing is reported without any decrease in output power
+     Url https://aip.scitation.org/doi/abs/10.1063/1.2217144
+
+
+     Search term "Continuous"+"Testing"
+     Title Enabling agile testing through continuous integration
+     Author ['S Stolberg']
+     Venue 2009 agile conference
+     Year 2009
+     Abstract A continuous integration system is often considered one of the key elements involved in supporting an agile software development and testing environment. As a traditional software tester transitioning to an agile development environment it became clear to me that I would
+     Url https://ieeexplore.ieee.org/abstract/document/5261055/
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous stiffness measurement during instrumented indentation testing
+     Author ['J Hay', 'P Agee', 'E Herbert']
+     Venue Experimental Techniques
+     Year 2010
+     Abstract Conclusions CSM is a valuable tool for instrumented indentation testing. CSM is often used to measure properties of thin films and surface layers as a continuous function of penetration depth. CSM should always be used when testing materials that exhibit significant
+     Url https://link.springer.com/article/10.1111/j.1747-1567.2010.00618.x
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous, large strain, tension/compression testing of sheet material
+     Author ['RK Boger', 'RH Wagoner', 'F Barlat', 'MG Lee']
+     Venue International Journal of …
+     Year 2005
+     Abstract Modeling sheet metal forming operations requires understanding of the plastic behavior of sheet alloys along non-proportional strain paths. Measurement of hardening under reversed uniaxial loading is of particular interest because of its simplicity of interpretation and its
+     Url https://www.sciencedirect.com/science/article/pii/S0749641905000410
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals
+     Author ['DV Zaykin', 'PH Westfall', 'SS Young', 'MA Karnoub']
+     Venue Human …
+     Year 2002
+     Abstract There have been increasing efforts to relate drug efficacy and disease predisposition with genetic polymorphisms. We present statistical tests for association of haplotype frequencies with discrete and continuous traits in samples of unrelated individuals. Haplotype
+     Url https://www.karger.com/Article/Abstract/57986
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous Deflection Testing of Highways at Traffic Speeds.
+     Author ['J Arora', 'S Nazarian', 'V Tandon']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Testing"
+     Title Pilot plant testing of continuous hydrothermal liquefaction of microalgae
+     Author ['C Jazrawi', 'P Biller', 'AB Ross', 'A Montoya']
+     Venue Algal Research
+     Year 2013
+     Abstract We describe a pilot plant for continuous hydrothermal processing of biomass. Results were obtained for two microalgae strains, Chlorella and Spirulina, across a range of biomass loadings (1–10 wt.%), temperatures (250–350° C), residence times (3–5 min) and pressures
+     Url https://www.sciencedirect.com/science/article/pii/S2211926413000532
+
+
+     Search term "Continuous"+"Testing"
+     Title Uniqueness of interval and continuous training at the same maintained exercise intensity
+     Author ['EM Gorostiaga', 'CB Walter', 'C Foster']
+     Venue European journal of …
+     Year 1991
+     Abstract Blood samples were obtained after all tests, deproteinized, and analyzed for lab as de- scribed under continuous testing. Training programs  The initial individual intensity level for the continuous group corresponded to the workloads per- formed for the continuous testing
+     Url https://link.springer.com/article/10.1007/BF00235177
+
+
+     Search term "Continuous"+"Testing"
+     Title A continuous-flow mini-diluter system for toxicity testing
+     Author ['DA Benoit', 'VR Mattson', 'DL Olson']
+     Venue Water Research
+     Year 1982
+     Abstract A space saving portable mini-diluter exposure system for testing early life stages of fish and invertebrates has been developed and successfully used both in the laboratory and on-site with single chemicals and with complex effluents. This gravity-operated system can also be
+     Url https://www.sciencedirect.com/science/article/pii/0043135482901713
+
+
+     Search term "Continuous"+"Testing"
+     Title Nonparametric specification testing for continuous-time models with applications to term structure of interest rates
+     Author ['Y Hong', 'H Li']
+     Venue The Review of Financial Studies
+     Year 2005
+     Abstract We develop a nonparametric specification test for continuous-time models using the transition density. Using a data transform and correcting for the boundary bias of kernel estimators, our test is robust to serial dependence in data and provides excellent finite
+     Url https://academic.oup.com/rfs/article-abstract/18/1/37/1592259
+
+
+     Search term "Continuous"+"Testing"
+     Title Sequential decision problems for processes with continuous time parameter. Testing hypotheses
+     Author ['A Dvoretzky', 'J Kiefer', 'J Wolfowitz']
+     Venue The Annals of Mathematical …
+     Year 1953
+     Abstract The purpose of the present paper is to contribute to the sequential theory of testing hypotheses about stochastic processes with a continuous parameter (say, $ t $ which one may think of as time). Sequential decision problems about such processes seem not to have
+     Url https://projecteuclid.org/euclid.aoms/1177729031
+
+
+     Search term "Continuous"+"Testing"
+     Title Cardiopulmonary exercise testing for prognosis in chronic heart failure: continuous and independent prognostic value from VE/VCO2slope and peak VO2
+     Author ['DP Francis', 'W Shamim', 'LC Davies']
+     Venue European heart …
+     Year 2000
+     Abstract Background Chronic heart failure carries a poor prognosis. Cardiopulmonary exercise testing is useful in predicting survival. We set out to establish the prognostic value of peak VO2and VE/VCO2slope across a range of threshold values. Method and Results Three
+     Url https://academic.oup.com/eurheartj/article-abstract/21/2/154/522611
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing for continuous-time models of the short-term interest rate
+     Author ['L Broze', 'O Scaillet', 'JM Zakoian']
+     Venue Journal of Empirical Finance
+     Year 1995
+     Abstract The recent financial literature has been much concerned with the short-term interest rate. Several models have been proposed and studied quite extensively. Despite the number of models, relatively little is known about their empirical comparison. A first approach of this
+     Url https://www.sciencedirect.com/science/article/pii/092753989500003D
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous PsD testing with substructuring
+     Author ['P Pegon']
+     Venue Modern Testing Techniques for Structural Systems
+     Year 2008
+     Abstract This work presents the development and implementation of a domain decomposition approach for solving dynamics problems involving continuous testing with analytical substructuring in the non-linear range. This approach implements an inter-field parallel time
+     Url https://link.springer.com/chapter/10.1007/978-3-211-09445-7_5
+
+
+     Search term "Continuous"+"Testing"
+     Title The impact of continuous glucose monitoring on hospital point-of-care testing programs
+     Author ['FL Kiechle']
+     Venue Diabetes Technology & Therapeutics
+     Year 2001
+     Abstract DIABETES MELLITUS is a heterogeneous group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both. 1, 2 In the adult population of the United States, 6.6% have diabetes mellitus, while 11.2% have
+     Url https://www.liebertpub.com/doi/pdf/10.1089/15209150152811298
+
+
+     Search term "Continuous"+"Testing"
+     Title Testing the accuracy of methods for reconstructing ancestral states of continuous characters
+     Author ['AJ Webster', 'A Purvis']
+     Venue … of the Royal Society of London …
+     Year 2002
+     Abstract Many methods are available for estimating ancestral values of continuous characteristics, but little is known about how well these methods perform. Here we compare six methods: linear parsimony, squared–change parsimony, one–parameter maximum likelihood
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2001.1873
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous strip of fluid sampling and testing devices and methods of making, packaging and using the same
+     Author ['L Olson', 'D McAllister']
+     Venue US Patent App. 10/142,409
+     Year 2003
+     Abstract The present invention provides continuous strips of testers in an individually-sealed water-impermeable packaging which maintains the testers in a sterile condition until used. The subject testers include a test strip sensor integrated with a microneedle for accessing and
+     Url https://patents.google.com/patent/US20030211619A1/en
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract The problem is further exacerbated by the episodic and infrequent performance of activities such as planning, testing, integration and releases. Several emerging phenomena reflect attempts to address these problems. For example, Continuous Integration is a practice which
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "Continuous"+"Testing"
+     Title Test case prioritization for continuous regression testing: An industrial case study
+     Author ['D Marijan', 'A Gotlieb', 'S Sen']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract Regression testing in continuous integration environment is bounded by tight time constraints. To satisfy time constraints and achieve testing goals, test cases must be efficiently ordered in execution. Prioritization techniques are commonly used to order test
+     Url https://ieeexplore.ieee.org/abstract/document/6676952/
+
+
+     Search term "Continuous"+"Testing"
+     Title Continuous, evolutionary and large-scale: A new perspective for automated mobile app testing
+     Author ['M Linares-Vásquez', 'K Moran']
+     Venue 2017 IEEE International …
+     Year 2017
+     Abstract Mobile app development involves a unique set of challenges including device fragmentation and rapidly evolving platforms, making testing a difficult task. The design space for a comprehensive mobile testing strategy includes features, inputs, potential contextual app
+     Url https://ieeexplore.ieee.org/abstract/document/8094439/
+
+
+     Search term "Continuous"+"Testing"
+     Title Adaptive testing in continuous-time diffusion models
+     Author ['J Gao', 'M King']
+     Venue Econometric Theory
+     Year 2004
+     Abstract We propose an optimal test procedure for testing the marginal density functions of a class of nonlinear diffusion processes. The proposed test is not only an optimal one but also avoids undersmoothing. An adaptive test is constructed, and its asymptotic properties are
+     Url https://www.jstor.org/stable/3533552
+
+
+     Search term "Continuous"+"Testing"
+     Title Method of testing memory with continuous, varying data
+     Author ['C Lee']
+     Venue US Patent 7,073,101
+     Year 2006
+     Abstract A method of testing memory using continuous, varying data. More specifically, a method for testing whether a memory is weakened or damaged by continuously inputting and outputting varying data through the data I/O pins of the memory. At least a 75% data variation ratio on
+     Url https://patents.google.com/patent/US7073101B2/en
+
+
+     Search term "Continuous"+"Testing"
+     Title ICD with continuous regular testing of defibrillation lead status
+     Author ['MW Kroll']
+     Venue US Patent 5,944,746
+     Year 1999
+     Abstract An implantable cardiac stimulating device which incorporates the functionality of both a pacemaker and an implantable cardioverter-defibrillator (ICD). The implantable cardiac stimulating device is adapted to periodically obtain an impedance measurement by applying
+     Url https://patents.google.com/patent/US5944746A/en
+

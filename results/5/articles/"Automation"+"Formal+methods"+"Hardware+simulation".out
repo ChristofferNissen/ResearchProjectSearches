@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Formal+methods"+"Hardware+simulation"
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous  includes iterated design, refinement, and synthesis, with comparable and compatible automation. Unfortunately, tool support for constructive formal methods lags far behind the
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract inject a fault F (eg, write failure or system reset) into the hardware simulation layer  We describe the experience of a group of model checking and formal methods researchers with randomized  to design for error exposure and the use of as much tool-based automation as possible
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title System and process of extracting gate-level descriptions from simulation tables for formal verification
+     Author ['P Wohl', 'D Anastasakis']
+     Venue US Patent 6,247,165
+     Year 2001
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property  For Automatic Generation of Gate-Level Descriptions From Table-Based Descriptions For Electronic Design Automation”, by Peter Wohl
+     Url https://patents.google.com/patent/US6247165B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Selection of initial states for formal verification
+     Author ['JAG Seawright', 'R Sathianathan', 'CG Gauthron']
+     Venue US Patent …
+     Year 2008
+     Abstract Model Checking Using Satisfiability Solving” by Edmund Clarke, Armin Biere, Richard Raimi, and Yunshan Zhu, published in Formal Methods in System  Ying Zhao, Lintao Zhang and Sharad Malik, published in the Proceedings fo the 38 th Design Automation Conference, June
+     Url https://patents.google.com/patent/US7454324B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Some recent advances in software and hardware logic simulation
+     Author ['R Murgai', 'M Fujita']
+     Venue Proceedings Tenth International …
+     Year 1997
+     Abstract Not surprisingly, then, simulation is one of the major bottlenecks in the design pro- cess. Significant advances have been made in both software and hardware simulation. We survey some of the recent advances, with an emphasis on their main ideas. 1 Introduction
+     Url https://ieeexplore.ieee.org/abstract/document/568081/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Formal Methods Adoption: What's working, What's not!
+     Author ['D Craigen']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 1999
+     Abstract Benefits of Automation: Automated analysis of models has the significant potential benefits of  of a clear winning observable “product.” In some organizations, a harsh “formal methods winter” has  chips, sometimes at a speed that is faster than traditional hardware simulation tools
+     Url https://link.springer.com/chapter/10.1007/3-540-48234-2_6
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware-software codesign of embedded systems
+     Author ['CJN Coelho', 'DCD Silva']
+     Venue Proceedings. XI Brazilian …
+     Year 1998
+     Abstract 6. Interface Synthesis As the design automation moves to more abstract levels new problems arise  validation mathematical formal methods are being developed and employed  Hardware simulation is being used since the advent of integrated circuits, since a single run is very
+     Url https://ieeexplore.ieee.org/abstract/document/715400/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Large-scale hardware simulation: Modeling and verification strategies
+     Author ['DW Clark']
+     Venue Proceedings of the 25th Anniversary Symposium …
+     Year 1990
+     Abstract Second is the challenge of correctness: since formal methods are not yet practical for verifying the correctness of an  In this paper I have presented a set of recommendations concerning computer hardware simulation  17th Design Automation Conf., ACM/IEEE, June 1980, pp
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.4432&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Coverage-directed test generation using symbolic techniques
+     Author ['D Geist', 'M Farkas', 'A Landver', 'Y Lichtenstein']
+     Venue … on Formal Methods in …
+     Year 1996
+     Abstract These tests were later run in hardware simulation. Table 5 contains the results from both examples  Test program generation for functional verification of powerpc processors in ibm. In 32nd Design Automation Conference, DAC 95, pages 279-285, 1995
+     Url https://link.springer.com/chapter/10.1007/BFb0031805
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title FOrmal Methods for Embedded Systems
+     Author ['T FORMES']
+     Venue NA
+     Year NA
+     Abstract Enhance the hardware simulation technologies with  technologies and tools, relies in the application itself: to combine simulation technologies with formal methods in order  It has applications for example in industry automation, digital TV, telecommunications and transportation
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.4099&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Property specific testbench generation framework for circuit design validation by guided simulation
+     Author ['AE Casavant', 'A Gupta', 'P Ashar']
+     Venue US Patent 6,975,976
+     Year 2005
+     Abstract eg test vectors, patterns or sequences as a result of hardware simulation, eg in an  simulation with symbolic algorithms”, In Proceedings of the Design Automation Conference, June  symbolic techniques”, In Proceedings of the International Conference on Formal Methods in CAD
+     Url https://patents.google.com/patent/US6975976B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Incremental development of production units using HW/SW-encapsulation and simulation supported by a complete toolset
+     Author ['U Schmidtmann', 'G von Cölln', 'G Kreutz']
+     Venue … Factory Automation
+     Year 2005
+     Abstract 3D-information is provided and available via the framework, software for automation units can be  Complexity can be mastered by formal methods and tools used ina stricttop-down process  3D simulations based on VRML exports with the I/O-Hardware simulation establishes a
+     Url https://ieeexplore.ieee.org/abstract/document/1612579/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Research on Hardware Design Verification Methods
+     Author ['J Zhang', 'J Qi', 'Y Guan']
+     Venue Advanced Materials Research
+     Year 2012
+     Abstract Hardware simulation is expensive, therefore software and hardware co-simulation is an important  proving, although with shortcomings such as low degree of automation and high  2.3 Comparison between Simulation-based and Formal Methods-based Verification The biggest
+     Url https://www.scientific.net/AMR.588-589.1208
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Implementation of Process Simulation for Marine Automation System
+     Author ['M Mononen']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Implementation of Process Simulation for Marine Automation System Mikko Mononen School of Electrical Engineering Thesis submitted for examination for the degree of Master of Science in Technology  23 Marine automation hardware: ABB Ability" System 800xA
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Temporal parallel simulation: A fast gate-level HDL simulation using higher level models
+     Author ['D Kim', 'M Ciesielski', 'K Shim']
+     Venue … , Automation & Test in …
+     Year 2011
+     Abstract I. INTRODUCTION Event-driven hardware simulation remains the most widely used technique for  because of large complexity of the underlying mathematical models, formal methods are still  REFERENCES [1] “Design Automation: Gate-level Timing Simulation Revs Up”, Mar
+     Url https://ieeexplore.ieee.org/abstract/document/5763251/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title An Interpreter Interface Language: From Its Formal Embedding in Higher-Order Logic to Its Role in Better Simulation Practices
+     Author ['DA Fura', 'AK Somani']
+     Venue NA
+     Year NA
+     Abstract is an important part of a practical approach to transferring formal methods into working design  4 The Role of Interface Languages in Simulation Environments Current hardware simulation methods are  Prospects for significant automation are poor, given the lack of an adequate
+     Url https://www.researchgate.net/profile/Arun_Somani/publication/2342990_An_Interpreter_Interface_Language_From_Its_Formal_Embedding_in_Higher-Order_Logic_to_Its_Role_in_Better_Simulation_Practices/links/02bfe513e2ddeb8b31000000/An-Interpreter-Interface-Language-From-Its-Formal-Embedding-in-Higher-Order-Logic-to-Its-Role-in-Better-Simulation-Practices.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Simulation-based functional verification of microcircuit designs
+     Author ['KM Harer', 'PH Ho', 'RF Damiano']
+     Venue US Patent 7,130,783
+     Year 2006
+     Abstract a sequence of random input vectors to a design under test model in order to obtain a sequence of random simulation states; monitoring a simulation coverage progress metric to determine a preference for switching from random simulation to formal methods of simulating states
+     Url https://patents.google.com/patent/US7130783B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Software intensive embedded systems
+     Author ['M Müllerburg']
+     Venue Information and Software Technology
+     Year 1999
+     Abstract rigour in construction and validation, and hence, strengthen the role of formal methods  The journal Design Automation for Embedded Systems, for instance, provides a hardware  hardware), and computer aided design (CAD) (hardware synthesis, hardware simulation, test and
+     Url https://www.sciencedirect.com/science/article/pii/S0950584999000725
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Formal hardware verification methods: A survey
+     Author ['A Gupta']
+     Venue Formal Methods in System Design
+     Year 1992
+     Abstract Since the idea of using formal methods for verifying hardware was first introduced, researchers have explored numerous  Also, for complete automation, additional theories may be required to simplify the symbolic expressions  Applications of hardware simulation techniques
+     Url https://link.springer.com/content/pdf/10.1007/BF00121125.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title The Role of Validation in Refinement-Based Formal Software Development
+     Author ['JP Jacquot', 'A Mashkoor']
+     Venue NA
+     Year 2018
+     Abstract Without a high level of automation, formal methods are not usable in practice  This boils down to the fidelity of the hardware simulation model to the actual hardware piece  In formal methods, such as Event-B, the notion of refinement was introduced and formalized to support the
+     Url https://hal.inria.fr/hal-01788768/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware verification using software analyzers
+     Author ['R Mukherjee', 'D Kroening']
+     Venue 2015 IEEE Computer …
+     Year 2015
+     Abstract A. Symbolic Hardware Simulation and Software Execution Symbolic simulation of hardware designs aims to replace multiple simulation runs, each with different inputs, by a single symbolic simulation run that uses symbolic values as its inputs
+     Url https://ieeexplore.ieee.org/abstract/document/7308670/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Incremental Development of Production Units Using HW/SW-Encapsulation and Simulation Supported By a Complete Toolset
+     Author ['F Emden']
+     Venue NA
+     Year NA
+     Abstract 3D-information is provided and available via the framework, software for automation units can  Complexity can be mastered by formal methods and tools used in a strict top-down  Connecting 3D simulations based on VRML exports with the I/O-Hardware simulation establishes a
+     Url http://fileadmin.cs.lth.se/ai/Proceedings/etfa2005/html/articles/CF-000527.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Some Recent Advances in Software and Hardware Logic Simulation
+     Author ['R Murgai', 'M Fujita']
+     Venue VLSI Design, International Conference on
+     Year 1997
+     Abstract This, ,along ,with ,the ,fact ,that ,millions ,of ,input ,vectors ,have ,to ,be ,simulated, ,makes ,software ,simulation ,very ,slow. ,s ,Hardware ,simulation: ,Logic ,simulation ,of ,a  Fitting ,Formal ,Methods ,into ,the  In ,Proceedings ,of ,the ,Design ,Automation ,Conference, ,June ,1994
+     Url https://www.computer.org/csdl/proceedings-article/vlsid/1997/77550232/12OmNCbU2W3
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Formal hardware specification languages for protocol compliance verification
+     Author ['A Bunker', 'G Gopalakrishnan', 'SA Mckee']
+     Venue … on Design Automation of …
+     Year 2004
+     Abstract In one project, class libraries support hardware simulation by implementing hardware design components such  ACM Transactions on Design Automation of Electronic Systems, Vol  PSL is the temporal assertion language developed by IBM® [Formal Methods Group 2000] and
+     Url https://dl.acm.org/doi/abs/10.1145/966137.966138
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Use of formal verification at Centaur Technology
+     Author ['WA Hunt', 'S Swords', 'J Davis', 'A Slobodova']
+     Venue Design and verification of …
+     Year 2010
+     Abstract 2. To prove that output from a hardware simulation is equivalent to that produced by a specification function, we  A big impetus for the use of formal methods came from the Intel FDIV bug [18  Much of the complexity of the flow is hidden from the user by the automation provided by
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-1539-9_3
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Verity—a formal verification program for custom CMOS circuits
+     Author ['A Kuehlmann', 'A Srinivasan']
+     Venue IBM Journal of Research …
+     Year 1995
+     Abstract Much effort has been spent in improving the coverage of the validation process by accelerating existing algorithms for software simulation [1], applying hardware simulation techniques [2], or using prototype implementations based on programmable logic devices
+     Url https://ieeexplore.ieee.org/abstract/document/5389515/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Specification, synthesis and validation of hardware/software interfaces
+     Author ["M O'Nils"]
+     Venue NA
+     Year 1999
+     Abstract 5. Mattias O'Nils, Axel Jantsch, “Device Driver and DMA Controller Synthesis from HW/SW Communication Protocol Specifications”, submitted to Design Automation for Embedded Systems  in the area of specification is to find formal methods of capturing the information needed
+     Url https://www.diva-portal.org/smash/get/diva2:8543/FULLTEXT01.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title A bibliography on formal methods for system specification, design and validation
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue NA
+     Year 1982
+     Abstract 1 0. Introduction There ie a body of literature describing formal methods which have been or are being developed  v `= ' This report contains the results. of a iterature survey designed to classify current literature an formal methods that mi ht be meanin full ex lofted in r g gy P
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware/software co-simulation in a VHDL-based test bench approach
+     Author ['M Bauer', 'W Ecker']
+     Venue Proceedings of the 34th annual Design Automation …
+     Year 1997
+     Abstract Furthermore, test vector reduction is applied by using eg metrics to recognize how many tests are actually required. Formal methods could also help in functional tests  [Sch96] B. Schnaider, E. Yogev, "Software Development in a Hardware Simulation Environment"
+     Url https://dl.acm.org/doi/abs/10.1145/266021.266371
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Multiprocessor system verification through behavioral modeling and simulation
+     Author ['R Raghavan', 'J Kreulen', "B O'Krafka"]
+     Venue … on Computers and …
+     Year 1995
+     Abstract Unfortunately, formal methods are still in their infancy and are difficult to apply to large systems  3. Maverick: The Discrete Event-Driven Simu- lation Engine Maverick is a behavioral modeling environment that supplements our hardware simulation tools
+     Url https://ieeexplore.ieee.org/abstract/document/472462/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Method for automatically generating checkers for finding functional defects in a description of a circuit
+     Author ['TA Ly', 'JC Giomi', 'KC Mulam', 'PA Wilcox', 'DL Dill']
+     Venue US Patent …
+     Year 2001
+     Abstract Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) Mentor Graphics Corp 0 In Design Automation Inc Original Assignee 0 In Design Automation Inc Priority date (The priority date is an assumption and is not a legal
+     Url https://patents.google.com/patent/US6175946B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Reducing x-pessimism in gate-level simulation and verification
+     Author ['A Salz', 'GR Maturana', 'IH Moon', 'LR McIlwain']
+     Venue US Patent 8,650,513
+     Year 2014
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract  The process starts with a product idea 100, which is realized using Electronic Design Automation (EDA) software 110
+     Url https://patents.google.com/patent/US8650513B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Verification of scheduling in the presence of loops using uninterpreted symbolic simulation
+     Author ['P Ashar', 'A Raghunathan', 'S Bhattacharya']
+     Venue US Patent 7,383,166
+     Year 2008
+     Abstract in Proc. Design Automation Conf, June 1998 and J. Kukula, T. Shiple, and A. Aziz, “Implicit state enumeration for FSMs with datapaths,” in Proc. Formal Methods in Computer Aided Design, November 1998. These techniques
+     Url https://patents.google.com/patent/US7383166B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Facilitating structural coverage of a design during design verification
+     Author ['KM Harer', 'M Munishwar']
+     Venue US Patent 7,415,684
+     Year 2008
+     Abstract US8826201B1 (en) *, 2013-03-14, 2014-09-02, Jasper Design Automation, Inc  US20060010428A1 (en) *, 2004-07-12, 2006-01-12, Sri International, Formal methods for test case generation  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution
+     Url https://patents.google.com/patent/US7415684B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Enhancing hardware design flows with MyHDL
+     Author ['K Jaic', 'MC Smith']
+     Venue Proceedings of the 2015 ACM/SIGDA International …
+     Year 2015
+     Abstract Genesis2[9] extends SystemVerilog capabilities for connecting HDL to hardware simulation  Second ACM and IEEE International Conference on Formal Methods and Models for Co-Design  In Proceedings of the 49th Annual Design Automation Conference on - DAC '12, DAC '12
+     Url https://dl.acm.org/doi/abs/10.1145/2684746.2689092
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Method for co-verifying hardware and software for a semiconductor device
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake', 'T Kowatari']
+     Venue US Patent …
+     Year 2006
+     Abstract (Non-patent Document 4) DW Knapp, T. Ly, D. MacMillen, and R. Miller, “Behavioral Synthesis Methodology for HDL-Based Specification and Validation,” Proc. Design Automation Conf., June 1995  Design Automation Conf., June 1995
+     Url https://patents.google.com/patent/US7155690B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title fault: A Python Embedded Domain-Specific Language for Metaprogramming Portable Hardware Verification Components
+     Author ['L Truong', 'S Herbst', 'R Setaluri', 'M Mann', 'R Daly']
+     Venue … on Computer Aided …
+     Year 2020
+     Abstract cocotb also presents a coroutine abstraction that naturally models the concurrency found in hardware simulation  In: 2012 DAC Design Automation Conference, pp. 1212–1221, June 2012  In: 2018 Formal Methods in Computer Aided Design (FMCAD), pp. 1–5, October 2018
+     Url https://link.springer.com/chapter/10.1007/978-3-030-53288-8_19
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title A novel simulation fault injection method for dependability analysis
+     Author ['D Lee', 'J Na']
+     Venue IEEE Design & Test of Computers
+     Year 2009
+     Abstract campaign profile. To demonstrate fault injection experiments using SyFI, we designed a SystemC MIPS processor hardware simulation model and pre- pared the benchmark code from the MiBench bench- mark suite. The code
+     Url https://ieeexplore.ieee.org/abstract/document/5340387/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware design based on Verilog HDL.
+     Author ['GG Pace']
+     Venue NA
+     Year 1998
+     Abstract However, literature on the join- ing of the two, where hardware simulation and verification are put  methods such as simulation can be assisted (as opposed to just replaced) by formal methods  Verilog was developed in 1984 by Phil Moorby at Gateway Design Automation as a
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.9040&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Direct system integration of hardware models–a case study
+     Author ['J Hiltscher', 'W Rehm']
+     Venue Sixth York Doctoral Symposium on Computer …
+     Year 2013
+     Abstract More complex test patterns can be generated with low ef- fort, either using formal methods if applicable or real-world stimuli encountered during  Our novel approach aims at limiting the overhead of hardware simulation  In: Proceedings of the 48th Design Automation Conference
+     Url https://www.cs.york.ac.uk/yds/yds2013Proceedings/YDS_2013_Proceddings.pdf#page=48
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Static Analysis for SystemC with Scoot: From Verification to Simulation
+     Author ['N Blanc']
+     Venue NA
+     Year 2010
+     Abstract SCOOT is the first compiler for SystemC that uses formal methods to improve simulation performance and coverage  The Electronic Design Automation industry (EDA) is mov- ing toward simpler and less error-prone design methodologies to main- tain high design productivity
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/72717/eth-1159-02.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform
+     Author ['M Baleani', 'F Gennari', 'Y Jiang', 'Y Patel']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract where instr_name is the mnemonic name of the FPGA instruction; opcode is the instruction code used in hardware simulation, which is not relevant in our approach; delay is the latency in clock cycles of  Formal Methods, 1999  on Design Automation & Test in Europe, March 2000
+     Url https://dl.acm.org/doi/abs/10.1145/774789.774820
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Using runtime information from solvers to measure quality of formal verification
+     Author ['H Jain', 'PM Bjesse', 'P Mahajan']
+     Venue US Patent 10,657,307
+     Year 2020
+     Abstract en) *, 2004-07-12, 2011-01-04, Sri International, Formal methods for test  Sia Karthik Madabhushi, "Formal-based Coverage-Driven Verification", Jasper Design Automation, May 15, 2014  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution
+     Url https://patents.google.com/patent/US10657307B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Verification of scheduling in the presence of loops using uninterpreted symbolic simulation
+     Author ['P Ashar', 'A Raghunathan', 'S Bhattacharya']
+     Venue US Patent …
+     Year 2004
+     Abstract in Proc. Design Automation Conf, June 1998 and J. Kukula, T. Shiple, and A. Aziz, “Implicit state enumeration for FSMs with datapaths,” in Proc. Formal Methods in Computer Aided Design, November. 1998. These techniques
+     Url https://patents.google.com/patent/US6745160B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Mixed concurrent and serial logic simulation of hardware designs
+     Author ['K Whisnant', 'C Basile', 'GP Saggese']
+     Venue US Patent 8,738,350
+     Year 2014
+     Abstract Logic simulation is usually performed with Electronic Design Automation (EDA) software tools referred to as logic simulators, which process hardware designs typically provided in the form of Hardware Description Language (HDL) code
+     Url https://patents.google.com/patent/US8738350B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Implementation of Assertions Checkers in Software and Hardware Verification Environments
+     Author ['M Forczek', 'K Hrynkiewicz']
+     Venue IFAC Proceedings Volumes
+     Year 2003
+     Abstract OV AlSugar) can be realized as RTL code (and thus accelerated with hardware simulation)  Sugar Formal Specification Language Reference Manual, Version 0.8, In: Formal Methods Home: http  Box Verification for Complex Designs, In O-in Design Automation Technical Notes
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017337333
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Equivalence checking for digital circuits
+     Author ['BJ Falkowski']
+     Venue IEEE Potentials
+     Year 2004
+     Abstract The result is increased inter- est in developing formal methods for functional verification. Modern equiva- lence checking tools employing the lat- est advanced automation and efficient debugging capabilities  M. Dale, “The Value of Hardware Simulation,” System Verification
+     Url https://ieeexplore.ieee.org/abstract/document/1309785/
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract So is the entire Electronic Design Automation (EDA) industry, whose design tools and processes undergo an additional scrutiny  For the purpose of this discussion, we follow the definition of a formal method as given by the NASA Langley Formal Methods Group (NASA Lagley
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Method for automatically generating checkers for finding functional defects in a description of a circuit
+     Author ['TA Ly', 'JC Giomi', 'KC Mulam', 'PA Wilcox', 'DL Dill']
+     Venue US Patent …
+     Year 2003
+     Abstract Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) Mentor Graphics Corp 0 In Design Automation Inc Original Assignee 0 In Design Automation Inc Priority date (The priority date is an assumption and is not a legal
+     Url https://patents.google.com/patent/US6609229B1/en
+
+
+     Search term "Automation"+"Formal+methods"+"Hardware+simulation"
+     Title Formal verification driven power modeling and design verification
+     Author ['A Haridass', 'A Joseph', 'PK Nalla', 'RM Rao']
+     Venue US Patent 9,697,306
+     Year 2017
+     Abstract Generally, formal verification is the act of proving or disproving the correctness of intended behavior of a system with respect to a certain formal specification or property of one or more underlying algorithms, using formal methods of mathematics
+     Url https://patents.google.com/patent/US9697306B1/en
+

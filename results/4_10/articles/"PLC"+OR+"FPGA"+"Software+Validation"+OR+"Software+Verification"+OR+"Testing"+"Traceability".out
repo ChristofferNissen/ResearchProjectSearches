@@ -1,0 +1,91 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The software verification and validation process for a PLC-based engineered safety features-component control system in nuclear power plants
+     Author ['SW Cheon', 'JS Lee', 'KC Kwon']
+     Venue … Annual Conference of …
+     Year 2004
+     Abstract The PLC is being designed to pro- vide various communication networks, a strict real-time performance and a  This paper introduces the software verification and vali- dation (VSrV) tasks for the ESF-CCS in nuclear  codes, and the testing of the integrated software and system
+     Url https://ieeexplore.ieee.org/abstract/document/1433422/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Licensing principles of FPGA-based NPP I&C systems
+     Author ['A Siora', 'V Sklyar', 'Y Rozen']
+     Venue International …
+     Year 2009
+     Abstract functional and timing simulation in CASE-tools environment; – blackbox functional testing  safety-critical functions in the form of “hard” logic (FPGA with implemented  for each algorithm), without software; – reducing time necessary for software verification; – performing parallel
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/267580129_Licensing_Principles_of_FPGA-Based_NPP_IC_Systems/links/57d6d20208ae601b39ac2223/Licensing-Principles-of-FPGA-Based-NPP-I-C-Systems.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Design and testing technique of FPGA-based critical systems
+     Author ['V Kharchenko', 'O Siora', 'V Sklyar']
+     Venue 2009 10th International …
+     Year 2009
+     Abstract Software verification is a process aimed to confirm software compliance to defined requirements by way  through the life cycle of development, ie from requirement analysis up to final testing. FPGA-project is developed and verified in 4 stages, with traceability analysis performed
+     Url https://ieeexplore.ieee.org/abstract/document/4839839/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title In-place traceability for automated production systems: A survey of PLC and SysML tools
+     Author ['W Wang', 'N Niu', 'M Alenazi']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract surveyed in this paper the state-of-the-practice tools in aPS development (seven tools for PLC and six  our sur- veys in the context of aPS development, possibly by explor- ing the role of traceability in refactoring [37], viewpoint merg- ing [38], [39], and model testing [40
+     Url https://ieeexplore.ieee.org/abstract/document/8515085/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achieving Quality and Traceability in FPGA/ASIC Flows for DO-254 Aviation Projects
+     Author ['M Lange', 'T Dewey']
+     Venue 2008 IEEE Aerospace Conference
+     Year 2008
+     Abstract Using these automated solutions, design teams can meet traceability requirements in a fraction of the time  that is created or produced as part of the design process for the ASIC or FPGA  identifies the percentage of lines in the RTL design code that were exercised during testing
+     Url https://ieeexplore.ieee.org/abstract/document/4526687/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A RFID-enabled traceability system for the supply chain of live fish
+     Author ['YC Hsu', 'AP Chen', 'CH Wang']
+     Venue 2008 IEEE International …
+     Year 2008
+     Abstract the chess products, the sensors of temperature and moisture are linked with PLC to automatically  These records in the aquaculture farms would be fed forward to the traceability system. 2) The inspectors record the testing report: The third party inspection company performs the
+     Url https://ieeexplore.ieee.org/abstract/document/4636124/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software verification process and methodology for the development of FPGA-based engineered safety features system
+     Author ['R Maerani', 'JK Mayaka', 'JC Jung']
+     Venue Nuclear Engineering and Design
+     Year 2018
+     Abstract complexity in term of ability to execute the independent functions in parallel which is not possible with PLC based systems (Wood  Since this development uses hardware description language (HDL) which is VHDL, software testing for software verification for FPGA-based ESF
+     Url https://www.sciencedirect.com/science/article/pii/S0029549318300840
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Food safety and traceability in the agricultural supply chain: using the Internet to deliver traceability
+     Author ['TP Wilson', 'WR Clarke']
+     Venue Supply Chain Management: An International …
+     Year 1998
+     Abstract TP Wilson (TP Wilson is Account Manager, Food Trak plc, Spalding, UK). WR Clarke (WR Clarke Food Trak plc, Spalding, UK). Supply Chain Management. ISSN : 1359-8546  Testing. Testing provides the means by which the content of traceability records can be checked for
+     Url https://www.emerald.com/insight/content/doi/10.1108/13598549810230831/full/html?queryID=17%2F5405210
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Development and application of POSAFE-Q PLC platform
+     Author ['MK Lee', 'SW Song', 'DH Yun']
+     Venue NA
+     Year 2012
+     Abstract 4 PLC was progressed in development process of each plan documents  Software verification and validation team had performed verification and validation independently software development team in  SRS), Software Design Specification (SDS) and codes, and a testing of
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:43130436
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The software verification and validation tasks for a safety critical system in nuclear power plants
+     Author ['SW Cheon', 'KH Cha', 'KC Kwon']
+     Venue International journal of safety
+     Year 2004
+     Abstract a requirement traceability analysis, formal verification, and life-cycle based software testing. Key words: nuclear power plants, safety critical systems, software, verification and validation 1  The pro- grammable logic controller (PLC) based platforms (eg, Teleperm XS, Common Q
+     Url https://www.koreascience.or.kr/article/JAKO200428317682795.page
+

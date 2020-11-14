@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Testing"
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for protocol testing: A detailed study
+     Author ['DP Sidhu', 'TK Leung']
+     Venue IEEE transactions on software …
+     Year 1989
+     Abstract The authors present a detailed study of four formal methods (T-, U-, D-, and W-methods) for generating test sequences for protocols. Applications of these methods to the NBS Class 4 Transport Protocol are discussed. An estimation of fault coverage of four protocol-test
+     Url https://ieeexplore.ieee.org/abstract/document/16602/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract The use of formal system specifications makes it possible to automate the derivation of test cases from specifications. This allows to automate the whole testing process, not only the test execution part of it. This paper presents the state of the art and future perspectives in
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Applying formal methods to software testing
+     Author ['PA Stocks']
+     Venue NA
+     Year 1993
+     Abstract This thesis examines applying formal methods to software testing. Software testing is a critical phase of the software life-cycle which can be very e ective if performed rigorously. Formal speci cations o er the bases for rigorous testing practices. Not surprisingly, the most
+     Url https://www.researchgate.net/profile/Phil_Stocks/publication/2347416_Applying_Formal_Methods_to_Software_Testing/links/55528c8708aeaaff3befeb1d.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Using formal methods to derive test frames in category-partition testing
+     Author ['P Ammann', 'J Offutt']
+     Venue Proceedings of COMPASS'94-1994 IEEE …
+     Year 1994
+     Abstract Testing is a standard method of assuring that software performs as intended. We extend the category-partition method, which is a specification-based testing method. An important aspect of category-partition testing is the construction of test specifications as an
+     Url https://ieeexplore.ieee.org/abstract/document/318466/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title A tale of two paradigms: Formal methods and software testing
+     Author ['D Carrington', 'P Stocks']
+     Venue Z User Workshop, Cambridge 1994
+     Year 1994
+     Abstract There are two camps of software developers: formal methods advocates battling against traditionalist supporters of software testing and assessment metrics. Surely, as Turing observed, we will (must) never do away with testing in some form. But clearly, formal
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-3452-7_4
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Finite state machine based formal methods in protocol conformance testing: from theory to implementation
+     Author ['BS Bosik', 'MÜ Uyar']
+     Venue Computer Networks and ISDN Systems
+     Year 1991
+     Abstract Recent evolution of communication networks has led toward increasingly complex communication protocols to interconnect heterogeneous systems. In order for such systems to function properly, communication protocols require formal methodologies for verification
+     Url https://www.sciencedirect.com/science/article/pii/016975529190079R
+
+
+     Search term "Formal+methods"+"Testing"
+     Title FORTEST: Formal methods and testing
+     Author ['JP Bowen', 'K Bogdanov', 'JA Clark']
+     Venue Proceedings 26th …
+     Year 2002
+     Abstract Formal methods have traditionally been used for specification and development of software. However there are potential benefits for the testing stage as well. The panel session associated with this paper explores the usefulness or otherwise of formal methods in various
+     Url https://ieeexplore.ieee.org/abstract/document/1044538/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal Methods and Testing: An Outcome of the FORTEST Network. Revised Selected Papers
+     Author ['RM Hierons', 'JP Bowen', 'M Harman']
+     Venue NA
+     Year 2008
+     Abstract This book constitutes the thoroughly refereed and peer-reviewed outcome of the Formal Methods and Testing (FORTEST) network-formed as a network established under UK EPSRC funding that investigated the relationships between formal (and semi-formal)
+     Url https://books.google.com/books?hl=en&lr=&id=wL1qCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Formal+methods%22+%22Testing%22&ots=JlyhGVqYfu&sig=uwfHdcM3Q5pPjenjE_yksgWsC_Q
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Ten commandments of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue Computer
+     Year 1995
+     Abstract free. In testing high-integrity systems, formal methods offer considerable advantages. For example  animation. With formal methods, specification-based testing is yet another alternative to determine functional tests to be run. The specification's
+     Url https://ieeexplore.ieee.org/abstract/document/375178/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Testing or formal verification: Do-178c alternatives and industrial experience
+     Author ['Y Moy', 'E Ledinot', 'H Delseny', 'V Wiels']
+     Venue IEEE software
+     Year 2013
+     Abstract In this article we describe some of the new objectives and activities in the area of formal methods, explain how these methods may be used instead of testing in a DO-178C context, and summarize the practical experience of Dassault-Aviation and Airbus in successfully applying
+     Url https://ieeexplore.ieee.org/abstract/document/6471965/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods in testing software architectures
+     Author ['A Bertolino', 'P Inverardi', 'H Muccini']
+     Venue … on Formal Methods for the Design of …
+     Year 2003
+     Abstract SAs provide a high-level model of large, complex systems using suitable abstractions of the system components and their interactions. SA dynamic descriptions can be usefully employed in testing and analysis. We describe here an approach for SA-based conformance
+     Url https://link.springer.com/chapter/10.1007/978-3-540-39800-4_7
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Using formal methods to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue NA
+     Year 2008
+     Abstract Formal methods and testing are two important approaches that assist in the development of high quality software. While traditionally these approaches have been seen as rivals, in recent years a new consensus has developed in which they are seen as complementary
+     Url https://bura.brunel.ac.uk/handle/2438/1871
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Protocol conformance testing a SIP registrar: An industrial application of formal methods
+     Author ['BK Aichernig', 'B Peischl', 'M Weiglhofer']
+     Venue … and Formal Methods …
+     Year 2007
+     Abstract Various research prototypes and a well-founded theory of model based testing (MBT) suggests the application of MBT to real-world problems. In this article we report on applying the well-known TGV tool for protocol conformance testing of a Session Initiation Protocol
+     Url https://ieeexplore.ieee.org/abstract/document/4343938/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract It is natural that formal methods should underlie principled testing methods, and Gaudel has established this as an important research topic [Gaudel 1995]. Hoare de- scribes the use of formal assertions in Microsoft, not for program proving, but for test- ing [Hoare 2002a]
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for generating protocol conformance test sequences
+     Author ['AT Dahbura', 'KK Sabnani', 'MU Uyar']
+     Venue Proceedings of the IEEE
+     Year 1990
+     Abstract FINITE-STATE MACHINE TESTING Formal methods for test generation for control portion of acommunication protocol have been based primarilyon the so-called finite-state machine (FSM) model [5], in which the machine M to be tested is represented by a directed graph G = (V
+     Url https://ieeexplore.ieee.org/abstract/document/58319/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Testing concurrent systems: A formal approach
+     Author ['J Tretmans']
+     Venue International Conference on Concurrency Theory
+     Year 1999
+     Abstract This paper discusses the use of formal methods in testing of concurrent systems. It is argued that formal methods and testing can be mutually profitable and useful  In this section a framework is presented for the use of formal methods in conformance testing [10,44,32]
+     Url https://link.springer.com/chapter/10.1007/3-540-48320-9_6
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods and testing: why the state-of-the art is not the state-of-the practice
+     Author ['DS Rosenblum']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 1996
+     Abstract Richard Denney noted that if one is discussing formal methods in testing and analysis in a commercial setting, their role in quality assurance (QA) must be considered. As to why formal methods are not" state-of-the-practice" for QA, he suggested a lack of focus by the
+     Url https://dl.acm.org/doi/pdf/10.1145/232069.232086
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Seven myths of formal methods
+     Author ['A Hall']
+     Venue IEEE software
+     Year 1990
+     Abstract errors. In this sense, formal methods are a sci- entific approach to development, since they offer specifications that can be re- futed. (In informal software develop ment, the specification is usually only re- futed by testing. By this
+     Url https://ieeexplore.ieee.org/abstract/document/57887/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Standardization of formal methods in conformance testing of communication protocols
+     Author ['AR Cavalli', 'JP Favreau', 'M Phalippou']
+     Venue Computer Networks and ISDN …
+     Year 1996
+     Abstract This paper presents the work developed by the joint ISO/ITU-T working group on “Formal Methods in Conformance Testing”(FMCT) in order to obtain a future standard. It concerns several areas of conformance testing: terminology, testing concepts, test architecture
+     Url https://www.sciencedirect.com/science/article/pii/S0169755296000153
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Ten commandments of formal methods... ten years later
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue Computer
+     Year 2006
+     Abstract Page 7. 46 Computer For the near term, the use of formal methods to improve testing has much potential  In the UK, researchers are using the Fortest (Formal Methods and Testing) network as a framework (www.fortest.org. uk) to investigate the tradeoffs
+     Url https://ieeexplore.ieee.org/abstract/document/1580381/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title A specifier's introduction to formal methods
+     Author ['JM Wing']
+     Venue Computer
+     Year 1990
+     Abstract System validation. Formal methods can aid in system testing and debugging. Spec- ifications alone can be used to generate test cases for black-box testing  Only a few formal methods have been developed explicitly for testing
+     Url https://ieeexplore.ieee.org/abstract/document/58215/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for test automation-hard real-time testing of controllers for the airbus aircraft family
+     Author ['J Peleska']
+     Venue IDPT'02
+     Year 2002
+     Abstract In this article, a collection of major problems to be solved for automated testing of embedded hard real-time systems is discussed. It is indicated which solutions are available. Architectural aspects of test automation systems and approaches for automated on-the-fly
+     Url http://www.cs.uni-bremen.de/agbs/jp/papers/peleska_idpt2002.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Investigating the influence of formal methods
+     Author ['SL Pfleeger', 'L Hatton']
+     Venue Computer
+     Year 1997
+     Abstract The use of formal methods can deliver ivliai'iiiu lii'iiv sust-i'flc. lurh than. say, traditional structured methods with enhanced testing. • Either developers or users can ever be trained in sufficient numbers to use formal methods properly
+     Url https://ieeexplore.ieee.org/abstract/document/566148/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal Methods & Testing
+     Author ['M Mac an Airchinnigh']
+     Venue Tutorials of the Sixth International Software …
+     Year 1993
+     Abstract The tutorial addresses one of the key technologies, formal methods, that is reaching maturity in the software engineering domain, even to the extent that developers of safety critical systems may be open to special litigation in the event of accident/failure, if it can be shown
+     Url https://scss.tcd.ie/andrew.butterfield/IrishVDM/reading/Testing1995.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract a figure two to ten times better than that for pub- lished projects and comparable soft- ware in air traffic control applications that did not use formal methods  The added qual- ity, however, decreased the overall cost of software development because of the huge savings in testing
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Experiences using lightweight formal methods for requirements modeling
+     Author ['S Easterbrook', 'R Lutz', 'R Covington']
+     Venue IEEE Transactions …
+     Year 1998
+     Abstract the findings were. In all three cases, formal methods enhanced the existing verification and validation processes, by testing key properties of the evolving requirements, and helping to identify weaknesses. We conclude that
+     Url https://ieeexplore.ieee.org/abstract/document/663994/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title An international survey of industrial applications of formal methods
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue Z User Workshop, London 1992
+     Year 1993
+     Abstract 6. Cleanroom [16]: The Cleanroom methodology was applied, by IBM, to a COBOL restructuring facility and, by Goddard, to a satellite attitude control system. Cleanroom combines formal methods techniques and sta- tistical testing based on usage patterns
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-3556-2_1
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal Methods for Conformance Testing: Results and Perspectives.
+     Author ['AR Cavalli', 'JP Favreau', 'M Phalippou']
+     Venue Protocol Test Systems
+     Year 1993
+     Abstract The application of formal methods to conformance testing becomes a more and more active research area. This paper presents the results and perspectives of the application of these languages for tests and test generation methods. These results are analyzed in the
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.29.6179&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Torx: Automated model-based testing
+     Author ['GJ Tretmans', 'H Brinksma']
+     Venue First European Conference on …
+     Year 2003
+     Abstract Yet, testing turns out to be expensive, laborious, time-consuming and error-prone. The Dutch research and development project Côte de Resyste worked on methods, techniques and tools for automating specification based testing using formal methods
+     Url https://research.utwente.nl/en/publications/torx-automated-model-based-testing
+
+
+     Search term "Formal+methods"+"Testing"
+     Title A survey on network verification and testing with formal methods: Approaches and challenges
+     Author ['Y Li', 'X Yin', 'Z Wang', 'J Yao', 'X Shi', 'J Wu']
+     Venue … Surveys & Tutorials
+     Year 2018
+     Abstract Networks have grown increasingly complicated. Violations of intended policies can compromise network availability and network reliability. Network operators need to ensure that their policies are correctly implemented. This has inspired a research field, network
+     Url https://ieeexplore.ieee.org/abstract/document/8453007/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Seven more myths of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue IEEE software
+     Year 1995
+     Abstract Myths that formal methods can guarantee perfect software and eliminate the need for testing (Myth 1) are not only ludicrous, but can have serious ramifications in system development if naive users of formal methods take them seriously
+     Url https://ieeexplore.ieee.org/abstract/document/391826/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods and testing: Hypotheses, and correctness approximations
+     Author ['MC Gaudel']
+     Venue International Symposium on Formal Methods
+     Year 2005
+     Abstract It has been recognised for a while that formal specifications can bring much to software testing. Numerous methods have been proposed for the derivation of test cases from various kinds of formal specifications, their submission, and verdict. All these methods rely upon
+     Url https://link.springer.com/chapter/10.1007/11526841_2
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for test sequence generation
+     Author ['H Ural']
+     Venue Computer communications
+     Year 1992
+     Abstract Keywords: formal methods, test sequence @eneration, finite state machines, protocol testing  Based on the FSM model of a protocol, formal methods can be employed to generate test sequences for testing the control portion of a protocol implementation under test
+     Url https://www.sciencedirect.com/science/article/pii/014036649290092S
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods in conformance testing: A probabilistic refinement
+     Author ['L Heerink', 'J Tretmans']
+     Venue Testing of Communicating Systems
+     Year 1996
+     Abstract This paper refines the framework of 'Formal Methods in Conformance Testing'by introducing probabilities for concepts which have a stochastic nature. Test execution is refined into test runs, where each test run is considered as a stochastic process that returns a possible
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35062-2_19
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for conformance testing: Theory can be practical
+     Author ['E Brinksma']
+     Venue International Conference on Computer Aided …
+     Year 1999
+     Abstract Extended Abstract Although testing is the most widely used technique to control the quality of software systems, it is a topic that, until relatively recently, has received scant attention from the computer research community. Although some pioneering work was already done a
+     Url https://link.springer.com/chapter/10.1007/3-540-48683-6_6
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Model checkers in software testing
+     Author ['P Ammann', 'PE Black', 'W Ding']
+     Venue NIST-IR 6777, National Institute of …
+     Year 2002
+     Abstract CiteSeerX - Document Details (Isaac Councill, Lee Giles, Pradeep Teregowda): Abstract The primary focus of formal methods is static analysis of specifications and code, but there is also a long tradition of exploiting formal methods for testing
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.128.3572
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Experience with formal methods in protocol development
+     Author ['D Sidhu', 'A Chung', 'TP Blumer']
+     Venue ACM SIGCOMM Computer …
+     Year 1991
+     Abstract Formal methods permit the development of highly reliable and easily maintainable communication protocols . This paper presents our experience with using formal methods in the specification, verifica - tion, implementation, and conformance testing of OSI protocols
+     Url https://dl.acm.org/doi/abs/10.1145/122419.122425
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Cost effective uses of formal methods in verification and validation
+     Author ['DR Kuhn', 'R Chandramouli']
+     Venue Foundations Verification and Validation …
+     Year 2002
+     Abstract Workshop. Pub Type: Conferences. Keywords. automated testing, formal methods, modeling and simulation, software assurance, software testing, verification and validation. Created October 01, 2002, Updated February 17, 2017
+     Url https://www.nist.gov/publications/cost-effective-uses-formal-methods-verification-and-validation?pub_id=151272
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Issues in the full scale use of formal methods for automated testing
+     Author ['JL Crowley', 'JF Leathrum', 'KA Liburdy']
+     Venue ACM SIGSOFT Software …
+     Year 1996
+     Abstract Experience from a full scale effort to apply formal methods to automated testing in the open systems software arena is described. The formal method applied in this work is based upon the Clemson Automated Testing System (CATS) which includes a formal specification
+     Url https://dl.acm.org/doi/abs/10.1145/226295.226303
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract In this paper a case study is presented on the use of formal methods in the testing of a realistic (mission critical) system. The top level design was written in the formal language Promela, which made it possible to simulate a model of the system before it was built
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods for test case generation
+     Author ['J Rushby', 'LM De Moura', 'G Hamon']
+     Venue US Patent 7,865,339
+     Year 2011
+     Abstract Formal methods for test case generation. Download PDF Info  G06F11/36—Preventing errors by testing or debugging software; G06F11/3668—Software testing; G06F11/3672—Test management; G06F11/3684—Test management for test design, eg generating new test cases
+     Url https://patents.google.com/patent/US7865339B2/en
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Working together: Formal methods and testing
+     Author ['K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue ACM Computing …
+     Year 2003
+     Abstract Formal methods and testing are two important approaches that assist in the development of high quality software. While traditionally these approaches have been seen as rivals, in recent years a new consensus has developed in which they are seen as complementary
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.128.7361&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Using formal methods and testability concepts in the avionics systems validation and verification (v&v) process
+     Author ['O Laurent']
+     Venue … Third International Conference on Software Testing …
+     Year 2010
+     Abstract Airbus has used formal methods for several years to specify avionics systems. Thanks to these methods, formal verification, testability concepts and automatic test case generation were explored and experimented on Airbus systems. This paper depicts the Airbus
+     Url https://ieeexplore.ieee.org/abstract/document/5477108/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Integrating formal methods and testing for concurrent programs
+     Author ['RH Carver', 'R Durham']
+     Venue COMPASS'95 Proceedings of the Tenth …
+     Year 1995
+     Abstract An abstract program is a formal specification that models the valid behavior of a concurrent program without describing particular implementation mechanisms that achieve this behavior. In this paper, we address the problem of how to select event sequences from an
+     Url https://ieeexplore.ieee.org/abstract/document/521884/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods reality check: Industrial usage
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue IEEE Transactions on …
+     Year 1995
+     Abstract seen interest in such integration in at least two guises during our study: 1) inclusion of formal methods assurance techniques (such as Hoare Logic proofs) with other assurance techniques (eg, hazard analysis, trajectory testing); and 2) integration of formal methods with existing
+     Url https://ieeexplore.ieee.org/abstract/document/345825/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Formal methods and the certification of critical systems
+     Author ['J Rushby']
+     Venue NA
+     Year 1993
+     Abstract of V&V, is the process by which delivered code is directly shown to satisfy the original user requirements by testing it in  Formal methods can also augment this process, by allowing the properties and consequences of nonexecutable speci cations to be explored via theorem
+     Url https://core.ac.uk/download/pdf/24314703.pdf
+
+
+     Search term "Formal+methods"+"Testing"
+     Title A lightweight approach to formal methods
+     Author ['S Agerholm', 'PG Larsen']
+     Venue … on Current Trends in Applied Formal Methods
+     Year 1998
+     Abstract demanded or beneficial. Moreover, we believe that engineers can use validation by testing cost-effectively early in their formal methods careers, but it is unlikely that the same holds for verification. 3.3 Integrating External Components
+     Url https://link.springer.com/chapter/10.1007/3-540-48257-1_10
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Why engineers should consider formal methods
+     Author ['CM Holloway']
+     Venue 16th DASC. AIAA/IEEE Digital Avionics Systems …
+     Year 1997
+     Abstract Because design flaws cannot be handled adequately by approaches based on either testing or design diversity, fault avoidance techniques offer the best hope. Of possible fault avoidance techniques, formal methods are the most rigorous; therefore, they are the most promising
+     Url https://ieeexplore.ieee.org/abstract/document/635021/
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Ten commandments revisited: a ten-year perspective on the industrial application of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue … international workshop on Formal methods for …
+     Year 2005
+     Abstract In the UK, a nationwide network, FORTEST (Formal Methods and Testing) has been acting as a framework for investigations into the interplay between these two aspects [4]. In addition, formal methods may be used to clarify testing criteria
+     Url https://dl.acm.org/doi/abs/10.1145/1081180.1081183
+
+
+     Search term "Formal+methods"+"Testing"
+     Title Challenges in formal methods for testing and verification of cloud computing systems
+     Author ['A Gawanmeh', 'A Alomari']
+     Venue Scalable Computing: Practice and Experience
+     Year 2015
+     Abstract Formal methods are necessary to capture the semantics and behavior of processes of various systems. They characterize and provide insight into the behavior of real systems and thus identify their deterministic and non-deterministic features. The design and deployment
+     Url https://www.scpe.org/index.php/scpe/article/view/1104
+

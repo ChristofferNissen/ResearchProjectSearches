@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"Continuous"
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title LastLayer: Towards Hardware and Software Continuous Integration
+     Author ['L Vega', 'J Roesch', 'J McMahan', 'L Ceze']
+     Venue IEEE Micro
+     Year 2020
+     Abstract This paper presents LastLayer, an open-source tool1 that enables hardware and software continuous integration and simulation  convenient access to storage resources such as registers and memories in the design as well as control over the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/9099634/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Using VHDL for high-level, mixed-mode system simulation
+     Author ['MB Srivastava', 'RW Brodersen']
+     Venue IEEE Design & Test of …
+     Year 1992
+     Abstract I University of California, 1 Berkeley 1 This article describes a novel appli- cation of VHM to the ding of complex, application-specific systems that employ a mix of digi- tal hardware and software and interact with heir environments through continuous-time compo- nents
+     Url https://ieeexplore.ieee.org/abstract/document/156156/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract An important inductance and/or a high chopper frequency of the emulation part would be useful to impose a continuous current idcm, as  Machine Drives”, IEEE-PESC'07, Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Using a hardware simulation engine for custom MOS structured designs
+     Author ['Z Barzilai', 'DK Beece', 'LM Huisman']
+     Venue IBM journal of …
+     Year 1984
+     Abstract two million logic gates at more than three billion gates per second [2]. We indicate in this paper how a hardware simulation engine can  Continuous and discrete simulation The accuracy required of simulation has to be balanced by its cost, which is usually measured in terms of
+     Url https://ieeexplore.ieee.org/abstract/document/5390298/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Advances with the advanced continuous simulation language
+     Author ['WA Havranek']
+     Venue UKSC 84
+     Year 1984
+     Abstract However, since requirements for continuous system simulation exist in almost any scientific discipline the initial acceptance pattern in  Then the "hardware" simulation is removed and the remaining DERIVATIVE section modified to communicate with the actual hardware in a real
+     Url https://www.sciencedirect.com/science/article/pii/B9780408015042500077
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Trainer using video photographs and overlays for reconfigurable hardware simulation
+     Author ['VS De Gyarfas', 'R Saunders']
+     Venue US Patent 5,286,202
+     Year 1994
+     Abstract Trainer using video photographs and overlays for reconfigurable hardware simulation. Download PDF Info  Touching - will move the line down, or to the left, in a continuous motion until it reaches the extreme position and touching the + moves the line in the opposite direction
+     Url https://patents.google.com/patent/US5286202A/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Method and system for generating electronic hardware simulation models
+     Author ['DA Fura']
+     Venue US Patent 5,953,519
+     Year 1999
+     Abstract US5953519A - Method and system for generating electronic hardware simulation models - Google Patents. Method and system for generating electronic hardware simulation models. Download PDF Info. Publication number US5953519A
+     Url https://patents.google.com/patent/US5953519A/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Computer controlled hardware simulation of fading channel models
+     Author ['RN Kolte', 'SC Kwatra']
+     Venue … ,-Spanning the Universe.
+     Year 1988
+     Abstract For hardware simulation, this can only be achieved through the computer control of these para- meters. The computer control also provides more flexibility to the model  The software works in three modes of operation. They are fixed mode, step mode, and continuous mode
+     Url https://ieeexplore.ieee.org/abstract/document/13826/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A software-hardware cosynthesis approach to digital system simulation
+     Author ['KA Olukotun', 'R Helaihel', 'J Levitt', 'R Ramirez']
+     Venue IEEE Micro
+     Year 1994
+     Abstract A software-hardware simulator For a software-hardware simulation of HDL models, the system architecture must be a good target for  Verilog programs, modules contain two types of concurrent process statements or concurrent blocks: always blocks and continuous assignments
+     Url https://ieeexplore.ieee.org/abstract/document/296157/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Continuous digital calibration of pipeline A/D converters
+     Author ['A Delic-Ibukic', 'DM Hummels']
+     Venue IEEE Transactions on …
+     Year 2006
+     Abstract 1175 Continuous Digital Calibration of Pipeline A/D Converters Alma Delic-Ibukic, Student Member, IEEE, and Donald M. Hummels Abstract—This paper describes a novel continuous calibration technique for pipeline analog-to-digital converters (ADCs)
+     Url https://ieeexplore.ieee.org/abstract/document/1658368/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Programming 8-bit PIC microcontrollers in C: with interactive hardware simulation
+     Author ['MP Bates']
+     Venue NA
+     Year 2008
+     Abstract INCLUDES FREE NEWME, ONLINE MLMLLRVIIIP Newnes | | º PROGRAMMING 8-BIT PIC MICROCONTROLLERS IN C With Interactive Hardware Simulation * Utilizes the Cprogramming language, the most popular or microcontrollers • Features Proteus WSM along with CCS
+     Url https://books.google.com/books?hl=en&lr=&id=lIo87dnhO7YC&oi=fnd&pg=PP1&dq=%22Hardware+simulation%22+%22Continuous%22&ots=m8nS_S5ZWN&sig=WUrXRbI3esjpew_Dgv4whCgfMDI
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware-in-the-loop simulation of power electronic systems using adaptive discretization
+     Author ['MOO Faruque', 'V Dinavahi']
+     Venue IEEE transactions on industrial …
+     Year 2009
+     Abstract Therefore, the method used to discretize the continuous-time system model is a key factor influencing simulation accuracy  y(2△t)z−2 · · + y(k△t)z−k + ·· (1) Equation (1) implies that the Z-transform of any continuous time function can be written in the form of a series, where z−k
+     Url https://ieeexplore.ieee.org/abstract/document/5340670/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract Each network configuration is described by a continuous time state- space equation  Thus, the power converter is described by a set of configurations with associated continuous dynamics. For hardware implementation, the model must be discretized
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Performance analysis of a hardware implemented complex signal kurtosis radio-frequency interference detector
+     Author ['AJ Schoenwald', 'DC Bradley']
+     Venue 2016 14th Specialist …
+     Year 2016
+     Abstract The modu- lations tested include narrow band continuous wave (CW) interference, narrow band pulsed continuous wave (PCW) interference, and wide band filtered  PCW modulation was excluded from hardware simulation to simplify the experimental setup and expedite results
+     Url https://ieeexplore.ieee.org/abstract/document/7530507/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Optimizing hardware and software co-simulator
+     Author ['R Klein', 'P Finch', 'D Kehoe']
+     Venue US Patent 5,768,567
+     Year 1998
+     Abstract the memory being viewed as configured for having selected portions of the segment to be statically or dynamically configured/reconfigured for either unoptimized or optimized accesses, wherein unoptimized accesses are performed through hardware simulation, and optimized
+     Url https://patents.google.com/patent/US5768567A/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract provide fast simulation and constraint handling for physically-based dynamic [19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14  Theory of Vibration, Volume II: Discrete and Continuous Systems
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Simulation scalability issues in wireless sensor networks.
+     Author ['E Egea López']
+     Venue NA
+     Year 2006
+     Abstract Moreover, many necessary models are in the continuous-time domain (eg heat transmission, battery discharge), being complex to integrate into discrete event network simulators  In fact, this is the real problem of integrating continuous models into discrete-event engines
+     Url https://repositorio.upct.es/handle/10317/423
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title FIR Filter Software and Hardware Simulation
+     Author ['RN Zobel']
+     Venue UKSC 84
+     Year 1984
+     Abstract A separate but file compatible program permits hardware simulation at the register and functional level. This allows software configuration of microprogrammed digital filters operated under single step or continuous operation, for assistance with hardware de-bugging
+     Url https://www.sciencedirect.com/science/article/pii/B9780408015042500491
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Large-scale real-time electromagnetic transient simulation of power systems using hardware emulation on FPGAs
+     Author ['Y Chen']
+     Venue NA
+     Year 2012
+     Abstract For inclusion of nonlinear elements in power system, a parallel iterative nonlinear network solver is described that uses Newton-Raphson method both continuous and piecewise. Multiple FPGAs are utilized for real-time EMT emulation of large-scale power systems
+     Url https://era.library.ualberta.ca/items/93fed049-1d24-4bde-b1c4-accafa65e12f
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Implementation of a Simulation Environment for Software and Hardware Simulation of Power Management for a Lunar Small Satellite Mission
+     Author ['A Falke', 'M Hartling', 'R Laufer', 'HP Roeser']
+     Venue … Astronautical Congress of …
+     Year 2004
+     Abstract IMPLEMENTATION OF A SIMULATION ENVIRONMENT FOR SOFTWARE & HARDWARE SIMULATION OF POWER MANAGEMENT  Arcjet 3 Cruise phase Continuous operation of the cruise stage takes care for orbit extension up to lunar gravitational sphere of influence. PPT's
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.IAC-04-IAA.4.11.6.05
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract Page 1. 0278-0046 (c) 2015 IEEE. Personal use is permitted, but republication/ redistribution requires IEEE permission. See http://www.ieee.org/ publications_standards/publications/rights/index.html for more information. This
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Synchronization control of stochastic delayed Lotka–Volterra systems with hardware simulation
+     Author ['L Wang', 'Y Dong', 'D Xie', 'H Zhang']
+     Venue Advances in Difference Equations
+     Year 2020
+     Abstract is presented to illustrate the feasibility and validity of the main theoretical results based on the Field-Programmable Gate Array hardware simulation tool  filtration \(\{\mathscr{F}_{t}\}_{t\geq 0}\) satisfying the usual conditions (ie, it is increasing and right continuous while \(\mathscr
+     Url https://link.springer.com/article/10.1186/s13662-019-2474-9
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware simulation of harmonic radar using a transverse electromagnetic cell
+     Author ['GJ Mazzaro', 'KD Sherbondy']
+     Venue SoutheastCon 2018
+     Year 2018
+     Abstract A hardware simulation of harmonic radar detection is constructed using standard laboratory-grade radio-frequency instruments to act as the front  A constant-amplitude continuous-wave sinusoid at frequency f0 and power Ptrans is generated by the Agilent N9310A
+     Url https://ieeexplore.ieee.org/abstract/document/8479219/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware accelerated simulation tool (HAST)
+     Author ['VS Lin', 'RJ Speelman', 'CI Daniels']
+     Venue 2005 IEEE …
+     Year 2005
+     Abstract The filter has additional hardware that interpolates between adjacent coefficients for more continuous and realistic results  Page 2. 2 simulation of a wireless multipath channel, explains the details of the system design, and summarizes the FFT system
+     Url https://ieeexplore.ieee.org/abstract/document/1559437/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Characterization of a solid oxide fuel cell gas turbine hybrid system based on a factorial design of experiments using hardware simulation
+     Author ['B Restrepo', 'LE Banta', 'D Tucker']
+     Venue … on Fuel Cell …
+     Year 2011
+     Abstract A SOLID OXIDE FUEL CELL GAS TURBINE HYBRID SYSTEM BASED ON A FACTORIAL DESIGN OF EXPERIMENTS USING HARDWARE SIMULATION  factorial design (81 treatments) was performed in the HyPer facility over approximately four days of continuous operation
+     Url https://asmedigitalcollection.asme.org/FUELCELL/proceedings-abstract/FUELCELL2011/54693/937/357907
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A model and methodology for hardware-software codesign
+     Author ['DE Thomas', 'JK Adams', 'H Schmit']
+     Venue IEEE Design & test of …
+     Year 1993
+     Abstract An important issue in cosimulation is how to tie behavioral hardware simulation into a software run- time environment  The HMMs for each phoneme share the same topology, shown in Figure 6. The Sphinx system's front end con- verts a continuous speech signal into a stream of
+     Url https://ieeexplore.ieee.org/abstract/document/232468/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware simulation of relative navigation using visual sensor information
+     Author ['M Monda', 'H Schaub']
+     Venue … , Navigation, and Control Conference and Exhibit
+     Year 2005
+     Abstract Hardware Simulation of Relative Navigation using Visual  Ap- plying techniques such as Kalman filtering, unscented Kalman filtering, or particle filtering to visual sensor output data can offer many benefits including smoother, more continuous sensor information with lower noise
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2005-5999
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract With continuous customer support, these simulators can be used to accommodate any special needs of the consumers. In the next step, the task force will work on a similar paper that will summarize the applications of real-time simulators
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Faking it for pleasure and profit: the use of hardware simulation at AAO
+     Author ['K Shortridge', 'M Vuong']
+     Venue Software and Cyberinfrastructure for …
+     Year 2010
+     Abstract Following the success of TCS, the AAO has continued to use the same sort of detailed hardware simulation for other projects. It has been used for a test-bed system where a fibre positioner moves back-illuminated fibres in a field and a camera provides a continuous set of
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7740/774008/Faking-it-for-pleasure-and-profit--the-use-of/10.1117/12.856216.short
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware-based real-time simulation on the raspberry pi
+     Author ['J Walter', 'M Fakih', 'K Grüttner']
+     Venue 2nd. Workshop on …
+     Year 2014
+     Abstract High Level System Design Functional Modeling/Simulation Virtual Module Integration Tests Hardware- Simulation Assisted DOORS/ Excel  4. Since digital systems cannot exactly reproduce continuous analog systems, simulation will be divided into discrete time steps [15]
+     Url https://www.researchgate.net/profile/Kim_Gruettner/publication/288670942_Hardware-Based_Real-Time_Simulation_on_the_Raspberry_Pi/links/5683038f08ae051f9aee8d43.pdf
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A Gaussian noise generator for hardware-based simulations
+     Author ['DU Lee', 'W Luk', 'JD Villasenor']
+     Venue IEEE Transactions on …
+     Year 2004
+     Abstract the inversion method [19], and the Box-Muller method [7]. The rejection-acceptance methods, while pop- ular in software implementations, contain conditional loops such that the output rates are not constant, making them less amenable to a hardware simulation environment
+     Url https://ieeexplore.ieee.org/abstract/document/1347079/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Simulation Aided Process for Developing Powertrains
+     Author ['T Lang', 'C Schyr']
+     Venue NA
+     Year 2000
+     Abstract The paper discusses how state-of-the-art simulation techniques can contribute to a continuous development process, which is based upon offline simulation using hardware in the loop, the utilization of modern test bed technology up to vehicle adjustment
+     Url https://www.sae.org/publications/technical-papers/content/2000-01-3161/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A per-unit hardware-in-the-loop simulation of a fuel cell/battery hybrid energy system
+     Author ['L Gauchia', 'J Sanz']
+     Venue IEEE Transactions on Industrial Electronics
+     Year 2009
+     Abstract As in the case of the vehicle simulator, the interaction between the software and hardware simulation of the fuel cell system is done in real time  The fuel cell will be in continuous operation, even during short stops, in order to recharge the battery
+     Url https://ieeexplore.ieee.org/abstract/document/5340635/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Design and development of a static VAR compensator for load compensation using real-time digital simulator and hardware simulation
+     Author ['J Berge', 'RK Varma']
+     Venue 2007 Large Engineering Systems …
+     Year 2007
+     Abstract Real-Time Digital Simulator and Hardware Simulation Jonathan (Jon) Berge, Student Member, IEEE and Rajiv K. Varma, Member, IEEE S Page 2. 7  LabView is also capable of running in a real-time mode under Windows XP. The software executes on a continuous loop
+     Url https://ieeexplore.ieee.org/abstract/document/4437344/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware simulation of semi-Markov and related processes: Part I: a versatile generator
+     Author ['A Birolini']
+     Venue Mathematics and Computers in Simulation
+     Year 1977
+     Abstract (4) the semi-Markov process becomes a homogeneous Markov chain with a constant time step (At) or a homogeneous Markov process in continuous time and with a denumerable number of  4) to allow the hardware simulation of general semi-Markov processes in discrete time
+     Url https://www.sciencedirect.com/science/article/pii/0378475477900015
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware simulation of fuel cell/gas turbine hybrids
+     Author ['TP Smith']
+     Venue NA
+     Year 2007
+     Abstract Page 1. HARDWARE SIMULATION OF FUEL CELL / GAS TURBINE HYBRIDS A Dissertation Presented to The Academic Faculty By  May 2007 Copyright © 2007 by Thomas P. Smith Page 2. HARDWARE SIMULATION OF FUEL CELL / GAS TURBINE HYBRIDS Approved by
+     Url https://smartech.gatech.edu/handle/1853/14581
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title FPGA-Based Pedestal Variance Computation Accelerator for Continuous Light Monitoring in VERITAS
+     Author ['M Shepherd']
+     Venue NA
+     Year 2019
+     Abstract Page 1. FPGA-Based Pedestal Variance Computation Accelerator for Continuous Light Monitoring in VERITAS  We found the parallelized scheme was optimal, and we tested the scheme in MATLAB, in hardware simulation, and in actual hardware
+     Url https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/0/1909/files/2019/04/Final-Report.pdf
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Tianjic: A unified and scalable chip bridging spike-based and continuous neural computation
+     Author ['L Deng', 'G Wang', 'G Li', 'S Li', 'L Liang']
+     Venue IEEE Journal of Solid …
+     Year 2020
+     Abstract 1 Tianjic: A Unified and Scalable Chip Bridging Spike-Based and Continuous Neural Computation  Spiking neural networks (SNNs) [6], [7], mainly governed by continuous dynamics of neuronal membrane potential and 0018-9200 © 2020 IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/8998338/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Real-time digital hardware simulation of the rodless pneumatic system
+     Author ['CH Yeh', 'PY Chen', 'YC Lai', 'HT Lin']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract Their dynamic behaviour can be described using a set of differential equations (in continuous time) or difference equations (in discrete time) [4], [5]. Moreover, these equations can be used to conduct simulations, for which the  Real-Time Digital Hardware Simulation of the
+     Url https://ieeexplore.ieee.org/abstract/document/7419864/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract neural networks dynamics at different time scales (from single event to learning sequence) is a specificity of this hardware simulation system  The neuron models are computed in continuous time on the analog hardware layer, whereas connectivity is computed on the digital layer
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Processor-in-the-loop and hardware-in-the-loop simulation of electric systems based in FPGA
+     Author ['J Mina', 'Z Flores', 'E López', 'A Pérez']
+     Venue … Conference on Power …
+     Year 2016
+     Abstract 175 Page 5. The continuous time model of the dc motor is given by the following equations ௗ௜೑ ௗ௧ ൌ െ ோ೑ ௅೑ ݅௙ ൅ ଵ ௅೑ ݒ௙  12, pp. 4299–4308, 2008. [10] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power electronics and drives,” IEEE Trans
+     Url https://ieeexplore.ieee.org/abstract/document/7530751/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Method for performing simulation using a hardware emulation system
+     Author ['MR Butts', 'JA Batcheller']
+     Venue US Patent 6,002,861
+     Year 1999
+     Abstract US6002861A - Method for performing simulation using a hardware emulation system - Google Patents. Method for performing simulation using a hardware emulation system. Download PDF Info. Publication number US6002861A
+     Url https://patents.google.com/patent/US6002861A/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A comparison of simulation and hardware-in-the-loop alternatives for digital control of power converters
+     Author ['A Sanchez', 'A De Castro']
+     Venue IEEE Transactions on …
+     Year 2012
+     Abstract When the switch is open, the input current (iL) can be positive so the diode does conduct (called CCM or Continuous Current Mode), or can be zero so the diode does not conduct (called DCM or Discontinuous Current Mode)
+     Url https://ieeexplore.ieee.org/abstract/document/6175947/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A tool suite for simulation based analysis of memory access behavior
+     Author ['J Weidendorfer', 'M Kowarschik', 'C Trinitis']
+     Venue International Conference on …
+     Year 2004
+     Abstract To minimize measurement overhead, only small action is performed5. When syn- thetic event counters are enough for the profiling result quality to be achieved, hardware simulation allows for runtime instrumentation with its  Continuous Profiling: Where Have All the Cycles Gone
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24688-6_58
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware/software co-simulation environment for csoc with soft processors
+     Author ['R Mateos', 'JL Lazaro', 'F Espinosa']
+     Venue Proceedings. 2004 IEEE …
+     Year 2004
+     Abstract used. To the best of our knowledge there are no tools for soft processors with such characteristics probably due to their continuous and dynamic evolution  Figure 4. Performance improvement. 4.2. Hardware simulation control In
+     Url https://ieeexplore.ieee.org/abstract/document/1393321/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Logic simulation machine
+     Author ['J Cocke', 'RL Malm', 'JJ Shedletsky']
+     Venue US Patent 4,306,286
+     Year 1981
+     Abstract US4306286A - Logic simulation machine - Google Patents. Logic simulation machine. Download PDF Info. Publication number US4306286A. US4306286A US06/053,444 US5344479A US4306286A US 4306286 A US4306286
+     Url https://patents.google.com/patent/US4306286A/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Software and hardware simulation tools of automatic load-frequency control system
+     Author ['NY Ruban', 'MV Andreev']
+     Venue 2016 2nd International …
+     Year 2016
+     Abstract Software and Hardware Simulation Tools of  That's why the development of power equipment models is connected with a required amount of simplifications and assumptions related to the need for decomposition of the continuous unified spectrum of quasi-steady-state and
+     Url https://ieeexplore.ieee.org/abstract/document/7910994/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Concurrent simulation of hardware designs with behavioral characteristics
+     Author ['C Basile', 'GP Saggese', 'K Whisnant']
+     Venue US Patent 8,156,457
+     Year 2012
+     Abstract to HDL variable type is preserved using variable attributes indicating the multi-level logic values and strength levels that a variable can take; information pertaining to HDL assignment type is preserved using assignment attributes such as blocking, non-blocking, and continuous
+     Url https://patents.google.com/patent/US8156457B2/en
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title A hardware Gaussian noise generator using the Wallace method
+     Author ['DU Lee', 'W Luk', 'JD Villasenor', 'G Zhang']
+     Venue … Transactions on Very …
+     Year 2005
+     Abstract However, they contain conditional loops such that the output rates are not constant, which is undesirable in a hardware simulation environment  Finance, vol. 7, no. 2, pp. 127–155, 1997. [4] A. Bergstrom, “Gaussian estimation of mixed-order continuous-time dy- namic models
+     Url https://ieeexplore.ieee.org/abstract/document/1512179/
+
+
+     Search term "Hardware+simulation"+"Continuous"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations  Assuming that the buck can operate in the continuous and discontinuous conduction modes, it has three feasible configurations: Q = {q0, q1, q2}
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+

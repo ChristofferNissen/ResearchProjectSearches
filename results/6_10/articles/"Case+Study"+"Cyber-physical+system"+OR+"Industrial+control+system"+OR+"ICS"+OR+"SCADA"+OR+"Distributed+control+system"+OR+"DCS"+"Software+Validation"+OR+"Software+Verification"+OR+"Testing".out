@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automated unit testing of a SCADA control software: an industrial case study based on action research
+     Author ['SA Jolly', 'V Garousi']
+     Venue … on Software Testing …
+     Year 2012
+     Abstract We report in this case-study paper our experience and success story with a practical approach and tool for unit regression testing of a SCADA (Supervisory Control and Data Acquisition) software. The tool uses a black-box specification of the units under test to
+     Url https://ieeexplore.ieee.org/abstract/document/6200132/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An approach to dynamic power consumption current testing of CMOS ICs
+     Author ['JA Segura', 'M Roca', 'D Mateo']
+     Venue Proceedings 13th IEEE …
+     Year 1995
+     Abstract A case study for a full adder circuit has been presented showing that dynamic current test vector generation allows detection levels ranging between 80-90 % while a 100% coverage is  “Electrical characteristics and testing considerations for gate oxide shorts in CMOS ICs”
+     Url https://ieeexplore.ieee.org/abstract/document/512623/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards configurable real-time hybrid structural testing: a cyber-physical system approach
+     Author ['T Tidwell', 'X Gao', 'HM Huang', 'C Lu']
+     Venue … Symposium on Object …
+     Year 2009
+     Abstract In Section 4 we present a case study comparing our proof of concept system with a  of computational, electrical, hydraulic and structural components, each with its own associated dynam- ics that need  Currently the ability to perform real-time hybrid testing is often hindered
+     Url https://ieeexplore.ieee.org/abstract/document/5231975/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A survey on testing for cyber physical system
+     Author ['SA Asadollah', 'R Inam', 'H Hansson']
+     Venue … International Conference on Testing …
+     Year 2015
+     Abstract Huang, HM, Tidwell, T., Gill, C., Lu, C., Gao, X., Dyke, S.: Cyber-physical systems for real-time hybrid structural testing: a case study  18–23 (2012)Google Scholar. 12. Kane, A., Fuhrman, T., Koopman, P.: Monitor based oracles for cyber-physical system testing
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25945-1_12
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Analysis of SCADA security using penetration testing: A case study on modbus TCP protocol
+     Author ['J Luswata', 'P Zavarsky', 'B Swar']
+     Venue 2018 29th Biennial …
+     Year 2018
+     Abstract This paper presents an insight into attacks on Supervisory Control and Data Acquisition (SCADA) systems specifically focusing on systems that use the Modbus TCP protocol. A penetration testing approach is adopted using a novel penetration testing tool to (i) test the
+     Url https://ieeexplore.ieee.org/abstract/document/8494686/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Cost-effective integration of three-dimensional (3D) ICs emphasizing testing cost analysis
+     Author ['Y Chen', 'D Niu', 'Y Xie']
+     Venue 2010 IEEE/ACM …
+     Year 2010
+     Abstract without performing KGD testing, and therefore reduce the time-to- market of the design. V. DESIGN SPACE EXPLORATION FOR COST-EFFECTIVE 3D ICS  A case study is then performed for a 3-layer 3D design to find out a better integration strategy between D2W and W2W
+     Url https://ieeexplore.ieee.org/abstract/document/5653753/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Search-Based test case prioritization for simulation-Based testing of cyber-Physical system product lines
+     Author ['A Arrieta', 'S Wang', 'G Sagardui', 'L Etxeberria']
+     Venue Journal of Systems and …
+     Year 2019
+     Abstract Advanced. Elsevier. Journal of Systems and Software. Volume 149, March 2019, Pages 1-34. Journal of Systems and Software. Search-Based test case prioritization for simulation-Based testing of cyber-Physical system product lines
+     Url https://www.sciencedirect.com/science/article/pii/S0164121218302085
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Current signatures for production testing [CMOS ICs]
+     Author ['A Gattiker', 'P Nigh', 'D Grosch']
+     Venue … on IDDQ Testing
+     Year 1996
+     Abstract [2] A. Gattiker and W. Maly, “Current Signatures,” IEEE VLSI Test Symposium, April 1996, pp. 112-117. [3] D. Josephson, M. Storey and D. Dixon, “Micropro- cessor IDDq Testing: A Case Study,” IEEE Design & Test of Computers, Summer 1995 Edition, 1995, pp
+     Url https://ieeexplore.ieee.org/abstract/document/557804/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Defect-oriented testing of analogue and mixed signal ICs
+     Author ['MB Santos', 'FM Goncalves', 'M Ohletz']
+     Venue … on Electronics, Circuits …
+     Year 1998
+     Abstract 1985. [I41 CF Hawkins, JM Soden, AW Righter, FJ Ferguson, “Defect Classes - an Overdue Paradigm for CMOS IC Testing”, Proc. Int  [34] J. Jordgo, C. Geraldes, JP Teixeira, “DOT of Analogue and MS ICs using Lift and AnaFAULT: a 6-bit DAC Case Study”, INESC Int
+     Url https://ieeexplore.ieee.org/abstract/document/814913/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Impact of mid-bond testing in 3D stacked ICs
+     Author ['M Taouil', 'S Hamdioui', 'EJ Marinissen']
+     Venue … Symposium on Defect …
+     Year 2013
+     Abstract To evaluate the test flows, a case study is performed in which 3D-COSTAR is used to  TSV) based 3D-SIC technology closer to mar- ket [1–3]. Realizing such ICs is attractive  challenges that has to be addressed in order to make this technology commercially successful is testing
+     Url https://ieeexplore.ieee.org/abstract/document/6653603/
+

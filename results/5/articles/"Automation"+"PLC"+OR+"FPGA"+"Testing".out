@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"PLC"+OR+"FPGA"+"Testing"
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated plc software testing using adapted uml sequence diagrams
+     Author ['B Kormann', 'D Tikhonov', 'B Vogel-Heuser']
+     Venue IFAC Proceedings Volumes
+     Year 2012
+     Abstract Aspects of requirements engineering, testing, simulation, processes, tools, etc. were addressed to reveal research demands of PLC (Programmable Logic Controller) control software development in machine/plant automation
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016333821
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous testing as a strategy of improving the PLC software development cycles
+     Author ['U Kramer']
+     Venue 2001 IEEE/ASME International Conference on …
+     Year 2001
+     Abstract be found in the altered conditions of cooperation (teamwork, teleworking, etc.) under which PLC softwareprojects have to becarried out. Most areas of automation engineering lack for largely for- malizable procedures, in particular within the specification and testing phase, and
+     Url https://ieeexplore.ieee.org/abstract/document/936765/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title HiL simulation workbench for testing and validating PLC programs
+     Author ['J Machado', 'E Seabra']
+     Venue 2013 11th IEEE International …
+     Year 2013
+     Abstract WORKBE1CH The main focus of this worN is to design a HiL system, which can be built and used, in the Automation Laboratory of Mechanical Engineering Department of University of Minho, in Portugal, which main goal is to allow fast testing and validation of PLC programs
+     Url https://ieeexplore.ieee.org/abstract/document/6622887/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Review of model-based testing approaches in production automation and adjacent domains-current challenges and research gaps
+     Author ['S Rösch', 'S Ulewicz', 'J Provost']
+     Venue Journal of Software …
+     Year 2015
+     Abstract found that have evaluated the applicability of the U2TP in the field of production automation  protocol but the extension of the approach in order to test PLC control software  Another interesting development that the testing community could benefit from is the improvement of the
+     Url https://mediatum.ub.tum.de/doc/1345784/file.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title A BIST architecture for FPGA look-up table testing reduces reconfigurations
+     Author ['E Atoofian', 'Z Navabi']
+     Venue null
+     Year 2003
+     Abstract [1] C. Metra et al., "Novel Technique for Testing FPGA ", Design, Automation and Test in Europe, pp 89-94, 1998. [2] M. Alderighi, E. Gummati, V. Piuri, and G. Sechi“, A FPGA based Implementation of a Fault Tolerant Neural Architecture for Photon Identification,” in fpga, pp
+     Url https://ieeexplore.ieee.org/abstract/document/1250788/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title The design of a portable programmable logic controller (PLC) training system for use outside of the automation laboratory
+     Author ['M Barrett']
+     Venue International Symposium for Engineering Education
+     Year 2008
+     Abstract a requirements statement, producing an electrical drawing, producing SDLC documentation and connecting the PLC to the  Black box and white box testing was carried out  it was intended, delivering introductory courses in situations where access to the automation laboratory is
+     Url http://www.idc-online.com/technical_references/pdfs/instrumentation/PLCfforoutsidetheautomationlab.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing and diagnosis of interconnect faults in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2002
+     Abstract II. PREVIOUS WORK Research in FPGA testing has investigated a wide range of test archi- tectures and techniques  IV. FPGA TESTING METHODOLOGY We propose the use of a BIST strategy for the testing of an FPGA structure
+     Url https://ieeexplore.ieee.org/abstract/document/1047052/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Agile testing concepts based on keyword-driven testing for industrial automation systems
+     Author ['R Hametner', 'D Winkler', 'A Zoitl']
+     Venue IECON 2012-38th Annual …
+     Year 2012
+     Abstract V. EXAMPLE IMPLEMENTATION In order to validate the presented keyword-driven testing approach for industrial automation systems a High Speed Pick and Place (HSPP) unit is used  This means that currently the testing process is executed not on a hardware PLC
+     Url https://ieeexplore.ieee.org/abstract/document/6389298/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automation of Waste Treatment on the Washer Machine Based on PLC Control System in the Manufacturing Industry
+     Author ['S Ardi', 'MI Tommy', 'A Afianto']
+     Venue 2018 5th International …
+     Year 2018
+     Abstract [3, 4, 5, and 6]. Figure 3 shows the automation of manual washer hand washer treatment manually. Figure 3. Illustration of waste treatment automation on a manual washer machine  651 Page 4. address that has been given to each inputan. PLC input testing includes: push
+     Url https://ieeexplore.ieee.org/abstract/document/8612638/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA test time reduction through a novel interconnect testing scheme
+     Author ['S McCracken', 'Z Zilic']
+     Venue Proceedings of the 2002 ACM/SIGDA tenth …
+     Year 2002
+     Abstract We present an approach to speed up testing FPGA interconnect by reconfiguring it during the test  Instead of using the local reseeding memory, we allow a small number of configuration (seed) downloads, as customary to FPGA testing
+     Url https://dl.acm.org/doi/abs/10.1145/503048.503069
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Advances in PLC-based canal automation
+     Author ['CM Burt', 'X Piao']
+     Venue … and Water Balances in San Luis …
+     Year 2002
+     Abstract integrators PLC-BASED CANAL AUTOMATION COMPONENTS Simulation Model  simulated values. We now utilize a specific step-by-step procedure for testing PLC control at each structure, one at a time, for a new installation. Each
+     Url https://digitalcommons.calpoly.edu/bae_fac/61/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title An optimum ORA BIST for multiple fault FPGA look-up table testing
+     Author ['A Alaghi', 'MS Yarandi', 'Z Navabi']
+     Venue 2006 15th Asian Test …
+     Year 2006
+     Abstract 166 – 172, 1997. [3] C. Metra et al., "Novel Technique for Testing FPGA", Design, Automation and Test in Europe, pp 89-94, 1998. [4] M. Renovell, J. Figueras, Y. Zorian, "Test of RAM-based FPGA: Methodology and Application to the Interconnect", in Proc
+     Url https://ieeexplore.ieee.org/abstract/document/4030782/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automatic configuration generation for FPGA interconnect testing
+     Author ['MB Tahoori', 'S Mitra']
+     Venue Proceedings. 21st VLSI Test Symposium …
+     Year 2003
+     Abstract On Design, Automation and Test in Europe DATE99, pp  [Renovell 98] M. Renovell, JM Portal, J. Figuras, Y. Zorian, Testing the Interconnect of  [Renovell 97] M. Renovell, J. Figuras, Y. Zorian, Test of RAM- Based FPGA: Methodology and Application to the Interconnect, proc
+     Url https://ieeexplore.ieee.org/abstract/document/1197644/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Advances in PLC‐based irrigation canal automation
+     Author ['CM Burt', 'X Piao']
+     Venue Irrigation and drainage
+     Year 2004
+     Abstract stated the challenges, it is also clear that over the past three years there have been significant improvements in the understanding of PLC-based canal automation  A step- by-step procedure for testing PLC control is specified for each structure, one at a time, for a new installation
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/ird.106
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based low-level can protocol testing
+     Author ['M Mostafa', 'M Shalan', 'S Hammad']
+     Venue … on System on Chip for Real …
+     Year 2006
+     Abstract A hardware-based tool design is proposed in [6]. It incorporates FPGA withmicroprocessor, cache, and other required components in order to implement bit level testing tool. In [7], test automation FPGA framework, foran electronic control networked unit, is given
+     Url https://ieeexplore.ieee.org/abstract/document/4155286/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Application-independent testing of FPGA interconnects
+     Author ['MB Tahoori', 'S Mitra']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2005
+     Abstract Page 10. TAHOORI AND MITRA: APPLICATION-INDEPENDENT TESTING OF FPGA INTERCONNECTS 1783  1988. [6] IG Harris and R. Tessier, “Interconnect testing in cluster-based FGPA architectures,” in Proc. Design Automation Conf., Los Angeles, CA, 2000, pp. 49–54
+     Url https://ieeexplore.ieee.org/abstract/document/1522443/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Exciting FPGA cryptographic Trojans using combinatorial testing
+     Author ['P Kitsos', 'DE Simos', 'J Torres-Jimenez']
+     Venue 2015 IEEE 26th …
+     Year 2015
+     Abstract In this paper, we explore the applicability of combinatorial testing for FPGA Trojan detection and we demonstrate that combinatorial testing provides the required theoretical guaran- tees for exciting a Trojan of specific lengths
+     Url https://ieeexplore.ieee.org/abstract/document/7381800/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Analyzing to Set up PLC Software Platform of Function Testing for the Door-lock Latch in Automobiles [J]
+     Author ['QYCWY Lijie', 'Z Shuanglin']
+     Venue Office Informatization
+     Year 2009
+     Abstract Qin Yong Cai Wei Yang Lijie Zhang Shuanglin (Shenyang SIASUN Robot & Automation Co.,Ltd.Shenyang 110168). The versatility and portability of PLC (Programmable Logical Control)program are analyzed thoroughly in the article.According to the testing function of door
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-BGDH200904011.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Model-based testing of PLC software: test of plants' reliability by using fault injection on component level
+     Author ['S Rösch', 'D Tikhonov', 'D Schütz']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract Combining UML with IEC 61131-3 languages to preserve the usability of graphical notations in the software development of complex automation systems. 10, 90–94. Kormann, B., Tikhonov, D., and Vogel-Heuser, B. (2012). Automated PLC Software Testing Using Adapted UML
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016421488
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Research of bearing quality testing system on product-line based on PLC [J]
+     Author ['D WANG', 'M LI']
+     Venue Manufacturing Automation
+     Year 2007
+     Abstract Briefly introduces a bearing quality testing system based on PLC controlling, and introduces the working process and methods of hardware and software designing. This system is able to do the automatic delivering, orientation, testing and sorting in the product line. It can do
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JXGY200711018.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Applying model-based software product line testing approaches to the automation engineering domain
+     Author ['M Lochau', 'J Bürdek', 'S Lity', 'M Hagner']
+     Venue at …
+     Year 2014
+     Abstract In this article, we present the first approach to combine software product line engineering and model- based testing for PLC-based control software on field level. This enables to handle quality assurance of variant-rich automation systems efficiently, which is until now an open
+     Url https://www.degruyter.com/view/journals/auto/62/11/article-p771.xml
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title BIST-based diagnosis of FPGA interconnect
+     Author ['C Stroud', 'J Nall', 'M Lashinsky']
+     Venue Proceedings …
+     Year 2002
+     Abstract 3. Roving STARs Overview The roving STARS approach [I] proposed new techniques for on-line FPGA testing, diagnosis, and fault-tolerance, applicable to any FPGA supporting incremental RTR via its Boundary Scan interface [16]
+     Url https://ieeexplore.ieee.org/abstract/document/1041813/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Multi-channel data acquisition based on FPGA in magnetic flux leakage testing [J]
+     Author ['L YANG', 'Q ZHANG', 'S GAO', 'X WANG']
+     Venue Journal of Shenyang …
+     Year 2008
+     Abstract China);Digital Control of PFM Induction Heating Power Supply Based on FPGA[J];Ordnance Industry Automation;2006-12  and Electronic Engineering,Shandong University of Science and Technology,Qingdao 266510 );The reactive current testing based on CPLD/FPGA[A];[C
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYGY200804022.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title An optimized BIST architecture for FPGA look-up table testing
+     Author ['MS Yarandi', 'A Alaghi', 'Z Navabi']
+     Venue IEEE Computer Society …
+     Year 2006
+     Abstract [2] C. Metra et al., "Novel Technique for Testing FPGA", Design, Automation and Test in Europe, pp 89-94, 1998. [3] M. Renovell, J. Figueras, Y. Zorian, "Test of RAM-based FPGA: Methodology and Application to the Interconnect", in Proc. 15th VLSI Test Symp., pp
+     Url https://ieeexplore.ieee.org/abstract/document/1602476/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Control of boiler operation using PLC–SCADA
+     Author ['KG Shankar']
+     Venue Proceedings of the International MultiConference of …
+     Year 2008
+     Abstract Programmable Logic Controller In this, instead of achieving desired control and automation through physical wiring of control devices, it is achieving through program say software  Basics of a PLC function are continual scanning of a program  Step 1: Testing input status
+     Url https://www.idc-online.com/technical_references/pdfs/electrical_engineering/Control_of_Boiler_Operation_using_PLC%20-%20SCADA.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title An integrated system for statistical testing of pseudo-random generators in FPGA devices
+     Author ['P Dabal', 'R Pelka']
+     Venue … on Signals and Electronic Systems (ICSES)
+     Year 2012
+     Abstract [4] P. Dabal and Pelka, “FPGA-based cryptosystem with combined stream-block cipher and digital chaos generator,” in 2010 Proc. Int. Conf. Signals and Electronic Systems, Gliwice, pp.315-318  IEEE Int. Conf. Automation Quality and Testing Robotics, Cluj- Napoca, pp
+     Url https://ieeexplore.ieee.org/abstract/document/6382216/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Dual protocol stack for maximum speed access to a programmable logic controller (PLC) in a factor automation system
+     Author ['AD Papadopoulos', 'A Tanzman', 'RH Naismith']
+     Venue US Patent 6,963,922
+     Year 2005
+     Abstract filed by Schneider Automation Inc filed Critical Schneider Automation Inc 2003  GENERAL; FUNCTIONAL ELEMENTS OF SUCH SYSTEMS; MONITORING OR TESTING ARRANGEMENTS FOR  G05B2219/00—Program-control systems; G05B2219/10—Plc systems; G05B2219/12
+     Url https://patents.google.com/patent/US6963922B2/en
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design, Fabrication, and Testing of a PLC Training Module Using Siemens S7-300 PLC
+     Author ['JC Chan', 'HLT Dy', 'AH Fernando', 'RL Tiu', 'PJG Viernes']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title A FPGA-based virtual instrumentation system for high speed parallel optical transmission BER testing
+     Author ['L Bo', 'Y Yu', 'C Xiongbin', 'C Hongda']
+     Venue Chinese High Technology …
+     Year 2010
+     Abstract speed of 1.25Gb/s, and provides a fast, effective BER testing method for  digital storage oscilloscope based on ARMS3C2410 and EPM7128[J];Electric Power Automation Equipment;2009-07  Luoyang 471039, China);The Design of Signal Source Based on FPGA and LabVIEW[J
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GJSX201009015.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Interconnect testing in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue Proceedings of the 37th Annual Design Automation …
+     Year 2000
+     Abstract As IC densities are increasing, cluster-based FPGA architectures are becoming the architecture of choice for major FPGA manufacturers. A cluster-based architecture is one in which several logic blocks are grouped together into a coarse-grained logic block. While the
+     Url https://dl.acm.org/doi/abs/10.1145/337292.337310
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA implementation of an LFSR based pseudorandom pattern generator for mems testing
+     Author ['MF Islam', 'MAM Ali', 'BY Majlis']
+     Venue International Journal of Computer …
+     Year 2013
+     Abstract A typical application of the pattern generator considered in this work is the testing of micro  Very high speed integrated circuit HDL (VHDL) was used to implement the LFSR on FPGA  speed to 178MHz Mentor Graphics and Xilinx ISE 6, electronic design automation (EDA) tool
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.5413&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Reconfigurable testing system for silicon micromechanical gyroscope characteristic curve based on FPGA
+     Author ['B LUO', 'C LI', 'M WU', 'A WANG']
+     Venue Journal of Chinese Inertial …
+     Year 2010
+     Abstract Mei-ping,WANG An-cheng(College of Mechatronic Engineering and Automation,National University of Defense Technology,Changsha 410073,China);Reconfigurable testing system for silicon micromechanical gyroscope characteristic curve based on FPGA[J];中国惯性技术学报
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-ZGXJ201005020.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Application of PLC in the Fast Test System for Electric Pump [J]
+     Author ['MA Dong-qi']
+     Venue Fluid Machinery
+     Year 2011
+     Abstract Limited,Nanjing 210036,China);Realization and application of transformer substation automation test simulation  of Aeronautics and Astronautics, Beijing 100083,China);Application of PLC in Hydraulic  3, Sun Yukun;Variable-frequency Motor Testing System[J];The World of
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-LTJX201111012.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing FPGA based digital system using XILINX ChipScope logic analyzer
+     Author ['K Arshak', 'E Jafer', 'C Ibala']
+     Venue 2006 29th International Spring …
+     Year 2006
+     Abstract This work presented a new methodology for verifying and debugging an FPGA based system  method applied in this work is based on testing each unit independently before testing it again  and tranactions”, IEEE Proc Asia and South Pacific conf on Design Automation, Jan 2006
+     Url https://ieeexplore.ieee.org/abstract/document/4216059/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Roving STARs: an integrated approach to on-line testing, diagnosis, and fault tolerance for FPGAs in adaptive computing systems
+     Author ['M Abramovici', 'JM Emmert']
+     Venue Proceedings Third NASA …
+     Year 2001
+     Abstract While FPGA testing has been the focus of many papers [21[ 161[ 1 SI[ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 11[3~1[401[4~1[421[4 8][49][51][52][53][56], most of the previous work deals with off-line testing, which is not applicable in missions relying on continuous system operation
+     Url https://ieeexplore.ieee.org/abstract/document/937949/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automatic generation of PLC automation projects from component-based models
+     Author ['E Estévez', 'M Marcos', 'D Orive']
+     Venue The International Journal of Advanced …
+     Year 2007
+     Abstract production and deployment are independency of components from their context; independent component development, testing, configuration and  three different PLCs in the application, the software architecture must describe three automation projects, one for each PLC
+     Url https://link.springer.com/content/pdf/10.1007/s00170-007-1127-4.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Diagnosis of interconnect faults in cluster-based FPGA architectures
+     Author ['I Harris', 'R Tessier']
+     Venue … on Computer Aided Design. ICCAD-2000 …
+     Year 2000
+     Abstract Altera Corporation. Altera Apex Data Sheet. 2000. IG Harris and R. Tessier. Interconnect testing in cluster-based FPGA architectures. In Design Automation Conference, June 2000. V. Lakamraju and R. Tessier. Tolerating operational faults in cluster-based FPGAs
+     Url https://ieeexplore.ieee.org/abstract/document/896517/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title On the implementation of industrial automation systems based on PLC
+     Author ['F Basile', 'P Chiacchio']
+     Venue … on Automation Science …
+     Year 2013
+     Abstract This increases the reusability of FBs and, at the same time, improves the testing of applications since FBs are simpler and logical constraints are enforced using a  BASILE et al.: ON THE IMPLEMENTATION OF INDUSTRIAL AUTOMATION SYSTEMS BASED ON PLC
+     Url https://ieeexplore.ieee.org/abstract/document/6381490/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Development of a LCR testing instrument based on FPGA [J]
+     Author ['L XU', 'Y ZOU', 'Z HUANG', 'C TANG']
+     Venue Engineering Journal of Wuhan …
+     Year 2006
+     Abstract Automatic Test System Based on Virtual Instrument[J];Ordnance Industry Automation;2006-10  SUN Mao-yi,WANG Wei(National Institute of Measurement and Testing Technology,Electronic  Institute,Chengdu 610021,China);Development of Digital Bridge Based on FPGA & MCU
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WSDD200601022.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automation of Storage Battery Tesing Facility Using PLC and HMI
+     Author ['SS Hosmani', 'N Kaulgud']
+     Venue 2017 International Conference on …
+     Year 2017
+     Abstract This paper, e explore the application of the PLC and its use for developing automation in the field of storage battery testing facility  The present paper explores the method of application of PLC and HMI for the automation of battery testing facility located at Exide industries
+     Url https://ieeexplore.ieee.org/abstract/document/8081903/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Realization and application of transformer substation automation test simulation system based on PLC module [J]
+     Author ['J DENG', 'Y YUAN']
+     Venue Power System Protection and Control
+     Year 2009
+     Abstract of automation system.Lastly,this paper points out because the PLC system provides the  for Communication System of Network-based Substation Automation System[J];Automation of Electric  Beijing 100084 China);Pre-Simulation of PC Based Closed-Loop Testing for Protective
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JDQW200924036.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title An FPGA implementation of on chip UART testing with BIST techniques
+     Author ['PB Gopal', 'KH Kishore', 'BP Kittu']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title SEU simulation framework for Xilinx FPGA: First step towards testing fault tolerant systems
+     Author ['M Straka', 'J Kastil', 'Z Kotasek']
+     Venue 2011 14th Euromicro …
+     Year 2011
+     Abstract Keywords: SEU, generator, framework, FPGA, fault tolerant system, partial reconfiguration, testing, simulation Abstract  Then, SEU simulation framework for testing fault tolerant system design in FPGA is presented in section VII. Finally
+     Url https://ieeexplore.ieee.org/abstract/document/6037413/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title PLC Control for Motor Testing System [J]
+     Author ['KM Shen', 'YF Wang', 'X Chang']
+     Venue Light Industry Machinery
+     Year 2010
+     Abstract Hangzhou 310018,China;2.Shanghai Institute of Measurement and Testing Technology,Shanghai  Suzhou Institute of Industrial Technology,Suzhou Jiangsu 215104,China);PLC-based Robot  Xu-dong, ZHANG Ze (School of Mechanical Engineering & Automation, Zhejiang Sci
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-QGJX201004026.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Hierarchical built-in self-testing and fpga based healing methodology for system-on-a-chip
+     Author ['SK Venishetti', 'A Akoglu', 'R Kalra']
+     Venue Second NASA/ESA …
+     Year 2007
+     Abstract We relaxed the testing, healing and configuration timing penalty in this work as it is a one time or few  Design Automation Conf., June 2002, pp.713–724 [12] G. Zeng and H. Ito, “Efficient test data decompression for Systemon- a-chip using an embedded FPGA core,” Proc
+     Url https://ieeexplore.ieee.org/abstract/document/4291989/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing FPGA delay faults in the system environment is very different from" ordinary" delay fault testing
+     Author ['A Krasniewski']
+     Venue … Seventh International On-Line Testing …
+     Year 2001
+     Abstract IEEE Int. Test Conf, pp. 973-982, 1999. I. G. Hanis, R. Tessier, "Interconnect Testing in Cluster-Based FPGA Architectures", Proc. 37th Design Automation Conf., pp. 49-54, 2000. A. Krasniewski, "Application-Dependent Testing of FPGA Delay Faults", Proc
+     Url https://ieeexplore.ieee.org/abstract/document/937815/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Hardware infrastructure of remote laboratory for experimental testing of FPGA based complex reconfigurable systems
+     Author ['M Drutarovský', 'J Šaliga', 'I Hroncova']
+     Venue Acta Electrotechnica et Informatica
+     Year 2009
+     Abstract 5 can be accomplished using only Electronic Design Automation (EDA) software tools. Stages 6 and 7 require access to the real FPGA hardware. A typical FPGA design process is an iterative process that requires compilation of a complete design and testing/detection of errors
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.157.9763&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design of Testing and Control System of Drawing-testing Machine Based on PLC and Configuration Software
+     Author ['LI Lin', 'GUO Cui-xia']
+     Venue Modular Machine Tool & Automatic …
+     Year 2006
+     Abstract Wang Donghui (Computer Center);A New Inplementation of Automatic Drawing Testing Machine[J  Zhenjiang 212013,China)Yang Dong Huang Yonghong;Design of PLC Controlling System for Indoor Swimming Pool Water Treatment[J];Electrical Automation;2007-02
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-ZHJC200608018.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title Development of PLC-based software for increasing the dependability of production automation systems
+     Author ['D Schütz', 'A Wannagat', 'C Legat']
+     Venue IEEE Transactions on …
+     Year 2012
+     Abstract First, the decision logic cannot be executed in each PLC cycle but only when a  Second, to apply the proposed concept for hypothesis testing in the hydraulic press, the measurements  of a real sensor, reconfigura- tion measures can be applied by the automation software during
+     Url https://ieeexplore.ieee.org/abstract/document/6359925/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Testing"
+     Title BIST-based test and diagnosis of FPGA logic blocks
+     Author ['M Abramovici', 'CE Stroud']
+     Venue IEEE Transactions on Very Large …
+     Year 2001
+     Abstract Our BIST architecture is easily scalable. Index Terms—Built-in self-test, fault-tolerance, FPGA diagnosis, FPGA testing, reconfigurable systems  BIST techniques have also been applied to on-line FPGA testing [34], [2], [3], but in this paper we discuss only off-line testing
+     Url https://ieeexplore.ieee.org/abstract/document/920830/
+

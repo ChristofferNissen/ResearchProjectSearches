@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous dialects for verification and  of certifiably fault-tolerant networks, hardware, and middleware for automotive and avion- ics applications already entails formal methods use
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract [4]. Most formal methods are either  We apply the same concept towards transparent hardware simulation envi- ronment  To implement the controller, the following Integrated Circuits (ICs) are used: • 74169: A bidirectional modulo 16 synchronous counter (with parallel load signal
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Cooperative, Trusted Software Repair for Cyber Physical System Resiliency
+     Author ['W Weimer', 'S Forrest', 'CL Goues', 'M Kim']
+     Venue NA
+     Year 2018
+     Abstract COOPERATIVE, TRUSTED SOFTWARE REPAIR FOR CYBER PHYSICAL SYSTEM RESILIENCY 5a  by (1) learning a model of the intended mission in software and hardware simulation, (2) measuring  That is, a formal methods approach based on loop invariants allowed us to
+     Url https://apps.dtic.mil/sti/citations/AD1056764
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Formal hardware specification languages for protocol compliance verification
+     Author ['A Bunker', 'G Gopalakrishnan', 'SA Mckee']
+     Venue ACM Transactions on Design …
+     Year 2004
+     Abstract The transfer of formal methods technologies to industrial practice depends on their ability to fit into exist- ing or emerging design  In one project, class libraries support hardware simulation by implementing hardware design components such as ports and signals [Helaihel and
+     Url https://dl.acm.org/doi/abs/10.1145/966137.966138
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware/software codesign: The past, the present, and predicting the future
+     Author ['J Teich']
+     Venue Proceedings of the IEEE
+     Year 2012
+     Abstract I. INTRODUCTION Hardware/software codesign emerged basically as a new discipline to design complex integrated circuits (ICs) in the early  is the complexity of the system design when performing a pure gate level or register transfer level (RTL) hardware simulation, which is
+     Url https://ieeexplore.ieee.org/abstract/document/6172642/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title High level modeling and validation methodologies for embedded systems: bridging the productivity gap
+     Author ['SK Shukla', 'SA Edwards', 'JP Talpin']
+     Venue … Conference on VLSI …
+     Year 2003
+     Abstract Verilog provides more primitives geared specifically toward hardware simulation  www.irisa.fr/prive/talpin [4] Rajesh K. Gupta's webpage: http://www.ics.uci.edu  His research interests are in formal methods for system design and validation, embedded systems design
+     Url https://ieeexplore.ieee.org/abstract/document/1183104/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title CFSIM: A Concurrent Compiled Code Functional Simulator for hopCP.
+     Author ['V Akella', 'G Gopalakrishnan']
+     Venue Int. Journal in Computer …
+     Year 1994
+     Abstract In this paper, we illustrate the use of formal methods in the design of a control  analysis/simulation tools helps conquer the complexity of specifying and validating control intensive ICs  Hardware simulation can be performed at the device level (eg SPICE), switch level with timing
+     Url https://pdfs.semanticscholar.org/8f76/a6bdd570f5c2cfc6c0f006b821bd7fdf9cb9.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform
+     Author ['M Baleani', 'F Gennari', 'Y Jiang', 'Y Patel']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract However, with increasing system requirements, embedded control applications, such as automotive control, avion- ics, robotics and industrial  mnemonic name of the FPGA instruction; opcode is the instruction code used in hardware simulation, which is  Formal Methods, 1999
+     Url https://dl.acm.org/doi/abs/10.1145/774789.774820
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract over microprocessor-based systems in terms of processing power, I/O capacity, reduced footprint and a reduction in number of ICs on the  For the purpose of this discussion, we follow the definition of a formal method as given by the NASA Langley Formal Methods Group (NASA
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title System and methods for reasonable functional verification of an integrated circuit design
+     Author ['MS Sarwary', 'M Mneimneh']
+     Venue US Patent 8,806,401
+     Year 2014
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  Still, today's large system-on-chip (SoC) integrated circuits (ICs) are only partially verified prior to tapeout, ie, signing-off for
+     Url https://patents.google.com/patent/US8806401B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Interval temporal logic
+     Author ['A Cau', 'B Moszkowski', 'H Zedan']
+     Venue URL: http://www. cms. dmu. ac …
+     Year 2006
+     Abstract In addition, Tempura has been applied to hardware simulation and other areas where timing is important. 1 Page 2. Contents 1 Finite Interval Temporal Logic 3 1.1 Syntax . . . . . 3 1.2 Semantics
+     Url http://antonio-cau.co.uk/ITL/itlhomepage.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Where formal verification can help in functional safety analysis
+     Author ['A Bernardini', 'W Ecker', 'U Schlichtmann']
+     Venue Proceedings of the 35th …
+     Year 2016
+     Abstract CCS Concepts •Hardware → Simulation and emulation; Transient errors and upsets; •Software and its engineering → Model checking;  Here, formal methods come into the picture, since formal methods can consider a wide number of stimuli as well as a wide number of faults in
+     Url https://dl.acm.org/doi/abs/10.1145/2966986.2980087
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title The A to Z of SoCs
+     Author ['RA Bergamaschi', 'J Cohn']
+     Venue Proceedings of the 2002 IEEE/ACM …
+     Year 2002
+     Abstract Formal methods are used in both cases [22], [23  on, as the hardware description becomes available, a co-simulation environment can be used, where the hardware is simulated in a hardware simulation environment, and  micron digital ICs¸" IEEE Design & Test of Computers¸
+     Url https://dl.acm.org/doi/abs/10.1145/774572.774689
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title System and method for automated functional coverage generation and management for IC design protocols
+     Author ['S Ikram', 'I Akkawi', 'J Perveiler', 'D Asher', 'J Ellis']
+     Venue US Patent 9,355,206
+     Year 2016
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property  EEPROMs, DRAMs, VRAMs, flash memory devices, magnetic or optical cards, nanosystems (including molecular memory ICs), or any
+     Url https://patents.google.com/patent/US9355206B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title PRO3D, Programming for Future 3D Manycore Architectures: Project's Interim Status
+     Author ['C Fabre', 'I Bacivarov', 'A Basu', 'M Ruggiero']
+     Venue … on Formal Methods for …
+     Year 2011
+     Abstract the aggravated thermal issues arising from vertical stacking in 3D-multiprocessor ICs [8]. With this packaging solution, inter-tier thermal resistances are reduced considerably, enabling the 3D ICs to operate  software synthesis execution on hardware simulation on virtual platform
+     Url https://link.springer.com/chapter/10.1007/978-3-642-35887-6_15
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Real-time systems education in computer science at Manchester University
+     Author ['RN Zobel']
+     Venue Microprocessing and Microprogramming
+     Year 1988
+     Abstract The principles of design, operation and performance of typical linear and logic ICs are well presented, and amply  that is not of interest for real- time systems, and this includes such topics as formal methods, AI and  5] Zobel RN, FIR Filter Software and Hardware Simulation, Proc
+     Url https://www.sciencedirect.com/science/article/pii/0165607488901585
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract CDC Clock Domain Crossing CFA Control Flow Automata CFG Control Flow Graph CNF Conjunction Normal Form CPS Cyber-physical System COI Cone-of-Influence COVE Continuum of Verification Engines CTL Computation Tree Logic DAG Directed Acyclic Graph
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Verification of scheduling in the presence of loops using uninterpreted symbolic simulation
+     Author ['P Ashar', 'A Raghunathan', 'S Bhattacharya']
+     Venue US Patent 7,383,166
+     Year 2008
+     Abstract Design Automation Conf, June 1998 and J. Kukula, T. Shiple, and A. Aziz, “Implicit state enumeration for FSMs with datapaths,” in Proc. Formal Methods in Computer Aided Design, November 1998  Formal Methods in Computer Aided Design, pp
+     Url https://patents.google.com/patent/US7383166B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Using runtime information from solvers to measure quality of formal verification
+     Author ['H Jain', 'PM Bjesse', 'P Mahajan']
+     Venue US Patent 10,657,307
+     Year 2020
+     Abstract refers to a hardware-based system that facilitates the design and manufacture of ICs. FIG  US7865339B2 (en) *, 2004-07-12, 2011-01-04, Sri International, Formal methods for test case  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution
+     Url https://patents.google.com/patent/US10657307B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Runtime-monitoring for industrial control systems
+     Author ['H Janicke', 'A Nicholson', 'S Webber', 'A Cau']
+     Venue Electronics
+     Year 2015
+     Abstract paper expands on an earlier position paper presented at the International Symposium for Industrial Control System and SCADA  As ICS are today relying on general purpose operating systems, such as Windows, and common  Figure 2. Typical SCADA System Architecture [37]
+     Url https://www.mdpi.com/2079-9292/4/4/995
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Apparatus and method thereof for hybrid timing exception verification of an integrated circuit design
+     Author ['MS Sarwary']
+     Venue US Patent 8,560,988
+     Year 2013
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract  The design of integrated circuits (ICs) is increasing in complexity on a regular basis
+     Url https://patents.google.com/patent/US8560988B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Concurrent formal verification of logic synthesis
+     Author ['LR McIlwain', 'MS Quayle', 'E Odiz']
+     Venue US Patent …
+     Year 2020
+     Abstract Design verification, eg functional simulation or model checking using formal methods, eg equivalence  that can perform computations required for the design and manufacture of ICs. FIG  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution
+     Url https://patents.google.com/patent/US10643012B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Implementation of Process Simulation for Marine Automation System
+     Author ['M Mononen']
+     Venue NA
+     Year 2020
+     Abstract The aim of this thesis is to develop a software-in-the-loop testing environment for testing typical functions of the Vessel Management System (VMS) by coupling the WinMOD process simulator to the ABB System 800xA distributed control system (DCS) through an OPC DA server
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Method and apparatus for processing assertions in assertion-based verification of a logic design
+     Author ['A Lim', 'P Tseng', 'Y Goel']
+     Venue US Patent 8,161,439
+     Year 2012
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  Logic simulation is the process of simulating a logic design before the logic design manufactured as integrated circuits (ICs)
+     Url https://patents.google.com/patent/US8161439B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Architecture-Centric Modeling, Analysis, and Verification of Cyber-Physical Systems
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue NA
+     Year 2016
+     Abstract The term cyber-physical system (CPS) was introduced by Helen Gill at the NSF referring to the  achieve higher quality of the OS for next series of cars by applying formal methods  The cornerstone of SimSoC is a library of hardware simulation modules, that include Instruction Set
+     Url https://shonan.nii.ac.jp/docs/5296fabd2d5262bb0fd4870004bc2ac0e46b3015.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Virtual prototyping of embedded systems: Speed and accuracy tradeoffs
+     Author ['V Joloboff', 'A Gerstlauer']
+     Venue Cyber-Physical System Design from an …
+     Year 2017
+     Abstract Cyber-Physical System Design from an Architecture Analysis Viewpoint pp 1-31 | Cite as  simulations can be used to generate symbolic information usable by formal methods tools  A hardware simulation engine is then a key component of the virtual prototyping platform, which
+     Url https://link.springer.com/chapter/10.1007/978-981-10-4436-6_1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Verification of scheduling in the presence of loops using uninterpreted symbolic simulation
+     Author ['P Ashar', 'A Raghunathan', 'S Bhattacharya']
+     Venue US Patent …
+     Year 2004
+     Abstract Design Automation Conf, June 1998 and J. Kukula, T. Shiple, and A. Aziz, “Implicit state enumeration for FSMs with datapaths,” in Proc. Formal Methods in Computer Aided Design, November. 1998  Formal Methods in Computer Aided Design, pp. 187-20, Nov
+     Url https://patents.google.com/patent/US6745160B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Distributed systems, hardware-in-the-loop simulation, and applications in control systems
+     Author ['P Handrigan']
+     Venue NA
+     Year 2004
+     Abstract cluster of DCS (Distributed Control System) over different platforms to communicate with other control systems over a network  5 Page 19. over a heterogenous platform of DCS and process control simulators over a  This method is often called hardware-to-hardware simulation
+     Url https://research.library.mun.ca/10611/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware and application profiling tools
+     Author ['T Janjusic', 'K Kavi']
+     Venue Advances in Computers
+     Year 2014
+     Abstract Numerous references are provided to help jump-start the interested reader into the area of hardware simulation and application profiling  Hardware simulation tools are described into categories that elaborate on their scope
+     Url https://www.sciencedirect.com/science/article/pii/B9780124202320000039
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title A complete formal semantics of x86-64 user-level instruction set architecture
+     Author ['S Dasgupta', 'D Park', 'T Kasampalis', 'VS Adve']
+     Venue Proceedings of the 40th …
+     Year 2019
+     Abstract CCS Concepts · Theory of computation → Program reasoning; · Hardware → Simulation and emulation; · Software and its engineering → Formal language  37] automatically synthesized formal semantics of 1905 instruction variants (representing 466 unique mnemon- ics) of the
+     Url https://dl.acm.org/doi/abs/10.1145/3314221.3314601
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Applying a visual specification language to hardware protocol verification
+     Author ['A Bunker']
+     Venue NA
+     Year 2004
+     Abstract Integration with existing design practice: The transfer of formal methods technologies to industrial practice depends on their ability to fit into  In one project, class libraries support hardware simulation by implementing hardware design components such as ports and signals [46]
+     Url http://search.proquest.com/openview/0b731903aa224da8139e5a690fdd8b60/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Method for automatically searching for functional defects in a description of a circuit
+     Author ['CR Ho', 'RK Mardjuki', 'DL Dill', 'JC Lin', 'PF Yeung']
+     Venue US Patent …
+     Year 2009
+     Abstract US7478028B2 - Method for automatically searching for functional defects in a description of a circuit - Google Patents. Method for automatically searching for functional defects in a description of a circuit. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US7478028B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title On the value and limits of multi-level energy consumption static analysis for deeply embedded single and multi-threaded programs
+     Author ['K Georgiou', 'S Kerrison', 'K Eder']
+     Venue arXiv preprint arXiv:1510.07095
+     Year 2015
+     Abstract 2.1 Energy modeling of embedded processors Energy modeling can be performed at various levels of abstraction, from gate- or transistor-level in detailed hardware simulation [8], up to high-level modeling of whole applications
+     Url https://arxiv.org/abs/1510.07095
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title FASED: FPGA-accelerated simulation and evaluation of DRAM
+     Author ['D Biancolin', 'S Karandikar', 'D Kim', 'J Koenig']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract on cloud-hosted FPGAs. CCS CONCEPTS • Hardware → Simulation and emulation; Dynamic memory; Reconfigurable logic applications. KEYWORDS emulation; FPGA prototyping; memory systems ACM Reference Format
+     Url https://dl.acm.org/doi/abs/10.1145/3289602.3293894
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on  building upon the expertise of its members on algorithm design and formal methods  This research is done in collaboration with STMicroelectron- ics, and is centered on the
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title HW/SW Partitioning and Code Generation of Embedded Control Applications on a Reconfigurable Architecture
+     Author ['A Sangiovanni-Vincentelli']
+     Venue NA
+     Year 2002
+     Abstract However, with increasing system requirements, ernbedded control applications, such as automotive control, avion- ics, robotics and industrial  mnemonic narne of the FPGA instruction: opcode is the instruction code used in hardware simulation, which is  Formal Methods, 1999
+     Url https://www.csie.ntu.edu.tw/~r93088/codesign/hw_SW_partitioning_code_generation_RC_platform.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title System and method for metastability verification of circuits of an integrated circuit
+     Author ['M Mneimneh', 'S Sarwary', 'PM Jain', 'A Bansal']
+     Venue US Patent …
+     Year 2013
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  This approach is of particular relevance for large designs of ICs since the exemplary method presented herein has reasonable
+     Url https://patents.google.com/patent/US8448111B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Impact of Hardware/Software Partitioning and MicroBlaze FPGA Configurations on the Embedded Systems Performances
+     Author ['I Mhadhbi', 'N Litayem', 'SB Othman']
+     Venue Complex System Modelling …
+     Year 2015
+     Abstract This work can contribute to enforce the security of SCADA (Supervision Control and Data Acquisition) systems and the DSS (Digital Signal Standard) without compromising the cost and the performance of the final  Discrete Event modeling is often used for hardware simulation
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12883-2_25
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Laboratory options for the computer science major
+     Author ['C Vickery', 'T Blain']
+     Venue Proceedings of the 2003 workshop on Computer …
+     Year 2003
+     Abstract in the broad areas of i)software design and implementation, ii) formal methods, iii) hardware  Simulation is a critical step in developing new hardware designs, but in an instructional  is extremely broad, ranging from in- expensive breadboards with SSI and MSI ICs connected by
+     Url https://dl.acm.org/doi/abs/10.1145/1275521.1275535
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Framework for Design Validation of Security Architectures
+     Author ['JS Dwoskin', 'M Gomathisankaran']
+     Venue … University Department of …
+     Year 2008
+     Abstract Page 1. Framework for Design Validation of Security Architectures Jeffrey Dwoskin Mahadevan Gomathisankaran Ruby Lee Abstract New security architectures are difficult to prototype and test. They require interactions between
+     Url https://www.researchgate.net/profile/Ruby_Lee/publication/265364691_Framework_for_Design_Validation_of_Security_Architectures/links/54c09d2a0cf28a6324a32d40/Framework-for-Design-Validation-of-Security-Architectures.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Automatic Assertion Generation from Natural Language Specifications Using Subtree Analysis
+     Author ['J Zhao', 'IG Harris']
+     Venue 2019 Design, Automation & Test in Europe …
+     Year 2019
+     Abstract Ian G. Harris Department of Computer Science University of California Irvine Irvine, CA, USA harris@ics.uci.edu  An assertion is a program invariant which is evaluated during hardware simulation to perform automatic result checking  Formal Methods in System Design, 4(3), 1994
+     Url https://ieeexplore.ieee.org/abstract/document/8714857/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA DISSERTATION Approved for public release; distribution is unlimited A SYSTEMATIC SOFTWARE, FIRMWARE, AND HARDWARE CODESIGN METHODOLOGY FOR DIGITAL SIGNAL PROCESSING by
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Problems of instrumental support for the development of distributed embedded real-time systems
+     Author ['AG Bakhmurov', 'RL Smelyansky']
+     Venue Programming and Computer Software
+     Year 2013
+     Abstract of an important and widespread class of Auto mated CSs for technological processes (SCADA sys tems [3  The SCADE envi ronment has no tools for hardware simulation  in the Laboratory of Computing Systems of the Faculty of Computational Mathemat ics and Cybernetics of
+     Url https://link.springer.com/article/10.1134/S0361768813050022
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title High-level specifications: Lessons from industry
+     Author ['B Batson', 'L Lamport']
+     Venue International Symposium on Formal Methods for …
+     Year 2002
+     Abstract First-order logic and set theory provide a formalization of ordinary mathemat- ics  as the basis of a project to improve test coverage for hardware simulation [25]  Although formal methods are based on mathematics, engineers view them differently from the way mathematicians do
+     Url https://link.springer.com/chapter/10.1007/978-3-540-39656-7_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Power mode-based operational capability-aware code coverage
+     Author ['PK Dwivedi', 'S Gulati']
+     Venue US Patent 10,614,193
+     Year 2020
+     Abstract functional simulation or model checking; G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. G—PHYSICS; G06—COMPUTING
+     Url https://patents.google.com/patent/US10614193B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Predictability for timing and temperature in multiprocessor system-on-chip platforms
+     Author ['L Thiele', 'L Schor', 'I Bacivarov', 'H Yang']
+     Venue ACM Transactions on Embedded …
+     Year 2013
+     Abstract benchmark mapping candidate mapping (b, σ) model generation model evaluation thermal / timing metrics software synthesis execution on hardware simulation on virtual Platform T Fig. 2. Design flow for mapping optimization. time and thermal optimal manner
+     Url https://dl.acm.org/doi/abs/10.1145/2435227.2435244
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Method and system for false path analysis
+     Author ['B Siarkowski']
+     Venue US Patent 7,958,470
+     Year 2011
+     Abstract Accurate gate level timing data in conjunction with the architectural design data and formal methods can be used to identify false paths  In a typical synthesis flow there are several sources of DCs, for example logic that is assigned an “x” or an RTL case statement with a full case
+     Url https://patents.google.com/patent/US7958470B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract We would like to express our utmost gratitude to all those people who have taken the time to help us further our understanding and application of design assurance in the realm of safety critical system and electron- ics development
+     Url https://books.google.com/books?hl=fi&lr=&id=ZQMvDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=Dqra5IEiGI&sig=omN8yhwSraASUKUU6uysVEKmLgU
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title Test-cases for functional verification of system-level interconnect
+     Author ['R Emek']
+     Venue US Patent 7,395,196
+     Year 2008
+     Abstract G06F17/5009—Computer-aided design using simulation; G06F17/504—Formal methods. Abstract. Generation  pp. 245-256, 1991. *. Erik Jan Marinissen et al., "Challenges in Testing Core-Based System ICs" IEEE, 1999, pp. 104-109
+     Url https://patents.google.com/patent/US7395196B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Hardware+simulation"
+     Title System and method for metastability verification of circuits of an integrated circuit
+     Author ['M Mneimneh', 'S Sarwary', 'PM Jain', 'A Bansal']
+     Venue US Patent …
+     Year 2014
+     Abstract G06F17/5009—Computer-aided design using simulation; G06F17/504—Formal methods. Abstract  This approach is of particular relevance for large designs of ICs since the exemplary method presented herein has reasonable run time and memory requirements
+     Url https://patents.google.com/patent/US8856706B2/en
+

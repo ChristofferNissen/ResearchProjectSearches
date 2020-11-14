@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing ICs: Getting to the core of the problem
+     Author ['BT Murray', 'JP Hayes']
+     Venue Computer
+     Year 1996
+     Abstract The article examines the market and technology trends affecting the testing of integrated circuits, with emphasis on the role of predesigned components-cores-and built in self test. We explain manufacturing testing, as opposed to design testing, which happens before
+     Url https://ieeexplore.ieee.org/abstract/document/544235/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Adaptable wafer probe assembly for testing ICs with different power/ground bond pad configurations
+     Author ['GL Small']
+     Venue US Patent 5,491,426
+     Year 1996
+     Abstract An adaptable probe card assembly for testing an IC die includes a probe card and a decoupling apparatus selectably mounted on the probe card. A different decoupling apparatus is used for each IC die to be tested having a different power and ground bond pad
+     Url https://patents.google.com/patent/US5491426A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Test Generation for Current Testing (CMOS ICs)
+     Author ['P Nigh', 'W Maly']
+     Venue IEEE Design & Test of Computers
+     Year 1990
+     Abstract Current testing is useful for testing CMOS ICs because it can detect a large class of manufacturing defects, including defects that traditional stuck-at fault testing misses. The effectiveness of current testing can be enhanced if built-in current sensors are applied on
+     Url https://ieeexplore.ieee.org/abstract/document/46891/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title High performance electron optical column for testing ICs with submicrometer design rules
+     Author ['J Frosien', 'E Plies']
+     Venue Microelectronic Engineering
+     Year 1987
+     Abstract An electron optical column has been developed, which is designed to meet the special requirements of electron beam testing for VLSI-ICs. With a spatial resolution of 0.1 μm at an electron acceleration voltage of 1 kV and a corresponding probe current of more than 2 nA
+     Url https://www.sciencedirect.com/science/article/pii/S0167931787800084
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Very-low-voltage testing for weak CMOS logic ICs
+     Author ['H Hao', 'EJ McCluskey']
+     Venue Proceedings of IEEE International Test …
+     Year 1993
+     Abstract In this paper we propose a very-low-voltage (VLV) testing technique for CMOS logic ICs. Voltage dependence of CMOS logic circuit operation in the presence of resistive shorts and hot carrier damage is studied. It is shown that at certain much-lower-than-normal power
+     Url https://ieeexplore.ieee.org/abstract/document/470686/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing oriented analysis of CMOS ICs with opens
+     Author ['W Maly', 'PK Nag', 'P Nigh']
+     Venue 1988 IEEE International Conference on …
+     Year 1988
+     Abstract In a typical approach to VLSI testing, open faults are modeled by the transistor-stuck-open fault model or are not explicitly covered at all. It is shown that functional faults caused by opens, ie by regions with missing material, cannot be modeled well by a transistor stuck
+     Url https://www.computer.org/csdl/proceedings-article/iccad/1988/00122525/12OmNxXl5Az
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Highly resilient cantilever spring probe for testing ICs
+     Author ['P Mai']
+     Venue US Patent 6,956,389
+     Year 2005
+     Abstract A probe has a cantilever arm coupled to a base via an anchor. A surface of the arm facing the base or a surface of the base facing the arm has steps with contact points that contact the base when the arm is depressed. Alternatively, the surface of the arm and/or the surface of
+     Url https://patents.google.com/patent/US6956389B1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Electrical characteristics and testing considerations for gate oxide shorts in CMOS ICs
+     Author ['CF Hawkins', 'JM Soden']
+     Venue inte
+     Year 1985
+     Abstract This paper examines the electrical characteristics and testing considerations of gate oxide shorts. Gate oxide shorts will cause increased IDD and in the majority of cases will degrade logic voltage levels and propagation delay times, but may not affect functionality. Stuck-at
+     Url https://ui.adsabs.harvard.edu/abs/1985inte.conf.....H/abstract
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Expeditious and low cost testing of RFID ICs
+     Author ['BA Kramer']
+     Venue US Patent 7,279,920
+     Year 2007
+     Abstract System and method for integrated circuit manufacturing. A preferred embodiment comprises transmitting a first set of data to integrated circuits (ICs) while they are in an on-wafer state and having each IC store the first set of data into memory, transmitting a second
+     Url https://patents.google.com/patent/US7279920B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing TSV-based three-dimensional stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2010 Design, Automation & Test in Europe …
+     Year 2010
+     Abstract To meet customer's product-quality expectations, each individual IC needs to be tested for manufacturing defects incurred during its many high-precision, and hence defect-prone manufacturing steps; these tests should be both effective and cost-efficient. The
+     Url https://ieeexplore.ieee.org/abstract/document/5457087/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cost-effective integration of three-dimensional (3D) ICs emphasizing testing cost analysis
+     Author ['Y Chen', 'D Niu', 'Y Xie']
+     Venue 2010 IEEE/ACM …
+     Year 2010
+     Abstract Three-dimensional (3D) ICs promise to overcome barriers in interconnect scaling by leveraging fast, dense inter-die vias, thereby offering benefits of improved performance, higher memory bandwidth, smaller form factors, and heterogeneous integration. However
+     Url https://ieeexplore.ieee.org/abstract/document/5653753/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Backside laser testing of ICs for SET sensitivity evaluation
+     Author ['D Lewis', 'V Pouget', 'F Beaudoin', 'P Perdu']
+     Venue … on Nuclear Science
+     Year 2001
+     Abstract A new experimental approach combining backside laser testing and analog mapping is presented. A new technique for integrated circuits (ICs) backside preparation by laser ablation is evaluated. The methodology is applied to the study of single-event transient
+     Url https://ieeexplore.ieee.org/abstract/document/983195/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Using memory propagation tree to improve performance of protocol fuzzer when testing ICS
+     Author ['K Chen', 'C Song', 'L Wang', 'Z Xu']
+     Venue Computers & Security
+     Year 2019
+     Abstract Protocol fuzzers are widely used for finding vulnerabilities and security bugs in the program. The main techniques used by protocol fuzzers can be divided into 2 categories: generation-based and mutation-based fuzzing. The generation-based fuzzing generates data
+     Url https://www.sciencedirect.com/science/article/pii/S0167404819301385
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A survey on testing for cyber physical system
+     Author ['SA Asadollah', 'R Inam', 'H Hansson']
+     Venue … International Conference on Testing …
+     Year 2015
+     Abstract Cyber Physical Systems (CPS) bridge the cyber-world of computing and communications with the physical world and require development of secure and reliable software. It asserts a big challenge not only on testing and verifying the correctness of all
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25945-1_12
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Expeditious and low cost testing of RFID ICs
+     Author ['BA Kramer']
+     Venue US Patent 7,279,920
+     Year 2007
+     Abstract System and method for integrated circuit manufacturing. A preferred embodiment comprises transmitting a first set of data to integrated circuits (ICs) while they are in an on-wafer state and having each IC store the first set of data into memory, transmitting a second
+     Url https://patents.google.com/patent/US7279920B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Local laser irradiation technique for SEE testing of ICs
+     Author ['AI Chumakov', 'AA Pechenkin']
+     Venue 2011 12th European …
+     Year 2011
+     Abstract I. INTRODUCTION he application of VLSI devices in space electronics requires the investigation  of their sensitivity to single event effects (SEE), especially single event upset (SEU) and single  event latchup (SEL) [1-3]. The most adequate technique of SEE sensitivity parameters estimation
+     Url https://ieeexplore.ieee.org/abstract/document/6131420/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Optimization methods for post-bond die-internal/external testing in 3D stacked ICs
+     Author ['B Noia', 'K Chakrabarty']
+     Venue 2010 IEEE International …
+     Year 2010
+     Abstract Testing of three-dimensional (3D) stacked ICs (SICs) is starting to receive considerable attention in the semiconductor industry. Since the die-stacking steps of thinning, alignment, and bonding can introduce defects, there is a need to test multiple subsequent partial stacks
+     Url https://ieeexplore.ieee.org/abstract/document/5699219/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Highly resilient cantilever spring probe for testing ICs
+     Author ['P Mai']
+     Venue US Patent 6,956,389
+     Year 2005
+     Abstract A probe has a cantilever arm coupled to a base via an anchor. A surface of the arm facing the base or a surface of the base facing the arm has steps with contact points that contact the base when the arm is depressed. Alternatively, the surface of the arm and/or the surface of
+     Url https://patents.google.com/patent/US6956389B1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges in testing core-based system ICs
+     Author ['EJ Marinissen', 'Y Zorian']
+     Venue IEEE Communications Magazine
+     Year 1999
+     Abstract Advances in semiconductor design and manufacturing technology enable the design of complete systems on one IC. To develop these system ICs in a timely manner, traditional IC design in which everything is designed from scratch, is replaced by a design style based on
+     Url https://ieeexplore.ieee.org/abstract/document/769283/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Monitor based oracles for cyber-physical system testing: Practical experience report
+     Author ['A Kane', 'T Fuhrman', 'P Koopman']
+     Venue 2014 44th Annual IEEE/IFIP …
+     Year 2014
+     Abstract Testing Cyber-Physical Systems is becoming increasingly challenging as they incorporate advanced autonomy features. We investigate using an external runtime monitor as a partial test oracle to detect violations of critical system behavioral requirements on an automotive
+     Url https://ieeexplore.ieee.org/abstract/document/6903575/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Learning-guided network fuzzing for testing cyber-physical system defences
+     Author ['Y Chen', 'CM Poskitt', 'J Sun', 'S Adepu']
+     Venue 2019 34th IEEE/ACM …
+     Year 2019
+     Abstract The threat of attack faced by cyber-physical systems (CPSs), especially when they play a critical role in automating public infrastructure, has motivated research into a wide variety of attack defence mechanisms. Assessing their effectiveness is challenging, however, as
+     Url https://ieeexplore.ieee.org/abstract/document/8952193/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Defect detection with transient current testing and its potential for deep sub-micron CMOS ICs
+     Author ['M Sachdev', 'P Janssen', 'V Zieren']
+     Venue … Test Conference 1998 (IEEE …
+     Year 1998
+     Abstract Transient current testing (I/sub DDT/) has been often cited as an alternative and/or supplement to I/sub DDQ/testing. In this article we investigate the potential of transient current testing in faulty, chip detection with silicon devices. The effectiveness of the I/sub
+     Url https://ieeexplore.ieee.org/abstract/document/743153/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Electrical characteristics and testing considerations for gate oxide shorts in CMOS ICs
+     Author ['CF Hawkins', 'JM Soden']
+     Venue inte
+     Year 1985
+     Abstract This paper examines the electrical characteristics and testing considerations of gate oxide shorts. Gate oxide shorts will cause increased IDD and in the majority of cases will degrade logic voltage levels and propagation delay times, but may not affect functionality. Stuck-at
+     Url https://ui.adsabs.harvard.edu/abs/1985inte.conf.....H/abstract
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Search-Based test case prioritization for simulation-Based testing of cyber-Physical system product lines
+     Author ['A Arrieta', 'S Wang', 'G Sagardui', 'L Etxeberria']
+     Venue Journal of Systems and …
+     Year 2019
+     Abstract Cyber-Physical Systems (CPSs) integrate computation with physical processes. These systems are usually highly configurable to address different customer needs and are evolving to be CPS product lines. The variability of CPS product lines is large, which implies
+     Url https://www.sciencedirect.com/science/article/pii/S0164121218302085
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Multicast-based testing and thermal-aware test scheduling for 3D ICs with a stacked network-on-chip
+     Author ['D Xiang', 'K Chakrabarty']
+     Venue IEEE Transactions on …
+     Year 2015
+     Abstract A 3D stacked network-on-chip (NOC) promises the integration of a large number of cores in a many-core system-on-chip (SOC). The NOC can be used to test the embedded cores in such SOCs, whereby the added cost of dedicated test-access hardware can be avoided
+     Url https://ieeexplore.ieee.org/abstract/document/7303920/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Silicon micropin-fin heat sink with integrated TSVs for 3-D ICs: Tradeoff analysis and experimental testing
+     Author ['Y Zhang', 'A Dembla', 'MS Bakir']
+     Venue IEEE Transactions on …
+     Year 2013
+     Abstract Microfluidic cooling is proposed as a solution to reject heat from a 3-D IC stack of high power chips. However, the integration of interlayer microfluidic cooling in 3-D ICs inevitably increases wafer thickness and thus presents possible challenges for through-silicon via
+     Url https://ieeexplore.ieee.org/abstract/document/6553204/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Automated unit testing of a SCADA control software: an industrial case study based on action research
+     Author ['SA Jolly', 'V Garousi']
+     Venue … on Software Testing …
+     Year 2012
+     Abstract We report in this case-study paper our experience and success story with a practical approach and tool for unit regression testing of a SCADA (Supervisory Control and Data Acquisition) software. The tool uses a black-box specification of the units under test to
+     Url https://ieeexplore.ieee.org/abstract/document/6200132/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Micro-granular delay testing of configurable ICs
+     Author ['B Fox']
+     Venue US Patent 8,072,234
+     Year 2011
+     Abstract A method for testing a set of circuitry in an integrated circuit (IC) is described. The IC includes multiple configurable circuits for configurably performing multiple operations. The method configures the IC to operate in a user mode with a set of test paths that satisfies a set
+     Url https://patents.google.com/patent/US8072234B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Polar: Function code aware fuzz testing of ics protocol
+     Author ['Z Luo', 'F Zuo', 'Y Jiang', 'J Gao', 'X Jiao', 'J Sun']
+     Venue ACM Transactions on …
+     Year 2019
+     Abstract Industrial Control System (ICS) protocols are widely used to build communications among system components. Compared with common internet protocols, ICS protocols have more control over remote devices by carrying a specific field called “function code”, which assigns
+     Url https://dl.acm.org/doi/abs/10.1145/3358227
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges in testing TSV-based 3D stacked ICs: Test flows, test contents, and test access
+     Author ['EJ Marinissen']
+     Venue 2010 IEEE Asia Pacific Conference on Circuits …
+     Year 2010
+     Abstract Three-dimensional stacked ICs (3D-SICs) based on Through-Silicon Vias (TSVs) have many attractive benefits and hence are quickly gaining ground. Testing such products for manufacturing defects is still fraught with many challenges. This paper provides an overview
+     Url https://ieeexplore.ieee.org/abstract/document/5775087/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Development of a novel SCADA system for laboratory testing
+     Author ['M Patel', 'GR Cole', 'TL Pryor', 'NA Wilmot']
+     Venue ISA transactions
+     Year 2004
+     Abstract This document summarizes the supervisory control and data acquisition (SCADA) system that allows communication with, and controlling the output of, various I/O devices in the renewable energy systems and components test facility RESLab. This SCADA system differs
+     Url https://www.sciencedirect.com/science/article/pii/S0019057807601621
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Function testing of bipolar ICs and LSIs with the stroboscopic scanning electron microscope
+     Author ['H Fujioka', 'K Nakamae', 'K Ura']
+     Venue IEEE Journal of Solid-State …
+     Year 1980
+     Abstract The functional testing of individual circuits is essential for device manufacturers when integrated circuits have not satisfied design specifications. What is required for the functional testing of modern high-density and fast IC and large scale integration (LSI) circuits is a
+     Url https://ieeexplore.ieee.org/abstract/document/1051360/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Strategies for lot acceptance testing using CMOS transistors and ICs
+     Author ['JR Schwank', 'FW Sexton', 'DM Fleetwood']
+     Venue … on Nuclear Science
+     Year 1989
+     Abstract Direct-correlation and simple overstress methods for estimating IC response in strategic and space environments from laboratory transistor and IC data are investigated. Transistors and ICs were irradiated at dose rates from 0.2 rad (SiO/sub 2/)/s to 10/sup 6/rad (SiO/sub 2/)/s
+     Url https://ieeexplore.ieee.org/abstract/document/45394/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title I/sub DDQ/testing for deep-submicron ICs: challenges and solutions
+     Author ['Z Chen', 'L Wei', 'A Keshavarzi']
+     Venue IEEE design & test of …
+     Year 2002
+     Abstract THE GROWING USE of portable and wireless electronic systems has made low-power design  critically important. Power dissipation in CMOS circuits has both static and dynamic compo-  nents. Because static power is approximately proportional to the supply voltage (Vdd) and dynamic
+     Url https://ieeexplore.ieee.org/abstract/document/990439/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title CMOS temperature sensors and built-in test circuitry for thermal testing of ICs
+     Author ['V Székely', 'M Rencz', 'S Török', 'C Márta']
+     Venue Sensors and Actuators A …
+     Year 1998
+     Abstract The paper presents new, CMOS compatible temperature sensors designed for the built-in thermal testing of VLSI circuits. The sensors have been tested by five realizations. Statistical analysis of the measured sensor parameters and the experimental and theoretical
+     Url https://www.sciencedirect.com/science/article/pii/S0924424798001654
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title On-chip spectrum analyzer for built-in testing analog ICs
+     Author ['M Mendez-Rivera', 'J Silva-Martínez']
+     Venue … on Circuits and …
+     Year 2002
+     Abstract An on-chip spectrum analyzer using switched-capacitor techniques is described. This system is used for built-in testing analog circuits. The main property of the proposed architecture is its inherent synchronization, which facilitates the testing task saving time
+     Url https://ieeexplore.ieee.org/abstract/document/1010640/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Enhancement of resolution in supply current based testing for large ICs.
+     Author ['YK Malaiya', 'AP Jayasumana', 'Q Tong', 'SM Menon']
+     Venue VTS
+     Year 1991
+     Abstract Current drawn by a static CMOS VSI integrated circuit during quiescent periods is extremely small and is normally of the order of nanoamperes. However, it is remarÈably susceptible to a number of failure modes. Many faults present in such ICs cause the quiescent power
+     Url https://www.academia.edu/download/42711286/idd.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cost effective outliers screening with moving limits and correlation testing for analogue ICs
+     Author ['L Fang', 'M Lemnawar', 'Y Xing']
+     Venue 2006 IEEE International Test …
+     Year 2006
+     Abstract In order to meet the zero-defect product quality requirements on ICs by the automotive industry, new test methods are needed to screen out the outliers that give potential lifetime failures. In this paper, how to apply the combination of moving limits and multiple-parameter
+     Url https://ieeexplore.ieee.org/abstract/document/4079369/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges in testing TSV-based 3D stacked ICs: Test flows, test contents, and test access
+     Author ['EJ Marinissen']
+     Venue 2010 IEEE Asia Pacific Conference on Circuits …
+     Year 2010
+     Abstract Three-dimensional stacked ICs (3D-SICs) based on Through-Silicon Vias (TSVs) have many attractive benefits and hence are quickly gaining ground. Testing such products for manufacturing defects is still fraught with many challenges. This paper provides an overview
+     Url https://ieeexplore.ieee.org/abstract/document/5775087/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Adaptable load board assembly for testing ICs with different power/ground bond pad and/or pin configurations
+     Author ['GL Small']
+     Venue US Patent 5,563,509
+     Year 1996
+     Abstract An adapter unit configurable for testing ICs having different power and ground contact configurations is customized for one of such configuration and mounted on a load board having first and second plurality of signal contacts, wherein respective pairs of the first and
+     Url https://patents.google.com/patent/US5563509A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Process of performing burn-in and parallel functional testing of integrated circuit memories in an environmental chamber
+     Author ['AG Varadi', 'WH Maghribi']
+     Venue US Patent 4,379,259
+     Year 1983
+     Abstract A summary of conventional techniques for testing ICs, both digital and linear, is set forth in an article written by Alan B. Grebene and Hans H. Stellrecht beginning at page 8-83 of the book entitled ELECTRONIC ENGINEER'S HANDBOOK, Copyright 1975, by McGraw-Hill, Inc
+     Url https://patents.google.com/patent/US4379259A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Supply current testing in linear bipolar ICs
+     Author ['DK Papakostas', 'AA Hatzopoulos']
+     Venue Electronics letters
+     Year 1994
+     Abstract Fault detection in linear bipolar integrated circuits using power supply current measurements is investigated. The most prevalent, catastrophic and parametric faults, have been modelled for a representative (741 type) opamp. The circuit is simulated under both
+     Url https://ieeexplore.ieee.org/abstract/document/265304/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Online testing approach for very deep-submicron ICs
+     Author ['M Favalli', 'C Metra']
+     Venue IEEE Design & Test of Computers
+     Year 2002
+     Abstract Very deep-submicron technologies pose new challenges to IC testing. In particular, crosstalk and transient faults are difficult to detect with traditional methods. Online testing techniques can detect these faults, however, and a new approach extends these techniques to include
+     Url https://ieeexplore.ieee.org/abstract/document/990438/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A survey on testing for cyber physical system
+     Author ['SA Asadollah', 'R Inam', 'H Hansson']
+     Venue … International Conference on Testing …
+     Year 2015
+     Abstract Cyber Physical Systems (CPS) bridge the cyber-world of computing and communications with the physical world and require development of secure and reliable software. It asserts a big challenge not only on testing and verifying the correctness of all
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25945-1_12
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Low-power clock tree design for pre-bond testing of 3-D stacked ICs
+     Author ['X Zhao', 'DL Lewis', 'HHS Lee']
+     Venue IEEE Transactions on …
+     Year 2011
+     Abstract Pre-bond testing of 3-D stacked integrated circuits (ICs) involves testing each individual die before bonding. The overall yield of 3-D ICs improves with pre-bond testability because manufacturers can avoid stacking defective dies with good ones. However, pre-bond
+     Url https://ieeexplore.ieee.org/abstract/document/5752408/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title IC tester simultaneously testing plural ICS
+     Author ['T Onishi', 'M Yatsuda', 'K Suzuki']
+     Venue US Patent 6,198,273
+     Year 2001
+     Abstract In an integrated-circuit tester which is provided with a contact failure analysis/storage part for counting and storing the number of failures occurring at each contact, an automatic stop part for deciding contact as defective based on the numbers of failures stored in the storage part
+     Url https://patents.google.com/patent/US6198273B1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A novel built-in current sensor for I/sub DDQ/testing of deep submicron CMOS ICs
+     Author ['SP Athan', 'DL Landis', 'SA Al-Arian']
+     Venue Proceedings of 14th VLSI …
+     Year 1996
+     Abstract Today's built-in current sensor (BICS) techniques provide I/sub DDQ/current sensitivity which is adequate for testing and diagnosing near-micron CMOS ICs. However, faulty and fault-free I/sub DDQ/can become indiscernible at deep submicron levels. This paper describes a
+     Url https://ieeexplore.ieee.org/abstract/document/510845/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Fault localization and functional testing of ICs by lock-in thermography
+     Author ['O Breitenstein', 'JP Rakotoniaina']
+     Venue … FOR TESTING …
+     Year 2002
+     Abstract In this paper new thermographic techniques with significant improved temperature and/or spatial resolution are presented and compared with existing techniques. In infrared (IR) lock-in thermography heat sources in an electronic device are periodically activated electrically
+     Url https://www-old.mpi-halle.mpg.de/mpi/publi/pdf/1962_02.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Penetration testing of industrial control systems
+     Author ['D Duggan', 'M Berg', 'J Dillinger']
+     Venue Sandia national …
+     Year 2005
+     Abstract Performing network penetration testing on Industrial Control Systems (ICS) should not be  These types of systems include systems also known as Supervisory Control and Data Acquisition (SCADA) systems, Electric Management Systems (EMS), Distribution Control
+     Url http://energy.sandia.gov/wp-content/gallery/uploads/sand_2005_2846p.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Identifying vulnerabilities in SCADA systems via fuzz-testing
+     Author ['R Shapiro', 'S Bratus', 'E Rogers', 'S Smith']
+     Venue International Conference on …
+     Year 2011
+     Abstract Security vulnerabilities typically arise from bugs in input validation and in the application logic. Fuzz-testing is a popular security evaluation technique in which hostile inputs are crafted and passed to the target software in order to reveal bugs. However, in the case of
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24864-1_5
+

@@ -1,0 +1,91 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Medical"
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Parallel-beam backprojection: an FPGA implementation optimized for medical imaging
+     Author ['S Coric', 'M Leeser', 'E Miller', 'M Trepanier']
+     Venue … of the 2002 ACM/SIGDA tenth …
+     Year 2002
+     Abstract Medical image processing in general and computerized tomography (CT) in particular can benefit greatly from hardware acceleration. This application domain is marked by computationally intensive algorithms requiring the rapid processing of large amounts of
+     Url https://dl.acm.org/doi/abs/10.1145/503048.503080
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Medical dressing
+     Author ['D Smith', 'F Mosa']
+     Venue US Patent App. 29/336,566
+     Year 2010
+     Abstract USD679023S1 (en), 2004-07-19, 2013-03-26, Thermotek, Inc. Foot wrap. USD679820S1 (en) *, 2010-10-15, 2013-04-09, Smith & Nephew Plc, Medical dressing. USD679819S1 (en) *, 2010-10-15, 2013-04-09, Smith & Nephew Plc, Medical dressing. USD686734S1 (en)
+     Url https://patents.google.com/patent/USD625018S1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Multichannel FPGA-based arbitrary waveform generator for medical ultrasound
+     Author ['S Ricci', 'L Bassi', 'E Boni', 'A Dallai', 'P Tortoli']
+     Venue Electronics Letters
+     Year 2007
+     Abstract A compact and cost-effective method for generating simultaneous arbitrary waveforms over several channels is presented. This method exploits the sigma-delta technique combined with the LVDS circuit capability of sustaining bitstreams up to 1 Gbit/s. A 32-channel
+     Url https://ieeexplore.ieee.org/abstract/document/4390977/
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title FPGA based real-time image segmentation for medical systems and data processing
+     Author ['P Dillinger', 'JF Vogelbruch', 'J Leinen']
+     Venue 14th IEEE-NPSS …
+     Year 2005
+     Abstract 3D image segmentation is one of the most demanding tasks in image processing. The applications comprise industrial and scientific tasks. Due to the high data volume advanced algorithms cannot be processed on standard hardware in real time. We propose the
+     Url https://ieeexplore.ieee.org/abstract/document/1547401/
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title FPGA implementation of 3D discrete wavelet transform for real-time medical imaging
+     Author ['RM Jiang', 'D Crookes']
+     Venue 2007 18th European Conference on …
+     Year 2007
+     Abstract 3D discrete wavelet transform (DWT) is a compute-intensive task that is usually implemented on specific architectures in many real-time medical imaging systems. In this paper, a novel area-efficient high-throughput 3D DWT architecture is proposed based on distributed
+     Url https://ieeexplore.ieee.org/abstract/document/4529647/
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Medical dressing
+     Author ['YL Peron']
+     Venue US Patent App. 29/389,782
+     Year 2013
+     Abstract FIG. 3 is a top plan view of the medical dressing of FIG. 1. FIG. 4 is a bottom view of the medical dressing of FIG. 1. FIG. 5 is a far side view of the medical dressing of FIG. 1. FIG. 6 is a near side view of the medical dressing of FIG. 1. FIG. 7 is a front view of the medical
+     Url https://patents.google.com/patent/USD679819S1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title FPGA-based computation of free-form deformations in medical image registration
+     Author ['J Jiang', 'W Luk', 'D Rueckert']
+     Venue Proceedings. 2003 IEEE …
+     Year 2003
+     Abstract This paper describes techniques for producing FPGA-based designs that support free-form deformation in medical image processing. The free-form deformation method is based on a B-spline algorithm for modelling three-dimensional deformable objects. Our design includes
+     Url https://ieeexplore.ieee.org/abstract/document/1275753/
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title An FPGA-based computing platform for real-time 3D medical imaging and its application to cone-beam CT reconstruction
+     Author ['J Li', 'C Papachristou', 'R Shekhar']
+     Venue Journal of Imaging Science …
+     Year 2005
+     Abstract Real-time three-dimensional (3D) medical imaging requires both high memory and high computational bandwidth due to the massive amount of data to be processed. Application-specific systems have been designed to speed up a few selected 3D imaging algorithms
+     Url https://www.ingentaconnect.com/content/ist/jist/2005/00000049/00000003/art00004
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks
+     Author ['A Sanaullah', 'C Yang', 'Y Alexeev', 'K Yoshii']
+     Venue BMC …
+     Year 2018
+     Abstract Background Real-time analysis of patient data during medical procedures can provide vital diagnostic feedback that significantly improves chances of success. With sensors becoming increasingly fast, frameworks such as Deep Neural Networks are required to perform
+     Url https://link.springer.com/article/10.1186/s12859-018-2505-7
+
+
+     Search term "PLC"+OR+"FPGA"+"Medical"
+     Title Design and test issues of an FPGA based data acquisition system for medical imaging using PEM
+     Author ['C Leong', 'P Bento', 'P Lousã', 'J Nobre']
+     Venue … on Nuclear Science
+     Year 2006
+     Abstract The main aspects of the design and test (D&T) of a reconfigurable architecture for the Data Acquisition Electronics (DAE) system of the Clear-PEM detector are presented in this paper. The application focuses medical imaging using a compact PEM (Positron Emission
+     Url https://ieeexplore.ieee.org/abstract/document/1644939/
+

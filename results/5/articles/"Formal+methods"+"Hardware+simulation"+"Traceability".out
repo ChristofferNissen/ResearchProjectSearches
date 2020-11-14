@@ -1,0 +1,244 @@
+Showing papers for search query "Formal+methods"+"Hardware+simulation"+"Traceability"
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Formal Methods Adoption: What's working, What's not!
+     Author ['D Craigen']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 1999
+     Abstract in which key passes of the compiler were rigorously specified and traceability from the  lack of a clear winning observable “product.” In some organizations, a harsh “formal methods winter” has  chips, sometimes at a speed that is faster than traditional hardware simulation tools
+     Url https://link.springer.com/chapter/10.1007/3-540-48234-2_6
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract Formal model (VHDL or any other design code). • Proofs, results, traceability. • Tools and assessment documentation. • Counter-examples, new tests and properties in subsequent iterations. • Formal methods results at the conclusion
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Collaborative Modeling and Simulation for Cyber-Physical Systems
+     Author ['PG Larsen', 'J Fitzgerald', 'J Woodcock']
+     Venue Trustworthy Cyber …
+     Year 2016
+     Abstract for Cyber-Physical Systems■ 185 Design space exploration test automation Requirements HiL/SiL MiL co-simulation SysML—FMI model generation Heterogeneous systems models Feedback Testing Code/ hardware simulation Strong traceability configuration management
+     Url https://books.google.com/books?hl=en&lr=&id=eScNDgAAQBAJ&oi=fnd&pg=PA177&dq=%22Formal+methods%22+%22Hardware+simulation%22+%22Traceability%22&ots=iGI54VIgTR&sig=E8FbycR03S89GUuWwUMbIdakR6c
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Development and verification of complex hybrid systems using synthesizable monitors
+     Author ['A Abel', 'A Adir', 'T Blochwitz', 'L Greenberg']
+     Venue Haifa Verification …
+     Year 2013
+     Abstract The traceability in- formation could then be used to produce coverage reports for the higher level subsystems, or to identify semantic  converts these CSL templates into PSL and then uses an existing synthesizer from PSL to C (originally used for hardware simulation monitors) to
+     Url https://link.springer.com/chapter/10.1007/978-3-319-03077-7_13
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Integrated Tool Chain for Model-Based Design of Cyber-Physical Systems
+     Author ['P Gorm-Larsen', 'C Thule', 'K Lausdahl']
+     Venue The 14th Overture …
+     Year 2016
+     Abstract 12: Excerpt of water tank valve controller and hardware simulation  In addition, it will provide traceability support, and test automation at the FMU level as well as model  This is an area where we hope that others in the formal methods community will take inspiration from this work
+     Url https://tidsskrift.dk/ece/article/download/24731/21669#page=69
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title An approach based on SysML and SystemC to simulate complex systems
+     Author ['A Abdulhameed', 'A Hammad']
+     Venue … on Model-Driven …
+     Year 2014
+     Abstract When creating a target item from a source element, ATL retains a traceability link between the two ele- ments, this link is used to initialize a target item in the  Pontisso, N. and Chemouil, D. (2006). Topcased combin- ing formal methods with model-driven engineering
+     Url https://ieeexplore.ieee.org/abstract/document/7018517/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title The Role of Software Simulators in the Independent Verification and Validation of Commercial Space Vehicles
+     Author ['M Rubin']
+     Venue AIAA Scitech 2019 Forum
+     Year 2019
+     Abstract This document provides guidance on using formal methods for the verification of models, including reviews and analyses  Simulink modules to provide useful tools for other aspects of the SDLC, including traceability to models  Pros: Numerous built-in hardware simulation models
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2019-1708
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Power is overrated, go for friendliness! expressiveness, faithfulness, and usability in modeling: the actor experience
+     Author ['M Sirjani']
+     Venue Principles of Modeling
+     Year 2018
+     Abstract question on so many occasions, especially asked by people in the formal methods community  Moreover, friendliness can give us a good traceability, from the model to the system  despite the high level of abstraction the results are consistent with hardware simulation results in
+     Url https://link.springer.com/chapter/10.1007/978-3-319-95246-8_25
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with  of dataflow pro- grams on FPGAs, building upon the expertise of its members on algorithm design and formal methods
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Shared Variable Analyser For Hardware Descriptions
+     Author ['J Sharp']
+     Venue NA
+     Year 2013
+     Abstract coverage is difficult. Current research in hardware verification aims to find methods that can discover these extremes and identify errors that reside within the design; one of these approaches employs formal methods. In this
+     Url http://search.proquest.com/openview/779aecb3e035273688c49dc9e9816ee4/1?pq-origsite=gscholar&cbl=51922&diss=y
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title 100% Coverage for Safety-Critical Software–Efficient Testing by Static Analysis
+     Author ['D Kästner', 'R Heckmann', 'C Ferdinand']
+     Venue International Conference on …
+     Year 2010
+     Abstract the absence of safety hazards has to be demonstrated by formal methods or testing  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution time  generates C code from a SCADE model, together with a traceability file that
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15651-9_15
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Model-driven toolset for embedded reconfigurable cores: Flexible prototyping and software-like debugging
+     Author ['L Lagadec', 'C Teodorov', 'JC Le Lann', 'D Picard']
+     Venue Science of Computer …
+     Year 2014
+     Abstract To prevent performance degradation the traceability is only activated on-demand  Nowadays, most common methods for hardware design verification are based on software or hardware simulation with RTL (Register Transfer Level) as the highest abstraction level, however RTL
+     Url https://www.sciencedirect.com/science/article/pii/S0167642314000823
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Problems of instrumental support for the development of distributed embedded real-time systems
+     Author ['AG Bakhmurov', 'RL Smelyansky']
+     Venue Programming and Computer Software
+     Year 2013
+     Abstract The SCADE envi ronment has no tools for hardware simulation  generation of project documentation with the ability to customize the process to user needs; (*) management of requirements, including the specification of the requirement traceability matrix; (*) formulation
+     Url https://link.springer.com/article/10.1134/S0361768813050022
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA DISSERTATION Approved for public release; distribution is unlimited A SYSTEMATIC SOFTWARE, FIRMWARE, AND HARDWARE CODESIGN METHODOLOGY FOR DIGITAL SIGNAL PROCESSING by
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract 184 Baseline Traceability  2 Airborne Electronic Hardware Design Assurance a high level of documentation and traceability that, while inconvenient on the sur- face, has repeatedly proven its worth over the long-term life of a design
+     Url https://books.google.com/books?hl=en&lr=&id=ZQMvDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Formal+methods%22+%22Hardware+simulation%22+%22Traceability%22&ots=Dqra5ICfMJ&sig=kZTfWMlrXUkAXgW3xGFOWUhIbXg
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title SystemC/C-based model-driven design for embedded systems
+     Author ['E Riccobene', 'P Scandurra', 'S Bocchio', 'A Rosti']
+     Venue ACM Transactions on …
+     Year 2009
+     Abstract Page 1. 30 SystemC/C-Based Model-Driven Design for Embedded Systems ELVINIA RICCOBENE Universit`a degli Studi di Milano PATRIZIA SCANDURRA Universit`a degli Studi di Bergamo SARA BOCCHIO and ALBERTO
+     Url https://dl.acm.org/doi/abs/10.1145/1550987.1550993
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title CASH: Compilation and Analysis, Software and Hardware December 10, 2018
+     Author ['C Alias', 'J Braine', 'L Gonnord', 'L Henrio', 'P Iannetta']
+     Venue NA
+     Year 2018
+     Abstract compilation. Similarly, the hardware simulation community usually considers compilers as black-boxes and do not interact with researchers in compilation. Our contributions are therefore expected in several domains. While
+     Url http://www.ens-lyon.fr/LIP/CASH/wp-content/uploads/2018/01/projet-equipe-CASH.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Message-based modeling
+     Author ['HT Simsek', 'V Raghavan', 'R Mani']
+     Venue US Patent 9,594,608
+     Year 2017
+     Abstract US9594608B2 - Message-based modeling - Google Patents. Message-based modeling. Download PDF Info. Publication number US9594608B2. US9594608B2 US14/335,159 US201414335159A US9594608B2 US 9594608
+     Url https://patents.google.com/patent/US9594608B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping
+     Author ['T De Schutter']
+     Venue NA
+     Year 2014
+     Abstract As such, we believe it will become increasingly important for engineering organizations to investigate formal methods and tools for enhancing  on system integrators to mandate augmented lifecycle management practices and to require higher levels of traceability for compliance
+     Url https://books.google.com/books?hl=en&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Formal+methods%22+%22Hardware+simulation%22+%22Traceability%22&ots=cw6VucIrl4&sig=lhzk-8Z1bxSTdCin3UBEiwPOfBI
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Verification and Validation
+     Author ['L Markosian', 'MS Feather']
+     Venue System Health …
+     Year 2011
+     Abstract items, establishment of configuration item baselines, change control data, and traceability throughout the  Controller - The Block II Space Shuttle Main Engine (SSME) Hardware Simulation Laboratory II  this kind of problem has long been appropriate for formal methods such as
+     Url https://pdfs.semanticscholar.org/4c5c/96bfe52cf1d7d486245ecb26eb66eb875113.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Error propagation in a system model
+     Author ['K Schloegel', 'D Bhatt', 'DV Oglesby', 'G Madl']
+     Venue US Patent 8,984,343
+     Year 2015
+     Abstract G06F11/36—Preventing errors by testing or debugging software; G06F11/3604—Software analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation
+     Url https://patents.google.com/patent/US8984343B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Machine control systems.-Safety life cycle and probability. Guidelines for system validation
+     Author ['J Hérard']
+     Venue NA
+     Year 2002
+     Abstract Page 1. Jacques Hérard, Jan Tegehall, Andreas Söderberg, SP Timo Malm, Maarit Kivipuro, VTT Machine Control Systems – Safety Life Cycle and Probability Guidelines for System validation Page 2. Abstract Machine control
+     Url https://www.diva-portal.org/smash/get/diva2:962213/FULLTEXT01.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems
+     Author ['K Hirvikoski']
+     Venue NA
+     Year 2015
+     Abstract Page 1. Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems Kasper Hirvikoski Master's thesis UNIVERSITY OF HELSINKI Department of Computer Science Helsinki, April 20, 2015 Page 2. Faculty of Science
+     Url https://helda.helsinki.fi/handle/10138/156665
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Safecomp FastAbstract 25th September 2013
+     Author ['MO Killijian']
+     Venue NA
+     Year 2013
+     Abstract Page 1. HAL Id: hal-00926563 https://hal.archives-ouvertes.fr/hal-00926563 Submitted on 9 Jan 2014 HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci- entific research documents, whether they are pub- lished or not
+     Url https://hal.archives-ouvertes.fr/hal-00926563/document
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title CrossTalk: The Journal of Defense Software Engineering. Volume 18, Number 12
+     Author ['M Croxford', 'R Chapman', 'G Miller', 'TL Bennett']
+     Venue NA
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Policies, News, and Updates
+     Author ['M Croxford', 'R Chapman', 'G Miller', 'TL Bennett']
+     Venue crosstalk
+     Year 2005
+     Abstract domain. Formal Specification and Design Using mathematical (or formal) methods and notations to define the specification and high-level design provide a precise description of behavior and a precise model of its characteristics
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.427&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Traceability"
+     Title Coverage metrics for requirements-based testing
+     Author ['A Rajan', 'MPE Heimdahl']
+     Venue NA
+     Year 2009
+     Abstract Page 1. UNIVERSITY OF MINNESOTA This is to certify that I have examined this copy of a doctoral thesis by Ajitha Rajan and have found that it is complete and satisfactory in all respects, and that any and all revisions required by the final examining committee have been made
+     Url http://homepages.inf.ed.ac.uk/arajan/thesis-main.pdf
+

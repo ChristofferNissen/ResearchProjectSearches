@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software verification with VeriFast: Industrial case studies
+     Author ['P Philippaerts', 'JT Mühlberg', 'W Penninckx']
+     Venue Science of Computer …
+     Year 2014
+     Abstract In this article, we present a series of four industrial case studies in software verification. We applied VeriFast, a sound and modular software verifier based on separation logic, to two Java Card smart card applets, a Linux device driver, and an embedded Linux network
+     Url https://www.sciencedirect.com/science/article/pii/S0167642313000191
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract several aspects in our case study: Two requirements have been identified to be assigned to the  A noticeable contribution of this work is to demonstrate that software verification of functional  In contrast to other case studies—which are either dealing with generic properties like
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A case study in JML-based software validation
+     Author ['L du Bousquet', 'Y Ledru', 'O Maury']
+     Venue Proceedings. 19th …
+     Year 2004
+     Abstract This paper reports on a testing case study applied to a small Java application, partially specified in JML. It illustrates that JML can easily be integrated with classical testing tools based on combinatorial techniques and random generation. It also reveals difficulties to
+     Url https://ieeexplore.ieee.org/abstract/document/1342750/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Verifying a logic synthesis tool in Nuprl: A case study in software verification
+     Author ['M Aagaard', 'M Leeser']
+     Venue International Conference on Computer Aided …
+     Year 1992
+     Abstract We have proved a logic synthesis tool with the Nuprl proof development system. The logic synthesis tool, Pbs, implements the weak division algorithm, and is part of the Bedroc hardware synthesis system. Our goal was to develop a proven and usable implementation of
+     Url https://link.springer.com/chapter/10.1007/3-540-56496-9_7
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Teaching software verification and validation course: A case study
+     Author ['D Mishra', 'T Hacaloglu', 'A Mishra']
+     Venue International Journal of …
+     Year 2014
+     Abstract Software verification and validation (V & V) is one of the significant areas of software engineering for developing high quality software. It is also becoming part of the curriculum of a universities' software and computer engineering departments. This paper reports the
+     Url https://www.researchgate.net/profile/Alok_Mishra5/publication/269764952_Teaching_Software_Verification_and_Validation_Course/links/549666520cf2ec13375b3193.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Formal methods and finite element analysis of hurricane storm surge: A case study in software verification
+     Author ['J Baugh', 'A Altuntas']
+     Venue Science of Computer Programming
+     Year 2018
+     Abstract Used to predict the effects of hurricane storm surge, ocean circulation models are essential tools for evacuation planning, vulnerability assessment, and infrastructure design. Implemented as numerical solvers that operate on large-scale datasets, these models
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301715
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software validation in metrology: A case study for a GUM-supporting software
+     Author ['N Greif', 'H Schrepf', 'D Richter']
+     Venue Measurement
+     Year 2006
+     Abstract Software validation in metrology is a crucial, often highly interdisciplinary process. One needs to consider all steps beginning with the definition of requirements and ending with the provision of evidence that the requirements are fulfilled. This includes the refinement of
+     Url https://www.sciencedirect.com/science/article/pii/S0263224106000741
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Trusted software verification: A case study
+     Author ['TCV Benzel', 'DA Tavilla']
+     Venue 1985 IEEE Symposium on Security …
+     Year 1985
+     Abstract This paper presents a case study of the verification of the trusted software component of the SCOMP system Trusted Computing Base (TCB). The SCOMP system was developed by Honeywell and is the first system to achieve an A1 rating from the DoDCSC. A number of
+     Url https://ieeexplore.ieee.org/abstract/document/6234832/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title HPC Software Verification in Action: A Case Study with Tensor Transposition
+     Author ['E Mutlu', 'A Panyala']
+     Venue 2018 IEEE/ACM 2nd …
+     Year 2018
+     Abstract As HPC platforms get increasingly complex, the complexity of software optimized for these platforms has also increased. There is a pressing need to ensure correctness of scientific applications to enhance our confidence in the results they produce. In this paper, we focus
+     Url https://ieeexplore.ieee.org/abstract/document/8638391/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title F-Soft: Software Verification Platform
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue … on Computer Aided …
+     Year 2005
+     Abstract The F-Soft tool has been applied on numerous case studies and publicly available benchmarks for sequential C programs  Experimental results for use of these heuristics on a network protocol case study (checking the equivalence of a  F-Soft: Software Verification Platform 303
+     Url https://link.springer.com/chapter/10.1007/11513988_31
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title On the Industrial Application of Critical Software Verification with VerCors
+     Author ['M Huisman', 'RE Monti']
+     Venue … Symposium on Leveraging Applications of Formal …
+     Year 2020
+     Abstract We report on our experiences applying software verification in several projects with industry  These case studies show the power of combining model checking (using mCRL2) and  Notably, our second case study involves the modelling and verification of critical software by a
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61467-6_18
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Verifying a logic-synthesis algorithm and implementation: A case study in software verification
+     Author ['M Aagaard', 'M Leeser']
+     Venue IEEE transactions on software …
+     Year 1995
+     Abstract We describe the verification of a logic synthesis tool with the Nuprl proof development system. The logic synthesis tool, Pbs, implements the weak division algorithm. Pbs consists of approximately 1000 lines of code implemented in a functional subset of Standard ML. It is
+     Url https://ieeexplore.ieee.org/abstract/document/469458/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Space software validation using abstract interpretation
+     Author ['O Bouissou', 'E Conquet', 'P Cousot', 'R Cousot', 'J Feret']
+     Venue NA
+     Year 2009
+     Abstract "Space Software Validation using Abstract  Thus, this version of the case study was abandoned and the work has focused on the SCADE models  3.3.1. Exhaustive detection of run-time errors with ASTRÉE Software verification consists in proving that all executions of a program
+     Url https://hal.inria.fr/inria-00528590/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Towards dependable development tools for embedded systems: a case study in software verification
+     Author ['U Petermann']
+     Venue Journal of Experimental & Theoretical Artificial …
+     Year 2000
+     Abstract This case study describes the specification and formal verification of the key part of SPaS, a development tool for the design of open loop programmable control developed at the University of Applied Sciences in Leipzig. SPaS translates the high-level representation of
+     Url https://www.tandfonline.com/doi/abs/10.1080/095281300454856
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Agent-based distributed software verification
+     Author ['C Hunter', 'P Robinson']
+     Venue … of the Twenty …
+     Year 2005
+     Abstract In Section 6 we describe a prototype implementation of our architec- ture before briefly presenting the results of a software verification case study that uses this implementation in Section 7. We present our conclusions and plans for future work in Section 8
+     Url https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Hunter.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A Case Study in JML-based Software Validation
+     Author ['L du Bousquet', 'Y Ledru', 'O Maury', 'C Oriat']
+     Venue … on Automated Software …
+     Year 2004
+     Abstract This paper reports on a testing case study applied to a small Java application, partially specified in JML. It illustrates that JML can easily be integrated with classical testing tools based on combinatorial techniques and random generation. It also reveals difficulties to
+     Url https://www.computer.org/csdl/proceedings-article/ase/2004/21310294/12OmNAtK4jZ
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title The first transcriptomes from field-collected individual whiteflies (Bemisia tabaci, Hemiptera: Aleyrodidae): A case study of the endosymbiont composition
+     Author ['P Sseruwagi', 'J Wainaina', 'J Ndunguru']
+     Venue Gates open …
+     Year 2017
+     Abstract The first transcriptomes from field-collected individual whiteflies ( Bemisia tabaci, Hemiptera: Aleyrodidae): a case study of the  Writing – Review & Editing, 1 Jian-Yang Guo, Data Curation, Formal Analysis, Investigation, Methodology, Software, Validation, Visualization, Writing
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5872585/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A Rapid Prototyping Approach to Software Validation.
+     Author ['RL Rogers']
+     Venue NA
+     Year 1986
+     Abstract Analysis of these case studies was based on criteria used in an earlier, similar experiment. While the results were not conclusive they did suggest further research on this subject would be beneficial. Keywords Theses Cost Estimates Case Studies Software Validation
+     Url https://apps.dtic.mil/sti/citations/ADA177939
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Reuse of proofs in software verification
+     Author ['W Reif', 'K Stenzel']
+     Venue International Conference on Foundations of Software …
+     Year 1993
+     Abstract This paper presents a method for automated reuse of proofs in software verification  Finally, we report on case studies with an implemen- tation of this method in the Karlsruhe Interactive Verifier (KIV). 1 Introduction
+     Url https://link.springer.com/chapter/10.1007/3-540-57529-4_61
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Usability of AutoProof: a case study of software verification
+     Author ['M Khazeev', 'V Rivera', 'M Mazzara']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract Many verification tools come out of academic projects, whose natural constraints do not typically lead to a strong focus on usability. For widespread use, however, usability is essential. Using a well-known benchmark, the Tokeneer problem, we evaluate the usability
+     Url https://arxiv.org/abs/1605.01663
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software verification process improvement proposal using Six Sigma
+     Author ['T Galinac', 'Ž Car']
+     Venue International Conference on Product Focused Software …
+     Year 2007
+     Abstract Software Verification Process Improvement Proposal Using Six Sigma 63  They proved to be very successful in a case study of a real industrial project executed in a big organization developing large  Kollanus, S., Koskinen, J.: Software Inspections in Practice: Six Case Studies
+     Url https://link.springer.com/chapter/10.1007/978-3-540-73460-4_8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Challenges with software verification and validation activities in the space industry
+     Author ['R Feldt', 'R Torkar', 'E Ahmad']
+     Venue 2010 Third International …
+     Year 2010
+     Abstract Challenges with Software Verification and Validation Activities in the Space Industry  The case studies reported here focus on how ECSS standards are used by the companies  Keywords-Case study, European Cooperation for Space Stan- dardization, verification and validation
+     Url https://ieeexplore.ieee.org/abstract/document/5477080/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A process improvement model for software verification and validation
+     Author ['J Callahan', 'G Sabolish']
+     Venue NINETEENTH ANNUAL SOFTWARE …
+     Year 1994
+     Abstract Improvement Model for Software Verification and Validation John Callahan George Sabolish NASA Independent Software Verification and Vafidation  Cost Effectiveness -Trend Analysis -Error detection • Approach -Long-term -Short-term -Collaborations -Case study: EOSDIS
+     Url https://core.ac.uk/download/pdf/42780507.pdf#page=168
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title The first transcriptomes from field-collected individual whiteflies (Bemisia tabaci, Hemiptera: Aleyrodidae): A case study of the endosymbiont composition
+     Author ['P Sseruwagi', 'J Wainaina', 'J Ndunguru']
+     Venue Gates open …
+     Year 2017
+     Abstract The first transcriptomes from field-collected individual whiteflies ( Bemisia tabaci, Hemiptera: Aleyrodidae): a case study of the  Writing – Review & Editing, 1 Jian-Yang Guo, Data Curation, Formal Analysis, Investigation, Methodology, Software, Validation, Visualization, Writing
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5872585/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software Validation Study.
+     Author ['JC Bartlett', 'SG Farnum', 'PD Samson']
+     Venue NA
+     Year 1973
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Efficient SAT-based Bounded Model Checking for Software Verification.
+     Author ['P Ashar', 'MK Ganai', 'A Gupta', 'F Ivancic']
+     Venue ISoLA (Preliminary …
+     Year 2004
+     Abstract recent progress in this research area, while also improving its efficiency for software verification by customizing  For each case study, table 1 includes the number of latches in the cone of  The next column contains the number of gates considered for these case studies, where the
+     Url https://cs.wmich.edu/~zijiang/pub/FMCAD04/F-SOFT.PDF
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Caveat: A tool for software validation
+     Author ['P Baudin', 'A Pacalet', 'J Raguideau', 'D Schoen']
+     Venue … Systems and Networks
+     Year 2002
+     Abstract We prove the soundness of our approach and show its effectiveness by mutation analysis. Our case study presents an approximate 50% reuse of verification results for postconditions, and 70% reuse of verification results for sub-goals
+     Url https://www.computer.org/csdl/proceedings-article/dsn/2002/15970537/12OmNBkxsoZ
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Similarities and reuse of proofs in formal software verification
+     Author ['E Melis', 'A Schairer']
+     Venue European Workshop on Advances in Case-Based …
+     Year 1998
+     Abstract reason for this situation is that many theorem provers in formal software verification systems are  In case studies, see eg [9], that investigate the verification of safety properties of specifications  and principles of the reuse mechanism rather than a complete case study, we present
+     Url https://link.springer.com/chapter/10.1007/BFb0056323
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Efficient SAT-based bounded model checking for software verification
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue Theoretical Computer …
+     Year 2008
+     Abstract In Section 6 we present the prototype software verification tool F-Soft [40]. Section 7 introduces one of the analyzed network protocol case studies, while Section 8 presents experimental results for various case studies using F-Soft in detail
+     Url https://www.sciencedirect.com/science/article/pii/S0304397508002223
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Deductive Software Verification–The KeY Book
+     Author ['W Ahrendt', 'B Beckert', 'R Bubel', 'R Hähnle']
+     Venue Lecture notes in …
+     Year 2016
+     Abstract Deductive Software Verification – The KeY Book From Theory to Practice 123 Page 5  It systematically explains several facets of the KeY framework, starting with the theoretical underpinning and ending with a presentation of nontrivial case studies. Foreword Page 9
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-49812-6.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title OpenJML: software verification for Java 7 using JML, OpenJDK, and Eclipse
+     Author ['DR Cok']
+     Venue arXiv preprint arXiv:1404.6608
+     Year 2014
+     Abstract has proceeded to the point to be useful in educational settings and for small scale case studies on existing  A third effort needs to be education in software verification  ESC/Java and JML: Progress and issues in building and using ESC/Java2, including a case study involving the
+     Url https://arxiv.org/abs/1404.6608
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Usability of AutoProof: a case study of software verification
+     Author ['K Mansur', 'R Victor', 'M Manuel']
+     Venue Труды Института …
+     Year 2016
+     Abstract Verification tools are often the result of several years of research effort. The development happens as a distributed effort inside academic institutes relying on the ability of senior investigators to ensure continuity. Quality attributes such as usability are unlikely to be
+     Url https://cyberleninka.ru/article/n/16873669
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A Case Study in JML-based Software Validation
+     Author ['JL Lanet']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Property Preserving Abstraction for Software Verification–A Case Study
+     Author ['T Firley', 'U Goltz']
+     Venue NA
+     Year 2003
+     Abstract In this paper we present a technique to compute abstract models for formal and automatic system verification. The method reduces the state space by eliminating those parts of a system model which are not required to check a property. We introduce the method and
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.6.6151&rep=rep1&type=pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software verification, a case study of the inertial reference system
+     Author ['TH FRIDDELL']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Contract by systems modelling: a case study on the FDA principles of software validation
+     Author ['MM Abdeen', 'T Maibaum']
+     Venue Proceedings of the 11th IASTED …
+     Year 2007
+     Abstract CONTRACT BY SYSTEMS MODELLING: A CASE STUDY ON THE FDA PRINCIPLES OF SOFTWARE  VALIDATION Marwan M. Abdeen and Tom Maibaum Department of Computing and Software  McMaster University Hamilton, Ontario, Canada {abdeenmm, maibaum}@mcmaster.ca ABSTRACT
+     Url http://www.actapress.com/Abstract.aspx?paperId=32061
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A case study in java software verification
+     Author ['P Brisset']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title The role of software verification and validation in software development process
+     Author ['P Sujatha', 'GV Sankar', 'AS Rao']
+     Venue IETE Technical …
+     Year 2001
+     Abstract The Role of Software Verification and Validation in  In this paper the current state of practice for V&V Is described and a case study Is reported showing the process by which problem reporting and tracking takes place using a CASE tool and how V&V feeds Into decision making
+     Url https://www.tandfonline.com/doi/abs/10.1080/02564602.2001.11416938
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Design, Development and Delivery of Active Learning Tools in Software Verification & Validation Education.
+     Author ['S Acharya', 'PA Manohar', 'P Wu', 'B Maxim']
+     Venue Journal of Education and …
+     Year 2018
+     Abstract Examples of some of our Video Case Study titles are Formal Inspection Scenes and  active learning tools including Case Modules, Class Exercises, and Video Case Studies in their  programming skills can help students to achieve success in a software verification & validation
+     Url https://eric.ed.gov/?id=EJ1153687
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Applying expert systems technology to communications software validation
+     Author ['MJ Davis']
+     Venue Proceedings The Fifth Conference on Artificial …
+     Year 1989
+     Abstract 98 ,124-2499 ,uw-beaver!ssc-vax!mjdavis ,Case Study: Software Engineering ,This case ,study ,describes the  shell with ,a ,custom relational database ,interface to construct ,an ,automated software verification tool supporting  Field Testing ,Software ,Validation ,and ,Verification
+     Url https://www.computer.org/csdl/proceedings-article/caia/1989/00049155/12OmNqN6RaP
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Alloy meets the algebra of programming: A case study
+     Author ['JN Oliveira', 'MA Ferreira']
+     Venue IEEE Transactions on Software …
+     Year 2012
+     Abstract The main purpose of this paper is to show the application of relational calculation to software verification. A case study is presented which can be framed in the challenge put forward by Joshi and Holzmann [16] on developing a reliable FLASH file-system for in-flight software
+     Url https://ieeexplore.ieee.org/abstract/document/6155724/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Towards automated software verification and validation
+     Author ['S Asadollahi', 'V Rafe', 'R Rafeh']
+     Venue 2009 International Conference …
+     Year 2009
+     Abstract Page 1. Towards Automated Software Verification and Validation  To compare our approach with existing ones, we implemented different case studies [5]: (1) The Shopping Cart example, (2) The Airport case study and (3) The SmartCar example
+     Url https://ieeexplore.ieee.org/abstract/document/5359770/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A survey of high-performance computing for software verification
+     Author ['I Zakharov']
+     Venue International Conference on Tools and Methods for …
+     Year 2017
+     Abstract A few case studies concerning the adaptation of tools and algorithms for GPUs has  For instance, the paper [54] describes such a case study where many minor optimizations allowed to drastically increase the performance of the Yogi software verification tool which
+     Url https://link.springer.com/chapter/10.1007/978-3-319-71734-0_17
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Performance vs. Design Understanding Software Validation Requirements
+     Author ['K Larrick']
+     Venue Biomedical instrumentation & technology
+     Year 2007
+     Abstract The tools in the software validation toolbox include activities completed during the life cycle of  The case studies are meant to provide information about the decisions and drivers of decisions used in the critical thinking process, and the content of each case study begins by
+     Url https://meridian.allenpress.com/bit/article-abstract/41/3/236/200208
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title A formal software verification concept based on automated theorem proving and reverse engineering
+     Author ['M Popovic', 'V Kovacevic', 'I Velikic']
+     Venue Proceedings Ninth Annual …
+     Year 2002
+     Abstract In section 6 we wrap it all up with a description of software development process, which includes formal software verification. In section 7 we give a case study: a formal verification of call control software. Section 8 contains the discussion of related work
+     Url https://ieeexplore.ieee.org/abstract/document/999823/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Case Studies for Enhancing Student Engagement and Active Learning in Software V&V Education.
+     Author ['PA Manohar', 'S Acharya', 'P Wu', 'M Hansen']
+     Venue Journal of Education and …
+     Year 2015
+     Abstract The case studies developed here cover many areas in the software verification and validation  The effectiveness of case study based educational tools has been determined based on this  Using baseline data from the Spring 2013 semester when case studies were not available
+     Url https://eric.ed.gov/?id=EJ1097800
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Flexible proof reuse for software verification
+     Author ['C Hunter', 'P Robinson', 'P Strooper']
+     Venue International Conference on Algebraic …
+     Year 2004
+     Abstract of the search space. Finally, we report on the results of applying this method to a case study from the realm of software verification. 1 Introduction Formal methods provide the promise of software that is provably free of faults
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27815-3_19
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Intellectual Merit and Broader Impact: Collaborative Education toward Building a Skilled Software Verification and Validation Community
+     Author ['S Acharya', 'P Manohar', 'PY Wu']
+     Venue Information Systems Education Journal
+     Year 2019
+     Abstract Software Verification and Validation (SV&V) is proven to be an effective approach to ensure software quality  The project resulted in 44 delivery contact hours of teaching modules using these active learning tools: case studies, class exercises and case study videos
+     Url http://isedj.org/2019-17/n6/ISEDJv17n6p12.html
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Software validation and preventive software quality assurance for metrology
+     Author ['N Greif', 'D Richter']
+     Venue Data Modeling for Metrology and Testing in …
+     Year 2009
+     Abstract This chapter of the book gives a survey of the software validation and software en- gineering methods in metrology. For a better illustration, the accompanying DVD presents two case studies of validation procedures performed at PTB. Finally, an outlook on future issues is given
+     Url https://link.springer.com/chapter/10.1007/978-0-8176-4804-6_12
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Case+Study"+OR+"Case+Studies"
+     Title Verifying a logic synthesis tool in Nuprl: A case study in software verification. In v. Bochmann, G. and Probst, DK (eds.), Computer Aided Verification …
+     Author ['M Aagaard', 'M Leeser']
+     Venue NA
+     Year 1994
+     Abstract [Not Found]
+     Url [Not Found]
+

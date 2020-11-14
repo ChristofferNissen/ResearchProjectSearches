@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"DevOps"+"Formal+methods"
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract When developing systems in industrial settings, practices such as continuous integration (CI) [14] and DevOps have become common. In order for formal methods (FMs) to effec- tively impact software development, it must be possible for them to integrate with such practices so
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title DevOps meets formal modelling in high-criticality complex systems
+     Author ['M Olszewska', 'M Waldén']
+     Venue … Workshop on Quality-Aware DevOps
+     Year 2015
+     Abstract Formal methods that support model based- development are one of the methodologies used to achieve correct-by-construction  In this paper we show how formal modelling can function within DevOps and thus promote various dimensions of quality and continuous delivery
+     Url https://dl.acm.org/doi/abs/10.1145/2804371.2804373
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract Continuous Architecting with Microservices and DevOps: A Systematic Mapping Study. Authors; Authors and affiliations. Davide Taibi Email author; Valentina Lenarduzzi Email author; Claus Pahl Email author. Conference paper First Online: 10 August 2019
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue … 1st International Workshop on Rapid Continuous …
+     Year 2014
+     Abstract is continuously ready for release and deployed to actual customers (see Neely & Stott [45]) Continuous Verification Adoption of verification activities including formal methods and inspections  DevOps BizDev Continuous Planning Continuous Deployment Continuous Integration
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract In a similar vein, the recent emphasis on DevOps recognizes that the integration between software development and its operational deployment needs to be a continuous one  Keywords. Continuous software engineering. Lean software development. DevOps. 1. Introduction
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract While formal methods have long been praised by the dependable Cyber-Physical System community, continuous software engineering  about using Behaviour Driven Development, particularly Gherkin and RSpec for DepDevOps, DevOps for dependable
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous validation for data analytics systems
+     Author ['M Staples', 'L Zhu', 'J Grundy']
+     Venue … of the 38th International Conference on …
+     Year 2016
+     Abstract Keywords software validation, continuous development, devOps, ma- chine learning, data analytics, ethics, governance ∗This  Requirements engi- neering, design analyses, formal methods, and testing help us understand whether systems will meet those needs
+     Url https://dl.acm.org/doi/abs/10.1145/2889160.2889207
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous Formal Verification of Microservice-Based Process Flows
+     Author ['M Camilli']
+     Venue European Conference on Software Architecture
+     Year 2020
+     Abstract operation phases. We foster the integration of the approach in modern software development practices, such as DevOps [12], in order to adopt formal methods in agile, continuous delivery, and automation setting. To achieve
+     Url https://link.springer.com/chapter/10.1007/978-3-030-59155-7_31
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Boost the Impact of Continuous Formal Verification in Industry
+     Author ['FR Monteiro', 'MR Gadelha', 'LC Cordeiro']
+     Venue arXiv preprint arXiv:1904.06152
+     Year 2019
+     Abstract We believe that formal methods can be effective in improving software quality assurance of a large number of organisations around the globe  Page 2. software model checking techniques combined with DevOps culture, particularly, continuous integration (CI)
+     Url https://arxiv.org/abs/1904.06152
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title A systematic mapping study on microservices architecture in devops
+     Author ['M Waseem', 'P Liang', 'M Shahin']
+     Venue Journal of Systems and Software
+     Year 2020
+     Abstract small cross-functional teams (Watts, 2020). Containerized microservices can be realized independently because DevOps gives them a favor of continuous integration and deployment. Although it is not compulsory to design
+     Url https://www.sciencedirect.com/science/article/pii/S0164121220302053
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Formal methods and agile development: towards a happy marriage
+     Author ['C Ghezzi']
+     Venue The Essence of Software Engineering
+     Year 2018
+     Abstract The key concept here is that models and verification should be kept at run time to support continuous run time monitoring and verification as triggers for self  This leads to a unified software development and operation approach (DevOps) that is rooted on formal methods
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27814/1002191.pdf?sequence=1#page=39
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title DevOps, DBAs, and DBaaS: Managing Data Platforms to Support Continuous Integration
+     Author ['MS Cuppett']
+     Venue NA
+     Year 2016
+     Abstract automation. DevOps is about speed, flexibility, resiliency, and continuous improvement. People  systems. As DevOps expounds continuous testing across the SDLC, all environments must match the planned end-point state. Operational
+     Url https://books.google.com/books?hl=en&lr=&id=xme3DQAAQBAJ&oi=fnd&pg=PP6&dq=%22Continuous%22+%22DevOps%22+%22Formal+methods%22&ots=936Fv29o4V&sig=uvFB06A4WfiuCogiR-uGGuv5rx8
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title DevOps and its Philosophy: Education Matters!
+     Author ['E Bobrov', 'A Bucchiarone', 'A Capozucca', 'N Guelfi']
+     Venue Microservices
+     Year 2020
+     Abstract workflow reconfigurations – a process algebra perspective, in Web Services and Formal Methods – 8th International  A. Naumchev, L. Safina, A. Sillitti, K. Urysov, Teaching DevOps in corporate  an experience report, in Software Engineering Aspects of Continuous Devel- opment
+     Url https://link.springer.com/chapter/10.1007/978-3-030-31646-4_14
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous Architecting With Microservices and DevOps: a Systematic Mapping Study
+     Author ['C Pahl']
+     Venue NA
+     Year NA
+     Abstract changing requirements imposed by the market, with short time-to-market and quickly evolving technologies. Continuous soft- ware engineering, and in particular DevOps, tries to address these aspects, sup- Page 2. 2 D. Taibi et al
+     Url https://www.researchgate.net/profile/Valentina_Lenarduzzi/publication/334633866_Continuous_Architecting_With_Microservices_and_DevOps_a_Systematic_Mapping_Study/links/5d36fdcfa6fdcc370a57aba7/Continuous-Architecting-With-Microservices-and-DevOps-a-Systematic-Mapping-Study.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title DevOps Quality Engineering
+     Author ['DA Tamburri', 'D Perez-Palacin']
+     Venue NA
+     Year 2018
+     Abstract styles (eg, SOA, Big-Data, etc.), advanced software architecting methods (eg, MDA, continuous architecting and DevOps), and social  the areas of quality properties of software with special interest in Software Performance Engineering, formal methods, self-adaptive
+     Url https://onlinelibrary.wiley.com/pb-assets/assets/20477481/sep_proposal-1521738117003.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Performance-oriented DevOps: A research agenda
+     Author ['A Brunnert', 'A van Hoorn', 'F Willnecker', 'A Danciu']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract concept. Technologies and methods used to support the DevOps concept include infrastructure as code, automation through deep modeling of systems, continuous deployment, and continuous integration (Kim et al., 2014)
+     Url https://arxiv.org/abs/1508.04752
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title The Systems Engineering DevOps Lemniscate and Model-Based System Operations
+     Author ['JTJ Mathieson', 'T Mazzuchi', 'S Sarkani']
+     Venue IEEE Systems Journal
+     Year 2020
+     Abstract a gate before returning to the opera- tions phase, emphasizing the continuous testing needs  in the SEDevOps life cycle model and as methodologically driven by DevOps principles on  C. MBSO Extension With Formal Methods Extending the concept of model formalism in MBSE
+     Url https://ieeexplore.ieee.org/abstract/document/9179780/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Towards a benefits dependency network for DevOps based on a systematic literature review
+     Author ['R Jabbari', 'N bin Ali', 'K Petersen']
+     Venue Journal of Software …
+     Year 2018
+     Abstract Towards a benefits dependency network for DevOps based on a systematic literature review. Ramtin Jabbari Corresponding Author  2.1 Existing systematic literature reviews on DevOps. Few systematic studies have been conducted on the topic of DevOps
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1957
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title RE in the age of continuous deployment
+     Author ['N Niu']
+     Venue 2017 IEEE 25th International Requirements …
+     Year 2017
+     Abstract effort spent in getting the requirements right (eg, modeling and formal methods) early in  use approaches like Continuous Integration towards Contin- uous Deployment, Continuous and transparent Planning as well as approaches like embedded DevOps practices
+     Url https://ieeexplore.ieee.org/abstract/document/8049185/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Testing in DevOps
+     Author ['F Faber']
+     Venue The Future of Software Quality Assurance
+     Year 2020
+     Abstract The Independent (1991, September 17) 7. Kim, G., Behr, K., Spafford, G.: The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win  html(2018) 9. Humble, J., Farley, D.: Continuous Delivery  In: Formal Methods at the Crossroads
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/22847/1007314.pdf?sequence=1#page=47
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous deployment of software intensive products and services: A systematic mapping study
+     Author ['P Rodríguez', 'A Haghighatkhah', 'LE Lwakatare']
+     Venue Journal of Systems and …
+     Year 2017
+     Abstract Journal of Systems and Software. Volume 123, January 2017, Pages 263-291. Journal of Systems and Software. Continuous deployment of software intensive products and services: A systematic mapping study  2.1. Continuous deployment
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215002812
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Towards holistic continuous software performance assessment
+     Author ['V Ferme', 'C Pautasso']
+     Venue Proceedings of the 8th ACM/SPEC on …
+     Year 2017
+     Abstract [23] J. Humble and D. Farley. Continuous Delivery  [24] R. Jabbari, N. bin Ali, K. Petersen, et al. What is DevOps?: A Systematic Mapping Study on Definitions and Practices  In Formal Methods and Stochastic Models for Performance Evaluation, pages 63–77. Springer, 2006
+     Url https://dl.acm.org/doi/abs/10.1145/3053600.3053636
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title How Formal Methods Can Contribute to 5G Networks
+     Author ['F Luque-Schempp', 'P Merino-Gómez']
+     Venue … to Formal Methods and …
+     Year 2019
+     Abstract Continuous monitoring and other techniques from network operators will be more complex, but they will be  the network plane and the problem faced, but they also use different formal methods, such as  chains prior to service deployment that can be part of a DevOps methodology
+     Url https://link.springer.com/chapter/10.1007/978-3-030-30985-5_32
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title System Verification, Processes and Testing
+     Author ['T Perez', 'A Morozov', 'B Rokseth']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract Briefly, the adoption of a more DevOps-like approach and designing online (continuous or periodic) re- verification systems. Other elements of the discussion on the topic includes methods for communicating the results of verification efforts and the inclusion of formal methods
+     Url https://sintef.brage.unit.no/sintef-xmlui/bitstream/handle/11250/2639825/Proceedings+of+the+1st+International+Workshop+on+Autonomous+Systems+Safety32803.pdf?sequence=2
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title A Model-driven Approach to Continuous Practices for Modern Cloud-based Web Applications
+     Author ['T Tegeler', 'F Gossen', 'B Steffen']
+     Venue 2019 9th International …
+     Year 2019
+     Abstract of CI/CD, its top- down approach makes it possible to incorporate powerful formal methods support into  Stacy, M. Prudnikov, A. Khan, and X. Shen, “Practicing continuous integration and continuous delivery on aws: Accelerating software delivery with devops,” Amazon Web
+     Url https://ieeexplore.ieee.org/abstract/document/8776962/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Multi-objective Optimisation of Online Distributed Software Update for DevOps in Clouds
+     Author ['D Sun', 'S Chen', 'G Li', 'Y Zhang', 'M Atif']
+     Venue ACM Transactions on Internet …
+     Year 2019
+     Abstract (2014). Note that, whenever a failure happens, the recovered instances must beV1 for two reasons: (1) The spirit of DevOps requests continuous software development, deployment, and testing, which are performed completely online without the breaking running service
+     Url https://dl.acm.org/doi/abs/10.1145/3338851
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Towards a taxonomy of microservices architectures
+     Author ['M Garriga']
+     Venue … on Software Engineering and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 203-218 | Cite as. Towards a Taxonomy of Microservices Architectures  Possible values: DevOps, Continuous delivery/deployment/integration practices, other. Table 2
+     Url https://link.springer.com/chapter/10.1007/978-3-319-74781-1_15
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Deriving Microservice Code from Underspecified Domain Models Using DevOps-Enabled Modeling Languages and Model Transformations
+     Author ['F Rademacher', 'S Sachweh']
+     Venue 2020 46th Euromicro …
+     Year 2020
+     Abstract Domain Models Using DevOps-Enabled  It relies on a set of viewpoint-based MSA modeling languages, which respect the concerns of DevOps teams, and a set of auto- matic model transformations, which decrease modeling effort and systematize source code derivation
+     Url https://ieeexplore.ieee.org/abstract/document/9226287/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Quality in Requirements Engineering
+     Author ['J Araújo', 'JL de la Vara']
+     Venue NA
+     Year NA
+     Abstract is assisted by techniques for software continuous integration, continuous delivery, infrastructure-as  Hence, DevOps quality assurance techniques are far from being mature, and are  interest in Software Performance Engineering, model-based evaluation, formal methods and
+     Url https://ieeexplore.ieee.org/abstract/document/8590163/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Consistent Testing Framework for Continuous Service Development
+     Author ['C Sathawornwichit', 'S Hosono']
+     Venue 2014 Asia-Pacific Services …
+     Year 2014
+     Abstract 1 Continuous service development cycle  B. There are several development methods adopted in cloud service development, eg, requirement-driven, model-driven, DevOps, to name a few  Formal methods can be used in testing either by generat- ing test-cases or as a validator in
+     Url https://ieeexplore.ieee.org/abstract/document/7175488/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Guaranteeing type consistency in collective adaptive systems
+     Author ['J Schürmann', 'T Tegeler', 'B Steffen']
+     Venue … Applications of Formal Methods
+     Year 2020
+     Abstract ISoLA 2020: Leveraging Applications of Formal Methods, Verification and Validation: Engineering Principles pp 311-328  One of the central aspects of DevOps is known as shift left, where issues (eg  In the future, we want to make TFG compatible with Continuous Practices [25] to
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61470-6_19
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Exploring and Enabling DevOps for Data Analytical System with Essential Demands Elicitation
+     Author ['J Zheng', 'Y Liu', 'J Lin']
+     Venue International Journal of Software Engineering …
+     Year 2016
+     Abstract Based on DevOps, Ferry et al.[10] proposed a continuous deploy- ment solution for multi-cloud systems  He believed that the continuous data validation based on DevOps would be the future research trend. 1456 J. Zheng, Y. Liu & J. Lin Page 5. 3. Demand Analysis for D2Ops
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401640012X
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Specification-based Predictive Continuous Monitoring for Cyber Physical Systems with Unobservables
+     Author ['A Coletta']
+     Venue NA
+     Year 2018
+     Abstract Page 1. SPECIFICATION-BASED PREDICTIVE CONTINUOUS MONITORING FOR CYBER PHYSICAL SYSTEMS WITH UNOBSERVABLES  Alessio Coletta: Specification-based Predictive Continuous Monitoring for Cyber Physical Systems with Unobservables, © October 2018
+     Url http://eprints-phd.biblio.unitn.it/3435/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Final service provider devops concept and evaluation
+     Author ['G Marchetto', 'R Sisto', 'W John', 'P Sköldström']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract Page 1. D4.3 Updated concept and evaluation results for SP-DevOps Dissemination level PU Version 1.2 Due date 30.04.2016  5 2.3 Summary of Universal Node development and benchmarking 6 3 Final SP-DevOps concept 8 3.1 UNIFY SP-DevOps concept 9
+     Url https://arxiv.org/abs/1610.02387
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Dependability of adaptable and evolvable distributed systems
+     Author ['C Ghezzi']
+     Venue International School on Formal Methods for the Design …
+     Year 2016
+     Abstract By following the currently widely advocated DevOps culture, agility extends in a seamless  Figure 2 illustrates our envisioned process that supports continuous development and operation, through  we embrace this holistic view and discuss the role that formal methods can play
+     Url https://link.springer.com/chapter/10.1007/978-3-319-34096-8_2
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Software architecture: Past, present, future
+     Author ['W Hasselbring']
+     Venue The Essence of Software Engineering
+     Year 2018
+     Abstract 73–87. ACM, New York (2000) 9. Bernardo, M., Inverardi, P.(eds.): Formal Methods for Software Architectures  Springer, Heidelberg (2011) 64. Waller, J., Ehmke, NC, Hasselbring, W.: Including performance benchmarks into continuous integration to enable DevOps
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27814/1002191.pdf?sequence=1#page=181
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Continuous Experimentation and the Cyber-Physical Systems challenge. An overview in literature and the industrial perspective
+     Author ['F Giaimo', 'H Andrade', 'C Berger']
+     Venue arXiv preprint arXiv:2003.03804
+     Year 2020
+     Abstract Costs of experiments A Tools to enable/support experimentation A,B C DevOps Data and configuration management A,B C,D  Testing C - Heterogeneity D , E Table 3: Perceived Challenges in the Continuous Experimentation practice and the companies raising each point. 22
+     Url https://arxiv.org/abs/2003.03804
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Linking Stakeholder Viewpoint Concerns with Microservices
+     Author ['M Sultan']
+     Venue arXiv preprint arXiv:2009.01702
+     Year 2020
+     Abstract The agile management practices and microservice designs culminated in a new way of developing software - the DevOps, where Continuous Delivery (CD) and Continuous Integration (CI) play a major role. Most of the medium
+     Url https://arxiv.org/abs/2009.01702
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Integración y entregas continuas con herramientas open source basado en DevOps: Una revisión sistemática de la literatura
+     Author ['BD Juárez Avila', 'KJ Mogollón Calle']
+     Venue NA
+     Year 2020
+     Abstract formal methods setting 3 2 Building science gateway infrastructure in the middle of the pacific and beyond: Experiences using the agave deployer and agave platform to build science gateways 4 3 Building lean continuous integration and delivery pipelines by applying devops
+     Url https://repositorio.upeu.edu.pe/handle/UPEU/3442
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Using Scrum to Develop a Formal Model–An Experience Report
+     Author ['M Olszewska', 'S Ostroumov', 'M Waldén']
+     Venue International Conference on …
+     Year 2016
+     Abstract to the planned modelling, due to requirements prioritisation and continuous control of  Program (2001)Google Scholar. 4. Holloway, M.: Why engineers should consider formal methods  Olszewska, M., Waldén, M.: DevOps meets formal modelling in high-criticality complex
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_48
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Formal verification of developer tests: a research agenda inspired by mutation testing
+     Author ['S Demeyer', 'A Parsai', 'S Vercammen']
+     Venue … of Formal Methods
+     Year 2020
+     Abstract high quality” [6]. The combination of these practices enables a continuous flow, where  The key to the DevOps approach is a series of increasingly powerful automated tests  and formal specification are two complementary steps, used when adopting formal methods in software
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61470-6_2
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Of software and change
+     Author ['C Ghezzi']
+     Venue Journal of Software: Evolution and Process
+     Year 2017
+     Abstract By following the currently widely advocated DevOps culture, agility extends in a seamless manner  Figure 2 illustrates this view of continuous development and operation, through 2 main interacting  we embrace this holistic view and discuss the role that formal methods can play
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1888
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Introducing development features for virtualized network services
+     Author ['S Van Rossem', 'W Tavernier', 'D Colle']
+     Venue IEEE …
+     Year 2018
+     Abstract This also enables con- tinuous integration and continuous deployment (CI/CD), another common  of SDN/NFV-based services makes them a good fit for DevOps processes, a  Practically, formal methods can be integrated into editors for generating network service descriptions
+     Url https://ieeexplore.ieee.org/abstract/document/8284055/
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Improving process portability through metrics and continuous inspection
+     Author ['J Lenhard']
+     Venue Advances in Intelligent Process-Aware Information …
+     Year 2017
+     Abstract DevOps is a term for another agile practice that aims at improving IT performance and is strongly related to continuous integration and delivery. It is currently receiving widespread attention and is increasingly adopted in practice [48]. Open image in new window Fig. 8.6. Fig. 8.6
+     Url https://link.springer.com/chapter/10.1007/978-3-319-52181-7_8
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title IMPROVING CONTINUOUS PRACTICES IN SYSTEM-ON-CHIP DEVELOPMENT
+     Author ['S Mustalahti']
+     Venue NA
+     Year 2019
+     Abstract Sami Mustalahti IMPROVING CONTINUOUS PRACTICES IN  i ABSTRACT Sami Mustalahti: Improving Continuous Practices in System-on-Chip Develop- ment Master of Science Thesis Tampere University Master's Degree Programme in Automation Engineering March 2019
+     Url https://trepo.tuni.fi/bitstream/handle/123456789/27344/Mustalahti.pdf?sequence=4
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Towards Automated Deployment of Self-adaptive Applications on Hybrid Clouds (Short Paper)
+     Author ['LM Hillah', 'R Assad', 'A Bertolino', 'M Delamaro']
+     Venue … and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 388-393 | Cite as  of cloud applications; (iii) how to combine the advantages of agile, flexible, and continuous integration, testing  The main solution of the aforementioned problems is the automation of DevOps jobs, in
+     Url https://link.springer.com/chapter/10.1007/978-3-319-66197-1_26
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Track Introduction–Doctoral Symposium 2018
+     Author ['AL Lamprecht']
+     Venue … on Leveraging Applications of Formal Methods
+     Year 2018
+     Abstract of this work is to integrate learning-based testing methods into DevOps toolchains for  and to explore ways that allow developers and testers to use continuous learning techniques  1. Lamprecht, A.-L. (ed.): Leveraging Applications of Formal Methods, Verification, and Validation
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_28
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Service Provider DevOps network capabilities and tools
+     Author ['R Steinert', 'W John', 'P Sköldström', 'B Pechenot']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract 3.4: SP-DevOps actions taken at the Service layer. The first step is to perform KQI-KPI translation which translates the SLA requirements into: 1) link and node resources constraints that can be used to assist the orchestration layer to fulfil a service request and 2) continuous
+     Url https://arxiv.org/abs/1510.02818
+
+
+     Search term "Continuous"+"DevOps"+"Formal+methods"
+     Title Cloud standards and the spectrum of development
+     Author ['A Sill']
+     Venue IEEE Cloud Computing
+     Year 2014
+     Abstract requires procedures that allow quick cycling and continuous integration be- tween the development and  To alleviate this shortcoming, we need to take a DevOps approach to bridge the gaps  References 1. C. Newcombe et al., “Use of Formal Methods at Amazon Web Services
+     Url https://ieeexplore.ieee.org/abstract/document/7036257/
+

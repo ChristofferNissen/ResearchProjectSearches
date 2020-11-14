@@ -1,0 +1,451 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Development of an automated test system for ECU software validation: an industrial experience
+     Author ['E Bagalini', 'M Violante']
+     Venue 2016 15th Biennial Baltic Electronics …
+     Year 2016
+     Abstract Software Validation: an Industrial Experience  industries is today putting significant efforts in guarantee the quality of ECU hardware/software, adopting best practice as those  side hard real-time models requires a high time precision which we obtained through custom FPGA code
+     Url https://ieeexplore.ieee.org/abstract/document/7743739/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Demo abstract: Closed-loop testing for implantable cardiac pacemakers
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the 10th ACM …
+     Year 2011
+     Abstract requirements or software verification standards are issued, a set of general guidelines for software  The VHM was implemented on a FPGA-based hardware platform and the  Center for Devices and Radiological Health, General Principles of Software Validation; Final Guidance
+     Url https://ieeexplore.ieee.org/abstract/document/5779074/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Programmable electronic mining systems: best practice recommendations (in nine parts): part 2, 2.1 System safety
+     Author ['JJ Sammarco', 'TJ Fisher']
+     Venue NA
+     Year 2001
+     Abstract PROGRAMMABLE ELECTRONIC MINING SYSTEMS: BEST PRACTICE RECOMMENDATIONS (In Nine Parts) Part 2: 2.1. System Safety  SOFTWARE PROGRAMMABLE ELECTRONICS (PE) HARDWARE (eg processors, PLC's) O UTP UT INTE RFAC ES DA CO NV ER TE RS
+     Url https://stacks.cdc.gov/view/cdc/44291
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Reqcap: Hierarchical requirements modeling and test generation for industrial control systems
+     Author ['A Almohammad', 'JF Ferreira']
+     Venue 2017 IEEE 25th …
+     Year 2017
+     Abstract This work was developed in an industrial context and captures best practice gathered by years of experience delivering real PLC- based projects. It puts together some features that facilitate the task of requirements engineers
+     Url https://ieeexplore.ieee.org/abstract/document/8054877/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Programmable electronic and hardwired emergency shutdown systems: a quantified safety analysis
+     Author ['JJ Sammarco']
+     Venue … IAS Annual Meeting. Conference Record of the …
+     Year 2005
+     Abstract The examples do not detail every task or process given by the best practice recommendations for  Safetyl PLC 1oo2D B 196.5 2.35 x 10-5  things such as software requirement specifications, software management of change procedures, and software verification and validation
+     Url https://ieeexplore.ieee.org/abstract/document/1518312/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual prototypes for software-dominated communication system designs
+     Author ['M Willems', 'F Schirrmeister']
+     Venue IEEE Communications Magazine
+     Year 2010
+     Abstract 40 than FPGA prototypes and is hence used mostly for low-level software validation, not actual soft  They run in real time, and most of the disadvantages of FPGA proto- types  creating an entirely new method- ology, a virtual prototype supports existing best- practice design, debug
+     Url https://ieeexplore.ieee.org/abstract/document/5473862/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Experience from hardware-in-the-loop testing of drilling control systems
+     Author ['T Pedersen', 'Ø Smogeli']
+     Venue SPE Drilling & Completion
+     Year 2013
+     Abstract In the automotive industry, the comprehensive HIL testing of electronic control units (ECUs) is “best practice” for both  Anti Collision System PLC Fig  and approved by an independent organization outside the develop- ment team.” The third-party software verification is performed
+     Url https://www.onepetro.org/journal-paper/SPE-163509-PA
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software debug in simulation and emulation environments for interface IP
+     Author ['C Wronka', 'J Kotas']
+     Venue Embedded Software Verification and Debugging
+     Year 2017
+     Abstract Embedded Software Verification and Debugging pp 19-45 | Cite as  The following steps were used to track the problem with FPGA)  The best practice is to set up a clean sandbos with a fully scripted path through the tests and a full control over external events (eg, avoid
+     Url https://link.springer.com/chapter/10.1007/978-1-4614-2266-2_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The MISRA C coding standard and its role in the development and analysis of safety-and security-critical embedded software
+     Author ['R Bagnara', 'A Bagnara', 'PM Hill']
+     Venue International Static Analysis Symposium
+     Year 2018
+     Abstract of Software Validation [43]. Today, the most authoritative language subset for the C programming language is MISRA C, which is the subject of the next section. 3 MISRA C. The MISRA project started in 1990 with the mission of providing world-leading best practice guidelines for
+     Url https://link.springer.com/chapter/10.1007/978-3-319-99725-4_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer Systems and Software Validation
+     Author ['J Fuge']
+     Venue Journal of Validation Technology
+     Year 2005
+     Abstract General Principles of Software Validation; Final Guidance  Good Laboratory Practice GMP Good Manufacturing Practice GPEA Government Paperwork Elimination Act HPLC High Performance Liquid Chromatography IRB Institutional Review Board PLC Programmable Logic
+     Url https://go.gale.com/ps/i.do?id=GALE%7CA138071055&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=10796630&p=AONE&sw=w
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software support for metrology interim status report on the flow area.
+     Author ['R Paton']
+     Venue NA
+     Year 1999
+     Abstract reports for the other metrology areas will provide the SSfM programme with further information and will help in the identification of best-practice to be  Validation of Simulated Instruments  Knowledge of PLC programming is generally low with some experts providing the support
+     Url http://eprintspublications.npl.co.uk/1254/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Utilizing multicore architectures to enhance software verification in real-time embedded systems
+     Author ['PJ Fogarty']
+     Venue NA
+     Year 2013
+     Abstract 11 Table 3: Software V&V activities proposed in IEEE Std 1012-2012 ..... 14 Table 4: Examples of low-level software verification activities ..... 14  FDA Food and Drug Administration FPGA Field Programmable Gate Array GPU Graphics Processing Unit
+     Url https://ulir.ul.ie/handle/10344/3602
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Parsimonious data: How a single Facebook like predicts voting behavior in multiparty systems
+     Author ['JB Kristensen', 'T Albrechtsen', 'E Dahl-Nielsen']
+     Venue PloS one
+     Year 2017
+     Abstract Data curation, Formal analysis, Investigation, Methodology, Project administration, Software, Validation, Visualization, Writing  and opinions on political issues developed based on current “best practice” within political  The x-axis shows party-like cap (PLC), which denotes how
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184562
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A comparison of process validation standards
+     Author ['J Boatman']
+     Venue Pharmaceutical Engineering
+     Year 2013
+     Abstract a firm takes, they can be confident that they are following an FDA-endorsed best practice  At the opposite extreme, a simple Programmable Logic Controller (PLC) that was coded specifically to  The exclusion of software validation from SG3/N99-10 does not itself prevent simple
+     Url https://qpharmacorp.com/wp-content/uploads/2016/03/13mj-boatman.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Cyber-Physical Labs to enhance engineering training and education
+     Author ['MEM García', 'AAC Pérez', 'ARI Alegría']
+     Venue International Journal on Interactive …
+     Year 2020
+     Abstract To remain successful in the market, or even to survive, companies must be able to innovate constantly and have best-practice procedures and top-of-the  Originally, its purpose was to allow debugging of control programing code on an actual programmable logic controller (PLC)
+     Url https://link.springer.com/article/10.1007/s12008-020-00704-6
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Effect of adjunctive pimavanserin on suicidal ideation in patients with major depression: Analysis of the CLARITY study
+     Author ['RC Shelton', 'M Fava', 'MP Freeman', 'ME Thase']
+     Venue Journal of affective …
+     Year 2020
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0165032720326574
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Counting on IT
+     Author ['J Moré']
+     Venue DIFFERENTIATION
+     Year 2010
+     Abstract of the DTI by NPL Management Limited, a wholly owned subsidiary of Serco Group plc  12, (test and measurement software), addresses the former, and Best Practice Guide No  We see software validation techniques as complementing but not replacing traditional MI validation
+     Url http://resource.npl.co.uk/docs/publications/newsletters/counting_on_it/issue14.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software testability, testing and verification in fiscal oil and gas flowmetering based on volume, density, temperature, and pressure measurements
+     Author ['KSP Mylvaganam']
+     Venue NA
+     Year 1997
+     Abstract Figure 3 The increasingcompetitiveness due to Software Best Practice  Software verification can be seen as the process that assesses the degree of “acceptability” of the software  Dr. C. Thinmrooran of Berkeley Technology Laboratories of the British Nuclear plc, Berkeley in the
+     Url https://www.osti.gov/etdeweb/biblio/20105158
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Ready for secure software: Secure Software Engineering for space missions
+     Author ['D Fischer', 'M Spada']
+     Venue Spaceops 2014 conference
+     Year 2014
+     Abstract SSE best practice dictates that security engineering must be considered in all phases of the life cycle of a project  level security objectives; • Iterative use of a cyber-security TRA in the product life cycle (PLC); • Security requirements  Software validation process, including security
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2014-1790
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Do safety cases have a role in aircraft certification?
+     Author ['S Linling', 'Z Wenjin', 'T Kelly']
+     Venue Procedia engineering
+     Year 2011
+     Abstract software verification, configuration management, software quality assurance etc  The traditional recommended safety assessment process is derived from industrial best practice and has been  G5 'Failure 1' transition of PLC state machine includes BUTTON_IN remaining true G7
+     Url https://www.sciencedirect.com/science/article/pii/S1877705811027202
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Developing semantics of Verilog HDL in formal compositional design of mixed hardware/software system
+     Author ['J Dimitrov']
+     Venue NA
+     Year 2002
+     Abstract within a formal system. There have been successful hardware/software verification efforts in academia and more recently in industry  FPGA FLASH  On the other hand, the shift between a Behavioural and RTL specification is normally underpinned by best practice and intuition
+     Url https://pdfs.semanticscholar.org/f96b/83d361776048bb850bb788f69bf30df762a4.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Measurement systems validation: validation of measurement software.(Software Support for Metrology Best Practice Guide No. 1)
+     Author ['BA Wichmann', 'RM Barker', 'MG Cox', 'PM Harris']
+     Venue NA
+     Year 2000
+     Abstract Software Brian Wichmann April 2000 Page 2. Page 3. Software Support for Metrology Best Practice Guide No. 1 Measurement System Validation: Validation of Measurement Software  10 Software Validation Techniques 41 10.1 Software inspection
+     Url http://eprintspublications.npl.co.uk/2741/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Mission assurance: beyond secure processing
+     Author ['M Vai', 'D Whelihan', 'J Leemaster']
+     Venue … on Software Quality …
+     Year 2018
+     Abstract this type of software verification can be trusted only if the hardware model underneath is  design approach distinguishes between design-for- hardening, which is to use best practice to eliminate  The mission-specific processor can be synthesized into either an FPGA or an ASIC
+     Url https://ieeexplore.ieee.org/abstract/document/8432032/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Os desafios do licenciamento de sistemas digitais de instrumentação e controle em Usinas Nucleares
+     Author ['TM Vital', 'RBN Vital']
+     Venue Revista …
+     Year 2019
+     Abstract Software verification process and methodology for development of FPGA-based engineered safety features system. Nuclear Engineering and Design, 330, 325-331. Rojo, FJR, Roy, E., Kelly, S. (2012). Obsolescence Risk Assessment Process Best Practice
+     Url http://editora.universidadedevassouras.edu.br/index.php/TECCEN/article/view/1329
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title ScalaLife–Scalable Software Services for Life Sciences
+     Author ['R Apostolov', 'H AGREN', 'L AXNER']
+     Venue … eChallenges e-2012 …
+     Year 2012
+     Abstract diversification of parallel hardware (clusters, multicore CPUs, GPGPU and FPGA accelerators, etc  LS applications efficiently on parallel resources, • benefit from the best-practice guides available  notable difficulties were related to the coordination of software validation by the
+     Url http://www.academia.edu/download/49202266/Scalable_Software_Services_for_Life_Scie20160929-31114-giuzzl.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Combining Model-Based Design (MBD) and Model-Based Testing (MBT) for early validation of embedded real-time systems
+     Author ['F Chastrette', 'F Vallée', 'L Coyette']
+     Venue Embedded Real Time …
+     Year 2014
+     Abstract the system is implemented in its final technology, appropriately qualified industrial automata (PLC's) in most  For example, IEC 60880 [12] requires such independence for software validation of Category A functions such  Early validation of requirements is a known “best practice”
+     Url https://hal.archives-ouvertes.fr/hal-02272230/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Cyber–physical modeling of implantable cardiac medical devices
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the IEEE
+     Year 2011
+     Abstract requirements or software verification standards are issued, a set of general guidelines for soft  An effective software verification methodology is therefore needed for the risk analysis and certification of  the heart on VHDL-based field-programmable gate array (FPGA) platform for
+     Url https://ieeexplore.ieee.org/abstract/document/5985460/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The industrial take-up of formal methods in safety-critical and other areas: A perspective
+     Author ['J Bowen', 'V Stavridou']
+     Venue International Symposium of Formal Methods …
+     Year 1993
+     Abstract systems do not have the familiarity to make full benefit of them." Martyn Thomas, Chairman, Praxis plc: "If you  or appendix so that it can be updated more frequently to reflect the latest available techniques and best practice  Guiho, G., Hennebert, C.: SACEM software validation
+     Url https://link.springer.com/chapter/10.1007/BFb0024646
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design and HIL simulations
+     Author ['T Kelemenová', 'M Kelemen', 'Ľ Miková']
+     Venue American Journal of …
+     Year 2013
+     Abstract tools can provide rapid prototyping, virtual functional verification, and software testing and hardware/software validation  When developing plant models, it is a best practice to start at a high  [8] MathWorks, Inc., “Evolution of model-based design in aerospace”, IML Group PLC
+     Url https://www.researchgate.net/profile/Erik_Prada/publication/259443931_Model_Based_Design_and_HIL_Simulations/links/00b7d52b9b17039938000000/Model-Based-Design-and-HIL-Simulations.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Dagstuhl Seminar on High Integrity Programmable Electronic Systems1
+     Author ['WJ Cullyer', 'WA Halang', 'BJ Krämer']
+     Venue NA
+     Year NA
+     Abstract thereby spanned several dimensions of computer and computing science including safety and fault tolerance strategies, formal methods, languages with high integrity fea- tures, human factors in risk reduction and program understanding, software verification, safety-oriented
+     Url https://www.dagstuhl.de/fileadmin/files/Reports/95/9509.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Third party HIL testing of safety critical control system software on ships and rigs
+     Author ['Ø Smogeli', 'T Augustson']
+     Venue International …
+     Year 2012
+     Abstract The hardware, typically comprised of PLC's or computers, I/O cards, network, and operator  industry, comprehensive HIL testing of Electronic Control Units (ECUs) is “Best Practice” for both  In the NASA IV&V Program, third party software verification is performed in parallel with
+     Url https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2012/44885/839/270042
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Efficiency comparison of airline groups in Annex 1 and non-Annex 1 countries: A dynamic network DEA approach
+     Author ['ET Losa', 'A Arjomandi', 'KH Dakpo', 'J Bloomfield']
+     Venue Transport Policy
+     Year 2020
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0967070X19309187
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Automation of industrial bioprocesses
+     Author ['W Beyeler', 'E DaPra', 'K Schneider']
+     Venue History of Modern Biotechnology II
+     Year 2000
+     Abstract market. This new device, called a programmable logic controller (PLC), not only replaced the relay logic controllers, but more importantly offered new functionality not yet realized with conventional analog controllers. These
+     Url https://link.springer.com/chapter/10.1007/3-540-44965-5_7
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Condensed Final Summary Report
+     Author ['GRS Martina Scheuerer', 'GM Andreani']
+     Venue NA
+     Year NA
+     Abstract Nuclear Research Institute Rez plc  2.1 Establishment of Best Practice Guidelines (WP 1) ....9 2.1.1 General Aspects  2.4.4 VAL04: Contact Condensation in Stratified Steam-Water Flow.....25 2.5 Software Validation (WP 5
+     Url https://pdfs.semanticscholar.org/e107/33b6f58e73c0e6096fe5fb4b000c5e9c19c6.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Write It Down: Guidance for Preparing Effective and Compliant Documentation
+     Author ['J Gough']
+     Venue NA
+     Year 2005
+     Abstract Group, the academic division of T&F Informa plc  manufacturer's instructions and the appropriate best practice guidelines  Validation and Qualification..... 230 Computer Software Validation.....230 Computer
+     Url https://books.google.com/books?hl=en&lr=&id=IiesCQAAQBAJ&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=xTDlgQ1wzz&sig=twDzw9944vbcg_yEhUH1zjSbBgg
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Fault handling in FPGAs and microcontrollers in safety-critical embedded applications: A comparative survey
+     Author ['F Salewski', 'A Taylor']
+     Venue 10th Euromicro Conference on Digital …
+     Year 2007
+     Abstract 3) Software Verification: According to [19], verification has become the bottle neck of the design process  com- pletely overwhelms the cost of their design and construction and software validation is a  in a single MCU, but to some instance on a single FPGA (electrical isolation
+     Url https://ieeexplore.ieee.org/abstract/document/4341459/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Mobile Programmable Radio Substrate for Any‐layer Measurement and Experimentation
+     Author ['KC Wang']
+     Venue NA
+     Year 2010
+     Abstract Matlab has been a popular environment/language as well for algorithm development and software verification  It may also be recommended as a best practice experimental setup to always pair an  Since these protocols will most suitably be implemented in the FPGA, it is
+     Url http://groups.geni.net/geni/raw-attachment/wiki/MPRADIO/MPRadio-whitepaper-v1.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Functional safety of smart instruments-a user perspective
+     Author ['TS Nobes']
+     Venue IEE Seminar on Is Your Product Safe?(Ref. No …
+     Year 2004
+     Abstract BNFL is committed to conform to national & international safety requirements and best practice. 4 How Does A SMART Instrument Work  Relay and TTL based ESD systems did not readily accept analogue signals. • Early PLC ESD systems did not accept analogue signals
+     Url https://ieeexplore.ieee.org/abstract/document/1514209/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded Systems Hardware/Software Co-Development
+     Author ['F Schirrmeister']
+     Venue Software Engineering for Embedded Systems
+     Year 2013
+     Abstract would be limited to the execution speed of emulation or FPGA-based prototyping  creating an entirely new methodology, a virtual prototype supports existing best-practice design, debug  models to generate stimulus for RTL verification – allows early software validation on the
+     Url https://www.sciencedirect.com/science/article/pii/B9780124159174000025
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The Application of BS IEC 61508 to Legacy Programmable Electronic System
+     Author ['HM Strong', 'DC Atkinson']
+     Venue Current Issues in Safety-Critical Systems
+     Year 2003
+     Abstract alarm or DCS (Distibuted control system) management. trending. fault diagnosis High complexity control. QA or safety systems PLC (Programmable logic controllers) Inputs and outputs Process plant Direct contact with plant \ - - - - items. and control of process and interlocks
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0653-1_14
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Foundational support systems of the smart grid: state of the art and future trends
+     Author ['A Bani-Ahmed', 'A Nasiri', 'I Stamenkovic']
+     Venue vol
+     Year 2018
+     Abstract 6 Control and Data Acquisition (SCADA) over wide area networks (WANs) IEC 62325 General guidelines regarding the  Software verification and validation  23] Nanoscale communications Power line communications [27] Development and adjustment of PLC solutions Power
+     Url https://pdfs.semanticscholar.org/4c20/e01d91751885980be9a4be285d1b98098ed0.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Smart Grid–A Survey on Current Research Publications and Application Projects
+     Author ['D Herges']
+     Venue Institute of Media Informatics Ulm University
+     Year 2011
+     Abstract is the establishment of a wide-spread power line communication (PLC) network, utilising  A best practice approach to obtain highly accurate timestamps and ensure precise clock synchronisation is to  The keying material can be used for software validation prior to running the
+     Url https://www.researchgate.net/profile/Florian_Schaub/publication/48410969_RTMI_11_-_Proceedings_of_the_Third_Seminar_Research_Trends_in_Media_Informatics/links/00463539b5605378c9000000/RTMI-11-Proceedings-of-the-Third-Seminar-Research-Trends-in-Media-Informatics.pdf#page=45
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Codesign experiences based on a virtual platform
+     Author ['B Bailey', 'G Martin']
+     Venue ESL Models and their Application
+     Year 2010
+     Abstract Virtual platforms should support existing best-practice design, debug, and verification processes for both  per second and an implementation on a Xilinx Virtex II-Pro FPGA [21] based  use this model for software performance analysis as well as for functional software verification
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-0965-7_7
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based enforcement of software compliance
+     Author ['T Dimitrakos', 'N Georgalas', 'F El-Moussa']
+     Venue US Patent App. 14 …
+     Year 2016
+     Abstract Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) British Telecommunications PLC Original Assignee British  Telecommunications PLC Priority date (The priority date is an assumption and is not a legal
+     Url https://patents.google.com/patent/US20160147518A1/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Key issues in the new knowledge management
+     Author ['JM Firestone', 'MW McElroy']
+     Venue NA
+     Year 2003
+     Abstract THE CONTEXT? 238 Best Practice: The Lack—of—Context Problem, 238 Knowledge Claims, 239 Metaclaims as Context, 241 A Better Way, 242 Metaclaims in Action, 245 Conclusion, 247 References, 248 Page 12. X CONTENTs
+     Url https://books.google.com/books?hl=en&lr=&id=zad0eXnJP5wC&oi=fnd&pg=PP2&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=cN8JQdvOkE&sig=-2dFdxqhQjOy24qjFY0mVqmRxUY
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A built-in testable architecture and design method for on-chip error correction circuits of embedded memories in VLSI/ASIC systems
+     Author ['L Cui']
+     Venue NA
+     Year 1994
+     Abstract Page 1. A Euilt-In Testable Architecture and Ðesign Vlethod for On-Chip Error Correction Circuits of Embedded Vfemories in VI-SVASIC Systems by Lianfa Cui A thesis presented to the University of Manitoba in partial fulfillment of the requirements for the degree of
+     Url https://mspace.lib.umanitoba.ca/bitstream/handle/1993/17890/Cui_A_built-in.pdf?sequence=1
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title International activities during the second SSfM programme, 2001-2004.
+     Author ['MG Cox', 'MJ Stevens']
+     Venue NA
+     Year 2004
+     Abstract In addition to the detailed technical work undertaken, support is given by organizing conferences and workshops, providing seminars and advice, undertaking case studies, publishing reports and best practice guides, and operating a club at which issues relating to mathematics
+     Url http://eprintspublications.npl.co.uk/2890/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Safety Analysis for Clinical Programming Software of Cochlear Implant System
+     Author ['P SEETHARAMAIAH', 'B UMAMAHESWARARAO']
+     Venue NA
+     Year NA
+     Abstract Impedance Telemetry Monitoring Systems (ITMS) is designed based on programmable logic device – FPGA( Field Programmable Gate Array). The identified hardware modules to develop FPGA based ITMS are FPGA module
+     Url http://www.ijics.com/gallery/1-july-727.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Empirical evaluations of safety critical embedded systems
+     Author ['F Salewski']
+     Venue NA
+     Year 2008
+     Abstract The most relevant of these open issues were evaluated for popular embedded hardware platforms (microcontroller, CPLD/FPGA)  The implementation of a transfer function that does not change during run time is generally easy to implement on an FPGA
+     Url http://137.226.34.227/Publications/AIB/2008/2008-18.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Systems Engineering Models: Theory, Methods, and Applications
+     Author ['AB Badiru']
+     Venue NA
+     Year 2019
+     Abstract of the Taylor & Francis imprint, a member of the Taylor & Francis Group, the academic division of T&F Informa, plc, 2019  Lead practitioner • Recognized, within the enterprise, as an authority in require- ments elicitation and management techniques, contributing to best practice
+     Url https://books.google.com/books?hl=en&lr=&id=evaODwAAQBAJ&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=ZoDXQzF0SC&sig=-MqaO-6-5mkxPGi9qgK0qLspMiA
+

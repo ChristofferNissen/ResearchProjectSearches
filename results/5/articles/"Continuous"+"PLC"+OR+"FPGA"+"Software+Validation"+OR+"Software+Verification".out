@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for programmable logic controllers
+     Author ['R Huuck']
+     Venue NA
+     Year 2003
+     Abstract ter 2. It includes and extensive overview of publications in the area of PLC (software) verification and points also to other software verification projects and  Specification Techniques in Engineering Appli- cations, LA 1012/6-1. 3DFG project Continuous-Dynamic Systems
+     Url https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00000726/d726.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract In order to demonstrate the basic mechanisms for using the proposed architecture for real-time PLC control software verification and validation  The Advanced Continuous Simulation Language is a specific language designed for modelling and performance evaluation of
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware
+     Author ['PD Faria']
+     Venue NA
+     Year 2017
+     Abstract Software and its engineering → Software creation and management → Software verification and validation;  API Application Programming Interface CI Continuous Integration CLI Command Line Interface CPU Central Processing Unit FPGA Field-programmable gate array
+     Url https://repositorio-aberto.up.pt/handle/10216/102620
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Real time dynamic simulation for control system software verification
+     Author ['R Bettendorf']
+     Venue NA
+     Year 2001
+     Abstract Software verification is the process of determining if a program will correctly meet it's specifications  Simulating the physical system in a discrete device like a PLC means that the  To make the physical system appear continuous to the control software, the integration algorithm
+     Url https://shareok.org/handle/11244/321820
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Advanced I&C systems for NPPS based on FPGA technology: European experience
+     Author ['I Bakhmach', 'V Kharchenko', 'A Siora']
+     Venue Proceedings of 17th …
+     Year 2009
+     Abstract information functions: – collection, transformation and visualization of values and condition of continuous and discrete input  results of integrated Nios software – verification results of integrated upper level software – verification results of integrated FPGA-projects – verification
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/304213648_Advanced_IC_Systems_for_NPPS_Based_on_FPGA_Technology_European_Experience/links/57d6cf0108ae5f03b494da6e/Advanced-I-C-Systems-for-NPPS-Based-on-FPGA-Technology-European-Experience.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling and verification of PLC-based systems programmed with ladder diagrams
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko', 'V Vyatkin']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The work (Heiner and Menzel, 1998) describes general steps for PLC software verification and validation that is  The possible approach to the problem is discretization of the continuous system behaviour. In general the problem of PLC-based system modelling can be split into
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361165
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those  The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations  Step C. (FPGA Implementation
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Interconnect resources testing and faults diagnosis in field programmable gate arrays
+     Author ['Y Liao', 'R Aiwu', 'W Yu', 'X Chuanyin']
+     Venue IEEE 2011 10th …
+     Year 2011
+     Abstract An in-house developed FPGA test system based on SOC hardware/software verification technology has been applied to test XC4000E  logic functions in FPGA, but with the scale of FPGA increasing, the proportion of IR in FPGA receives continuous improvement, even
+     Url https://ieeexplore.ieee.org/abstract/document/6037975/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and testing technique of FPGA-based critical systems
+     Author ['V Kharchenko', 'O Siora', 'V Sklyar']
+     Venue 2009 10th International …
+     Year 2009
+     Abstract Timing characteristics are specified as duration of entrance cycles of continuous and discrete  verification after each stage of development is obligatory for both FPGA and software  Software verification is a process aimed to confirm software compliance to defined requirements by
+     Url https://ieeexplore.ieee.org/abstract/document/4839839/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative. This will ensure that at the point |imc|, Lm(|imc|) = Ly(|imc|). For the FPGA implementation, (19
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbed for Model-based Verification of Cyber-physical Production Systems.
+     Author ['CJ Budnik', 'S Eckl', 'M Gario']
+     Venue ARCH@ CPSWeek
+     Year 2017
+     Abstract ARCH17. 4th International Workshop on Applied Verification of Continuous and Hybrid Systems G. Frehse and M. Althoff (eds.), ARCH17 (EPiC Series in Computing, vol  This makes PLC software verification as difficult as more traditional (eg, C) software verification problems
+     Url https://wvvw.easychair.org/publications/download/cssx
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA verification methodology for SiSoC based SoC design
+     Author ['X Huang', 'LT Liu', 'YJ Li', 'LC Liu']
+     Venue 2011 IEEE International …
+     Year 2011
+     Abstract controller, various writing and reading operations are done to the DDR2 memory; To verify the function of peripherals, continuous writing and  IV. HW/SW CO-VERIFICATION The best solution for hardware verification and software verification is to adopt FPGA prototyping to
+     Url https://ieeexplore.ieee.org/abstract/document/6117612/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Metso Paper, Inc.(Valmet)
+     Author ['R Bettendorf']
+     Venue … of the Sixth International Conference on …
+     Year 2002
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title STIMULUS SIGNAL GENERATION FOR FIELD PROGRAMMABLE GATE ARRAY-BASED GAMMA SPECTROSCOPY SYSTEM
+     Author ['NURAB ABD RAHMAN']
+     Venue NA
+     Year 2016
+     Abstract generates continuous ADC data to simulate actual nuclear counting process. These data will be used to verify the histogram/spectrum produced by MCA and to evaluate the overall performance of the MCA. To demonstrate the application of PulseGEN data, an FPGA based
+     Url http://psasir.upm.edu.my/id/eprint/69935/1/ITMA%202016%205%20IR.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Licensing principles of FPGA-based NPP I&C systems
+     Author ['A Siora', 'V Sklyar', 'Y Rozen']
+     Venue International …
+     Year 2009
+     Abstract and names of input and output signals and alteration limits of continuous input signals  other safety-critical functions in the form of “hard” logic (FPGA with implemented  for each algorithm), without software; – reducing time necessary for software verification; – performing parallel
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/267580129_Licensing_Principles_of_FPGA-Based_NPP_IC_Systems/links/57d6d20208ae601b39ac2223/Licensing-Principles-of-FPGA-Based-NPP-I-C-Systems.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of FPGA-digital based PID controller
+     Author ['M Kocur', 'S Kozak', 'B Dvorscak']
+     Venue Proceedings of the 2014 15th …
+     Year 2014
+     Abstract law and easy implementation in continuous-time or digital-time form into microcomputer, PLC or as  form of the used industrial controllers are of standard PID type (in continuous and/or  the blocks gateway in and gateway out algorithm performs as it was implemented on FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6843603/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Flight software verification methods in Frontier Radio for solar probe plus mission
+     Author ['K Kufahl', 'K Wortman', 'L Burke']
+     Venue 2017 IEEE …
+     Year 2017
+     Abstract The FPGA is loaded via the PC using a configuration file upon launch of the PC  in Section 2. This was the most formal portion of all radio flight software verification activities, in  Each test procedure also included a period of time used for sending continuous mode commands to
+     Url https://ieeexplore.ieee.org/abstract/document/7943883/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving the hardware complexity by exploiting the reduced dynamics-based fractional order systems
+     Author ['N Ullah', 'A Ullah', 'A Ibeas', 'J Herrera']
+     Venue IEEE Access
+     Year 2017
+     Abstract additional advantages. In this paper a fractional order model of a nonlinear system along with its controller design and its implementation on a field programmable gate array (FPGA) is undertaken as a case study. Overall three
+     Url https://ieeexplore.ieee.org/abstract/document/7927701/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test-Bed Infrastructure for Industrial Control Systems Validation
+     Author ['E Carpanzano', 'A Cataldo']
+     Venue Engineering …
+     Year 2006
+     Abstract Moreover for discrete events systems modelling and simulation time constants are used to represent physical time delays which should require continuous time transfer function  At first a rough control software validation has been carried out by connecting the PLC to the
+     Url https://asmedigitalcollection.asme.org/ESDA/proceedings-abstract/ESDA2006/42487/757/316117
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A model-based method to develop PLC software for machine tools
+     Author ['MF Zaeh', 'C Poernbacher', 'J Milberg']
+     Venue CIRP annals
+     Year 2005
+     Abstract They make it possible to specify continuous and discrete behavior characteristics (see section 3.2)  5 SOFTWARE VALIDATION AND OPTIMIZATION Until now, implemented PLC programs have usually been verified and optimized using an actual prototype of the machine
+     Url https://www.sciencedirect.com/science/article/pii/S0007850607601255
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title New methods of FPGA co-verification for system on chip (SoC)
+     Author ['L Yi-Fan', 'Z Xiao-Yang', 'W Min', 'C Jun']
+     Venue 2005 6th International …
+     Year 2005
+     Abstract techniques such as software static breakpoint monitoring and interrupt vectors remapping, the software verification is accelerated  Then FPGA verification becomes the only feasible solution  copy the data to the buffer) Table 3: Time-consuming statistics for continuous AES encrypt
+     Url https://ieeexplore.ieee.org/abstract/document/1611289/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A FPGA implementation of model predictive control
+     Author ['KV Ling', 'SP Yue', 'JM Maciejowski']
+     Venue 2006 American Control …
+     Year 2006
+     Abstract For software verification, the Handel-C code will be packaged into a DLL file and then be called by Simulink  TESTING THE FPGA-MPC ON AN AIRCRAFT EXAMPLE To verify our FPGA implementation, we tested it using the  It has the following continuous-time state space form
+     Url https://ieeexplore.ieee.org/abstract/document/1656502/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Advancing Medical Technology Using FPGAs
+     Author ['Z Olson']
+     Venue Frontiers in Biomedical Devices
+     Year 2010
+     Abstract The output signal can be a continuous or triggered event and change as the  guidelines, some designers have treated FPGAs as hardware, while others have gone through software validation  will touch on tools and best practices for testing and validating FPGA designs under
+     Url https://asmedigitalcollection.asme.org/BIOMED/proceedings-abstract/BIOMED2010/49453/55/227649
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Sound and automated synthesis of digital stabilizing controllers for continuous plants
+     Author ['A Abate', 'I Bessa', 'D Cattaruzza', 'L Cordeiro']
+     Venue Proceedings of the 20th …
+     Year 2017
+     Abstract Sound and Automated Synthesis of Digital Stabilizing Controllers for Continuous Plants∗  By combining state-of-the-art synthesis engines we present a tool that automatically generates digital controllers for a given continuous plant model that are correct by construc- tion
+     Url https://dl.acm.org/doi/abs/10.1145/3049797.3049802
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The FPGA prototyping implementation of LEON3 SoC
+     Author ['X Li', 'L Hou', 'S Geng', 'J Wang']
+     Venue … Conference on Industrial …
+     Year 2012
+     Abstract we need to prepare hardware logic in order to achieve continuous sending or  project team after compiling FPGA logic libraries, then completes the FPGA prototyping implementation  online debugging , and plantes a Linux OS, achieving hardware and software verification in the
+     Url https://ieeexplore.ieee.org/abstract/document/6322724/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking  never happens (indicated with capital S) or it can be a liveness property ensuring the continuous execution of the  5 Model checking textual PLC programs
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA virtual platform based on systemc and verilog
+     Author ['C Song', 'X Wu', 'Y Tao']
+     Venue MS&E
+     Year 2020
+     Abstract language and provide s an event-driven Simulation Kernel to schedule the execution order of various processes.Systemc's sc heduling algorithm idea is to divide continuous simulation time into  4. Software verification and Conclusion To verify the FPGA virtual platform
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072001/meta
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving the hardware complexity by exploiting the reduced dynamics based fractional order systems
+     Author ['AU NasimUllah', 'A Ibeas', 'J Herrera']
+     Venue NA
+     Year NA
+     Abstract additional advantages. In this paper a fractional order model of a nonlinear system along with its controller design and its implementation on a field programmable gate array (FPGA) is undertaken as a case study. Overall three
+     Url https://www.researchgate.net/profile/Jorge_Herrera_Cuartas/publication/316945784_Improving_the_Hardware_Complexity_by_Exploiting_the_Reduced_Dynamics-Based_Fractional_Order_Systems/links/5960020ba6fdccc9b1c4b479/Improving-the-Hardware-Complexity-by-Exploiting-the-Reduced-Dynamics-Based-Fractional-Order-Systems.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Improvements using a new blade gap measuring system for the plate mill trimming shear at Bhilai Steel Plant
+     Author ['R Kamal', 'RS Kumar', 'S Majumdar']
+     Venue Steel Times …
+     Year 2008
+     Abstract The system has been readily accepted by plant staff and has been in continuous use since its installation and commissioning in September 2004  SOFTWARE VALIDATION The PLC software was validated with respect to the manually measured values with an accuracy of
+     Url http://search.proquest.com/openview/14b693af11c56b63ca6fccafd8ba6c8f/1?pq-origsite=gscholar&cbl=1056347
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Objectives of integrated digital production engineering in the automotive industry
+     Author ['G Schmidgall', 'J Kiefer', 'T Bär']
+     Venue IFAC Proceedings Volumes
+     Year 2005
+     Abstract Non-redundant data management. • Continuous availability of up-to-date, consistent data sets. More information concerning this cross-functional integration concept and the resultant benefits can be taken from (Diedrich, 2005)  2.3 PLC software validation
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016374705
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A design methodology for power electronics digital control based on an FPGA in the loop prototyping
+     Author ['S Karimi', 'P Poure', 'Y Berviller']
+     Venue 2007 14th IEEE …
+     Year 2007
+     Abstract can be combined with Altera DSP Builder library blocks to create FPGA designs which  Builder “Hardware in the Loop” (HIL) block enables chip programming for experimental hardware– software validation  for the next steps, the system is first modelled in continuous-time mode
+     Url https://ieeexplore.ieee.org/abstract/document/4511088/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Field Programmable Gate Array Technology for NPP I&Cs
+     Author ['V Sklyar', 'A Andrashov', 'E Babeshko']
+     Venue Nuclear Power Plant …
+     Year 2014
+     Abstract As distinct from FPGA (segmented con- nections), CPLDs have a continuous system of  after each stage of devel- opment is obligatory for both FPGA electronic designs  Software verification is a process aimed to confirm software compliance to defined requirements by way of
+     Url https://www.igi-global.com/chapter/field-programmable-gate-array-technology-for-npp-ics/97152
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA Technology and Platforms for NPP I&C systems
+     Author ['A Kovalenko', 'I Babeshko', 'V Tokarev']
+     Venue Cyber Security and …
+     Year 2020
+     Abstract As distinct from FPGA (segmented connections), CPLDs have a continuous system of connections  verification after each stage of development is obligatory for both FPGA electronic designs  Software verification is a process aimed to confirm software compliance to defined re
+     Url https://www.igi-global.com/chapter/fpga-technology-and-platforms-for-npp-ic-systems/258688
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Soft-commissioning: hardware-in-the-loop-based verification of controller software
+     Author ['H Schludermann', 'T Kirchmair']
+     Venue … Proceedings (Cat. No …
+     Year 2000
+     Abstract Soft-Commissioning interacts with 'Discrete Event Simulators' (DES), while many HIL systems are based on continuous real-time  buffer from which one sequence element after the other is triggered to the input line of the PLC  Simulation System For Control Software Validation
+     Url https://ieeexplore.ieee.org/abstract/document/899889/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of a neighborhood search biogeography-based optimization trainer for classifying sonar dataset using multi-layer perceptron neural …
+     Author ['M Kaveh', 'M Khishe', 'MR Mosavi']
+     Venue Analog Integrated Circuits and Signal …
+     Year 2019
+     Abstract 6 Experimental results. Finally, after software verification, FPGA implementation of all stages is done. Xilinx Virtex7 and Kintex7 are used for this goal. In order to have similar results with the results obtained in Matlab, the processing
+     Url https://link.springer.com/article/10.1007/s10470-018-1366-3
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and analysis of video parallel processing on a hierachical multiprocessor system on FPGA
+     Author ['D Li', 'Y Hou', 'Z Huang', 'C Xiao']
+     Venue 2011 International Conference …
+     Year 2011
+     Abstract a Hierachical Multiprocessor System On FPGA  timing properties of video stream processing in the hierarchical system structure; and we also use Continuous Markov Chain  Abstraction [8] is modified by many scientists and used in the hardware and software verification of the
+     Url https://ieeexplore.ieee.org/abstract/document/5882114/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract program by NuSCRtoFBD, and also translated to a C program for PLC implementation by FBDtoC  Recent case studies in CVEC [82] and IST-FPGA [63] used the Example System III  It provides various solvers for modeling and simu- lating dynamic (ie, continuous) systems, and
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Towards Formal Validation of Automation Objects
+     Author ['V Vyatkin']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An SoC evaluation platform for dual link MIMO-OFDMA communications
+     Author ['YJ Wu', 'JM Lin', 'HY Yu', 'SC Liu']
+     Venue 2010 5th International …
+     Year 2010
+     Abstract The proposed SFBC decoder has a sequential and continuous output which is easy for any module to connect after it. Fig  After downloading the assembled bit stream to logic module. The FPGA emulation and software verification were proceeded simultaneously
+     Url https://ieeexplore.ieee.org/abstract/document/5684643/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA realization of line-interactive uninterruptible power supply
+     Author ['SJ Huang', 'CH Sun', 'TS Lee']
+     Venue The Fifth International Conference …
+     Year 2003
+     Abstract paper, the framework of FPGA-based hardware realization  l]. The UPS employs the rectifier and inverter plus backup batteries to provide continuous power to  Following the software verification of each submodule, the synthesis is then activated that will perform the translations
+     Url https://ieeexplore.ieee.org/abstract/document/1282857/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract program by NuSCRtoFBD, and also translated to a C program for PLC implementation by FBDtoC  Recent case studies in CVEC [82] and IST-FPGA [63] used the Example System III  It provides various solvers for modeling and simu- lating dynamic (ie, continuous) systems, and
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title High tech TBM for the Cairo Metro Line 3 phase 2 project
+     Author ['T Camus']
+     Venue NA
+     Year NA
+     Abstract Overall the hopper design allows a continuous flow of muck with minimal train moves  6) • Installation of other slurry equipment (slurry pumps, gate valves) • Ducting of slurry circuits • Reconfiguration of PLC software • Validation tests a) EPB configuration
+     Url https://www.researchgate.net/profile/Thomas_Camus/publication/224904580_High_tech_TBM_for_the_Cairo_Metro-Line_3_phase_2_project/links/545269f50cf2cf51647a421f/High-tech-TBM-for-the-Cairo-Metro-Line-3-phase-2-project.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Survey of Formal Verification in Mission-critical High-consequence Applications.
+     Author ['Y Hu', 'RC Armstrong']
+     Venue NA
+     Year 2011
+     Abstract FPGA Tool Equivalence Checker FPGA Tool FPGA Tool Figure 6. Design/verification flow provided by Cryptol  The overall process of this application is shown in Figure 7. Continuous software verification was made possible through a matrix development model [Tomayko96]
+     Url https://www.osti.gov/servlets/purl/1109051
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title … SENSATION TO THE DEAFENEDPERSON USING COCHLEAR IMPLANT SYSTEM WITH COMPUTERIZED FPGA SPEECH/SOUND PROCESSING UNIT
+     Author ['VH Kumar', 'P Seetharamaiah']
+     Venue International Journal of Information …
+     Year 2012
+     Abstract design described herein provides the means to develop and test 8 Channel CIS(Continuous Interleaved Sampling  The large electronic design automation (EDA FPGA test and verification tools  This may change, as the i in software verification, but for now, the prac latest patch
+     Url http://www.idc-online.com/technical_references/pdfs/information_technology/AUDITORY%20SENSATION.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA Implementation and Verification of Reed-Solomon (63, 47, 8) Code in SDR System
+     Author ['YH Chen', 'CL Chu', 'CC Yeh']
+     Venue 2012 Second International …
+     Year 2012
+     Abstract SOFTWARE VERIFICATION OF REED-SOLOMON CODES The error performance of RS codes  or sequential algorithm architectures in calculation processes and continuous modifications afterwards  RS hardware architecture is very high, LabView FPGA programming language
+     Url https://ieeexplore.ieee.org/abstract/document/6428862/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual Platforms Driving Software Quality in Pre-Silicon
+     Author ['AD Pulla']
+     Venue NA
+     Year NA
+     Abstract to be more agile, responding to the changing business needs and quality expectations by continuous feedback mechanisms in  There is also hybrid prototyping approach that connects virtual platform with FPGA-based prototypes for software validation and hardware
+     Url https://pdfs.semanticscholar.org/d93c/509453cb05c755a0f4a27ea7f44616b7472d.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of a neighborhood search biogeography-based optimization trainer for classifying sonar dataset using multi-layer perceptron neural …
+     Author ['M Kaveh', 'M Khishe', 'MR Mosavi']
+     Venue Analog Integrated Circuits and Signal …
+     Year 2019
+     Abstract 6 Experimental results. Finally, after software verification, FPGA implementation of all stages is done. Xilinx Virtex7 and Kintex7 are used for this goal. In order to have similar results with the results obtained in Matlab, the processing
+     Url https://link.springer.com/article/10.1007/s10470-018-1366-3
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Application of PLCs for nuclear plant emergency load sequencers
+     Author ['R Gonzalez', 'C Bible']
+     Venue Proceedings of SOUTHEASTCON'94
+     Year 1994
+     Abstract The sequencers also incorporate design features that allow continuous monitoring of critical  safety related systems and include the use of an Allen Bradley (AB) PLC  design of the sequencers include electromagnetic interference (EMI) and software validation and verification of
+     Url https://ieeexplore.ieee.org/abstract/document/324301/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title BEST PRACTICES FOR ARCHITECTING COTS-BASED EGSE
+     Author ['R Fiengo']
+     Venue NA
+     Year NA
+     Abstract Functional Engineering Simulator (FES); Functional Validation Testbench (FVT); Software Validation Facility (SVF  throughput because HITL and Hard Real- Time execution, continuous data streaming  PXI Express NI FlexRIO field-programmable gate array (FPGA) modules and
+     Url https://indico.esa.int/event/109/contributions/214/attachments/301/339/2089992_fiengo.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title GRANADA factored correlator model blockset verification using an FPGA-Based GNSS Receiver
+     Author ['T Peres', 'JS Silva', 'PF Silva']
+     Venue 2010 5th ESA Workshop …
+     Year 2010
+     Abstract a real hardware signal processing chain, up to the correlator outputs, implemented on an FPGA, in the  Keywords-GNSS; Receiver; Modelling; Simulation; Software; Validation  new GNSS signals (eg the modernized GPS and future Galileo signals) and the continuous search for
+     Url https://ieeexplore.ieee.org/abstract/document/5708035/
+

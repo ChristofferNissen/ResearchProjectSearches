@@ -1,0 +1,91 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing ICs: Getting to the core of the problem
+     Author ['BT Murray', 'JP Hayes']
+     Venue Computer
+     Year 1996
+     Abstract The article examines the market and technology trends affecting the testing of integrated circuits, with emphasis on the role of predesigned components-cores-and built in self test. We explain manufacturing testing, as opposed to design testing, which happens before
+     Url https://ieeexplore.ieee.org/abstract/document/544235/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Adaptable wafer probe assembly for testing ICs with different power/ground bond pad configurations
+     Author ['GL Small']
+     Venue US Patent 5,491,426
+     Year 1996
+     Abstract An adaptable probe card assembly for testing an IC die includes a probe card and a decoupling apparatus selectably mounted on the probe card. A different decoupling apparatus is used for each IC die to be tested having a different power and ground bond pad
+     Url https://patents.google.com/patent/US5491426A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Test Generation for Current Testing (CMOS ICs)
+     Author ['P Nigh', 'W Maly']
+     Venue IEEE Design & Test of Computers
+     Year 1990
+     Abstract Current testing is useful for testing CMOS ICs because it can detect a large class of manufacturing defects, including defects that traditional stuck-at fault testing misses. The effectiveness of current testing can be enhanced if built-in current sensors are applied on
+     Url https://ieeexplore.ieee.org/abstract/document/46891/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title High performance electron optical column for testing ICs with submicrometer design rules
+     Author ['J Frosien', 'E Plies']
+     Venue Microelectronic Engineering
+     Year 1987
+     Abstract An electron optical column has been developed, which is designed to meet the special requirements of electron beam testing for VLSI-ICs. With a spatial resolution of 0.1 μm at an electron acceleration voltage of 1 kV and a corresponding probe current of more than 2 nA
+     Url https://www.sciencedirect.com/science/article/pii/S0167931787800084
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Very-low-voltage testing for weak CMOS logic ICs
+     Author ['H Hao', 'EJ McCluskey']
+     Venue Proceedings of IEEE International Test …
+     Year 1993
+     Abstract In this paper we propose a very-low-voltage (VLV) testing technique for CMOS logic ICs. Voltage dependence of CMOS logic circuit operation in the presence of resistive shorts and hot carrier damage is studied. It is shown that at certain much-lower-than-normal power
+     Url https://ieeexplore.ieee.org/abstract/document/470686/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing oriented analysis of CMOS ICs with opens
+     Author ['W Maly', 'PK Nag', 'P Nigh']
+     Venue 1988 IEEE International Conference on …
+     Year 1988
+     Abstract In a typical approach to VLSI testing, open faults are modeled by the transistor-stuck-open fault model or are not explicitly covered at all. It is shown that functional faults caused by opens, ie by regions with missing material, cannot be modeled well by a transistor stuck
+     Url https://www.computer.org/csdl/proceedings-article/iccad/1988/00122525/12OmNxXl5Az
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Highly resilient cantilever spring probe for testing ICs
+     Author ['P Mai']
+     Venue US Patent 6,956,389
+     Year 2005
+     Abstract A probe has a cantilever arm coupled to a base via an anchor. A surface of the arm facing the base or a surface of the base facing the arm has steps with contact points that contact the base when the arm is depressed. Alternatively, the surface of the arm and/or the surface of
+     Url https://patents.google.com/patent/US6956389B1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Electrical characteristics and testing considerations for gate oxide shorts in CMOS ICs
+     Author ['CF Hawkins', 'JM Soden']
+     Venue inte
+     Year 1985
+     Abstract This paper examines the electrical characteristics and testing considerations of gate oxide shorts. Gate oxide shorts will cause increased IDD and in the majority of cases will degrade logic voltage levels and propagation delay times, but may not affect functionality. Stuck-at
+     Url https://ui.adsabs.harvard.edu/abs/1985inte.conf.....H/abstract
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Expeditious and low cost testing of RFID ICs
+     Author ['BA Kramer']
+     Venue US Patent 7,279,920
+     Year 2007
+     Abstract System and method for integrated circuit manufacturing. A preferred embodiment comprises transmitting a first set of data to integrated circuits (ICs) while they are in an on-wafer state and having each IC store the first set of data into memory, transmitting a second
+     Url https://patents.google.com/patent/US7279920B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing TSV-based three-dimensional stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2010 Design, Automation & Test in Europe …
+     Year 2010
+     Abstract To meet customer's product-quality expectations, each individual IC needs to be tested for manufacturing defects incurred during its many high-precision, and hence defect-prone manufacturing steps; these tests should be both effective and cost-efficient. The
+     Url https://ieeexplore.ieee.org/abstract/document/5457087/
+

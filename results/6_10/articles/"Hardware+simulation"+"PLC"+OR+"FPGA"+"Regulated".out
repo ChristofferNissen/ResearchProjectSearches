@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title PLC based intelligent traffic control system
+     Author ['MA Khattak']
+     Venue International Journal of Electrical & Computer Sciences …
+     Year 2011
+     Abstract Hardware simulation tests were successfully performed on the algorithm implemented into a PLC (programmable logic controller)  The T100MD2424+ PLC requires a single regulated, 12 to 24V (+/- 5% ripple) DC power supply for the CPU and I/Os (as shown in Figure 1). It is
+     Url https://www.academia.edu/download/53128853/110606-9494-IJECS-IJENS.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The output voltage vo has to be regulated at Vo_ref = 5 V. Switch SWR is used to put in parallel an additional resistor in order to generate step load changes. qc SW Vg + - D C vo + RC iL + - RL RO SWR RO - H⋅vo VSW ADC L RS RS d(n) FPGA CLK PLB Bus MicroBlaze®
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA based low power hardware for quality access control of compressed gray scale image
+     Author ['H Mandal', 'A Phadikar', 'GK Maity', 'TL Chiu']
+     Venue Microsystem Technologies
+     Year 2018
+     Abstract 7a, b, respectively. The FPGA implementation of 2D DCT/IDCT module is represented in terms of resource, speed and power consumption  Total process is regulated by cascading of two different FSM. The main control FSM and nested FSM for \( S3^{'} \ are depicted in Fig
+     Url https://link.springer.com/article/10.1007/s00542-018-3817-2
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA implementation of NN based LMS–LMF control algorithm in DSTATCOM for power quality improvement
+     Author ['S Malathi', 'J Jayachandran']
+     Venue Control Engineering Practice
+     Year 2020
+     Abstract direct or indirect current control techniques are implemented for reference current estimation and the DC bus voltage is regulated by a PI  On the contrary, in FPGA implementation, the circuit is reconfigured easily and fast prototyping is carried out using a hardware description
+     Url https://www.sciencedirect.com/science/article/pii/S0967066120300484
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title The use of FPGA in field-oriented control of an induction machine
+     Author ['Ö AKIN', 'I Alan']
+     Venue Turkish Journal of Electrical Engineering & …
+     Year 2010
+     Abstract The use of FPGA in field-oriented control of an induction machine  Abstract In this study, the feasibility of embedding the field oriented control (FOC) of an induction machine into field programmable gate arrays (FPGA) is investigated
+     Url https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=11262
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …
+     Year 2018
+     Abstract FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform  its effectiveness, results of the implementation and simulation of a regulated power converter  digital controller is coded using VHDL language then implemented in FPGA and the
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Modelling of Photovoltaic Systems for Real-Time Hardware Simulation
+     Author ['H Palahalli', 'Y Huo', 'G Gruosso']
+     Venue ELECTRIMACS 2019
+     Year 2020
+     Abstract Modelling of Photovoltaic Systems for Real-Time Hardware Simulation  Power will be compensated by the energy stored and the voltage is brought regulated  resistive load of 1 Ω is connected to the DC bus at 5 th s, the outputs are driven to the real world using FPGA IO and
+     Url https://link.springer.com/chapter/10.1007/978-3-030-37161-6_1
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Hardware in the loop simulation for tension leveler
+     Author ['A Bukvić', 'N Tošić', 'V Dimitrijević', 'M Bebić']
+     Venue NA
+     Year NA
+     Abstract Speed regulated drives receive linear velocity reference which is generated in PLC as a ramp and is sent in cascade  REALIZATION OF SIMULATION Hardware configuration of the PLC that controls tension leveler is emulated by dedicated hardware, Simulation Unit PN
+     Url http://www.empr.ftn.kg.ac.rs/test%20site/Radovi_TR33016/2016/M33%20IcETRAN%202016%20Bukvic/M33%20IcETRAN%202016%20Bukvic.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title Modeling and analysis of FPGA accelerators for real-time streaming video processing in the healthcare domain
+     Author ['S van der Vlugt', 'HA Ara', 'R de Jong', 'M Hendriks']
+     Venue Journal of Signal …
+     Year 2019
+     Abstract We provide two techniques to model the timing behavior of streaming applications on FPGA-based platforms  The second model uses a detailed hardware simulation to closely mimic the timing behavior of the applications on the platform
+     Url https://link.springer.com/content/pdf/10.1007/s11265-018-1414-3.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Regulated"
+     Title FPGA-based multiplier-less log-based hardware architectures for hybrid color image enhancement system
+     Author ['UA Nnolim']
+     Venue International Journal of Image and Graphics
+     Year 2017
+     Abstract 1750004-6 Page 7. FPGA-Based Multiplier-Less Log-Based Hardware Architectures  2,30 and a modified homomorphic filter that performs regulated dynamic range compression, contrast and edge enhancement while also preserving the color of the processed RGB image
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0219467817500048
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Ladder programs validation through model-code traceability
+     Author ['LR Sampaio', 'A Perkusich']
+     Venue 2011 IEEE International …
+     Year 2011
+     Abstract [9] L. Guo and A. Roychoudhury, “Debugging statecharts via model- code traceability,” in ISoLA, ser  [16] A. Sulflow and R. Drechsler, “Verification of PLC programs using formal proof techniques,” Formal Methods for Automation and Safety in Railway and Automotive
+     Url https://ieeexplore.ieee.org/abstract/document/5754386/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Design of signal control structures using formal methods for railway interlocking systems
+     Author ['O Eriş', 'I Mutlu']
+     Venue 2010 11th International Conference on Control …
+     Year 2010
+     Abstract Considering the design phase for each of the formal methods, similarly a state transition graph is created for all of  at finding the logical functions which will be the used for writing the PLC codes  Traceability of the prepared program in the commissioning phase is utterly important
+     Url https://ieeexplore.ieee.org/abstract/document/5707824/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract We discuss a traceability technique called hyper-requirements  This motivates our discussions of software composition and a new paradigm of "Domain Specific Formal Methods."  this paper has been supported in part (for J. Goguen) by British Telecommunications plc, the CEC
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract machinery ensures more and more safety functions using Safe Programmable Logic Controller (Safe-PLC)  In particular, the higher level SIL 4 recommends the use of formal methods to control  formal system engineering and taking into account the need for traceability of safety
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title System and method for verification and validation of redundancy software in plc systems
+     Author ['K Ji', 'Z Song']
+     Venue US Patent App. 13/415,897
+     Year 2012
+     Abstract requirements, design, implementation and integration). As described in detail below, formal methods (including, for example, model checking, traceability and the like) are used to verify the FSM of the PLC redundancy software
+     Url https://patents.google.com/patent/US20120246612A1/en
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal methods: Promises and problems
+     Author ['JA Goguen']
+     Venue IEEE Software
+     Year 1997
+     Abstract Page 1. feature Formal Methods: Promises and Problems Successfully applying formal  overcoming the problems that have hindered the use of formal methods thus far. LUQI Naval Postgraduate School JOSEPH A. GOGUEN University of California at San Diego
+     Url https://ieeexplore.ieee.org/abstract/document/566430/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal verification of complex properties on PLC programs
+     Author ['D Darvas', 'BF Adiego', 'A Vörös', 'T Bartha']
+     Venue … Conference on Formal …
+     Year 2014
+     Abstract 285 usually the result of a cooperation between a control engineer and a formal methods expert, with potential for misunderstanding  Page 12. Formal Verification of Complex Properties on PLC Programs 295 Traceability
+     Url https://link.springer.com/chapter/10.1007/978-3-662-43613-4_18
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Verification of PLC programs using formal proof techniques
+     Author ['A Sülflow', 'R Drechsler']
+     Venue FORMS/FORMAT
+     Year 2008
+     Abstract This mapping has the disadvantage that an extra variable for the PC is needed which makes the “traceability” harder  Automated formal verificaiton of PLC pro- grams written in IL  of Formal Methods for Automation and Safety in Railway and Automotive Systems (FORMS/FORMAT
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.500.8515&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Using formal methods in a retrospective safety case
+     Author ['LH Eriksson']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2004
+     Abstract During the requirement engineering process, care was taken to maintain traceability from individual requirements formulae back  Using Formal Methods in a Retrospective Safety Case  and in any case modern systems are typically based on computer (eg PLC) technology where
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30138-7_4
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Re- quirements traceability is useful as it allows linking require- ments as they evolve [30  and verification can be found in [9]. A semantic characterization of PLC programs based  friendly front-end specification languages that are aimed at making formal methods more accessible
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal methods applied to complex systems: implementation of the B method
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2014
+     Abstract CHAPTER 12. FEASIBILITY OF THE USE OF FORMAL METHODS FOR MANUFACTURING SYSTEMS  12.5.4. Generation of the code for the PLC and validation  12.6.4. Traceability of the requirements
+     Url https://books.google.com/books?hl=no&lr=&id=JDYWBAAAQBAJ&oi=fnd&pg=PP1&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=ROeC7Si1v6&sig=y2Jtzv3aVMxquatQvhXB0m2g7qI
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title An integrated environment of software development and V and V for PLC based safety-critical systems
+     Author ['SR Koo']
+     Venue NA
+     Year 2005
+     Abstract Software inspection and the analysis of requirements traceability are the most effective methods of software V and V. Although formal methods are also  study, a nuclear FED-style design specification and analysis (NuFDS) approach was proposed for PLC based safety
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:45043739
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal methods: industrial use from model to the code
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2013
+     Abstract Page 1. Formal Methods Industrial Use from Model to the Code Edited by Jean-Louis Boulanger ESIE @WILEY Page 2. Table of Contents Introduction Chapter 1. From Classic Languages to Formal Methods 1.1. Introduction 1.2. Classic development 1.3
+     Url https://books.google.com/books?hl=no&lr=&id=cCXN7qkYgGQC&oi=fnd&pg=PP8&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=jHgkwy9m8k&sig=5i1Jus1vB9TefjC87tqZnK2_-4A
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Industrial applications of formal methods to model, design and analyze computer systems
+     Author ['D Craigen', 'S Gerhart']
+     Venue NA
+     Year 2012
+     Abstract Page 1. Industrial Applications of |Formal Methods to Model, Design and Analyze Computer Systems An International Survey Dan Craigen Susan Gerhart Ted Ralston Page 2  1. Formal methods are maturing, slowly but steadily
+     Url https://books.google.com/books?hl=no&lr=&id=7b6GAAAAQBAJ&oi=fnd&pg=PP1&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=sfN6_B-yeR&sig=6ubK2ng7bKhlO8Ekj5QBddz9wNU
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title NuSEE: An integrated environment of software specification and V&V for PLC based safety-critical systems
+     Author ['SR Koo', 'PH Seong', 'J Yoo', 'SD Cha']
+     Venue Nuclear Engineering …
+     Year 2006
+     Abstract Thus far, most formal methods are so complex and hard to use that nuclear en  supports optimal V&V tasks for safetycritical systems based on PLC software language  For more efficient V&V, software requirements inspection, requirements traceability, and formal specification and
+     Url https://www.researchgate.net/profile/Poong_Seong/publication/228681552_NuSEE_an_integrated_environment_of_software_specification_and_VV_for_PLC_based_safety-critical_systems/links/00b7d53225d98372ed000000/NuSEE-an-integrated-environment-of-software-specification-and-V-V-for-PLC-based-safety-critical-systems.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A case for common-case: on FPGA acceleration of erasure coding
+     Author ['R Nakhjavani', 'J Zhu']
+     Venue … IEEE 25th Annual International Symposium on …
+     Year 2017
+     Abstract for Reliable Software at NASA's Jet Propulsion Laboratory, where he works on building and applying tools based on formal methods to improve  Many projects also suffer from a lack of good coding practice, poor traceability, and missing difficult-to-reproduce transient software
+     Url https://www.computer.org/csdl/proceedings-article/fccm/2017/07966654/12OmNyfdOVU
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title An approach using the B method to formal verification of PLC programs in an industrial setting
+     Author ['H Barbosa', 'D Déharbe']
+     Venue Brazilian Symposium on Formal Methods
+     Year 2012
+     Abstract Barbosa, H., Déharbe, D.: Formal Verification of PLC Programs Using the B Method  Abrial, JR: Formal methods in industry: achievements, problems, future  Ladenberger, L., Jastram, M.: Requirements Traceability between Textual Require- ments and Formal Models Using ProR
+     Url https://link.springer.com/chapter/10.1007/978-3-642-33296-8_4
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Means-ends and whole-part traceability analysis of safety requirements
+     Author ['JS Lee', 'V Katta', 'EK Jee', 'C Raspotnig']
+     Venue Journal of Systems and Software
+     Year 2010
+     Abstract an integrated environment of software specification and V&V for PLC based safety  TRACE: Traceability of Requirements for Analyzable Computerized Environments  system, software verification and validation, embedded system testing, formal methods, digital instrumentation
+     Url https://www.sciencedirect.com/science/article/pii/S0164121209002143
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Model checking as a service: towards pragmatic hidden formal methods
+     Author ['B Horváth', 'B Graics', 'Á Hajdu', 'Z Micskei']
+     Venue Proceedings of the 23rd …
+     Year 2020
+     Abstract This traceability model is also used for transforming the reachability property and back  multiple model checker back-ends via an intermediate rep- resentation for PLC codes  Formal methods are hidden by writing requirements using English sentence templates (to be translated to
+     Url https://dl.acm.org/doi/abs/10.1145/3417990.3421407
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title V&V Plan for FPGA-based ESF-CCS Using System Engineering Approach.
+     Author ['R Maerani', 'J Mayaka', 'M El Akrat']
+     Venue … Conference on Nuclear …
+     Year 2018
+     Abstract those that use object-orientation are referred to as 'object-oriented method' and those that use mathematics are referred to as 'formal methods'  [3] J. Yoo, JH Lee, and JS Lee, “A research on seamless platform change of reactor protection system from PLC to FPGA,” Nucl
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/962/1/012007/meta
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A Functional Verification Methodology for Highly Parametrizable, Continuously Operating Safety-Critical FPGA Designs: Applied to the CERN RadiatiOn Monitoring …
+     Author ['K Ceesay-Seitz', 'H Boukabache', 'D Perrin']
+     Venue International Conference on …
+     Year 2020
+     Abstract R. Formal methods  Forward and backward traceability between these artefacts is provided via functional coverage items. We applied our technique of NLPs [16] to aid the requirements review  We will further apply it to that system and use it for future FPGA or ASIC projects
+     Url https://link.springer.com/chapter/10.1007/978-3-030-54549-9_5
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title The role of formal methods in software development for railway applications
+     Author ['A Fantechi']
+     Venue Software Design and Development: Concepts …
+     Year 2014
+     Abstract not including formal methods can be chosen: for example, testing combined to full traceability to requirements  The Role of Formal Methods in Software Development for Railway Applications  or, equivalently) lad- der diagrams, which are interpreted either directly by a PLC or by
+     Url https://www.igi-global.com/chapter/content/77749
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A methodology for automatic generation, formal verification and implementation of safe PLC programs for power supply equipment of the electric lines of railway …
+     Author ['M Niang', 'B Riera', 'A Philippot', 'J Zaytoon', 'F Gellot']
+     Venue Computers in …
+     Year 2020
+     Abstract The reason is twofold: on the one hand formal methods proposed in the literature are based on modeling languages which are usually  However, practical experience of the PLC engineering shows that the major modifications are directly implemented within the PLC code and
+     Url https://www.sciencedirect.com/science/article/pii/S0166361520305625
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Study on Formal Methods Application in Airborne Electronic Hardware Design
+     Author ['P Wang', 'Y Tian']
+     Venue 2010 Second World Congress on Software …
+     Year 2010
+     Abstract Formal and Dynamic Verification,” which has shed a lot of light on today's use of formal methods  definition is to derive the detailed technical requirements, develop device specification, provide input for traceability report and update  Figure 1. ASCI/FPGA requirements definition
+     Url https://ieeexplore.ieee.org/abstract/document/5718406/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Requirements towards a formal specification language for PLCs
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue Proc. of the 22th PhD Mini …
+     Year 2015
+     Abstract Then, the specifications were assessed by developers not expert in formal methods and by  like formalism does not provide a convenient method for specifying PLC programs, eg  generation, expression of non-functional requirements, and for maintaining traceability links; not
+     Url https://www.researchgate.net/profile/Daniel_Darvas/publication/271850932_Requirements_towards_a_formal_specification_language_for_PLCs/links/54d4f4f90cf246475806ac87.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title F l M d li d V ifi ti f Formal Modeling and Verification of Safety-Critical Software implemented in PLC
+     Author ['J YOO']
+     Venue NA
+     Year NA
+     Abstract y ( y ) 3. Traceability Analysis  [6] Sungdeok Cha, “Pet Formalisms versus Industry-Proven Survivors: Issues on Formal Methods Education,” Journal of  [8] Junbeom Yoo, Sungdeok Cha, Chang Hwoi Kim, Duck Yong Song, “Synthesis of FBD-based PLC Design from NuSCR
+     Url http://dslab.konkuk.ac.kr/Class/2010/10RE/Presentation%20(1)%20-%20Software.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Principles of formal methods integration for development fault-tolerant systems: Event-B and FME (C) A
+     Author ['O Tarasyuk', 'A Gorbenko']
+     Venue MASAUM Journal of …
+     Year 2009
+     Abstract of applying FMEA-technique for large-scale systems and provides traceability of results of  with Event-B and the Rodin Platform,” in LNCS 4789 “Formal Methods and Software  and safety-related I&C systems, multi-version design technologies, software and FPGA-based systems
+     Url https://www.researchgate.net/profile/Anatoliy_Gorbenko/publication/242536703_Principles_of_Formal_Methods_Integration_for_Development_Fault-Tolerant_Systems_Event-B_and_FMECA/links/5970d205458515fa8de6e445/Principles-of-Formal-Methods-Integration-for-Development-Fault-Tolerant-Systems-Event-B-and-FMECA.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Software engineering methods for safe programmable logic controllers (SEMSPLC)
+     Author ['DJ Maisey', 'SJ Clarke']
+     Venue … in Software Engineering for PLC
+     Year 1993
+     Abstract to application domain definition/standardisation modularisation readable/understandable traceability checkable analysable  Despite deficiencies in the PLC programming language and its programming  approach would advocate that the use of formal methods provides the most
+     Url https://ieeexplore.ieee.org/abstract/document/274595/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal Methods Specification and Analysis Guidebook for the Verification of Software and Computer Systems Volume II: A Practitioner's Companion
+     Author ['JC Kelly']
+     Venue NA
+     Year 1997
+     Abstract l on Formal Methods . . . . 3.1.1.1 I,evcl of Requirenlents Capture . . . . . 3.1.1.2 Explicitness of Recluirenmnts Statement . . . . . 3.1.1.3 Clarity of Delineation between a System and Its Envi- ronulmt . . . . . 3.1.1.4 Traceability of Recluirements
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/22415/97-0902.pdf?sequence=1
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract Keywords: MBD; Formal methods; Safety analysis; PLC; FPGA; Digital I&C I. INTRODUCTION  program by NuSCRtoFBD, and also translated to a C program for PLC implementation by FBDtoC and a Ver- ilog program for FPGA implementation by FBDtoVerilog 2.0
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Software tests for model based applications in the automotive industry
+     Author ['AW Ordys', 'P Kock']
+     Venue NA
+     Year 2007
+     Abstract This prompts development of formal methods for software design and verification  point arithmetic, as this method of calculation of often used in automotive embedded computers (eg FPGA)  Therefore, the traceability is also discussed, with a mention of a model of an integrated
+     Url http://eprints.kingston.ac.uk/5154/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Specifying static analysis tools using formal methods
+     Author ['K Lano']
+     Venue Proceedings of First IEEE International Conference on …
+     Year 1995
+     Abstract was the need to treat extreme complexity in opera- tion specifications, which was not felt to be adequately treatable by less formal methods  Traceability of the system requirements through analysis to specification and code was considered im- portant in order to assist future
+     Url https://ieeexplore.ieee.org/abstract/document/479338/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Handbook of FPGA design security
+     Author ['T Huffmire', 'C Irvine', 'TD Nguyen', 'T Levin', 'R Kastner']
+     Venue NA
+     Year 2010
+     Abstract Page 1. led Huffmine Cynthia Irvine Thuy D. Nguyen Timothy Levin Ryan Kastner Timothy Sherwood Handbook of FPGA Design Security Page 2. Handbook of FPGA Design Security Page 3. Ted Huffmire Cynthia Irvine
+     Url https://books.google.com/books?hl=no&lr=&id=SeRsT62Qtd0C&oi=fnd&pg=PR7&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=cjpT4wnAbw&sig=32lfGExvBuedE2lc6Uf2z47itcs
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title VHDL guidance for safe and certifiable FPGA design
+     Author ['PM Conmy', 'C Pygott', 'I Bate']
+     Venue NA
+     Year 2010
+     Abstract of these suggestions, such as robust requirements and specification management and traceability, are standard  One issue of note is that the application of formal methods can be time consuming  effect that poorly designed VHDL can have on the final performance of the FPGA
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2010.0832
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Automated V&V for high integrity systems, a targeted formal methods
+     Author ['S Burton', 'J Clark', 'A Galloway', 'J McDermid']
+     Venue Lfm2000 …
+     Year 2000
+     Abstract included in the AdaTEST test results file and provides the traceability between any  these teclmiques we have identified the following generic process for applying formal methods to engineering  was funded by the High Integrity Systems and Software Centre, Rolls-Royce Plc
+     Url https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20000055716.pdf#page=138
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title The KNICS approach for verification and validation of safety software
+     Author ['KH Cha', 'HS Sohn', 'JS Lee', 'JY Kim', 'SW Cheon']
+     Venue Power
+     Year 2003
+     Abstract verification procedure includes the detailed checklists for software requirements traceability, correctness, consistency  design, implementation and integration of the POSAFE-Q PLC prototype, the  R&I) are representative and popular VV techniques and formal methods are being
+     Url https://www.kns.org/files/pre_paper/21/441%EC%B0%A8%EA%B2%BD%ED%98%B8.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Applying a formal method in industry: a 25-year trajectory
+     Author ['T Lecomte', 'D Deharbe', 'E Prun', 'E Mottin']
+     Venue … Symposium on Formal Methods
+     Year 2017
+     Abstract computation, smaller applications are generated for both programmable logic controllers (PLC) and PIC32  proof obligations (PO) contain traceability information (which parts of the B models  our experience, industry is not particularly interested in using formal methods except if it
+     Url https://link.springer.com/chapter/10.1007/978-3-319-70848-5_6
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Using Domain-Specific Modeling for Design and Verification of Cyber Physical Systems
+     Author ['JP Tolvanen']
+     Venue NA
+     Year 2016
+     Abstract Page 16. Generating the code from models PLC code Page 17. How to test a cooling system? 1. Design time  a) Metamodels 1) Meta- model Dev. 2) Diagram Dev. Formal methods analysis Test vector generation Requirement-to-test traceability 4) Analysis & Test Gen. Simulation
+     Url http://safety.addalot.se/upload/2016/PDF/Tolvanen_Using%20Domain-Specific%20Modeling%20for%20Design%20and%20Verification%20of%20Cyber%20Physical%20Systems.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Leveraging Applications of Formal Methods, Verification and Validation. Modeling: 8th International Symposium, ISoLA 2018, Limassol, Cyprus, November 5-9 …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Tiziana Margaria · Bernhard Steffen (Eds.) Leveraging Applications of Formal Methods, Verification and Validation Modeling 8th International Symposium, ISoLA 2018 Limassol, Cyprus, November 5–9, 2018 Proceedings, Part I 123 Page 2
+     Url https://books.google.com/books?hl=no&lr=&id=VVB1DwAAQBAJ&oi=fnd&pg=PR5&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=71H8i__Z-L&sig=AMDt820DrewJnhROFNStfvhWScg
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal Methods Applied to Complex Systems
+     Author ['JC Pomerol']
+     Venue NA
+     Year NA
+     Abstract 345 CHAPTER 12. FEASIBILITY OF THE USE OF FORMAL METHODS FOR MANUFACTURING SYSTEMS  366 12.5.4. Generation of the code for the PLC and validation  378 12.6.4. Traceability of the requirements
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119002727
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal verification integration approach for DSML
+     Author ['F Zalila', 'X Crégut', 'M Pantel']
+     Venue International Conference on Model Driven …
+     Year 2013
+     Abstract The application of formal methods (especially, model check- ing and static analysis techniques) for the verification of safety critical  Translational semantics Traceability models  as the target language for model transformations from different DSMLs such as AADL [11] or PLC [12]
+     Url https://link.springer.com/chapter/10.1007/978-3-642-41533-3_21
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Traceability Support for Modelling in the Design Process
+     Author ['J Ramsay', 'NO Bernsen']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Formal specification of safe manufacturing machines using the B method: application to a mechanical press
+     Author ['D Evrot', 'JF Petin', 'M Dominique']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract Improving automation software dependability: a role for formal methods  F., (2002) Coming and going from UML to B: a proposal to support traceability in rigorous IS  An algebraic approach for PLC programs verification, in proceedings of IFAC WODES'02, Zaragoza, Spain, 2- 4
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015358754
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title (An) integrated environment of software development and V&V for PLC based safety-critical systems= PLC 기반 필수안전시스템을 위한 소프트웨어 개발 및 확인검증 …
+     Author ['구서룡']
+     Venue NA
+     Year 2005
+     Abstract Software inspection and the analysis of requirements traceability are the most effective methods  Although formal methods are also considered an effective V&V activity, they are difficult to  design specification and analysis (NuFDS) approach was proposed for PLC based safety
+     Url https://koasas.kaist.ac.kr/handle/10203/48975
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Using a formal specification contractually
+     Author ["C O'Halloran", 'R Arthan', 'D King']
+     Venue Formal aspects of computing
+     Year 1997
+     Abstract thus facilitating technology transfer to the benefit of safety critical MoD projects and UK plc  in the development and application of techniques and tools supporting the use of formal methods  in the original development (at DERA's express request) to ensure the traceability of the
+     Url https://link.springer.com/article/10.1007/BF01211295
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Manufacturing plant control challenges and issues
+     Author ['G Morel', 'P Valckenaers', 'JM Faure', 'CE Pereira']
+     Venue Control Engineering …
+     Year 2007
+     Abstract Modern PLC and industrial PC designs support the deployment of multiagent systems developed in  Moreover, the customer calls for traceability as a basic product attribute  Johnson addresses in this special issue the role of formal methods in improving automation software
+     Url https://www.sciencedirect.com/science/article/pii/S096706610700113X
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Using multiple processors in a single reconfigurable fabric for high-assurance applications
+     Author ['B Newgard', 'C Hoffman']
+     Venue 2010 IEEE International Symposium …
+     Year 2010
+     Abstract Consistency and Traceability are the highest priority of the system architect in the world of  well defined security policies and intensive evaluation that is verified through formal methods including formal  With two processors in a single FPGA the system architect has the unique
+     Url https://ieeexplore.ieee.org/abstract/document/5513120/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Model-checking based verification approach for advanced industrial automation solutions
+     Author ['M Mazzolini', 'A Brusaferri']
+     Venue 2010 IEEE 15th …
+     Year 2010
+     Abstract design approaches based on formal reference models and international standards have to be introduced, to specify complex automation systems in an easy and safe way, to maintain traceability along the  [5] G. Frey, L. Litz, Formal Methods in PLC Programming, Proceedings
+     Url https://ieeexplore.ieee.org/abstract/document/5641209/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Model checking of safety-critical software in the nuclear engineering domain
+     Author ['J Lahtinen', 'J Valkonen', 'K Björkman', 'J Frits']
+     Venue Reliability Engineering & …
+     Year 2012
+     Abstract Digital programmable logic controllers (PLC) enable sophisticated control tasks which sets high requirements for  For this reason, in safety-critical applications the use of formal methods based on  is in principle quite simple if the created model supports traceability, ie supports
+     Url https://www.sciencedirect.com/science/article/pii/S0951832012000555
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Traceability"
+     Title High assurance programming in Cryptol
+     Author ['L Erkök', 'J Matthews']
+     Venue Proceedings of the 5th Annual Workshop on Cyber …
+     Year 2009
+     Abstract Use mathematical models to enable tractable analysis ● Executable models and formal methods ● A model is an abstraction that allows  Automated Synthesis down to FPGA (and working on C) • Algebraic rewrite-based compilation • Traceability back to specification
+     Url https://dl.acm.org/doi/abs/10.1145/1558607.1558676
+

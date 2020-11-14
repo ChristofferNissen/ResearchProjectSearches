@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Method and system for performing software verification
+     Author ['JR Andrews']
+     Venue US Patent 8,930,912
+     Year 2015
+     Abstract Instead, the testing occurs in a deterministic way that allows the software engineer to maintain observability and repeatability of the software being  This invention can be applied to many areas of software verification both for stimulus generation such as in calling a software API
+     Url https://patents.google.com/patent/US8930912B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title GPS receiver simulation and software verification
+     Author ['JD Holmes', 'SR Budde']
+     Venue NA
+     Year 1980
+     Abstract GPS RECEIVER SIMULATION AND SOFTWARE VERIFICATION  bed was being built and tested, and (2) a convenient approach for testing new algorithms  This interactive software development simulator was created by surrounding the hardware simulation software and the
+     Url https://repository.arizona.edu/handle/10150/614357
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software verification of a virtual development environment for embedded software
+     Author ['F Hidayat', 'H Satria', 'JB Kwon']
+     Venue … of the 9th WSEAS international conference …
+     Year 2010
+     Abstract Page 1. Software Verification of a Virtual Development Environment for Embedded Software FEBIANSYAH  needed. Key-Words: - Embedded Software, Hardware Simulation, SID, Virtual Component  There are five target programs used for testing. Description
+     Url http://www.wseas.us/e-library/conferences/2010/Cambridge/SEPADS/SEPADS-19.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing: 6th International Haifa Verification Conference, HVC 2010, Haifa, Israel, October 4-7, 2010. Revised …
+     Author ['S Barner', 'I Harris', 'D Kroening', 'O Raz']
+     Venue NA
+     Year 2011
+     Abstract Ian Harris Daniel Kroening Orna Raz (Eds.) Hardware and Software: Verification and Testing  such as dynamic and formal hardware verification or formal analysis with software testing  The debugging session took examples from hardware simulation, static analysis, software, pre
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-19583-9.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The use of a virtual system simulator and executable specifications to enhance software validation, verification, and safety assurance
+     Author ['P Wennberg', 'T Bennett']
+     Venue NA
+     Year 2004
+     Abstract Software Validation, Verification, and Safety Assurance  the viability of maintaining test consistency following substitution of a detailed hardware simulation running actual  use of external test equipment and/or the scheduling of integration test facility time for software verification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.116.1009&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An Efficient Approach to Software Validation
+     Author ['S Ekholm', 'S Mejnertsen', 'K Hjortnaes']
+     Venue On-board Real-time …
+     Year 1996
+     Abstract implement the low-level whereas that in SOHO is implemented on the hardware simulation (or emulation  It is therefore important to concentrate the testing effort on areas that are particular  Moreover, the ISV should be seen as a supplement to the software validation performed in
+     Url http://adsabs.harvard.edu/full/1996ESASP.375..155E
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software and hardware simulation
+     Author ['AM Nightingale', 'AC Bruce']
+     Venue US Patent 7,366,650
+     Year 2008
+     Abstract hardware verification is done by simulation, however, until recently, efficient software verification has had  driven from the test controller which is already controlling the hardware simulation stimulation in  that their rapid co-verification and removal from the design testing needs of
+     Url https://patents.google.com/patent/US7366650B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract The results show that use of a reference implementation, hardware simulation with fault injection, a testable design  mis- sions, with the goal of using the full array of available software verification and validation technologies — ran- domized testing, runtime monitoring
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Collaborative verification and testing platform for NoC-based SoC
+     Author ['Y Zhang', 'N Wu', 'F Ge', 'X Chen']
+     Venue … World Congress on …
+     Year 2015
+     Abstract be transmitted to the testing platform by certain interfaces to reconstruct NoC, meanwhile the hardware simulation results can  The software validation environment in Fig  The input files of software verification platform include the test data files and hardware description files of NuT
+     Url https://pdfs.semanticscholar.org/7877/00f975974b1be7a19fa1825bf974bb20032b.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Property-based testing for LG home appliances using accelerated software-in-the-loop simulation
+     Author ['M Park', 'H Jang', 'T Byun', 'Y Choi']
+     Venue Proceedings of the ACM/IEEE 42nd …
+     Year 2020
+     Abstract One of the most critical bottlenecks in integration testing was that the home  This was because we were not equipped with the domain-specific hardware simulation for home  to create an undesir- able pressure to sacrifice the thoroughness of software verification because, when
+     Url https://dl.acm.org/doi/abs/10.1145/3377813.3381346
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Method for computer system development verification and testing using portable diagnostic/testing programs
+     Author ['SSK Pullela']
+     Venue US Patent 5,363,501
+     Year 1994
+     Abstract Emulation process having several displayed input formats and output formats and windows for creating and testing computer systems. US5022028A (en) *, 1988-03-30, 1991-06-04, Elverex Limited, Software verification apparatus
+     Url https://patents.google.com/patent/US5363501A/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title SimSoC: A SystemC TLM integrated ISS for full system simulation
+     Author ['C Helmstetter', 'V Joloboff']
+     Venue APCCAS 2008-2008 IEEE Asia …
+     Year 2008
+     Abstract the simulation must be fast enough for interactive testing and fast software verification cycles  low level of hardware detail (cycle accurate) is much too slow for software testing  is developing a framework geared towards full system simulation, mixing hardware simulation and one
+     Url https://ieeexplore.ieee.org/abstract/document/4746381/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title System and method for simulation of integrated hardware and software components
+     Author ['MR Pauna']
+     Venue US Patent 6,052,524
+     Year 2000
+     Abstract 5,544,067, by Rostoker et al; "Hardware Simulation and Design Verification System and Method," US Pat  For example, if hardware-software verification system 10 is being used on a computer running  and the off-chip ROM can be modified by a debugger for testing purposes, but
+     Url https://patents.google.com/patent/US6052524A/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems. The embedded processor core, peripherals, and the power converter model are all implemented into the same FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Real-time co-simulation platform for electromechanical vehicle applications
+     Author ['A Popp', 'M Sarrazin']
+     Venue … on advanced topics …
+     Year 2015
+     Abstract Finally, detailed result Model-in-the-loop (MiL) and a Hardware- simulation  Simulations (AMESim) for the control or an imported S Simulink by exporting AMESim m “virtual” real-time environment or this phase are the testing of algori software validation for enabling the real
+     Url https://ieeexplore.ieee.org/abstract/document/7133772/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A partially automated HiL test environment for model-based development using Simulink® and OPC technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue 2011 XXIII …
+     Year 2011
+     Abstract paper is concerned with the design procedures of an automated testing tool, developed in Matlab®/Simulink® environment, that performs software verification during runtime  system requirements and to test its behaviour during real- time hardware simulation, in order
+     Url https://ieeexplore.ieee.org/abstract/document/6102112/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Application of co-verification tools to the testing of IC designs
+     Author ['CA Whitehill']
+     Venue US Patent 6,842,883
+     Year 2005
+     Abstract on hardware simulator 12 to provide test stimuli 26 to IC design 10 through a hardware simulation of system  Method and system for performing software verification  US4907230A (en), 1990-03-06, Apparatus and method for testing printed circuit boards and their components
+     Url https://patents.google.com/patent/US6842883B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Approach to the use of simulated Software Test Bench in integration test of flight software
+     Author ['C Koo', 'S Lee']
+     Venue INTELEC 2009-31st International …
+     Year 2009
+     Abstract So, testing on the simulation test bench does not replace all testing phases of  CONCLUSION In this paper, an approach for flight software validation using by simulated Software Test  Hardware simulation is a highly effective technique for managing Software Test Bed using by
+     Url https://ieeexplore.ieee.org/abstract/document/5352077/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware verification using software analyzers
+     Author ['R Mukherjee', 'D Kroening']
+     Venue 2015 IEEE Computer …
+     Year 2015
+     Abstract Software Verification Algorithms  A. Symbolic Hardware Simulation and Software Execution Symbolic simulation of hardware designs aims to replace multiple simulation runs  In the case of software, symbolic execution is a combi- nation of traditional program testing together with
+     Url https://ieeexplore.ieee.org/abstract/document/7308670/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The Expanded Reach of Simulation Based Aircraft System Verification and its Software Capability Requirements
+     Author ['SC James', 'C Savaglio']
+     Venue AIAA Modeling and Simulation Technologies …
+     Year 2014
+     Abstract of the EEC, running real airborne software, to perform dynamic software verification testing • Iron Bird  a new category of hardware-in-the-loop (HIL) simulation testing facilities dedicated  Aircraft Power Hardware Simulation Based Facility Over the past decade, the aircraft industry
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2014-2081
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Method for co-verifying hardware and software for a semiconductor device
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake', 'T Kowatari']
+     Venue US Patent …
+     Year 2006
+     Abstract G01R31/28—Testing of electronic circuits, eg by signal tracer; G01R31/317—Testing of digital circuits; G01R31/3181—Functional testing; G01R31/3183  3 compared with the method that uses the prior art ISS, and a speedup of simulation for hardware/software verification is thus
+     Url https://patents.google.com/patent/US7155690B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title System-level verification-a comparison of approaches
+     Author ['R Turner']
+     Venue Proceedings Tenth IEEE International Workshop on …
+     Year 1999
+     Abstract With working diagnostics you can do focussed testing of specific parts of  level verification for a project, and specifically of including software verification, is the  Bibliography [1] Software Development in a Hardware Simulation Environment, Benny Schnaider, MayaLee Consulting
+     Url https://ieeexplore.ieee.org/abstract/document/779046/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent …
+     Year 2020
+     Abstract 2 illustrates an example distributed architecture 200 of a software verification service 142, in accordance  For example, in the days before a product release, testing may be intense  etc.), software (eg, instructions run on a processing device to perform hardware simulation), or a
+     Url https://patents.google.com/patent/US10664379B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Re-useable hardware/software co-verification of IP blocks
+     Author ['A Bruce', 'J Goodenough']
+     Venue … ASIC/SOC Conference (IEEE Cat. No …
+     Year 2001
+     Abstract Most hardware verification is done by simulation, however, until recently, efficient software verification has had  These have always provided good links to hardware simulation environments  to access the state of the processor then a range of software validation techniques would
+     Url https://ieeexplore.ieee.org/abstract/document/954737/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Mission critical software test philosophy a SILS based approach in Indian Mars Orbiter Mission
+     Author ['SS Shankar', 'K Desai', 'S Dutta']
+     Venue … and Informatics (IC3I …
+     Year 2014
+     Abstract siLs could ma ea phase shift in traditional process sequence by coYextending software validation activities along  This artifact is considered to be the starting рoint or рrerequisite for siLs testing  C. MOM specific hardware simulation logics at layer 5 1) Data pool configurations
+     Url https://ieeexplore.ieee.org/abstract/document/7019637/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An efﬁcient approach to software validation
+     Author ['S Ekholm', 'S Mejnertsen', 'K Hjortnaas', 'R Totaro']
+     Venue NA
+     Year NA
+     Abstract required, then a logical split would be to implement the low-level hardware simulation (or emulation  It is therefore important to concentrate the testing effort on areas that are particular  Moreover, the ISV should be seen as a supplement to the software validation performed in the
+     Url https://www.researchgate.net/profile/Luca_Stagnaro/publication/234426791_An_Efficient_Approach_to_Software_Validation/links/00b7d52a6fd82ed309000000.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An FPGA-based verification framework for real-time vision systems
+     Author ['G van der Wal', 'F Brehm', 'M Piacentino']
+     Venue 2006 Conference on …
+     Year 2006
+     Abstract The framework benefits from hard- ware and software verification, ease of reconfiguration for testing multiple  A crosspoint testbench is the environment used for regression testing of individual  The hardware simulation loads the initial memory images at the beginning of a run
+     Url https://ieeexplore.ieee.org/abstract/document/1640568/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title System and method for testing parameterized logic cores
+     Author ['R Stamm', "M O'connor", 'C Brotelande']
+     Venue US Patent 7,024,345
+     Year 2006
+     Abstract US20090320002A1 (en) *, 2008-06-20, 2009-12-24, Cadence Design Systems, Inc. Method and system for testing and analyzing user interfaces  Methods, systems, and articles of manufacture for synchronizing software verification flows
+     Url https://patents.google.com/patent/US7024345B1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and software co-verification employing deferred synchronization
+     Author ['B Bailey']
+     Venue US Patent 6,356,862
+     Year 2002
+     Abstract Prior art synchronization strategies typically require either verifications to be performed in locked step, resulting in substantial degradation in software verification performance, or employ roll back mechanism, which imposes significant memory hardware burden on the co
+     Url https://patents.google.com/patent/US6356862B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Method and apparatus for testing a logic design of a programmable logic device
+     Author ['EG Fleisher']
+     Venue US Patent 6,016,563
+     Year 2000
+     Abstract Certain hardware simulation systems have proven susceptible to latent flaws in the electronics for stimulating the target device and analyzing its  Other testing approaches, such as JTAG, have included designing extra circuitry into a logic device specifically for testing purposes
+     Url https://patents.google.com/patent/US6016563A/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware/software co-verification method
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake']
+     Venue US Patent App. 10 …
+     Year 2005
+     Abstract G—PHYSICS; G01—MEASURING; TESTING; G01R—MEASURING ELECTRIC VARIABLES; MEASURING MAGNETIC VARIABLES; G01R31/00—Arrangements for testing electric properties; Arrangements for locating electric faults; Arrangements for electrical testing
+     Url https://patents.google.com/patent/US20050149897A1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Specifications and programs for computer software validation
+     Author ['JC Browne', 'R Kleir', 'T Davis', 'M Henneman', 'A Haller']
+     Venue NA
+     Year 1973
+     Abstract Objective The Software Validation Complex (SVC) is a tool designed for enhancing the reliability and performance characteristics of a  counter often serves to represent the aggregate of all conditional testing previously performed. That is, since the program is executing
+     Url https://ntrs.nasa.gov/search.jsp?R=19740013718
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Haifa verification conference 2007
+     Author ['K Yorav']
+     Venue NA
+     Year 2009
+     Abstract While these ideas were conceived in the context of hardware simulation, it is quite possible that  a model of the system being tested, and this model is used to drive further testing. Exploiting Shared Structure in Software Verification Con- ditions by Domagoj Babic and Alan J. Hu
+     Url https://link.springer.com/article/10.1007/s10009-009-0116-3
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Embedded software debug in simulation and emulation environments for interface IP
+     Author ['C Wronka', 'J Kotas']
+     Venue Embedded Software Verification and Debugging
+     Year 2017
+     Abstract Embedded Software Verification and Debugging pp 19-45 | Cite as  2.1 Diagram showing a generic hybrid hardware simulation or emulation environment with a TLM part including the  allows to test the generic system use cases or replicate problems found during FPGA testing
+     Url https://link.springer.com/chapter/10.1007/978-1-4614-2266-2_2
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Partitionless Multi User Support For Hardware Assisted Verification
+     Author ['K Suresh', 'CW Selvidge']
+     Venue US Patent App. 13/875,267
+     Year 2014
+     Abstract 8. The computer-implemented method recited in claim 4 , further comprising initiating multiple hardware assisted software verification processes on selected ones of the multiple electronic designs using a regression testing methodology
+     Url https://patents.google.com/patent/US20140032204A1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Interactive automatic-test GUI for testing devices and equipment using shell-level, CLI, and SNMP commands
+     Author ['P Narayan', 'D Goradia', 'CN Jha', 'R Duvur']
+     Venue US Patent …
+     Year 2006
+     Abstract US7010782B2 - Interactive automatic-test GUI for testing devices and equipment using shell-level, CLI, and SNMP commands - Google Patents. Interactive automatic-test GUI for testing devices and equipment using shell-level, CLI, and SNMP commands. Download PDF Info
+     Url https://patents.google.com/patent/US7010782B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A HiL test bench for verification and validation purposes of model-based developed applications using Simulink® and OPC DA technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue … on Electrical and …
+     Year 2011
+     Abstract over the last years their major responsibility and work on software verification and testing  SiL Testing: This is an intermediate testing approach performed between the MiL and  auto-generated software before integration into any target hardware or real- time hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6140141/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software in the loop simulation for robot Manipulators
+     Author ['MB Ayed', 'L Zouari', 'M Abid']
+     Venue Engineering, Technology & Applied Science …
+     Year 2017
+     Abstract Simulation results prove the rapidity and the good performance of the developed code for  87–98, 1997 [21] SM Shah, M. Irfan, “Embedded hardware/software verification and validation  M. Muresan, D. Pitica, “Software in the loop environment reliability for testing embedded code
+     Url http://www.etasr.com/index.php/ETASR/article/view/1285
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Requirement driven interoperability/compliance testing systems and methods
+     Author ['F Perron', 'S Gauthier']
+     Venue US Patent 7,757,121
+     Year 2010
+     Abstract US7757121B1 - Requirement driven interoperability/compliance testing systems and methods - Google Patents. Requirement driven interoperability/compliance testing systems and methods. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US7757121B1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Multi-level educational experiment in distributed simulation
+     Author ['C Turnitsa']
+     Venue Proceedings of the Winter Simulation Conference …
+     Year 2014
+     Abstract and Analysis • Parallel and Distributed Simulation • Scheduling Network Analysis Models • Factory Physics • Applied Stochastic Operations Research Models • Software Requirements and Specification • Software Verification, Validation and Testing • Hardware Description
+     Url https://ieeexplore.ieee.org/abstract/document/7020193/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Integrated testcase language for hardware design verification
+     Author ['F Armbruster', 'S Koerner', 'K Rebmann']
+     Venue US Patent App. 10/125,308
+     Year 2002
+     Abstract theoretically adapted to yield hardware verification results which are significant for a given hardware simulation situation, a  Method and system for testing and analyzing user interfaces  Methods, systems, and articles of manufacture for synchronizing software verification flows
+     Url https://patents.google.com/patent/US20020156608A1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Simulation environment software
+     Author ['S Sandhu', 'B Michaud', 'G Dick']
+     Venue US Patent App. 09/899,705
+     Year 2003
+     Abstract US20030088710A1 - Simulation environment software - Google Patents. Simulation environment software. Download PDF Info. Publication number US20030088710A1. US20030088710A1 US09/899,705 US89970501A US2003088710A1
+     Url https://patents.google.com/patent/US20030088710A1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Cosimulation of embedded system using RTOS software simulator
+     Author ['S Wang', 'Z Duan', 'M Liu']
+     Venue Fifth International Symposium on …
+     Year 2003
+     Abstract In this paper, a new software verification tools, the RTOS software simulator (RSS) was  design while the co-simulation performs the task of hardware/software interface testing  to C/C++ source, which latter will be compiled together with Hardware Simulation Kernel Library and
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5253/0000/Cosimulation-of-embedded-system-using-RTOS-software-simulator/10.1117/12.522147.short
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title EOD Earth observation data processing preparation and evaluation. ENTICE Consortium, c/o Elecnor Deimos
+     Author ['J Becedas', 'JJ Ramos']
+     Venue NA
+     Year 2015
+     Abstract 4.1 Software Validation Process Overview  The Software Verification and Validation activities shall be performed by the development team, under the Principal Investigator  some hardware behaviour will be not tested, as a result of which no hardware simulation is foreseen
+     Url http://www.entice-project.eu/s/ENTICE-D63-EOD-Earth-Observation-Data-Processing-and-Evaluation-10.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Capabilities and Future Applications of the NASA Autonomous Formation Flight (AFF) Aircraft
+     Author ['B Cobleigh']
+     Venue 1st UAV Conference
+     Year 2002
+     Abstract Simulation Uses œVerification and validation of flight software/hardware œFailure modes and effects tests œPilot / control room staff  in-the-loop simulation has been developed for hardware and software integration and software verification and validation testing of the AFF
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2002-3443
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title New challenges in model checking
+     Author ['GJ Holzmann', 'R Joshi', 'A Groce']
+     Venue 25 Years of Model Checking
+     Year 2008
+     Abstract We have meanwhile completed several versions of this hardware simulation layer, supporting different  CA, USA (June 2002) [12] Holzmann, GJ, Joshi, R.: Model-Driven Software Verification  IEEE Com- puter (June 2006) [16] McKeeman, WM: Differential testing for software
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69850-0_4
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A VLSI design verification strategy
+     Author ['AS Tran', 'RA Forsberg', 'JC Lee']
+     Venue IBM Journal of Research and …
+     Year 1982
+     Abstract Hardware simulation by means of a functionally equiva- lent hardware model was the backbone of  one-fifth the real processor speed; at this speed, exhaustive testing can be  Software simulation The software verification of any design in a custom VLSI environment is performed
+     Url https://ieeexplore.ieee.org/abstract/document/5390530/
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent App. 16 …
+     Year 2020
+     Abstract Additionally, by performing software verification in a cloud computing environment, verification tasks can be split up and divided among many instances of  analyzer, Klocwork, Oraclize, Fortify static code analysis tool, fuzzing tools (eg, such as the Synopsys Fuzz Testing tool or
+     Url https://patents.google.com/patent/US20200257611A1/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Debug environment for a multi user hardware assisted verification system
+     Author ['K Suresh', 'CW Selvidge', 'S Gupta', 'A Jain']
+     Venue US Patent 9,703,579
+     Year 2017
+     Abstract 8. The computer-implemented method recited in claim 4 , further comprising initiating multiple hardware assisted software verification processes on selected ones of the multiple electronic designs using a regression testing methodology
+     Url https://patents.google.com/patent/US9703579B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automated test environment for a real-time control system
+     Author ['RO Hall']
+     Venue NA
+     Year 1994
+     Abstract The primary use of the environment is software verification and validation, but it is  demanding highly reliable software systems requiring testing to formal requirements and verifying successful  Rocketdyne assumed responsibility for the facility, known as the Hardware Simulation
+     Url https://ntrs.nasa.gov/search.jsp?R=19950008238
+

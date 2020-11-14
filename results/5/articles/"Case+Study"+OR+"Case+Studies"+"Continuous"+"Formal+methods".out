@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title The steam boiler case study: Competition of formal program specification and development methods
+     Author ['JR Abrial', 'E Börger', 'H Langmaack']
+     Venue Formal Methods for Industrial …
+     Year 1996
+     Abstract site in Kiel demonstrates the intensive interaction, which through the steam boiler case study, has taken  phenomenon is that in most of the contributions, the use of formal methods helped to  in the informal problem description, namely not to formalize the continuous sys- tem
+     Url https://link.springer.com/content/pdf/10.1007/BFb0027228.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract through continuous integration and validation of models and generated code via integration with the Jenkins automation server. We frame the integration of formal methods and DevOps in a series of principles, demonstrate the value of this integration through a case study, and
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal modeling and analysis of hybrid systems: A case study in multi-robot coordination
+     Author ['R Alur', 'J Esposito', 'M Kim', 'V Kumar', 'I Lee']
+     Venue … on Formal Methods
+     Year 1999
+     Abstract testbed of coordinating robots in Section 3. The main effort in this case study concerns modeling  It is worth noting that in previous case studies in formal verification of hybrid systems, the  For us, the continuous dynamics is quite simple, but a significant approximation is re- quired
+     Url https://link.springer.com/chapter/10.1007/3-540-48119-2_14
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Improving safety assessment of complex systems: An industrial case study
+     Author ['M Bozzano', 'A Cavallo', 'M Cifaldi', 'L Valacca']
+     Venue … of Formal Methods …
+     Year 2003
+     Abstract This trend, stimulated by the continuous improvement of the computational power of hardware, demands for a  3 A Case Study: The Secondary Power System One of the case studies investigated in the ESACS project is the Secondary Power System (SPS hereafter) of the
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_13
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal verification of curved flight collision avoidance maneuvers: A case study
+     Author ['A Platzer', 'EM Clarke']
+     Venue International Symposium on Formal Methods
+     Year 2009
+     Abstract In combination with the control choices during air traffic maneuvers, this yields hybrid systems with challenging interactions of discrete and continuous dynamics. As a case study illustrating the use of a new proof assistant for a logic for nonlinear hybrid systems, we analyze
+     Url https://link.springer.com/chapter/10.1007/978-3-642-05089-3_35
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A case study in tool-aided analysis of discretely controlled continuous systems: the two tanks problem
+     Author ['S Kowalewski', 'O Stursberg', 'M Fritz', 'H Graf']
+     Venue International Hybrid …
+     Year 1997
+     Abstract Department of Chemical Engineering, University of Dortmund, Germany. Abstract. This case study compares the usefulness and applicability of eight computer tools with respect to the validation of logic control pro- grams for continuous processes
+     Url https://link.springer.com/chapter/10.1007/3-540-49163-5_9
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Search-based automated testing of continuous controllers: Framework, tool support, and case studies
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue Information and …
+     Year 2015
+     Abstract Search-based automated testing of continuous controllers: Framework, tool support, and case studies  We propose an automated approach to MiL testing of continuous controllers using search  implemented in a tool and has been successfully applied to a real case study from the
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914001244
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Analog property checkers: a DDR2 case study
+     Author ['KD Jones', 'V Konrad', 'D Ničković']
+     Venue Formal Methods in System Design
+     Year 2010
+     Abstract DDR2 memory is a natural candidate for this case study as it contains a number of timing rela- tions between different analog signals  The specification of properties of continuous waveforms requires an adaptation of the se- mantic domain and the underlying logic
+     Url https://link.springer.com/content/pdf/10.1007/s10703-009-0085-x.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A case-study in timed refinement: A mine pump
+     Author ['BP Mahony', 'IJ Hayes']
+     Venue IEEE transactions on Software Engineering
+     Year 1992
+     Abstract Index Terms — Real-time specification, refinement calculus, Z, continuous functions, modal operators  Formal methods for the development of sequential programs have been available for some time  We present a case study of the specification, analysis and top-level design of a
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.3100&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Combining theorem proving and continuous models in synchronous design
+     Author ['S Nadjm-Tehrani', 'O Åkerlund']
+     Venue … Symposium on Formal Methods
+     Year 1999
+     Abstract Combining Theorem Proving and Continuous  The project pursues the development of new theories, application to case studies, and tool development in parallel. We use a ventilation control system, a case study provided by Saab Aerospace, to illustrate the work in progress on
+     Url https://link.springer.com/chapter/10.1007/3-540-48118-4_23
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Continuous modeling of real-time and hybrid systems: from concepts to tools
+     Author ['KG Larsen', 'B Steffen', 'C Weise']
+     Venue International Journal on Software Tools for …
+     Year 1997
+     Abstract What this article is about: • Continuous time modeling • Formal methods: a key towards automation • The essence of discrete time modeling • Timed automata-based modeling • The power of drifting clocks • The nature of hybrid systems • The tools Kronos, Uppaal, HyTech
+     Url https://link.springer.com/content/pdf/10.1007/s100090050006.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal Methods for Safety-Critical Embedded Real Time System: A case Study
+     Author ['R Gurulingesh']
+     Venue Term Paper in Formal Specification and Verification of …
+     Year NA
+     Abstract 1 Formal Methods for Safety-Critical Embedded Real Time System: A case Study R. Gurulingesh†  This is done by correctly abstracting the system and splitting the continuous variables of environment into finite set of regions  Formal methods provide: - More precise specification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.6463&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title The Generalized Railroad Crossing: A Case Study in Formal Verification of Real-Time Systems.
+     Author ['C Heitmeyer', 'N Lynch']
+     Venue NA
+     Year 1994
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title " Continuous verification" in mission critical software development
+     Author ['T Chang', 'A Danylyzsn', 'S Norimatsu']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract “Continuous Verification” in Mission Critical Software Development  This case study illustrates the application of a so*are development process that is intended to  of mission critical sof*lvare, the process emphasizes verification through applying formal methods, inspections in all
+     Url https://ieeexplore.ieee.org/abstract/document/663184/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract For example, social context causes a continuous evolution of requirements for large complex systems  This section discusses two case studies done at Oxford using video-based require- ments elicitation  based on live inter- actions, as opposed to the artificial case study of the
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Scaling up with Event-B: A case study
+     Author ['F Yang', 'JP Jacquot']
+     Venue NASA Formal Methods Symposium
+     Year 2011
+     Abstract Ability to scale up from toy examples to real life problems is a cru- cial issue for formal methods  Page 6. Scaling Up with Event-B: A Case Study 443 that we must introduce this fundamental feature early in the models: as soon as we need “continuous” values in the specification
+     Url https://link.springer.com/chapter/10.1007/978-3-642-20398-5_31
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Anomaly detection in cyber-physical systems: A formal methods approach
+     Author ['A Jones', 'Z Kong', 'C Belta']
+     Venue 53rd IEEE Conference on Decision …
+     Year 2014
+     Abstract In this paper, we apply formal methods to an anomaly de- tection framework to identify whether or not  the focus of our paper is on detecting anomalies, we use the case studies to also  to perform a search over the set of iPSTL formula and using continuous optimization methods
+     Url https://ieeexplore.ieee.org/abstract/document/7039487/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Introducing formal methods through role-playing
+     Author ['N Dean', 'MG Hinchey']
+     Venue Proceedings of the twenty-sixth SIGCSE technical …
+     Year 1995
+     Abstract Case studies are needed which explore the possibilities of formal methods more fully; for example, reactive  The example to be given is based upon the case study ma- terial given to the  at any station from another (2). Furthermore, every route r must be continuous (3). Notice
+     Url https://dl.acm.org/doi/abs/10.1145/199688.199831
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Co-simulation environment for Rodin: landing gear case study
+     Author ['V Savicks', 'M Butler', 'J Colley']
+     Venue … on Abstract State Machines, Alloy, B, TLA …
+     Year 2014
+     Abstract (Eds.): ABZ 2014 Case Study Track, CCIS  gear system [9] that consists of a cockpit interface, a discrete controller and a continuous mechanical/hydraulic  and comparison of the proposed solution with traditional simulation approaches on a number of case studies, including the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-07512-9_11
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal methods@ runtime
+     Author ['R Calinescu', 'S Kikuchi']
+     Venue Monterey Workshop
+     Year 2010
+     Abstract Formal Methods @ Runtime 125  A combination of discrete- and continuous-time Markov models and of PCTL and CSL properties were used to analyse  In the case study involving the adaptive allocation of data-centre servers, the runtime quantitative verification took between 10
+     Url https://link.springer.com/chapter/10.1007/978-3-642-21292-5_7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Integrating formal methods into medical software development: The ASM approach
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini', 'A Mashkoor']
+     Venue Science of Computer …
+     Year 2018
+     Abstract The method has been successfully applied to numerous case studies [21], also in the context of  in [4] for the specification and verification of the Hemodialysis Machine Case Study (HMCS) [48  levels of refinement to show how validation and verification are continuous activities in
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301430
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Fluid petri nets and hybrid model-checking: A comparative case study
+     Author ['M Gribaudo', 'A Horváth', 'A Bobbio', 'E Tronci']
+     Venue Reliability Engineering & …
+     Year 2003
+     Abstract This paper investigates a unifying view between formal methods and stochastic methods for hybrid  The case study, that is used to illustrate the methodology, is a discrete state controller that operates according to the variation of suitable continuous quantities (temperature
+     Url https://www.sciencedirect.com/science/article/pii/S0951832003000899
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Human resource management strategies and practices in just-in-time environments: Australian case study evidence
+     Author ['D Power', 'AS Sohal']
+     Venue Technovation
+     Year 2000
+     Abstract The continuous improvement team activities observed were informal but appeared effective  In order to provide an overview of the issues raised through the case studies, as well as to  analysis has been organised along the lines of the issues covered in the case study protocol
+     Url https://www.sciencedirect.com/science/article/pii/S0166497299001510
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal methods for design and verification of embedded control systems: application to an autonomous vehicle
+     Author ['T Wongpiromsarn']
+     Venue NA
+     Year 2010
+     Abstract been utilized to handle both discrete and continuous behaviors. The limitations of existing  subsystem of Alice. This description is followed by two verification case studies. The first case study illustrates the use of model checking to prove the correctness of the finite state
+     Url https://thesis.library.caltech.edu/5864
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Modeling communications-based train control system: a case study
+     Author ['H Wang', 'S Liu']
+     Venue 2010 The 2nd International Conference on …
+     Year 2010
+     Abstract Discrete event signals, unlike continuous time signals, are assumed to take values only at a  A case study of ZC subsystem using SCADE suite demonstrated the approach  Time Properties of the European Train Control System",IEEE Conferences on Formal Methods in Computer
+     Url https://ieeexplore.ieee.org/abstract/document/5538157/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Correctness of vehicle control systems-a case study
+     Author ['HB Weinberg', 'N Lynch']
+     Venue 17th IEEE Real-Time Systems …
+     Year 1996
+     Abstract This case study is part of a larger project on modelling, verifying, and analyzing problems  In [15], levels of abstraction are used to relate continuous and discrete control of a  Other case studies in modelling hybrid systems include two analyses of steam boiler controllers - one
+     Url https://ieeexplore.ieee.org/abstract/document/563701/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title European Train Control System: A case study in formal verification
+     Author ['A Platzer', 'JD Quesel']
+     Venue International Conference on Formal Engineering …
+     Year 2009
+     Abstract As the RBC is a purely digital track-side controller and has no dependent continuous dynamics, we can express parallelism equivalently by interleaving using nonde- terministic choice (∪) and repetition  European Train Control System: A Case Study in Formal Verification 253
+     Url https://link.springer.com/chapter/10.1007/978-3-642-10373-5_13
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A survey: Applying formal methods to a software intensive system
+     Author ['A De Groot', 'J Hooman', 'M Lemoine']
+     Venue … Symposium on High …
+     Year 2001
+     Abstract train contr ol must take into acount complex behaviors, po- sitional uncertainties, noise, continuous aspects,and  constraints, it is rare for a company to consent to the development of a case study based on  This leaves case studies for systems that have already been dev eloped
+     Url https://ieeexplore.ieee.org/abstract/document/966807/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal Methods for Computational Systems Biology: 8th International School on Formal Methods for the Design of Computer, Communication, and Software …
+     Author ['M Bernardo', 'P Degano', 'G Zavattaro']
+     Venue NA
+     Year 2008
+     Abstract graphs and activa- tion/inhibition graphs used by biologists through formal methods originating from  analyzing biochemical pathways, which unifies the qualitative, stochastic, and continuous paradigms  of hybrid au- tomata in systems biology through a series of case studies
+     Url https://link.springer.com/content/pdf/10.1007/978-3-540-68894-5.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title On fitting a formal method into practice
+     Author ['R Gmehlich', 'K Grau', 'S Hallerstede', 'M Leuschel']
+     Venue … Conference on Formal …
+     Year 2011
+     Abstract We believe our observations and findings would apply in similar form to other formal methods used in place of Event-B. In this context, note again the  Since specialised methods are already in place we did not study modelling of continuous time be- havior in the case study
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24559-6_15
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A formal approach to collaborative modelling and co-simulation for embedded systems†
+     Author ['JS Fitzgerald', 'PG Larsen', 'KG Pierce']
+     Venue … Structures in Computer …
+     Year 2013
+     Abstract In our approach, an environment class is used to mimic the behaviour of the continuous-time world in the discrete  4. Case study: the 'ChessWay' self-balancing scooter  DE-first method of co-model development is the result of experience gained in a series of case studies in co
+     Url https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/formal-approach-to-collaborative-modelling-and-cosimulation-for-embedded-systems/AB726A755761E3D56B4AB42062A51AA2
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract This will enable continuous testing of the con- trol system, as described by Oppelt and Urbas (2014)  Having a familiar simulation environment (that hosts the VC models) as the base for using formal methods should increase  4. IVPC CASE STUDY - OPERATION SEQUENCING
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A formal approach to autonomous vehicle coordination
+     Author ['M Asplund', 'A Manzoor', 'M Bouroche', 'S Clarke']
+     Venue … on Formal Methods
+     Year 2012
+     Abstract a fully automated theorem prover to a distributed coordination problem involving explicit message passing, continuous time and  new verifica- tion methods for hybrid systems, but rather on the application of formal methods to a  A simple but realistic case study demonstrating the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-32759-9_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A formal framework for aspect-oriented specification of cyber physical systems
+     Author ['L Zhang', 'J He']
+     Venue International Conference on Hybrid Information …
+     Year 2011
+     Abstract On the other hand, it can deal with discrete-event systems, without continuous variables or  We present a combination of the formal methods Timed-CSP, ZimOO and differential (algebraic  A case study of train control system illustrates the specification process of aspect-oriented
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24106-2_50
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Experiences of using formal methods for chemical process control specification
+     Author ['K Lano', 'J Bicarregui', 'P Kan']
+     Venue Control Engineering Practice
+     Year 2000
+     Abstract The case studies have demonstrated the capabilities of the B language and tools for specifying  For example, in the measure tank case study, the feed valve cannot be normally open if the  using the formal notation to represent and reason about the continuous physical model of
+     Url https://www.sciencedirect.com/science/article/pii/S0967066199001380
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Managerial issues for the consideration and use of formal methods
+     Author ['DC Stidolph', 'J Whitehead']
+     Venue International Symposium of Formal Methods …
+     Year 2003
+     Abstract Interestingly, in one case study even though the acquirers needed help interpreting the formal system  the domain experts was cited as a problem in several of the case studies [6, 15  For example, some formal methods tools support continuous refinement of design through code
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_11
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Evaluation of a collaborative model: a case study analysis of watershed planning in theIntermountain West
+     Author ['G Bentrup']
+     Venue Environmental management
+     Year 2001
+     Abstract Continuous stakeholder participation throughout the planning process  In the Animas River case study, the Colorado Water Quality Control Division wanted to impose strict water quality standards without a clear  Table 2. Summary of results based on the three case studies Model
+     Url https://link.springer.com/article/10.1007/s002670010184
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Lightweight statistical model checking in nondeterministic continuous time
+     Author ["PR D'Argenio", 'A Hartmanns', 'S Sedwards']
+     Venue … of Formal Methods
+     Year 2018
+     Abstract ISoLA 2018: Leveraging Applications of Formal Methods, Verification and Validation  LSS to Markov automata (MA [14]), a compositional nondeterministic extension of continuous-time Markov  We introduce two new case studies to experiment with modes ' support for LSS on MA
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_22
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Using formal modeling with an automated analysis tool to design and parametrically analyze a multirobot coordination protocol: A case study
+     Author ['JM Esposito', 'M Kim']
+     Venue IEEE Transactions on Systems, Man, and …
+     Year 2007
+     Abstract Multirobot Coordination Protocol: A Case Study  It is worth noting that in previous case studies in formal verification of hybrid systems, the challenge in modeling  For us, the continuous dynamics can be reasonably simplified, but a significant approximation is required to make
+     Url https://ieeexplore.ieee.org/abstract/document/4154925/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Co-simulation of semi-autonomous systems: the line follower robot case study
+     Author ['M Palmieri', 'C Bernardeschi', 'P Masci']
+     Venue … Engineering and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 423-437 | Cite as  This approach is applied to the Line Follower Robot case study, available in the INTO-CPS  of mathematical formalisms, eg, discrete logic-based models for controllers, and continuous models based
+     Url https://link.springer.com/chapter/10.1007/978-3-319-74781-1_29
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Experiences in strategic information systems planning
+     Author ['MJ Earl']
+     Venue MIS quarterly
+     Year 1993
+     Abstract SISP cannot be understood by considering formal methods alone  First, case studies cap- tured the history of six companies previously studied by the author  These were then used retrospectively to classify the experiences of the six case study firms. Method Process SIS
+     Url https://www.jstor.org/stable/249507
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal verification of analog and mixed signal designs: Survey and comparison
+     Author ['MH Zaki', 'S Tahar', 'G Bois']
+     Venue 2006 IEEE North-East Workshop on …
+     Year 2006
+     Abstract real over real Domain Analysis Time Time Error Analysis No No Tool PVS N / A Case Studies Adder, Telephone  of Analog Circuits, 2005 [14] O. Maler, D. Nickovic: Monitoring Temporal Properties of Continuous Signals  Formal Methods in System Design 16(2): 127-158,2000
+     Url https://ieeexplore.ieee.org/abstract/document/4016957/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Probabilistic model checking in practice: Case studies with PRISM
+     Author ['M Kwiatkowska', 'G Norman', 'D Parker']
+     Venue ACM SIGMETRICS Performance …
+     Year 2005
+     Abstract Another probabilistic model checking case study in this area can be found in [22, 23), which studies stochastic dynamic power management  applied to case studies from a very wide range of applica- tion domains  Model-checking algorithms for continuous-time Markov chains
+     Url https://dl.acm.org/doi/abs/10.1145/1059816.1059820
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Resilience Modelling through Discrete Event and Continuous Time Co-Simulation
+     Author ['Z Andrews', 'J Fitzgerald', 'M Verhoef']
+     Venue NA
+     Year 2007
+     Abstract For the tank case study, initial experiments have shown that it is possible to inject faults in the interface between  of such a fault, which is highlighted by the sim- ulation tools, is that the continuous time model  Further case studies are proposed to extend and validate this approach
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/36410/36410.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Task level specification and formal verification of robotics control systems: state of the art and case study
+     Author ['K Kapellos', 'D Simon', 'M Jourdant']
+     Venue International Journal of …
+     Year 1999
+     Abstract systems: state of the art and case study  for such systems a theory aimed to be the analo- gous of the dynamics system theory in continuous time  1993) is a development environ- ment for speciŽcation, validation by formal methods and by simulation, and implementation of robotic
+     Url https://www.tandfonline.com/doi/abs/10.1080/002077299291697
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Formal Verification with Timed Automata and DEVS Models: a case study
+     Author ['HP Dacharry', 'N Giambiasi']
+     Venue Proc. of Argentine …
+     Year 2005
+     Abstract DEVS Models: a case study  Considering the continuous growth in functionality and importance of control systems, it becomes relevant the use of formal methods as a complement of simulation to improve the quality of the design process
+     Url https://pdfs.semanticscholar.org/ea05/d79d13e69d60b24b92c0a4c700428dee11e8.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title An integrating approach for developing distributed software systems-combining formal methods, software reuse, and the experience base
+     Author ['RL Feldmann', 'B Geppert']
+     Venue Proceedings Fifth IEEE …
+     Year 1999
+     Abstract An Integrating Approach for Developing Distributed Software Systems –Combining Formal Methods, Software Reuse, and the Experience Base  A comprehensive case study is described in [15]  3. Extending the SDL-pattern approach to allow continuous improvement
+     Url https://ieeexplore.ieee.org/abstract/document/802850/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Reference Case Study “Traffic Control Systems” for Comparison and Validation of Formal Specifications Using a Railway Model Demonstrator
+     Author ['F Hänsel', 'J Poliak', 'R Slovák', 'E Schnieder']
+     Venue Integration of Software …
+     Year 2004
+     Abstract Two case studies have been provided within the focus research programme “Integration of Software Specification Techniques for Applications in Engineer  The problem is that there is no real continuous way from formal work on paper to a real im  2 Reference Case Study
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27863-4_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title A methodology based on formal methods for predicting the impact of dynamic power management
+     Author ['A Acquaviva', 'A Aldini', 'M Bernardo', 'A Bogliolo']
+     Venue … on Formal Methods …
+     Year 2005
+     Abstract 5, 6, and 7, respectively, through the case study introduced in Sect. 2.5  are expressed in this phase through exponentially distributed random variables, the derived models are Markovian models yielding continuous-time Markov  A Methodology Based on Formal Methods 167
+     Url https://link.springer.com/chapter/10.1007/11419822_5
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Continuous"+"Formal+methods"
+     Title Requirements reformulation using formal specification: A case study
+     Author ['L Wildman']
+     Venue … of petri nets: formal methods in software engineering …
+     Year 2002
+     Abstract Copyright c©2002¸ Australian Computer Society¸ Inc. This paper appeared at the Workshop on Formal Methods Applied to De- fence Systems¸ Adelaide¸ Australia¸ June 2002. Conferences in Research and Practice in Information Technology¸ Vol. 12
+     Url https://dl.acm.org/doi/abs/10.5555/846335.846343
+

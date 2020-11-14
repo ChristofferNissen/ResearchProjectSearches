@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Formal+methods"
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal methods in PLC programming
+     Author ['G Frey', 'L Litz']
+     Venue Smc 2000 conference proceedings. 2000 ieee …
+     Year 2000
+     Abstract A detailed generic model of the control design process is introduced and discussed. It is used for surveying different formal approaches in the context of PLC programming. The survey focuses on formal methods for verification and validation (V&V). The varying works in
+     Url https://ieeexplore.ieee.org/abstract/document/884356/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal validation of PLC programs: a survey
+     Author ['S Lampérière-Couffin', 'O Rossi']
+     Venue 1999 European …
+     Year 1999
+     Abstract 777- 782, (1996) [babb] Babb M., “IEC 1131-3: A Standard Programming Resource for PLC”, Control Engineering, (1996) [bonf] Bonfatti F  International Editions, ISBN 2-9511585-0-5, (1997) [bowe] Bowen JP, Stavridou V., “Safety-Critical Systems, Formal Methods and Standards
+     Url https://ieeexplore.ieee.org/abstract/document/7099641/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Visualization of PLC programs using XML
+     Author ['MB Younis', 'G Frey']
+     Venue Proceedings of the 2004 American Control …
+     Year 2004
+     Abstract Absfracl - Due to the growing complexity of PLC programs there is an increasing interest in the application of formal methods in this area  2000, pp. 2437- 2442. G. Frey and L. Litz, “Formal methods in PLC pro- gramming”, in IEEE Con
+     Url https://ieeexplore.ieee.org/abstract/document/1384382/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Design of safe PLC programs by using Petri nets and formal methods
+     Author ['EI Gergely', 'L Coroiu', 'A Gacsadi']
+     Venue Recent Advances in Automation & …
+     Year 2010
+     Abstract The paper presents an approach which combines the formalism of Petri Nets and of model checking in order to deliver correct and dependable PLC programs. Based on SIPNs, a variant of PNs, the complete controller development process from an informal specification
+     Url https://www.academia.edu/download/51320578/Design_of_safe_PLC_programs_by_using_Pet20170112-20346-1yjfaqp.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title What is the method in applying formal methods to PLC applications?
+     Author ['A Mader', 'H Wupper']
+     Venue Proc. of the ADPM 2000 Conference
+     Year 2000
+     Abstract The question we investigate is how to obtain PLC applications with confidence in their proper functioning. Especially, we are interested in the contribution that formal methods can provide for their development. Our maxim is that the place of a particular formal method in
+     Url https://core.ac.uk/download/pdf/11460925.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal methods in PLC control demonstrated at a flexible manufacturing line
+     Author ['G Frey']
+     Venue International Conference on Information Technology for …
+     Year 2002
+     Abstract This paper presents various formal approaches in the development of logic control algorithms. Programmable Logic Controllers (PLCs) are commonly used in automation and the algorithms running on them tend to be quite complex. This motivates the application of
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35613-6_57
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal verification of safety PLC based control software
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue … Conference on Integrated Formal Methods
+     Year 2016
+     Abstract Programmable Logic Controllers (PLCs) are widely used in the industry for various industrial automation tasks. Besides non-safety applications, the usage of PLCs became accepted in safety-critical installations, where the cost of failure is high. In these cases the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33693-0_32
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal verification of PLC programs using the B method
+     Author ['H Barbosa', 'D Déharbe']
+     Venue … Conference on Abstract State Machines, Alloy, B …
+     Year 2012
+     Abstract This approach thus integrates formal methods into existing industrial processes. Keywords: B method, PLC, safety critical systems, formal methods. 1 Introduction  Some recent works have been trying to integrate formal methods and PLC ver- ification, using different approaches
+     Url https://link.springer.com/chapter/10.1007/978-3-642-30885-7_30
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A classification of PLC models and applications
+     Author ['A Mader']
+     Venue Discrete Event Systems
+     Year 2000
+     Abstract In the past years there is an increasing interest in analysing PLC appli- cations with formal methods. The first step to this end is to get formal models of PLC applications. Meanwhile, various models for PLCs have already been introduced in the literature
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4493-7_24
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formalization of PLC programs to sustain reliability
+     Author ['MB Younis', 'G Frey']
+     Venue IEEE Conference on Robotics, Automation …
+     Year 2004
+     Abstract Formal methods can provide for the development of PLC programs, since they serve as a medium to analyze and verify them due to increased awareness of safety and quality. This is done by performing what is known as Verification and Validation (V&V)
+     Url https://ieeexplore.ieee.org/abstract/document/1437989/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A formal method based re-implementation concept for PLC programs and its application
+     Author ['MB Younis', 'G Frey']
+     Venue 2006 IEEE Conference on Emerging …
+     Year 2006
+     Abstract 10]. The re- engineering consists of the following main steps which will be detailed in the following sections: 1. Reverse-engineering of the given PLC program through formal methods using Internet technologies. 2. Evolution
+     Url https://ieeexplore.ieee.org/abstract/document/4178179/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Efficient representation for formal verification of PLC programs
+     Author ['V Gourcuff', 'O De Smet', 'JM Faure']
+     Venue 2006 8th International …
+     Year 2006
+     Abstract [4] B. Zoubek, “Automatic verification of temporal and timed properties of control programs,” Ph.D. dissertation, University of Birmingham, 2004. [5] G. Frey and L. Litz, “Formal methods in PLC programming,” in Proc. of the IEEE SMC 2000, October 2000, pp. 2431–2436
+     Url https://ieeexplore.ieee.org/abstract/document/1678428/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Formal methods for developing and verifying diagnostic codes have been proposed (Paoli & Lafortune, 2003)  However, even for networks consisting exclusively of interconnected PLC's, system level verification remains elusive (Rushby, 1986; Sennett, 1989)
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title PLCverif: A tool to verify PLC programs based on model checking techniques
+     Author ['D Darvas', 'E Blanco Vinuela', 'B Fernández Adiego']
+     Venue NA
+     Year 2015
+     Abstract All these solutions have been incorporated in a tool called PLCverif1 that makes model checking ac- cessible for the developers in the PLC domain. This paper focuses on this tool and on the bridge between the formal methods and PLC domains
+     Url https://cds.cern.ch/record/2213507
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract Formal verification of the FPGA cores. Share on. Authors: Carl Johan Lillieroth profile image Carl Johan Lillieroth  Automated Verification in Railways. In Industrial-Strength Formal Methods in Practice, Hinchey, MG and Bowen, JP, Editors
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Re-engineering approach for PLC programs based on formal methods
+     Author ['MB Younis']
+     Venue NA
+     Year 2006
+     Abstract Page 1. Juniorprofessorship Agentbased Automation JPA² J. Prof. Dr.-Ing. Georg Frey Re-Engineering Approach for PLC Programs based on Formal Methods Mohammed Bani Younis Page 2. Juniorprofessorship Agentbased Automation JPA² Mohammed Bani Younis 2 Contents •
+     Url https://pdfs.semanticscholar.org/49a6/5fe6f331e9eb04e7fa539373a7a91eda3b08.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Safe programming of PLC using formal verification methods
+     Author ['O De Smet', 'S Couffin', 'O Rossi', 'G Canet']
+     Venue Computer …
+     Year 2000
+     Abstract 189-209 (1993) [6] Lampérière-Couffin S., Rossi O., Roussel J.-M. and Lesage J.-J., “Formal verification of plc programs: a survey”, ECC'99, paper N°741, Germany (1999) [7] Clarke EM, Wing JM, ”Formal Methods: State of the Art and Future Directions”, ACM Strategic
+     Url http://www.academia.edu/download/42191073/Safe_programming_of_PLC_using_formal_ver20160205-5877-1db90lc.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formalization of existing PLC programs: A survey
+     Author ['MB Younis', 'G Frey']
+     Venue Proceedings of CESA
+     Year 2003
+     Abstract Most work done in the area of the formal methods and formalization of PLC is in this class. After finishing the model it can be tested using dif- ferent test methods of verification and validation  [1] G. Frey and L. Litz: Formal methods in PLC programming. Proc. of the IEEE Conf
+     Url https://www.uni-saarland.de/fileadmin/user_upload/Professoren/FreyG/GF_MBY_CESA_jul_2003.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal verification of the sequential part of PLC programs
+     Author ['S Lampérière-Couffin', 'JJ Lesage']
+     Venue Discrete Event Systems
+     Year 2000
+     Abstract [I] Lamperiere-Couffin S., Rossi 0., Roussel 1.-M., and Lesage 1.-1., "Formal verification of PLC programs: a  253-268, (1995) [3] Bowen 1.P., and Stavridou V., "Safety-Critical Systems, Formal Methods and Standards", IEE/BCS Software Engineering Journal, Volume 8 n04, pp
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4493-7_25
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Automated formal verification of PLC programs written in IL
+     Author ['O Pavlovic', 'R Pinger', 'M Kollmann']
+     Venue Conference on Automated …
+     Year 2007
+     Abstract Page 171. Automated Formal Verification of PLC Programs Written in IL 163 [HR00] Michael RA Huth and Mark D. Ryan  of the 6th Sympo- sium on Formal Methods for Automation and Safety in Railway and Automotive Systems (FORMS/FORMAT 2007). GZVB, 2007
+     Url https://www.academia.edu/download/45267045/A_History-based_Verification_of_Distribu20160502-15955-16zkt8c.pdf#page=160
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal verification of complex properties on PLC programs
+     Author ['D Darvas', 'BF Adiego', 'A Vörös', 'T Bartha']
+     Venue … Conference on Formal …
+     Year 2014
+     Abstract usually the result of a cooperation between a control engineer and a formal methods expert, with potential for misunderstanding  We proposed previously a methodology for automated modelling and verification of PLC programs [1]. In this paper we focus on reduction techniques
+     Url https://link.springer.com/chapter/10.1007/978-3-662-43613-4_18
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A re-engineering approach for PLC programs using finite automata and UML
+     Author ['G Frey', 'MB Younis']
+     Venue Proceedings of the 2004 IEEE International …
+     Year 2004
+     Abstract However, there are a lot of existing PLCprograms that have been implemented in proprietary languages before a standard existed and even todrry formal methods are scarcely used. This paper outlines an approach to formalize existing PLC programs implemented in the widely
+     Url https://ieeexplore.ieee.org/abstract/document/1431431/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title MOBY/PLC—Graphical development of PLC-automata
+     Author ['J Tapken', 'H Dierks']
+     Venue International Symposium on Formal Techniques in …
+     Year 1998
+     Abstract to appear. 8. B. Krieg-Briickner, J. Peleska, E.-R. Olderog, et al. UniForM -- Universal Formal Methods Workbench. In Statusseminar des BMBF Softwaretechnologie, pages 357- 378. BMBF, Berlin, 1996. 9. Josef Tapken. Interactive and Compilative Simulation of PLC-Automata
+     Url https://link.springer.com/chapter/10.1007/BFb0055360
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Development of RTOS for PLC using formal methods
+     Author ['JH Kim', 'SY Lee', 'YA Ahn', 'JH Sim', 'JS Yang']
+     Venue … for Verification and …
+     Year 2004
+     Abstract Programmable logic controller (PLC) is a computer system for instrumentation and control (I&C) systems such as control of machinery on factory assembly lines and nuclear power plants. If PLC is used to control core reactor in nuclear power plant, it should be classified
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30476-0_40
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Methods and tools to the verification of safety-related control software
+     Author ['T Mertke', 'T Menzel']
+     Venue … , and their complex interactions'(cat. no. 0
+     Year 2000
+     Abstract Although these methods based on formal methods they are covered with user-friendly interfaces. The document displays the modelling of a control-system, which consists of a programmable logic controller (PLC), a user program and the environment, it demonstrates the
+     Url https://ieeexplore.ieee.org/abstract/document/884360/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title The UniForM workbench a universal development environment for formal methods
+     Author ['B Krieg-Brückner', 'J Peleska', 'ER Olderog']
+     Venue … on Formal Methods
+     Year 1999
+     Abstract a system. Ideally, graphical interfaces will give the illusion of working with an informal method while an underlying formal semantics provides hooks to the use of formal methods (cf. PLC-Automata in section 2.2 and 3.1). At the
+     Url https://link.springer.com/chapter/10.1007/3-540-48118-4_13
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Increasing the efficiency of PLC program verification using a plant model
+     Author ['J Machado', 'B Denis', 'JJ Lesage', 'JM Faure', 'JF da Silva']
+     Venue NA
+     Year 2003
+     Abstract More extensive work on formal methods is now available for checking PLC (Programmable Logic Controller) programs  Frey, G. and L. Litz (2000). Formal Methods in PLC programming. In: 2000 IEEE International Conference on Systems, Man & Cybernetics. pp
+     Url https://hal.archives-ouvertes.fr/hal-00424030/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Verification of PLC programs using formal proof techniques
+     Author ['A Sülflow', 'R Drechsler']
+     Venue FORMS/FORMAT
+     Year 2008
+     Abstract A PLC is a re- programmable computer, based on sensors and ac- tors, which is controlled by a user program  To ensure the correct behavior of a user pro- gram one can use test and simulation approaches, or formal methods, that provide a proof of correct- ness, ie testing the
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.500.8515&rep=rep1&type=pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Design of signal control structures using formal methods for railway interlocking systems
+     Author ['O Eriş', 'I Mutlu']
+     Venue 2010 11th International Conference on Control …
+     Year 2010
+     Abstract 010 (D) A A A A A A D A A 110 A A A A A A A A A 111 A A A A A A A A A 101 (E) A E A A A A A A A 100 A A A A A A A A A III. FORMAL METHODS One way for realizing a PLC based software interlocking system is to generate function blocks for all field equipments
+     Url https://ieeexplore.ieee.org/abstract/document/5707824/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title PLC code generation based on a formal specification language
+     Author ['D Darvas', 'EB Viñuela', 'I Majzik']
+     Venue 2016 IEEE 14th International …
+     Year 2016
+     Abstract techniques. PLCspecif aims to be a lightweight formal spec- ification method adapted to the PLC software development domain, in order to make it easy-to-use, even without deep knowledge in mathematics and formal methods. This
+     Url https://ieeexplore.ieee.org/abstract/document/7819191/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal modeling and verification of safety-critical software
+     Author ['J Yoo', 'E Jee', 'S Cha']
+     Venue IEEE software
+     Year 2009
+     Abstract by the PLC vendor automati- cally generates executable code. So, it's fair to treat an FBD as an implementation language, too. Also, a different group tested the software extensively at various levels, according to the standard practices. In developing the formal-methods-based
+     Url https://ieeexplore.ieee.org/abstract/document/4814957/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title System and method for verification and validation of redundancy software in plc systems
+     Author ['K Ji', 'Z Song']
+     Venue US Patent App. 13/415,897
+     Year 2012
+     Abstract in a redundant PLC system). As described in detail above, formal methods such as model checking are used to verify the FSM of the PLC redundancy software and ensure its proper operation as installed in a working system
+     Url https://patents.google.com/patent/US20120246612A1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Visual PLC-programming using signal interpreted Petri nets
+     Author ['M Minas', 'G Frey']
+     Venue Proceedings of the 2002 American Control …
+     Year 2002
+     Abstract [8] R. Konig and L. Quack, Petri-Netze in der Steuerungs- und Digifaltechnik, Oldenbourg Verlag, Miinchen, Wien, 1988. [9] G. Frey and L. Litz. Formal methods in PLC programming. Proc. of the IEEE Conference on Systems Man and Cyber- netics (SMC2000), pp
+     Url https://ieeexplore.ieee.org/abstract/document/1025461/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title PLC programming languages: A formal approach
+     Author ['L Baresi', 'S Carmeli', 'A Monti', 'M Pezzè']
+     Venue Proc. of automation
+     Year 1998
+     Abstract In figure 7 the main window of the INFORMA ISO-PLC editor and the set of tasks constituting the control structure are visualized. Page 8  Introducing Formal Methods in Industrial Practice. In Proceedings of the 20th International Conference on Software engineering, pp 56- 66
+     Url https://www.researchgate.net/profile/Mauro_Pezze/publication/228825461_PLC_programming_languages_A_formal_approach/links/0c96051793c1515cb4000000/PLC-programming-languages-A-formal-approach.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract functions complexity), control of industrial machinery ensures more and more safety functions using Safe Programmable Logic Controller (Safe-PLC)  In particular, the higher level SIL 4 recommends the use of formal methods to control the quality of software intensive
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Verification of PLC properties based on formal semantics in Coq
+     Author ['JO Blech', 'SO Biha']
+     Venue … on Software Engineering and Formal Methods
+     Year 2011
+     Abstract Programmable Logic Controllers (PLC) are widely used in embedded systems for the industrial automation domain. We propose a formal semantics of two languages defined in the IEC 61131-3 standard for PLC programming. The first one is the Instruction List (IL)
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24690-6_6
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A toolset for model checking of PLC software
+     Author ['A Pakonen', 'T Mätäsniemi', 'J Lahtinen']
+     Venue 2013 IEEE 18th …
+     Year 2013
+     Abstract like NuSMV a viable tool for the evaluation of PLC software. Due to lack of domain-specific tools, however, application of model checking is all but mainstream in the control engineering domain. A lot of time and expertise are needed, as is common with formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/6648065/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Improving large-sized PLC programs verification using abstractions
+     Author ['V Gourcuff', 'O De Smet', 'JM Faure']
+     Venue IFAC Proceedings Volumes
+     Year 2008
+     Abstract Formal verification of PLC programs can strongly con- tribute to improve safety and dependability of automated systems. However, transferring these formal methods to the industrial world requires methods that deliver formal models whose size is small enough to avoid combina
+     Url https://www.sciencedirect.com/science/article/pii/S147466701639752X
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Formal component-based modeling and synthesis for PLC systems
+     Author ['M Zhou', 'H Wan', 'R Wang', 'X Song', 'C Su', 'M Gu']
+     Venue Computers in industry
+     Year 2013
+     Abstract Large amount of testing is required. A known fact is that testing is practical but incomplete. To overcome this incompleteness, there are many works that aim at verifying existing PLC systems by using formal methods. References [30], [18], [17], [20], [25] are in this scope
+     Url https://www.sciencedirect.com/science/article/pii/S0166361513001371
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A Petri Net formal design methodology for discrete-event control of industrial automated systems
+     Author ['S Korotkin', 'G Zaidner', 'B Cohen']
+     Venue 2010 IEEE 26-th …
+     Year 2010
+     Abstract partial system analysis and limited performance evaluation. Consequently the application of formal methods in PLC programming became extremely essential for industrial automation. During the past few decades Petri Nets
+     Url https://ieeexplore.ieee.org/abstract/document/5662187/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Towards industrial formal specification of programmable safety systems
+     Author ['O Ljungkrantz', 'K Akesson', 'C Yuan']
+     Venue IEEE transactions on …
+     Year 2011
+     Abstract Formal methods for specification and verification are promising in developing programmable logic controller (PLC) pro- grams in manufacturing industry  Cambridge, MA: MIT Press, 2008. [6] G. Frey and L. Litz, “Formal methods in PLC programming,” in Proc. IEEE Int
+     Url https://ieeexplore.ieee.org/abstract/document/6081966/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title PLC-automata: A new class of implementable real-time automata
+     Author ['H Dierks']
+     Venue International AMAST Workshop on Aspects of Real …
+     Year 1997
+     Abstract The aim of the project is the development of real-time systems in a workbench using combinations of formal methods  We also give an implementation of such systems in a particular hardware called Programmable Logic Controllers (PLC)
+     Url https://link.springer.com/chapter/10.1007/3-540-63010-4_8
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title UML state machine implementation in FPGA devices by means of dual model and Verilog
+     Author ['M Doligalski', 'M Adamski']
+     Venue 2013 11th IEEE international …
+     Year 2013
+     Abstract Device implementation of reconfigurable logic controllers (RLCs) with the use of Field Programmable Gate Array devices (FPGA) is a quite commonly  Va- riety of formal methods for Petri net verification empower the application in rigorous methodology for dependable systems
+     Url https://ieeexplore.ieee.org/abstract/document/6622878/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title A formal semantics of PLC programs in Coq
+     Author ['SO Biha']
+     Venue 2011 IEEE 35th Annual Computer Software and …
+     Year 2011
+     Abstract It also provides a basis for the development of a static analyzer for PLC programs. There are many examples of the use of formal methods for the verification of PLC programs [2], [3], [4]. Most of these examples use model checking
+     Url https://ieeexplore.ieee.org/abstract/document/6032332/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Using formal methods in a retrospective safety case
+     Author ['LH Eriksson']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2004
+     Abstract coding could in principle have been automated, and in any case modern systems are typically based on computer (eg PLC) technology where  Additionally, the NSB-87 safety case indirectly led to new industrial adoption of formal methods as a component in the development of
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30138-7_4
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Bringing automated model checking to PLC program development—a CERN case study—
+     Author ['BF Adiego', 'D Darvas', 'JC Tournier', 'EB Viñuela']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract Xtext: Implement your language faster than the quick and dirty way. In SPLASH/OOPSLA Companion, 307–309. ACM. Frey, G. and Litz, L. (2000). Formal methods in PLC programming. In IEEE Int. Conf. on Systems, Man, and Cybernetics, volume 4, 2431–2436. IEEE
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015374334
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Arcade. PLC: A verification platform for programmable logic controllers
+     Author ['S Biallas', 'J Brauer', 'S Kowalewski']
+     Venue 2012 Proceedings of the …
+     Year 2012
+     Abstract or the environment, the ap- plication of formal methods to ensure correctness is highly recommended [8]. Yet, their application remains difficult as five different programming languages have been standard- ized, which can be combined in programs. A PLC typically operates in
+     Url https://ieeexplore.ieee.org/abstract/document/6494950/
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Automatic plc code generation using matlab
+     Author ['İT Hasdemir', 'S Kurtulan']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract synthesized using formal methods are needed. In this study, we present a methodology that can be used to express a given automaton in logical domain. Using this methodology, a Matlab program which automatically generates Programmable Logic Controller (PLC) codes that
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016352569
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title Moby/PLC—A design tool for hierarchical real-time automata
+     Author ['J Tapken']
+     Venue … Conference on Fundamental Approaches to Software …
+     Year 1998
+     Abstract Springer Verlag, 1997. 5. B. Krieg-Briickner, J. Peleska, E.-R. Olderog, et al. UniForM -- Universal Formal Methods Workbench. In Statusseminar des BMBF Softwaretechnologie, pages 357- 378  7. Josef Tapken. Interactive and Compilative Simulation of PLC-Automata
+     Url https://link.springer.com/chapter/10.1007/BFb0053601
+
+
+     Search term "PLC"+OR+"FPGA"+"Formal+methods"
+     Title An algebraic approach for PLC programs verification
+     Author ['JM Roussel', 'JM Faure']
+     Venue Sixth International Workshop on …
+     Year 2002
+     Abstract Page 1. An algebraic approach for PLC programs verification Jean  The behavior of the generic function blocks of the IEC 61131 standard as well as of PLC programs using these function blocks can be described in this algebra. Proper
+     Url https://ieeexplore.ieee.org/abstract/document/1167703/
+

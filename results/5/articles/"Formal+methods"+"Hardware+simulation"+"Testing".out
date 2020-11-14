@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Hardware+simulation"+"Testing"
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Formal methods in embedded design‏
+     Author ['SD Johnson']
+     Venue Computer, 2003‏
+     Year NA
+     Abstract To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous dialects for  this will delay the deployment and diminish the effec- tiveness of formal methods  Simulation and testing cannot demonstrate the reli- ability these systems require   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Randomized differential testing as a prelude to formal verification‏
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …, 2007‏
+     Year NA
+     Abstract We describe the experience of a group of model checking and formal methods researchers with randomized testing: the effectiveness of randomized testing at  3. Hardware Simulation with Fault Injection The most critical element in testing was a simulator for the flash hardware   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Large-scale hardware simulation: Modeling and verification strategies‏
+     Author ['DW Clark']
+     Venue Proceedings of the 25th Anniversary Symposium …, 1990‏
+     Year NA
+     Abstract Second is the challenge of correctness: since formal methods are not yet practical for verifying the correctness of an entire computer system, some testing scheme  If testing were free this might be all right, but in the hardware simulation environment, testing is far from   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.4432&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Simulation-based functional verification of microcircuit designs‏
+     Author ['KM Harer', 'PH Ho', 'RF Damiano']
+     Venue US Patent 7,130,783, 2006‏
+     Year NA
+     Abstract G06F11/26—Functional testing; G06F11/261—Functional testing by simulating additional hardware, eg fault simulation. G—PHYSICS; G06  or model checking; G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence   ‏
+     Url https://patents.google.com/patent/US7130783B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title The use of contract specifications for representing requirements and for functional testing of hardware models‏
+     Author ['VP Ivannikov', 'AS Kamkin', 'AS Kossatchev']
+     Venue … and Computer Software, 2007‏
+     Year NA
+     Abstract of these features allows us to adequately adapt contract specifications in the form of pre- and postconditions for representing requirements and for functional testing of such  4 Here, we do not consider various undefined values, which are often used in the hardware simulation   ‏
+     Url https://link.springer.com/article/10.1134/S0361768807050039
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Formal Methods Adoption: What's working, What's not!‏
+     Author ['D Craigen']
+     Venue International SPIN Workshop on Model Checking of …, 1999‏
+     Year NA
+     Abstract NQTHM is the use of executable specifications to model hardware chips, sometimes at a speed that is faster than traditional hardware simulation tools  The prime formal methods business case, at this point in time, is to en- hance Q&A; to complement current testing resources   ‏
+     Url https://link.springer.com/chapter/10.1007/3-540-48234-2_6
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title A two-level approach to automated conformance testing of VHDL designs‏
+     Author ['J Moonen', 'J Romijn', 'O Sies', 'J Springintveld']
+     Venue Testing of …, 1997‏
+     Year NA
+     Abstract Executing VHDL code means hardware simulation, for which we use the Cadence Leapfrog tool  Also appeared in: Proceedings of Protocol Specification, Testing and Verification VIII, pp  HDL-based integration of formal methods and CAD tools in the PREVAIL environment   ‏
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35198-8_28
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Hardware verification using software analyzers‏
+     Author ['R Mukherjee', 'D Kroening']
+     Venue 2015 IEEE Computer …, 2015‏
+     Year NA
+     Abstract A. Symbolic Hardware Simulation and Software Execution Symbolic simulation of hardware designs aims to replace multiple simulation runs, each with different  for Software In the case of software, symbolic execution is a combi- nation of traditional program testing together with   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/7308670/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Multiprocessor system verification through behavioral modeling and simulation‏
+     Author ['R Raghavan', 'J Kreulen', "B O'Krafka"]
+     Venue … on Computers and …, 1995‏
+     Year NA
+     Abstract Unfortunately, formal methods are still in their infancy and are difficult to apply to  it can also be useful in cross-checking obscure bugs encountered during hardware testing  Engine Maverick is a behavioral modeling environment that supplements our hardware simulation tools   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/472462/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Hardware/software co-simulation in a VHDL-based test bench approach‏
+     Author ['M Bauer', 'W Ecker']
+     Venue Proceedings of the 34th annual Design Automation …, 1997‏
+     Year NA
+     Abstract Formal methods could also help in functional tests  To fully support testing and debugging of both hardware and software, we defined a processor application for our test bench  [Sch96] B. Schnaider, E. Yogev, "Software Development in a Hardware Simulation Environment"   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/266021.266371
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Some recent advances in software and hardware logic simulation‏
+     Author ['R Murgai', 'M Fujita']
+     Venue Proceedings Tenth International …, 1997‏
+     Year NA
+     Abstract Not surprisingly, then, simulation is one of the major bottlenecks in the design pro- cess. Significant advances have been made in both software and hardware simulation. We survey some of the recent advances, with an emphasis on their main ideas. 1 Introduction   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/568081/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Facilitating structural coverage of a design during design verification‏
+     Author ['KM Harer', 'M Munishwar']
+     Venue US Patent 7,415,684, 2008‏
+     Year NA
+     Abstract describes coverage as the portion of the design covered during testing, determining structural  US20060010428A1 (en) *, 2004-07-12, 2006-01-12, Sri International, Formal methods for test  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution   ‏
+     Url https://patents.google.com/patent/US7415684B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework‏
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …, 2016‏
+     Year NA
+     Abstract [4]. Most formal methods are either hard to scale up to larger systems, or re- quire a difficult testing effort without guarantees for bug-free final products [12]  In almost all of the approaches, a simu- lation engine was substituted for RT hardware simulation   ‏
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title A systematic testing approach for autonomous mobile robots using domain-specific languages‏
+     Author ['M Proetzsch', 'F Zimmermann', 'R Eschbach']
+     Venue Annual Conference on …, 2010‏
+     Year NA
+     Abstract A predefined hardware interface allows the seamless exchange of hardware simulation and real system  A Systematic Testing Approach for Autonomous Mobile Robots 323  Springer, Heidelberg (2005) 3. Lankenau, A., Meyer, O.: Formal methods in robotics: Fault tree based   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16111-7_36
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Software intensive embedded systems‏
+     Author ['M Müllerburg']
+     Venue Information and Software Technology, 1999‏
+     Year NA
+     Abstract to more rigour in construction and validation, and hence, strengthen the role of formal methods  of formal verification, since it may need less effort than simulation and testing  and hardware), and computer aided design (CAD) (hardware synthesis, hardware simulation, test and   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0950584999000725
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Coverage-directed test generation using symbolic techniques‏
+     Author ['D Geist', 'M Farkas', 'A Landver', 'Y Lichtenstein']
+     Venue … on Formal Methods in …, 1996‏
+     Year NA
+     Abstract 2. The translation may decide to ignore wait states. 3. Some transitions are part of the model but are not targeted for testing  The resulting concrete test can be run on hardware simulation and checked for results. We call this application a Concretizer. Biasing   ‏
+     Url https://link.springer.com/chapter/10.1007/BFb0031805
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Use of formal verification at Centaur Technology‏
+     Author ['WA Hunt', 'S Swords', 'J Davis', 'A Slobodova']
+     Venue Design and verification of …, 2010‏
+     Year NA
+     Abstract 2. To prove that output from a hardware simulation is equivalent to that produced by a specification function, we produce BDDs representing both the hardware and the  The integration of formal methods into Centaur's design methodology has been on- going for several years   ‏
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-1539-9_3
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title FOrmal Methods for Embedded Systems‏
+     Author ['T FORMES\u200f']
+     Venue NA
+     Year NA
+     Abstract Enhance the hardware simulation technologies with  besides improving the existing technologies and tools, relies in the application itself: to combine simulation technologies with formal methods in order to  We plan to rely on simulations for testing the whole embedded system   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.4099&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title An Integrated Framework for Formal Verification and Distributed Simulation of Asynchronous Hardware Case for Support‏
+     Author ['DA Edwards', 'G Theodoropoulos']
+     Venue Research Project …, 2003‏
+     Year NA
+     Abstract MOVEP'02, Modelling and Verification of Paral- lel Systems, and SFM-02:MC, Formal Methods for the  Testing, by extensive simulation, is likely to miss the corner cases  chronous Hardware Simulation remains an invaluable and essential tool for validat- ing the correctness and   ‏
+     Url http://www.cs.bham.ac.uk/research/projects/parlard/proposal.ps
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Extended model checking hardware verification‏
+     Author ['N Agmon']
+     Venue US Patent 7,231,619, 2007‏
+     Year NA
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract  US8782580B2 (en), 2014-07-15, Executing a hardware simulation and verification solution  Pan, 1999, Software testing   ‏
+     Url https://patents.google.com/patent/US7231619B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Partial order reduction for scalable testing in system level design‏
+     Author ['MK Ganai', 'S Kundu']
+     Venue US Patent App. 12/265,347, 2009‏
+     Year NA
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract. A system and method for program testing includes, using a static analysis, determining dependency relations of   ‏
+     Url https://patents.google.com/patent/US20090132991A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title A bibliography on formal methods for system specification, design and validation‏
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue 1982‏
+     Year NA
+     Abstract In particular, we are referring here to work on iarmal specifications, design languages, verification, and testing,. ^;, v `= ' This report contains the results. of a iterature survey designed to classify current literature an formal methods that mi ht be meanin full ex lofted in r g gy P   ‏
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Formal hardware specification languages for protocol compliance verification‏
+     Author ['A Bunker', 'G Gopalakrishnan', 'SA Mckee']
+     Venue ACM Transactions on Design …, 2004‏
+     Year NA
+     Abstract B.4.5 [Input/Output and Data Communications]: Reli- ability, Testing, and Fault  The transfer of formal methods technologies to industrial practice depends on their ability to  In one project, class libraries support hardware simulation by implementing hardware design components   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/966137.966138
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Static Analysis for SystemC with Scoot: From Verification to Simulation‏
+     Author ['N Blanc']
+     Venue 2010‏
+     Year NA
+     Abstract In particular, our research shows that Formal Methods have applications beyond property checking, namely for code optimizations, simulation, and testing. We claim that appli- cations of formal engines at high abstraction levels are practical provided that   ‏
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/72717/eth-1159-02.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Formal hardware verification methods: A survey‏
+     Author ['A Gupta']
+     Venue Formal Methods in System Design, 1992‏
+     Year NA
+     Abstract 2.1. Problem dimensions Since the idea of using formal methods for verifying hardware was first introduced, researchers have explored numerous approaches to the problem  3.1.1.2. Applications of hardware simulation techniques   ‏
+     Url https://link.springer.com/content/pdf/10.1007/BF00121125.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title A formal method to identify deficiencies of functional requirements for product lines of embedded systems‏
+     Author ['F Markert', 'S Oster']
+     Venue Software Engineering 2011–Workshopband, 2011‏
+     Year NA
+     Abstract area of hardware simulation it has been state-of-the-art to use coverage metrics in order to  it could be shown that requirements can be tested for incompleteness, contradictions and redundancy with formal methods taken from  Testing and Validating the Quality of Specifications   ‏
+     Url https://dl.gi.de/handle/20.500.12116/19895
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title An Interpreter Interface Language: From Its Formal Embedding in Higher-Order Logic to Its Role in Better Simulation Practices‏
+     Author ['DA Fura', 'AK Somani\u200f']
+     Venue NA
+     Year NA
+     Abstract is an important part of a practical approach to transferring formal methods into working  4 The Role of Interface Languages in Simulation Environments Current hardware simulation methods are  This approach improves the efficiency of simulation-time testing since the testbench   ‏
+     Url https://www.researchgate.net/profile/Arun_Somani/publication/2342990_An_Interpreter_Interface_Language_From_Its_Formal_Embedding_in_Higher-Order_Logic_to_Its_Role_in_Better_Simulation_Practices/links/02bfe513e2ddeb8b31000000/An-Interpreter-Interface-Language-From-Its-Formal-Embedding-in-Higher-Order-Logic-to-Its-Role-in-Better-Simulation-Practices.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Clock model for formal verification of a digital circuit description‏
+     Author ['JAG Seawright', 'JR Levitt', 'C Gauthron']
+     Venue US Patent 8,060,847, 2011‏
+     Year NA
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  Today's approaches to simulation, testing and verification of digital circuit designs typically use a hardware design language   ‏
+     Url https://patents.google.com/patent/US8060847B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title System and process of extracting gate-level descriptions from simulation tables for formal verification‏
+     Author ['P Wohl', 'D Anastasakis']
+     Venue US Patent 6,247,165, 2001‏
+     Year NA
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. G—PHYSICS; G01—MEASURING; TESTING; G01R—MEASURING ELECTRIC VARIABLES; MEASURING MAGNETIC   ‏
+     Url https://patents.google.com/patent/US6247165B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title The Role of Validation in Refinement-Based Formal Software Development‏
+     Author ['JP Jacquot', 'A Mashkoor']
+     Venue 2018‏
+     Year NA
+     Abstract This is the standard issue of non-regression testing that faces the maintenance process and  This boils down to the fidelity of the hardware simulation model to the actual hardware piece  In formal methods, such as Event-B, the notion of refinement was introduced and formalized   ‏
+     Url https://hal.inria.fr/hal-01788768/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Automatic generation of properties to assist hardware emulation‏
+     Author ['Y Lu', 'L Vivolo', 'N Mhaske']
+     Venue US Patent 9,760,663, 2017‏
+     Year NA
+     Abstract functional simulation or model checking; G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence  For example, the emulator can be connected to other hardware that provides a real-world testing environment with real   ‏
+     Url https://patents.google.com/patent/US9760663B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title fault: A Python Embedded Domain-Specific Language for Metaprogramming Portable Hardware Verification Components‏
+     Author ['L Truong', 'S Herbst', 'R Setaluri', 'M Mann', 'R Daly']
+     Venue … on Computer Aided …, 2020‏
+     Year NA
+     Abstract cocotb also presents a coroutine abstraction that naturally models the concurrency found in hardware simulation  such as coroutines are essential for capturing the common patterns used in the testing of parallel  In: 2018 Formal Methods in Computer Aided Design (FMCAD), pp   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-030-53288-8_19
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title A novel simulation fault injection method for dependability analysis‏
+     Author ['D Lee', 'J Na']
+     Venue IEEE Design & Test of Computers, 2009‏
+     Year NA
+     Abstract In addition, it allows black- and white-box testing  To demonstrate fault injection experiments using SyFI, we designed a SystemC MIPS processor hardware simulation model and pre- pared the benchmark code from the MiBench bench- mark suite   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5340387/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Specific Criteria for System Design and Role and Importance of Hardware Software Co-design Process‏
+     Author ['V Shrimal', 'M Sharma', 'S Singh', 'R Gupta']
+     Venue World Applied Programming, 2011‏
+     Year NA
+     Abstract Testing  Hardware simulation is used from functional simulation to physical simulation  16-28, 1993 [10] A. Gupta, “Formal Hardware Verification Methods: A Survey,” Formal Methods in System Design,” Principles and Practice, J. Staunstrup and W. Wolf, Eds.: Kluwer Academic   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.910&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Co-verification of hardware and software‏
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,966, 2020‏
+     Year NA
+     Abstract However, such testing may testing may be prone to low coverage and human error  methods may intend to prove or disprove the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics   ‏
+     Url https://patents.google.com/patent/US20200142815A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Co-verification of hardware and software‏
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,952, 2020‏
+     Year NA
+     Abstract However, such testing may testing may be prone to low coverage and human error  methods may intend to prove or disprove the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics   ‏
+     Url https://patents.google.com/patent/US20200142814A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Co-verification of hardware and software‏
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent 10,649,887, 2020‏
+     Year NA
+     Abstract However, such testing may testing may be prone to low coverage and human error  methods may intend to prove or disprove the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics   ‏
+     Url https://patents.google.com/patent/US10649887B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title 100% Coverage for Safety-Critical Software–Efficient Testing by Static Analysis‏
+     Author ['D Kästner', 'R Heckmann', 'C Ferdinand']
+     Venue International Conference on …, 2010‏
+     Year NA
+     Abstract the software the absence of safety hazards has to be demonstrated by formal methods or testing  100% Coverage for Safety-Critical Software – Efficient Testing  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution time for   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15651-9_15
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Automatic generation of properties to assist hardware emulation‏
+     Author ['Y Lu', 'L Vivolo', 'N Mhaske']
+     Venue US Patent 10,073,933, 2018‏
+     Year NA
+     Abstract G06F17/50—Computer-aided design; G06F17/5009—Computer-aided design using simulation; G06F17/504—Formal methods. G—PHYSICS;  For example, the emulator can be connected to other hardware that provides a real-world testing environment with real-world input data   ‏
+     Url https://patents.google.com/patent/US10073933B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Digital Simulation‏
+     Author ['J Sanguinetti']
+     Venue … for IC System Design, Verification, and Testing, 2017‏
+     Year NA
+     Abstract tools have all been developed to help gauge the completeness of simulation testing  general software world where proving programs correct has proven intractable, formal methods for verifying  A process orientation is particu- larly useful for hardware simulation at a behavioral   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=UeobDAAAQBAJ&oi=fnd&pg=PA401&dq=%22Formal+methods%22+%22Hardware+simulation%22+%22Testing%22&ots=VdQ-0nj5jv&sig=Q3na1YjrfV28V0_j92PGE55eQoQ
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Implementation of Process Simulation for Marine Automation System‏
+     Author ['M Mononen']
+     Venue 2020‏
+     Year NA
+     Abstract Tightened class demands and increased costs of ensuring quality have created a need for improving engineering quality control and testing tools  2.6 Methods to reduce commissioning time in literature . . . . . 2.7 Improving VMS testing methods   ‏
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Program slicing for VHDL‏
+     Author ['EM Clarke', 'M Fujita', 'SP Rajan', 'T Reps']
+     Venue International Journal on …, 2002‏
+     Year NA
+     Abstract Hardware description languages (HDLs) are used today to describe circuits at all levels. In large HDL programs, there is a need for source code reduction tech- niques to address a myriad of problems in design, simu- lation, testing, and formal verification   ‏
+     Url https://link.springer.com/article/10.1007/s100090100069
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Types and associated type families for hardware simulation and synthesis‏
+     Author ['A Gill', 'T Bull', 'A Farmer', 'G Kimmell', 'E Komp']
+     Venue Higher-Order and Symbolic …, 2012‏
+     Year NA
+     Abstract Types and associated type families for hardware simulation and synthesis  Finally, York Lava is a independent effort to use the same ideas to generate VHDL for testing circuit designs and micro-architecture implementation ideas [28]   ‏
+     Url https://link.springer.com/article/10.1007/s10990-013-9098-7
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title 2018-00436-Formal Verification of Process Networks as Compiler Intermediate Representation-ROMA-PHD Campaign-Campagne Doctorants Grenoble Rhône …‏
+     Author ['M Moy\u200f']
+     Venue NA
+     Year NA
+     Abstract However, this would not provide strong correctness guarantees, just like testing software doesn't  Matthieu Moy (https://matthieu-moy.fr)'s main research area is hardware simulation (using SystemC  Compilation, model-checking, formal methods, parallelism, high-level synthesis   ‏
+     Url https://pdfs.semanticscholar.org/b75d/7b37c203c71f5efb0e32e171bec02b5dc857.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Hardware-software codesign of embedded systems‏
+     Author ['CJN Coelho', 'DCD Silva']
+     Venue Proceedings. XI Brazilian …, 1998‏
+     Year NA
+     Abstract Page 6. validation mathematical formal methods are being developed and employed  Hardware simulation is being used since the advent of integrated circuits, since a single run is very expensive and the time taken to validate the chip is cheaper   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/715400/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Hardware certification for real-time safety-critical systems: State of the art‏
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control, 2010‏
+     Year NA
+     Abstract Only relatively recently authors of papers on formal methods began considering tools supporting these approaches  relations for strong conformance to verify a design specification against a high-level specification, and developed tools for automated testing and verification of   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Enhancing hardware design flows with MyHDL‏
+     Author ['K Jaic', 'MC Smith']
+     Venue Proceedings of the 2015 ACM/SIGDA International …, 2015‏
+     Year NA
+     Abstract Genesis2[9] extends SystemVerilog capabilities for connecting HDL to hardware simulation  and guidance during development, and the MyHDL community for testing and submitting  Second ACM and IEEE International Conference on Formal Methods and Models for Co-Design   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2684746.2689092
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Verity—a formal verification program for custom CMOS circuits‏
+     Author ['A Kuehlmann', 'A Srinivasan']
+     Venue IBM Journal of Research …, 1995‏
+     Year NA
+     Abstract existing algorithms for software simulation [1], applying hardware simulation techniques [2], or using prototype implementations based on programmable logic devices. Recent research in the verification area is focused on applying formal techniques for testing higher-level   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5389515/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title System and methods for reasonable functional verification of an integrated circuit design‏
+     Author ['MS Sarwary', 'M Mneimneh']
+     Venue US Patent 8,806,401, 2014‏
+     Year NA
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. G06F17/5045—. G—PHYSICS; G01—MEASURING; TESTING; G01R—MEASURING ELECTRIC VARIABLES; MEASURING   ‏
+     Url https://patents.google.com/patent/US8806401B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Testing"
+     Title Rapid development of error-free architectural simulators using dynamic runtime testing‏
+     Author ['S Tomic', 'O Unsal', 'M Valero']
+     Venue 2011 23rd International …, 2011‏
+     Year NA
+     Abstract However, subtle hardware design bugs are often uncovered only in a detailed hardware simulation  Dynamic testing (illustrated in Figure 1) can help dis- cover whether and where a functional bug in the simulator occurred   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/6106008/
+
