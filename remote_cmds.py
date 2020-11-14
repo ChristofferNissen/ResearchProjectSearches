@@ -9,9 +9,7 @@ use_builtin = bool(sys.argv[2])
 # startup commands. Use to check configuration
 once_builtin_cmds = [
     """docker inspect scraper_container | grep ".txt" """,
-
 ]
-
 
 def exec_cmd(r, cmd):
     _ = subprocess.call(["vagrant", "ssh", r, "-c", cmd])
@@ -52,7 +50,7 @@ while True:
                 # used to continiously check state of running services
                 continue_builtin_cmds = [
                     """ docker ps -a """, 
-                    f"""ls -lah /vagrant/output/{r.replace("scraperserver", "")}/"""
+                    f"""ls -lah /vagrant/output/{r.replace("scraperserver", "")}_10/"""
                 ]
 
                 for c in continue_builtin_cmds:

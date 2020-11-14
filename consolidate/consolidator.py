@@ -122,6 +122,7 @@ def syncs3():
 
 
 
+THRESHOLD = os.getenv('THRESHOLD')
 
 article_dict = dict()
 AWS_BUCKET_NAME = os.getenv('AWS_BUCKET_NAME')
@@ -140,20 +141,19 @@ def main():
     logging.debug("Starting consolidate")
     consolidated = False
     while not consolidated:
-        if os.path.exists(base_path) and os.path.exists(f"output/{inputfilename}/lvl3.txt"): 
+        if os.path.exists(base_path) and os.path.exists(f"output/{inputfilename}_{THRESHOLD}/lvl3.txt"): 
             Consolidate(base_path) # populates article_dict()
 
             outputfilename = "consolidated.txt"
             CaptureOutput(print_article_overview, outputfilename, base_path)
 
-            outputfilename = f"{inputfilename}_consolidated.csv"
+            outputfilename = f"{inputfilename}_{THRESHOLD}_consolidated.csv"
             CaptureOutput(create_csv_output, outputfilename, base_path)
             consolidated = True
 
         else: 
-            logging.info("Sleeping for 5 min before sync") 
-            time.sleep(300) # 5 min
-            # syncs3()
+            logging.info("Sleeping for 1 min, waiting for artifacts to process") 
+            time.sleep(60) # 5 min
             
     exit(0)
 

@@ -2,7 +2,7 @@ Vagrant.configure("2") do |config|
     config.vm.box = 'digital_ocean'
     config.vm.box_url = "https://github.com/devopsgroup-io/vagrant-digitalocean/raw/master/box/digital_ocean.box"
 
-    (7..7).each do |machine| 
+    (1..7).each do |machine| 
       config.vm.define "scraperserver#{machine}", primary: true do |server|
         server.vm.provider :digital_ocean do |provider,  override|
           override.ssh.private_key_path = '~/.ssh/id_rsa'
