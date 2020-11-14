@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Simulation experiments on applying the HiL system are used to verify the validity of self-driving  concluded that the HiL system is efficient for vehicle dynamic component testing. Xu et al  systems between sensors or between sensors and the car is easier to be regulated than in
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A power hardware-in-loop based testing bed for auxiliary active power control of wind power plants
+     Author ['Y Zhou', 'J Lin', 'Y Song', 'Y Cai', 'H Liu']
+     Venue Electric Power Systems Research
+     Year 2015
+     Abstract One more method is based on hardware simulation or offline recording, such as the apparatus  WPP suppresses oscillation efficiently through variation of wind farm active power output regulated according to  to be a useful tool in the process of dynamic response testing for WPP
+     Url https://www.sciencedirect.com/science/article/pii/S0378779615000589
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Examination of ambient pressure effects on hybrid solid oxide fuel cell turbine system operation using hardware simulation
+     Author ['D Tucker', 'L Lawson', 'J VanOsdol']
+     Venue … Expo: Power for …
+     Year 2006
+     Abstract facility is located in a test cell with a fairly well regulated temperature, a  system.6 A simplified process flow diagram of the experimental hardware simulation facility is  RESULTS Previous testing has shown that reproducibility depends greatly on ambient temperature, pressure
+     Url https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2006/42398/449/315369
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Systems and methods for power hardware in the loop testing
+     Author ['A Monti', "S D'arco"]
+     Venue US Patent 7,979,223
+     Year 2011
+     Abstract The testing platform has to include a power section that can be capable to drain the same currents as the emulated load  In this configuration, the currents drained in each branch of the filter can be regulated by controlling the output voltages of the inverter
+     Url https://patents.google.com/patent/US7979223B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware simulation of fuel cell/gas turbine hybrids
+     Author ['TP Smith']
+     Venue NA
+     Year 2007
+     Abstract real-time. Once the integration of the numeric and the hardware simulation components was completed, HILS experiments were conducted to evaluate hybrid system performance. The testing identified non-intuitive transient responses arising from the
+     Url https://smartech.gatech.edu/handle/1853/14581
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Verification of a CubeSat via hardware-in-the-loop simulation
+     Author ['S Corpino', 'F Stesina']
+     Venue IEEE Transactions on Aerospace and …
+     Year 2014
+     Abstract HIL is a hybrid software/hardware simulation architecture, in which the hardware part can vary from  a one-unit (1U) satellite developed by students with the aim of testing in space  Electrical power is stored in two battery packs, then regulated and distributed to other subsystems
+     Url https://ieeexplore.ieee.org/abstract/document/6978879/
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems  The output voltage vo has to be regulated at Vo_ref = 5 V. Switch SWR is used to put in parallel an additional resistor in order
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware simulation with access restrictions
+     Author ['W Neifert', 'K Hotaling', 'J Marantz', 'A Ladd']
+     Venue US Patent App. 10 …
+     Year 2004
+     Abstract [0013]. In another aspect, the invention comprises a method of facilitating controlled access to a computational hardware simulation object  108 may be used to simulate the operation of the actual device 102 in order, for example, to facilitate development and testing of software
+     Url https://patents.google.com/patent/US20040093198A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Synchronized simulation of software and hardware in the analog domain
+     Author ['NJ Elias']
+     Venue US Patent 6,980,945
+     Year 2005
+     Abstract is a process chart of steps for synchronizing operating software instruction activation with hardware simulation  The functional steps include, for example, start-up, maintaining a regulated power level  an independent test of the digital processing, whereas combined testing of the
+     Url https://patents.google.com/patent/US6980945B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Modelling of Photovoltaic Systems for Real-Time Hardware Simulation
+     Author ['H Palahalli', 'Y Huo', 'G Gruosso']
+     Venue ELECTRIMACS 2019
+     Year 2020
+     Abstract Modelling of Photovoltaic Systems for Real-Time Hardware Simulation  10], it is a configuration-based testing software, specifically designed to run the real-time testing application, thus  Power will be compensated by the energy stored and the voltage is brought regulated
+     Url https://link.springer.com/chapter/10.1007/978-3-030-37161-6_1
+

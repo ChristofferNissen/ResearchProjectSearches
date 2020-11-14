@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA simulation of linear and nonlinear support vector machine
+     Author ['D Mahmoodi', 'A Soleimani', 'H Khosravi']
+     Venue Journal of Software …
+     Year 2011
+     Abstract Table 5. Hardware simulation results of nonlinear SVM. compared with MATLAB  This de-. sign can be generalized to other SVM classification ap-. plications with no limitation in the number of training. and testing data  But there is a restriction only. on the FPGA hardware resources
+     Url https://www.scirp.org/html/5072.html
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems. The embedded processor core, peripherals, and the power converter model are all implemented into the same FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract This motivates the design of an electrothermal algorithm for FPGA implementation  In order to in- troduce these new devices to the current market, real time (RT) simulation plays a fundamental role in the design and testing of these converter/machine drives
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based real-time simulation of renewable energy source power converters
+     Author ['T Kökényesi', 'I Varjasi']
+     Venue Journal of Energy and Power …
+     Year 2013
+     Abstract Time to market can take unacceptable long. FPGA-based real-time simulation of a power stage with analog measured signals can reduce significantly the cost and time of testing a product. This new approach is known as HIL (hardware-in-the-loop) testing
+     Url http://search.proquest.com/openview/35128ccac1f88307b69ebbfdb07341ae/1.pdf?pq-origsite=gscholar&cbl=2029951
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A novel approach to FPGA-based hardware fault modeling and simulation
+     Author ['A Parreira', 'JP Teixeira', 'M Santos']
+     Venue Proc. of the Design and Diagnostics …
+     Year 2003
+     Abstract Note that CSA test requires half the vectors needed for testing each LUT position with both logic values (exhaustive LUT testing)  HFS has a significant initial cost, associated with FPGA synthesis, and configuration, and low cost in the hardware simulation process itself
+     Url http://www.inesc-id.pt/ficheiros/publicacoes/1232.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract 2, JUNE 2015 Page 7. FARUQUE et al.: Real-Time Simulation Technologies for Power Systems Design, Testing, and Analysis  FPGA as a signal conditioning and coprocessing device for the analog and digital inputs and outputs. A pictorial view of such a system is shown in Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Simulation credibility assessment methodology with FPGA-based hardware-in-the-loop platform
+     Author ['X Dai', 'C Ke', 'Q Quan', 'KY Cai']
+     Venue IEEE Transactions on Industrial …
+     Year 2020
+     Abstract HIL PLATFORM AND TESTING METHOD A. FPGA-based HIL Simulation A modern complex  based HIL simulation technique is proposed to ensure the credibility of lower-level hardware simulation. The existing FPGA-based HIL simulation methods [2], [16], [17] mainly use the
+     Url https://ieeexplore.ieee.org/abstract/document/9047141/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract considered [22]. The complete system (Fig. 2) is made up by the power converter and a versatile control architecture based on a SoPC implemented into an FPGA. It allows testing modulation patterns directly from a PC. The control
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DAB Channel Decoder Implementation Using FPGA and Its Testing Platform Buildup
+     Author ['CT Yu', 'KS Yang', 'YP Chang']
+     Venue IEEE Transaction on VLSI system
+     Year 2005
+     Abstract These data can be used to control the real signal generator and generate real DAB signal as the input of the implemented FPGA-based hardware to do the hardware testing. The resulting data files then are inserted to the next function block in the hardware simulation model to
+     Url https://www.researchgate.net/profile/Yu-Pin_Chang/publication/252858840_DAB_Channel_Decoder_Implementation_Using_FPGA_and_Its_Testing_Platform_Buildup/links/0c9605295c3d9a2604000000.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Multi-FPGA digital hardware design for detailed large-scale real-time electromagnetic transient simulation of power systems
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IET Generation, Transmission & Distribution
+     Year 2013
+     Abstract are compared with offline simulation results, and conclusions are derived on the performance and scalability of this multi-FPGA hardware design  adequate security and reliability [1–5]. Real-time EMT simulators are widely employed for such applications as testing of advanced
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2012.0374
+

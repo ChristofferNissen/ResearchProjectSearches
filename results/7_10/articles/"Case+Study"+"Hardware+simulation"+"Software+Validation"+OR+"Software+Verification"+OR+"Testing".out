@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An industrial case study of structural testing applied to safety-critical embedded software
+     Author ['J Guan', 'J Offutt', 'P Ammann']
+     Venue Proceedings of the 2006 ACM/IEEE …
+     Year 2006
+     Abstract 4. CASE STUDY AND RESULTS This section describes the MFT and CACC testing results, and discusses the implications of the results in regards to the  4.1 Manual Functional Testing A test engineer performed the manual functional testing directly on the target hardware
+     Url https://dl.acm.org/doi/abs/10.1145/1159733.1159774
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  P. Terwiesch, T. Keller, E. Scheiben, "Rail vehicle control system inte- gration testing using digital  real-time hardware-in-the- loop simulation for rail vehicles: A case study”, EPE'97
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing Compilers for Programmable Switches Through Switch Hardware Simulation
+     Author ['MD Wong', 'A Varma', 'A Sivaraman']
+     Venue arXiv preprint arXiv:2005.02310
+     Year 2020
+     Abstract Through Switch Hardware Simulation  We present Druzhba, a programmable switch simulator used for testing compilers targeting programmable packet processing substrates  Using a program-synthesis-based compiler as a case study, we demonstrate how Druzhba has been
+     Url https://arxiv.org/abs/2005.02310
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Radiation tolerance testing using software simulation
+     Author ['J Northern', 'E Grayver']
+     Venue 2010 IEEE Aerospace Conference
+     Year 2010
+     Abstract standard hardware simulation tools to address this problem  This platform allows designers to start analyzing and testing for SEU during the design phase  in Section 2; Section 3 presents the description of the simulation platform; Section 4 introduces a case study where the
+     Url https://ieeexplore.ieee.org/abstract/document/5446656/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Examination of LV grid phenomena by means of PHIL testing
+     Author ['G Lauss', 'F Lehfuß', 'B Bletterie']
+     Venue IECON 2012-38th …
+     Year 2012
+     Abstract As a validating case study, a low voltage grid with different grid  DIFFERENT TECHNICAL METHODS OF TESTING - DESCRIPTION OF THE SYSTEM UNDER TEST  TABLE II GRID IMPEDANCE SETTINGS (HARDWARE SIMULATION) - Parameter of Impedances Name
+     Url https://ieeexplore.ieee.org/abstract/document/6389586/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware/software co-design using Ptolemy–a case study
+     Author ['A Kalavade', 'EA Lee']
+     Venue … of the International Workshop on Hardware …
+     Year 1992
+     Abstract band data modem testing - where the hardware comprises custom hardware coupled to  The Thor domain could be replaced by a VHDL domain that could support hardware simulation and synthesis. Page 7. Hardware/Software Codesign Using Ptolemy- A Case Study
+     Url http://algos.inesc-id.pt/projectos/projects/civet/Kalavade92.pdf
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract 1 Abstract—This paper presents a compendious summary of power hardware-in- the-loop (PHIL) simulations that are used for designing, analyzing and testing of electrical power system components. PHIL simulations are an
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Co-simulation method for hardware/software evaluation using Xilinx system generator: a case study on image compression algorithms for capsule endoscopy
+     Author ['Q Al-Shebani', 'P Premaratne', 'PJ Vial']
+     Venue 2018 12th …
+     Year 2018
+     Abstract utilization are the main reasons for selecting the capsule endoscopy compression system for this case study  Keywords—image compression, hardware simulation, Xilinx design, capsule endoscopy I. INTRODUCTION It is important to have a verification or testing method that is
+     Url https://ieeexplore.ieee.org/abstract/document/8631737/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …
+     Year 2016
+     Abstract in the fourth section, which is followed by the details and results of a related case study  and a MAS soft platform on the other will result in a suitable and flexible testing platform for  Hardware simulation agent module: This belongs to the CPN model of the system and is used to
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract user distributed simulation system in a laboratory for R&D and factory testing of complex  TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
