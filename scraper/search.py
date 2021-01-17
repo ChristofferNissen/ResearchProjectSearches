@@ -435,7 +435,7 @@ AWS_BUCKET_NAME = os.getenv('AWS_BUCKET_NAME')
 AWS_REGION = os.getenv('AWS_REGION')
 FILE = os.getenv('FILE')
 inputfilename = FILE.split('/')[1].split('.')[0]
-THRESHOLD = os.getenv('THRESHOLD')
+THRESHOLD = 10
 BASE_PATH = f"output/{inputfilename}_{THRESHOLD}/"
 
 s3_resource = boto3.resource(

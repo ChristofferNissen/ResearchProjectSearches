@@ -122,13 +122,13 @@ def syncs3():
 
 
 
-THRESHOLD = os.getenv('THRESHOLD')
+THRESHOLD = 10
 
 article_dict = dict()
 AWS_BUCKET_NAME = os.getenv('AWS_BUCKET_NAME')
 FILE = os.getenv('FILE')
 inputfilename = FILE.split('/')[1].split('.')[0]
-base_path = f"output/{inputfilename}/articles/"
+base_path = f"output/{inputfilename}_{THRESHOLD}/articles/"
 CSV_DELIMITER = 'Æ'
 s3_resource = boto3.resource(
     's3',
