@@ -1,0 +1,244 @@
+Showing papers for search query "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The Expanded Reach of Simulation Based Aircraft System Verification and its Software Capability Requirements
+     Author ['SC James', 'C Savaglio']
+     Venue AIAA Modeling and Simulation Technologies …
+     Year 2014
+     Abstract the EEC, running real airborne software, to perform dynamic software verification testing • Iron  compilation of test data, formatted for submissions • Traceability Matrix – traceability from system  Aircraft Power Hardware Simulation Based Facility Over the past decade, the aircraft
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2014-2081
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Automated test environment for a real-time control system
+     Author ['RO Hall']
+     Venue NA
+     Year 1994
+     Abstract The primary use of the environment is software verification and validation, but it is  Rocketdyne assumed responsibility for the facility, known as the Hardware Simulation  An essential task of test management is to provide traceability between software requirements, test scripts
+     Url https://ntrs.nasa.gov/search.jsp?R=19950008238
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Initial flight qualification and operational maintenance of X-29A flight software
+     Author ['M EARLS', 'J SITZ']
+     Venue Guidance, Navigation and Control Conference
+     Year 1989
+     Abstract It includes software design standards and practices (de- scribed above), configuration management, reviews, test philosophy, software verification and system vali- dation, and media production and control (that is, ob- ject tapes and source tapes)
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1989-3596
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title EOD Earth observation data processing preparation and evaluation. ENTICE Consortium, c/o Elecnor Deimos
+     Author ['J Becedas', 'JJ Ramos']
+     Venue NA
+     Year 2015
+     Abstract 4.1 Software Validation Process Overview  The Software Verification and Validation activities shall be performed by the development team, under the Principal Investigator  some hardware behaviour will be not tested, as a result of which no hardware simulation is foreseen
+     Url http://www.entice-project.eu/s/ENTICE-D63-EOD-Earth-Observation-Data-Processing-and-Evaluation-10.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Innovative Concepts to Reduce Costs of Mission Control and Simulators for Lisa Pathfinder
+     Author ['F Delhaise', 'T Bru']
+     Venue SpaceOps 2006 Conference
+     Year 2006
+     Abstract in separate modules they can be displayed in this way using the traceability wizard  Second possibility was the reuse of the Software Verification Facility (ASU- SVF) developed by EADS  The second option, the ASU-SVF Hardware simulation was judged out of the scope for use
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2006-5859
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Hardware-in-the-loop simulation for real-time software verification of an autonomous underwater robot
+     Author ['P Sarhadi', 'RNA Niachari', 'MP Rad']
+     Venue International Journal of …
+     Year 2016
+     Abstract Sarhadi, Reza Nad Ali Niachari, Morteza Pouyan Rad and Javad Enayati (2016) "Hardware-in-the-loop simulation for real-time software verification of an  In the supervision process of software projects, main targets such as traceability, consistency, maintainability, reliability
+     Url https://www.emerald.com/insight/content/doi/10.1108/IJIUS-12-2015-0016/full/html
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Onboard software
+     Author ['SI Cofán', 'A Formella']
+     Venue Cubesat Handbook
+     Year NA
+     Abstract Independently of the selected methodology, software verification and validation must be taken seriously  In this stage of the project, it should be noted that traceability is a relevant aspect to be considered, because tracing the fulfillment of requirements provides quality to the
+     Url https://www.sciencedirect.com/science/article/pii/B9780128178843000126
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title 100% Coverage for Safety-Critical Software–Efficient Testing by Static Analysis
+     Author ['D Kästner', 'R Heckmann', 'C Ferdinand']
+     Venue International Conference on …
+     Year 2010
+     Abstract Classical software validation methods like code review and testing with debug- ging cannot really  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution  C code from a SCADE model, together with a traceability file that
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15651-9_15
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A Modeling Specification Methodology to Support Simulation of Distributed Heterogeneous Power Systems
+     Author ['K Mueller', 'L Johnson']
+     Venue 7th International Energy Conversion Engineering …
+     Year NA
+     Abstract This allows for the hardware simulation models to correlate to existing hardware test and  This approach to software validation in only possible once hardware exists, thereby putting off a  Requirements To assure uniformity, clarity and to facilitate system level traceability (such as
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2009-4562
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Verification and Validation
+     Author ['L Markosian', 'MS Feather']
+     Venue System Health …
+     Year 2011
+     Abstract Executable Object Code Software Verification Cases and Procedures Software Verification Results Software  of configuration item baselines, change control data, and traceability throughout the  The Block II Space Shuttle Main Engine (SSME) Hardware Simulation Laboratory II
+     Url https://pdfs.semanticscholar.org/4c5c/96bfe52cf1d7d486245ecb26eb66eb875113.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Error propagation in a system model
+     Author ['K Schloegel', 'D Bhatt', 'DV Oglesby', 'G Madl']
+     Venue US Patent 8,984,343
+     Year 2015
+     Abstract FIG. 1 illustrates a computer for execution of a software verification tool in accordance with one embodiment. FIG  Current software verification tools do not directly handle errors associated with signal values (also referred to herein as “signal value errors”)
+     Url https://patents.google.com/patent/US8984343B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Demystifying Soft-Error Mitigation by Control-Flow Checking--A New Perspective on its Effectiveness
+     Author ['S Schuster', 'P Ulbrich', 'I Stilkerich', 'C Dietrich']
+     Venue ACM Transactions on …
+     Year 2017
+     Abstract Hardware → Transient errors and upsets; • Software and its engineering → Soft- ware reliability; Software fault tolerance; Empirical software validation; Translator writing  This defined approach ensures an isolated injectivity, observability, and traceability of control-flow faults
+     Url https://dl.acm.org/doi/abs/10.1145/3126503
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract The tools for requirements' management and traceability, checking compliance of HDL code with coding standards, HDL code verification, and test suite optimization. •  Using traceability metrics from the project inception. • Considering verification at the start of the program. •
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with XtremLogic on HLS, and obviously plan to continue these collaborations. More details can be found in section A. References
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Coverage metrics for requirements-based testing
+     Author ['A Rajan', 'MPE Heimdahl']
+     Venue NA
+     Year 2009
+     Abstract Current practices in software validation rely on the engineering judgment of domain experts to de  termed, requirements coverage metrics, that helps determine whether the behaviors specified by the requirements have been adequately tested during software validation
+     Url http://homepages.inf.ed.ac.uk/arajan/thesis-main.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title System and method for a hierarchical database management system for educational training and competency testing simulations
+     Author ['K Chen-Wright', 'NH Garner', 'NM Maxwell']
+     Venue US Patent 7,523,127
+     Year 2009
+     Abstract US7523127B2 - System and method for a hierarchical database management system for educational training and competency testing simulations - Google Patents. System and method for a hierarchical database management
+     Url https://patents.google.com/patent/US7523127B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Testing tool comprising an automated multidimensional traceability matrix for implementing and validating complex software systems
+     Author ['BM Blackwell', 'LR Guzman Jr', 'JP Collen']
+     Venue US Patent …
+     Year 2009
+     Abstract US7490319B2 - Testing tool comprising an automated multidimensional traceability matrix for implementing and validating complex software systems - Google Patents. Testing tool comprising an automated multidimensional
+     Url https://patents.google.com/patent/US7490319B2/en
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Spacelab software development and integration concepts study report, volume 1
+     Author ['PL Rose', 'BG Willis']
+     Venue NA
+     Year 1973
+     Abstract Page 1. Prepared for the - ' 31 October 1973 GEORGE C. MARSHALL SPACE FLIGHT CENTER Contract No.: NAS8-30376 Huntsville, Alabama MSFC No.: MSFC-DR L-389, Line Item No. 2 IBM No.: 73W-00326 SPACE LAB
+     Url https://ntrs.nasa.gov/search.jsp?R=19740025199
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Policies, News, and Updates
+     Author ['M Croxford', 'R Chapman', 'G Miller', 'TL Bennett']
+     Venue crosstalk
+     Year 2005
+     Abstract Page 1. Page 2. 2005 Top 5 US Department of Defense Programs Awards This annual contest to award quality software development now recognizes successful application of systems engineering best practices. Correctness
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.117.427&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title CrossTalk: The Journal of Defense Software Engineering. Volume 18, Number 12
+     Author ['M Croxford', 'R Chapman', 'G Miller', 'TL Bennett']
+     Venue NA
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title CASH: Compilation and Analysis, Software and Hardware December 10, 2018
+     Author ['C Alias', 'J Braine', 'L Gonnord', 'L Henrio', 'P Iannetta']
+     Venue NA
+     Year 2018
+     Abstract compilation. Similarly, the hardware simulation community usually considers compilers as black-boxes and do not interact with researchers in compilation. Our contributions are therefore expected in several domains. While
+     Url http://www.ens-lyon.fr/LIP/CASH/wp-content/uploads/2018/01/projet-equipe-CASH.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The Legacy of Space Shuttle Flight Software
+     Author ['C Hickey', 'A Klausman', 'B Loveall', 'J Orr']
+     Venue AIAA SPACE 2011 Conference …
+     Year 2011
+     Abstract The Requirements Analyst and Verifier also made updates, if needed, to other maintenance documentation used to aid traceability. Page 11. American Institute of Aeronautics and Astronautics 11  In addition, several other facilities were used for software verification
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2011-7307
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A VHDL Simulator in a Co-verification Environment
+     Author ['K Melakari']
+     Venue NA
+     Year 1998
+     Abstract Page 17. 17 It is, however, possible to speed up hardware simulation by using hardware accelerators, which are specialised computers, allowing the gate-level HDL description to be executed faster than it would be with an ordinary workstation
+     Url https://www.vttresearch.com/sites/default/files/pdf/publications/1998/P355.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping
+     Author ['T De Schutter']
+     Venue NA
+     Year 2014
+     Abstract ISO 26262. This dynamic, in turn, is placing much greater pressure on system integrators to mandate augmented lifecycle management practices and to require higher levels of traceability for compliance documentation. Virtual
+     Url https://books.google.com/books?hl=nl&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Traceability%22&ots=cw6VucEyk6&sig=zEdUDQEW8w5zWl15-lHeojPvKuk
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract 184 Baseline Traceability  2 Airborne Electronic Hardware Design Assurance a high level of documentation and traceability that, while inconvenient on the sur- face, has repeatedly proven its worth over the long-term life of a design
+     Url https://books.google.com/books?hl=nl&lr=&id=ZQMvDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Traceability%22&ots=Dqra5IymLL&sig=Tc_UzAYemiYIL-EndsBLywkRt24
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Design and verification of Guidance, Navigation and Control systems for space applications
+     Author ['S Corpino', 'S Chiesa', 'EF Fossati']
+     Venue NA
+     Year 2014
+     Abstract Simulation is used during the engineering process and can be classified from fully numerical (ie all the equipment and conditions are reproduced as virtual model) to fully integrated hardware simulation (where the system is represented by real hardware and software modules
+     Url https://core.ac.uk/download/pdf/234900652.pdf
+
+
+     Search term "Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Simulators and emulators for WSNs
+     Author ['HMA Fahmy']
+     Venue Wireless sensor networks
+     Year 2016
+     Abstract accurate solution. Fundamentally, software validation and verification is different from model validation and verification. Software validation and verification is required when a computer program or code is the end product. Model
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0412-4_6
+

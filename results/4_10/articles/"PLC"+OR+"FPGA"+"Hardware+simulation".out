@@ -1,0 +1,91 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Hardware+simulation"
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Multi-FPGA digital hardware design for detailed large-scale real-time electromagnetic transient simulation of power systems
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IET Generation, Transmission & Distribution
+     Year 2013
+     Abstract ISSN 1751-8687 Multi-FPGA digital hardware design for detailed  This study introduces a multi-field programmable gate array (FPGA) hardware design for this purpose. A functional decomposition method is proposed to map FPGA hardware resources to system modelling
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2012.0374
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract 1 Real-Time FPGA-Based Hardware-in-the-Loop  To overcome these limitations, this paper proposes a real-time simulation test-bench. The embedded processor core, peripherals, and the power converter model are all implemented into the same FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Real-time digital hardware simulation of power electronics and drives
+     Author ['GG Parma', 'V Dinavahi']
+     Venue IEEE Transactions on Power Delivery
+     Year 2007
+     Abstract Page 9. PARMA AND DINAVAHI: REAL-TIME DIGITAL HARDWARE SIMULATION OF POWER ELECTRONICS AND DRIVES 1243 TABLE VII FPGA RESOURCES UTILIZED BY SYSTEM COMPONENTS Fig. 18. Real-time simulator timing resolution
+     Url https://ieeexplore.ieee.org/abstract/document/4141147/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Fpga-accelerated simulation technologies (fast): Fast, full-system, cycle-accurate simulators
+     Author ['D Chiou', 'D Sunwoo', 'J Kim', 'NA Patil']
+     Venue 40th Annual IEEE …
+     Year 2007
+     Abstract Page 1. FPGA-Accelerated Simulation Technologies (FAST)  The speculative func- tional model enables the simulator to be parallelized, im- plementing the timing model in FPGA hardware for speed and the functional model using a modified full-system simu- lators
+     Url https://ieeexplore.ieee.org/abstract/document/4408260/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title A novel approach to FPGA-based hardware fault modeling and simulation
+     Author ['A Parreira', 'JP Teixeira', 'M Santos']
+     Venue Proc. of the Design and Diagnostics …
+     Year 2003
+     Abstract test length and fault list size, especially for sequential circuits. HFS has a significant initial cost, associated with FPGA synthesis, and configuration, and low cost in the hardware simulation process itself 1 . In order to identify
+     Url http://www.inesc-id.pt/ficheiros/publicacoes/1232.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title FPGA simulation of linear and nonlinear support vector machine
+     Author ['D Mahmoodi', 'A Soleimani', 'H Khosravi']
+     Venue Journal of Software …
+     Year 2011
+     Abstract Copyright © 2011 SciRes. JSEA. FPGA Simulation of Linear and Nonlinear Support Vector Machine 327. Table 3. Hardware simulation results of linear SVM com-. pared with MATLAB. tion. Fixed point numbers is used for quantization
+     Url https://www.scirp.org/html/5072.html
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title MATLAB/Simulink based hardware/software co-simulation for designing using FPGA configured soft processors
+     Author ['J Ou', 'VK Prasanna']
+     Venue 19th IEEE International Parallel and …
+     Year 2005
+     Abstract modeling environment offered by MATLAB/Simulink to perform arithmetic level simulation, which is much faster than the behavioral and architectural simulations in traditional FPGA design flows  However, Seamless only supports time- consuming low-level hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/1419998/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract 51, NO. 2, MARCH/APRIL 2015 FPGA-Based Detailed Real-Time Simulation of Power Converters and Electric Machines  In this paper, a field- programmable gate array (FPGA)-based RT platform for sim- ulation of power converters and electric machines is presented
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Digital hardware emulation of universal machine and universal line models for real-time electromagnetic transient simulation
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on industrial …
+     Year 2011
+     Abstract The hardware is based on advanced Field Programmable Gate Array (FPGA) using VHDL  On a 130MHz input clock frequency to the FPGA, the achieved execution times for UM and ULM models are 2.5μs and 1.42μs respectively
+     Url https://ieeexplore.ieee.org/abstract/document/5771995/
+
+
+     Search term "PLC"+OR+"FPGA"+"Hardware+simulation"
+     Title Processor-in-the-loop and hardware-in-the-loop simulation of electric systems based in FPGA
+     Author ['J Mina', 'Z Flores', 'E López', 'A Pérez']
+     Venue … Conference on Power …
+     Year 2016
+     Abstract P. Poure, and S. Saadate, “FPGA-Based Real- Time Power Converter Failure Diagnosis for Wind Energy Conversion Systems,” Ind. Electron. IEEE Trans., vol. 55, no. 12, pp. 4299–4308, 2008. [10] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/7530751/
+

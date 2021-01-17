@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract Therefore to fully define a PLC tag the ICD must include the following information: • Tag name — this project incorporated the Signal Label from the signal list (see Table 1) into defined tag names to ensure easy traceability of signal from electronics diagram to PLC to PC
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Technologies for hardware simulation and verification
+     Author ['V Hahanov', 'A Hahanova', 'V Obrizan']
+     Venue … on" Modern Problems …
+     Year 2008
+     Abstract it is very urgent question to combine all advantages with hardware implementation, it will give high-performance hardware simulation and new  Implementation to the FPGA  The last one may be represented as transition graph, and it is needed verify traceability of all states and
+     Url https://ieeexplore.ieee.org/abstract/document/5423439/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Raspberry Pi based Surveillance System with FPGA based Hardware Accelerator for Video Enhancement
+     Author ['S Pandit']
+     Venue NA
+     Year 2018
+     Abstract IR Transmitter and Receiver 19 17. Simulink Model for Video Sharpening using 2-D Filter 21 18. Hardware deployable Simulink model 22 19. Software Simulation 24 20. Loading bit file into FPGA (top); Output of Hardware simulation (bottom) 24 Page 9. 1 Chapter-1: Introduction
+     Url https://www.researchgate.net/profile/Sujay_Pandit/publication/330358936_Raspberry_Pi_based_Surveillance_System_with_FPGA_based_Hardware_Accelerator_for_Video_Enhancement/links/5c3c3a95458515a4c724861a/Raspberry-Pi-based-Surveillance-System-with-FPGA-based-Hardware-Accelerator-for-Video-Enhancement.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract Automatic documentation is generated and traceability is assured back to the design requirements. It is interesting to note that Aldec FPGA chips, as being used in safety-critical applications, have undergone some significant scrutiny
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Unified Simulation and Test Platform for Control Systems of Unmanned Vehicles
+     Author ['X Dai', 'C Ke', 'Q Quan', 'KY Cai']
+     Venue arXiv preprint arXiv:1908.02704
+     Year 2019
+     Abstract In this paper, a unified simulation and test platform is proposed for control systems of unmanned vehicles based on FPGA-based HIL simulation and MBD methods, aiming to significantly improve the test efficiency and safety level of control  4 Product Hardware Simulation Model
+     Url https://arxiv.org/abs/1908.02704
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title DSP hardware surrogate for the HLA
+     Author ['L Li']
+     Venue NA
+     Year 2003
+     Abstract API CCS COTS DCB DFT DoD DSP EVM FedExec FFT FOM GTIé HLA HWIL LibRTl MFC MOM OMT PLC RTDX List of  are becoming more complex [3]. Products often incorporate pre—developed, complex, application-speciﬁc blocks, eg DSP, ASIC and FPGA, together with
+     Url https://curve.carleton.ca/system/files/etd/b46f9adb-dc40-4d5a-b0cb-7bb7cf853bc5/etd_pdf/f8d5c408b801ad359e85bb1224e9c116/li-dsphardwaresurrogateforthehla.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title OpenRISC System-on-Chip Design Emulation
+     Author ['K Cong', 'L Lei', 'Z Yang', 'F Xie']
+     Venue arXiv preprint arXiv:1602.03095
+     Year 2016
+     Abstract ORPSoC emulation with Veloce has more than ten times faster than hardware simulation  Veloce not only provides the designers full traceability over entire software stacks and hardware systems, but  of Instructions # cycles ModelSim Simulation Veloce Emulation FPGA (50MHz
+     Url https://arxiv.org/abs/1602.03095
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title software/FPGA co-design for Edge-computing: Promoting object-oriented design
+     Author ['XS Le']
+     Venue NA
+     Year 2017
+     Abstract software/FPGA co-design for Edge-computing: Promoting object-oriented design Xuan Sang Le To cite this version  École Doctoral Santé, Information, Communication, Mathématique, Matière Software/FPGA Co‡design for Edge‡computing: Promoting Object‡oriented Design
+     Url https://tel.archives-ouvertes.fr/tel-01661569/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Reconfigurable measurement system utilizing a programmable hardware element and fixed hardware resources
+     Author ['BK Odom', 'JE Peck', 'HA Andrade', 'CP Butler']
+     Venue US Patent …
+     Year 2006
+     Abstract As mentioned above, the RIO unit includes a programmable hardware element, such as a field programmable gate array (FPGA)  During execution of the hardware configuration program by the FPGA, the FPGA may invoke or use one or more of the fixed hardware resources
+     Url https://patents.google.com/patent/US7085670B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title 5G wireless systems
+     Author ['Y Yang', 'J Xu', 'G Shi', 'CX Wang']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Wireless Networks Yang Yang Jing Xu Guang Shi Cheng-Xiang Wang 5G Wireless Systems Simulation and Evaluation Techniques Page 2. Wireless Networks Series editor Xuemin Sherman Shen University of Waterloo, Waterloo, Ontario, Canada Page 3
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-61869-2.pdf
+

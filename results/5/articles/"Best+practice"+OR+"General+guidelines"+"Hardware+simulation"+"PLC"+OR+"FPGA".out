@@ -1,0 +1,397 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Best practice for caching of single-path code‏
+     Author ['M Schoeberl', 'B Cilku', 'D Prokesch']
+     Venue … Workshop on Worst …, 2017‏
+     Year NA
+     Abstract We configure Patmos for the Altera DE2-115 FPGA board, which means that the main memory is a 16  For practical reasons, we did not use the long running benchmarks, as cycle accurate hardware simulation is time consuming  2:6 Best Practice for Caching of Single-Path Code   ‏
+     Url https://drops.dagstuhl.de/opus/volltexte/2017/7305/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Embedded Systems Hardware/Software Co-Development‏
+     Author ['F Schirrmeister']
+     Venue Software Engineering for Embedded Systems, 2013‏
+     Year NA
+     Abstract would be limited to the execution speed of emulation or FPGA-based prototyping  than creating an entirely new methodology, a virtual prototype supports existing best-practice design, debug  for verification of low-level software in the context of hardware simulation.As described   ‏
+     Url https://www.sciencedirect.com/science/article/pii/B9780124159174000025
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Co-verification of hardware and software for ARM SoC design‏
+     Author ['J Andrews']
+     Venue 2004‏
+     Year NA
+     Abstract Logic Simulation.....149 In-Circuit Emulation .....150 FPGA Prototype.....153  audience is the engineer looking to develop best practice techniques for   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=qbfi3tJJhPEC&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=YDZlLvmvsc&sig=rPyFbySsBmbkdA-crwbVxiHa64M
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS‏
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …, 2018‏
+     Year NA
+     Abstract In different engineering systems such automotive, mechatronic or control systems, best practice for V&V requests the  our goal, we have to find the best way to bring together FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform   ‏
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Safe adaptation of vehicle software systems‏
+     Author ['M Hussein', 'R Nouacer', 'A Radermacher']
+     Venue Microprocessors and …, 2017‏
+     Year NA
+     Abstract It also presents a limited observability and controllability. For what concerns the emulation-based fault injection, the considered circuit is implemented on an FPGA [42]. The circuit is then connected to a computer to control the fault insertion triggers and display the results   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116304173
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title SYLLABUS FOR COURSE‏
+     Author ['DT Plan\u200f']
+     Venue NA
+     Year NA
+     Abstract Hardware Simulation(Modeling Digital Systems) [1, 3, 6, 9] - Domains and Levels of Simulation(Modeling) [3] - Functional and  8.10.1.Implementation of the Computer Design 8.10.2.Mapping the Target Computer into the FPGA 8.10.3  General Guidelines of VHDL Synthesis   ‏
+     Url http://www.cs.huji.ac.il/course/2002/vhdl/Syllabus.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based hardware-in-the-loop for multi-domain simulation‏
+     Author ['AD Benhamadouche', 'F Djahli', 'A Ballouti']
+     Venue International Journal of …, 2019‏
+     Year NA
+     Abstract different engineering systems, such as automotive, mechatronic or control systems, the best practice for V&V  converter is used, where the digital controller is implemented in FPGA and the  7. Parma GG, Dinavahi V., Real-time digital hardware simulation of power electronics and   ‏
+     Url https://www.worldscientific.com/doi/abs/10.1142/S179396231950020X
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Product management: visualization technology and 3D simulator of Aker Solutions‏
+     Author ['T Tongpradith']
+     Venue 2014‏
+     Year NA
+     Abstract systems. 2.1.2 Development of Visualization Technology System The advances in graphics and hardware simulation technology have significantly developed recently therefore, the cost of computer systems that operate visualization systems has reduced from the past   ‏
+     Url https://uis.brage.unit.no/uis-xmlui/handle/11250/220123
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Embedded software debug in simulation and emulation environments for interface IP‏
+     Author ['C Wronka', 'J Kotas']
+     Venue Embedded Software Verification and Debugging, 2017‏
+     Year NA
+     Abstract In current hardware simulation environments, it is possible to use a Virtual Platform Environment (VPE) type environment (diagram  The following steps were used to track the problem with FPGA)  The best practice is to set up a clean sandbos with a fully scripted path through the   ‏
+     Url https://link.springer.com/chapter/10.1007/978-1-4614-2266-2_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Building OPB Slave Peripherals using System Generator for DSP‏
+     Author ['J Ballagh', 'J Hwang', 'P James-Roxby']
+     Venue Xilinx …, 2004‏
+     Year NA
+     Abstract filter data Virtex-II Platform FPGA x264_01_112002 Page 3  Wherever possible, register these signals to improve timing. The interface and subsystem logic for the OPB2IP_IF component is shown in Figure 5. A best practice design registers the signals read from the OPB   ‏
+     Url http://application-notes.digchip.com/077/77-43059.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping‏
+     Author ['T De Schutter']
+     Venue 2014‏
+     Year NA
+     Abstract nicely merges a practical overview of the benefits of virtual prototypes with best practice case studies  ARM” is used to represent ARM Holdings plc.; its operating  Faster!” book, which, like our previous successful Methodology Manuals (eg, “FPGA-Based Prototyping Methodology   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=cw6VucKri-&sig=gc1xkgnGhOAj6667NAc0C2ggMUE
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Data centre infrastructure monitoring‏
+     Author ['N Meyer']
+     Venue 2016‏
+     Year NA
+     Abstract The best practice information was presented at the “7th European Workshop on HPC Centre Infrastructures” organised in Garching  devices, • Handheld wireless barcode scanner for easy asset identification, based on Motorola MC75 hardware, • Simulation, optimisation and   ‏
+     Url https://prace-ri.eu/wp-content/uploads/WP226.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Enhancing incomplete cloud templates for infrastructure deployment‏
+     Author ['K Krishnan', 'DR Rocamora']
+     Venue US Patent 10,382,353, 2019‏
+     Year NA
+     Abstract In various illustrative examples, the add-on component 150 may be implemented by processing logic that includes hardware (eg, circuitry, dedicated logic, programmable logic, microcode, etc.), software (eg, instructions run on a processor to perform hardware simulation), or a   ‏
+     Url https://patents.google.com/patent/US10382353B1/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Putting the pieces together: The systematic development of a software defined radio toolflow for the rhino project‏
+     Author ['GE Inggs']
+     Venue 2011‏
+     Year NA
+     Abstract 63 5.4 Hardware Simulation and Implementation  The module labeled LP_Test_Bench is the Low Pass Filter Test bench, as described in Figure 5.6 . . . . . 67 5.11 Plot of output data from FPGA Low Pass Filter Experiment . . . . . 67   ‏
+     Url https://open.uct.ac.za/handle/11427/11681
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title System and methods for generating and managing a virtual device‏
+     Author ['F Xie', 'K Cong', 'L Lei']
+     Venue US Patent 8,666,723, 2014‏
+     Year NA
+     Abstract driver. One such approach includes using an early prototype such as a Field-Programmable Gate Array (“FPGA prototype”) for driver development  finished. Also, an FPGA prototype may differ significantly from the real device   ‏
+     Url https://patents.google.com/patent/US8666723B2/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design Considerations for Building Credible Security Testbeds: A Systematic Study of Industrial Control System Use Cases‏
+     Author ['UD Ani', 'JM Watson', 'B Green', 'B Craggs']
+     Venue arXiv preprint arXiv …, 2019‏
+     Year NA
+     Abstract the range of setups that include hardware-in-the- loop (HIL) as a step between 'computer simulation' and 'physical operational hardware simulation'  Examples include; having the emulators of components such as a PLC running on a virtual machine or replaying a logged real   ‏
+     Url https://arxiv.org/abs/1911.01471
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Application development process for GNAT, a SOC networked system‏
+     Author ['CL Plumlee']
+     Venue 2008‏
+     Year NA
+     Abstract 10 Table 4: Software and Hardware simulation time comparison 11 Table 5: Trade-offs of the Simulink® and System Generator DSP Design Approach .... 12 viii Page 11. LIST OF ACRONYMS AIN ASIC CAD CPU DSP DVT EDK FPGA GNAT GPL IC IPC ISE PDA SoC HDL   ‏
+     Url https://scholars.unh.edu/thesis/396/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Data processing on FPGAs‏
+     Author ['J Teubner', 'L Woods']
+     Venue Synthesis Lectures on Data …, 2013‏
+     Year NA
+     Abstract First, we give general guidelines how algorithms and systems can be designed to leverage the potential of FPGAs (Chapter 4). Chapter 5 illustrates a  A short appendix points to different flavors of FPGA system integration, realized through different plug-ins for commodity systems   ‏
+     Url https://www.morganclaypool.com/doi/abs/10.2200/S00514ED1V01Y201306DTM035
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital wireless basestation‏
+     Author ['G Ferris']
+     Venue US Patent App. 11/466,989, 2007‏
+     Year NA
+     Abstract operating one set of baseband processing algorithms to another set solely by changes to the underlying 'engines', implemented in either soft datapaths or hard datapaths (or a combination of the two), where a hard datapath is a flow implemented in an ASIC or FPGA, and soft   ‏
+     Url https://patents.google.com/patent/US20070005327/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Variation-resilient True Random Number Generators based on Magnetic Tunnel Junctions‏
+     Author ['Y Qu']
+     Venue 2017‏
+     Year NA
+     Abstract Page 17. 6 • A universally applicable quality improvement circuit: the tolerance levels of the probability bias/variation are provided as general guidelines for choosing the random source and the quality improvement circuit based on quality requirements   ‏
+     Url https://era.library.ualberta.ca/items/9c410b6f-6090-4967-b9a5-a591a7e3a68e
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Dynamic memory management for embedded real-time multiprocessor system-on-a-chip‏
+     Author ['MA Shalan']
+     Venue 2003‏
+     Year NA
+     Abstract Page 1. DYNAMIC MEMORY MANAGEMENT FOR EMBEDDED REAL-TIME MULTIPROCESSOR SYSTEM ON A CHIP A Thesis Presented to The Academic Faculty by Mohamed A. Shalan In Partial Fulfillment of the Requirements for the Degree of Doctor of Philosophy   ‏
+     Url https://smartech.gatech.edu/handle/1853/5304
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital wireless basestation‏
+     Author ['G Ferris']
+     Venue US Patent App. 10/182,043, 2003‏
+     Year NA
+     Abstract operating one set of baseband processing algorithms to another set solely by changes to the underlying 'engines', implemented in either soft datapaths or hard datapaths (or a combination of the two), where a hard datapath is a flow implemented in an ASIC or FPGA, and soft   ‏
+     Url https://patents.google.com/patent/US20030008684A1/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title International Conference on Electronics and Electrical Engineering: CEEE2014‏
+     Author ['N Crespi']
+     Venue 2014‏
+     Year NA
+     Abstract date research and application on Electronic and Electrical Engineering from both industrial and academic worlds, sharing best practice in these  2014 International Conference on Electronic and Electrical Engineering (CEEE 2014) ISBN: 978-1-60595-103-4 FPGA Based Real   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=Cb1GBAAAQBAJ&oi=fnd&pg=PA1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=eK7-Qbd0OP&sig=TFO33x9sU4QYbaJmabVxmPltac4
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Platform and MPSoC Design‏
+     Author ['L Benini\u200f']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Embedded systems handbook‏
+     Author ['R Zurawski']
+     Venue 2005‏
+     Year NA
+     Abstract of the Taylor & Francis imprint, a member of the Taylor & Francis Group, the academic division of T&F Informa plc  in quite some detail, the functional design, function/architecture and hardware/software codesign, and hardware/software coverification and hardware simulation   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=qYAqBgAAQBAJ&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=agzdjFT_ya&sig=APXa_J1SDl4Fwgy6hFOx9o3nZTc
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Beehive: an FPGA-based multiprocessor architecture‏
+     Author ['OA Abella']
+     Venue 2009‏
+     Year NA
+     Abstract Their research has produced impressive and innovative designs that explore software and hardware simulation, like ProtoFlex, HAsim and FAST, and the different colors of  The systems were designed having in mind performance and not the amount of FPGA logic resources   ‏
+     Url https://core.ac.uk/download/pdf/301206865.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital archaeology: Rescuing neglected and damaged data resources. A JISC/NPO study within the Electronic Libraries (eLib) Programme on the Preservation of …‏
+     Author ['S Ross', 'A Gow']
+     Venue 1999‏
+     Year NA
+     Abstract Page 1. Ross, S., and Gow, A. (1999) Digital archaeology: rescuing neglected and damaged data resources. A JISC/NPO study within the Electronic Libraries (eLib) Programme on the preservation of electronic materials. Project Report   ‏
+     Url https://eprints.gla.ac.uk/100304
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A hardware signal processor for Transition Edge Sensors‏
+     Author ['G Gillett']
+     Venue 2018‏
+     Year NA
+     Abstract This thesis documents the design and validation of a hardware signal processor, implemented in a Field Programmable Gate Array (FPGA), for Tungsten based TES calorimeters with energy  Right pane: TES detection pulses after processing by hardware simulation   ‏
+     Url https://core.ac.uk/download/pdf/189928825.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Embedded Systems Handbook: Embedded systems design and verification‏
+     Author ['R Zurawski']
+     Venue 2018‏
+     Year NA
+     Abstract connect fabric for multiprocessor systems-on-chip,” “Hardware/software interfaces design for SoC,” and “FPGA synthesis and  detail, the functional design; function/architecture and hardware/software codesign; and hardware/software co-verification and hardware simulation   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=Jts_CQAAQBAJ&oi=fnd&pg=PR3&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=r0Fe3qjt4T&sig=zHJvd4N6WvdcTpi6q1GtPrD0h1w
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title On Improving Cybersecurity Through Memory Isolation Using Systems Management Mode‏
+     Author ['J Sutherland']
+     Venue 2019‏
+     Year NA
+     Abstract structures in memory, then a simple fault-injection device implemented on a field programmable gate array (FPGA, programmable hardware) to interfere with the hypervisor's memory access at a crucial point. When executed successfully, this   ‏
+     Url https://pdfs.semanticscholar.org/ca63/194937d116efb933f7aca1e11e378d01bbb1.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Beehive: an FPGA-based multiprocessor architecture‏
+     Author ['O Arcas Abella']
+     Venue 2009‏
+     Year NA
+     Abstract Their research has produced impressive and innovative designs that explore software and hardware simulation, like ProtoFlex, HAsim and FAST, and the different colors of  The systems were designed having in mind performance and not the amount of FPGA logic resources   ‏
+     Url https://upcommons.upc.edu/handle/2099.1/7460
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Embedded systems: world class designs‏
+     Author ['J Ganssle']
+     Venue 2007‏
+     Year NA
+     Abstract 530 13.2 A Simple Embedded Processor .....531 13.3 Soft Core Processors on an FPGA.....553 13.4  Peter Wilson (Chapter 13) worked for many years as a Senior Design Engineer in industry with Perranti plc (Edinburgh, Scotland   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=g85yH6tF1S4C&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=EbDg4M3-jA&sig=k80tbD7F-VxGu7upj9bSM2Vmzpw
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Institute of Microelectronic Systems Prof. Dr. Dr. hc mult. Manfred Glesner Supervisor: Dr.-Ing. Thomas Hollstein‏
+     Author ['S Jäger\u200f']
+     Venue NA
+     Year NA
+     Abstract c Coefficient (>1) FFV Functional Formal Verification (formal technologies which prove the correctness of a model, eg property checking, model checking, assertion checking) FPGA Field Programmable Gate Array FV Formal Verification HDL Hardware Description Language   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.4078&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Advanced Simulation and Computing Fiscal Year 2014 Program Notebook for Compuatational Systems and Software Environment and Facility Operations and …‏
+     Author ['M McCoy', 'B Archer', 'M Matzen', 'T Hoang']
+     Venue 2014‏
+     Year NA
+     Abstract Page 1. Lawrence Livermore National Laboratory is operated by Lawrence Livermore National Security, LLC, for the US Department of Energy, National Nuclear Security Administration under Contract DE-AC52-07NA27344. LLNL-TR-652433 L L N L - X X X X - X X X X X   ‏
+     Url https://www.osti.gov/servlets/purl/1129134
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Constructing Vertically Integrated Hardware Design Methodologies Using Embedded Domain-Specific Languages and Just-in-Time Optimization‏
+     Author ['D Lockhart']
+     Venue 2015‏
+     Year NA
+     Abstract electronic-design automation VLSI very-large-scale integration ASIC application-specific integrated circuit ASIP application-specific instruction set processor FPGA field-programmable  modeling along with just-in-time optimization techniques to accelerate hardware simulation   ‏
+     Url https://ecommons.cornell.edu/handle/1813/40914
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Semiconductor development in Ireland: reducing'development stress' caused by digital hardware and embedded software team interaction‏
+     Author ['IJ Griffin']
+     Venue 2010‏
+     Year NA
+     Abstract FIBs Focused Ion Beams FPGA Field Programmable Gate Array GDN Global Design Network  to design an Integrated Circuit Fab Silicon wafer fabrication facility Hardware Simulation Modelling of the hardware at different levels of abstraction (functional, gate   ‏
+     Url http://193.1.102.107/handle/10344/386
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Timing model derivation: static analysis of hardware description languages‏
+     Author ['M Schlickling']
+     Venue 2013‏
+     Year NA
+     Abstract The final hardware – realized on an ASIC or FPGA – is synthesized out of the formal hardware description  Whenever an address is needed for hardware simulation, an interface to the external address analysis results has to be introduced   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=NS6FH_lLO3sC&oi=fnd&pg=PR13&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=ennBin_FA1&sig=Hc_MRF_HyLWdcUCqnG4fG2gkY-0
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title The co-design of virtual machines using reconfigurable hardware‏
+     Author ['KB Kent']
+     Venue 2003‏
+     Year NA
+     Abstract Figure 3.2 A conventional eo-design methodology. ....29 Figure 3.3 A conceptual field programmable gate array (FPGA)....37  Table 7.1. Threshold FPGA: Host speed ratios.....113 Table 7.2   ‏
+     Url http://dspace.library.uvic.ca/handle/1828/7938
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Advanced Simulation and Computing FY19 Implementation Plan, Rev. 1‏
+     Author ['MG McCoy', 'B Archer', 'S Collis']
+     Venue 2018‏
+     Year NA
+     Abstract resolution of Significant Finding Investigations (SFIs). This work requires a balance of resources, including technical staff, hardware, simulation software, and computer science solutions. The ASC Program focuses on increasing   ‏
+     Url https://www.osti.gov/biblio/1480420
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.‏
+     Author ['T Grimm']
+     Venue 2019‏
+     Year NA
+     Abstract 42 3.1.1 Simulation, Emulation and FPGA Prototyping . . . . . 42  tions and DO-254 [68] for the aerospace industry, are mostly like general guidelines that include documentation, tools certification, and fault analysis, and have the role   ‏
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Verification of a Large Heterogeneous Many-core Computer‏
+     Author ['E Gamst', 'E Mitacc']
+     Venue 2016‏
+     Year NA
+     Abstract systems at all abstraction levels. Current verification strategies for verifying the hardware parts of the SHMAC platform include block-level and top-level testbenches, and bare-metal testing on FPGA. Both of them run directed   ‏
+     Url https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2415594
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Enabling Energy Transparency for Deeply Embedded Programs‏
+     Author ['K Georgiou']
+     Venue 2017‏
+     Year NA
+     Abstract Page 1. Enabling Energy Transparency for Deeply Embedded Programs By KYRIAKOS GEORGIOU Department of Computer Science A dissertation submitted to the University of Bristol in ac- cordance with the requirements   ‏
+     Url http://georgioukyriakos.com/docs/KyriakosGeorgiou.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Shared Variable Analyser For Hardware Descriptions‏
+     Author ['J Sharp']
+     Venue 2013‏
+     Year NA
+     Abstract 2.3.4 and 2.3.5 respectively.78 Chapter 2. Languages2.1 VHD LHardware systems are becoming ever more complex, with the increasing number of gates and registers within a single Application Specific Integrated Circuit (ASIC) or a Field Programmable Gate Array (FPGA)   ‏
+     Url http://search.proquest.com/openview/779aecb3e035273688c49dc9e9816ee4/1?pq-origsite=gscholar&cbl=51922&diss=y
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Techniques et outils pour la verification de Systemes-sur-Puce au‏
+     Author ['CPLEMET LA', 'SAU SEIN', 'PLAS DES CYCLISTES\u200f']
+     Venue NA
+     Year NA
+     Abstract Unfortunately, due to the highly parallel nature of hardware, simulation of a large RTL design is extremely slow  Hardware devices dedicated to RTL simulation also exist (hardware accelerators, or hardware emulators based on programmable hardware like FPGA)   ‏
+     Url https://moam.info/techniques-et-outils-pour-la-verification-de-systemes-sur-puce-au_5c53a355097c47e8488b45b8.html
+

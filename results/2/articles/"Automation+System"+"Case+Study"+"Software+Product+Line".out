@@ -1,0 +1,451 @@
+Showing papers for search query "Automation+System"+"Case+Study"+"Software+Product+Line"
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Aspect-oriented model-driven software product line engineering
+     Author ['I Groher', 'M Voelter']
+     Venue … on aspect-oriented software development VI
+     Year 2009
+     Abstract The effectiveness of a software product line approach directly depends on how well feature vari- ability within the portfolio is implemented and managed throughout the development  The presented concepts are illustrated with a case study of a home automation system
+     Url https://link.springer.com/chapter/10.1007/978-3-642-03764-1_4
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Applying model-based software product line testing approaches to the automation engineering domain
+     Author ['M Lochau', 'J Bürdek', 'S Lity', 'M Hagner']
+     Venue at …
+     Year 2014
+     Abstract implementation of the approach is evaluated by means of a sample automation system product line  In this article, we present the first approach to combine software product line engineering and  2, a case study from the automation engineering domain is presented that serves as
+     Url https://www.degruyter.com/view/journals/auto/62/11/article-p771.xml
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Software product line engineering approach for enhancing agile methodologies
+     Author ['J Martinez', 'J Diaz', 'J Perez', 'J Garbajosa']
+     Venue International Conference on …
+     Year 2009
+     Abstract This work presents a Software Product Line Engineering (SPLE) approach that al- lows flexibility in  line through the systematic reuse of these commonalities [6]. A case study is described to  Particularly, the prob- lem of developing a home automation system following SCRUM [7
+     Url https://link.springer.com/chapter/10.1007/978-3-642-01853-4_52
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title A Model-driven Approach for Software Product Lines Requirements Engineering.
+     Author ['M Alférez', 'U Kulesza', 'A Sousa', 'JP Santos', 'A Moreira']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title The DOPLER meta-tool for decision-oriented variability modeling: a multiple case study
+     Author ['D Dhungana', 'P Grünbacher', 'R Rabiser']
+     Venue Automated Software Engineering
+     Year 2011
+     Abstract It has been demon- strated that software product line engineering (PLE) is a successful approach in  This case study was car- ried out in cooperation with Siemens VAI Metals Technologies  to fine-tune deployment parameters of the CC-L2 process automation system on site
+     Url https://link.springer.com/article/10.1007/s10515-010-0076-6
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Interdisciplinary modularization in product line engineering: A case study
+     Author ['CR Maga', 'N Jazdi']
+     Venue … of 2012 IEEE International Conference on …
+     Year 2012
+     Abstract Since reusable artifacts shall match not only one industrial automation system, the variability of a new  The case-study confirmed that domain engineering supports significantly the project execution  [2] Pohl, K.; Böckle, G.; van der Linden, F.: Software Product Line Engineering
+     Url https://ieeexplore.ieee.org/abstract/document/6237699/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title An integrated aspect-oriented model-driven software product line tool suite
+     Author ['I Groher', 'C Schwanninger', 'M Voelter']
+     Venue Companion of the 30th …
+     Year 2008
+     Abstract Software product line engineering is mostly about the sys- tematic management of commonality and variability between product line members  The concepts are illustrated with a case study of a home automation system
+     Url https://dl.acm.org/doi/abs/10.1145/1370175.1370197
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Filtered model-driven product line engineering with SuperMod: The home automation case
+     Author ['F Schwägerl', 'T Buchmann', 'B Westfechtel']
+     Venue ICSOFT
+     Year 2015
+     Abstract In this paper, we apply SuperMod to a well-known case study, the Home Automation System product line  Furthermore, it can mitigate the disadvantages of the traditional software product line development process. Keywords
+     Url https://link.springer.com/chapter/10.1007/978-3-319-30142-6_2
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Assessing software product line potential: an exploratory industrial case study
+     Author ['H Koziolek', 'T Goldschmidt', 'T de Gooijer']
+     Venue Empirical Software …
+     Year 2016
+     Abstract REPORT Assessing software product line potential: an exploratory industrial case study Heiko Koziolek ·Thomas Goldschmidt · Thijmen de Gooijer ·Dominik Domis · Stephan Sehestedt ·Thomas Gamer · Markus Aleksy Published
+     Url https://link.springer.com/content/pdf/10.1007/s10664-014-9358-0.pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title An approach for modeling variants of industrial automation systems
+     Author ['CR Maga', 'N Jazdi']
+     Venue 2010 IEEE International Conference on …
+     Year 2010
+     Abstract This is a “model that defines the variability of a software product line  either the entire package is selected or no element is included in a new industrial automation system  The variability modeling approach mentioned above has been concretely deployed in a case study for the
+     Url https://ieeexplore.ieee.org/abstract/document/5520918/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Evolution in dynamic software product lines: challenges and perspectives
+     Author ['C Quinton', 'R Rabiser', 'M Vierhauser']
+     Venue … Software Product Line
+     Year 2015
+     Abstract tem and its human-machine interface (HMI), a steelmaking automation system, as well  An Overview of Dynamic Software Product Line Architectures and Techniques: Observations from Research  dopler meta-tool for decision-oriented variability modeling: A multiple case study
+     Url https://dl.acm.org/doi/abs/10.1145/2791060.2791101
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Re-engineering automation systems as dynamic software product lines
+     Author ['S Lity', 'J Bürdek', 'M Lochau', 'M Berens', 'A Schürr']
+     Venue Tagungsband des …
+     Year 2015
+     Abstract 2 Automation Engineering Case Study: Device Control Unit Our case study comprises an embedded software system constituting the control software for a complex automation system for a novel  3 Re-Engineering the DCU Case Study as Software Product Line In order to
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.696.5468&rep=rep1&type=pdf#page=53
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title A goal-driven software product line approach for evolving multi-agent systems in the Internet of Things
+     Author ['I Ayala', 'M Amor', 'JM Horcas', 'L Fuentes']
+     Venue Knowledge-Based Systems
+     Year 2019
+     Abstract Software Product Line (SPL) technologies have been successfully applied to different domains to explicitly model variability in  Case study: The GreenManager system  The GreenManager system is an agent-based home automation system, whose goal is to manage the smart
+     Url https://www.sciencedirect.com/science/article/pii/S0950705119303521
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Evolution in industrial plant automation: A case study
+     Author ['C Legat', 'J Folmer']
+     Venue IECON 2013-39th Annual …
+     Year 2013
+     Abstract are involved cooperatively towards designing, constructing, maintaining and refining an automation system  rely on the demonstration scenarios described in the case study, thus providing  Pohl, F. van der Linden, and A. Metzger, “Software Product Line Variability Management
+     Url https://ieeexplore.ieee.org/abstract/document/6699841/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Expressing feature-based variability in structural models
+     Author ['I Groher', 'M Voelter']
+     Venue In Workshop on Managing Variability for Software …
+     Year 2007
+     Abstract CiteSeerX - Document Details (Isaac Councill, Lee Giles, Pradeep Teregowda): Software product line engineering aims at reducing development time, effort, cost, and complexity by tak-ing advantage  The approach is illustrated with a case study of a home automation system
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.571.593
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Family model mining for function block diagrams in automation software
+     Author ['S Holthusen', 'D Wille', 'C Legat', 'S Beddig']
+     Venue … Software Product Line …
+     Year 2014
+     Abstract code as a model to find variation points and to create a software product line out of  Automation system variants are often created by a clone- and-own approach leading to problems in  By a case study for a manufacturing system, we have demonstrated its feasibility in the automa
+     Url https://dl.acm.org/doi/abs/10.1145/2647908.2655965
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Domain specific language architecture for automation systems: an industrial case study
+     Author ['C Preschern', 'A Leitner', 'C Kreiner']
+     Venue Workshop on Graphical Modeling …
+     Year 2012
+     Abstract P., Rabiser, R.: The dopler meta-tool for decision- oriented variability modeling: a multiple case study  ACM (2011) 7. Leitner, A.: A software product line for a business process oriented IT landscape  Preschern, C.: PISCAS - A Pisciculture Automation System Product Line
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.658.8576&rep=rep1&type=pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Model-driven and software product line engineering
+     Author ['H Arboleda', 'JC Royer']
+     Venue NA
+     Year 2012
+     Abstract the reader shall find a chapter on software product line engineering, a chapter on model-driven engineering, and a chapter considering the state-of-the-art in model driven and software product line engineering  The concepts and tools are illustrated on a Smart-Home case study
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118561379
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Effective development of automation systems through domain-specific modeling in a small enterprise context
+     Author ['A Leitner', 'C Preschern', 'C Kreiner']
+     Venue Software & Systems Modeling
+     Year 2014
+     Abstract Keywords Domain-specific modeling · Small enterprise cost model · Automation system · Software product line · System development process  issues between the AS developer and the electrical contractor were an important motivation for the SPL transition in Case Study II (Sect
+     Url https://link.springer.com/content/pdf/10.1007/s10270-012-0289-1.pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Survey, Approach and Examples of Modeling Variants in Industrial Automation
+     Author ['CR Maga', 'N Jazdi']
+     Venue Journal of Control Engineering and Applied …
+     Year 2011
+     Abstract This is a “model that defines the variability of a software product line  express the possibility to combine diverse variant components to a new industrial automation system within the  The approach mentioned above has been concretely deployed in a case study for the domain of
+     Url http://ceai.srait.ro/index.php?journal=ceai&page=article&op=download&path%5B%5D=1162&path%5B%5D=886
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Supporting feature-oriented evolution in industrial automation product lines
+     Author ['D Hinterreiter', 'L Linsbauer']
+     Venue Concurrent …
+     Year 2020
+     Abstract In the domain of industrial automation companies nowadays need to serve a mass market while at the same time customers demand highly customized solutions. To tackle this problem, companies frequent...
+     Url https://journals.sagepub.com/doi/abs/10.1177/1063293X20958930
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Model-based software design and adaptation
+     Author ['H Gomaa', 'M Hussein']
+     Venue … and Self-Managing Systems (SEAMS'07 …
+     Year 2007
+     Abstract To provide a complete definition of the component- based software architecture for a software product line, it is necessary to specify the interface(s) provided by each  As an example of dynamic software reconfiguration, consider a factory automation system, shown in Fig
+     Url https://ieeexplore.ieee.org/abstract/document/4228607/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Modeling multi software product lines using UML
+     Author ['MRA Setyautami', 'D Adianto', 'A Azurat']
+     Venue … and Software Product Line …
+     Year 2018
+     Abstract into common OO language are augmented with a mechanism using a build automation system  to Software Product Line (SPL), specifically about modeling multiple variants from a software product line. The case study is a railway system that consists of several product lines
+     Url https://dl.acm.org/doi/abs/10.1145/3233027.3236400
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Uncovering sustainability concerns in software product lines
+     Author ['R Chitchyan', 'I Groher', 'J Noppen']
+     Venue Journal of Software …
+     Year 2017
+     Abstract Arcade Game Maker software product line (SPL) supports a range of arcade games (eg, bowling and pong) and consists  Nine people participated in the case study  of Siemens VAI customers to fine‐tune deployment parameters of the CC‐L2 process automation system on site
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1853
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title A review on aspect oriented implementation of software product lines components
+     Author ['AKM Fazal-e-Amin', 'A Oxley']
+     Venue Information Technology Journal
+     Year 2010
+     Abstract Generic component Network application intelligent service Robot application Graphical application Home automation system Library managernent  A case study implementing features using aspectJ. Proceedings of the llth International Software Product Line Conference, Sept
+     Url https://www.researchgate.net/profile/Ahmad_Kamil_Mahmood/publication/49942047_A_Review_on_Aspect_Oriented_Implementation_of_Software_Product_Lines_Components/links/543544050cf2bf1f1f286336.pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Habitation: a domain-specific language for home automation
+     Author ['M Jimenez', 'F Rosique', 'P Sanchez', 'B Alvarez']
+     Venue IEEE …
+     Year 2009
+     Abstract (a) (b) Figure 6. The home automation system in our case study: (a) floor plan and element layout and (b) lighting model in the Habitation DSL  Table 1 Usability results from our case study Quality factor  11th Int'l Software Product Line Conf. (SPLC 07), IEEE CS Press, 2007, pp
+     Url https://ieeexplore.ieee.org/abstract/document/5076456/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Simulating evolution in model-based product line engineering
+     Author ['W Heider', 'R Froschauer', 'P Grünbacher']
+     Venue Information and …
+     Year 2010
+     Abstract 2. Problem illustration: evolving industrial automation system product lines  Gathering values from existing applications gives an estimate on how many component types will typically be necessary in an application to be maintained as a software product line
+     Url https://www.sciencedirect.com/science/article/pii/S0950584910000479
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title How Domain-Specific Modeling Languages Address Variability in Product Line Development: Investigation of 23 Cases
+     Author ['JP Tolvanen', 'S Kelly']
+     Venue … International Systems and Software Product Line …
+     Year 2019
+     Abstract used to produce a user interface to monitor and control the automation system  Specific Language Architecture for Automation Systems: An Industrial Case Study, In: Joint  cardinalities, Proceedings of the 20th International Systems and Software Product Line Conference, Beijing
+     Url https://dl.acm.org/doi/abs/10.1145/3336294.3336316
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Supporting evolution in model-based product line engineering
+     Author ['D Dhungana', 'T Neumayer']
+     Venue … Software Product …
+     Year 2008
+     Abstract 319 Page 2. plant building company. The company is maintaining a software product line supporting continuous casting in steel plants  The domain of interest is our indus- try partner's process automation system for continuous casting in steel plants (CL2)
+     Url https://ieeexplore.ieee.org/abstract/document/4626865/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Aspect-oriented, model-driven software product lines: The AMPLE way
+     Author ['A Rashid', 'JC Royer', 'A Rummler']
+     Venue NA
+     Year 2011
+     Abstract rise exponentially. Second, variations tend to be systemic by nature in that they affect the whole architecture of the software product line. Third  444 447 463 Page 7. Part I Software product line engineering challenges Page 8. Page 9
+     Url https://books.google.com/books?hl=en&lr=&id=p5lgVeg7wsMC&oi=fnd&pg=PP5&dq=%22Automation+System%22+%22Case+Study%22+%22Software+Product+Line%22&ots=mJJnlGwiJ6&sig=7E99hye1bYC67uJMiHqlO3tIa2U
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Supporting feature-oriented evolution in industrial automation product lines
+     Author ['D Hinterreiter', 'L Linsbauer']
+     Venue Concurrent …
+     Year 2020
+     Abstract In the domain of industrial automation companies nowadays need to serve a mass market while at the same time customers demand highly customized solutions. To tackle this problem, companies frequent...
+     Url https://journals.sagepub.com/doi/abs/10.1177/1063293X20958930
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title How Domain-Specific Modeling Languages Address Variability in Product Line Development: Investigation of 23 Cases
+     Author ['JP Tolvanen', 'S Kelly']
+     Venue … International Systems and Software Product Line …
+     Year 2019
+     Abstract used to produce a user interface to monitor and control the automation system  Specific Language Architecture for Automation Systems: An Industrial Case Study, In: Joint  cardinalities, Proceedings of the 20th International Systems and Software Product Line Conference, Beijing
+     Url https://dl.acm.org/doi/abs/10.1145/3336294.3336316
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title From scenarios to aspects: exploring product lines
+     Author ['IH Krüger', 'R Mathew', 'M Meisinger']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract A software product line (SPL) is a set of software-intensive systems that share a common, managed set of features  2. SERVICE-ORIENTED MODEL OF CTAS To demonstrate our approach, we use the Center TRA- CON Automation System (CTAS), a case study from the
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083188
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Challenges of parallel evolution in production automation focusing on requirements specification and fault handling
+     Author ['B Vogel-Heuser', 'C Legat', 'J Folmer']
+     Venue at …
+     Year 2014
+     Abstract the priority programme SPP 1593 (referred to as SPP hence- forth) as a case study for investigating research on the evo- lution in plant  An approach to explicitly model changes of automation system's physical structures and for analyzing their effects on the technical process is
+     Url https://www.degruyter.com/view/journals/auto/62/11/article-p758.xml
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Engineering support in the machine manufacturing domain through interdisciplinary product lines: An applicability analysis
+     Author ['S Feldmann', 'C Legat', 'B Vogel-Heuser']
+     Venue IFAC-PapersOnLine
+     Year 2015
+     Abstract (2014) apply model-based software product line testing techniques to the  Second, the variability modelling of a variant-rich, industrial machine, ie a self-service vending machine to pick up groceries, is evaluated in case study 2 (112 features from the customer's point of view)
+     Url https://www.sciencedirect.com/science/article/pii/S2405896315003225
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Multi-Perspective Modeling and Performance Analysis of Software Product Lines.
+     Author ['M Kowal']
+     Venue DS@ MoDELS
+     Year 2015
+     Abstract Another approach translates UML-annotated software product line designs to layered queueing networks and analyzes them in a product- based way [22]  B. Case Study The proposed contributions are evaluated using a real-world automation system called the Pick and
+     Url https://pdfs.semanticscholar.org/4517/38669aba9c2646c64b7ecca8947fcac7d051.pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Evolutionary robust optimization for software product line scoping: An explorative study
+     Author ['R Karimpour', 'G Ruhe']
+     Venue Computer Languages, Systems & Structures
+     Year 2017
+     Abstract Evolutionary robust optimization for software product line scoping: An explorative study  Approach was able to find plans with higher stability. Abstract. Background: Software product line (SPL) scoping is an important phase when planning for product line adoption
+     Url https://www.sciencedirect.com/science/article/pii/S1477842416301063
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Design for future: managed software evolution
+     Author ['U Goltz', 'RH Reussner', 'M Goedicke']
+     Venue … Science-Research and …
+     Year 2015
+     Abstract IMoTEP 11 investigates the co-evolution of software product line (SPL) models and test artefacts  approach is evaluated via simulation of typical evolution scenarios on the PPU case study  combine those viewpoints, which are required to model an automation system holistically
+     Url https://link.springer.com/article/10.1007/s00450-014-0273-9
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Model Driven Evolution of an Agent-Based Home Energy Management System.
+     Author ['I Ayala', 'M Amor', 'JM Horcas', 'L Fuentes']
+     Venue SoMeT
+     Year 2018
+     Abstract Software Product Line (SPL) technologies, including variability mod- els, has been successfully applied to different domains to explicitly model any kind of  Section 4 describes an agent-based home automation system that we will use through the paper as case study
+     Url https://books.google.com/books?hl=en&lr=&id=dI1xDwAAQBAJ&oi=fnd&pg=PA17&dq=%22Automation+System%22+%22Case+Study%22+%22Software+Product+Line%22&ots=uCcVMIqnla&sig=KI9ymkwUHLuuylXAH8CvAtXyAFI
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Evolution in dynamic software product lines
+     Author ['C Quinton', 'M Vierhauser', 'R Rabiser']
+     Venue Journal of Software …
+     Year 2020
+     Abstract solution space elements).24, 25. 2.1 Background. A DSPL is a special form of a software product line designed to support runtime variability, that is, adaptation and reconfiguration at runtime. The DSPL engineering process (Figure
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2293
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Software Architecture evolution and software evolvability
+     Author ['H Pei Breivold']
+     Venue NA
+     Year 2009
+     Abstract the model through an industrial case study of a software-intensive automation system  our experiences and reflections during the dependency analysis process in the case study  Software product line engineering has emerged as one of the dominant paradigms for developing
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:128415
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Handling complex configurations in software product lines: a tooled approach
+     Author ['S Urli', 'M Blay-Fornarino', 'P Collet']
+     Venue … International Software Product Line …
+     Year 2014
+     Abstract 1. INTRODUCTION Software Product Line (SPL) engineering is concerned with systematically reusing development assets  the application of the approach on an industrial-strength case study and on  the following running example inspired from the Home Automation System [23
+     Url https://dl.acm.org/doi/abs/10.1145/2648511.2648523
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title iMMAS an industrial meta-model for automation system using OPC UA
+     Author ['JM Gutierrez-Guerrero']
+     Venue Elektronika ir …
+     Year 2017
+     Abstract In this paper, a novel metamodel called iMMAS (Industrial Meta-Model for Automation System) is proposed to simplify the development and deployment of an IAS  A case study is also shown to test the applicability of the proposal presented
+     Url http://www.eejournal.ktu.lt/index.php/elt/article/view/18324
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Considering Feature Interactions in Product Lines: Towards the Automatic Derivation of Dependencies between Product Variants.
+     Author ['A Metzger', 'S Bühne', 'K Lauenroth', 'K Pohl']
+     Venue FIW
+     Year 2005
+     Abstract thereby allows for the reduction of development cost and time (see [7] and [20] for a detailed introduction to software product line engineering)  As an example, when the variant “artificial cooling” for the air-conditioning part of a building automation system is chosen, the variant
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.7637&rep=rep1&type=pdf
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Model-driven approach to developing domain functional requirements in software product lines
+     Author ['J Guo', 'Y Wang', 'Z Zhang', 'J Nummenmaa', 'N Niu']
+     Venue IET software
+     Year 2012
+     Abstract Software product line (SPL) engineering achieves software mass customisation by exploiting the commonalities of the  The 'Agentive' case has a value 'home automation system', and the 'Objective' case has two  Moreover, we carried out a case study on the auto-marker SPL [5
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2010.0072
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Model-based customization and deployment of Eclipse-based tools: Industrial experiences
+     Author ['P Grünbacher', 'R Rabiser', 'D Dhungana']
+     Venue 2009 IEEE/ACM …
+     Year 2009
+     Abstract VI. CASE STUDY 2: THE MSS TOOL PRODUCT LINE MSS is an Eclipse Rich-Client Platform application used by developers and metallurgists to supervise and maintain the CC-L2 automation system. We defined product line
+     Url https://ieeexplore.ieee.org/abstract/document/5431766/
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Traceability support in software product lines
+     Author ['ALS Sousa']
+     Venue NA
+     Year 2008
+     Abstract The aim of AMPLE is to provide a Software Product Line development methodology that offers improved modularization of variations, their holistic treatment across the software lifecycle and maintenance  Chapter 5 presents a case study based on a home automation product line
+     Url https://run.unl.pt/handle/10362/1798
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Incremental consistency checking in delta-oriented uml-models for automation systems
+     Author ['M Kowal', 'I Schaefer']
+     Venue arXiv preprint arXiv:1604.00348
+     Year 2016
+     Abstract Julia Rubin and Thomas Thüm (Eds.): 7th International Workshop on Formal Methods and Analysis in Software Product Line Engineering (FMSPLE  the development of an efficient consistency checking method at several levels to ensure valid variants of the automation system
+     Url https://arxiv.org/abs/1604.00348
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Integrated revision and variation control for evolving model-driven software product lines
+     Author ['F Schwägerl', 'B Westfechtel']
+     Venue Software and Systems Modeling
+     Year 2019
+     Abstract From the SPLE perspective, SuperMod pioneers a new paradigm for engineering software product lines which is called product-based software product line engineering: The SPL is evolved by editing single product  Cutout of the revision history underlying the Graph case study
+     Url https://link.springer.com/article/10.1007/s10270-019-00722-3
+
+
+     Search term "Automation+System"+"Case+Study"+"Software+Product+Line"
+     Title Migrating a container terminal equipment control system to a software product line using extractive and phased approach
+     Author ['H Nieminen']
+     Venue NA
+     Year 2018
+     Abstract 9 2.3 Kalmar terminal automation system ..... 11 2.4 Planned reuse  22 4. IMPLEMENTING SOFTWARE PRODUCT LINE APPROACH
+     Url https://trepo.tuni.fi/handle/123456789/26161
+

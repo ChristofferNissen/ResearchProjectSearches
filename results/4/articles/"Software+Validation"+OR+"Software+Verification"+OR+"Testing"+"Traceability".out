@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing tool comprising an automated multidimensional traceability matrix for implementing and validating complex software systems
+     Author ['BM Blackwell', 'LR Guzman Jr', 'JP Collen']
+     Venue US Patent …
+     Year 2009
+     Abstract The present invention relates to a testing tool for testing of complex software systems having a plurality of interrelated system components and a suite of test scenarios for testing the performance of the plurality of interrelated system components. The testing tool includes an
+     Url https://patents.google.com/patent/US7490319B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing improvements in the chocolate traceability system: Impact on product recalls and production efficiency
+     Author ['R Saltini', 'R Akkerman']
+     Venue Food Control
+     Year 2012
+     Abstract The primary aim of food traceability is to increase food safety, but traceability systems can also bring other benefits to production systems and supply chains. In the literature these benefits are extensively discussed, but studies that quantify them are scarce. In this paper
+     Url https://www.sciencedirect.com/science/article/pii/S095671351100288X
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title SNPs for parentage testing and traceability in globally diverse breeds of sheep
+     Author ['MP Heaton', 'KA Leymaster', 'TS Kalbfleisch', 'JW Kijas']
+     Venue PloS one
+     Year 2014
+     Abstract DNA-based parentage determination accelerates genetic improvement in sheep by increasing pedigree accuracy. Single nucleotide polymorphism (SNP) markers can be used for determining parentage and to provide unique molecular identifiers for tracing sheep
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094851
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Towards traceability of model-based testing artifacts
+     Author ['L Naslavsky', 'H Ziv', 'DJ Richardson']
+     Venue … Advances in model-based testing
+     Year 2007
+     Abstract Practitioners regard software testing as the central means for ensuring that a system behaves as expected. Due to the recent widespread adoption of model-driven development (MDD), code is no longer the single source for selecting test cases. Testing against original
+     Url https://dl.acm.org/doi/abs/10.1145/1291535.1291546
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract Automated test case and test driver generation from a formal model is becoming a more widely used practice in the smart card area. This innovative approach for validation testing makes it possible to ensure the functional coverage of the test suite and to automate the
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Using traceability to support model-based regression testing
+     Author ['L Naslavsky', 'DJ Richardson']
+     Venue Proceedings of the twenty-second IEEE …
+     Year 2007
+     Abstract Model-driven development is leading to increased use of models in conjunction with source code in software testing. Model-based testing, however, introduces new challenges for testing activities, which include creation and maintenance of traceability information among
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321744
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Implementation and testing of an EPCglobal-aware discovery service for item-level traceability
+     Author ['U Barchetti', 'A Bucciero', 'M De Blasi']
+     Venue … Conference on Ultra …
+     Year 2009
+     Abstract The item-level tracing requirements are quickly becoming a key issue in many application scenarios, in order to guarantee major transparency in products flow along the whole supply chain. The continuous evolution of auto-identification technologies, as Radio Frequency
+     Url https://ieeexplore.ieee.org/abstract/document/5345580/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title On testing quality and traceability of virgin olive oil by calorimetry
+     Author ['M Angiuli', 'C Ferrari', 'L Lepori', 'E Matteoli']
+     Venue Journal of thermal …
+     Year 2006
+     Abstract Extra Virgin olive oils (7 samples) originating from different areas of Tuscany, defective olive oils (5 samples), commercial edible seed oils (4 samples) and two commercial samples of olive oil (one declared 'extra virgin olive oil'and one 'olive oil') were studied by different
+     Url https://akjournals.com/view/journals/10973/84/1/article-p105.xml
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Establishing traceability links between unit test cases and units under test
+     Author ['B Van Rompaey', 'S Demeyer']
+     Venue 2009 13th European Conference …
+     Year 2009
+     Abstract testing levels with call trace information, to reveal the scope of test cases, identify shortcomings in the test suite or remove redundant test cases [18]. The reverse engineering techniques behind these works are related to our static and dynamic analysis strategies. Traceability in
+     Url https://ieeexplore.ieee.org/abstract/document/4812754/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Mbsrt2: Model-based selective regression testing with traceability
+     Author ['L Naslavsky', 'H Ziv']
+     Venue … on Software Testing …
+     Year 2010
+     Abstract Widespread adoption of model-centric development has created opportunities for software testing, with Model-Based Testing (MBT). MBT supports the generation of test cases from models and the demonstration of model and source-code compliance. Models evolve, much
+     Url https://ieeexplore.ieee.org/abstract/document/5477097/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Scenarios for system requirements traceability and testing
+     Author ['J Thangarajah', 'G Jayatilleke', 'L Padgham']
+     Venue Autonomous Agents and …
+     Year 2011
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Using scenarios to support traceability
+     Author ['L Naslavsky', 'TA Alspaugh', 'DJ Richardson']
+     Venue … workshop on Traceability …
+     Year 2005
+     Abstract Keywords Scenarios, model-based testing, requirements, traceability  Since this mapping is needed from a traceability perspective, as well as from a testing perspective, these scenarios should be structured and expressed in a way that allows a lower level of granularity
+     Url https://dl.acm.org/doi/abs/10.1145/1107656.1107663
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title On the gamification of human-centric traceability tasks in software testing and coding
+     Author ['RM Parizi']
+     Venue 2016 IEEE 14th International Conference on …
+     Year 2016
+     Abstract Traceability is the ability to trace the influence of one software artifact on another by linking dependencies. Test-to-code traceability (relationships between test and system code) plays a vital role in the production, verification, reliability and certification of highly dependable
+     Url https://ieeexplore.ieee.org/abstract/document/7516146/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Ground-to-flight traceability analysis of arcjet testing for the crew exploration vehicle
+     Author ['D Bose', 'K Skokova', 'M Wright', 'J Reuther']
+     Venue 41st AIAA Thermophysics …
+     Year 2009
+     Abstract This paper presents ground-to-flight traceability analysis of arcjet testing of thermal protection system materials developed for NASA's Crew Exploration Vehicle. It is shown that ground facilities are limited in simulating many key aerothermal environment parameters
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2009-3845
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achieving traceability in chemical measurement—a metrological approach to proficiency testing
+     Author ['P Armishaw', 'B King', 'RG Millar']
+     Venue Accreditation and quality assurance
+     Year 2003
+     Abstract ISO/IEC 17025 requires that testing laboratories establish the traceability of their measurements, preferably to the SI units of measurement. The responsibility for establishing traceability lies with each individual laboratory and must be achieved by following a
+     Url https://link.springer.com/article/10.1007/s00769-003-0625-9
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Costs and risks of conforming to EU traceability requirements: the case of hard red spring wheat
+     Author ['WW Wilson', 'X Henry', 'BL Dahl']
+     Venue Agribusiness: An International …
+     Year 2008
+     Abstract Cost components include certified seed, certification and auditing, testing, traceability, quality loss, and a premium for the added risk of a dual traceability system over a single non- traceability system. Adventitious commingling risks are defined stochastically
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.20148
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The quest for ubiquity: A roadmap for software and systems traceability research
+     Author ['O Gotel', 'J Cleland-Huang', 'JH Hayes']
+     Venue 2012 20th IEEE …
+     Year 2012
+     Abstract Traceability underlies many important software and systems engineering activities, such as change impact analysis and regression testing. Despite important research advances, as in the automated creation and maintenance
+     Url https://ieeexplore.ieee.org/abstract/document/6345841/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achievements and challenges in state-of-the-art software traceability between test and code artifacts
+     Author ['RM Parizi', 'SP Lee', 'M Dabbagh']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract In this regard, supplementing testing by traceability can be a decent remedy to provide useful information (eg to help efficiently locate faulty code, analyze impact of the changes, find most effective or redundant tests, and rectify defects more reliably in less time) for developers
+     Url https://ieeexplore.ieee.org/abstract/document/6862933/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Automated requirements traceability: The study of human analysts
+     Author ['D Cuddeback', 'A Dekhtyar']
+     Venue 2010 18th IEEE …
+     Year 2010
+     Abstract The requirements traceability matrix (RTM) sup- ports many software engineering and software verification and validation (V&V) activities such as change impact analysis, reverse engineering, reuse, and regression testing
+     Url https://ieeexplore.ieee.org/abstract/document/5636537/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Measurement uncertainty, traceability and evaluation of test results in testing laboratories
+     Author ['G Beges', 'J Drnovsek', 'I Pusnik']
+     Venue … Science and Technology
+     Year 2002
+     Abstract The objective of this paper is to elaborate new elements related to metrological analysis in the field of testing, such as measurement uncertainty and traceability. Until now the international standard ISO 45001 did not explicitly require the uncertainty specifications in
+     Url https://iopscience.iop.org/article/10.1088/0957-0233/13/4/320/meta
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Perspectives on traceability and BSE testing in the US beef industry
+     Author ['DV Bailey', 'J Robb', 'L Checketts']
+     Venue Choices
+     Year 2005
+     Abstract by DeeVon Bailey, James Robb, and Logan Checketts The discoveries of a dairy cow in the state of Washington in December 2003 and a beef cow in Texas in June 2005, both infected with BSE, essentially removed any doubt that a better tracking method for animals and meat
+     Url https://www.jstor.org/stable/pdf/choices.20.4.0293.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software traceability: a roadmap
+     Author ['G Spanoudakis', 'A Zisman']
+     Venue Handbook Of Software Engineering And …
+     Year 2005
+     Abstract More specifi- cally, traceability information can be used to support the analysis of implications and integration of changes that occur in  the reuse of software system components by identifying and comparing requirements of new and existing systems; the testing of software
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789812775245_0014
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Qualitative and Quantitative Molecular Testing Methodologies and Traceability Systems for Commercialised Bt Cotton Events and Other Bt Crops Under Field Trials …
+     Author ['GJ Randhawa', 'M Singh', 'R Chhabra', 'R Sharma']
+     Venue Food analytical methods
+     Year 2010
+     Abstract Qualitative and quantitative PCR assays were developed for detection of commercialised Bt cotton events, ie MON531, MON15985 and other Bt crops, which are under different stages of field trials in India, ie Bt brinjal, Bt rice, Bt cauliflower, Bt potato and Bt okra. Multiplex PCR
+     Url https://link.springer.com/article/10.1007/s12161-010-9126-8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Requirements traceability in the model-based testing process
+     Author ['E Bernard', 'B Legeard']
+     Venue Software Engineering 2007–Beiträge zu den …
+     Year 2007
+     Abstract Automated test case and test driver generation from a precise behaviour UML model is an emerging approach for software functional validation. This innovative approach for validation testing makes it possible to ensure the functional coverage of the test suite and to
+     Url https://dl.gi.de/handle/20.500.12116/22725
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Recovering traceability links between unit tests and classes under test: An improved method
+     Author ['A Qusef', 'R Oliveto', 'A De Lucia']
+     Venue 2010 IEEE International …
+     Year 2010
+     Abstract Index Terms—Unit testing; Traceability; Empirical Studies. I. INTRODUCTION  Traceability links between unit tests and tested classes can be also exploited to maintain consistency during refactoring. As well as unit testing, refactoring is a predominant activity
+     Url https://ieeexplore.ieee.org/abstract/document/5609581/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title System and method for maintaining requirements traceability
+     Author ['JW Berlik', 'S Dharmadhikari', 'ML Harding']
+     Venue US Patent …
+     Year 2012
+     Abstract Moreover, traceability and changes to traceability between at least two requirements can be maintained throughout the synchronization process allowing the traceability to be correctly replicated in the testing application and repository
+     Url https://patents.google.com/patent/US8191044B1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Alignment of requirements specification and testing: A systematic mapping study
+     Author ['ZA Barmi', 'AH Ebrahimi', 'R Feldt']
+     Venue … on Software Testing …
+     Year 2011
+     Abstract focus on translating requirements into scenario-based formal language which in turn could be linked to software verification [2]. Bouquet et al  This replacement, together with utilizing explicit traceability links, facilitates bridging the gap between requirements and testing
+     Url https://ieeexplore.ieee.org/abstract/document/5954452/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A Traceability-Driven Approach to Model Transformation Testing.
+     Author ['ND Matragkas', 'DS Kolovos', 'RF Paige', 'A Zolotas']
+     Venue AMT@ MoDELS
+     Year 2013
+     Abstract Effective and efficient support for engineering model transformations is of paramount importance for automating Model-Driven Engineering (MDE) in practice. Such support should include techniques and tools for testing the correctness of model transformations. In
+     Url http://ceur-ws.org/Vol-1077/amt13_submission_7.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability process for large OO projects
+     Author ['JP Corriveau']
+     Venue Computer
+     Year 1996
+     Abstract an instance variable table detailing the type and pur- pose of each variable; a method table listing each method's contractll and execution paths; a testing table associating tests to methods (and exe- cution paths of methods); a horizontal traceability link capturing the changes
+     Url https://ieeexplore.ieee.org/abstract/document/536785/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Reconstructing traceability between bugs and test cases: An experimental study
+     Author ['N Kaushik', 'L Tahvildari', 'M Moore']
+     Venue 2011 18th Working …
+     Year 2011
+     Abstract Based on this, we speculate that there is a common vocabulary used among test case and bug artifacts which can be exploited by IR techniques to recover traceability between bugs and test cases. In manual testing, testers typically follow the steps listed in the bug report to
+     Url https://ieeexplore.ieee.org/abstract/document/6079869/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Scenario-based functional regression testing
+     Author ['WT Tsai', 'X Bai', 'R Paul', 'L Yu']
+     Venue 25th Annual International …
+     Year 2001
+     Abstract Section 2 introduces E2E testing and presents the test scenario model, including template definition, dependencies, and traceability  2.3 Test Scenario Dependencies and Traceability Dependence analysis provides the foundation for regression testing and REA
+     Url https://ieeexplore.ieee.org/abstract/document/960659/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability in acceptance testing
+     Author ['JP Corriveau', 'W Shi']
+     Venue Journal of Software Engineering and Applications
+     Year 2013
+     Abstract Regardless of which (model-centric or code-centric) development process is adopted, industrial software production ultimately and necessarily requires the delivery of an executable implementation. It is generally accepted that the quality of such an
+     Url https://www.scirp.org/html/38123.html
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title 17 Volatile Compounds in Food Authenticity and Traceability Testing
+     Author ['T Cajka', 'J Hajslova']
+     Venue Food Flavors: Chemical, Sensory and …
+     Year 2011
+     Abstract FIGURE 17.4 Comparison of separation of selected honey volatiles in two GC systems:(a) 1D-GC-TOFMS, and (b) GC x GC-TOFMS (DB-5ms x Supelcowax 10 columns). Marked compounds:(1) nonan-2-one;(2) linalool oxide;(3) dehydro-p-cymene;(4) undecane;(5)
+     Url https://books.google.com/books?hl=en&lr=&id=AEzRBQAAQBAJ&oi=fnd&pg=PA355&dq=%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22+%22Traceability%22&ots=i0GFnKgAT5&sig=eo-MQM7Uz5-yofiot0x7ZInADwY
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Experimental testing for metrological traceability and accuracy of liquid microflows and microfluidics
+     Author ['E Batista', 'JA Sousa', 'S Cardoso', 'V Silvério']
+     Venue Flow Measurement and …
+     Year 2020
+     Abstract Micro-flows are growing more important and useful for a wide variety of scientific and engineering fields such as bioanalysis, drug development and administration, Organ-on-a-Chip, etc, but accurate and reliable measurements traceable to the International System of
+     Url https://www.sciencedirect.com/science/article/pii/S0955598619304108
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Linking requirements and testing in practice
+     Author ['EJ Uusitalo', 'M Komssi', 'M Kauppinen']
+     Venue 2008 16th IEEE …
+     Year 2008
+     Abstract These practices include early tester participation particularly in requirements reviews, setting up traceability policies, taking feature requests from testers into account, and linking testing personnel with requirement owners. Due
+     Url https://ieeexplore.ieee.org/abstract/document/4685680/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A comparative analysis of consumer attitudes towards food safety, animal testing and traceability in the meat industry: Japan and Canada
+     Author ['AD Aubeeluck']
+     Venue NA
+     Year 2010
+     Abstract In this research consumers‟ attitudes towards general food safety and their perceptions of the safety of beef in Japan and Canada are examined. Risk perceptions, the willingness to pay for beef traceability from farm to final consumer and the willingness to pay for animal
+     Url https://era.library.ualberta.ca/items/fe43fe5d-d82e-47a6-904d-5f2aa6216bdc
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A keyphrase based traceability scheme
+     Author ['J Jackson']
+     Venue … Tools and Techniques for Maintaining Traceability …
+     Year 1991
+     Abstract RRDS software engineers embed keyphrases in the specifications of each software component listing the specification requirements that it addresses. (A component is the unit of configuration control, testing and traceability
+     Url https://ieeexplore.ieee.org/abstract/document/182210/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software verification and validation research laboratory (svvrl) of the university of kentucky: traceability challenge 2011: language translation
+     Author ['JH Hayes', 'H Sultanov', 'WK Kong', 'W Li']
+     Venue … Traceability in Emerging Forms …
+     Year 2011
+     Abstract We present the process and methods applied in undertaking the Traceability Challenge in addressing Grand Challenge C-GC1-Trace recovery. The Information Retrieval methods implemented in REquirementsTRacing On target .NET (RETRO .NET) were applied to the
+     Url https://dl.acm.org/doi/abs/10.1145/1987856.1987868
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Why is the food traceability system unsuccessful in Taiwan? Empirical evidence from a national survey of fruit and vegetable farmers
+     Author ['PA Liao', 'HH Chang', 'CY Chang']
+     Venue Food Policy
+     Year 2011
+     Abstract Keywords. Food traceability system. Awareness. Pesticide residue testing. Taiwan. Introduction. Many countries across the world have made traceability a compulsory procedure in the food sector (Houghton et al., 2008, Smith and Furness, 2008)
+     Url https://www.sciencedirect.com/science/article/pii/S030691921100087X
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Tool support for traceability management of software artefacts with DevOps practices
+     Author ['S Palihawadana', 'CH Wijeweera']
+     Venue 2017 Moratuwa …
+     Year 2017
+     Abstract At the same time the existing visualization of SAT Analyzer was enhanced to support DevOps related operations and testing, configuration and deployment traceability links  133 Page 6. Fig. 9. Testing Phase Traceability Visualization VI
+     Url https://ieeexplore.ieee.org/abstract/document/7980469/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Current best practice for traceability in testing laboratories, when certified reference materials are unavailable
+     Author ['T Engelhard', 'O Dreazen']
+     Venue Accreditation and quality assurance
+     Year 2004
+     Abstract Since the implementation of ISO/IEC 17025 in 2002, all accredited laboratories (at the least) need to establish traceability in all their tests and calibration methods. Traceabilty, though well understood in the calibration field (through an unbroken chain of comparisons to the
+     Url https://link.springer.com/content/pdf/10.1007/s00769-004-0805-2.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Designing blockchain-based applications a case study for imported product traceability
+     Author ['X Xu', 'Q Lu', 'Y Liu', 'L Zhu', 'H Yao', 'AV Vasilakos']
+     Venue Future Generation …
+     Year 2019
+     Abstract standards. If the batch of products passes all the inspections and testing, the traceability company issues the supplier a Traceability Certificate of Commodity that certify the quality of the batch. Adaptability Requirement. During
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X18314298
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability in model-based testing
+     Author ['M George', 'KP Fischer-Hellmann', 'M Knahl', 'U Bleimann']
+     Venue Future Internet
+     Year 2012
+     Abstract The growing complexities of software and the demand for shorter time to market are two important challenges that face today's IT industry. These challenges demand the increase of both productivity and quality of software. Model-based testing is a promising technique for
+     Url https://www.mdpi.com/1999-5903/4/4/1026
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Across Version/Variant requirement traceability in avionics software development and testing
+     Author ['A Silva']
+     Venue DASIA 98-Data Systems in Aerospace
+     Year 1998
+     Abstract 215 Across Version/Variant Requirement traceability in Avionics Software development and testing Antonio Silva Agusta, Un 'Azienda Finmeccanica SpA. Via GA gusta, 520 21017 Cascina Costa di Samarate (VA), Italy Phone: +39 331 711522 Fax: +30 331 711520 ABSTRACT  Such
+     Url http://adsabs.harvard.edu/full/1998ESASP.422..215S
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The importance of traceability for public health and consumer protection
+     Author ['JD McKean']
+     Venue Revue Scientifique et Technique-Office …
+     Year 2001
+     Abstract Farm of origin testing and traceability from centralised sampling programmes have been critical to the success of these efforts. National and international registries provide sources for animal products of known health standards
+     Url https://pdfs.semanticscholar.org/5a9a/96187d7b4d43a1ab4a8be2622d6850bf9d25.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A scenario-driven approach to traceability
+     Author ['A Egyed']
+     Venue Proceedings of the 23rd International Conference on …
+     Year 2001
+     Abstract footprints these scenarios make. Testing scenarios may thus be as simple as manually interpreting them or as advanced as automatically testing them via testing tools  This footprint graph becomes the foundation for advanced traceability reasoning in generalizing and refin- ing
+     Url https://ieeexplore.ieee.org/abstract/document/919087/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Proficiency testing programs to improve traceability in chemical analysis
+     Author ['C Ferrero', 'M Casaril']
+     Venue Measurement
+     Year 2009
+     Abstract The results of the proficiency test program T062 organised by CNACL (China National Accreditation committee for Laboratories) were analysed with different statistical procedures: the robust statistic procedure used by the proficiency test organisers and the ISO 5725-2
+     Url https://www.researchgate.net/profile/C_Ferrero2/publication/245222357_Proficiency_testing_programs_to_improve_traceability_in_chemical_analysis/links/5a018afb0f7e9bfd745b00b0/Proficiency-testing-programs-to-improve-traceability-in-chemical-analysis.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Trust and traceability in electronic commerce
+     Author ['DD Steinauer', 'SA Wakid', 'S Rasberry']
+     Venue StandardView
+     Year 1997
+     Abstract traditional concept of traceability relies upon the ability to compare a given measurement directly or indirectly with a standard reference. In this context, open, well-understood tests are a necessary primary reference for either third parties or vendors to use in testing products, and
+     Url https://dl.acm.org/doi/pdf/10.1145/266231.266239
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The need for traceability in heterogeneous systems: a systematic literature review
+     Author ['N Mustafa', 'Y Labiche']
+     Venue 2017 IEEE 41st Annual Computer …
+     Year 2017
+     Abstract in Software Language Engineering. 2008. 93. Bouquet, F., et al. Requirements Traceability in Automated Test Generation - Application to Smart Card Software Validation in workshop on Advances in model-based testing. 2005 94. Hayes, JH, A. Dekhtyar, and DS Janzen
+     Url https://ieeexplore.ieee.org/abstract/document/8029622/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Which traceability visualization is suitable in this context? a comparative study
+     Author ['Y Li', 'W Maalej']
+     Venue … on Requirements Engineering: Foundation for Software …
+     Year 2012
+     Abstract We study the usage of the introduced traceability visualization techniques for the management, design, implementation, and testing tasks. The study consists of three phases as shown in Fig. 3: a preparation phase, an experiment phase, and an interview phase
+     Url https://link.springer.com/chapter/10.1007/978-3-642-28714-5_17
+

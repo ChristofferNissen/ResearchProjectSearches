@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+"DevOps"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Towards Utilization of Lean Canvas in the DevOps Software
+     Author ['P Nidagundi', 'L Novickis']
+     Venue … of the 11th International Scientific and …
+     Year 2017
+     Abstract In DevOps software development software validation and verification play a key role to fulfill the customer expectation with the error free software  II. THE PROBLEM STATEMENT In DevOps process, software verification and validation play a key role to ensure that the
+     Url http://journals.rta.lv/index.php/ETR/article/view/2522
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Software verification and validation technologies and tools
+     Author ['M Rodriguez', 'M Piattini', 'C Ebert']
+     Venue IEEE Software
+     Year 2019
+     Abstract In fact, several com- panies are introducing over-the-air seamless upgrades, DevOps, and con- tinuous software engineering.2 This implies continuous verification and continuous validation—way beyond classic smoke tests  Christof Ebert Software Verification and
+     Url https://ieeexplore.ieee.org/abstract/document/8648264/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Boost the Impact of Continuous Formal Verification in Industry
+     Author ['FR Monteiro', 'MR Gadelha', 'LC Cordeiro']
+     Venue arXiv preprint arXiv:1904.06152
+     Year 2019
+     Abstract Our vision is to focus on the developer in order to integrate formal verification techniques into the developer workflow by using their main software development methodologies and tools. Keywords: Formal Software Verification, Model Checking, DevOps. 1 Motivation
+     Url https://arxiv.org/abs/1904.06152
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Utilizing Software Engineering Education Support System ALECSS at an Actual Software Development Experiment: A Case Study.
+     Author ['M Ohtsuki', 'T Kakeshita']
+     Venue CSEDU (2)
+     Year 2019
+     Abstract Keywords: Software Engineering Education, DevOps Tool, Software Verification, Coding Style Checking, Execution Checking, Static Checking, Peer Review. Abstract: We have proposed a software engineering education support system named ALECSS in our previous paper
+     Url https://www.scitepress.org/Papers/2019/77232/77232.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Continuous validation for data analytics systems
+     Author ['M Staples', 'L Zhu', 'J Grundy']
+     Venue … of the 38th International Conference on …
+     Year 2016
+     Abstract Keywords software validation, continuous development, devOps, ma- chine learning, data analytics, ethics, governance ∗This paper is written as future history from 2025. To avoid temporal paradoxes, we do not cite papers from after 2015
+     Url https://dl.acm.org/doi/abs/10.1145/2889160.2889207
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A Continuous Certification Methodology for DevOps
+     Author ['M Anisetti', 'CA Ardagna', 'F Gaudenzi']
+     Venue Proceedings of the 11th …
+     Year 2019
+     Abstract We then present the assurance framework managing our certification scheme and experimentally evaluate the continuous certification scheme in a real DevOps scenario. CCS CONCEPTS • Software and its engineering → Software verification and validation; Extra-functional
+     Url https://dl.acm.org/doi/abs/10.1145/3297662.3365827
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE
+     Author ['D Shepard']
+     Venue NA
+     Year 2018
+     Abstract SATURN 2018 DevOps on HRE Assessment: Deployment/Release Mgr. • Software configuration management • Integration process • Software verification and validation process • Software review and audit process • Securing the deployment pipeline Page 33. 33
+     Url https://apps.dtic.mil/sti/citations/AD1086793
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Keynote Speaker the Pro-VR Challenge-A Technical Deep Dive into NVIDIA's VR Technologies
+     Author ['R Menzel']
+     Venue 2018 IEEE Conference on Virtual Reality and 3D User …
+     Year 2018
+     Abstract in industrial-grade DevOps projects (iDevOps) and shares our motivations, achievements, and experiences on our journey to transform testing into the iDevOps world. CCS CONCEPTS • Software and its engineering Software creation and management Software verification and
+     Url https://www.computer.org/csdl/proceedings-article/vr/2018/08446082/13bd1fZBGca
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title 14 Requirements
+     Author ['O DevOps']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title What do software engineers care about? gaps between research and practice
+     Author ['V Ivanov', 'A Rogers', 'G Succi', 'J Yi', 'V Zorin']
+     Venue Proceedings of the 2017 11th …
+     Year 2017
+     Abstract as compared to other areas such as software quality where techniques such DevOps and unit  Software testing and debugging Formal software verification Software defect analysis Walkthroughs Traceability Empirical software validation (b) Software verification and validation
+     Url https://dl.acm.org/doi/abs/10.1145/3106237.3117778
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Strategy for continuous testing in iDevOps
+     Author ['P Zimmerer']
+     Venue Proceedings of the 40th International Conference on …
+     Year 2018
+     Abstract in industrial-grade DevOps projects (iDevOps) and shares our motivations, achievements, and experiences on our journey to transform testing into the iDevOps world. CCS CONCEPTS • Software and its engineering Software creation and management Software verification and
+     Url https://dl.acm.org/doi/abs/10.1145/3183440.3183465
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract authorities have requirements for the product development process that must be fulfilled, such as proofs of the software verification and traceability of  for regulated development by enriching them with planning practices [2]. However, there is not yet evidence how DevOps [3] fits
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Continuous architecting of stream-based systems
+     Author ['MM Bersani', 'F Marconi', 'DA Tamburri']
+     Venue 2016 13th Working …
+     Year 2016
+     Abstract b) detecting the oc- currence of common anti-patterns across big data architectures; (c) exploiting software verification techniques on  effectiveness can be maintained through con- tinuous architecting of big data applications consistently with a DevOps organisational structure [7
+     Url https://ieeexplore.ieee.org/abstract/document/7516823/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title WebRTC testing: challenges and practical solutions
+     Author ['B Garcia', 'F Gortazar']
+     Venue IEEE …
+     Year 2017
+     Abstract The most limiting factor for satisfying this demand is software verification and validation that may account for more than 70 percent of the total development effort [1]. Because of this, during the last few years, we have witnessed an explo- sion of DevOps methodologies and tools
+     Url https://ieeexplore.ieee.org/abstract/document/7992926/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract In DevOps, this puts requirements on tooling and tool validation, outlined in a Software Validation Plan as described by a QMS. 3. Clause 5.8.6 requires all tasks and activities to be completed before the software is released
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Validating System of Systems: approaches and open challenges
+     Author ['F Gortázar']
+     Venue NA
+     Year NA
+     Abstract Currently, André investigates challenges and opportunities in the context of continuous software engineering and DevOps. xxix  fault injection and vulnerability & attack injection, robustness and security testing, online failure prediction, and software verification and validation
+     Url https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1hrL6fNUNUY/pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Testing uncertainty of cyber-physical systems in IoT cloud infrastructures: combining model-driven engineering and elastic execution
+     Author ['HL Truong', 'L Berardinelli']
+     Venue Proceedings of the 1st ACM SIGSOFT …
+     Year 2017
+     Abstract Computer systems organization → Embedded and cyber- physical systems; • Software and its engineering → Software verification and validation  3 INTEGRATED APPROACH FOR TESTING UNCERTAINTIES 3.1 DevOps Activities for Uncertainty Testing Before discussing how
+     Url https://dl.acm.org/doi/abs/10.1145/3107091.3107093
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Cyber-Physical Systems Uncertainty Testing in IoT Cloud Infrastructures
+     Author ['VEADM Sharmya']
+     Venue NA
+     Year NA
+     Abstract and anal- ysis; • Computer systems organization → Embedded and cyber- physical systems; • Software and its engineering → Software verification and validation  A. DevOps Activities for Uncertainty Testing Before discussing how to fill the gap between MDE and elastic
+     Url http://www.academia.edu/download/55090744/IJSRDV5I90002.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title New records-23 October 2019
+     Author ['WDB Raton']
+     Venue NA
+     Year NA
+     Abstract Computer science, Congresses. 005.1 Learning DevOps : implement modern DevOps techniques to increase business productivity, agility, reliability, security and, scalability / Mikael Krief  Computer software, Testing, Congresses. Computer software, Verification, Congresses
+     Url http://vll-minos.bl.uk/bibliographic/bnbnewpdfs/bnblist3567.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Atom-Task Precondition Technique to Optimize Large Scale GUI Testing Time based on Parallel Scheduling Algorithm
+     Author ['S Wongkampoo', 'S Kiattisin']
+     Venue 2017 21st International Computer …
+     Year 2017
+     Abstract DevOps [3] culture brought this concept called Continuous Delivery [4] which contains continuous integration [5] practice inside and an automated  lifecycle which is including the continuous integration and automated testing system to be a part of software verification process
+     Url https://ieeexplore.ieee.org/abstract/document/8443913/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Projekt 12: Concurrency Detectives
+     Author ['C Calcagno', 'D Distefano', 'J Dubreil', 'D Gabi']
+     Venue NA
+     Year NA
+     Abstract "Moving Fast with Software Verification." NFM 15 (2015  Projekt 17: DevOps, as Microservices DevOps Vejleder: Saverio Giallorenzo, saverio.giallorenzo@gmail.com Institut: Institut for Matematik og Datalogi Praktisk del: Programmering Gruppeplacering: IMADA Gruppestørrelse
+     Url https://imada.sdu.dk/~marco/Teaching/NAT501/2018/cs_projects.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A framework for Virtual Network Functions (VNF) modeling and Service Graph verification in SDN/Cloud context
+     Author ['R Zhao']
+     Venue NA
+     Year 2018
+     Abstract DevOps, a combination of Development and Operations in English, is a generic term for a group of processes, methods, and systems used to facilitate communication, collaboration, and integration  Z3 is actually commonly used in software verification, program analysis, etc
+     Url https://webthesis.biblio.polito.it/7465/1/tesi.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Reproducible computer network experiments: A case study using popper
+     Author ['A David', 'M Souppe', 'I Jimenez', 'K Obraczka']
+     Venue Proceedings of the 2nd …
+     Year 2019
+     Abstract CCS CONCEPTS • Networks → Network experimentation; • Software and its engineering → Empirical software validation; • Social and pro- fessional topics  7]. The convention is based on the open source software (OSS) development model, using the DevOps approach to
+     Url https://dl.acm.org/doi/abs/10.1145/3322790.3330596
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Continuous integration in validation of modern, complex, embedded systems
+     Author ['M Kowzan', 'P Pietrzak']
+     Venue 2019 IEEE/ACM International …
+     Year 2019
+     Abstract This paper covers the challenges in software validation, especially in the context of complex, embedded systems  REFERENcES [1] IA Brief History of DevOps, Part III: Automated testing and continuous Integration". circlecI. 2018Y02Y01
+     Url https://ieeexplore.ieee.org/abstract/document/8812867/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Bertrand Meyer's technology+ blog
+     Author ['S Ben-David', 'LC Briand', 'T Menzies']
+     Venue NA
+     Year NA
+     Abstract Postdoc candidates should have a substantial publication record. Experience in one or more of the following fields is a plus: Software verification (axiomatic, model-checking, abstract interpretation etc.). Advanced techniques of software testing
+     Url https://bertrandmeyer.com/category/softwaredesign/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Current and Future Challenges of Software Engineering for Services and Applications.
+     Author ['G Casale', 'C Chesta', 'P Deussen', 'E Di Nitto']
+     Venue Cloud …
+     Year 2016
+     Abstract the quality and acceptability of cloud based services through novel, collaboration-driven requirements elicitation and analysis, software validation and verification  based development techniques (more than half of the projects tackling such aspects) and of DevOps practices (one
+     Url https://pdfs.semanticscholar.org/25d3/5bdaec6bca1d399c5e4b593c841dc432c389.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Verifying big data topologies by-design: a semi-automated approach
+     Author ['MM Bersani', 'F Marconi', 'DA Tamburri', 'A Nodari']
+     Venue Journal of Big Data
+     Year 2019
+     Abstract Finally, the tool provides a software-verification interlay relying on third-party tools from previous and related work as outlined in “OSTIA-based formal verification” section  The first one is DevOps and the second one is Model-Driven Engineering
+     Url https://link.springer.com/article/10.1186/s40537-019-0199-y
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Introduction to lean canvas transformation models and metrics in software testing
+     Author ['P Nidagundi', 'L Novickis']
+     Venue Applied Computer Systems
+     Year 2016
+     Abstract canvas. Keywords – Lean canvas, software testing, software validation, software verification, test process. I  Crystal). The modern new DevOps have brought one more new dimension to software development industry. Waterfall
+     Url https://content.sciendo.com/view/journals/acss/19/1/article-p30.xml
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title The Way Forward
+     Author ['DL Strategy', 'SL Strategy']
+     Venue Tasmanian Greens
+     Year 2004
+     Abstract Working with industrial and public partners is a strong opportunity for researchers to validate new ideas, methods and tools. With the constant support of the User Partners, Certus researchers have regularly increased their impact in Software Validation and Verification
+     Url http://certus-sfi.no/wp-content/uploads/2019/04/Certus-Annual-Report-2018_web.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Experiments in Context-Sensitive Incremental and Modular Static Analysis in CiaoPP
+     Author ['I Garcia-Contreras', 'JF Morales']
+     Venue Pre-proceedings for …
+     Year NA
+     Abstract Our vision is to focus on the developer in order to integrate formal verification techniques into the developer workflow by using their main software development methodologies and tools. Keywords: Formal Software Verification, Model Checking, DevOps
+     Url https://staticanalysis.org/tapas2019/talks/tapas19-pre.pdf#page=39
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title CTSC Secure Software Engineering Best Practices
+     Author ['R Heiland', 'S Sons']
+     Venue NA
+     Year 2016
+     Abstract Software engineering (SE) is about problem modeling and analysis, software design, software verification and validation, software quality, software process, software management, etc  39 Extreme ~ Incremental ~ Agile ~ CI/CD → DevOps The idea of doing/automating frequent
+     Url https://scholarworks.iu.edu/dspace/handle/2022/20982
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Secure Software Engineering Best Practices
+     Author ['R Heiland', 'S Sons']
+     Venue NA
+     Year 2016
+     Abstract Software engineering (SE) is about problem modeling and analysis, software design, software verification and validation, software quality, software process, software management, etc  39 Extreme ~ Incremental ~ Agile ~ CI/CD → DevOps The idea of doing/automating frequent
+     Url https://scholarworks.iu.edu/dspace/handle/2022/21322
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Software analytics in continuous delivery: a case study on success factors
+     Author ['H Huijgens', 'D Spadini', 'D Stevens', 'N Visser']
+     Venue Proceedings of the 12th …
+     Year 2018
+     Abstract CCS CONCEPTS • Software and its engineering → Empirical software validation; KEYWORDS Software Economics, Software Analytics, DevOps, Continuous De- livery, Experience Report, ING ACM Reference Format: Hennie Huijgens, Davide Spadini, Dick Stevens, Niels
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240505
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Highlights of software R&D in India
+     Author ['S Chakraborty', 'V Varma']
+     Venue Communications of the ACM
+     Year 2019
+     Abstract Infosys has been the development of the Infosys DevOps Platform (IDP)d that helps organizations accelerate their agile and DevOps journey in  In the 2019 edition of the Competition on Software Verification, one of India's entries— VeriAbs from TCS—nabbed the top position in
+     Url https://dl.acm.org/doi/fullHtml/10.1145/3343454
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Contribution to the Engineering of User Interfaces
+     Author ['A Blouin']
+     Venue NA
+     Year 2019
+     Abstract 2 Research Perspectives 29 2.1 DevOps and user interfaces  More precisely, the contributions focus on model-driven en- gineering, software validation and verification, and software variability, for engineering UIs. Page 8. 1.2. CHALLENGES AND OBJECTIVES 7
+     Url https://tel.archives-ouvertes.fr/tel-02354530/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title AUTOMATION TESTING IN AGILE METHODOLOGY
+     Author ['MS Sabri']
+     Venue International Engineering Journal For Research & …
+     Year 2017
+     Abstract The journal Testing Software, Verification & Reliability, and Advances in Software Engineering sought out the same papers and inclusion terms  agile include; flexible software development (ASD), performance enhancement (DevOps) aging service delivery
+     Url https://www.researchgate.net/profile/Mustafa_Sabri2/publication/343558242_AUTOMATION_TESTING_IN_AGILE_METHODOLOGY/links/5f319d12a6fdcccc43bee5a3/AUTOMATION-TESTING-IN-AGILE-METHODOLOGY.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A Container-based architecture for accelerating software tests via setup state caching and parallelization
+     Author ['NML Neto']
+     Venue NA
+     Year 2019
+     Abstract It is also inserted in an area of engineering software called “DevOps” (Development Operations) [8]. The main goal of DevOps is to support all software development phases with  However, with this speed-up comes the necessity of equally faster software validation processes. 5
+     Url https://repositorio-aberto.up.pt/bitstream/10216/122203/2/351068.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Real Time Agile Metrics for Measuring Team Performance
+     Author ['EN Budacu', 'P Pocatilu']
+     Venue Informatica Economica
+     Year 2018
+     Abstract 8 Sprint 8 – Sprint 10 1 x DEVOPS, 5 x BE, 3 x FE, 4 x QA 13 Sprint 11 – Sprint 24 1 x DEVOPS, 6 x BE, 4 x FE, 4 x QA 15  [15] IEEE, IEEE 1012:2012, Standard for System and Software Verification and Validation, New York, 2012
+     Url https://pdfs.semanticscholar.org/8f85/aaecf01e1de581ab2c19fec9743843a6875a.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Quality Control Approach in Developing Software Projects
+     Author ['V Stepanova']
+     Venue International Journal of Computer Science and …
+     Year 2019
+     Abstract artificial intelligence [1]. In the recent years, software developers have spent approximately 30-40% of their budget on software verification and validation  DevOps [10] is a body of models that automatizes the processes between the software development and IT teams to facilitate
+     Url http://search.proquest.com/openview/1ff29dc2abd0beb9c7a66c4ef8e4bf09/1?pq-origsite=gscholar&cbl=2044552
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A Machine to Machine framework for the charging of Electric Autonomous Vehicles
+     Author ['Z Elbanna', 'I Afanasyev', 'LJP de Araújo']
+     Venue Workshops of the …
+     Year 2020
+     Abstract Software validation and verification (VV) encompasses techniques and tools for guaranteeing confidence in a  one [9] and demonstrate how it can be adopted for projects by DevOps teams  Fisher, MS: Software Verification and Validation: An Engineering and Scientific Approach
+     Url https://link.springer.com/chapter/10.1007/978-3-030-44038-1_4
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A tool for verification of big-data applications
+     Author ['MM Bersani', 'F Marconi', 'M Rossi', 'M Erascu']
+     Venue … on Quality-Aware DevOps
+     Year 2016
+     Abstract This paper describes the first version of D-VerT, available open source at github.com/ dice-project/DICE-Verification. CCS Concepts •Software and its engineering → Formal software verification; Keywords Formal verification; temporal logic
+     Url https://dl.acm.org/doi/abs/10.1145/2945408.2945419
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title A systematic review on the use of Definition of Done on agile software development projects
+     Author ['A Silva', 'T Araújo', 'J Nunes', 'M Perkusich']
+     Venue Proceedings of the 21st …
+     Year 2017
+     Abstract lean AND (development OR de- senvolvimento)) OR Kanban OR “extreme programming” OR “pro- gramação extrema” OR devops))  Software verification and validation Deploy Regulatory Compliance Code inspection Test process quality Software architecture design Process
+     Url https://dl.acm.org/doi/abs/10.1145/3084226.3084262
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Disk image selection in virtualized network environments
+     Author ['J Mueller']
+     Venue US Patent App. 16/366,415
+     Year 2020
+     Abstract DevOps. DevOps is a set of software development practices that combines software development with information technology operations to shorten the systems  External input module 201 includes a source of software artifacts 205 and a source of software validation tests 207
+     Url https://patents.google.com/patent/US20200310950A1/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Teaching testing to programmers. What sticks, and what slides off? A journey from Teflon to Velcro.
+     Author ['R Sabourin', 'M Wodzislawski']
+     Venue NA
+     Year 2020
+     Abstract Testing as part of the undergraduate Software Engineering course “ECSE 429 – Software Validation”  the main objective of guaranteeing a technically well-founded path towards DevOps  Mónica is responsible for the 8th semester´s elective “Software Verification and Validation
+     Url http://uploads.pnsqc.org/2020/papers/Sabourin_2020.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Visualizing a Continuous Delivery Pipeline
+     Author ['SO Suvanto']
+     Venue NA
+     Year 2018
+     Abstract Currently, the Data Visualizer system is only used in a reference implementation of a software verification pipeline  The structure of this thesis is as follows. Chapter 2 gives a brief introduction to topics related to Continuous Delivery, DevOps and data analysis
+     Url https://trepo.tuni.fi/handle/123456789/26112
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Towards a runtime verification approach for Internet of Things systems
+     Author ['M Leotta', 'D Ancona', 'L Franceschini', 'D Olianas']
+     Venue … Conference on Web …
+     Year 2018
+     Abstract To this aim, runtime verification can be a valuable support to tackle such a complex task and to complement other software verification techniques based on static analysis and testing. This paper is a first step towards the application of runtime verification to IoT systems
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03056-8_8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title How (not) to Remove Technical Debt in Testing Environments
+     Author ['V Guerlesquin']
+     Venue 2019 IEEE/ACM International Conference on …
+     Year 2019
+     Abstract Six good way to fail Valentin GUERLESQUIN DevOps Squad National Ban  And yet, the agile approaches described in the 1990s recognize the importance of software verification activities (Rapid Application Development, James Martin, Macmillan, 1991, for example)
+     Url https://ieeexplore.ieee.org/abstract/document/8786003/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Innovation design and its verification & validation in the era of the Internet of Things
+     Author ['N Uchihira']
+     Venue 2016 IEEE 5th Global Conference on Consumer …
+     Year 2016
+     Abstract DevOps (the collaborative process of software development and operation) and the cloud-native approach are typical design strategies that accomplish this integration  To be more specific, a smart CE product satisfies customer needs. • System & Software Verification
+     Url https://ieeexplore.ieee.org/abstract/document/7800418/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Closing the gap—Enacting knowledge transfer between engineering and use of healthcare software
+     Author ['JH Weber', 'M Price']
+     Venue 2016 IEEE/ACM International Workshop on …
+     Year 2016
+     Abstract However, compared to typical DevOps metrics, we employ data collection methods that are designed to be more rigorous (eg, RCT  We are currently designing and prototyping a built-in software validation component, referred to as IDEA (Integrated Design Evaluation and
+     Url https://ieeexplore.ieee.org/abstract/document/7809410/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"DevOps"
+     Title Visual analytics for concurrent Java executions
+     Author ['C Artho', 'M Pande', 'Q Tang']
+     Venue 2019 34th IEEE/ACM International …
+     Year 2019
+     Abstract analytics [7]. The intended audience consists of developers who want to analyze concurrent execution traces, be this for software validation or root  We compare our work with visual dashboards that are common for log analytics and DevOps, and execution trace analytics tools
+     Url https://ieeexplore.ieee.org/abstract/document/8952488/
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Data-centered runtime verification of wireless medical cyber-physical system
+     Author ['Y Jiang', 'H Song', 'R Wang', 'M Gu']
+     Venue IEEE transactions on …
+     Year 2016
+     Abstract It combines formal methods in software engineering and practice guide- lines in medicine to rigorously verify runtime temporal properties  technique based on real-time data of patient and runtime verification is adapted to cooperate with wireless medical cyber-physical system
+     Url https://ieeexplore.ieee.org/abstract/document/7480373/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Using formal methods to enable more secure vehicles: DARPA's HACMS program
+     Author ['K Fisher']
+     Venue Proceedings of the 19th ACM SIGPLAN international …
+     Year 2014
+     Abstract Examples include SCADA systems that manage physical infrastructure, medical devices such as  Specifically, HACMS is pursuing a clean-slate, formal methods- based approach to the creation of high-assurance vehicles, where high assurance is defined to mean
+     Url https://dl.acm.org/doi/abs/10.1145/2628136.2628165
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title From requirements to code: Model based development of a medical cyber physical system
+     Author ['A Murugesan', 'MPE Heimdahl', 'MW Whalen']
+     Venue Software Engineering in …
+     Year 2014
+     Abstract perform verification in the inherently stochastic environment present in any cyber physical system  Heimdahl, MPE: Proving the shalls: early validation of requirements through formal methods  models to address challenges in specifying requirements for medical cyber-physical
+     Url https://link.springer.com/chapter/10.1007/978-3-319-63194-3_7
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract (Also see Section 2.2.2.) —Medical  Formal Methods • 629  A high-level data link control- ler (HDLC) transmitter core was de- signed at the Bell Labs Microelectron- ics Design Center in Madrid, Spain for an Application-Specific Integrated Circuit library of telecommunication
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract 4. HIGHLIGHTED PROJECTS We present a series of industrial formal methods projects, chosen to show a cross-section of work over the last two  2000], and it has been used in a wide range of applications, from verifying protocols for medical procedures [Hommersom et al
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title How Amazon web services uses formal methods
+     Author ['C Newcombe', 'T Rath', 'F Zhang', 'B Munteanu']
+     Venue Communications of the …
+     Year 2015
+     Abstract World Systems In industry, formal methods have a reputation for requiring a huge amount of training and effort to verify a tiny piece of relatively straightforward code, so the return on investment is justified only in safety-critical domains (such as medical systems and avion- ics)
+     Url https://dl.acm.org/doi/abs/10.1145/2699417
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract Similarly, much of the software in the Therac 25 medical electron accelerator, which led to  by analogy with engi- neering mathematics, and stated that the purpose of formal methods is to  But engineering mathemat- ics is not used only for calculation and analysis: it also provides
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title A survey on testing for cyber physical system
+     Author ['SA Asadollah', 'R Inam', 'H Hansson']
+     Venue IFIP International Conference on …
+     Year 2015
+     Abstract exchange of models, and simulation specifications to test a simulation of complete cyber-physical system [27]  For instance, testing a distance system for daily medical checks with couple of sensors and  One approach could be bridge formal methods and testing approaches [20
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25945-1_12
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract systems that control industrial infrastructure like sewage treatment plants and prison doors, to medical devices like  autonomous, the human–machine interface to ship-board supervisory control and data acquisition (SCADA) systems, networked  5. What are formal methods
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods for developing high assurance computer systems: Working group report
+     Author ['MPE Heimdahl', 'CL Heitmeyer']
+     Venue Proceedings. 2nd IEEE …
+     Year 1998
+     Abstract At the workshop, four different discussion groups investigated various top- ics. This report summarizes the discussions conducted on the topic \Formal Methods for Developing High As  Examples of high assurance systems include flight control systems, medical systems, and con
+     Url https://ieeexplore.ieee.org/abstract/document/766298/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Cyber-physical system design from an architecture analysis viewpoint
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue Communications of the NII …
+     Year 2017
+     Abstract Preface The term cyber-physical system (CPS) was introduced by Helen Gill at the NSF  as trans- portations, whether automotive, trains or airplanes, power distribution, medical equipment, or  Satoh, Mitsuhiro Tani, Kenro Yatake and Tomoji Kishi 6 Formal Methods for Aerospace
+     Url https://link.springer.com/content/pdf/10.1007/978-981-10-4436-6.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods in pattern recognition: a review
+     Author ['L Nieddu', 'G Patrizi']
+     Venue European Journal of Operational Research
+     Year 2000
+     Abstract Invited Review. Formal methods in pattern recognition: A review  After the introduction a historical sketch of the field will be presented. Then in Section 3, the need for formal methods will be argued and various results on formal requirements as convergence etc. will be derived
+     Url https://www.sciencedirect.com/science/article/pii/S0377221798003683
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title From Requirements to Code: Model Based Development of A Medical Cyber Physical System
+     Author ['S Rayadurgam', 'J Komp', 'L Duan', 'BG Kim']
+     Venue … in Health Care: 4th …
+     Year 2017
+     Abstract to perform verification in the inherently stochastic environment present in any cyber physical system  MW, Heimdahl, MPE: Proving the shalls: early validation of requirements through formal methods  to address chal- lenges in specifying requirements for medical cyber-physical
+     Url https://books.google.com/books?hl=ru&lr=&id=zW0uDwAAQBAJ&oi=fnd&pg=PA96&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Medical%22&ots=QwQ4a8tgXP&sig=kQKgZ4awyk9EHLV-vImBShGaN2U
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods for semi-autonomous driving
+     Author ['SA Seshia', 'D Sadigh', 'SS Sastry']
+     Venue 2015 52nd ACM/EDAC/IEEE …
+     Year 2015
+     Abstract Thus, formal methods are essential for the design of CPS  interacting with a driver), remote-controlled drones (interacting with a ground operator), and medical devices (interacting  in-the-loop control systems and the overall system as a human cyber-physical system (h-CPS)
+     Url https://ieeexplore.ieee.org/abstract/document/7167334/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Testing and Validation of Modbus/TCP Protocol for Secure SCADA Communication in CPS using Formal Methods
+     Author ['IA Siddavatam', 'S Parekh', 'T Shah', 'F Kazi']
+     Venue Scalable Computing: Practice …
+     Year 2017
+     Abstract industry standard. Industrial Control System(ICS) is most referred the case of Cyber-physical system; CPS testbed developed tries to cover all aspect of ICS with electrical system as the physical process. Distributed control
+     Url https://www.scpe.org/index.php/scpe/article/view/1331
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract 2017], particularly relating to certification of commercial medical devices [Bowen and Reeves  time, hybrid computation with differential equations, probability, and rigid body dynam- ics  4 OPPORTUNITIES FOR INTEGRATED FORMAL METHODS This section continues with the
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Hip joint centre localization: evaluation of formal methods and effects on joint kinematics
+     Author ['M Żuk', 'E Świątek-Najwer', 'C Pezowicz']
+     Venue Information Technologies in …
+     Year 2014
+     Abstract Lopomo, N., Sun, L., Zaffagnini, S., Giordano, G., Safran, M.: Evaluation of formal methods in hip joint center assessment: An in vitro  Clinical Biomechan- ics 25, 206–212 (2010) 18  Inter- national Journal of Medical Robotics and Computer Assisted Surgery 7, 85–95 (2011) 24
+     Url https://link.springer.com/chapter/10.1007/978-3-319-06596-0_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Leveraging Applications of Formal Methods, Verification, and Validation: 4th International Symposium on Leveraging Applications, ISoLA 2010, Heraklion …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2010
+     Abstract Leveraging formal methods through collaboration • Resource and timing analysis • Quantitative verification in practice • Worst case traversal time (WCTT) • Model transformation and analysis for industrial scale validation • Certification of software-driven medical devices • Formal
+     Url https://books.google.com/books?hl=ru&lr=&id=_aBuCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Medical%22&ots=ZLxg9BTO5Y&sig=uiR_tTx3InR1yDuTjaaTWiCvHCk
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Experiences in quality checking medical guidelines using formal methods
+     Author ['PJ Groot', 'AJ Hommersom', 'P Lucas', 'M Balser', 'J Schmitt']
+     Venue NA
+     Year 2007
+     Abstract of Figure 2, ie, either insulin is administered or insulin and antidiabet ics are administered  type 2, the quality re quirements, and the Asbru model of the medical guideline for  n to KIV KIV is an integrated development environment to develop systems using formal methods [6]. The
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/34812/34812.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title When formal systems kill: Computer ethics and formal methods
+     Author ['D Abramson', 'L Pike']
+     Venue APA Newsletter on Philosophy and Computers
+     Year 2011
+     Abstract Such uses include aircraft control systems, automotive subsystems, computer systems for piloted spacecraft, and computerized medical devices. There is no reason, though, that in discussion of the question 'how often should formal methods be applied to software' computer
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.436.6308&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Linking abstract analysis to concrete design: A hierarchical approach to verify medical cps safety
+     Author ['A Murugesan', 'O Sokolsky']
+     Venue 2014 ACM/IEEE …
+     Year 2014
+     Abstract at hand, we be- lieve the techniques are applicable in similar situations for verifying cyber-physical system properties  This tool is widely used for critical software development in avion- ics and automotive software and is increasingly used for medical device software
+     Url https://ieeexplore.ieee.org/abstract/document/6843718/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract tools. For example, the popular model checker SPIN comes from Bell Laboratories. Financial industry, medical industry, and the security industry are also beginning to use formal methods, and the list is growing. For example
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Developing safety-critical systems: the role of formal methods and tools
+     Author ['C Heitmeyer']
+     Venue Proceedings of the 10th Australian workshop on …
+     Year 2006
+     Abstract the required be- havior of other software, such as avionics software or software in medical systems  The use of formal methods in the NASA projects is joint work with Ralph Jeffords  Filliatre, J.-C., Owre, S., Ruess, H. & Shankar, N. (2001), ICS: Integrated Canonization and Solv
+     Url https://www.researchgate.net/profile/Constance_Heitmeyer/publication/228871584_Developing_safety-critical_systems_The_role_of_formal_methods_and_tools/links/02e7e51d31216d72b3000000.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Applying formal methods and object-oriented analysis to existing flight software
+     Author ['BHC Cheng', 'B Auernheimer']
+     Venue NA
+     Year 1993
+     Abstract a]v]ro?cllcs for IIlallltallllllg safety-c.ritical systc~m. '1'lIls l,tiImr dcscrilws a ~)rc,jcct Lllat a])p]ics forvnal II IC(lIOCIS to a ljortiol] of tltc s]luttlc o~l-orbit digital autol]ilot, (l  2 . 1 Formal Methods Forlnal ~ilctllods ill software dcvc]oplnc]lt ]Jrovidc lnal)y hcncfil,s in the forward cngince.rilt
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/36591/93-2066.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods for robotic system control software
+     Author ['Y Kouskoulas', 'A Platzer', 'P Kazanzides']
+     Venue Johns Hopkins APL technical …
+     Year 2013
+     Abstract though more advanced controls turn out to be necessary.7 To create a model of a cyber-physical system by using  FORMAL METHODS FOR ROBOTIC SYSTEM CONTROL SOFTWARE  The time refer- ence can be used to restrict the length of the dynam- ics statements, as well
+     Url https://www.jhuapl.edu/Content/techdigest/pdf/V32-N02/32-02-Kouskoulas.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title A panacea or academic poppycock: Formal methods revisited
+     Author ['C Heitmeyer']
+     Venue Ninth IEEE International Symposium on High …
+     Year 2005
+     Abstract lan- guages could be designed to specify and model the required behavior of other software, such as avionics software or software in medical systems  The use of formal methods in the NASA projects is joint work with Ralph Jeffords  ICS: Integrated Canonization and Solving
+     Url https://ieeexplore.ieee.org/abstract/document/1581276/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title The State of the Art in Formal Methods: A Survey [J]
+     Author ['LV Yi']
+     Venue Microelectronics & Computer
+     Year 2003
+     Abstract Economy and Trade Commission, Wuhu 24100, China);Data security of medical insurance management  A High Efficient Method to Generate the Verification Vector of ICs[J];Acta  College,Shangrao 334001,China);Integration and Its Application of Formal Methods and Visual
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WXYJ200310008.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title High-assurance separation kernels: a survey on formal methods
+     Author ['Y Zhao', 'D Sanán', 'F Zhang', 'Y Liu']
+     Venue arXiv preprint arXiv:1701.01535
+     Year 2017
+     Abstract More than 20 implementations of separation kernels have been developed and widely applied in critical domains, eg, avionics/aerospace, military/defense, and medical devices. Formal methods are mandated by the security/safety certification of separation kernels and have
+     Url https://arxiv.org/abs/1701.01535
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal specification of medical systems by proof-based refinement
+     Author ['D Méry', 'NK Singh']
+     Venue ACM Transactions on Embedded Computing …
+     Year 2013
+     Abstract Few case studies show that the formal methods have been used to check correctness of operating modes, functions and desired behaviors of the medical devices [Bowen  used in development of critical systems, such as aerospace, avion- ics, automotive, biomedical
+     Url https://dl.acm.org/doi/abs/10.1145/2406336.2406351
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Combining semi-formal and formal methods for the development of distributed reconfigurable control systems
+     Author ['R Oueslati', 'O Mosbahi', 'M Khalgui', 'Z Li', 'T Qu']
+     Venue IEEE Access
+     Year 2018
+     Abstract DCS Distributed control system  R. Oueslati et al.: Combining Semi-formal and Formal Methods for the Development of Distributed Reconfigurable Control  METEOR [55], electronic circuits [56], automotive diagnostics [57], electronic voting machines [58] and medical systems [59
+     Url https://ieeexplore.ieee.org/abstract/document/8540386/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Learning by doing: Practical courses in lightweight formal methods using vdm+
+     Author ['PG Larsen', 'J Fitzgerald', 'S Riddle']
+     Venue NA
+     Year 2006
+     Abstract and predicate calculus, relations and func- tions, recursive structures and induction, in addition to some continuous mathemat- ics  4 Enhancing the Credibility of Formal Methods  based on a car radio navigation system, a self-navigating vehicle and a personal medical unit
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.1551&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Validation, verification, and formal methods for Cyber-Physical Systems
+     Author ['P Bagade', 'A Banerjee', 'SKS Gupta']
+     Venue Cyber-Physical Systems
+     Year 2017
+     Abstract Cyber-physical systems (CPSs), such as smart grids, unmanned aerial vehicles, and medical devices, are complex systems consisting of  This chapter will discuss the formal methods available for characterizing aggregate effects in CPSs and the verification and validation of
+     Url https://www.sciencedirect.com/science/article/pii/B9780128038017000122
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Dealing with faults during operations: beyond classical use of formal methods
+     Author ['C Fayollas', 'P Palanque', 'JC Fabre', 'C Martinie']
+     Venue … of Formal Methods in …
+     Year 2017
+     Abstract The Handbook of Formal Methods in Human-Computer Interaction pp 549-575 | Cite as. Dealing with Faults During Operations: Beyond Classical Use of Formal Methods. Authors;  20.4 Connection with Formal Methods. While
+     Url https://link.springer.com/chapter/10.1007/978-3-319-51838-1_20
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Dronology: An Incubator for Cyber-Physical System Research
+     Author ['J Cleland-Huang', 'M Vierhauser', 'S Bayley']
+     Venue arXiv preprint arXiv …
+     Year 2018
+     Abstract Challenges are diverse and include goal modeling [4], formal methods, require- ments completeness [13], runtime adaptation, [2], design-time evo- lution [12], product line development [16], and human-computer interaction  Compositional verification of a medical device system
+     Url https://arxiv.org/abs/1804.02423
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Guest Editorial: Special Issue on Medical Cyber-Physical Systems
+     Author ['I Lee', 'M Pajic']
+     Venue NA
+     Year 2018
+     Abstract Improving management of operating rooms in hospitals is focus of the article entitled “A Cyber-Physical System to Improve the  Finally, the article entitled “Formal Verification of Medical CPS: A Laser Incision Case Study” focuses on the use of formal methods to ensure
+     Url https://dl.acm.org/doi/pdf/10.1145/3243122
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title A survey on theorem provers in Formal methods
+     Author ['MS Nawaz', 'M Malik', 'Y Li', 'M Sun', 'M Lali']
+     Venue arXiv preprint arXiv:1912.03028
+     Year 2019
+     Abstract On the other hand, formal methods formally verify the system correctness. Formal methods are “mathematical-based techniques that are used in the modeling, analysis and verification of both the software and hardware systems” [275]
+     Url https://arxiv.org/abs/1912.03028
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Pervasive formal verification in control system design
+     Author ['L Pike']
+     Venue 2011 Formal Methods in Computer-Aided Design …
+     Year 2011
+     Abstract in critical embedded systems, ranging from nuclear reactors to avionics to medical devices  impediments to the adoption of formal verification techniques in industrial control system design  Published in: 2011 Formal Methods in Computer-Aided Design (FMCAD). Article #: Date of
+     Url https://ieeexplore.ieee.org/abstract/document/6148900/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Uncertainty and Reconfigurability in Hilbertean Formal Methods
+     Author ['MC Bujorianu', 'ML Bujorianu']
+     Venue CTIT Technical Report Series
+     Year 2008
+     Abstract and other medical applications. A development paradigm, called multiMdimensional codesign [19], [11], has been recently proposed in order to deal with this situation. In this paper, we approach multidimensional codesign using Hilbertean Formal Methods (HFM), another
+     Url https://research.utwente.nl/files/5101085/acsd08.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Statistical methods in medical research
+     Author ['P Armitage', 'G Berry', 'JNS Matthews']
+     Venue NA
+     Year 2008
+     Abstract We expressed a hope that the book would have two special assets, distinguishing it from other books on applied statist- ics: the use of examples selected almost entirely from medical research projects, and a choice of statistical topics reflecting the extent of their usage in
+     Url https://books.google.com/books?hl=ru&lr=&id=OevV49Dhn_YC&oi=fnd&pg=PR5&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Medical%22&ots=3LklCt4j5n&sig=tTFpRye3a5hRFLmRqZKUbR1HCAs
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title European studies on formal methods in the humanities
+     Author ['T Orlandi', 'L Burnard', 'D Buzzetti']
+     Venue … . Bergen: University of …
+     Year 1999
+     Abstract Since this approach invariably requires the ability to make enquiries according to formally defined specifications, we speak about formal methods  Pseudo-disciplines such as medical computer science and juridical computer science have sprung up in recent years abundantly
+     Url http://helmer.hit.uib.no/AcoHum/book/fm-chapter-final.html
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal methods: The next generation of system design tools
+     Author ['M Schofield']
+     Venue Quality and reliability engineering international
+     Year 1992
+     Abstract It is possible to do the same with ICs but to  Formal methods are used to minimize or eradicate the possibility of such life or mission threatening behaviour  autopilots etc.) (b) railway signalling control (c) power control (nuclear and conventional) (d) medical electronics (heart
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.4680080607
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Health informatics education in the ICS curriculum–the need for benchmarking
+     Author ['P McCullagh', 'P Murray']
+     Venue Higher Education Academy. Subject …
+     Year 2006
+     Abstract HEALTH INFORMATICS EDUCATION IN THE ICS CURRICULUM  uptake of proven innovation and improvements in healthcare delivery models and processes, medical products and  theory aspects include algorithm design and analysis, use of formal methods, modelling and
+     Url https://www.researchgate.net/profile/Paul_Mccullagh/publication/228652891_Health_informatics_education_in_the_ICS_curriculum-the_need_for_benchmarking/links/0912f50feb4f7dab9d000000/Health-informatics-education-in-the-ICS-curriculum-the-need-for-benchmarking.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Certification of software-driven medical devices
+     Author ['M Lawford', 'T Maibaum', 'A Wassyng']
+     Venue … Applications of Formal Methods …
+     Year 2010
+     Abstract The track includes four papers on relevant top- ics and a panel discussing the crucial scientific issues involved in making certification judgements. Keywords: software certification, safety critical systems, safety cases, assurance cases, formal methods, medical devices
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16561-0_29
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title A research agenda for formal methods in the Netherlands
+     Author ['M Huisman', 'W Swierstra', 'E Visser']
+     Venue Technical Report Series
+     Year 2019
+     Abstract For this reason, I focus on two seemingly disconnected topics, which on closer inspection in fact strengthen each other, and are in my opinion key top- ics to focus on in order to make formal methods practically appealing for industrial use: 1. The modularisation of verification
+     Url https://dspace.library.uu.nl/handle/1874/390071
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Building 'Systems That You Can Bet Your Life On'Again and Again: Challenges and Opportunities for Cyber-Physical System Design Automation
+     Author ['EDA From']
+     Venue NA
+     Year NA
+     Abstract to energy-efficient buildings, computer-monitored and controlled factory lines, and wearable medical devices  Li, P. Nuzzo, A. Sangiovanni-Vincentelli, Y. Xi, and D. Li, “Stochastic Contracts for Cyber-Physical System Design Under  Formal Methods and Models for Co-Design, pp
+     Url http://www.di.univr.it/documenti/OccorrenzaIns/matdid/matdid549520.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Model and tool integration platforms for cyber–physical system design
+     Author ['J Sztipanovits', 'T Bapty', 'X Koutsoukos']
+     Venue Proceedings of the …
+     Year 2018
+     Abstract smart energy systems, intelligent transportation systems, robots, or smart medical devices  Sztipanovits et al.: Model and Tool Integration Platforms for Cyber Physical System Design  both deterministic and probabilistic approaches (simulation-based dynam- ics testbenches and
+     Url https://ieeexplore.ieee.org/abstract/document/8396214/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title The What, How, and When of Formal Methods
+     Author ['A Dasso', 'A Funes']
+     Venue … of Information Science and Technology, Fourth …
+     Year 2018
+     Abstract organizations, among them the USA's Food and Drug Administration and NASA, all involved in medical devices, avionics  The What, How, and When of Formal Methods  powerful assistance together with the existence of efficient model-checkers and expressive log- ics makes of
+     Url https://www.igi-global.com/chapter/the-what-how-and-when-of-formal-methods/184456
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Exploring Applications of Formal Methods in the INSPEX Project
+     Author ['S Lesecq', 'J Foucault']
+     Venue … Workshops, Toulouse, France, June 25-29 …
+     Year 2018
+     Abstract Adjacent to life-critical devices, there is an expanding area of medical accessories, attempting  Exploring Applications of Formal Methods in the INSPEX Project 207 the INSPEX project is described  carried out in parallel by the Swiss Center for Electron- ics and Microtechnology
+     Url https://books.google.com/books?hl=ru&lr=&id=7Ld9DwAAQBAJ&oi=fnd&pg=PA205&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Medical%22&ots=aFt9PeNuCm&sig=jM2rZWKoBO5AHDRk9t_bT660r-0
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Practical Formal Methods in
+     Author ['A DIX']
+     Venue Computational Interaction
+     Year 2018
+     Abstract outside academia. Similarly, in HCI, even when not dismissed out of hand, the principal research and use of formal methods is in safety-critical areas such as aerospace, the nuclear industry, and medical devices. However, this
+     Url https://books.google.com/books?hl=ru&lr=&id=NXFGDwAAQBAJ&oi=fnd&pg=PA187&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Medical%22&ots=G_zPVKsddX&sig=TG0jxfWJn5sKJfumQ2JUWIzGM8E
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Medical"
+     Title Formal Methods for Systems Biology: Contributions
+     Author ['E De Maria']
+     Venue NA
+     Year 2020
+     Abstract of my post-doctoral studies was funded by ERCIM (European Research Consortium for Informatics and Mathemat- ics), an organization  In this manuscript, I will show how formal methods greatly helped me in addressing some real biological and medical issues/concerns
+     Url https://hal.archives-ouvertes.fr/tel-02888024/document
+

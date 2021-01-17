@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods and finite element analysis of hurricane storm surge: A case study in software verification
+     Author ['J Baugh', 'A Altuntas']
+     Venue Science of Computer Programming
+     Year 2018
+     Abstract Used to predict the effects of hurricane storm surge, ocean circulation models are essential tools for evacuation planning, vulnerability assessment, and infrastructure design. Implemented as numerical solvers that operate on large-scale datasets, these models
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301715
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying a logic synthesis tool in Nuprl: A case study in software verification
+     Author ['M Aagaard', 'M Leeser']
+     Venue International Conference on Computer Aided …
+     Year 1992
+     Abstract Page 1. Verifying a Logic Synthesis Tool in Nuprl: A Case Study in Software Verification Mark Aagaard, Miriam Leeser  Theorem proving based formal methods have used mathematics to model and reason about a wide variety of different subjects
+     Url https://link.springer.com/chapter/10.1007/3-540-56496-9_7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract A differ- ence, though, is that integration of formal methods is on the implementation  In contrast to other software verification case studies, specifications are not derived from an abstract correctness goal  The case study performed by Uusitalo et al.[19] analyzed best practices and
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification with VeriFast: Industrial case studies
+     Author ['P Philippaerts', 'JT Mühlberg', 'W Penninckx']
+     Venue Science of Computer …
+     Year 2014
+     Abstract in the last decade [1]. Yet, especially when considering post-hoc software verification, many existing techniques and tools are tailor-made for rather specific application domains or case studies  et al., The Belgian electronic identity card: a verification case study, in: Electronic
+     Url https://www.sciencedirect.com/science/article/pii/S0167642313000191
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Trusted software verification: A case study
+     Author ['TCV Benzel', 'DA Tavilla']
+     Venue 1985 IEEE Symposium on Security …
+     Year 1985
+     Abstract Then a method developed at MITRE for the review of trusted software verification evidence using the Gypsy methodology will be presented  the SCOMP system TCB. The case study will focus on  use of formal methods for design specification and verification
+     Url https://ieeexplore.ieee.org/abstract/document/6234832/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A candid industrial evaluation of formal software verification using model checking
+     Author ['M Bennion', 'I Habli']
+     Venue Companion Proceedings of the 36th International …
+     Year 2014
+     Abstract while there is a wealth of literature on improved tools and mostly small-scale case studies ([7] [20  Although SDV has features to support this, it is outside the scope of this case study  There are three specific objectives for formal methods (FM.6.2.1): “FM.6.2.1 (a) All notations used
+     Url https://dl.acm.org/doi/abs/10.1145/2591062.2591184
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title F-Soft: Software Verification Platform
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue … on Computer Aided …
+     Year 2005
+     Abstract The F-Soft tool has been applied on numerous case studies and publicly available benchmarks for sequential C  also applied our predicate abstraction techniques in F-Soft to a large case study (about 32KLoC  In Symposium on Leveraging Formal Methods in Applications, 2004
+     Url https://link.springer.com/chapter/10.1007/11513988_31
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A formal software verification concept based on automated theorem proving and reverse engineering
+     Author ['M Popovic', 'V Kovacevic', 'I Velikic']
+     Venue Proceedings Ninth Annual …
+     Year 2002
+     Abstract The software development practice that was used in this case study slightly differs from the one  Examples of totally different aspects of certification are experiments, such as [13], and formal methods. In this paper we presented an approach to formal software verification
+     Url https://ieeexplore.ieee.org/abstract/document/999823/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title On the Industrial Application of Critical Software Verification with VerCors
+     Author ['M Huisman', 'RE Monti']
+     Venue … on Leveraging Applications of Formal Methods
+     Year 2020
+     Abstract We noticed that even some small success in a case study can open further collaborations and experiments  it showcases for them that there exists a real possibility of applying formal methods in their  In the future we would like to continue with these case studies and spin-offs that
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61467-6_18
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A case study in software safety assurance using formal methods
+     Author ['B Atchison', 'P Lindsay', 'D Tombs']
+     Venue NA
+     Year 1999
+     Abstract 1 A Case Study in Software Safety Assurance Using Formal Methods Brenton Atchison, Peter Lindsay, David Tombs Software Verification Research Centre School of Information Technology The University of Queensland Queensland 4072, Australia email: {brenton,pal,tombs
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9173
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Agent-based distributed software verification
+     Author ['C Hunter', 'P Robinson']
+     Venue … of the Twenty …
+     Year 2005
+     Abstract Despite decades of research, the takeup of formal methods for developing provably correct software in  of reducing the user interactions (and thus the cost) of constructing software verification proofs  architecture and discuss its ap- plication to a small, but non-trivial case study
+     Url https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Hunter.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title HPC Software Verification in Action: A Case Study with Tensor Transposition
+     Author ['E Mutlu', 'A Panyala']
+     Venue 2018 IEEE/ACM 2nd …
+     Year 2018
+     Abstract HPC Software Verification in Action: A Case Study  Formal methods have been extensively used for verifying and testing a wide variety of software applications from concurrent systems software [1]–[5] to asynchronous user applications [6]–[9]. One of the reasons for HPC
+     Url https://ieeexplore.ieee.org/abstract/document/8638391/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Qualification of a Model Checker for Avionics Software Verification
+     Author ['L Wagner', 'A Mebsout', 'C Tinelli', 'D Cofer']
+     Venue NASA Formal Methods …
+     Year 2017
+     Abstract that most formal methods tools will be used as part of the software verification process and  The proof checker which was qualified in this case study, named Check-It, is an  Combined with the prior work on Formal Methods Case Studies for DO-333, it provides a comprehensive
+     Url https://link.springer.com/chapter/10.1007/978-3-319-57288-8_29
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying a logic-synthesis algorithm and implementation: A case study in software verification
+     Author ['M Aagaard', 'M Leeser']
+     Venue IEEE transactions on software …
+     Year 1995
+     Abstract Broy [13] has documented an overall approach for software verification in LP, but there is little description of  There are many large case studies using higher-order sys- tems to verify hardware. The largest case study done with the HOL system is the Viper microprocessor [26]
+     Url https://ieeexplore.ieee.org/abstract/document/469458/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The KIV-approach to software verification
+     Author ['W Reif']
+     Venue KORSO: Methods, Languages, and Tools for the …
+     Year 1995
+     Abstract Due to this extreme quality standard, formal methods are mainly interesting for application areas where the  The strategy has been applied in a number of case studies of different size and  present statistical performance figures of two small examples, and a large case study in an
+     Url https://link.springer.com/chapter/10.1007/BFb0015471
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A Case Study In Java Software Verification: SecurityManager. checkConnect ()
+     Author ['P Brisset']
+     Venue Formal Techniques for Java Programs 2000
+     Year 2000
+     Abstract 66 A Case Study in Java Software Verification: SecurityManager  reasonable design and advanced security fea- tures, the Java platform is a target of choice for formal methods  found in [6], is easy application to existing code: although we discussed a simplified case study in this
+     Url https://softech.informatik.uni-kl.de/homepage/publications/Drossopoulou.Eisenbach.EA00formal.pdf#page=69
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Usability of AutoProof: a case study of software verification
+     Author ['M Khazeev', 'V Rivera', 'M Mazzara']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract the code, therefore opening a new frontier for “static debugging”, software verification and reliability  The case study analyzed in this paper presented good results in term of automatic  while a discussion on the methodological issues of a number of formal methods is presented in
+     Url https://arxiv.org/abs/1605.01663
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Deductive Software Verification–The KeY Book
+     Author ['W Ahrendt', 'B Beckert', 'R Bubel', 'R Hähnle']
+     Venue Lecture notes in …
+     Year 2016
+     Abstract Software Verification  Two substantial case studies are included  We also acknowledge support by the European Commission (EC) under FP7 Integrated Project “Highly Adaptable & Trustworthy Software using Formal Methods” and STREP “Engineering Virtualized Services.”
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-49812-6.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Efficient SAT-based bounded model checking for software verification
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue Theoretical Computer …
+     Year 2008
+     Abstract We present experimental results based on multiple case studies including a C-based implementation of a  A. Gupta, P. Ashar, Efficient SAT-based bounded model checking for software verification, in: Symposium on Leveraging Formal Methods in Applications
+     Url https://www.sciencedirect.com/science/article/pii/S0304397508002223
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Intelligent systems and formal methods in software engineering
+     Author ['B Beckert', 'T Hoare', 'R Hahnle', 'DR Smith']
+     Venue IEEE Intelligent …
+     Year 2006
+     Abstract The field has outgrown the area of academic case studies, and industry is show- ing serious interest  Another important base technique of formal methods, besides software verification, is synthesizing software that's correct by construction because it's formally derived
+     Url https://ieeexplore.ieee.org/abstract/document/4042539/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded systems and software validation
+     Author ['A Roychoudhury']
+     Venue NA
+     Year 2009
+     Abstract 10 2.3 Informal Requirements: A Case Study  as we can see from the discussion on the specific domain of automotive software, validation of different  Thus, the validation methods we employ can range from formal methods (such as model checking) to informal
+     Url https://books.google.com/books?hl=nl&lr=&id=d-7r5hkYBhUC&oi=fnd&pg=PP1&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=5OLpNSKhqw&sig=MPC2Yzg4C-R5vv3L3u_FFcu0NrM
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title SPIN Model Checking and Software Verification: 7th International SPIN Workshop Stanford, CA, USA, August 30-September 1, 2000 Proceedings
+     Author ['K Havelund', 'J Penix', 'W Visser']
+     Venue NA
+     Year 2006
+     Abstract than previous workshops in that papers on software verification were encouraged  and three invited tutorials about commercial testing and formal methods tools, represented  Modeling the ASCB-D Synchronization Algorithm with SPIN: A Case Study
+     Url https://books.google.com/books?hl=nl&lr=&id=8UBsCQAAQBAJ&oi=fnd&pg=PA1&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=247e74_96j&sig=vj8lQmCiCtF_kd_YdFtKII8QxFA
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Similarities and reuse of proofs in formal software verification
+     Author ['E Melis', 'A Schairer']
+     Venue European Workshop on Advances in Case-Based …
+     Year 1998
+     Abstract In case studies, see eg [9], that investigate the verification of safety properties of specifications of a communication filter, of a plane  The invariant in our case study is  In Pro- ceedings of the Third International Symposium of Formal Methods Europe, Oxford, England, 1996. 5. Th
+     Url https://link.springer.com/chapter/10.1007/BFb0056323
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification with Frama-C: A case study in the space software domain
+     Author ['RAB e Silva', 'NN Arai', 'LA Burgareli']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract E SILVA et al.: FORMAL VERIFICATION WITH FRAMA-C: A CASE STUDY IN THE SPACE  and suggests that it is necessary to discuss the ways in which formal methods may replace  the viability of em- ploying deductive verification in a number of industrial case studies [33]–[35
+     Url https://ieeexplore.ieee.org/abstract/document/7365489/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A tale of two paradigms: Formal methods and software testing
+     Author ['D Carrington', 'P Stocks']
+     Venue Z User Workshop, Cambridge 1994
+     Year 1994
+     Abstract D. Carrington and P. Stocks Software Verification Research Centre The University of Queensland  promoted to operate effectively with formal specifications, and that formal methods practices of  for conducting specification-based test- ing and a simple case study to demonstrate
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-3452-7_4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Usability of AutoProof: a case study of software verification
+     Author ['K Mansur', 'R Victor', 'M Manuel']
+     Venue Труды Института …
+     Year 2016
+     Abstract Rivera V., Mazzara M., Tchitchigin A. Usability of AutoProof: a case study of software verification  The case study analyzed in this paper presented good results in term of automatic discharge  a discussion on the methodological issues of a number of formal methods is presented
+     Url https://cyberleninka.ru/article/n/16873669
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Qualification of a Model Checker for Avionics Software Verification
+     Author ['K Slind']
+     Venue NASA Formal Methods: 9th International Symposium …
+     Year 2017
+     Abstract presents the results of a recent project studying the qual- ification of formal methods tools  We have con- ducted two case studies based on different qualification approaches for an open  The first case study produced a qualification package for Kind 2. The sec- ond demonstrates
+     Url https://books.google.com/books?hl=nl&lr=&id=UwLGDgAAQBAJ&oi=fnd&pg=PA404&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=JJGQeLG7bz&sig=djtS7k0wrFiPfctNuk_XNSADXas
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Property Preserving Abstraction for Software Verification–A Case Study
+     Author ['T Firley', 'U Goltz']
+     Venue NA
+     Year 2003
+     Abstract The technique has been implemented such that we can now consider larger case studies to evaluate  like to thank Martin Mutz for his collaboration during the preparation of the case study  In Formal Methods – Getting IT Right (FME 2002), volume 2391 of LNCS, pages 511–530
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.6.6151&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The role of software verification and validation in software development process
+     Author ['P Sujatha', 'GV Sankar', 'AS Rao']
+     Venue IETE Technical …
+     Year 2001
+     Abstract CASE STUDY  5. Stevan R Rakitin, Software verification and validation- A Practitioner's Guide, Artech House 1997  7. Formal Methods Specification and Verification Guide Book for Software and Computer .~\·stems, vol I & 2. NASA, Washington, 1995
+     Url https://www.tandfonline.com/doi/abs/10.1080/02564602.2001.11416938
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Integrating formal methods into medical software development: The ASM approach
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini', 'A Mashkoor']
+     Venue Science of Computer …
+     Year 2018
+     Abstract Integrating formal methods into medical software development: The ASM approach  The method has been successfully applied to numerous case studies [21], also in the context of  in [4] for the specification and verification of the Hemodialysis Machine Case Study (HMCS) [48]
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301430
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Tools for software verification
+     Author ['PA Abdulla', 'KRM Leino']
+     Venue NA
+     Year 2013
+     Abstract Software verification Model checking Automata theory Protocol verification  analytical techniques for real-time, hybrid, or stochastic systems; integration of formal methods and static  tool environments and tool architectures; sat and smt solvers; and applications and case studies
+     Url https://link.springer.com/article/10.1007/s10009-013-0270-5
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Efficient SAT-based Bounded Model Checking for Software Verification.
+     Author ['P Ashar', 'MK Ganai', 'A Gupta', 'F Ivancic']
+     Venue ISoLA (Preliminary …
+     Year 2004
+     Abstract recent progress in this research area, while also improving its efficiency for software verification by customizing  For each case study, table 1 includes the number of latches in the cone of  The next column contains the number of gates considered for these case studies, where the
+     Url https://cs.wmich.edu/~zijiang/pub/FMCAD04/F-SOFT.PDF
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Developer-oriented correctness proofs a case study of Cheney's algorithm
+     Author ['H Gast']
+     Venue … of the 13th international conference on Formal methods …
+     Year 2011
+     Abstract Proceedings of the 13th international conference on Formal methods and software engineering  Case studies on an industrial automated system are performed to demonstrate the effectiveness of our  Finally, we conduct a case study for Smart Grid communications analysis
+     Url https://dl.acm.org/citation.cfm?id=2075089.2075131
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract of the Model-Based Testing process for smart card software validation testing: - Modeling  Generation of Test Sequences from Formal Specifications: GSM 11-11 Standard Case Study  In Proceedings of the International Conference on Formal Methods Europe (FME'93), volume
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Leveraging Applications of Formal Methods, Verification and Validation. Applications and Case Studies 5th International Symposium, ISoLA 2012, Heraklion, Crete …
+     Author ['T Margaria', 'B Steffen']
+     Venue Conference proceedings ISoLA
+     Year 2012
+     Abstract Verification Tools for DSML Users: A Process Modeling Case Study. Faiez Zalila  Applications and Case Studies. 5th International Symposium, ISoLA 2012, Heraklion, Crete, Greece  the 5th International Symposium on Leveraging Applications of Formal Methods, Verification and
+     Url https://link.springer.com/book/10.1007/978-3-642-34032-1
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety-critical systems, formal methods and standards
+     Author ['J Bowen', 'V Stavridou']
+     Venue Software engineering journal
+     Year 1993
+     Abstract 60): Guiho, G., Hennebert, C.: `SACEM software validation', Proc. 12th Int Conf  119): BP Mahony , IJ Hayes . A case-study in timed refinement: a mine pump. IEEE Trans  Transputer architectures for sensing in a robot controller: formal methods for design. Concurrency: Pract
+     Url https://digital-library.theiet.org/content/journals/10.1049/sej.1993.0025
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Toward a wider use of formal methods for aerospace systems design and verification
+     Author ['YA Ameur', 'F Boniol', 'V Wiels']
+     Venue International Journal on Software Tools for …
+     Year 2010
+     Abstract F., Turin, M., Seguin, C., Conquet, E.: Integration of formal fault analysis in ASSERT: case studies and lessons  Toward a wider use of formal methods for aerospace systems  Larsen, K., Lund, K.: Formal model- ing and analysis of an audio/video protocol: an industrial case study
+     Url https://link.springer.com/article/10.1007/s10009-009-0131-4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A process improvement model for software verification and validation
+     Author ['J Callahan', 'G Sabolish']
+     Venue NINETEENTH ANNUAL SOFTWARE …
+     Year 1994
+     Abstract Verification and Validation John Callahan George Sabolish NASA Independent Software Verification and Vafidation  Error detection • Approach -Long-term -Short-term -Collaborations -Case study: EOSDIS _, An  Includes many techniques -formal methods -testing -inspections
+     Url https://core.ac.uk/download/pdf/42780507.pdf#page=168
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of control systems using B action systems: a case study
+     Author ['P Boström', 'M Waldén']
+     Venue Nordic Journal of Computing
+     Year 2004
+     Abstract 2001. Methodology of Integration of Formal Methods within the Healthcare Case Study. TUCS Technical Reports, No 436. Turku  1998. Program Development by Refinement - Case Studies Using the B Method. Springer
+     Url https://dl.acm.org/doi/abs/10.5555/1065110.1065112
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A case study on the formal development of a reactor safety system
+     Author ['T Sivertsen']
+     Venue International Symposium of Formal Methods Europe
+     Year 1996
+     Abstract An important extension of the case study would be to study the possibility of raising the abstraction level, combined with a consideration of a larger part of the system con  The EvalFM project and many other case studies on the application of formal methods demonstrate that
+     Url https://link.springer.com/chapter/10.1007/3-540-60973-3_78
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Evaluating Software Verification Systems: Benchmarks and Competitions
+     Author ['D Beyer', 'M Huisman', 'V Klebanov']
+     Venue Dagstuhl …
+     Year 2014
+     Abstract trends, and (5) promote comparative empirical evaluation in the larger formal methods community  Prizes sponsored by professional societies, eg, an ACM software verification prize  time for competitions, integrate the challenges and competitions into case studies, and develop
+     Url http://mural.maynoothuniversity.ie/10216/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated V&V for high integrity systems, a targeted formal methods approach
+     Author ['S Burton', 'J Clark', 'A Galloway']
+     Venue NASA …
+     Year 2000
+     Abstract The use of formal methods is intended to increase the integrity of engineering activities already performed  The software specification used for the case study consisted of 70 pages of PFS tables  The conjectures that arose from the case studies were proven using CADiZ [26, 28]
+     Url https://books.google.com/books?hl=nl&lr=&id=XaAmAQAAIAAJ&oi=fnd&pg=PA129&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=lb9VGeiCQo&sig=NkFZLYqPdwPZYMsUPPCIeAihc6Y
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in avionic software certification: the DO-178C perspective
+     Author ['G Gigante', 'D Pascarella']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2012
+     Abstract The literature provides numberless of case studies demonstrating that formal me- thods can be used for a wide variety of  Analysis should not be an isolated phase in the software verification process  Formal Methods in Avionic Software Certification: The DO-178C Perspective
+     Url https://link.springer.com/chapter/10.1007/978-3-642-34032-1_21
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal software verification: Model checking and theorem proving
+     Author ['M Ouimet', 'K Lundqvist']
+     Venue … Systems Laboratory Technical Report ESL-TIK …
+     Year 2007
+     Abstract In the Motorola case study, the size of a proof of a meaningful theorem is stated to require 25 megabytes of memory to print [2]. Since proofs  MIT Press (1999) 9. Holzmann, G.: Trends in Software Verification. In: Proceedings of the Formal Methods Europe Conference (FME'03)
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.5587&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of an industrial safety-critical traffic tunnel control system
+     Author ['W Oortwijn', 'M Huisman']
+     Venue … Conference on Integrated Formal Methods
+     Year 2019
+     Abstract make this apparent, industrial case studies are needed, that show industry and society that formal methods are now  In turn, such industrial case studies also help researchers and developers of verification tools to get insight  This paper discusses such an industrial case study
+     Url https://link.springer.com/chapter/10.1007/978-3-030-34968-4_23
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Explisat: Guiding sat-based software verification with explicit states
+     Author ['S Barner', 'C Eisner', 'Z Glazberg', 'D Kroening']
+     Venue Haifa Verification …
+     Year 2006
+     Abstract Page 12. ExpliSAT: Guiding SAT-Based Software Verification with Explicit States 149  5.1 Case Studies ExpliSAT was used internally inside IBM to verify several protocols and code segments. In this subsection we review how ExpliSAT is used to improve IBM's products quality
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70889-6_11
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods for practical reverse engineering and software verification
+     Author ['F Spegni']
+     Venue NA
+     Year 2012
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An empirical research agenda for understanding formal methods productivity
+     Author ['R Jeffery', 'M Staples', 'J Andronick', 'G Klein']
+     Venue Information and Software …
+     Year 2015
+     Abstract [50] also provide eight case study descriptions of  [12] reported on 12 case studies which applied  A recent review [50] of 62 industrial projects using formal methods reported the rate of use of various techniques with specification/modelling being the most common (>55 projects
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914002511
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Proving functional correctness of weakly programmable IPs-a case study with formal property checking
+     Author ['S Loitz', 'M Wedler', 'C Brehm', 'T Vogt']
+     Venue 2008 Symposium on …
+     Year 2008
+     Abstract One of our case studies is used in the remainder of the paper to explain and motivate the proposed methodology for weakly  An example for this is taken from our case study: SMBW fetched() := (instr fetch reg == ”0111” )  Formal Methods in System Design, 20(2):159– 186, 2002
+     Url https://ieeexplore.ieee.org/abstract/document/4570785/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An introduction to formal methods for the development of safety-critical applications
+     Author ['AE Haxthausen']
+     Venue NA
+     Year 2010
+     Abstract Some standards require the use of formal methods at such specific levels, see section 7. 3 Formal specification  4 Formal verification Traditionally, software validation and verification has been done by techniques such as code inspection and testing
+     Url https://core.ac.uk/download/pdf/13733960.pdf
+

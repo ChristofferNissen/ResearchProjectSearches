@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"Hardware+simulation"+"Testing"
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Design and realization of simulation testing system‏
+     Author ['XB Qi', 'DD Liu', 'XX Chen']
+     Venue 2017 2nd IEEE International …, 2017‏
+     Year NA
+     Abstract The simulation testing system for train-borne controller is completely built, and plays a vital role in the train-borne controller simulation testing and factory complete equipment testing process  The hardware simulation objects of the simulation testing system include: train IO   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/8056889/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Study on simulation and testing of FLISR‏
+     Author ['L Jinsong', 'L Dong', 'L Wangshui']
+     Venue CICED 2010 …, 2010‏
+     Year NA
+     Abstract [8] proposed schemes of main station factory acceptance test (FAT) in a distribution automation system, including simulated distribution grids, testing environments and testing software, which thoroughly described the solutions for  3.1 Hardware Simulation Testing Technology   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5736124/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Simulation platform for multi agent based manufacturing control system based on the hybrid agent‏
+     Author ['A Shaygan', 'RV Barenji']
+     Venue arXiv preprint arXiv:1603.07766, 2016‏
+     Year NA
+     Abstract [10] for testing MASs  1. The Hardware Simulation Agent (HSA): HSA is a software which can design the hardware level of the factory by considering characterized physical actions that take place in the manufacturing environment   ‏
+     Url https://arxiv.org/abs/1603.07766
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line‏
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …, 2016‏
+     Year NA
+     Abstract a MAS soft platform on the other will result in a suitable and flexible testing platform for  Analyzing this type of system in a real factory environment is infeasible, because of the long  Hardware simulation agent module: This belongs to the CPN model of the system and is used to   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Large-scale hardware simulation: Modeling and verification strategies‏
+     Author ['DW Clark']
+     Venue Proceedings of the 25th Anniversary Symposium …, 1990‏
+     Year NA
+     Abstract At higher levels, descriptions can have various degrees of pre- cision and formality, but at the bottom level|the level communicated to the factory|the requirement is a  If testing were free this might be all right, but in the hardware simulation environment, testing is far   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.4432&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Embedded simulation for automation of material manipulators in a PVD coating process‏
+     Author ['G Rath', 'JM Lackner']
+     Venue Proceedings of the 2012 …, 2012‏
+     Year NA
+     Abstract This allows testing of control equipment with a replica of the system under control and is called HIL, hardware in the loop (Isermann, Schaffnit, and Sinsel 1999). In manufacturing, HIL enables a virtual start-up before a system is deployed, furthermore factory acceptance test (FAT   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/6465050/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Virtual factory framework: a key enabler for agile manufacturing‏
+     Author ['S Jain']
+     Venue … Symposium on Emerging Technologies and Factory …, 1995‏
+     Year NA
+     Abstract 8. Physical simulation hardware simulation * mock-ups  The Virtual Factory Framework will serve as an integrating mechanism for a wide variety of tools  3. provide information linkages between ViFF tools, 4. provide an instrumented system performance analysis and testing   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/496778/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Virtual Simulation System with Various Examples and Analysis Tools for Programmable Logic Controller Training‏
+     Author ['M Aria', 'J Utama', 'F Fauzia', 'M Rizal']
+     Venue IOP Conference …, 2020‏
+     Year NA
+     Abstract of five stages, namely problem identification, literature study, instrument design, implementation, and testing and evaluation  The third factory model is a multi elevator control system  are two categories of learning media for PLC, the first is based on hardware simulation and the   ‏
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/879/1/012108/meta
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Hardware Simulation for Testing IEC 61131-3‏
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses, 2005‏
+     Year NA
+     Abstract were found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation  Spikes A spike is a small implementation testing an idea that might have a use in  tion of real-world systems, such as control of machinery on factory assembly lines   ‏
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title MATLAB ANALYTICAL METHOD FOR VHDL HARDWARE SIMULATION RESULT [J]‏
+     Author ['W Min']
+     Venue Computer Applications and Software, 2003‏
+     Year NA
+     Abstract MATLAB ANALYTICAL METHOD FOR VHDL HARDWARE SIMULATION RESULT  7, FENG Chao;LI Shuang-zhou;FAN Zhong-yuan;Oil Storage and Transportation Factory of Lanzhou  of drill hole based on GSM mobile module[J];Shanghai Measurement and Testing;2011-04   ‏
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JYRJ200308009.htm
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Computer-aided simulation of production in the sewing room of a clothing factory‏
+     Author ['TCS Cocks', 'SC Harlock']
+     Venue Journal of the Textile Institute, 1989‏
+     Year NA
+     Abstract occurring, but it does provide a means of predicting the effects and of testing possible solutions in  It is possible to envisage a total factory system of the future where all the computer systems are  Simulation is just one of the systems that will be required before such a total concept   ‏
+     Url https://www.tandfonline.com/doi/pdf/10.1080/00405008908658298
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Using Hardware-In-Loop-Based Fault Injection to Determine the Effects of Control Flow Errors in Industrial Control Programs‏
+     Author ['J Vankeirsbilck', 'H Hallez', 'J Boydens']
+     Venue International Conference on …, 2020‏
+     Year NA
+     Abstract On the left the distribution station, in the middle the testing station and on the right the  Although not important for the small scale factory, since memory is abundant and there are no  that the LPC 1768 is removed from its station and is plugged into a hardware simulation of its   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-030-54549-9_27
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Interfacing issues in real-time digital simulators‏
+     Author ['W Ren', 'M Sloderbeck', 'M Steurer']
+     Venue … on Power Delivery, 2010‏
+     Year NA
+     Abstract of the challenges with existing tech- nology to build high-power amplification apparatus with satis- factory precision  and A. Monti, “A low-cost real-time hard- ware-in-the-loop testing approach of  [3] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5628278/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Advances in real-time simulation for power distribution systems‏
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …, 2011‏
+     Year NA
+     Abstract Alternatively, it can be configured as a large multi- user distributed simulation system in a laboratory for R&D and factory testing of complex control systems  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power electronics and drives”, IEEE Trans   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title System and method for control and simulation‏
+     Author ['JA Tenney', 'WM Ruark', 'GJ Orelind']
+     Venue US Patent 6,944,584, 2005‏
+     Year NA
+     Abstract hardware simulation systems have been developed that allow some simulated testing of the  Existing robotic hardware simulation systems require users to write a robotic simulation program in a  provide an accurate live graphical simulation of an entire factory containing many   ‏
+     Url https://patents.google.com/patent/US6944584B1/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Modelling and simulation of a material flow system‏
+     Author ['UA Nickel', 'J Niere']
+     Venue Modellierung 2001, 2001‏
+     Year NA
+     Abstract manufacturing industries is long down times of assembly lines resulting from long testing phases during  We introduce a process-oriented hardware simulation ker- nel to get a realistic simulation  Figure 3 shows the topolo- gy of our sample factory used as running example in this   ‏
+     Url https://dl.gi.de/bitstream/handle/20.500.12116/30720/02.pdf?sequence=1&isAllowed=y
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title State-Estimation for Increased Accuracy in Software-and Hardware-In-The-Loop testing via the Internet‏
+     Author ['T Pieper', 'R Obermaisser']
+     Venue … Emerging Technologies and Factory …, 2019‏
+     Year NA
+     Abstract way it is possible to verify the system at early development steps and to prevent potential integration issues [5]. While the software is verified against the simulated plant in SIL, Hardware-In-The-Loop (HIL) testing uses the  FMI/PCAP Simulation Software Hardware Simulation   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/8869215/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title SIMULATION VALIDATION EXPERIENCE-PATRIOT GUIDANCE SYSTEM‏
+     Author ['WC Morton', 'PAL Engineer']
+     Venue Techniques DT IC, 1988‏
+     Year NA
+     Abstract through comparisons with statistics from hardware acceptance tests, qualification tests, and factory assembly level tests  Special tests were performed on the hardware/simulation interfaces  considerable emphasis in the subsystem model validation was placed on testing the RF   ‏
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a202493.pdf#page=97
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Implementation of Process Simulation for Marine Automation System‏
+     Author ['M Mononen']
+     Venue 2020‏
+     Year NA
+     Abstract B&R had used WinMOD themselves with a specially made configuration for their automation system. Based on their marketing material, WinMOD seemed suitable as it is designed for PLC testing, factory acceptance tests and virtual commissioning   ‏
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Real-Time Simulation Tools for Transient Stability and Electromagnetic Transients in Power Grids‏
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Grid RT Tools ICMPES …‏
+     Year NA
+     Abstract It is used for factory acceptance and system integration tests as well as for R&D and  power electronic devices, necessitate the use of real-time simulation for research, development, testing and training  7] G. Parma and V. Dinavahi, “Real-time digital hardware simulation of power   ‏
+     Url https://www.academia.edu/download/31945055/Grid_RT_Tools_ICMPES_2013.pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title IC chip at-functional-speed testing with process coverage evaluation‏
+     Author ['EA Foreman', 'GD Grise', 'PA Habitz', 'V Iyengar']
+     Venue US Patent …, 2009‏
+     Year NA
+     Abstract In addition, current approaches do not correlate manufacturing testing results with timing model accuracy based on changes in voltage, frequency  over a wider range of IC chips manufactured also allows determining of a statistical distribution for the factory manufacturing these   ‏
+     Url https://patents.google.com/patent/US7620921B2/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Automated testing of industrial automation software: practical receipts and lessons learned‏
+     Author ['R Ramler', 'W Putschögl', 'D Winkler']
+     Venue … of the 1st International Workshop on …, 2014‏
+     Year NA
+     Abstract an engineering solution passes through many levels of testing before its commissioning; these include: (1) module testing (MT), (2) integration testing (IT), (3) factory ac- ceptance  Testing Context Production Context HMI (.net)  Machine (Hardware) Simulation (Hardware/Software   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2593783.2593788
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title QoE-oriented HIL Simulation Platform for Mobile Streaming in LTE System [J]‏
+     Author ['Z WANG', 'Y HU', 'S CI']
+     Venue Journal of System Simulation, 2014‏
+     Year NA
+     Abstract Simulation of streaming service and QoE measurement were applied on this platform  protocol based on reflective memory network for the simulation testing environment of avionic  Changchun University of Technology,Changchun 130012,China;2.Mechanical Factory of Jilin   ‏
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-XTFZ201403013.htm
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Emerging solutions for challenges in real time simulation of power grids‏
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Power Engineer …, 2013‏
+     Year NA
+     Abstract It is used for factory acceptance and system integration tests as well as for R&D  The Hypersim testing showed that the average detection time was 34.5 ms and no  CiGRE_Recife2011_paperfinal. pdf 7. G. Parma and V. Dinavahi, “Real-time digital hardware simulation of power   ‏
+     Url http://www.indianjournals.com/ijor.aspx?target=ijor:pej&volume=15&issue=2&article=001
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title PEP-II Asymmetric B Factory: Design Update and R&D Results‏
+     Author ['MS Zisman', 'R Bell', 'J Dorfan', 'A Hutton', 'W Barletta']
+     Venue 1992‏
+     Year NA
+     Abstract PEP-II Asymmetric B Factory: Design Update and R&D Results” MS ZISMAN Lawrence Berkeley Laboratory, Berkeley  The model high-power cavity will be available for testing in about one year  delay Ins] 300 The PEP-II klystron will also be used in a hardware simulation of the   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=aNBKDwAAQBAJ&oi=fnd&pg=PA442&dq=%22Factory%22+%22Hardware+simulation%22+%22Testing%22&ots=MckEVjSNMP&sig=2vKLlQntvObZ9YhJOOv5R3jnXKY
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Performance evaluation and monitoring‏
+     Author ['H Lucas Jr']
+     Venue ACM Computing Surveys (CSUR), 1971‏
+     Year NA
+     Abstract The benchmark is also the first evaluation technique that includes a satis- factory consideration of software  Simulation The most potentially powerful and flexi- ble of the evaluation techniques is simula- tion, which provides a testing ground for and insight into the   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/356589.356590
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title REDUNDANT FIRMWARE TEST SETUP IN SIMULATION AND HARDWARE: A FEASIBILITY STUDY‏
+     Author ['P Ekström', 'E Eriksson']
+     Venue 2018‏
+     Year NA
+     Abstract If the supply should dry up, then obviously there can be no sales, since the factory will not be able to deliver the actual product  system, and HIL testing is not very good at detecting logic flaws, since it often is a kind of black box testing routine  2.5 Hardware simulation in Software   ‏
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1224969
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title 2006-2513: THE DISTRIBUTED RECONFIGURABLE FACTORY TESTBED (DRFT): A COLLABORATIVE CROSS-UNIVERSITY MANUFACTURING SYSTEM …‏
+     Author ['J Luntz', 'EE Almeida', 'D Tilbury', 'J Moyne', 'K Hargrove']
+     Venue age, 2006‏
+     Year NA
+     Abstract The RFT combines hardware, simulation, networking, logic control, and software components, all of which are  One component of the RFT is the virtual factory, which is a piece of  This allows easy testing of reconfiguration solutions without having hardware, as the control logic   ‏
+     Url https://peer.asee.org/1403.pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Digital circuit design assist system for designing hardware units and software units in a desired digital circuit, and method thereof‏
+     Author ['H Shinde', 'K Sugino', 'K Nakamichi', 'N Matsubara']
+     Venue US Patent …, 1996‏
+     Year NA
+     Abstract 317—Testing of digital circuits; G01R31/3181—Functional testing; G01R31/3183—Generation of test inputs, eg test vectors, patterns or sequences; G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an   ‏
+     Url https://patents.google.com/patent/US5493507A/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Hardware-in-the-loop Simulation Framework‏
+     Author ['MAA Sanvido']
+     Venue 2002‏
+     Year NA
+     Abstract In this thesis we examine a new approach for testing embedded systems based on temporal logic and fault generation  vii Contents 1 2 2 3 5 7 7 7 9 10 10 12 12 13 13 Page 11. viii 2.3.7 Testing ..... 2.3.8 Real-time Supervisors, Redundant and Backup Systems   ‏
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/146111/1/eth-25054-01.pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Hardware-in-the-loop test automation setup for power converter system development‏
+     Author ['HYK Cheung']
+     Venue 2019‏
+     Year NA
+     Abstract controller, power electronics and electrical machine. Simulation plant has an added load supply for the load machine (Bouscayrol, 2008). 2.3 Simulation software Testing different applications requires an accurate emulation of the simulated system created   ‏
+     Url https://lutpub.lut.fi/handle/10024/159150
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Development of hardware simulators for tests of solar cooling/heating subsystems and systems. Phase 1. Residential subsystem hardware simulator and steady state …‏
+     Author ['PC Auh']
+     Venue 1979‏
+     Year NA
+     Abstract At the present time, the subsystem sim- ulator is capable of testing any thermally activated solar cooling/heat  Extreme precision grade mercury filled thermometer, factory calibrated with NRS certified thermometer, 24" long, 3" immersion depth, Moeller Instrument Co   ‏
+     Url https://www.osti.gov/biblio/5546861
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Simulation of a Flexible Manufacturing System for Semi-Products Packaging‏
+     Author ['PC Patic', 'L Pascale', 'G Măntescu']
+     Venue Applied Mechanics and …, 2014‏
+     Year NA
+     Abstract This can be done only by testing control programs and monitoring automation systems and, also  5). Further, the hardware simulation modules are chosen: CPU314 Processor, PS 307, 10A power supply  observe the behavior of the packing line where it would work in the factory   ‏
+     Url https://www.scientific.net/AMM.536-537.1654
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Virtual prototypes in developing mobile software applications and devices‏
+     Author ['K Liukkunen', 'M Eteläperä', 'M Oivo', 'JP Soininen']
+     Venue … Conference on Product …, 2008‏
+     Year NA
+     Abstract The first is to increase the abstraction level of the hardware simulation by, for example, using  with virtual platforms and they provide an intuitive way of developing and testing software for both  Emerging Technologies and Factory Automation Proceedings 9(12), 7–14 (1997) 19   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69566-0_16
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Hardware Implementation of a Generic Fuzzy-ROM Controller‏
+     Author ['MA Sameh', 'K Ayman']
+     Venue Proceedings of the 2002 WSEAS International …, 2002‏
+     Year NA
+     Abstract and simulation, and uses Mentor Graphics products like FPGA-Advantage, ModelSim, and Leonardo for hardware simulation and synthesis  In testing the generic design we have tried inputs of various sizes: 127 and 255 and  Factory Automation, New York: Marcel Dekker, Inc   ‏
+     Url http://www.wseas.us/e-library/conferences/spain2002/papers/443-214.pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Computerized solid state energy meter test system and method of testing‏
+     Author ['JM Carr', 'DW Malackowski']
+     Venue US Patent 6,262,569, 2001‏
+     Year NA
+     Abstract US6262569B1 - Computerized solid state energy meter test system and method of testing - Google Patents. Computerized solid state energy meter test system and method of testing. Download PDF  Further, testing may include programming or self-testing the test system 10 itself   ‏
+     Url https://patents.google.com/patent/US6262569B1/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Requirement driven interoperability/compliance testing systems and methods‏
+     Author ['F Perron', 'S Gauthier']
+     Venue US Patent 7,757,121, 2010‏
+     Year NA
+     Abstract US7757121B1 - Requirement driven interoperability/compliance testing systems and methods - Google Patents. Requirement driven interoperability/compliance testing systems and methods. Download PDF Info. Publication   ‏
+     Url https://patents.google.com/patent/US7757121B1/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title A dynamic multi-agent-based scheduling approach for SMEs‏
+     Author ['AV Barenji', 'RV Barenji', 'D Roudi']
+     Venue The International Journal …, 2017‏
+     Year NA
+     Abstract The PM defines the detailed processes for specifying, designing, implementing, and testing/debugging agent-oriented software systems  The cell agent manages and controls the cell level of a factory, and this agent consists of two subagents  a) Hardware simulation agent   ‏
+     Url https://link.springer.com/content/pdf/10.1007/s00170-016-9299-4.pdf
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Framework for automated testing of enterprise computer systems‏
+     Author ['D Kagan', 'N Dishon', 'E Himmelreich']
+     Venue US Patent 7,620,856, 2009‏
+     Year NA
+     Abstract US7620856B2 - Framework for automated testing of enterprise computer systems - Google Patents. Framework for automated testing of enterprise computer systems. Download PDF Info  An automated testing framework enables automated testing of complex software systems   ‏
+     Url https://patents.google.com/patent/US7620856B2/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Research and Implementation of Simulation Platform in ABS Control System Based on Object-Oriented Technology‏
+     Author ['B YI', 'H FENG', 'R LUO']
+     Venue Computer Simulation, 2007‏
+     Year NA
+     Abstract exchange of each module object.It can simplify the software hardware simulation in the  and Telecommunications,Chongqing 400065,China);Design and Implement of the Testing Platform for  Lu XI Yi-ju ZHAO Feng (Shandong Mingshui Automobile Fiting Factory,Jinan 250200   ‏
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JSJZ200710061.htm
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Model-based Testing of Supporting testing of PAC based controlling systems in industrial plants-A case study in printing plants‏
+     Author ['J Fu', 'J Song']
+     Venue 2018‏
+     Year NA
+     Abstract Page 1. Master of Science in Software Engineering June 2018 Model-based Testing of Supporting testing of PAC based controlling  Page 3. Abstract Context. Testing is a very critical process to evaluate whether a related function is correctly implemented in the control system   ‏
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1231552
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Simulation of LEGO® Mindstorms NXT based plants using a distributed automation framework‏
+     Author ['S Pirker']
+     Venue 2010‏
+     Year NA
+     Abstract IEC 61499 Control Application LEGO Mindsotrms NXT Hardware Simulation Communication Network  PLC program commissioning in a Digital Factory describes the transition of the Digital Factory to the real factory and offers early testing and integration   ‏
+     Url https://repositum.tuwien.at/handle/20.500.12708/10255
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Getting started with CAPI SNAP: Hardware development for software engineers‏
+     Author ['L Wenzel', 'R Schmid', 'B Martin', 'M Plauth']
+     Venue … Conference on Parallel …, 2018‏
+     Year NA
+     Abstract is comprised of many stages, including software development, hardware development, hardware simulation as well  simulation is usually preferred over hardware deployment for quick testing purposes during  For a new FPGA card straight from the factory, the operating system   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-030-10549-5_15
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Construction of a hardware-in-the-loop simulator for Azipod control system testing‏
+     Author ['M Nylund']
+     Venue 2016‏
+     Year NA
+     Abstract The arm is controlled via a joystick and for visualization is a 3D lifter arm created. This simulator was developed for development and testing of the control system without the real hardware  In source [13] they utilized MATLAB for real-time hardware simulation   ‏
+     Url https://aaltodoc.aalto.fi/handle/123456789/21628
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Method and system for verifying the hardware implementation of TCP/IP‏
+     Author ['J Raval', 'P Mohanty', 'A Kapatkar', 'S Munnangi']
+     Venue US Patent 7,020,716, 2006‏
+     Year NA
+     Abstract US20080155069A1 (en) *, 2006-12-21, 2008-06-26, Rajagopal Kunhappan, Method, apparatus and program product to use factory-defined multiple MAC addresses for virtual  Virtual bus for distributed hardware simulation  Automated alternating current characterization testing   ‏
+     Url https://patents.google.com/patent/US7020716B2/en
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Enhancing hardware design flows with MyHDL‏
+     Author ['K Jaic', 'MC Smith']
+     Venue Proceedings of the 2015 ACM/SIGDA International …, 2015‏
+     Year NA
+     Abstract Genesis2[9] extends SystemVerilog capabilities for connecting HDL to hardware simulation  MyHDL is a very powerful tool for concisely designing and testing hardware  This information is used by factory functions to transform the Model   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2684746.2689092
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Investigating the robustness of re-scheduling policies with multi-agent system simulation‏
+     Author ['M Merdan', 'T Moser', 'P Vrba', 'S Biffl']
+     Venue The International Journal of Advanced …, 2011‏
+     Year NA
+     Abstract at the Vienna University of Technology), allowing direct comparisons between software and miniature hardware simulation  This helps shorten the testing duration by up to an order of magnitude [20  of machine break downs or modifications to the physical layout of the factory   ‏
+     Url https://link.springer.com/article/10.1007/s00170-010-3049-9?null
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Development of PLC-based automated packaging control system via Grafcet‏
+     Author ['MA Mohd Yunos']
+     Venue 2014‏
+     Year NA
+     Abstract work”[1]. In automation, a variety of control systems are used to operate equipment and machinery automatically and are used in plant or factory where precision and accuracy is needed  implementation part. Figure 20: Hardware simulation testing Page 37. 28   ‏
+     Url http://utpedia.utp.edu.my/14748/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title State-Estimation for Delay-Management in Distributed Real-Time Co-Simulation via the Internet‏
+     Author ['T Pieper', 'R Obermaisser']
+     Venue 2019 IEEE 17th International …, 2019‏
+     Year NA
+     Abstract Hardware-In-The-Loop (HIL) testing works similar, only the real hardware device is validated instead of a software. Combining both, SIL and HIL testing, is further possible  Wrapper Configuration Monitoring FMI/PCAP Simulation Software Hardware Simulation Bridge Fig   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/8972177/
+
+
+     Search term "Factory"+"Hardware+simulation"+"Testing"
+     Title Design of Semi Physical Motion Simulation System of Underwater Vehicle [J]‏
+     Author ['Y GAN', 'Y MAO', 'L WAN', 'Y XU']
+     Venue Journal of System Simulation, 2006‏
+     Year NA
+     Abstract 100023,China);Research and Implementation of Multi-robot Semi-hardware Simulation System[J  Northwestern Polytechnical University,Xi′an 710072,China);Development of Testing and Verification  China3.Office of Naval Military Representatives at the Factory 437,Shanghai   ‏
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-XTFZ200607072.htm
+

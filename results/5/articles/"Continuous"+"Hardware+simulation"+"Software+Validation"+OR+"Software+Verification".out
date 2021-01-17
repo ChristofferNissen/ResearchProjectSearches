@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems  The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract is a (interpolated) function describing the nonlinear saturated region. In order to make sure there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing: 6th International Haifa Verification Conference, HVC 2010, Haifa, Israel, October 4-7, 2010. Revised …
+     Author ['S Barner', 'I Harris', 'D Kroening', 'O Raz']
+     Venue NA
+     Year 2011
+     Abstract Barner Ian Harris Daniel Kroening Orna Raz (Eds.) Hardware and Software: Verification and Testing  The debugging session took examples from hardware simulation, static analysis, software, pre-silicon and  award this year to those who played a pivotal and continuous role in
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-19583-9.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware-in-the-loop simulation for real-time software verification of an autonomous underwater robot
+     Author ['P Sarhadi', 'RNA Niachari', 'MP Rad']
+     Venue International Journal of …
+     Year 2016
+     Abstract Emerald logo. Search. Hardware-in-the-loop simulation for real-time software verification of an autonomous underwater robot. Pouria Sarhadi (Faculty of Electrical and Computer Engineering, Babol Noushirvani University of Technology
+     Url https://www.emerald.com/insight/content/doi/10.1108/IJIUS-12-2015-0016/full/html
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware implementation of KLT tracker for real-time intruder detection and tracking using on-board camera
+     Author ['T Nam', 'S Kim', 'D Jung']
+     Venue International Journal of Aeronautical and Space …
+     Year 2019
+     Abstract after the power-on-reset (POR) latency of the pipelining, the proposed KLT tracker implementation can provide continuous information of  4.1 Software Validation  operation of the hardware logic written in VHDL, a timing simulation is performed using a hardware simulation tool in
+     Url https://link.springer.com/article/10.1007/s42405-018-0131-2
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract On the other hand, due to a lack of automation, software Validation and Verification (V&V) tends to swallow up 40% to 50% of the  These two achievements are obtained by (1) developing a continuous tool-chain to automate the V&V process, (2) improving the relevance of the
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Approach to the use of simulated Software Test Bench in integration test of flight software
+     Author ['C Koo', 'S Lee']
+     Venue INTELEC 2009-31st International …
+     Year 2009
+     Abstract Thanks to test harness, all test can be performed by continuous way with minimized  Hardware simulation is a highly effective technique for managing Software Test Bed using by  simSTB for next GEO meteorological satellite following COMS on flight software validation and is
+     Url https://ieeexplore.ieee.org/abstract/document/5352077/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent …
+     Year 2020
+     Abstract Continuous delivery (CD) is an extension of CI that ensures that every change to  etc.), software (eg, instructions run on a processing device to perform hardware simulation), or a  embodiment for a method 400 of verifying software using a distributed software verification service
+     Url https://patents.google.com/patent/US10664379B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hyper-acceleration and HW/SW co-verification as an essential part of IBM eServer z900 verification
+     Author ['J Kayser', 'S Koerner']
+     Venue IBM Journal of Research …
+     Year 2002
+     Abstract Thus, a significant amount of unverified IML code will escape through the software verification process and  As for any hardware simulation, the design, represented in VHDL (a hardware description  was closer to “real” hardware behavior, because of the continuous execution of
+     Url https://ieeexplore.ieee.org/abstract/document/5389013/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Onboard software
+     Author ['SI Cofán', 'A Formella']
+     Venue Cubesat Handbook
+     Year NA
+     Abstract The capabilities of flight software are constantly increasing due to this continuous evolution of technology [1]. As a result, software has acquired fundamental responsibilities and plays a crucial role in almost all  This methodology focuses on the software verification and validation
+     Url https://www.sciencedirect.com/science/article/pii/B9780128178843000126
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title SHUTTLE POINTING OF ELECTRO-OPTICAL EXPERIMENTS Volume 265
+     Author ['W Jerkovsky', 'PA Dubock']
+     Venue … 10-13, 1981 …
+     Year 1981
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A case study of automated testing implementation in the automotive industry
+     Author ['D Ganea', 'R Bogdan', 'V Ancusa']
+     Venue 2013 IEEE 14th …
+     Year 2013
+     Abstract presents several advantages [3] like reducing time to market by allowing software validation to be pre  Although the hardware simulation will have a lower accuracy than real testing on an embedded  of this software are: the possibility to select arbitrary time- continuous signals for
+     Url https://ieeexplore.ieee.org/abstract/document/6705243/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to model checking
+     Author ['EM Clarke', 'TA Henzinger', 'H Veith']
+     Venue Handbook of Model Checking
+     Year 2018
+     Abstract In recent research on software verification, abstract interpretation and model checking have converged to a large extent  from all of these research areas, but also from automata theory, process alge- bra, graph algorithms, game theory, hardware simulation, stochastic processes
+     Url https://link.springer.com/chapter/10.1007/978-3-319-10575-8_1
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title N85-16893
+     Author ['WT Mitchell', 'RF Searle']
+     Venue Space Shuttle Technical Conference
+     Year 1983
+     Abstract Since 1976 there has been a continuous effort to work within the memory size  the Simulation Laboratory has continued to be extensively used for software verification and engine  4. HG Vick, P. Hampton," SSME Hardware Simulation", Space Shuttle Technical Conference, NASA
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.1196&rep=rep1&type=pdf#page=60
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent App. 16 …
+     Year 2020
+     Abstract Further, it should be understood that the drawings are not necessarily proportional or to scale. FIG. 1 illustrates an example continuous integration pipeline that includes an automated software verification service, according to embodiments of the present disclosure. FIG
+     Url https://patents.google.com/patent/US20200257611A1/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbench for the validation of a device under test
+     Author ['U Heinkel', 'J Knaeblein', 'C Mayer']
+     Venue US Patent App. 10/208,607
+     Year 2004
+     Abstract G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment  [0007]. The basic functionality of SONET/SDH designs is fairly simple as in- and output are continuous data streams
+     Url https://patents.google.com/patent/US20040015739A1/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title SSME digital control design characteristics
+     Author ['WT Mitchell', 'RF Searle']
+     Venue NA
+     Year 1985
+     Abstract Since 1976 there has been a continuous effort to work within the memory size  the Simulation Laboratory has continued to be extensively used for software verification and engine  4. HG Vick, P. Hampton, "SSME Hardware Simulation", Space Shuttle Technical Conference, NASA
+     Url https://ntrs.nasa.gov/search.jsp?R=19850008584
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Skylab's Apollo telescope mount
+     Author ['WB Chubb']
+     Venue Shuttle Pointing of Electro-Optical Experiments
+     Year 1981
+     Abstract On the system level, extensive computer simulation and software verification was performed. Unexpected anomalies during the mission required 108 / SPIE Vol  Design verification of the hardware system was conducted in the MSFC Hardware Simulation Laboratory (HSL)
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0265/0000/Skylabs-Apollo-Telescope-Mount/10.1117/12.959859.short
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A Comprehensive Investigation of Universal Verification Methodology (UVM) Standard for Design Verification
+     Author ['S Qamar', 'WH Butt', 'MW Anwar', 'F Azam']
+     Venue Proceedings of the 2020 …
+     Year 2020
+     Abstract CCS Concepts • Hardware~Electronic design automation • Hardware~Simulation and emulation • Software and its engineering~Software verification and validation Keywords UVM, OVM, Verification  Thirdly, continuous updates in UVM framework make it difficult
+     Url https://dl.acm.org/doi/abs/10.1145/3384544.3384547
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design for automobile external lighting systems
+     Author ['JH Neme', 'MMD Santos', 'ELS Teixeira']
+     Venue NA
+     Year 2015
+     Abstract level design and simulation, automatic code generation, and continuous test and  Furthermore, it also improves software validation and verification boosting embedded system development  flexible simulation and low cost procedure once compared to hardware simulation
+     Url https://www.sae.org/publications/technical-papers/content/2015-36-0374/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A loosely coupled C/Verilog environment for system level verification
+     Author ['AS Meyer']
+     Venue … International Verilog HDL Conference and VHDL …
+     Year 1998
+     Abstract oriented engineers are not really aware that they are commu- nicating with a hardware simulation environment  When we start a project with a system-level TestBenchPlus strategy, we are able to provide a continuous migration path from single device verification to a system
+     Url https://ieeexplore.ieee.org/abstract/document/660697/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Visualization and Measurement of Source Code
+     Author ['JH Cross', 'KH Chang', 'TD Hendrix']
+     Venue CrossTalk Journal of …
+     Year 1997
+     Abstract Originally developed as a hardware simulation language, VHDL has become an industry standard  This information has direct application as a form of continuous feedback for  synthesis, hardware-software co-design, and formal methods for hardware and software verification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.203.182&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying abstract interpretation to verify EN-50128 software safety requirements
+     Author ['D Kästner', 'C Ferdinand']
+     Venue … Conference on Reliability, Safety, and Security …
+     Year 2016
+     Abstract Classical software verification methods like code review and testing with measurements cannot really  physical target hardware, can be easily integrated in continuous verification frameworks  Hardware simulation, emulation, or direct measurement with logic analyzers can only
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33951-1_14
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Design for test in automotive electronics
+     Author ['S Stoica']
+     Venue Proceedings of 3rd International Workshop on the …
+     Year 1994
+     Abstract are targeted for a mixed-signal environment for hard- ,38 ,ware ,test ,and ,for ,automatic ,software ,validation  Because ,of ,the continuous increase ,in ,electre ,nics ,complexity, ,we ,need ,a ,systedarchitectural ,level ,modeling ,tool  In ,addition to ,hardware ,simulation ,tools ,we
+     Url https://www.computer.org/csdl/proceedings-article/icedtm/1994/00496090/12OmNzZmZo2
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract mis- sions, with the goal of using the full array of available software verification and validation  inject a fault F (eg, write failure or system reset) into the hardware simulation layer  To date, the longest continuous run of successful tests includes over 3.5 billion randomly selected
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Chipyard-An Integrated SoC Research and Implementation Environment
+     Author ['A Amid', 'D Biancolin', 'A Gonzalez']
+     Venue 2020 57th ACM/IEEE …
+     Year 2020
+     Abstract tation, we demonstrate an iterative agile hardware design cycle which enables continuous validation of  Index Terms—system-on-chip, agile, hardware, simulation, VLSI, specialization  B. Accelerator Software Validation Pre-silicon validation of software which uses the custom
+     Url https://ieeexplore.ieee.org/abstract/document/9218756/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Multi-level educational experiment in distributed simulation
+     Author ['C Turnitsa']
+     Venue Proceedings of the Winter Simulation Conference …
+     Year 2014
+     Abstract between different simulation paradigms (stochastic, deterministic, etc.) • Simulator development – Developing simulator software, verification and validation  applications approach (for example, Agent Based Modeling, Discrete Event Simulation, or Continuous Simulation), which
+     Url https://ieeexplore.ieee.org/abstract/document/7020193/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Native MPSoC co-simulation environment for software performance estimation
+     Author ['P Gerin', 'MM Hamayun', 'F Pétrot']
+     Venue Proceedings of the 7th IEEE/ACM …
+     Year 2009
+     Abstract The continuous race to higher computational power in shorter time frame urges on using software-centric architecture  The slowness of the simulation make these tech- niques unsuitable for software validation but still essential to vali- date low level details depending on fine
+     Url https://dl.acm.org/doi/abs/10.1145/1629435.1629490
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Diagnostic Instrumentation for Military Vehicles
+     Author ['NA Teixeira', 'F Pradko', 'D Sarna', 'P Garland']
+     Venue SAE Transactions
+     Year 1973
+     Abstract communicator and support- ing hardware connected to the computer to aid in software validation  tion of the BITE interface on the teletypewriter, interactive hardware simulation of the  In demonstrated operations, it provides continuous, parallel monitoring of sig- nificant vehicle
+     Url https://www.jstor.org/stable/44717621
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual Platforms Driving Software Quality in Pre-Silicon
+     Author ['AD Pulla']
+     Venue NA
+     Year NA
+     Abstract that connects virtual platform with FPGA-based prototypes for software validation and hardware  6.1 Continuous Integration: Automated regression testing of functional and system level  Expanding these capabilities and tools to hardware simulation platforms or virtual platforms
+     Url https://pdfs.semanticscholar.org/d93c/509453cb05c755a0f4a27ea7f44616b7472d.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of Digital Controller Verifications
+     Author ['X Wang']
+     Venue NA
+     Year 2005
+     Abstract For discrete control systems, the continuous plant model needs to be converted to discrete model using zero-order hold operation  Simulation is much cheaper and not dangerous  system verification, controller uncertainty and computation for software verification
+     Url https://scholarsarchive.byu.edu/etd/681/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title On the Detection of Synchronization Errors
+     Author ['IG Harris']
+     Venue NA
+     Year 2004
+     Abstract Figure 2 assumes a discrete time model which is common in hardware simulation but the concept applies to continuous time as well  A significant body of research is dedicated to hardware and software validation [10], but little of this existing research focuses on the
+     Url https://pdfs.semanticscholar.org/d64d/57b6c2cf212be8787494d2c1663111bb0c1b.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Double-Constraint Inpainting Model of a Single-Depth Image
+     Author ['W Jin', 'L Zun', 'L Yong']
+     Venue Sensors
+     Year 2020
+     Abstract regions with the same grey value. A continuous distribution with the same depth values exists inside the object, and the gradient is 0. Depth value mutations and gradients are observed at the edges. The Aloe depth image [18
+     Url https://www.mdpi.com/1424-8220/20/6/1797
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title System Level Methodology for Functional Verification Soc
+     Author ['A Adamov', 'S Zaychenko', 'Y Myroshnychenko']
+     Venue NA
+     Year 2006
+     Abstract The Optimal Nonlinear Filtering of Discrete-Continuous Markovian Processes in Conditions of Aposteriory  as a full memory read or write, which in a hardware simulation is spread  system allows: • engineering the virtual prototype of the system; • early software validation of the
+     Url http://openarchive.nure.ua/handle/document/2117
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Tackling Concurrency and Timing Problems
+     Author ['IG Harris']
+     Venue System-level Test and Validation of Hardware/Software …
+     Year 2005
+     Abstract Figure 7.2 assumes a discrete time model, which is common in hardware simulation, but the concept applies to continuous time as well  A significant body of research is dedicated to hardware and software validation [10], but little of this existing research focuses on the
+     Url https://link.springer.com/chapter/10.1007/1-84628-145-8_7
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Space Shuttle orbiter avionics
+     Author ['L CARRIER', 'R MINOR']
+     Venue Computers in Aerospace Conference
+     Year 1977
+     Abstract Automatic landing is accomplished by means of a computer flight path generated in the GN&C computer. The inertial navigation system is used for reference, with continuous updates from TACAN and the microwave scan-beam landing system (MSBLS)
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1977-1501
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A Modeling Specification Methodology to Support Simulation of Distributed Heterogeneous Power Systems
+     Author ['K Mueller', 'L Johnson']
+     Venue 7th International Energy Conversion Engineering …
+     Year NA
+     Abstract different engineering domains in a simulation, the need to include continuous and discrete  This allows for the hardware simulation models to correlate to existing hardware test and  This approach to software validation in only possible once hardware exists, thereby putting off a
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2009-4562
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Fpga-accelerated simulation technologies (fast): Fast, full-system, cycle-accurate simulators
+     Author ['D Chiou', 'D Sunwoo', 'J Kim', 'NA Patil']
+     Venue 40th Annual IEEE …
+     Year 2007
+     Abstract Page 1. FPGA-Accelerated Simulation Technologies (FAST): Fast, Full-System, Cycle-Accurate Simulators Derek Chiou, Dam Sunwoo, Joonsoo Kim, Nikhil A. Patil, William Reinhart, D. Eric Johnson, Jebediah Keefe and Hari
+     Url https://ieeexplore.ieee.org/abstract/document/4408260/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Institute of Microelectronic Systems Prof. Dr. Dr. hc mult. Manfred Glesner Supervisor: Dr.-Ing. Thomas Hollstein
+     Author ['S Jäger']
+     Venue NA
+     Year NA
+     Abstract Despite recent track records in the field of functional formal verification methodology, it does not seem like the majority of the industry is yet willing to give functional formal verification a chance to take its part in taking a new step in the continuous fight against the design and
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.4078&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Spacelab software development and integration concepts study report, volume 1
+     Author ['PL Rose', 'BG Willis']
+     Venue NA
+     Year 1973
+     Abstract Page 1. Prepared for the - ' 31 October 1973 GEORGE C. MARSHALL SPACE FLIGHT CENTER Contract No.: NAS8-30376 Huntsville, Alabama MSFC No.: MSFC-DR L-389, Line Item No. 2 IBM No.: 73W-00326 SPACE LAB
+     Url https://ntrs.nasa.gov/search.jsp?R=19740025199
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title J CRT
+     Author ['C THROT']
+     Venue Space Shuttle Technical Conference
+     Year 1983
+     Abstract The change package teleconferences are valuable to provide continuous JSC input  ENGINE DYNAMIC MODEL HYBRID COMPUTER 7 v FLIGHT HARDWARE SIMULATION CONTROL CENTER  its current role, with emphasis on KSC launch support and software verification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.1196&rep=rep1&type=pdf#page=69
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title NASA's Manned Spacecraft Computers
+     Author ['JE Tomayko']
+     Venue Annals of the History of Computing
+     Year 1985
+     Abstract In space, both unmanned and manned flights have required a continuous increase in the capabilities of on-board  If nothing else, the software verification and reliability experience of the Apollo program, along with attention to  hardware simulation, and finally man-in-the-loop
+     Url https://ieeexplore.ieee.org/abstract/document/4392961/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title FLIGHT CONTROL SYSTEM DEVELOPMENT USING SIMULATION- AN INTEGRATED APPROACH
+     Author ['ID Djokic', 'ZP Barbaric']
+     Venue Tehnicki Vjesnik
+     Year 2012
+     Abstract hardware components such as rate gyros, body mounted accelerometers, and hydraulic actuators were also used in the simulation [4]. Hybrid system models can greatly reduce the complexity of a physical system model by abstracting some of the continuous dynamics of the
+     Url https://pdfs.semanticscholar.org/b4b1/37d145bce3732928706e518fa742f85eefe6.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Annotation of RTL to Simplify Timing Analysis
+     Author ['MR Krishnan']
+     Venue US Patent App. 12/876,659
+     Year 2012
+     Abstract the SOC team. Capturing design constraint data in the RTL code avoids versioning issues, provides a means for continuous improvement and maturity, enables quick and efficient review of timing exceptions. It facilitates easy
+     Url https://patents.google.com/patent/US20120060133A1/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method, system and computer program product for failure analysis implementing automated comparison of multiple reference models
+     Author ['PM West Jr', 'VM Kapadia', 'CA Krygowski']
+     Venue US Patent …
+     Year 2011
+     Abstract Description. BACKGROUND OF THE INVENTION This invention relates generally to hardware simulation models, and more particularly to providing failure analysis implementing automated comparison of multiple reference models
+     Url https://patents.google.com/patent/US7908518B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification and Validation
+     Author ['L Markosian', 'MS Feather']
+     Venue System Health …
+     Year 2011
+     Abstract Main Engine Controller - The Block II Space Shuttle Main Engine (SSME) Hardware Simulation Laboratory II  SSMEC software verification is conducted in the HSL II at MSFC and software certification  process must be extremely reliable, since they will be in continuous operation
+     Url https://pdfs.semanticscholar.org/4c5c/96bfe52cf1d7d486245ecb26eb66eb875113.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer-Aided Design of Multi-Agent Cyber-Physical Systems
+     Author ['J Sini', 'M Violante', 'R Dessì']
+     Venue 2018 IEEE 23rd International …
+     Year 2018
+     Abstract HIL is a well-established software verification technique  An environment able to run and log in a real-time manner the physical models. • A real-time hardware simulation device. IV  This aspect is particularly crucial when a continuous path needs to be performed
+     Url https://ieeexplore.ieee.org/abstract/document/8502448/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title HARDWARE IMPLEMENTATION OF A RETINAL MODEL
+     Author ['LMG Holguín']
+     Venue NA
+     Year 2012
+     Abstract Afterward it presents the simulation and software verification of two models, and finally the hardware  order to achieve the basic operations of a biological retina, like the continuous sensing, the  of several retina models, followed by the simula- tion and software validation of two
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.842.2315&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for reconstructing a graph presentation of a previously executed verification test
+     Author ['M Ovadia', 'TL Orztizer']
+     Venue US Patent 10,579,761
+     Year 2020
+     Abstract At an early stage, before the electronic design is implemented in hardware, simulation can be conducted on a model of the design  repeat commands, that cause an action or a chain of actions to be repeated (eg, in a predetermined number of repeats or continuous repeat until a
+     Url https://patents.google.com/patent/US10579761B1/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation in Support of Flight Testing
+     Author ['RTO AGARDograph', 'FTT Series–Volume']
+     Venue NA
+     Year 2000
+     Abstract Page 1. RTO-AG-300 Vol. 19 AC/323(SCI)TP/27 NORTH ATLANTIC TREATY ORGANIZATION 0 -o• RESEARCH AND TECHNOLOGY ORGANIZATION BP 25, 7 RUE ANCELLE, F-92201 NEUILLY-SUR-SEINE CEDEX, FRANCE
+     Url https://apps.dtic.mil/sti/pdfs/ADA385006.pdf
+

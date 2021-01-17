@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Formal software verification: Model checking and theorem proving
+     Author ['M Ouimet', 'K Lundqvist']
+     Venue … Systems Laboratory Technical Report ESL-TIK …
+     Year 2007
+     Abstract MIT Press (1999) 9. Holzmann, G.: Trends in Software Verification. In: Proceedings of the Formal Methods Europe Conference (FME'03). (2003) 10. Holzmann, G., Joshi, R.: Model-Driven Software Verification. In: Proceedings of the 11th Spin Workshop
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.5587&rep=rep1&type=pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title A survey of automated techniques for formal software verification
+     Author ["V D'silva", 'D Kroening']
+     Venue IEEE Transactions on …
+     Year 2008
+     Abstract A Survey of Automated Techniques for Formal Software Verification Vijay D'Silva, Daniel Kroening, and Georg Weissenbacher  Index Terms—Bounded model checking (BMC), model check- ing, predicate abstraction, software verification, static analysis. I. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/4544862/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title F-Soft: Software Verification Platform
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue … on Computer Aided …
+     Year 2005
+     Abstract ACM Press, 2004. 6. F. Ivancic, Z. Yang, M. Ganai, A. Gupta, and P. Ashar. Efficient SAT-based bounded model checking for software verification. In Symposium on Leveraging Formal Methods in Applications, 2004. 7. H. Jain, F. Ivancic, A. Gupta, and MK Ganai
+     Url https://link.springer.com/chapter/10.1007/11513988_31
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Intelligent systems and formal methods in software engineering
+     Author ['B Beckert', 'T Hoare', 'R Hahnle', 'DR Smith']
+     Venue IEEE Intelligent …
+     Year 2006
+     Abstract Reiner Hähnle describes recent dramatic changes in the way it's perceived and used. Another important base technique of formal methods, besides software verification, is synthesizing software that's correct by construction because it's formally derived from its specification
+     Url https://ieeexplore.ieee.org/abstract/document/4042539/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Deductive software verification
+     Author ['JC Filliâtre']
+     Venue NA
+     Year 2011
+     Abstract Deductive software verification is only one aspect of for- mal methods  The second edition of the workshop Verified Software: Theory, Tools, and Experiments was held in Eindhoven, The Netherlands on November 2, 2009, as part of the Formal Methods Week FM20093. The
+     Url https://link.springer.com/content/pdf/10.1007/s10009-011-0211-0.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Formal methods and finite element analysis of hurricane storm surge: A case study in software verification
+     Author ['J Baugh', 'A Altuntas']
+     Venue Science of Computer Programming
+     Year 2018
+     Abstract Used to predict the effects of hurricane storm surge, ocean circulation models are essential tools for evacuation planning, vulnerability assessment, and infrastructure design. Implemented as numerical solvers that operate on large-scale datasets, these models
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301715
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Economics of software verification
+     Author ['GJ Holzmann']
+     Venue Proceedings of the 2001 ACM SIGPLAN-SIGSOFT …
+     Year 2001
+     Abstract Figure 1). 5. THE CASE FOR FORMAL METHODS If for convenience we assume that the above argument is somewhat plausible, can it justify the need for the application of more rigorous software verification techniques, eg based on model checking techniques [7,8]? We can
+     Url https://dl.acm.org/doi/abs/10.1145/379605.379681
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Software verification and system assurance
+     Author ['J Rushby']
+     Venue … on Software Engineering and Formal Methods
+     Year 2009
+     Abstract Littlewood introduced the idea that software may be possibly perfect and that we can contemplate its probability of (im) perfection. We review this idea and show how it provides a bridge between correctness, which is the goal of software verification (and especially formal
+     Url https://ieeexplore.ieee.org/abstract/document/5368140/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract is that integration of formal methods is on the implementation level for verification, and on the level of models (documents or artifacts) for requirements analysis. If testing and requirements need to be linked, the same should hold for requirements and software verification
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title A candid industrial evaluation of formal software verification using model checking
+     Author ['M Bennion', 'I Habli']
+     Venue Companion Proceedings of the 36th International …
+     Year 2014
+     Abstract The major part of the supplement considers the Software Verification Process (FM.6.0). There are three specific objectives for formal methods (FM.6.2.1): “FM.6.2.1 (a) All notations used for formal analysis should be verified to have precise, unambiguous, mathematically defined
+     Url https://dl.acm.org/doi/abs/10.1145/2591062.2591184
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title The KIV-approach to software verification
+     Author ['W Reif']
+     Venue KORSO: Methods, Languages, and Tools for the …
+     Year 1995
+     Abstract Due to this extreme quality standard, formal methods are mainly interesting for application areas where the potential consequences of software errors are considered particularly harmful  The success of software verification depends strongly on a powerful and ad- equate proof
+     Url https://link.springer.com/chapter/10.1007/BFb0015471
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Automated software verification & validation: an emerging approach for ground operations
+     Author ['DG Bell', 'GP Brat']
+     Venue 2008 IEEE Aerospace Conference
+     Year 2008
+     Abstract These problems occurred despite NASA having one of the most thorough and sophisticated software development and verification processes in existence. The risk of software errors can be reduced through automated software verification and validation using formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/4526648/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title A comparison of tools for teaching formal software verification
+     Author ['I Feinerer', 'G Salzer']
+     Venue Formal aspects of computing
+     Year 2009
+     Abstract Apart from these compulsory courses there are only a few elective ones dealing with formal methods, most notably Computer Aided Verification emphasising model checking [CGP00], and  Consequently, our master course on software verification had to cope with a new situation
+     Url https://link.springer.com/article/10.1007/s00165-008-0084-5
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title A formal software verification concept based on automated theorem proving and reverse engineering
+     Author ['M Popovic', 'V Kovacevic', 'I Velikic']
+     Venue Proceedings Ninth Annual …
+     Year 2002
+     Abstract Examples of totally different aspects of certification are experiments, such as [13], and formal methods. In this paper we presented an approach to formal software verification. Mackenzie [14] wrote a delightful historical and sociological overview of automated theorem proving
+     Url https://ieeexplore.ieee.org/abstract/document/999823/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Interpolation-Based Software Verification with Wolverine
+     Author ['D Kroening', 'G Weissenbacher']
+     Venue International Conference on Computer …
+     Year 2011
+     Abstract veys 41(21), 1–21 (2009) 2. D'Silva, V., Kroening, D., Weissenbacher, G.: A survey of automated techniques for formal software verification  1997) 4. Ball, T., Cook, B., Levin, V., Rajamani, SK: SLAM and static driver verifier: Tech- nology transfer of formal methods inside microsoft
+     Url https://link.springer.com/chapter/10.1007/978-3-642-22110-1_45
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Using SPIN model checking for flight software verification
+     Author ['PR Gluck', 'GJ Holzmann']
+     Venue Proceedings, IEEE Aerospace …
+     Year 2002
+     Abstract Undetected software defects on spacecraft and launch vehicles have caused embarrassing and costly failures in recent years. Model checking is a technique for software verification that can detect concurrency defects that are otherwise difficult to discover
+     Url https://ieeexplore.ieee.org/abstract/document/1036832/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Formal software verification: how close are we?
+     Author ['GJ Holzmann']
+     Venue Formal Techniques for Distributed Systems
+     Year 2010
+     Abstract on Formal Methods for Open Object-Based Distributed Systems. International Conference on Formal Techniques for Distributed Systems. FMOODS 2010, FORTE 2010: Formal Techniques for Distributed Systems pp 1-1 | Cite as. Formal Software Verification: How Close Are We
+     Url https://link.springer.com/chapter/10.1007/978-3-642-13464-7_1
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Automated tools for teaching formal software verification
+     Author ['I Feinerer', 'G Salzer']
+     Venue … Formal Methods: Practice and Experience
+     Year 2006
+     Abstract Computer Science @ TU Wien The computer science department at Technische Universität Wien  (TUW, Vienna University of Technology) is by far the biggest in Austria. About 120 full,  associate, and assistant professors (5 % of TUW's teaching personnel) teach approximately 6000
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/TFM2006.4
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Avionic Software Verification by Abstract Interpretation.
+     Author ['P Cousot']
+     Venue ISoLA
+     Year 2007
+     Abstract Page 1. Avionic Software Verification by Abstract Interpretation Patrick COUSOT  Since the cost of tests increasing more rapidly that the size of programs, formal methods become an attractive complement for program verification
+     Url https://pdfs.semanticscholar.org/2533/513617b576dad7a66d59fe4a5d90e890a2fc.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Software validation via model animation
+     Author ['AM Dutle', 'CA Muñoz', 'AJ Narkawicz']
+     Venue … Conference on Tests and …
+     Year 2015
+     Abstract In the context of formal methods, tools like PVSio-web [16], which is also built on top of PVSio, and PetShop [22], which animate Petri nets, provide powerful features for pro- totyping and validating formal specifications  Page 14. Software Validation via Model Animation 105
+     Url https://link.springer.com/chapter/10.1007/978-3-319-21215-9_6
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Trends in software verification
+     Author ['GJ Holzmann']
+     Venue International Symposium of Formal Methods Europe
+     Year 2003
+     Abstract With the steady increase in computational power of general purpose computers, our ability to analyze routine software artifacts is also steadily increasing. As a result, we are witnessing a shift in emphasis from the verification of abstract hand-built models of code
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_4
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Efficient SAT-based bounded model checking for software verification
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue Theoretical Computer …
+     Year 2008
+     Abstract Leveraging Applications of Formal Methods (ISoLA), in November 2004 (see [F. Ivančić, Z. Yang, M. Ganai, A. Gupta, P. Ashar, Efficient SAT-based bounded model checking for software verification, in: Symposium on Leveraging Formal Methods in Applications, ISoLA, 2004])
+     Url https://www.sciencedirect.com/science/article/pii/S0304397508002223
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Exploration of the capabilities of constraint programming for software verification
+     Author ['H Collavizza', 'M Rueher']
+     Venue … Conference on Tools and Algorithms for the …
+     Year 2006
+     Abstract Programming for Software Verification Hél`ene Collavizza and Michel Rueher  TACAS 2004, LNCS 2988, pp. 168-176, 2004 5. Clarke E., Kroenig D., Sharygina N., Yorav K. : Predicate abstraction of ANSI- C Programs using SAT. Formal Methods in System Design, Vol 25, pp
+     Url https://link.springer.com/chapter/10.1007/11691372_12
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title On abstraction in software verification
+     Author ['P Cousot', 'R Cousot']
+     Venue International Conference on Computer Aided …
+     Year 2002
+     Abstract On Abstraction in Software Verification‹  Most formal methods for reasoning about programs (such as deductive meth- ods, software model checking, dataflow analysis) do not reason directly on the trace-based operational program semantics but on an approximate model of this
+     Url https://link.springer.com/chapter/10.1007/3-540-45657-0_3
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title OpenJML: software verification for Java 7 using JML, OpenJDK, and Eclipse
+     Author ['DR Cok']
+     Venue arXiv preprint arXiv:1404.6608
+     Year 2014
+     Abstract principal uses of OpenJML: • OpenJML was used as the basis for student assignments in software verification in at least four different courses during the fall of 2013, with others planned in 2014. These courses were under- graduate courses that used formal methods or formal
+     Url https://arxiv.org/abs/1404.6608
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Deductive Software Verification–The KeY Book
+     Author ['W Ahrendt', 'B Beckert', 'R Bubel', 'R Hähnle']
+     Venue Lecture notes in …
+     Year 2016
+     Abstract Deductive Software Verification – The KeY Book  We also acknowledge support by the European Commission (EC) under FP7 Integrated Project “Highly Adaptable & Trustworthy Software using Formal Methods” and STREP “Engineering Virtualized Services.”
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-49812-6.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Formal software verification at model and at source code levels
+     Author ['AF Pires', 'T Polacsek', 'S Duprat']
+     Venue International Conference on Model and …
+     Year 2012
+     Abstract 6 Conclusion There are many formal methods for verification tasks and all of them can be in- corporated in the different steps of the V-model  Page 8. Formal Software Verification at Model and at Source Code Levels 169 stage of the development cycle
+     Url https://link.springer.com/chapter/10.1007/978-3-642-33609-6_16
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Empirical study towards a leading indicator for cost of formal software verification
+     Author ['D Matichuk', 'T Murray', 'J Andronick']
+     Venue 2015 IEEE/ACM 37th …
+     Year 2015
+     Abstract software attacks on critical systems such as cars [1] and pacemakers [2] have helped to increase demand for formal software verification [3], whereby  Earlier work [8] has showed the need for a better understanding of how to measure artefacts in formal methods, to inform costs
+     Url https://ieeexplore.ieee.org/abstract/document/7194620/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Joint use of static and dynamic software verification techniques: a cross-domain view in safety critical system industries
+     Author ['E Ledinot', 'JP Blanquart', 'JM Astruc', 'P Baufreton']
+     Venue NA
+     Year 2014
+     Abstract use of dynamic (testing) and static (FM) verification methods. Keywords: Safety standards, cross-domain comparison, software verification, formal methods, tests, coverage. 1. Introduction While testing has for long been one of
+     Url https://hal.archives-ouvertes.fr/hal-02272203/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Reuse in software verification by abstract method calls
+     Author ['R Hähnle', 'I Schaefer', 'R Bubel']
+     Venue International Conference on Automated …
+     Year 2013
+     Abstract Page 14. Reuse in Software Verification by Abstract Method Calls 313  IEEE Computer Society (2004) 4. Beckert, B., Schmitt, PH: Program verification using change information. In: Pro- ceedings, Software Engineering and Formal Methods (SEFM), Brisbane, Australia, pp. 91–99
+     Url https://link.springer.com/chapter/10.1007/978-3-642-38574-2_21
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title An invitation to formal methods
+     Author ['H Saiedian']
+     Venue Computer
+     Year 1996
+     Abstract research-article. An Invitation to Formal Methods. Share on  Many claim that formal methods not only provide assurance of reliability but also have the potential to reduce costs. Although the literature contains many excellent examples
+     Url https://dl.acm.org/doi/abs/10.1109/MC.1996.488298
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Learning techniques for software verification and validation
+     Author ['CS Păsăreanu', 'M Bobaru']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2012
+     Abstract Learning techniques are being used increasingly to improve software verification and validation activities. For example, automata learning techniques have been used for extracting behavioral models of software systems, eg [8]. These models can serve as formal
+     Url https://link.springer.com/chapter/10.1007/978-3-642-34026-0_37
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Formal methods for software verification
+     Author ['E Damiani', 'CA Ardagna', 'N El Ioini']
+     Venue Open Source Systems Security …
+     Year 2009
+     Abstract The growing importance of software in every aspect of our life has fostered the development of techniques aimed at certifying that a given software product has a particular property. This is especially important in critical application areas such as health care and
+     Url https://link.springer.com/content/pdf/10.1007/978-0-387-77324-7_4.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Software verification using hybrid explicit and symbolic model checking
+     Author ['CR Eisner', 'Z Glazberg', 'S Keidar-Barner']
+     Venue US Patent …
+     Year 2012
+     Abstract Some software verification tools use symbolic model checking methods, such as methods based on propositional satisfiability (SAT), in which  describe a BDD-based symbolic model checker in “Wolf—Bug Hunter for Concurrent Software using Formal Methods,” Proceedings of
+     Url https://patents.google.com/patent/US8209667B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Comments on practical constraints of software validation techniques
+     Author ['HL Hausen']
+     Venue Proc. of a symposium on Software validation …
+     Year 1984
+     Abstract Article. Comments on practical constraints of software validation techniques. Share on. Author: Hans Ludwig Hausen profile image Hans-Ludwig Hausen  Proc. of a symposium on Software validation: inspection-testing-verification-alternatives
+     Url https://dl.acm.org/doi/abs/10.5555/3541.3559
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Verifying a logic synthesis tool in Nuprl: A case study in software verification
+     Author ['M Aagaard', 'M Leeser']
+     Venue International Conference on Computer Aided …
+     Year 1992
+     Abstract Page 1. Verifying a Logic Synthesis Tool in Nuprl: A Case Study in Software Verification Mark Aagaard, Miriam Leeser  Theorem proving based formal methods have used mathematics to model and reason about a wide variety of different subjects
+     Url https://link.springer.com/chapter/10.1007/3-540-56496-9_7
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Industrial hardware and software verification with ACL2
+     Author ['WA Hunt Jr', 'M Kaufmann']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract You have access. Research article. Industrial hardware and software verification with ACL2  The formal methods project lasted 31 months. In the end, ACL2 was used to model the processor and its microcode and to verify that the microcode semantics was correctly implemented
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0399
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Embedded systems and software validation
+     Author ['A Roychoudhury']
+     Venue NA
+     Year 2009
+     Abstract Thus, as we can see from the discussion on the specific domain of automotive software, validation of different kinds are required for a complex  Thus, the validation methods we employ can range from formal methods (such as model checking) to informal ones (such as testing)
+     Url https://books.google.com/books?hl=es&lr=&id=d-7r5hkYBhUC&oi=fnd&pg=PP1&dq=%22Software+Validation%22+OR+%22Software+Verification%22+%22Formal+methods%22&ots=5OLpNQMkxy&sig=MpiNpEnDDGqLQa0uvZbaQTjDZx8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Integrating formal specification and software verification and validation
+     Author ['R Duke', 'T Miller', 'P Strooper']
+     Venue … Conference on Technical Formal Methods
+     Year 2004
+     Abstract It is not surprising that students are unconvinced about the benefits of formal methods if we do not show them how these methods can be integrated with other activities in the software lifecycle. In this paper, we describe an approach to integrating formal specification with more
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30472-2_8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title On teaching software verification and validation
+     Author ['T Shepard']
+     Venue Conference on Software Engineering Education
+     Year 1995
+     Abstract A bstract A graduate course on software verification and validation (V&V) that has been given three times is described  at the graduate level could be given on each of the following four topics: inspection and review techniques: approaches to testing; formal methods of verification
+     Url https://link.springer.com/chapter/10.1007/3-540-58951-1_117
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title SPIN Model Checking and Software Verification: 7th International SPIN Workshop Stanford, CA, USA, August 30-September 1, 2000 Proceedings
+     Author ['K Havelund', 'J Penix', 'W Visser']
+     Venue NA
+     Year 2006
+     Abstract experiment, this year's workshop was broadened to have a slightly wider focus than previous workshops in that papers on software verification were encouraged  We believe that this is an in- teresting research direction for the formal methods community, and that it will result in a
+     Url https://books.google.com/books?hl=es&lr=&id=8UBsCQAAQBAJ&oi=fnd&pg=PA1&dq=%22Software+Validation%22+OR+%22Software+Verification%22+%22Formal+methods%22&ots=247e720cdo&sig=1QkLgr_1s_NXDHK7IqNt6fIs0-Q
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Panel: given that hardware verification has been an uphill battle, what is the future of software verification?
+     Author ['SK Shukla', 'T Bultan', 'CL Heitmeyer']
+     Venue MEMOCODE
+     Year 2004
+     Abstract to understand the industrial needs and trends in using formal methods. In particular, we discuss the cur- rent thrust on application of formal verification in software development, and what hardware formal verification expe- riences bring to bear for formal software verification
+     Url http://www.academia.edu/download/30756362/memocode04pos.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Agent-based distributed software verification
+     Author ['C Hunter', 'P Robinson']
+     Venue … of the Twenty …
+     Year 2005
+     Abstract Despite decades of research, the takeup of formal methods for developing provably correct software in industry remains slow  architecture for inter- active theorem proving with the aim of reducing the user interactions (and thus the cost) of constructing software verification proofs
+     Url https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Hunter.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Abstraction-based partial deduction for solving inverse problems—a transformational approach to software verification
+     Author ['R Glück', 'M Leuschel']
+     Venue … Ershov Memorial Conference on Perspectives of …
+     Year 1999
+     Abstract We be- lieve, by exploiting the connections between software verification and automatic program specialisation, one may be able to significantly extend the capabilities of analytical tools that inspect the input/output behaviour  Formal methods: State of the art and future directions
+     Url https://link.springer.com/chapter/10.1007/3-540-46562-6_8
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Software verification
+     Author ['F Ivancic', 'A Gupta', 'M Ganai', 'H Jain']
+     Venue US Patent 7,930,659
+     Year 2011
+     Abstract Software verification. Download PDF  G06F11/36—Preventing errors by testing or debugging software; G06F11/3604—Software analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods
+     Url https://patents.google.com/patent/US7930659B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Evaluating Tools for Software Verification (Track Introduction)
+     Author ['M Schordan', 'D Beyer', 'SF Siegel']
+     Venue … Applications of Formal Methods
+     Year 2018
+     Abstract Over the last several years, tools for program analysis and verification have became much more mature. There are now a number of competitions that evaluate and compare the implemented analyses for a given set of benchmarks. The comparison of the analyses either
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_10
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Production of Reliable Flight Crucial Software: Validation Methods Research for Fault Tolerant Avionics and Control Systems Sub-Working Group Meeting
+     Author ['JR Dunham', 'JC Knight']
+     Venue NA
+     Year 1982
+     Abstract Are they adequate for building crucial software assuming a composite set of quality metrics was defined? 3. Are the more modern formal methods of building software sufficiently mature  ware system. Some formal methods are approaching feasibility for production use. Technical
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016969
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Integrated software validation in the view of inspections/reviews
+     Author ['H Remus']
+     Venue Proc. of a symposium on Software validation …
+     Year 1984
+     Abstract Article. Integrated software validation in the view of inspections/reviews. Share on. Author: Horst Remus profile image Horst Remus. IBM Corp., San Jose, CA. IBM Corp., San Jose, CA  Proc. of a symposium on Software validation: inspection-testing-verification-alternatives
+     Url https://dl.acm.org/doi/abs/10.5555/3541.3545
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Embedded software validation: Applying formal techniques for coverage and test generation
+     Author ['T Arons', 'E Elster', 'T Murphy']
+     Venue … on Microprocessor Test …
+     Year 2006
+     Abstract Index Terms— Software verification and validation, Test generation, Formal methods  In this paper we describe a hybrid approach, exploiting formal methods to improve traditional, simulation based validation techniques  Embedded Software Validation
+     Url https://ieeexplore.ieee.org/abstract/document/4197221/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Formal+methods"
+     Title Combination methods for software verification
+     Author ['D Zucchelli']
+     Venue NA
+     Year 2008
+     Abstract Page 6. Page 7. Abstract The thesis is devoted to the development of formal methods for software verification. Indeed, two are among the most widespread techniques that allow to rigorously specify the possible executions of a system and check whether it contains bugs
+     Url https://hal.univ-lorraine.fr/tel-01748341
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract the PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware  of Power Quality, Energy Management and Real Time Control, Hardware Simulation for Hybrid
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time device-level transient electrothermal model for modular multilevel converter on FPGA
+     Author ['Z Shen', 'V Dinavahi']
+     Venue IEEE Transactions on Power Electronics
+     Year 2015
+     Abstract (9) Similarly, Thévenin equivalence for all SMs of the MMC are processed in parallel on the FPGA. rarm(Tvj ) and vHist arm (t  where n is the number of SMs in one converter arm. The dynam- ics of the other linear passive elements can also be discretized by Trapezoidal rule
+     Url https://ieeexplore.ieee.org/abstract/document/7336536/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Energy and performance evaluation of an FPGA-based SoC platform with AES and PRESENT coprocessors
+     Author ['X Guo', 'Z Chen', 'P Schaumont']
+     Venue International Workshop on Embedded …
+     Year 2008
+     Abstract The GEZEL cosimulation environment creates a platform simulator by com- bining a hardware simulation kernel with  Energy and Performance Evaluation of an FPGA-Based SoC Platform  IEEE Design and Test of Computers – Special Issue on Secure ICs for Secure Embedded
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70550-5_12
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Concurrent hardware-software co-simulation
+     Author ['Y Tzori']
+     Venue US Patent 6,202,044
+     Year 2001
+     Abstract US6202044B1 - Concurrent hardware-software co-simulation - Google Patents. Concurrent hardware-software co-simulation. Download PDF Info. Publication number US6202044B1. US6202044B1 US09/096,672 US9667298A
+     Url https://patents.google.com/patent/US6202044B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract [22] C. Dufour, J. Bélanger, S. Abourida, V. Lapointe, “FPGA-Based Real  Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  in the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-assisted Simulation of Voltage-behind-reactance Models of Electric Machines on FPGA
+     Author ['AP Yadav', 'S Xu', 'BC Schaefer']
+     Venue IEEE Transactions on …
+     Year 2020
+     Abstract Index Terms—FPGA, induction machine, real-time simulation, synchronous machine, voltage-behind-reactance  In the latter form, the stator dynam- ics are modeled in abc coordinates, while the rotor dynamics are formulated in qd reference frame [1]. This facilitates an easy
+     Url https://ieeexplore.ieee.org/abstract/document/9016102/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A matrix-inversion technique for FPGA-based real-time EMT simulation of power converters
+     Author ['A Hadizadeh', 'M Hashemi', 'M Labbaf']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract 2, FEBRUARY 2019 A Matrix-Inversion Technique for FPGA-Based  Index Terms—Electromagnetic transients simulation, field programmable gate array (FPGA), floating-point imple- mentation, matrix inversion, real-time simulation, Sherman– Morrison–Woodbury (SMW)
+     Url https://ieeexplore.ieee.org/abstract/document/8354885/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Review of hardware platforms for real-time simulation of electric machines
+     Author ['S Mojlish', 'N Erdogan', 'D Levine']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract Field Programmable Gate Array (FPGA), Graphics Processing Unit (GPU), Chip Multiprocessor (CMP), and Computer clusters are the main hardware platforms for real-time simulations  3-D FEM model (a) (b) x = f (x , u ) (c) ui uj FPGA GPU CPU-based simulator y = h (x , u) Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7829408/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract be a building block of the HIL simula- tion of either such a sophisticated, cyber-physical system like a  testing approach of power elec- tronics controls,” IEEE Transactions on Industrial Electron- ics, vol  4] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Anyboard: An FPGA-based, reconfigurable system
+     Author ['DE Van den Bout', 'JN Morris', 'D Thomae']
+     Venue IEEE Design & Test …
+     Year 1992
+     Abstract than equivalent mask- programmed gate arrays or ASlCs (applicationspecific ICs). Low cost. An RS is much cheaper for each new application than an ASIC. Configuring an RS for a new task requires only that the PC user reprogram the connection of logic gates in each FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/156155/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A simulation platform for reconfigurable computing research
+     Author ['W Fu', 'K Compton']
+     Venue 2006 International Conference on Field …
+     Year 2006
+     Abstract one or more real FPGAs to accelerate hardware simulation. ware structures  ules that provide timing simulation capability for a SPARC cial FPGA boards and SOPC/Platform FPGAs, restricting  ics/GEMS environments is significantly simpler than adding
+     Url https://ieeexplore.ieee.org/abstract/document/4100974/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-assisted Simulation of Voltage-behind-reactance Models of Electric Machines on FPGA
+     Author ['AP Yadav', 'S Xu', 'BC Schaefer']
+     Venue IEEE Transactions on …
+     Year 2020
+     Abstract Index Terms—FPGA, induction machine, real-time simulation, synchronous machine, voltage-behind-reactance  In the latter form, the stator dynam- ics are modeled in abc coordinates, while the rotor dynamics are formulated in qd reference frame [1]. This facilitates an easy
+     Url https://ieeexplore.ieee.org/abstract/document/9016102/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A new platform and methodology for system-level design of next-generation FPGA-based digital SMPS
+     Author ['B MacCleery', 'O Trescases', 'M Mujagic']
+     Venue 2012 IEEE Energy …
+     Year 2012
+     Abstract R. Erickson, “Impact of digital control in power electronics,” in Power Semiconductor Devices and ICs, 2004  [16] M. Cirstea and A. Dinu, “A vhdl holistic modeling approach and fpga implementation of  17] G. Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6342622/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Development of SCADA system for Turbocharger testing
+     Author ['SN Lakade', 'SU Bhandari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract This work deals with setting up a lab for testing of Turbocharger wherein SCADA system will be developed for testing  In section III, methodology is given. In section IV, use of PLC and its algorithm is given. And lastly in section V, results for hardware simulation is given
+     Url https://ieeexplore.ieee.org/abstract/document/7860134/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-software debugger using simulation speed enhancing techniques including skipping unnecessary bus cycles, avoiding instruction fetch simulation …
+     Author ['M Bershteyn', 'RT Casley', 'C Chien', 'A Ghosh']
+     Venue US Patent …
+     Year 1997
+     Abstract One solution to this problem is to emulate the entire system using field programmable gate arrays or FPGA's. The first drawback of this method is the cost. Not only does the user have to purchase FPGA's, but also FPGA synthesis and mapping tools
+     Url https://patents.google.com/patent/US5678028A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Position paper: Safety and security monitoring in ics/scada systems
+     Author ['A Nicholson', 'H Janicke', 'A Cau']
+     Venue … Symposium for ICS & SCADA …
+     Year 2014
+     Abstract Monitoring safety and security properties in industrial control system (ICS) and SCADA environments faces unique  disruptive technology to monitor safety and security properties in ICS environments  Cheung, S. (2007) Using model-based intrusion detection for SCADA networks
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/ICSCSR2014.8
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A reconfigurable logic machine for fast event-driven simulation
+     Author ['J Bauer', 'M Bershteyn', 'I Kaplan']
+     Venue … 1998 Design and …
+     Year 1998
+     Abstract their event queues for a particular simulation cycle, the synchronizer re-starts the hardware simulation clock  The netlist portion of the design is emulated in the FPGA array  mit/proiects/ transiVtn129/tn129,html [4] DeHon, A. DPGA-Coupled Microprocessors: Commodity ICs for the
+     Url https://ieeexplore.ieee.org/abstract/document/724555/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Understanding the memory performance of data-mining workloads on small, medium, and large-scale cmps using hardware-software co-simulation
+     Author ['W Li', 'E Li', 'A Jaleel', 'J Shan', 'Y Chen']
+     Venue … Analysis of Systems …
+     Year 2007
+     Abstract prefetcher on an Intel射 Xeon射 machine. simulators, FPGA-based hardware simulation has been 1-4244-1081-9/07/$25.00 咕2007 IEEE  Classification and Prediction Workloads ics which is used to identify the similar and divergent re- gions between two sequences
+     Url https://ieeexplore.ieee.org/abstract/document/4211020/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An FPGA-based high-speed, low-latency processing system for high-energy physics
+     Author ['S Kirsch', 'F Rettig', 'D Hutter']
+     Venue … Conference on Field …
+     Year 2010
+     Abstract 566 Page 6. Testbench Board 1 FPGA Peripheral Models Trigger Model  Control Unisim Secure IP Simprim Fig. 6: The GTU hardware simulation framework  SMUs and TGU carry a small Linux-based Detector Control System (DCS) board as part of the GTU's monitoring system
+     Url https://ieeexplore.ieee.org/abstract/document/5694311/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract Despite the high-speed internal dynam- ics of the power electronics-based apparatus, the system- level interactions may not require a very  The requirements for larger or smaller time-step circuits can also be achieved using FPGA cards, where very high-frequency switching
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital logic simulation/emulation system
+     Author ['Y Tzori']
+     Venue US Patent 5,748,875
+     Year 1998
+     Abstract US5748875A - Digital logic simulation/emulation system - Google Patents. Digital logic simulation/emulation system. Download PDF Info. Publication number US5748875A. US5748875A US08/661,991 US66199196A US5748875A
+     Url https://patents.google.com/patent/US5748875A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FASED: FPGA-accelerated simulation and evaluation of DRAM
+     Author ['D Biancolin', 'S Karandikar', 'D Kim', 'J Koenig']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract on cloud-hosted FPGAs. CCS CONCEPTS • Hardware → Simulation and emulation; Dynamic memory; Reconfigurable logic applications. KEYWORDS emulation; FPGA prototyping; memory systems ACM Reference Format
+     Url https://dl.acm.org/doi/abs/10.1145/3289602.3293894
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware acceleration system for logic simulation
+     Author ['S Cadambi', 'P Ashar']
+     Venue US Patent App. 10/102,749
+     Year 2003
+     Abstract An Optimal Technology Mapping Algorithm for Delay Optimization in Lookup-Table based FPGA Designs  a) The Verification Gap [0025]. New applications and processing demands have substantially increased the complexity and density of integrated circuits (ICs) over the past
+     Url https://patents.google.com/patent/US20030105617A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A matrix-inversion technique for FPGA-based real-time EMT simulation of power converters
+     Author ['A Hadizadeh', 'M Hashemi', 'M Labbaf']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract 2, FEBRUARY 2019 A Matrix-Inversion Technique for FPGA-Based  Index Terms—Electromagnetic transients simulation, field programmable gate array (FPGA), floating-point imple- mentation, matrix inversion, real-time simulation, Sherman– Morrison–Woodbury (SMW)
+     Url https://ieeexplore.ieee.org/abstract/document/8354885/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Review of hardware platforms for real-time simulation of electric machines
+     Author ['S Mojlish', 'N Erdogan', 'D Levine']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract Field Programmable Gate Array (FPGA), Graphics Processing Unit (GPU), Chip Multiprocessor (CMP), and Computer clusters are the main hardware platforms for real-time simulations  3-D FEM model (a) (b) x = f (x , u ) (c) ui uj FPGA GPU CPU-based simulator y = h (x , u) Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7829408/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title The use of FPGA in field-oriented control of an induction machine
+     Author ['Ö AKIN', 'I Alan']
+     Venue Turkish Journal of Electrical Engineering & …
+     Year 2010
+     Abstract The VHDL codes generated automatically from Xilinx System Generator are embedded in a Spartan 3 FPGA kit [27]. 2. Background  i e ds i e qs ie* ds ie* qs e r i* cs i* bs i* as ias ibs ics Figure 1. A simple block diagram of a field oriented controlled induction machine
+     Url https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=11262
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title … , simulation and implementation of a non-coherent binary-frequency-shift-keying (BFSK) receiver-transmitter into a field programmable gate array (FPGA)
+     Author ['JP Svenningsen']
+     Venue NA
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Improving simulation accuracy in design methodologies for dynamically reconfigurable logic systems
+     Author ['M Vasilko', 'D Cabanis']
+     Venue Seventh Annual IEEE Symposium on …
+     Year 1999
+     Abstract In a DCS-based simulation the 'X' signal value is used to indicate that modules associated  X'-value, it is not clear whether the module was dynamically reconfigured from the FPGA or its  0') is shown in Figure 4. This is the correct simulation result for a static hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/803674/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware system for biologically realistic, plastic, and real-time spiking neural network simulations
+     Author ['S Saïghi', 'T Levi', 'B Belhadj', 'O Malot']
+     Venue The 2010 International …
+     Year 2010
+     Abstract These ICs compute in real-time a biologically realistic neuron models  potential computed by analog neuromimetic chips is time-stamped when detected by digital device (FPGA)  HH) formalism, in order to address two fields of research: (1) build a hardware simulation system for
+     Url https://ieeexplore.ieee.org/abstract/document/5596979/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Cyber-physical system security of a power grid: State-of-the-art
+     Author ['CC Sun', 'CC Liu', 'J Xie']
+     Venue Electronics
+     Year 2016
+     Abstract alarm issues are discussed in Section 3. Section 4 presents the cyber-physical system (CPS) testbeds  of four parts: (1) a commercial EMS is used in the SCADA system network  The characteristics of the SCT includes: (1) a realistic software-hardware simulation environment;
+     Url https://www.mdpi.com/2079-9292/5/3/40
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Certification issues for complex digital hardware
+     Author ['LH Harrison', 'PJ Saraceni']
+     Venue AIAA/IEEE Digital Avionics Systems …
+     Year 1994
+     Abstract Such tools permit the design of complex ICs by using methods tailored specifically for hardware  Hardware simulation tools are now used extensively  This architecture allows dynamic reconfiguration of individual logic cells within the FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/369479/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Agent-based control of a DC MicroGrid
+     Author ['DH Moore', 'JM Murray', 'FP Maturana']
+     Venue 2013 IEEE …
+     Year 2013
+     Abstract All of the sensor signal outputs are between 0 and 5 V. The I/O panel includes NPN relay ICs that drive the electromechanical relays on the source and load panels. Digital outputs (0 V or 5 V) from the PLC and SG connect to the I/O board via Molex connection headers, then to
+     Url https://ieeexplore.ieee.org/abstract/document/6645293/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA debugging by a device start and stop approach
+     Author ['D Göhringer']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract Because of these limitations of software based simulation systems, focus shifted to hardware simulation  II. RELATED WORK Currently the main approaches for FPGA debugging are as follows  is the methodology to access interconnects of Integrated Circuits (ICs) for increasing
+     Url https://ieeexplore.ieee.org/abstract/document/7857170/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract specific integrated circuits (IC) from biophysical models following the Hodgkin–Huxley (HH) formalism, in order to address two fields of research: (i) build a hardware simulation system for  The digitized outputs of each “neural element” are directly connected to FPGA inputs
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware Implementation of MAC using MATLAB Simulink and FPGA
+     Author ['P Singh', 'MF Ahmad']
+     Venue … Global Research and Development Journal for …
+     Year 2017
+     Abstract FPGA board we can also provide the software and real time hardware simulation and implementation  Now we can say that the FPGA design process is much similar to that  level behavioral specifications into circuit implementations with the increasing design complexity of
+     Url https://www.academia.edu/download/53534233/GRDJEV02I070054.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and implementation of an FPGA-based real-time simulator for a dual three-phase induction motor drive
+     Author ['R Gregor', 'G Valenzano', 'J Rodas']
+     Venue Journal of Power …
+     Year 2016
+     Abstract whereas the Program Memory can store 512 36-bit wide words; both memories are implemented using random access memory (RAM) blocks embedded in the FPGA  Similarly, the hardware simulation of the DTPIM model is executed with a simulation step of 40.96 µs (24.4 kHz
+     Url http://www.kpubs.org/article/articleDownload.kpubs?downType=pdf&articleANo=E1PWAX_2016_v16n2_553
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title IoTs enable active contour modeling based energy efficient and thermal aware object tracking on FPGA
+     Author ['SHA Musavi', 'BS Chowdhry', 'T Kumar', 'B Pandey']
+     Venue Wireless Personal …
+     Year 2015
+     Abstract 6 Future Work. In future, we can go for hardware simulation of electronic component other than frame buffer used in object tracking. Here, we are using 28 nm technology based FPGA. In future, we can go for ultra-scale FPGA, 3D ICs and System on Chips (SoCs)
+     Url https://link.springer.com/article/10.1007/s11277-015-2753-z
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and Application of SCADA Based Control System for filling process (Inter facing and Monitoring)
+     Author ['NM Aung', 'ML Maung', 'KM Win']
+     Venue NA
+     Year 2008
+     Abstract motors must control using operation sequence including flowchart like PLC program and the  And the hardware simulation (btHardware) for linking the filling icon process is utilized to open the  The data box (btData) for user guide for filling process using SCADA is used to open
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:40059685
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Experience and Lessons in Building an ICS Security Testbed
+     Author ['Y Tao', 'W Xu', 'H Li', 'S Ji']
+     Venue 2019 1st International Conference on …
+     Year 2019
+     Abstract guide to industrial control systems (ics) security: Supervisory control and data acquisition (scada) systems, distributed control systems (dcs), and other control system configurations such  [11] J. Weiss, ”Assuring industrial control system (ICS) cyber security,” Center for
+     Url https://ieeexplore.ieee.org/abstract/document/8850804/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of semi-fragile reversible watermarking by histogram bin shifting in real time
+     Author ['S Hazra', 'S Ghosh', 'S De', 'H Rahaman']
+     Venue Journal of Real-Time Image …
+     Year 2018
+     Abstract gate array (FPGA) can be reprogrammed several times to achieve different desired functionalities without the non-recurring engineering (NRE) costs that are associated with fabrication of ICs  A block diagram of the setup for hardware simulation using FPGA is shown in
+     Url https://link.springer.com/article/10.1007/s11554-017-0672-9
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware simulation of an adaptive control algorithm
+     Author ['S He', 'X Xu']
+     Venue Conference on Modelling and Simulation, Montreal …
+     Year 2007
+     Abstract In this research, preliminary work was conducted to ex- plore the possibility of setting up a hardware simulation to exam  The Xilinx FPGA chip is used to implement the hardware-in-the- loop simulation  on Systems, Man and Cybernet- ics-Part B: Cybernetics, 32(1), Feb. 2002
+     Url https://www.actapress.com/Abstract.aspx?paperId=30605
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based reconfigurable PWM generator for power electronic converter applications
+     Author ['AM Khiavi', 'J Sobhi', 'ZD Koozehkanani']
+     Venue Journal of Control …
+     Year 2017
+     Abstract 4. In Sect. 5 results of experimental implementation of the hardware on FPGA are presented. Finally, some conclusions are drawn in Sect. 6  Table 2 shows example register values for this type of PWM, and Fig. 12b presents hardware simulation results based on these values
+     Url https://link.springer.com/article/10.1007/s40313-017-0324-0
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Simulation by emulating level sensitive latches with edge trigger latches
+     Author ['BD McMinn', 'G Ganapathy']
+     Venue US Patent 5,721,695
+     Year 1998
+     Abstract When used to emulate a hardware design that also contains edge triggered latches, the FPGA can be re  If the ratio is too high, then the hardware simulation system wastes time that could be used  Custom IC hardware modeling using standard ICs for use in IC design validation
+     Url https://patents.google.com/patent/US5721695A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Impact of Hardware/Software Partitioning and MicroBlaze FPGA Configurations on the Embedded Systems Performances
+     Author ['I Mhadhbi', 'N Litayem', 'SB Othman']
+     Venue Complex System Modelling …
+     Year 2015
+     Abstract This work can contribute to enforce the security of SCADA (Supervision Control and Data Acquisition  of complex algorithms (such as a lightweight cryptographic application) in a hardware circuits (FPGA) allows a  Discrete Event modeling is often used for hardware simulation
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12883-2_25
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Cost-efficient FPGA implementation of basal ganglia and their Parkinsonian analysis
+     Author ['S Yang', 'J Wang', 'S Li', 'B Deng', 'X Wei', 'H Yu', 'H Li']
+     Venue Neural Networks
+     Year 2015
+     Abstract Cost-efficient FPGA implementation of basal ganglia and their Parkinsonian analysis  Thus, we developed a multi-precision architecture based on a precise analysis using the FPGA-based platform with fixed-point arithmetic
+     Url https://www.sciencedirect.com/science/article/pii/S0893608015001549
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware In the Loop (HIL) simulation of wind turbine power control
+     Author ['T Puleva', 'G Rouzhekov', 'T Slavov', 'B Rakov']
+     Venue NA
+     Year 2016
+     Abstract control algorithms is presented. It is based on application of programmable logical controller (PLC) and on plant dynamics simulator. A system for hardware simulation of control algorithms is developed. Its structure and characteristics
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2016.1053
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract of high-level PC software to control PLCs for multiple telescopes, this paper examines the development of PLC programs to operate the hardware of a medical cyclotron beamline controlled from a PC using the Experimental Physics and Industrial Control System (EPICS), which
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware/software co-design for energy-efficient seismic modeling
+     Author ['J Krueger', 'D Donofrio', 'J Shalf', 'M Mohiyuddin']
+     Venue Proceedings of 2011 …
+     Year 2011
+     Abstract three architectural alter- natives – the Intel Nehalem X5530 multicore processor, the NVIDIA Tesla C2050 GPU, and a general-purpose manycore chip design optimized for high-order wave equations called “Green Wave.” We have developed an FPGA-accelerated architectural
+     Url https://dl.acm.org/doi/abs/10.1145/2063384.2063482
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A technique for modelling dynamic reconfiguration with improved simulation accuracy
+     Author ['M Vasilko', 'D Cabanis']
+     Venue IEICE Transactions on Fundamentals of …
+     Year 1999
+     Abstract modules associated with a signal are not configured or being reconfigured from the FPGA hardware [7  confusing for a designer to distinguish between the “normal” and a DCS meaning of these  at '0' and other input assigned to 'Z' or 'X.' In a static hardware simulation the result
+     Url https://search.ieice.org/bin/summary.php?id=e82-a_11_2465
+

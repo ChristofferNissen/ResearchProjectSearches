@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Use of formal verification at Centaur Technology
+     Author ['WA Hunt', 'S Swords', 'J Davis', 'A Slobodova']
+     Venue Design and verification of …
+     Year 2010
+     Abstract 2. To prove that output from a hardware simulation is equivalent to that produced by a specification function, we produce BDDs representing both the hardware and the  The integration of formal methods into Centaur's design methodology has been on- going for several years
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-1539-9_3
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract [4]. Most formal methods are either hard to scale up to larger  We apply the same concept towards transparent hardware simulation envi- ronment  Secondly, the full approach is de- scribed. Next, we show a case study where the methodology proposed has been applied
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Formal reasoning with Verilog HDL
+     Author ['GJ Pace', 'J He']
+     Venue NA
+     Year 1998
+     Abstract In comparison, until quite recently, much less work has been done on formal methods used with Verilog  A syntactic check usually su ces to ensure that no spikes will appear on a global variable in the system. 4 Two Case Studies  4.3 Case Study: Synchronizing Handshake
+     Url https://www.um.edu.mt/library/oar/handle/123456789/24013
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Direct system integration of hardware models–a case study
+     Author ['J Hiltscher', 'W Rehm']
+     Venue Sixth York Doctoral Symposium on Computer …
+     Year 2013
+     Abstract Direct system integration of hardware models– a case study Johannes Hiltscher and Wolfgang Rehm  Hardware simulation is commonly em- ployed to reduce both costs and time required for  patterns can be generated with low ef- fort, either using formal methods if applicable or
+     Url https://www.cs.york.ac.uk/yds/yds2013Proceedings/YDS_2013_Proceddings.pdf#page=48
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract Algorithmic breakthroughs and groundbreaking case studies, as well as promotion by CAD developers, piqued industry's interest  The prominent hardware simulation languages, VHDL and Verilog, are also asynchronous; so are some system design  Formal Methods in
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Virtual development on mixed abstraction levels: an agricultural vehicle case study
+     Author ['M Jung', 'S Piao', 'T Purusothaman', 'X Pan']
+     Venue Synopsys Usergroup …
+     Year 2015
+     Abstract Page 1. Virtual Development on Mixed Abstraction Levels: an Agricultural Vehicle Case Study Matthias Jung​1​, Songlin Piao​2​, Thiyagarajan Purusothaman​3​, Xiao Pan​3​  processes (design space exploration). Virtual hardware simulation models, which enable
+     Url https://www.researchgate.net/profile/Matthias_Jung2/publication/306355998_Virtual_Development_on_Mixed_Abstraction_Levels_an_Agricultural_Vehicle_Case_Study/links/57ba135e08aedfe0ec96eb7f.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title An Integrated Framework for Formal Verification and Distributed Simulation of Asynchronous Hardware Case for Support
+     Author ['DA Edwards', 'G Theodoropoulos']
+     Venue Research Project …
+     Year 2003
+     Abstract Schools (MOVEP'02, Modelling and Verification of Paral- lel Systems, and SFM-02:MC, Formal Methods for the  CSP/occam semantics and asynchronous hardware systems facilitates the rapid development of asyn- chronous hardware simulation models, it  WP8: Case Studies
+     Url http://www.cs.bham.ac.uk/research/projects/parlard/proposal.ps
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract A core subsystem of the Scalable Processor-Independent Design for Electromagnetic Resilience (SPIDER) was selected for this case study  They present a selection of case studies where formal methods were applied to industrial-scale designs, such as microprocessors
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title The Role of Validation in Refinement-Based Formal Software Development
+     Author ['JP Jacquot', 'A Mashkoor']
+     Venue NA
+     Year 2018
+     Abstract 5 Case Studies  As for the platooning case study, the kinematic functions are modeled with integers  In formal methods, such as Event-B, the notion of refinement was introduced and formalized to support the incremental verification of the final software
+     Url https://hal.inria.fr/hal-01788768/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title An Interpreter Interface Language: From Its Formal Embedding in Higher-Order Logic to Its Role in Better Simulation Practices
+     Author ['DA Fura', 'AK Somani']
+     Venue NA
+     Year NA
+     Abstract 4 The Role of Interface Languages in Simulation Environments Current hardware simulation methods are  sug- gests a promising avenue for research to extend formal methods concepts into  Daeche, “Specification and Verification using Higher-Order Logic: A Case Study,” in GJ
+     Url https://www.researchgate.net/profile/Arun_Somani/publication/2342990_An_Interpreter_Interface_Language_From_Its_Formal_Embedding_in_Higher-Order_Logic_to_Its_Role_in_Better_Simulation_Practices/links/02bfe513e2ddeb8b31000000/An-Interpreter-Interface-Language-From-Its-Formal-Embedding-in-Higher-Order-Logic-to-Its-Role-in-Better-Simulation-Practices.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware coprocessor synthesis from an ansi c specification
+     Author ['S Ahuja', 'ST Gurumani', 'C Spackman']
+     Venue IEEE Design & Test of …
+     Year 2009
+     Abstract this methodology enables the development and improvement of test suites, which can later be used during hardware simulation  We selected the 128-bit key length for use in our case study  His research inter- ests focus on formal methods and their applications to system design
+     Url https://ieeexplore.ieee.org/abstract/document/5209963/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Model Based Development of Java Embedded Applications
+     Author ['J Kačer', 'S Racek']
+     Venue NA
+     Year 2004
+     Abstract 2.Main principles 3.Development process 4.Architecture overview 5.Case study 6.Tools 7.Conclusion Page 3. Project Goals  may not even be available yet Page 4. Related Work ● Formal methods: Models are quite far from Java sources – Pi-calculus, FSP, Promela
+     Url http://www.kiv.zcu.cz/j-sim/Articles/Files/EuroSim2004-KacerRacek-Presentation.PDF
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Exploring MAS to a High Level Abstration NoC Simulation Environment
+     Author ['GL Lima', 'NF Traversi', 'DF Adamatti']
+     Venue 2018 25th IEEE …
+     Year 2018
+     Abstract The main advantage of this simulator is to abstract NoC hardware simulation or prototyping, emulating the hardware behavior  Our case study highlights the simulator versatility and simplicity of use  Conference on Formal Methods and Models for Codesign (MEMPCODE2011), pp
+     Url https://ieeexplore.ieee.org/abstract/document/8617979/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Device and method for refactoring hardware code
+     Author ['PPH Faes', 'HRP Eeckhaut']
+     Venue US Patent 8,881,074
+     Year 2014
+     Abstract The paper “A SystemVerilog Rewriting system for RTL Abstraction with Pentium Case Study” (Haynal et al., ACM/IEEE Intl Conference on Formal Methods and Models  correcting these programming errors has a direct impact on the correctness of hardware simulation and on
+     Url https://patents.google.com/patent/US8881074B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Verification and validation of a safety system for a fuel-cell research facility: a case study
+     Author ['DC Faria']
+     Venue NA
+     Year 2007
+     Abstract VERIFICATION AND VALIDATION OF A SAFETY SYSTEM FOR A FUEL-CELL RESEARCH FACILITY: A CASE STUDY (162 pp.)  126 Figure 4.5. Constructed hardware simulation platform  include software engineering, system modeling (finite-state-machine), formal methods
+     Url http://rave.ohiolink.edu/etdc/view?acc_num=ohiou1180552564
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Energy consumption and execution time estimation of embedded system applications
+     Author ['G Callou', 'P Maciel', 'E Tavares', 'E Andrade']
+     Venue Microprocessors and …
+     Year 2011
+     Abstract In order to depict the practical usability of the proposed methodology, a real case study as well as customized examples are  In hardware simulation, despite the great computational effort, more accurate results might be obtained in comparison with instruction simulation due to
+     Url https://www.sciencedirect.com/science/article/pii/S0141933110000529
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title A bibliography on formal methods for system specification, design and validation
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue NA
+     Year 1982
+     Abstract of a iterature survey designed to classify current literature an formal methods that mi ht be meanin full ex lofted in r g gy P sue  212-21. [1.04] CJ P, Lucena and THC Pequeno, "Program derivation using data types: A case study," IEEE Trans. SOjtluaTe Engineering, vol. SE-5, pp
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title An approach based on SysML and SystemC to simulate complex systems
+     Author ['A Abdulhameed', 'A Hammad']
+     Venue … on Model-Driven …
+     Year 2014
+     Abstract This section discusses a case study with the aim to present the general statute-book described to  We illustrate the practicability of our approach by case studies implemented on Topcased platform us- ing ATL  Topcased combin- ing formal methods with model-driven engineering
+     Url https://ieeexplore.ieee.org/abstract/document/7018517/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Modelling for Parallel Simulation: Possibilities and Pitfalls.
+     Author ['F Breitenecker', 'I Husinsky']
+     Venue NA
+     Year 1995
+     Abstract of these issues and examine, by means of new results from case-studies, consequences of  Strange enough there are hardly any formal methods of modelling which supports completeness, correctness  our group within a European project [26a-c] 4.2 Case study: Virtual machine
+     Url https://www.researchgate.net/profile/Peter_Sloot/publication/230727236_Modelling_for_Parallel_Simulation_Possibilities_and_Pitfalls/links/0a85e5372351e50cb5000000.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Specification, synthesis and validation of hardware/software interfaces
+     Author ["M O'Nils"]
+     Venue NA
+     Year 1999
+     Abstract 79-84, 1998. 8. Mattias O'Nils, Axel Jantsch, “Refinement of HW/SW Communication Channels: Case Study and Comparison”, Proceedings of the 16th IEEE Norchip Conference, pp  in the area of specification is to find formal methods of capturing the information needed
+     Url https://www.diva-portal.org/smash/get/diva2:8543/FULLTEXT01.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Applying a visual specification language to hardware protocol verification
+     Author ['A Bunker']
+     Venue NA
+     Year 2004
+     Abstract a series of case studies that demonstrate the verification method employing PLSC specifications  Integration with existing design practice: The transfer of formal methods technologies to industrial  The case study indicates that designers require only minimal training in using the
+     Url http://search.proquest.com/openview/0b731903aa224da8139e5a690fdd8b60/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Collaborative Modeling and Simulation for Cyber-Physical Systems
+     Author ['PG Larsen', 'J Fitzgerald', 'J Woodcock']
+     Venue Trustworthy Cyber …
+     Year 2016
+     Abstract The case studies will be used to drive the production of the tools and  Membership of the association will allow future case study owners access to information  FMI model generation Heterogeneous systems models Feedback Testing Code/ hardware simulation Strong traceability
+     Url https://books.google.com/books?hl=en&lr=&id=eScNDgAAQBAJ&oi=fnd&pg=PA177&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=iGI54VHiRS&sig=ZaM0U6JLl5PcFBMVKq2KtTGcWQQ
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title A systematic testing approach for autonomous mobile robots using domain-specific languages
+     Author ['M Proetzsch', 'F Zimmermann', 'R Eschbach']
+     Venue Annual Conference on …
+     Year 2010
+     Abstract A predefined hardware interface allows the seamless exchange of hardware simulation and real  M., Kang, KC: Formal construction and verification of home service robots: A case study  Springer, Heidelberg (2005) 3. Lankenau, A., Meyer, O.: Formal methods in robotics: Fault
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16111-7_36
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Deriving an efficient FPGA implementation of a low density parity check forward error corrector
+     Author ['A Gill', 'A Farmer']
+     Venue ACM SIGPLAN Notices
+     Year 2011
+     Abstract Though there is much talk of using formal and semi-formal methods to develop designs and im- plementations, in practice most implementations are  This paper presents a case study of taking the Haskell descrip- tion of the LDPC and refining it into a Kansas Lava implemen
+     Url https://dl.acm.org/doi/abs/10.1145/2034574.2034804
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Shared Variable Analyser For Hardware Descriptions
+     Author ['J Sharp']
+     Venue NA
+     Year 2013
+     Abstract explosion is an important issue when model checking real world systems.Formal methods have been  us to evaluate the framework and the formal analysis approach using case studies:E valuating SV  Secondly, through the first case study, we illustrate tha t the eval uation of the
+     Url http://search.proquest.com/openview/779aecb3e035273688c49dc9e9816ee4/1?pq-origsite=gscholar&cbl=51922&diss=y
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title A system for synthesizing abstraction-enabled simulators for binary code verification
+     Author ['D Gückel', 'J Brauer']
+     Venue … Symposium on Industrial …
+     Year 2010
+     Abstract Thirdly, and maybe most importantly, formal methods based on binary code do not have to rely  far are also infeasible for this purpose, as these kinds of hardware simulation are exactly  A. Case Study: Atmel ATmega16 The ATmega16 is an 8 bit microcontroller from Atmel's AVR
+     Url https://ieeexplore.ieee.org/abstract/document/5551382/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract 6 Automatic test generation, 7 Reliability and robustness analysis and 8 focus on the technical achievements of the project. Finally, Sections 9 and 10 describe the case study and conclusion. 2. Project objectives and expected results  9. Case study: windshield wiper
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Cooperative, Trusted Software Repair for Cyber Physical System Resiliency
+     Author ['W Weimer', 'S Forrest', 'CL Goues', 'M Kim']
+     Venue NA
+     Year 2018
+     Abstract In these case studies, the invariant that describes the repair was found in 100% of the  In the sqrt_lcm case study, while all of the alternate repairs shared the same “repair the  That is, a formal methods approach based on loop invariants allowed us to distinguish between diverse
+     Url https://apps.dtic.mil/sti/citations/AD1056764
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Embedded systems design: Hardware and software interaction
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue Embedded Software Design …
+     Year 2010
+     Abstract At each design step, different software components are generated and verified using hardware simulation models  the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-5567-8_1
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Functional design using behavioural and structural components
+     Author ['R Sharp']
+     Venue International Conference on Formal Methods in …
+     Year 2002
+     Abstract structural expansion in SAFL is then presented (Section 4); this methodology is demonstrated by means of a realistic case-study in which  non-standard interpretation of basis functions means that the same compiler can be used to perform both hardware simulation and synthesis
+     Url https://link.springer.com/chapter/10.1007/3-540-36126-X_20
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Embedded software design and programming of multiprocessor system-on-chip
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue NA
+     Year 2010
+     Abstract and Programming of Multiprocessor System-on-Chip Simulink and SystemC Case Studies 123 Page 5  At each design step, different software components are generated and verified using hardware simulation models. The overall design flow is given in this chapter
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4419-5567-8.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Architecture-Centric Modeling, Analysis, and Verification of Cyber-Physical Systems
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue NA
+     Year 2016
+     Abstract We also report on industrial case studies that have been carried out in the context of aerospace  to achieve higher quality of the OS for next series of cars by applying formal methods. This presentation shows a case study that model checking is applied to a commercial OS, that is
+     Url https://shonan.nii.ac.jp/docs/5296fabd2d5262bb0fd4870004bc2ac0e46b3015.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title The Hardware Design Toolchain
+     Author ['F Erxleben']
+     Venue NA
+     Year 2014
+     Abstract There have been case studies to show that UML might be deployed to improve specifica- tions and reduce ambiguity compared to nearly pure textual variants [1]. In  It offers basic project management, editing capabilities, design flow planning, hardware simulation and synthesis
+     Url https://users.ifsr.de/~fredo/writings/HardwareDesignToolchain.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Sound Simulation and Co-simulation for Robotics
+     Author ['A Cavalcanti', 'A Miyazawa', 'R Payne']
+     Venue Present and Ulterior …
+     Year 2017
+     Abstract 173 Page 2. 174 A. Cavalcanti et al. Fig. 1 Robot controller development artefacts: current practice state machine controller code hardware simulation discrete environment simulation 1st phase: Abstract model 2nd phase: Simulation 3rd phase: Implementation
+     Url https://link.springer.com/chapter/10.1007/978-3-319-67425-4_11
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Integrated Tool Chain for Model-Based Design of Cyber-Physical Systems
+     Author ['P Gorm-Larsen', 'C Thule', 'K Lausdahl']
+     Venue The 14th Overture …
+     Year 2016
+     Abstract 9 has been extracted from the line following robot case study of the INTO-CPS project  This is an area where we hope that others in the formal methods community will take inspiration  Design of Cyber-Physical Systems 77 chain is being used for industrial case studies in railways
+     Url https://tidsskrift.dk/ece/article/download/24731/21669#page=69
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Simulation of Multicomputer Networks”
+     Author ['KK Bagchi']
+     Venue Simulation Systems
+     Year 2000
+     Abstract Page 180. Simulation of Multicomputer Networks* KK Bagchi AF Nielsen O. Olsen Institute of Electronic Systems Aalborg University Aalborg, Denmark I. INTRODUCTION With the emergence of low-cost, high performance microprocessors
+     Url https://books.google.com/books?hl=en&lr=&id=PpMgv31fTxoC&oi=fnd&pg=PA166&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=galbb4zM9W&sig=O8a-79UzwI6tLK5SMS3EeFHTbbI
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title A coloured petri net based approach for estimating execution time and energy consumption in embedded systems
+     Author ['GRA Callou', 'PRM Maciel', 'EC de Andrade']
+     Venue Proceedings of the 21st …
+     Year 2008
+     Abstract Nets; D.2.4 [Software Engineering]: Software/Program Verifi- cation - Formal Methods; D.4.8  In hardware simulation, despite the very high computation effort, better results are obtained  The presented case studies clearly show that the proposed methodology and the framework
+     Url https://dl.acm.org/doi/abs/10.1145/1404371.1404412
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Mixed reality simulation for mobile robots
+     Author ['I Chen']
+     Venue NA
+     Year 2011
+     Abstract 331–338. • IY-H. Chen, B. MacDonald, B. Wünsche, G. Biggs, and T. Kotoku, “Analysing mixed reality simulation for industrial applications: A case study in the development  studies. Chapter 8 draws conclusions from the research and discusses potential future work. Page 20. 2
+     Url https://researchspace.auckland.ac.nz/handle/2292/7128
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Cycle-accurate replay and debugging of running FPGA systems
+     Author ['D Foisy', 'SK Shukla']
+     Venue US Patent 9,217,774
+     Year 2015
+     Abstract In these case studies, several functional and runtime failures in FPGA systems have been analyzed  In the first case study, while testing the MERSENNE TWISTER application, an algorithm for pseudo  Use the trace to replay the sequence of events in a hardware simulation on a
+     Url https://patents.google.com/patent/US9217774B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Extending hardware description in SDL
+     Author ['FJ Argul-Marin', 'KJ Turner']
+     Venue NA
+     Year 2000
+     Abstract A case study shows our approach to hardware analysis in SDL in action  The use of formal methods for verifying and validating complex systems behaviour is an active research  being developed at the Technical University of Budapest for real-time hardware simulation in SDL
+     Url https://pdfs.semanticscholar.org/86cc/4af5c26fb257e06153a0145ee50b33995271.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title EURETILE 2010-2012 summary: first three years of activity of the European Reference Tiled Experiment
+     Author ['PS Paolucci', 'I Bacivarov', 'G Goossens']
+     Venue arXiv preprint arXiv …
+     Year 2013
+     Abstract Ezudheen et al (2009) “Parallelizing SystemC kernel for fast hardware simulation on SMP machines” is one of the early works describing  to custom ASIP, optimized for specific scientific applications (specifically for LQCD and PSSN in the EURETILE case studies), and/or
+     Url https://arxiv.org/abs/1305.1459
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Model checking electronic commerce protocols
+     Author ['N Heintze', 'JD Tygar', 'J Wing']
+     Venue Proc. of the USENIX 1996 …
+     Year 1996
+     Abstract It has been adopted by the hardware community to complement the tra- ditional validation method of hardware simulation  3 Two Case Studies  1Use of formal methods to demonstrate protocol security has attracted wide attention { we cannot survey all the results in a brief paper
+     Url https://static.usenix.org/publications/library/proceedings/ec96/full_papers/wong/wong.ps
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Requirements specification and analysis of fault-tolerant digital systems
+     Author ['VRL Shen', 'FHC Shen']
+     Venue … on Systems, Man, and Cybernetics-Part …
+     Year 2002
+     Abstract at one or zero faults) using appropriate hardware fault-tolerant techniques [3]. Less researchers focus their attention on developing formal methods for high  An important issue in cosimulation is how to combine behavioral hardware simulation into a software runtime environment
+     Url https://ieeexplore.ieee.org/abstract/document/995536/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Verification of scheduling in the presence of loops using uninterpreted symbolic simulation
+     Author ['P Ashar', 'A Raghunathan', 'S Bhattacharya']
+     Venue US Patent 7,383,166
+     Year 2008
+     Abstract Design Automation Conf, June 1998 and J. Kukula, T. Shiple, and A. Aziz, “Implicit state enumeration for FSMs with datapaths,” in Proc. Formal Methods in Computer Aided Design, November 1998  Formal Methods in Computer Aided Design, pp
+     Url https://patents.google.com/patent/US7383166B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Appendix A: A functional programming approach to hardware acceleration of algorithms
+     Author ['M Sheeran']
+     Venue NA
+     Year NA
+     Abstract Use these as guiding case studies (along with prefix networks) in the following tasks  Types and type families for hardware simulation and synthesis: The internals and externals of kansas lava  In Formal Methods in Computer-Aided Design, FMCAD, volume 3312 of LNCS
+     Url https://wiki.portal.chalmers.se/cse/uploads/Research/MSVR11.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Model based design for automobile external lighting systems
+     Author ['JH Neme', 'MMD Santos', 'ELS Teixeira']
+     Venue NA
+     Year 2015
+     Abstract SIL) encompasses flexible simulation and low cost procedure once compared to hardware simulation  integration of cyber-physical systems: An adaptive cruise control case study,” Journal of  J., Kapinski, K.Ueda, K. Butts., “Challenges of Applying Formal Methods to Automotive
+     Url https://www.sae.org/publications/technical-papers/content/2015-36-0374/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Predictability for timing and temperature in multiprocessor system-on-chip platforms
+     Author ['L Thiele', 'L Schor', 'I Bacivarov', 'H Yang']
+     Venue ACM Transactions on Embedded …
+     Year 2013
+     Abstract 48:3 analysis model is presented in Section 6 and finally, Section 7 presents case studies to highlight the viability of our methods  model evaluation thermal / timing metrics software synthesis execution on hardware simulation on virtual Platform T Fig
+     Url https://dl.acm.org/doi/abs/10.1145/2435227.2435244
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Distributed simulation of asynchronous hardware: the program driven synchronization protocol
+     Author ['GK Theodoropoulos']
+     Venue Journal of Parallel and Distributed Computing
+     Year 2002
+     Abstract Page 1. 622 ⁄ 0743-7315/02 $35.00 © 2002 Elsevier Science (USA) All rights reserved. Journal of Parallel and Distributed Computing 62, 622–655 (2002) doi:10.1006/jpdc.2001.1806, available online at http://www.idealibrary.com on Distributed Simulation of Asynchronous
+     Url https://www.sciencedirect.com/science/article/pii/S0743731501918064
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract V. CASE STUDY ONE .....99 A. METHODOLOGY .....99 1. Develop Requirements and Define Constraints .....99 2. Form an Architecture
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Hardware+simulation"
+     Title Comparison of embedded system models: From signals to transactions
+     Author ['G Funchal']
+     Venue NA
+     Year 2007
+     Abstract 41 3.6 Case study  Functional verification It is extremely difficult to verify that the RTL model will do the right thing in all the possible cases. Many tech- niques are used: logic simulation, formal methods, hard- ware emulation, code checking, and so on
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.545.3235&rep=rep1&type=pdf
+

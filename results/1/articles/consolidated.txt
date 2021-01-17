@@ -1,0 +1,732 @@
+Adoption of agile methods in automotive software development (count 15)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Product+Lines"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Regulated+Domain"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Software+Engineering"', '"Continuous+Integration"+"Regulated+Domain"', '"Continuous+Software+Engineering"+"Regulated+Domain"+"Software+Product+Lines"', '"Regulated+Domain"+"Continuous+Delivery"', '"Continuous+Software+Engineering"+"Regulated+Domain"', '"Continuous+Delivery"+"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"', '"Continuous+Delivery"+"Continuous+Integration"+"Regulated+Domain"']
+
+Future Research. (count 11)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"DevOps"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Towards Continuous Delivery for Domain Experts: Using MDE to Integrate Non-Programmers into a Software Delivery Pipeline (count 9)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Integration"+"DevOps"+"Regulated+Domain"', '"Continuous+Delivery"+"DevOps"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"', '"Regulated+Domain"+"Continuous+Delivery"', '"Continuous+Delivery"+"Continuous+Integration"+"Regulated+Domain"']
+
+CompliancePal: A Tool for Supporting Practical Agile and Regulatory-Compliant Development of Medical Software (count 9)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Regulated+Domain"', '"Continuous+Integration"+"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Software+Engineering"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"', '"Continuous+Software+Engineering"+"Regulated+Domain"', '"Continuous+Software+Engineering"+"DevOps"+"Regulated+Domain"']
+
+To what extent the medical device software regulations can be achieved with agile software development methods? XP—DSDM—Scrum (count 9)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"DevOps"+"Regulated+Domain"', '"Software+Validation"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Validation"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"Software+Validation"', '"Regulated+Domain"+"DevOps"', '"DevOps"+"Regulated+Domain"+"Software+Validation"']
+
+Data driven decision making in Industrial Control Systems (count 9)
+['"DevOps"+"Regulated+Domain"', '"Automation+Systems"+"DevOps"+"Regulated+Domain"', '"Automation+Systems"+"Regulated+Domain"', '"Continuous+Delivery"+"Regulated+Domain"', '"Automation+Systems"+"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Delivery"+"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"', '"Regulated+Domain"+"DevOps"', '"Regulated+Domain"+"Continuous+Delivery"']
+
+The journeys (count 9)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Integration"+"DevOps"+"Regulated+Domain"', '"Continuous+Delivery"+"DevOps"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"', '"Regulated+Domain"+"Continuous+Delivery"', '"Continuous+Delivery"+"Continuous+Integration"+"Regulated+Domain"']
+
+GAME: Global agile model for enterprises (count 9)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Integration"+"DevOps"+"Regulated+Domain"', '"Continuous+Delivery"+"DevOps"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"', '"Regulated+Domain"+"Continuous+Delivery"', '"Continuous+Delivery"+"Continuous+Integration"+"Regulated+Domain"']
+
+Performance analysis strategies for software variants and versions (count 9)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Automation+Systems"+"DevOps"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Enabling continuous software engineering for embedded systems architectures with virtual prototypes (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Software analytics in continuous delivery: a case study on success factors (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Continuous practices: a strategic approach to accelerating the software production system (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+An Introduction to the DevOps Tool Related Challenges (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Exploring Software Development as an Experiment System: An Interview-Based Qualitative Survey (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Modularization of representative load tests for microservice applications (count 6)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"', '"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Validation"']
+
+Searching for common ground: existing literature on automotive agile software product lines (count 5)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Product+Lines"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Searching for Common Ground: Existing Literature on Automotive Agile Software Product Lines (count 5)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Product+Lines"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Real-Life challenges in automotive release planning (count 5)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Product+Lines"', '"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Transition towards continuous delivery in the healthcare domain (count 5)
+['"DevOps"+"Regulated+Domain"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Delivery"+"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"', '"Regulated+Domain"+"Continuous+Delivery"']
+
+21 CFR part 11: Complete guide to international computer validation compliance for the pharmaceutical industry (count 5)
+['"Software+Validation"+"FDA+Requirement"', '"Automation+Systems"+"FDA+Requirement"', '"FDA+Requirement"+"Automation+Systems"', '"FDA+Requirement"+"Software+Validation"', '"Automation+Systems"+"FDA+Requirement"+"Software+Validation"']
+
+Extending extreme programming to support life sciences regulations (count 5)
+['"Software+Validation"+"FDA+Requirement"', '"Continuous+Integration"+"FDA+Requirement"+"Software+Validation"', '"Continuous+Integration"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"', '"FDA+Requirement"+"Continuous+Integration"']
+
+Continuous deployment of software intensive products and services: A systematic mapping study (count 5)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"']
+
+Software development using DevOps tools and CD pipelines, A case study (count 5)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"']
+
+Software Project Services using Infrastructure-as-Code (count 5)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"']
+
+An Ontological Approach to Autonomous Navigational Decision Making in Aircraft Systems (count 5)
+['"Automation+Systems"+"Regulated+Domain"', '"Software+Validation"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"', '"Regulated+Domain"+"Software+Validation"', '"Automation+Systems"+"Regulated+Domain"+"Software+Validation"']
+
+Definition of flexibility products for multilateral electricity markets (count 5)
+['"Automation+Systems"+"Regulated+Domain"', '"Continuous+Delivery"+"Regulated+Domain"', '"Automation+Systems"+"Continuous+Delivery"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"', '"Regulated+Domain"+"Continuous+Delivery"']
+
+Conformance to medical device software development requirements with XP and Scrum implementation (count 5)
+['"Regulated+Domain"+"Continuous+Integration"', '"Software+Validation"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"+"Software+Validation"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"Software+Validation"']
+
+Quality requirements elicitation by ideation of product quality risks with design thinking (count 5)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Delivery"+"Regulated+Domain"', '"Continuous+Integration"+"Regulated+Domain"', '"Regulated+Domain"+"Continuous+Delivery"', '"Continuous+Delivery"+"Continuous+Integration"+"Regulated+Domain"']
+
+Automatic GUI test generation for smartphone applications-an evaluation (count 5)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"', '"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"', '"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Automation tools in software development and production (count 4)
+['"Automation+Systems"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Test generation from captured user interface status (count 4)
+['"Automation+Systems"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Product+Lines"+"Software+Validation"', '"Automation+Systems"+"DevOps"+"Software+Product+Lines"', '"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Modernization of software delivery operations: engineering quality into software (count 4)
+['"Automation+Systems"+"DevOps"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+On the development of IoT systems (count 4)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"']
+
+A process-oriented build tool for safety-critical model-based software development (count 4)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"']
+
+Application of a Process-Oriented Build Tool for Flight Controller Development Along a DO-178C/DO-331 Process (count 4)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"']
+
+On Provably Correct Decision-Making for Automated Driving (count 4)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Delivery"+"Continuous+Software+Engineering"']
+
+Choosing a tool for improved software test management (count 4)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"', '"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"', '"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Contribution to the Engineering of User Interfaces (count 3)
+['"Continuous+Delivery"+"Software+Product+Lines"+"Software+Validation"', '"Continuous+Delivery"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Product+Lines"+"Software+Validation"']
+
+From AutomationML to ROS: A model-driven approach for software engineering of industrial robotics using ontological reasoning (count 3)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+An empirical approach to recommend best practices for successful software products (count 3)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Integration"+"Continuous+Software+Engineering"']
+
+Exploring Virtual Reality as an Integrated Development Environment for Cyber-Physical Systems (count 3)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"DevOps"']
+
+Ontology-based artefact management in automotive electronics (count 3)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Variability management challenges in small and medium sized enterprises (SMEs) (count 3)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"', '"Automation+Systems"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+INTRODUCTION TO SOFTWARE PRODUCT QUALITY (count 3)
+['"Continuous+Software+Engineering"+"Software+Product+Lines"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"']
+
+Assessing and evaluating functional suitability of software (count 3)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Validation"', '"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"']
+
+Testing robot controllers using constraint programming and continuous integration (count 3)
+['"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"']
+
+Testing Robotics Software using Constraint Programming in a Continuous Integration Process (count 3)
+['"Continuous+Software+Engineering"+"Software+Validation"', '"Continuous+Integration"+"Continuous+Software+Engineering"+"Software+Validation"', '"Software+Validation"+"Continuous+Software+Engineering"']
+
+Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts (count 3)
+['"Automation+Systems"+"DevOps"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Trusted product lines (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Towards cost-effective high-assurance software product lines: The need for property-preserving transformations (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Flexible software process lines in practice: A metamodel-based approach to effectively construct and manage families of software process models (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Innersourcing (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Inner source project management (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Key factors for adopting inner source (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Key Factors for Adopting Inner Source (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Interlocking Safety Cases for Unmanned Autonomous Systems in Shared Airspaces (count 2)
+['"Regulated+Domain"+"Software+Product+Lines"', '"Software+Product+Lines"+"Regulated+Domain"']
+
+Management of type 2 diabetes mellitus in older patients: current and emerging treatment options (count 2)
+['"Continuous+Delivery"+"FDA+Requirement"', '"FDA+Requirement"+"Continuous+Delivery"']
+
+Improvement of Current Pharmaceutical Manufacturing Systems Utilizing Practices from Outside Industries (count 2)
+['"Continuous+Delivery"+"FDA+Requirement"', '"FDA+Requirement"+"Continuous+Delivery"']
+
+Treatment of Hypogonadism in Men (count 2)
+['"Continuous+Delivery"+"FDA+Requirement"', '"FDA+Requirement"+"Continuous+Delivery"']
+
+Managing the Complexity of Processing Financial Data at Scale-An Experience Report (count 2)
+['"DevOps"+"Regulated+Domain"', '"Regulated+Domain"+"DevOps"']
+
+Software verification and validation (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Coping with defective software in medical devices (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Open core control software for surgical robots (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+A framework for assessing the use of third-party software quality assurance standards to meet FDA medical device software process control guideline's (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Medical device standards' requirements for traceability during the software development lifecycle and implementation of a traceability assessment model (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Investigating the capability of agile processes to support life-science regulations: the case of XP and FDA regulations with a focus on human factor requirements (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Investigation of traceability within a medical device organization (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Risk-Based Validation of Commercial Off-the-Shelf Computer Systems (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Part 11 and Computer Validation Guidebook (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Integrating failure mode effect analysis into the medical device approval process (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Agency-wide strategy for electronic reporting and recordkeeping, EPA, 232-234 Aggregate risk assessment in FQPA, 152-157 (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Regulatory issues in chromatographic analysis in the pharmaceutical industry (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Edward D. Helton, Ph. D., SAS® Institute Inc., Cary, NC Patricia B. Halley, SAS® Institute Inc., Cary, NC (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Spectroscopy Focus (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+The Next Wave: Federal Regulatory, Intellectual Property, and Tort Liability Considerations for Medical Device Software (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+The Next Wave: Federal Regulatory, Intellectual Property, and Tort Liability Considerations for Medical Device Software, 2 J. Marshall Rev. Intell. Prop. L. 259 … (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Cost-contained regulatory compliance: for the pharmaceutical, biologics, and medical device industries (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Int J CARS (2009) 4 (Suppl 1): S374–S381 (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+B16 Automation, Process Analytical Technology, and Prospective Testing (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Regulatory Requirements for Investigational New Drug (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Current good manufacturing practice (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Preempting the Artificially Intelligent Machine (count 2)
+['"Software+Validation"+"FDA+Requirement"', '"FDA+Requirement"+"Software+Validation"']
+
+Strategies for the Conceptual Design of Federated Information Systems. (count 2)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"']
+
+Collaboration between Service and R and D Organizations–Two Cases in Automation Industry (count 2)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"']
+
+Co-Engineering Gap Analysis of ANSI/ISA‑62443‑3‑3 (count 2)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"']
+
+Studying information technology in organizations: Research approaches and assumptions (count 2)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"']
+
+Engineering Federated Information Systems: Proceedings of the 3rd Workshop, EFIS 2000, June 19-20, 2000, Dublin (Ireland) (count 2)
+['"Continuous+Software+Engineering"+"Automation+Systems"', '"Automation+Systems"+"Continuous+Software+Engineering"']
+
+Continuous delivery: Huge benefits, but challenges too (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous delivery: Overcoming adoption challenges (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Variability middleware for multi-tenant SaaS applications: a research roadmap for service lines (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous testing and solutions for testing problems in continuous delivery: A systematic literature review (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous Delivery of Customized SaaS Edge Applications in Highly Distributed IoT Systems (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Towards holistic continuous software performance assessment (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous and collaborative technology transfer: Software engineering research with real-time industry impact (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous Delivery: Huge Benefits, But Challenges Too (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Software reuse and continuous software development: A systematic mapping study (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Continuous integration, delivery and deployment: a systematic review on approaches, tools, challenges and practices (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+The future of software development methods (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Survey and Requirements of Risk-driven Continuous Delivery of (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+We're doing it live: A multi-method empirical study on continuous experimentation (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+A Model-driven Approach to Continuous Practices for Modern Cloud-based Web Applications (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+An empirical study of architecting and organizing for DevOps (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+How PHP Releases Are Adopted in the Wild? (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Frequent releases in open source software: A systematic review (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Quality management challenges in iterative software product development of a selected software development organisation in Cape Town, South Africa (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+A hybrid DevOps process supporting software reuse: A pilot project (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+ASCIENTIAE RERUM (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+End-to-end testing on Web Experience Management Platform (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+The Development and Implementation of Model-Driven Software Configuration Management Solutions (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+DevOps in Finland-Study of Practitioners' Perception (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Challenges of Large-ScaleSoftware Testing and the Role of Quality Characteristics: Empirical Study (count 2)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"', '"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Structured natural language requirements in nuclear energy domain towards improving regulatory guidelines (count 2)
+['"Automation+Systems"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"']
+
+Operator experiences on working in screen-based control rooms (count 2)
+['"Automation+Systems"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"']
+
+The impact of shipping accidents on marine environment: A study of Turkish seas (count 2)
+['"Automation+Systems"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"']
+
+RoadmapTechnical Report (count 2)
+['"Automation+Systems"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"']
+
+Reliability on the Move: Safety and reliability in transportation (count 2)
+['"Automation+Systems"+"Regulated+Domain"', '"Regulated+Domain"+"Automation+Systems"']
+
+The application of a lean software development methodology within the regulated domain of medical device software (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Design and implementation of a remote care application based on microservice architecture (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Release Planning in a Hybrid Project Environment (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Limits to verification and validation of agentic behavior (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Identification and Analysis of a Genetic Locus, Tblvi-1, Frequently Disrupted by Retroviral Integration in Murine Thymic Lymphomas (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Key Stakeholders' Value Propositions for Feature Selection in Software-intensive Products: An Industrial Case Study (count 2)
+['"Regulated+Domain"+"Continuous+Integration"', '"Continuous+Integration"+"Regulated+Domain"']
+
+Trials and Tribulations of the Global Software Engineering Process: Evolving with Your Organisation (count 2)
+['"Software+Validation"+"Regulated+Domain"', '"Regulated+Domain"+"Software+Validation"']
+
+Differential binding of chemokines CXCL1, CXCL2 and CCL2 to mouse glomerular endothelial cells reveals specificity for distinct heparan sulfate domains (count 2)
+['"Software+Validation"+"Regulated+Domain"', '"Regulated+Domain"+"Software+Validation"']
+
+Rational Business Driven Development for Compliance (count 2)
+['"Software+Validation"+"Regulated+Domain"', '"Regulated+Domain"+"Software+Validation"']
+
+Modeling languages in Industry 4.0: an extended systematic mapping study (count 2)
+['"Automation+Systems"+"DevOps"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"']
+
+Automated UAV Testing (count 2)
+['"Automation+Systems"+"Continuous+Delivery"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Embedded Software: Striving for excellence in development (count 2)
+['"Automation+Systems"+"Continuous+Delivery"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Apparatus and method for wireless process control (count 2)
+['"Automation+Systems"+"FDA+Requirement"', '"FDA+Requirement"+"Automation+Systems"']
+
+EUPASS Technology Roadmap V. 2.0 (count 2)
+['"Automation+Systems"+"FDA+Requirement"', '"FDA+Requirement"+"Automation+Systems"']
+
+AUTOMATION OF A CLOUD HOSTED APPLICATION: Performance, Automated Testing, Cloud Computing (count 2)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"', '"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Agile construction and evolution of product-line architectures (count 2)
+['"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Context-Aware Integrability and Maintainability of Cyber-Physical Ecosystems: Tactics and Tools (count 2)
+['"Automation+Systems"+"Continuous+Delivery"+"Software+Product+Lines"', '"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+An Exploratory Study on Migrating Single-Products towards Product Lines in Startup Contexts (count 1)
+['"Continuous+Delivery"+"Software+Product+Lines"+"Software+Validation"']
+
+A New Approach to Feature-based Test Suite Reduction in Software Product Line Testing. (count 1)
+['"Continuous+Delivery"+"Software+Product+Lines"+"Software+Validation"']
+
+Electronic Control Unit Software Development Management System (count 1)
+['"Continuous+Delivery"+"Software+Product+Lines"+"Software+Validation"']
+
+Towards Utilization of Lean Canvas in the DevOps Software (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Continuous integration in validation of modern, complex, embedded systems (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Software release planning (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+DevOps: are you pushing bugs to your clients faster (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Evaluating gates for software in pipeline delivery (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Comparing DevOps procedures from the context of a systems engineer (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Software Quality Assurance in INDIGO-DataCloud Project: a Converging Evolution of Software Engineering Practices to Support European Research e-Infrastructures (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Software Quality Assurance in INDIGO-DataCloud project: a converging evolution of software engineering practices to support European Research e-Infrastructures (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+The Way Forward (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+An experience report on the adoption of microservices in three Brazilian government institutions (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Teaching testing to programmers. What sticks, and what slides off? A journey from Teflon to Velcro. (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+A hybrid assessment approach for medical device software development companies (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Emerging software testing technologies (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Literature review of test automation models in Agile testing (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+9th Inverted CERN School of Computing (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Audition: a DevOps-oriented quality control and testing framework for cloud environments (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Software Engineering: Practical Approach Driven (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Getting Started with Chaos Engineering-design of an implementation framework in practice (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Methodological Support for Task Coordination in Global Software Engineering Projects at Product Software Companies (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+A Container-based architecture for accelerating software tests via setup state caching and parallelization (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Monitoring modern distributed software applications: challenges and solutions (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+An Anti-Malware Product Test Orchestration Solution for Multiple Pluggable Environments (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Testing microservice applications (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+System and method for integration, testing, deployment, orchestration, and management of applications (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Process Mining Concepts for Discovering User Behavioral Patterns in Instrumented Software (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+IEEE Cloud Computing Special Issue on Cloud Security (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Research as code: Instrumenting scientific computing as executable containers (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+System and method for rapid and asynchronous multitenant telemetry collection and storage (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+System and method for management of deployed services and applications (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+System and method for real-time asynchronous multitenant gateway security (count 1)
+['"Continuous+Delivery"+"DevOps"+"Software+Validation"']
+
+Climbing the “Stairway to Heaven”: evolving from agile development to continuous deployment of software (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Quality Aspects of Continuous Delivery in Practice (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Continuous experimentation and a/b testing: A mapping study (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Agility and Quality Attributes in Open Source Software Projects Release Practices (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Towards prioritizing Architecture Technical Debt: information needs of architects and product owners (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Hitting the target: practices for moving toward innovation experiment systems (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+The manager perspective on requirements impact on automotive systems development speed (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Hitting the Target: Practices and Steps for Moving Towards Innovation Experiment Systems (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Straddling the crevasse: A review of microservice software architecture foundations and recent advancements (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+The impact of requirements on systems development speed: a multiple-case study in automotive (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Shared Tools in Software Organizations: An Empirical Investigation (count 1)
+['"Continuous+Delivery"+"Continuous+Software+Engineering"+"Software+Product+Lines"']
+
+Current and Future Challenges of Software Engineering for Services and Applications. (count 1)
+['"DevOps"+"Software+Product+Lines"+"Software+Validation"']
+
+Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings (count 1)
+['"DevOps"+"Software+Product+Lines"+"Software+Validation"']
+
+A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems (count 1)
+['"DevOps"+"Software+Product+Lines"+"Software+Validation"']
+
+Design for future: managed software evolution (count 1)
+['"Automation+Systems"+"DevOps"+"Software+Product+Lines"']
+
+Introduction to Security and Quality Improvement in Complex Cyber-Physical Systems Engineering (count 1)
+['"Automation+Systems"+"DevOps"+"Software+Product+Lines"']
+
+Strategies to overcome challenges when implementing an Enterprise Engineering Innovation Life-cycle (count 1)
+['"Automation+Systems"+"DevOps"+"Software+Product+Lines"']
+
+Testing and verification of neural-network-based safety-critical control software: A systematic literature review (count 1)
+['"Automation+Systems"+"Continuous+Delivery"+"Software+Validation"']
+
+Foundations for event-based process analysis in heterogeneous software engineering environments (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Robotic arm based 3D reconstruction test automation (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Dynamic evacuation guidance as safety critical application in building automation (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Leveraging continuous integration in space avionics-a design using declarative build automation paradigm (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+The New-Generation Toolset Providing Comprehensive Support for Mission Operations Preparation and Validation (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Providing code change job sets of different sizes to validators (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Improving Software Quality Assurance for Meter Data Management System: A Runtime Verification Approach (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Framework for improved capture of usability requirements through usage-centred design (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Design, implementation and use of a test model library for GUI testing of smartphone applications (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Validation"']
+
+Towards software sustainability guidelines for long-living industrial systems (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Software engineering in industrial automation: State-of-the-art review (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Evolution of software in automated production systems: Challenges and research directions (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Maintainability and evolvability of control software in machine and plant manufacturing—An industrial survey (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Modularity and Architecture of PLC-based Software for Automated Production Systems: An analysis in industrial companies (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+AGENT BASED SYSTEMS IN SOFTWARE TESTING–A SYSTEMATIC MAPPING STUDY (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Indirect effects in evidential assessment: a case study on regression test technology adoption (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Development of Domestic Programming Technology (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Informatics: Formation of computer software and technologies of software systems (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Quality Needs Structure: Industrial Experiences in Systematically Defining Software Security Requirements (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Agent-Based Software Testing: A Definition and Systematic Mapping Study (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Barriers To Radical Innovations As Stable Designs: Insights From An It Case Study (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Code routine performance prediction using test results from code integration tool (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Learning from Evolution for Evolution (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+A Framework for Industry 4.0 (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Automatic Tailoring of the Multi-Purpose Linux Operating System on Embedded Devices (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+D5. 1 OpenReq Approach for Requirements Knowledge and Dependency Management (count 1)
+['"Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"']
+
+Software engineering for self-adaptive systems: A second research roadmap (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Automated Regression Testing Using Constraint Programming. (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Evolving dynamic self-adaptation policies of mHealth systems for long-term monitoring (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Software Engineering for Self-Adaptive Systems: A Second Research Roadmap (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Testing embedded software: A survey of the literature (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Software Engineering for Self-Adaptive Systems II (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Prioritizing browser environments for web application test execution (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Software Engineering for Self-Adaptive Systems: International Seminar Dagstuhl Castle, Germany, October 24-29, 2010 Revised Selected and Invited Papers (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Systems, methods, and computer program products for a software build and load process using a compilation and deployment service (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+Transforming: Business, Business, Security Security, Warfighting (count 1)
+['"Continuous+Integration"+"Software+Product+Lines"+"Software+Validation"']
+
+The applications of SFTA and SFMEA approaches during software development process: an analytical review (count 1)
+['"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Towards a Cost Model for Domain-Specific Language (count 1)
+['"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Traceability of Concerns and Observer-Based Verification for Railway Safety-Critical Software (count 1)
+['"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+the German Research Training Groups in Computer Science (count 1)
+['"Automation+Systems"+"Software+Product+Lines"+"Software+Validation"']
+
+Modeling DevOps deployment choices using process architecture design dimensions (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Promote-pl: a round-trip engineering process model for adopting and evolving product lines (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Summary of the International Conference on Software andSystem Processes (ICSSP 2018) (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Feasibility predictability model for software test automation projects in DevOps setting (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+DevOps Project Management Tools for Sprint Planning, Estimation and Execution Maturity (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Modeling Software Process Configurations for Enterprise Adaptability. (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+The nature of software evolution (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+ICSSP 2018—Special issue introduction (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Self-service cybersecurity monitoring as enabler for DevSecOps (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Proceedings of the 13th European Conference on Software Architecture,{ECSA} 2019, Companion Proceedings (Proceedings Volume 2) (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+The Architect's Role in Software Ecosystems Health (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+ITI43414 Advanced topics in information systems (Spring 2019) (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings … (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Automotive software architectures (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Formal Software Architectural Migration Towards Emerging Architectural Styles (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Middleware for customizable multi-staged dynamic upgrades of multi-tenant saas applications (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+
+Automated management of undesired code use based on predicted valuation and risk analysis (count 1)
+['"Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"']
+

@@ -1,0 +1,361 @@
+Showing papers for search query "Automation"+"DevOps"+"Regulated+Environment"
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract 3 RESULTS Page 5. DevOps in an ISO 13485 Regulated Environment ESEM'20, October, 2020, Bari, Italy  Blockchain. An emerging idea is to introduce blockchain technology when setting up the automation part of DevOps, as proposed by the software company Cognizant
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE
+     Author ['D Shepard']
+     Venue NA
+     Year 2018
+     Abstract What is HRE? • Highly-Regulated Environment (DoD, Health, Finance, etc) • Air-gapped computer system  SATURN 2018 DevOps in HRE Assessment; Overview  shadowing) • Demonstrations of any software tools used for automation of software development and
+     Url https://apps.dtic.mil/sti/citations/AD1086793
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract 20 7.﻿﻿ Accurate﻿production﻿environment﻿replication 8.﻿﻿ End﻿user﻿feedback﻿loop 9.﻿﻿ Automation 10.﻿﻿Software﻿artifact﻿versioning  1.﻿﻿ Detail﻿ the﻿ process﻿ of﻿ conducting﻿ a﻿ DevOps﻿ assessment﻿ for﻿ a﻿ highly﻿ regulated﻿ environment﻿(HRE)
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Component Analysis of DevOps and DevSecOps
+     Author ['JK Hong']
+     Venue Journal of the Korea Convergence Society
+     Year 2019
+     Abstract www.devsecops.org [10] J. Morales. (2019). Establishing the preassessment DevOps Posture of an SDLC in a highly regulated environment: Third in a Series  (2019). DevOps Trends 2019: DevSecOps, Automation, and More To Attract All The Attention. Dzone [Online]
+     Url https://www.koreascience.or.kr/article/JAKO201928862523841.page
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Security impacts of sub-optimal DevSecOps implementations in a highly regulated environment
+     Author ['JA Morales', 'TP Scanlon', 'A Volkmann']
+     Venue Proceedings of the 15th …
+     Year 2020
+     Abstract Security Impacts of Sub-Optimal DevSecOps Implementations in a Highly Regulated Environment  Software security activities in a DSO pipeline assures the integrity of the tests with all inputs known and logged, repeatability of tests through automation, visibility of the security
+     Url https://dl.acm.org/doi/abs/10.1145/3407023.3409186
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract This means that code no longer can be “thrown over the wall” to operations. • Automation— DevOps relies on full automation of the build, deployment and testing in order to achieve short lead times, and consequently rapid delivery and feedback from end-users. •
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Agile application lifecycle management: Using DevOps to drive process improvement
+     Author ['B Aiello', 'L Sachs']
+     Venue NA
+     Year 2016
+     Abstract 1.4.5 Rapid Iterative Development 1.4.6 Core Configuration Management Best Practices 1.4.7 Automation 1.4.8 Continuous Integration 1.4.9 Continuous Deployment 1.4.10 Change Management 1.4.11 IT Operations 1.4.12 DevOps 1.4.13 Retrospectives 1.4.14 IT Governance
+     Url https://books.google.com/books?hl=en&lr=&id=zMY_DAAAQBAJ&oi=fnd&pg=PT26&dq=%22Automation%22+%22DevOps%22+%22Regulated+Environment%22&ots=YEEZ2yLkNe&sig=annQcm0dZBiHWtnUeT7Q7DcUfVE
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Guide to Implementing DevSecOps for a System of Systems in Highly Regulated Environments
+     Author ['J Morales', 'R Turner', 'S Miller', 'P Capell', 'P Place']
+     Venue NA
+     Year NA
+     Abstract Figure 5: Automation in DevOps  For engineers, the main use of a pipeline is to build, test, and deliver code through automation and continuous iterative processes. A pipeline is the technical implementation of DevOps principles
+     Url https://kilthub.cmu.edu/articles/journal%20contribution/Guide_to_Implementing_DevSecOps_for_a_System_of_Systems_in_Highly_Regulated_Environments/12363770/1
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Ovum Decision Matrix: Selecting an Application Lifecycle Management Solution, 2016–17
+     Author ['M Azoff']
+     Venue NA
+     Year 2016
+     Abstract ODM coverage, Ovum examines in depth the role of ALM in systems of systems and engineered product manufacturing, as well as in traditional enterprise IT and regulated environment software development  DevOps release management and automation will transform
+     Url https://intland.com/wp-content/uploads/2016/03/Intland_SWOT_Selecting-an-Application-Lifecycle-Management-Solution_2016%E2%80%9317.pdf
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Scrum at Scale in a COBIT Compliant Environment: The Case of Turkiye Finans IT
+     Author ['N Ozkan', 'A Tarhan', 'C Kucuk']
+     Venue City
+     Year 2017
+     Abstract The transformation had also to take place in a highly regulated environment driven by COBIT (Control Objectives for  This is why the need of test automation that is in the Bank's short term plans  And, for the time being, we have started work on “devops” to fasten and smooth the
+     Url https://www.researchgate.net/profile/Necmettin_Ozkan/publication/316826906_SCRUM_at_a_Scale_in_a_COBIT_Compliant_Environment_The_Case_of_Turkiye_Finans_IT/links/5954f8920f7e9b2da1b3bd74/SCRUM-at-a-Scale-in-a-COBIT-Compliant-Environment-The-Case-of-Turkiye-Finans-IT.pdf
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title System and method for tracking and authenticating code transition during phases of development and deployment
+     Author ['R Chandrasekaran', 'K Vedagiri']
+     Venue US Patent App. 16/114,395
+     Year 2020
+     Abstract in regulated industries have to comply with a host of regulatory guidelines that makes enterprise automation and DevOps transformation extremely challenging with existing set of tools and technologies. Moreover, implementing DevOps in regulated environment to ensure
+     Url https://patents.google.com/patent/US20200012779A1/en
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Continuous delivery sounds great, but will it work here?
+     Author ['J Humble']
+     Venue Queue
+     Year 2017
+     Abstract platform-as-a-service (PaaS) can also provide significant benefits in a highly regulated environment  with a large and ongoing investment by the team in test automation and continuous  this case study, see Leading the Transformation: Applying Agile and DevOps Principles at
+     Url https://dl.acm.org/doi/pdf/10.1145/3178368.3190610
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Proceedings of the 1st International Workshop on …
+     Year 2014
+     Abstract Operations Development Business Strategy DevOps BizDev  Furthermore, there is usually some level of automation of the testing process and a prioritization of test cases [39]  [22] discuss the tailoring of the Scrum method for a regulated environment, R-Scrum as it is termed
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Healthcare Application Migration in Compliant Hybrid Clouds
+     Author ['A Sailer', 'B Yang', 'S Jain', 'AE Tomala-Reyes']
+     Venue … Conference on Service …
+     Year 2018
+     Abstract IBM Cloud provides PaaS DevOps services which speed-up the development, building, and  the migration as the solution to archive healthcare application deployment in regulated environment  Our implementation in UCD covers the automation of the main migration steps
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03596-9_52
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Co-Creating Knowledge Work Automation Content
+     Author ['N Veselinovic']
+     Venue NA
+     Year 2017
+     Abstract Page 1. Co-Creating Knowledge Work Automation Content Veselinovic, Nenad  Laurea University of Applied Sciences Co-creating Knowledge Work Automation Content Veselinovic Nenad Degree Programme in Service Innovation And Design Master's Thesis February, 2017
+     Url https://www.theseus.fi/handle/10024/122868
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Software Engineering Education in the New World: What Needs to Change?
+     Author ['M Bass']
+     Venue 2016 IEEE 29th International Conference on Software …
+     Year 2016
+     Abstract the business model, the domain, who the customers were, if it was a regulated environment, and so  on infrastructure owned by the consumer (as in the case of a building automation system)  Movements such as devops [4, 5, 10, 17] and chaos engineering [19] embody this idea
+     Url https://ieeexplore.ieee.org/abstract/document/7474486/
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Magic Quadrant for Enterprise Agile Planning Tools
+     Author ['KJ Mann', 'TE Murphy', 'M West']
+     Venue Gartner, Inc
+     Year 2018
+     Abstract of the planned software and maps that model to stories, test plans and deployment automation  DevOps product and brings excellent visibility to stories through the DevOps toolchain  Siemens if you are creating systems in a quality- sensitive, regulated environment using agile
+     Url https://aptasolutions.com/wp-content/uploads/2020/06/Rally-Software-Gartner-2020.pdf
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Security in Rail IoT Systems: An IoT Solution for New Rail Services
+     Author ['FP Ayuso', 'D Batista', 'D Maldonado']
+     Venue … Learning Strategies for …
+     Year 2020
+     Abstract The railway market is a regulated environment which must guarantee the safety and security of  Assurance of Trustworthy Smart IoT Systems) project intends to introduce the DevOps movement by  is X2Rail-1 (Start-up activities for Advanced Signalling and Automation Systems)
+     Url https://www.igi-global.com/chapter/security-in-rail-iot-systems/258896
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Automated evaluation and reporting of microservice regulatory compliance
+     Author ['M Alagappan', 'MR Wojcik']
+     Venue US Patent 10,713,664
+     Year 2020
+     Abstract US10713664B1 - Automated evaluation and reporting of microservice regulatory compliance - Google Patents. Automated evaluation and reporting of microservice regulatory compliance. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US10713664B1/en
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title From agile to continuous development in the healthcare domain: lessons learned
+     Author ['W Stocker']
+     Venue Proceedings of the 40th International Conference on …
+     Year 2018
+     Abstract Achieving agile for products that are in a regulated environment is significantly more challenging, due for  Therefore we started by building in resiliency with automation (night-run tests) and  development aiming towards faster releases and getting closer to a DevOps ap- proach
+     Url https://dl.acm.org/doi/abs/10.1145/3183519.3183552
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title IT in Transition
+     Author ['P Enness', 'A Graham']
+     Venue Equity Markets in Transition
+     Year 2017
+     Abstract This automation is driving cloud computing and the developer operations (DevOps) revolution which is a response to the  Automation also reduces cost over time and, done well, this offers a repeatable and controlled outcome that is vital in a highly regulated environment
+     Url https://link.springer.com/chapter/10.1007/978-3-319-45848-9_18
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Tool Support for Software Processes
+     Author ['R Kneuper']
+     Venue Software Processes and Life Cycle Models
+     Year 2018
+     Abstract about who is allowed to change the process assets, while an individual project in a non-regulated environment will tend  The automation of software deployment using suitable tools has become an important topic over the last few years, mainly in the context of DevOps (cf
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98845-0_7
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Případová studie a protypová implementace aplikace strojového učení v ALM Polarion
+     Author ['M Sláma']
+     Venue NA
+     Year 2018
+     Abstract This comes hand in hand with automation in the form of ML that elevates the user experience and reporting to the next level  Auditability through traceability and accountability. • Quality through transparency and automation. • Innovation through unlocked team synergy
+     Url https://dspace.cvut.cz/handle/10467/76166
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Exploring the Encounter of ContinuousDeployment and the Financial Industry
+     Author ['F FRIE', 'G HAMMMARLUND']
+     Venue NA
+     Year 2016
+     Abstract 39 iv Page 11. 5.3 Organising Software Development . . . . . 41 5.4 Innovation in Regulated Environment . . . . . 43 5.5 Summary . . . . . 46 6 Analysis 47 6.1 Automation . . . . . 48 6.1.1 Testing
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:948740
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Enable more frequent integration of software in industry projects
+     Author ['T Mårtensson', 'D Ståhl', 'J Bosch']
+     Venue Journal of Systems and Software
+     Year 2018
+     Abstract Two of the papers (Seth and Khare, 2015; Woehrle et al., 2009) also discuss automation of the build and test process to enable fast feedback. Another six papers touch upon the topic of testing on real hardware, but do not describe it as a problem or a limitation
+     Url https://www.sciencedirect.com/science/article/pii/S0164121218300906
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems
+     Author ['K Hirvikoski']
+     Venue NA
+     Year 2015
+     Abstract Page 1. Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems Kasper Hirvikoski Master's thesis UNIVERSITY OF HELSINKI Department of Computer Science Helsinki, April 20, 2015 Page 2. Faculty of Science
+     Url https://helda.helsinki.fi/handle/10138/156665
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Banking in the cloud: Part 1–banks' use of cloud services
+     Author ['WK Hon', 'C Millard']
+     Venue Computer law & security review
+     Year 2018
+     Abstract There is also an issue regarding the right types of skills, particularly in security, as banks' developers move increasingly from a “waterfall” to an agile, “devops” world; a “massive change”  More generally, a problem is evolving “devops for cloud”, not just cloud security. 3.3.4.3
+     Url https://www.sciencedirect.com/science/article/pii/S0267364917303722
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title An empirical study of architecting for continuous delivery and deployment
+     Author ['M Shahin', 'M Zahedi', 'MA Babar', 'L Zhu']
+     Venue Empirical Software Engineering
+     Year 2019
+     Abstract 2015). The other areas of interest in CD research are focused on improving automation in testing and deployment, and integrating performance and security into the deployment process (Shahin et al. 2017a)  2015; 2015 State of DevOps Report 2015; Shahin et al
+     Url https://link.springer.com/article/10.1007/s10664-018-9651-4
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Cours d'Anglais Gratuit
+     Author ['A NOW']
+     Venue NA
+     Year 2000
+     Abstract Page 1. 09/08/2016 Senior Digital Project Manager https://www.executivesontheweb.com/uk/ job_search/job_details.cfm?id=504824 1/1 HOME | FRANCHISES | RECRUITERS
+     Url https://dial.uclouvain.be/memoire/ucl/fr/object/thesis%3A11856/datastream/PDF_04/view
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Development of Generic Communication Middleware for Embedded Sensor Systems Transmitting Health Parameters
+     Author ['S Kailayanathan', 'S Kamdod']
+     Venue NA
+     Year 2020
+     Abstract The most prominent uses of ZigBee is in home automation, medical data collection and industrial control systems wherein the purpose is to collect information or perform control tasks inside a building [13]. A standard ZigBee architecture is shown in Figure 4
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1445042
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Factors influencing the adoption of external web API's: an examination of the uptake of external web API's by Absa Bank (a case study of Absa Bank South Africa).
+     Author ['TT Ndlovu']
+     Venue NA
+     Year 2017
+     Abstract APIs include data transmission, data exchange, data access, and web API design (Newcomer & Lomow, 2005). As they operate in a strictly regulated environment the banking industry has a need to apply controls and standardization beyond technology
+     Url http://ukzn-dspace.ukzn.ac.za/handle/10413/17974
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title " Soft Skills in Online Job Advertisements: an Analysis of British Online Job Ads for Project Managers and System Engineers
+     Author ['N Grandjean', 'S De Cock']
+     Venue NA
+     Year 2000
+     Abstract Page 1. Available at: http://hdl.handle.net/2078.1/thesis:11856 [Downloaded 2019/10/24 at 19:49:21 ] "Soft Skills in Online Job Advertisements : an Analysis of British Online Job Ads for Project Managers and System Engineers" Grandjean, Noémie ABSTRACT
+     Url https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A11856&datastream=PDF_04
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title The Delicate Art of Bureaucracy: Digital Transformation with the Monkey, the Razor, and the Sumo Wrestler
+     Author ['M Schwartz']
+     Venue NA
+     Year 2020
+     Abstract the tables on bureaucracy, offering a practical guide to stripping out a labyrinth of rules and replacing them with simplicity, ease, and automation  we can always think of leaving it on the light side of the force.” —Laura Caceres (Colombia), Operations Director, DevOps LATAM
+     Url https://books.google.com/books?hl=en&lr=&id=qUXcDwAAQBAJ&oi=fnd&pg=PT11&dq=%22Automation%22+%22DevOps%22+%22Regulated+Environment%22&ots=NEF-2fkdaK&sig=36c4t-iFP9SCsGAilGF3yxwHipE
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Persistent {SRE} Antipatterns: Pitfalls On the Road to Creating a Successful {SRE} Program Like Netflix and Google
+     Author ['J Horowitz', 'B Bisset', 'L Carey']
+     Venue NA
+     Year 2017
+     Abstract Niall Sheridan, Intercom. Niall Sheridan is an SRE on Intercom's infrastructure team. His main interests are automation, monitoring, and he loves a good post-mortem. Track 4/5. Meeting Room 9  She is passionate about distributed systems, automation and simplifying things
+     Url https://www.usenix.org/conference/srecon17europe/program
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Technical Report No: 2019-TR-05 GAME: Global Agile Model for Enterprises–Appendix
+     Author ['MA Razzak']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Technical Report No: 2019-TR-05 GAME: Global Agile Model for Enterprises–Appendix Mohammad Abdur Razzak Lero–the Science Foundation Ireland Research Centre for Software Faculty of Science and Engineering Computer Science and Information System
+     Url https://www.lero.ie/sites/default/files/GAME__Global_Agile_Model_for_Enterprises__Appendices_-2.pdf
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Use by banks of cloud computing: An empirical study
+     Author ['WK Hon', 'C Millard']
+     Venue Queen Mary School of Law Legal Studies …
+     Year 2016
+     Abstract Page 1. Use by Banks of Cloud Computing QMUL Cloud Legal Project 1 Queen Mary University of London, School of Law Legal Studies Research Paper No. 245/2016 Use by Banks of Cloud Computing: An Empirical Study W Kuan Hon Christopher Millard Page 2
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2856431
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title AWS Certified SysOps Administrator
+     Author ['S PERROTT', 'BEN PIPER']
+     Venue NA
+     Year NA
+     Abstract Todd currently works as a datacenter network automation engineer in Austin, Texas. He is involved in network implementation and sup- port of emerging datacenter technologies and AWS public cloud services  139 Domain 7 Automation and Optimization 165
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119622857
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Companion to manuscript: Do Scaling Agile Frameworks Address Risk in Global Software Development? An Empirical Study
+     Author ['S Beecham', 'T Clear', 'R Lal', 'J Noll']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Scaling Agile Frameworks and Global Software Development Risk: Supplementary Data Companion to manuscript: Do Scaling Agile Frameworks Address Risk in Global Software Development? An Empirical Study 5th May, 2020 Lero Technical Report No. TR_2020_03
+     Url https://lero.ie/sites/default/files/Beecham_2020_TR003.pdf
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Designed for digital: how to architect your business for sustained success
+     Author ['JW Ross', 'CM Beath', 'M Mocker']
+     Venue NA
+     Year 2019
+     Abstract free. Taxi companies could have offered such a digital technology–inspired customer solution. They could have preempted Uber or even quickly matched Uber's offer- ings (yes, even in their more regulated environment). They
+     Url https://books.google.com/books?hl=en&lr=&id=-2yuDwAAQBAJ&oi=fnd&pg=PR5&dq=%22Automation%22+%22DevOps%22+%22Regulated+Environment%22&ots=jkjmaswR_G&sig=MBg578nOHKEEz6HiI0C32q2pqlc
+
+
+     Search term "Automation"+"DevOps"+"Regulated+Environment"
+     Title Continuous integration and delivery applied to large-scale software-intensive embedded systems
+     Author ['T Martensson']
+     Venue NA
+     Year 2019
+     Abstract 2016) with as much automation as possible (Shahin 2015)  The study also included an analysis of how the terms continuous integration, continuous delivery, continuous deployment and DevOps are used in literature. Page 18. 15 1.4.4 Research Studies Addressing RQ3
+     Url https://www.rug.nl/research/portal/files/77217524/Complete_thesis.pdf
+

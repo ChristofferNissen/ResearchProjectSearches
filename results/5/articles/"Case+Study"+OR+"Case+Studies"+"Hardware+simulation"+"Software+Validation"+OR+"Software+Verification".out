@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded systems design: Hardware and software interaction
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue Embedded Software Design …
+     Year 2010
+     Abstract design step, different software components are generated and verified using hardware simulation models  of components which are sufficient to allow some level of software verification on the  The software validation and debug is performed by execution of the software code on a
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-5567-8_1
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract Algorithmic breakthroughs and groundbreaking case studies, as well as promotion by CAD developers, piqued  To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous dialects for  In software, verification often connotes formal analysis
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software design and programming of multiprocessor system-on-chip
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue NA
+     Year 2010
+     Abstract Simulink and SystemC Case Studies  At each design step, different software components are generated and verified using hardware simulation models  hardware architecture, but only a subset of components which are sufficient to allow some level of software verification on the
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4419-5567-8.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract On the other hand, due to a lack of automation, software Validation and Verification (V&V) tends to swallow up 40% to 50% of the total development cost  Finally, Sections 9 and 10 describe the case study and conclusion. 2. Project objectives and expected results
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded Control Systems
+     Author ['W Daehn', 'C Müller-Schloer']
+     Venue Embedded Microprocessor …
+     Year 1996
+     Abstract The different parts require different simulation techniques, eg mechanical or electrical and soft-and hardware simulation  268 Software and Tools [8] [9] [10] [11] [12] [13] [14] KM Candy, J. Misra," Distributed Simulation: A Case Study in Design and Verification of Distributed
+     Url https://books.google.com/books?hl=ru&lr=&id=8hz39nwfhFEC&oi=fnd&pg=PA263&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=4h9gXQ30o8&sig=xw86nCIHgvwdz-ass_THDKmIOPk
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware abstraction layer
+     Author ['K Popovici', 'A Jerraya']
+     Venue Hardware-dependent Software
+     Year 2009
+     Abstract The software validation is an iterative process because the different software components need different detail levels  we detail the HAL execution using a SystemC develop- ment platform that combines ISS for the software execution and SystemC for the hardware simulation
+     Url https://link.springer.com/chapter/10.1007/978-1-4020-9436-1_4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A prediction model for measurement-based timing analysis
+     Author ['SAB Shah', 'M Rashid', 'M Arif']
+     Venue … of the 6th International Conference on …
+     Year 2017
+     Abstract CCS Concepts • Software and its engineering➝Empirical software validation  in [5]. The authors in [5] show their results on three industrial scale case studies to validate  2 shows that we use Gem5 architecture simulator [17] as a real-time system hardware simulation platform to
+     Url https://dl.acm.org/doi/abs/10.1145/3056662.3056666
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Property-based testing for LG home appliances using accelerated software-in-the-loop simulation
+     Author ['M Park', 'H Jang', 'T Byun', 'Y Choi']
+     Venue Proceedings of the ACM/IEEE 42nd …
+     Year 2020
+     Abstract This was because we were not equipped with the domain-specific hardware simulation for home appliances. This sequence—hardware, first, then software—used to create an undesir- able pressure to sacrifice the thoroughness of software verification because, when hardware
+     Url https://dl.acm.org/doi/abs/10.1145/3377813.3381346
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A case study of automated testing implementation in the automotive industry
+     Author ['D Ganea', 'R Bogdan', 'V Ancusa']
+     Venue 2013 IEEE 14th …
+     Year 2013
+     Abstract presents several advantages [3] like reducing time to market by allowing software validation to be  Although the hardware simulation will have a lower accuracy than real testing on an embedded  The present case study focuses on the module testing phase, part of a SiL testing
+     Url https://ieeexplore.ieee.org/abstract/document/6705243/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA Debugging with MATLAB Using a Rule-Based Inference System
+     Author ['HUH Khan', 'D Göhringer']
+     Venue International Symposium on Applied …
+     Year 2017
+     Abstract Due to such limitations of software-based verification methods, focus shifted to hardware simulation  We will be using a Gaussian filter based image processing system as a case study for illustrating the proposed verification method
+     Url https://link.springer.com/chapter/10.1007/978-3-319-56258-2_10
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design for automobile external lighting systems
+     Author ['JH Neme', 'MMD Santos', 'ELS Teixeira']
+     Venue NA
+     Year 2015
+     Abstract Furthermore, it also improves software validation and verification boosting embedded system development  flexible simulation and low cost procedure once compared to hardware simulation  integration of cyber-physical systems: An adaptive cruise control case study,” Journal of
+     Url https://www.sae.org/publications/technical-papers/content/2015-36-0374/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract Page 1. 1702 IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS, VOL. 51, NO. 2, MARCH/APRIL 2015 FPGA-Based Detailed Real-Time Simulation of Power Converters and Electric Machines for EV HIL Applications Luis
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A Comprehensive Investigation of Universal Verification Methodology (UVM) Standard for Design Verification
+     Author ['S Qamar', 'WH Butt', 'MW Anwar', 'F Azam']
+     Venue Proceedings of the 2020 …
+     Year 2020
+     Abstract CCS Concepts • Hardware~Electronic design automation • Hardware~Simulation and emulation • Software and its engineering~Software verification and validation  Ashry, et al., On Error Injection for NoC Platforms: A UVM-based Practical Case Study, in Proceedings
+     Url https://dl.acm.org/doi/abs/10.1145/3384544.3384547
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Application validation on RTDroid
+     Author ['Y Yan', 'L Ziarek']
+     Venue ACM SIGBED Review
+     Year 2018
+     Abstract and its engineering → Real-time schedulability; Real-time systems software; Empirical software validation;  Section 4 then shows a case study that applies the application validation process  core processor, all tests for this paper use uniprocessor hardware simulation in Cheddar
+     Url https://dl.acm.org/doi/abs/10.1145/3269482.3269484
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Using matlab for mixed-signal verification of a software radio ASIC
+     Author ['PM Overs']
+     Venue IEE Colloquium on DSP enabled Radio
+     Year 2003
+     Abstract of a low power digital radio transceiver IP block as a case study to illustrate a  so that we had in all environments (Matlab simulation, software simulation, hardware simulation and hardware  Figure 3 Figure 3 shows the basic flow for software verification against the Matlab model
+     Url https://digital-library.theiet.org/content/conferences/10.1049/ic.2003.0320
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Flexible Software to Hardware Migration Methodology for FPGA Design and Verification
+     Author ['M Trapaglia', 'R Cayssials']
+     Venue 2019 X Southern …
+     Year 2019
+     Abstract The DUT is simulated in a hardware simulation environment, but properties and methods of the DUTILS' class  The FFT transform proposed as a case study 43  allows using the same modeling environment for software developments, hardware and software verification, and final
+     Url https://ieeexplore.ieee.org/abstract/document/8714377/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Integrated testcase language for hardware design verification
+     Author ['F Armbruster', 'S Koerner', 'K Rebmann']
+     Venue US Patent App. 10/125,308
+     Year 2002
+     Abstract In order to set up useful test cases which are theoretically adapted to yield hardware verification results which are significant for a given hardware simulation situation, a test case has to  Methods, systems, and articles of manufacture for synchronizing software verification flows
+     Url https://patents.google.com/patent/US20020156608A1/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A dynamic assertion-based verification platform for validation of UML designs
+     Author ['A Banerjee', 'S Ray', 'P Dasgupta']
+     Venue ACM SIGSOFT …
+     Year 2012
+     Abstract Keywords Software Verification, Dynamic Property Verification, Assertion Checking, UML  In the last few decades, formal property verification has estab- lished itself as an effective validation methodology, both in the hardware and software-verification community for its ability of
+     Url https://dl.acm.org/doi/abs/10.1145/2088883.2088891
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A case of system-level hardware/software co-design and co-verification of a commodity multi-processor system with custom hardware
+     Author ['S Hong', 'T Oguntebi', 'J Casper', 'N Bronson']
+     Venue Proceedings of the …
+     Year 2012
+     Abstract presents an interesting system-level co-design and co-verification case study for a  Our initial approach was to decouple hardware and software verification; we verified the software  TL) interface) which works as a bridge be- tween software execution and hardware simulation
+     Url https://dl.acm.org/doi/abs/10.1145/2380445.2380524
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The 5ESS‐2000 Switch: Exceeding Customer Expectations
+     Author ['HG Holland', 'CP Huang', 'CE Jeschke']
+     Venue AT&T Technical …
+     Year 1994
+     Abstract The 5ESS2000 switch platform requirements, both at a high level and at the detailed level, were formulated to include all global customer requirements to avoid any customization for specific applications. Improved Hardware Simulation
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1994.tb00617.x
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Generating responses to patterns stimulating an electronic circuit with timing exception paths
+     Author ['D Goswami', 'KH Tsai', 'M Kassab', 'J Rajski']
+     Venue US Patent 7,555,689
+     Year 2009
+     Abstract US7555689B2 - Generating responses to patterns stimulating an electronic circuit with timing exception paths - Google Patents. Generating responses to patterns stimulating an electronic circuit with timing exception paths. Download PDF Info
+     Url https://patents.google.com/patent/US7555689B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title NASA's Manned Spacecraft Computers
+     Author ['JE Tomayko']
+     Venue Annals of the History of Computing
+     Year 1985
+     Abstract These computers serve as a case study of one area of NASA's impact on computer development, and they are the  If nothing else, the software verification and reliability experience of the Apollo program, along with attention to  hardware simulation, and finally man-in-the-loop
+     Url https://ieeexplore.ieee.org/abstract/document/4392961/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The art of fault injection
+     Author ['A Benso', 'S DiCarlo']
+     Venue Journal of Control Engineering and Applied …
+     Year 2011
+     Abstract be used only in microprocessor-based systems; • hybrid fault injection: hardware, simulation, and soft  testing is visible in two of the mainstream approaches for software validation (Kuball et al  thus justifying the adoption of path-based over stress-based in particular case studies
+     Url http://ceai.srait.ro/index.php?journal=ceai&page=article&op=download&path%5B%5D=1213&path%5B%5D=930
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title CASH: Compilation and Analysis, Software and Hardware December 10, 2018
+     Author ['C Alias', 'J Braine', 'L Gonnord', 'L Henrio', 'P Iannetta']
+     Venue NA
+     Year 2018
+     Abstract Page 5. 1.4 Overall Approach • Cross-fertilization with several scientific communities. • Case-study driven approach and transfer  Similarly, the hardware simulation community usually considers compilers as black-boxes and do not interact with researchers in compilation
+     Url http://www.ens-lyon.fr/LIP/CASH/wp-content/uploads/2018/01/projet-equipe-CASH.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying parametrised hardware designs via counter automata
+     Author ['A Smrčka', 'T Vojnar']
+     Venue Haifa Verification Conference
+     Year 2007
+     Abstract 53 hardware synthesis tools, and also for hardware simulation or verification tools. A process called synthesis transforms a generic RTL description of a system to the gate/transistor level of a concrete electronic circuit description
+     Url https://link.springer.com/chapter/10.1007/978-3-540-77966-7_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of fault tolerance using theorem-proving techniques
+     Author ['J Kljaich', 'BT Smith', 'AS Wojcik']
+     Venue IEEE Transactions on …
+     Year 1989
+     Abstract dominance of simulation. Existing software verification techniques have been applied to hardware verification applications. Darringer [4] discusses the use of symbolic execution in hardware validation. The symbolic simulation
+     Url https://ieeexplore.ieee.org/abstract/document/21123/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Slice your bug: Debugging error detection mechanisms using error injection slicing
+     Author ['U Schiffel', 'A Schmitt', 'M Süßkraut']
+     Venue 2010 European …
+     Year 2010
+     Abstract Example tools are an injection tool based on the formal software verification tool KeY 181 and SymPLFIED [9]. Symbolic error injection inherits the problems of model checking: a model has to be provided or generated, and for larger problem sizes state explosion makes model
+     Url https://ieeexplore.ieee.org/abstract/document/5474199/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware implementation and validation of a traffic road sign detection and identification system
+     Author ['R Hmida', 'AB Abdelali', 'A Mtibaa']
+     Venue Journal of Real-Time Image Processing
+     Year 2018
+     Abstract XSG will be used for the automatic hardware system generation and also for software validation throughout the hardware co-simulation technique  It allows software and hardware simulation simultaneously with the same design formed by XSG blocks connected in cascade
+     Url https://link.springer.com/article/10.1007/s11554-016-0579-x
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A bibliography on formal methods for system specification, design and validation
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue NA
+     Year 1982
+     Abstract Conj,. Distribo^ed Computing Systems, Huntsville, AL, Oct, 1979, pp. 212-21. [1.04] CJ P, Lucena and THC Pequeno, "Program derivation using data types: A case study," IEEE Trans. SOjtluaTe Engineering, vol. SE-5, pp. 588-592, Nov.. 1979
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware implementation of KLT tracker for real-time intruder detection and tracking using on-board camera
+     Author ['T Nam', 'S Kim', 'D Jung']
+     Venue International Journal of Aeronautical and Space …
+     Year 2019
+     Abstract 4.1 Software Validation  verify the entire operation of the hardware logic written in VHDL, a timing simulation is performed using a hardware simulation tool in  Scholar. 3. Stark B, Stevenson B, Chen YQ (2013) ADS-B for small unmanned aerial systems: case study and regulatory
+     Url https://link.springer.com/article/10.1007/s42405-018-0131-2
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title An end-to-end framework for safe software development
+     Author ['M Hussein', 'R Nouacer', 'A Radermacher']
+     Venue Microprocessors and …
+     Year 2018
+     Abstract 5.2. EQUITAS. The EQUITAS (Enhanced Quality Using Intensive Test Analysis on Simulators) project aims for limiting the impact of software verification and validation on the cost and time-to-market of embedded systems while improving their reliability and functional safety
+     Url https://www.sciencedirect.com/science/article/pii/S0141933118300279
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Demystifying Soft-Error Mitigation by Control-Flow Checking--A New Perspective on its Effectiveness
+     Author ['S Schuster', 'P Ulbrich', 'I Stilkerich', 'C Dietrich']
+     Venue ACM Transactions on …
+     Year 2017
+     Abstract Transient errors and upsets; • Software and its engineering → Soft- ware reliability; Software fault tolerance; Empirical software validation; Translator writing  3 CASE STUDY In this paper, we examined the following signature-based software-CFC schemes: (1) Plain In- terblock2
+     Url https://dl.acm.org/doi/abs/10.1145/3126503
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A Verified Framework for Symbolic Execution in the ACL2 Theorem Prover
+     Author ['RS Boyer', 'W Cook']
+     Venue NA
+     Year NA
+     Abstract 109 Chapter 5. Case Study: Floating-point Addition 118 5.1 Overview of Verification Methodology  125 Chapter 6. Related Work 127 6.1 Symbolic Execution in Software Verification . . . . . 127 6.2 Symbolic Simulation in Hardware Verification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.993.2261&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A study on run time assurance for complex cyber physical systems
+     Author ['M Clark', 'X Koutsoukos', 'J Porter', 'R Kumar']
+     Venue NA
+     Year 2013
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and verification of Guidance, Navigation and Control systems for space applications
+     Author ['S Corpino', 'S Chiesa', 'EF Fossati']
+     Venue NA
+     Year 2014
+     Abstract process and can be classified from fully numerical (ie all the equipment and conditions are reproduced as virtual model) to fully integrated hardware simulation (where the system is  The case study represents the first validation of the methodology with the first release of StarSim
+     Url https://core.ac.uk/download/pdf/234900652.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for verifying the design of a microprocessor
+     Author ['A Hekmatpour']
+     Venue US Patent 6,523,151
+     Year 2003
+     Abstract US6523151B2 - Method for verifying the design of a microprocessor - Google Patents. Method for verifying the design of a microprocessor. Download PDF Info. Publication number US6523151B2. US6523151B2 US09/859,250
+     Url https://patents.google.com/patent/US6523151B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract A core subsystem of the Scalable Processor-Independent Design for Electromagnetic Resilience (SPIDER) was selected for this case study  They present a selection of case studies where formal methods were applied to industrial-scale designs, such as microprocessors
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Automatic method for efficient hardware implementation from rvc-cal dataflow: a lar coder baseline case study
+     Author ['K Jerbi', 'M Wipliez', 'M Raulet', 'O Déforges', 'M Babel']
+     Venue NA
+     Year 2010
+     Abstract Implementation From RVC-CAL Dataflow: A LAR Coder baseline Case Study  Fig. 12. Software validation  B. Results The HDL project manager environment used is Xilinx ISE Foundation 11.1 and the hardware simulation tool is ISE simulator (Full version)
+     Url https://hal.archives-ouvertes.fr/hal-00546742/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract This will greatly help the CASH team in its “case study driven” approach  We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with XtremLogic on HLS, and obviously plan to continue
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Exploring FPGA dynamic reconfiguration for sound source localization and tracking algorithms
+     Author ['CS Ibala']
+     Venue NA
+     Year 2014
+     Abstract 30 2.8. MB and PR Software Verification Approach ..... 36  These ideas were developed using a number of major projects or case studies. The first case  design and architectural considerations, while the second case study developed new sound
+     Url https://ulir.ul.ie/handle/10344/4017
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Coverage of Compositional Property Sets for Hardware and Hardware-dependent Software in Formal System-on-Chip Verification
+     Author ['B Bao']
+     Venue NA
+     Year 2017
+     Abstract 1.1.2 Software Verification and Hardware/Software Co-Verification  Most simulative approaches are dynamic. Similar to hardware simulation, for dynamic testing an executed program is fed by test cases. The outputs of the program are then collected and examined
+     Url https://kluedo.ub.uni-kl.de/frontdoor/index/index/docId/4640
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Chipyard-An Integrated SoC Research and Implementation Environment
+     Author ['A Amid', 'D Biancolin', 'A Gonzalez']
+     Venue 2020 57th ACM/IEEE …
+     Year 2020
+     Abstract Index Terms—system-on-chip, agile, hardware, simulation, VLSI, specialization  B. Accelerator Software Validation Pre-silicon validation of software which uses the custom accelerator helps  Cook, W. Terpstra, and Y. Lee, “Diplomatic design patterns: A tilelink case study,” in 1st
+     Url https://ieeexplore.ieee.org/abstract/document/9218756/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Environnement de Programmation Multi Niveau pour Architectures Hétérogènes MPSoC
+     Author ['K Popovici']
+     Venue NA
+     Year 2008
+     Abstract Page 1. HAL Id: tel-00271128 https://tel.archives-ouvertes.fr/tel-00271128 Submitted on 8 Apr 2008 HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci- entific research documents, whether they are pub- lished or not
+     Url https://tel.archives-ouvertes.fr/tel-00271128/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Coverage metrics for requirements-based testing
+     Author ['A Rajan', 'MPE Heimdahl']
+     Venue NA
+     Year 2009
+     Abstract Current practices in software validation rely on the engineering judgment of domain experts to de  termed, requirements coverage metrics, that helps determine whether the behaviors specified by the requirements have been adequately tested during software validation
+     Url http://homepages.inf.ed.ac.uk/arajan/thesis-main.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of Digital Controller Verifications
+     Author ['X Wang']
+     Venue NA
+     Year 2005
+     Abstract Related Work This work focuses on the verification of digital controller software. It relates to hybrid system verification, controller uncertainty and computation for software verification. This chapter presents the research work done in these three areas. 2.1 Hybrid Systems
+     Url https://scholarsarchive.byu.edu/etd/681/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title System and methods for generating and managing a virtual device
+     Author ['F Xie', 'K Cong', 'L Lei']
+     Venue US Patent 8,666,723
+     Year 2014
+     Abstract US8666723B2 - System and methods for generating and managing a virtual device - Google Patents. System and methods for generating and managing a virtual device. Download PDF Info. Publication number US8666723B2
+     Url https://patents.google.com/patent/US8666723B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for automatically searching for functional defects in a description of a circuit
+     Author ['CR Ho', 'RK Mardjuki', 'DL Dill', 'JC Lin', 'PF Yeung']
+     Venue US Patent …
+     Year 2009
+     Abstract US7478028B2 - Method for automatically searching for functional defects in a description of a circuit - Google Patents. Method for automatically searching for functional defects in a description of a circuit. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US7478028B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Generating responses to patterns stimulating an electronic circuit with timing exception paths
+     Author ['D Goswami', 'KH Tsai', 'M Kassab', 'J Rajski']
+     Venue US Patent 7,984,354
+     Year 2011
+     Abstract US7984354B2 - Generating responses to patterns stimulating an electronic circuit with timing exception paths - Google Patents. Generating responses to patterns stimulating an electronic circuit with timing exception paths. Download PDF Info
+     Url https://patents.google.com/patent/US7984354B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for automatically searching for functional defects in a description of a circuit
+     Author ['CMR Ho', 'RK Mardjuki', 'DL Dill', 'JC Lin']
+     Venue US Patent …
+     Year 2005
+     Abstract US6885983B1 - Method for automatically searching for functional defects in a description of a circuit - Google Patents. Method for automatically searching for functional defects in a description of a circuit. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US6885983B1/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Runtime verification of microcontroller binary code
+     Author ['T Reinbacher', 'J Brauer', 'M Horauer', 'A Steininger']
+     Venue Science of Computer …
+     Year 2014
+     Abstract Examples are embedded processor cores on an FPGA, or processor chips with access to the data. For our case studies, we instantiated the Intel MCS-51 IP-core by Oregano Systems [55] in a FPGA alongside our RVU implementation. Page 5  6]. 5.1. Case study
+     Url https://www.sciencedirect.com/science/article/pii/S0167642312002109
+

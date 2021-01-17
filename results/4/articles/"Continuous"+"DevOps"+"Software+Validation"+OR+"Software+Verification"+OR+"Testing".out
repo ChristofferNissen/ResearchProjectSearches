@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous Integration, Deployment and Testing in DevOps Environment
+     Author ['AS Amaradri', 'SB Nutalapati']
+     Venue NA
+     Year 2016
+     Abstract Objectives. The main aim of this study is to provide a clear understanding about how DevOps works in an organization to researchers and software practitioners. The objectives of the study are to identify the benefits of implementing DevOps in organizations where agile
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1044691
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract DevOps is an set of principles towards software delivery where the key focus is on speed of delivery, continuous testing in production like environment, be in shippable state at any day, continuous feedback, ability to react to change more quickly, teams working to accomplish a
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOpRET: Continuous reliability testing in DevOps
+     Author ['A Bertolino', 'GD Angelis', 'A Guerriero']
+     Venue Journal of Software …
+     Year 2020
+     Abstract To enter the production stage, in DevOps practices candidate software releases have to pass quality gates, where they are assessed to meet established target values for key indicators of interest. We believe software reliability should be an important such indicator
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2298
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SKI: A New Agile Framework that Supports DevOps, Continuous Delivery, and Lean Hypothesis Testing
+     Author ['J Saltz', 'A Sutherland']
+     Venue … of the 53rd …
+     Year 2020
+     Abstract This paper explores the need for a new process framework that can effectively support DevOps and Continuous Delivery teams. It then defines a new framework, which adheres to the lean Kanban philosophy but augments Kanban by providing a structured iteration
+     Url https://scholarspace.manoa.hawaii.edu/handle/10125/64503
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Microservices: Architecting for continuous delivery and devops
+     Author ['L Chen']
+     Venue 2018 IEEE International Conference on Software …
+     Year 2018
+     Abstract IX. SUMMARY Driven by the need for speed [1], in the context of DevOps and Continuous Delivery (CD  At the same time, new challenges associated with the increased number of services, evolving contracts among services, technology diversity, and testing have been
+     Url https://ieeexplore.ieee.org/abstract/document/8417115/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards continuous software reliability testing in DevOps
+     Author ['R Pietrantuono', 'A Bertolino']
+     Venue 2019 IEEE/ACM 14th …
+     Year 2019
+     Abstract We introduce the DevOpRET approach for continuous reliability testing in DevOps. It leverages information monitored in operation to guide operational-profile based testing, which is conceived as part of the acceptance testing stage before each next release to
+     Url https://ieeexplore.ieee.org/abstract/document/8822025/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Relationship of DevOps to agile, lean and continuous deployment
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on product …
+     Year 2016
+     Abstract elements of DevOps practices, which are also agile practices that collectively play an important role in the ability to automate the deployment pipeline [9]. These key elements include code branching management, continuous integration (CI) and CD, whilst automated testing is
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_27
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract for automated acceptance testing, show- cases, and exploratory and usability testing, so this is  and techniques to manage environments and infrastructure is also a key part of devops  By implementing continuous delivery, in which systems are production- ready and deployable
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps improvements for reduced cycle times with integrated test optimizations for continuous integration
+     Author ['D Marijan', 'M Liaaen', 'S Sen']
+     Venue 2018 IEEE 42nd Annual …
+     Year 2018
+     Abstract respect to time-efficiency. Index Terms—DevOps, Continuous integration testing, Test prioritization, History-based test prioritization, Risk-based test optimization, Fault-based test prioritization I. INTRODUCTION DevOps is a
+     Url https://ieeexplore.ieee.org/abstract/document/8377636/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract for automated acceptance testing, show- cases, and exploratory and usability testing, so this is  and techniques to manage environments and infrastructure is also a key part of devops  By implementing continuous delivery, in which systems are production- ready and deployable
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous practices and devops: beyond the buzz, what does it all mean?
+     Author ['D Stahl', 'T Martensson', 'J Bosch']
+     Venue 2017 43rd Euromicro …
+     Year 2017
+     Abstract Similarly, [20] finds that DevOps is a “set of principles towards software delivery [...] speed of delivery, continuous testing in production like environment, be in shippable state at any day, continuous feedback, ability to react to change more quickly, teams working to accomplish a
+     Url https://ieeexplore.ieee.org/abstract/document/8114695/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract the application and system are controlled in production. The whole DevOps pipeline includes continuous integration, ongoing testing, and continuous deployment, including live application monitoring. The main focus of DevOps practice is the design and
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The factors driving testing in devops setting-a systematic literature survey
+     Author ['J Angara', 'S Prasad', 'G Sridevi']
+     Venue Indian Journal …
+     Year 2017
+     Abstract Keywords: Agile Testing, Continuous Integration, Continuous Testing, DevOps Testing 1. Introduction  DevOps testing is continuous. The elements of agility, scale, metric driven process, reduction of complexity and cost appeared in more than 16 articles
+     Url https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2016/Issue-48/Article45.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous and Integrated Software Development using DevOps
+     Author ['A Agarwal', 'S Gupta']
+     Venue … Conference on Advances …
+     Year 2018
+     Abstract 2018 International Conference on Advances in Computing and Communication Engineering (ICACCE-2018) Paris, France 22-23 June 2018 290 Page 2. searched for include continuous deployment, DevOps tools, and automatic acceptance testing. [7]
+     Url https://ieeexplore.ieee.org/abstract/document/8458052/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps with continuous testing architecture and its metrics model
+     Author ['J Angara', 'S Gutta', 'S Prasad']
+     Venue Recent Findings in Intelligent Computing …
+     Year 2018
+     Abstract The advent of DevOps is to take full advantage of iterative model of development, bring agility in software development life cycle and achieve time to market goal. However, testing becomes roadblock and reduces the rate of speed. Hence, there is a critical need to
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8633-5_28
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Fast Delivery, Continuously Build, Testing and Deployment with DevOps Pipeline Techniques on Cloud
+     Author ['MO Khan', 'AK Jumani', 'WA Farhan']
+     Venue INDIAN JOURNAL OF …
+     Year 2020
+     Abstract 6.1.6. Continuous Testing – Automation In DevOps, testing play most significant role among all these things so we need to bring continuous testing with the process and talk about testing service. It is very important. We started
+     Url https://www.researchgate.net/profile/Awais_Jumani/publication/339135798_Fast_Delivery_Continuously_Build_Testing_and_Deployment_with_DevOps_Pipeline_Techniques_on_Cloud/links/5e401ae0458515072d8b8fb7/Fast-Delivery-Continuously-Build-Testing-and-Deployment-with-DevOps-Pipeline-Techniques-on-Cloud.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Dimensions of devops
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on agile …
+     Year 2015
+     Abstract Facebook, are now deploying soft- ware functionality to customers on a daily basis [1]. This paradigm change towards continuous deployment of  [5] identified the DevOps per- spectives to include: collaboration; automation of build deployment; testing; meas- urement
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_19
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Practical DevOps: Implement DevOps in your organization by effectively building, deploying, testing, and monitoring code
+     Author ['J Verona']
+     Venue NA
+     Year 2018
+     Abstract What this book covers Chapter 1, Introducing DevOps and Continuous Delivery, deals with the background of  software architecture and what they mean to us while working with our DevOps glasses on  Chapter 6, Testing the Code, shows you that if you are going to release your
+     Url https://books.google.com/books?hl=en&lr=&id=enteDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=l_RaWkYxwK&sig=Ro8WhGij6MlOpMvNySc1nIht0uQ
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps
+     Author ['THC Hsu']
+     Venue NA
+     Year 2018
+     Abstract for the testing team DevSecOps for the operations team Summary Further reading 286 288 290 296 310 311 Assessments 313 Other Books You May Enjoy 320 Index 323 [vii ] Page 14. Preface DevOps has provided speed and quality benefits with continuous development and
+     Url https://books.google.com/books?hl=en&lr=&id=bO1mDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=pIcw5pXlgJ&sig=dea9bYCCYyRm9HiJUvFSv9KpzGM
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Strategy for continuous testing in iDevOps
+     Author ['P Zimmerer']
+     Venue Proceedings of the 40th International Conference on …
+     Year 2018
+     Abstract It specifies the building blocks of a strategy for continuous testing in industrial-grade DevOps projects (iDevOps  CCS CONCEPTS • Software and its engineering Software creation and management Software verification and validation Software defect analysis Software
+     Url https://dl.acm.org/doi/abs/10.1145/3183440.3183465
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps: continuous delivery, integration, and deployment with DevOps: dive into the core DevOps strategies
+     Author ['S Vadapalli']
+     Venue NA
+     Year 2018
+     Abstract [9] Page 21. Introduction to DevOps • Jenkins: Jenkins is a web-enabled tool used through application or a web server such as Tomcat, for continuous build, deployment, and testing, and is integrated with build tools such as Ant/Maven and the source code repository Git
+     Url https://books.google.com/books?hl=en&lr=&id=N5RRDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=vQ7Zjw7RCN&sig=W0F70sB2uquyRe7PhjOaUa8TNRI
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract DevOps step: planning, coding, testing, release, deployment, operation, monitoring. DevOps and Microservices. Chen et al. [S8] propose a set of tactics for adopting DevOps with microservices-based implementations. Adopting a set of tools enables (1) continuous integration
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Tool support for traceability management of software artefacts with DevOps practices
+     Author ['S Palihawadana', 'CH Wijeweera']
+     Venue 2017 Moratuwa …
+     Year 2017
+     Abstract practices. This paper has proposed a traceability management and continuous integration mechanism within DevOps practices, mainly considering software artefacts related to testing, configuration and deployment. The existing
+     Url https://ieeexplore.ieee.org/abstract/document/7980469/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An automated framework for continuous development and testing of access control systems
+     Author ['S Daoudagh', 'F Lonetti']
+     Venue Journal of Software …
+     Year 2020
+     Abstract such as comparison of test strategies in terms of fault detection and cardinality of the test suites, as well as mutants distribution, are used during the planning phase to provide useful feedbacks for the continuous development and testing of the PDP during DevOps process
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2306
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Improve software quality through practicing DevOps
+     Author ['P Perera', 'R Silva', 'I Perera']
+     Venue … Conference on Advances in ICT for …
+     Year 2017
+     Abstract Companies need to have an approach align with DevOps to improve the quality. Continuous testing and continuous quality monitoring are completely connected to continuous development, continuous build and continuous deployment Page 3
+     Url https://ieeexplore.ieee.org/abstract/document/8257807/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract When developers embrace Dev- Ops, testing is a critical part of development, and the  From an operations perspective, DevOps greatly affects culture and discipline  So, the IT operations and development teams must closely collaborate to achieve the continuous process pro
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Including performance benchmarks into continuous integration to enable DevOps
+     Author ['J Waller', 'NC Ehmke', 'W Hasselbring']
+     Venue ACM SIGSOFT Software …
+     Year 2015
+     Abstract Automation of software quality assurance is key to DevOps success  monitoring frameworks and illustrate the inclusion of automated benchmarks into continuous integration setups. Categories and Subject Descriptors D.2.5 [Software Engineering]: Testing and Debugging – Test
+     Url https://dl.acm.org/doi/abs/10.1145/2735399.2735416
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Adoption issues in devops from the perspective of continuous delivery pipeline
+     Author ['MZ Toh', 'S Sahibuddin', 'MN Mahrin']
+     Venue Proceedings of the 2019 8th …
+     Year 2019
+     Abstract Large-Scale Testing, Conjunction with ICPE 2015, p. 3, 2015.G. [24] M. Soni, ―End to End Automation on Cloud with Build Pipeline: The Case for DevOps in Insurance Industry, Continuous Integration, Continuous Testing, and Continuous Delivery,‖ in Proceedings - 2015
+     Url https://dl.acm.org/doi/abs/10.1145/3316615.3316619
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Challenges, benefits and best practices of performance focused DevOps
+     Author ['W Gottesheim']
+     Venue … the 4th International Workshop on Large-Scale Testing
+     Year 2015
+     Abstract Companies that think Continuous Delivery and DevOps will solve all their problems typically fail as  The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win  LT '15: Proceedings of the 4th International Workshop on Large-Scale Testing. February 2015. 24
+     Url https://dl.acm.org/doi/abs/10.1145/2693182.2693187
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Including performance benchmarks into continuous integration to enable DevOps
+     Author ['J Waller', 'NC Ehmke', 'W Hasselbring']
+     Venue ACM SIGSOFT Software …
+     Year 2015
+     Abstract Automation of software quality assurance is key to DevOps success  monitoring frameworks and illustrate the inclusion of automated benchmarks into continuous integration setups. Categories and Subject Descriptors D.2.5 [Software Engineering]: Testing and Debugging – Test
+     Url https://dl.acm.org/doi/abs/10.1145/2735399.2735416
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Adoption issues in devops from the perspective of continuous delivery pipeline
+     Author ['MZ Toh', 'S Sahibuddin', 'MN Mahrin']
+     Venue Proceedings of the 2019 8th …
+     Year 2019
+     Abstract Large-Scale Testing, Conjunction with ICPE 2015, p. 3, 2015.G. [24] M. Soni, ―End to End Automation on Cloud with Build Pipeline: The Case for DevOps in Insurance Industry, Continuous Integration, Continuous Testing, and Continuous Delivery,‖ in Proceedings - 2015
+     Url https://dl.acm.org/doi/abs/10.1145/3316615.3316619
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Devops, A New Approach To Cloud Development & Testing
+     Author ['P Agrawal', 'N Rawat']
+     Venue … Conference on Issues and Challenges in …
+     Year 2019
+     Abstract REFERENCES [1] Soni, M., 2015, November. End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery  Towards continuous software reliability testing in DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/8977662/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Challenges, benefits and best practices of performance focused DevOps
+     Author ['W Gottesheim']
+     Venue … the 4th International Workshop on Large-Scale Testing
+     Year 2015
+     Abstract Companies that think Continuous Delivery and DevOps will solve all their problems typically fail as  The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win  LT '15: Proceedings of the 4th International Workshop on Large-Scale Testing. February 2015. 24
+     Url https://dl.acm.org/doi/abs/10.1145/2693182.2693187
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards DevOps in the embedded systems domain: Why is it so hard?
+     Author ['LE Lwakatare', 'T Karvonen', 'T Sauvola']
+     Venue 2016 49th hawaii …
+     Year 2016
+     Abstract DevOps recognizes the need for a continuous bridge between software development and its  DevOps is easy to adopt in the web domain, because virtualization helps software  tool support for configuration management helps them to set up development, testing and staging
+     Url https://ieeexplore.ieee.org/abstract/document/7427859/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous scrum: A framework to enhance scrum with DevOps
+     Author ['SS Samarawickrama', 'I Perera']
+     Venue … International Conference on …
+     Year 2017
+     Abstract The other most popular Agile practice is Extreme Programming (XP) [4]. XP consist of four phases: Planning, coding, designing and testing. XP can adapt changes at any time  The concept of small releases and continuous builds lead to the new concept of DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/8257808/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title 2nd workshop on DevOps and software analytics for continuous engineering and improvement
+     Author ['K Kontogiannis', 'C Brealey', 'A Giammaria']
+     Venue Proceedings of the 28th …
+     Year 2018
+     Abstract software system related data, obtained from such different and diverse DevOps sources (eg version control systems, bug reporting systems, collaboration tools and testing frameworks); c  in order to assess deployment risks in order to support continuous maintenance and
+     Url https://dl.acm.org/doi/abs/10.5555/3291291.3291344
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract This is incompatible with DevOps unless continuous integration takes place only after all units have passed unit testing. • Clause 5.8.5 requires that the procedure and the envi- ronment of software creation must be documented
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract In this context, continuous integration means that there are no monolithic changes to the system configuration (eg major updates), but all updates ripple through the  28.3 and 28.4 describe the DevOps inspired parts  They are used for testing GPU codes and FPGA designs
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps, DBAs, and DBaaS: Managing Data Platforms to Support Continuous Integration
+     Author ['MS Cuppett']
+     Venue NA
+     Year 2016
+     Abstract Addressing operational challenges earlier in the process leads to better-performing and resilient production systems. As DevOps expounds continuous testing across the SDLC, all environments must match the planned end-point state
+     Url https://books.google.com/books?hl=en&lr=&id=xme3DQAAQBAJ&oi=fnd&pg=PP6&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=936Fv19w2W&sig=-jKEukQdw_CtuN3mY9so_NpOUTk
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Agile, Continuous Integration, and DevOps
+     Author ['CK Chang']
+     Venue 2019 IEEE 43rd Annual Computer Software and …
+     Year 2019
+     Abstract Agile, Continuous Integration, and DevOps. 2019, pp  Artificial Intelligence, Mobile Computing, Pattern Classification, Security Of Data, Learning Artificial Intelligence, Internet, Mobile Computing, Security Of Data, Pattern Classification, Program Testing, Internet Of
+     Url https://www.computer.org/csdl/proceedings-article/compsac/2019/260701a211/1bwKUxtopb2
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous delivery and DevOps: a quickstart guide
+     Author ['P Swartout']
+     Venue NA
+     Year 2012
+     Abstract If you have already set out to adopt continuous delivery and/or  practices of asmallsoftware housearewhat wouldbe classedas prettygood interms of CD and DevOps  softwaredesign andelegance Engineering bestpractices will becompromised to hit deadlines Testing will not
+     Url https://books.google.com/books?hl=en&lr=&id=L-g6Qxb_43sC&oi=fnd&pg=PT17&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=edQ7DK-TN_&sig=vnUHqtDgZrn5Xsk1L9zKFPTubbM
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Software Release Management Evolution-Comparative Analysis across Agile and DevOps Continuous Delivery
+     Author ['SI Mohamed']
+     Venue … Journal of Advanced Engineering Research and …
+     Year 2016
+     Abstract set of tools like Codar [32] and Service Management (SM) [33] are used to troubleshoot incidents and continuous monitor across all phases of the application development, testing,and deployment which is crucial for a successful DevOps Continuous delivery implementation
+     Url https://www.academia.edu/download/52363095/Paper_7_-_Software_Release_Management_Evolution-Comparative_Analysis_across_Agile_and_DevOpsContinuous_Delivery-IJAERS.pdf
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The software architect and DevOps
+     Author ['L Bass']
+     Venue IEEE Software
+     Year 2017
+     Abstract Continuous Deployment The DevOps practice that probably gets the most press is continuous de- ployment or continuous delivery.4 This means that after a developer commits  Rapid deployments mean that human test- ing is impossible. All testing must be automated
+     Url https://ieeexplore.ieee.org/abstract/document/8239924/
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Mobile DevOps: Deliver continuous integration and deployment within your mobile applications
+     Author ['R Tak', 'J Modi']
+     Venue NA
+     Year 2018
+     Abstract of DevOps Before DevOps After DevOps Introduction to mobile DevOps Continuous feedback and continuous development Importance of backlog in mobile DevOps DevOps versus mobile DevOps Development Testing Deployment Monitoring Continuous delivery Challenges
+     Url https://books.google.com/books?hl=en&lr=&id=jLZTDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=0Lo2UpXszJ&sig=km530nEHcI9rg91m7T4kZgCpZJ8
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Applying DevOps Practices of Continuous Automation for Machine Learning
+     Author ['I Karamitsos', 'S Albarhami', 'C Apostolopoulos']
+     Venue Information
+     Year 2020
+     Abstract for automation and monitoring at all steps of ML system construction, including integration, testing, releasing, deployment, and infrastructure management. This specific operation of ML complex systems incorporates two important DevOps principles [1], continuous delivery (CD
+     Url https://www.mdpi.com/2078-2489/11/7/363
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Streamlining DevOps automation for Cloud applications
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2018
+     Abstract 16]. Amazon web services provide a variety of services for DevOps. For example, Amazon Beanstalk supports Continuous Deployment. 6. Automated Testing: Testing is an important process in the automated DevOps pipeline
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655574
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps: a definition and perceived adoption impediments
+     Author ['J Smeds', 'K Nybom', 'I Porres']
+     Venue International Conference on Agile Software …
+     Year 2015
+     Abstract three core aspects of DevOps listed in Table 2. The DevOps capabilities include the basic activities in software and service engineering: planning, development, testing, and deployment  For example, the continuous deployment capability allows an organization to deploy new
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_14
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Defining TestOps: Collaborative Behaviors and Technology-Driven Workflows Seen as Enablers of Effective Software Testing in DevOps
+     Author ['M Doležel']
+     Venue International Conference on Agile Software …
+     Year 2020
+     Abstract [7]). In fact, new test approaches and strategies are needed for DevOps, along with the new skills of test personnel [8]. The emergence of continuous testing is one particular facet of this shift, being enthusiastically promoted as “the key for DevOps” [9]. Yet, from an overall
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58858-8_26
+
+
+     Search term "Continuous"+"DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps: A software architect's perspective
+     Author ['L Bass', 'I Weber', 'L Zhu']
+     Venue NA
+     Year 2015
+     Abstract Introduction 10.2 Business Case 10.3 Measurements and Compliance to DevOps Practices 10.4  Tier 11.5 Other Infrastructure Tools 11.6 Datacenter Switch 11.7 Testing 11.8 Summary 11.9 For Further Reading CHAPTER 12 Implementing a Continuous Deployment Pipeline for
+     Url https://books.google.com/books?hl=en&lr=&id=fcwkCQAAQBAJ&oi=fnd&pg=PT13&dq=%22Continuous%22+%22DevOps%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=KSttpaLWVa&sig=cHe7aRQyLYrw3p_n2OI9VvwXdX4
+

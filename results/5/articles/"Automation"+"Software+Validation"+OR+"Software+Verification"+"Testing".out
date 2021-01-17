@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automation structure for software verification testing
+     Author ['J Acosta', 'J Hartje', 'A Levi', 'N Emejulu']
+     Venue US Patent App. 11/226,959
+     Year 2007
+     Abstract Functional testing of application software through exercising graphical user interface functions of the application software is automated and enhanced by providing one or more test data sets, one or more classes of panels in which each panel is described according to
+     Url https://patents.google.com/patent/US20070061625A1/en
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Vehicle Software Validation & Testing Automation
+     Author ['DD Lee']
+     Venue 한국자동차공학회 춘 추계 학술대회 논문집
+     Year 2008
+     Abstract Quality of an automobile heavily depends on reliability of the automotive system software which enables most of controllers in a vehicle to work and communicate each other. In the development of an automotive embedded system, it is important to determine if the software
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01127525
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automation of software verification
+     Author ['M Teplitsky', 'M Ovadia', 'N Gradovich']
+     Venue US Patent 8,156,474
+     Year 2012
+     Abstract Software verification is generally accomplished with “Black-Box Testing.” Black-Box Testing consists of  test-cases, and therefore, automatic verification is a preferred approach for testing large scale  Automation of compiler verification, involving the generation of test-cases, that is
+     Url https://patents.google.com/patent/US8156474B2/en
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title umd-verification: Automation of Software Validation for the EGI Federated e-Infrastructure
+     Author ['PO Fernández', 'J Pina', 'ÁL García', 'IC Plasencia']
+     Venue Journal of Grid …
+     Year 2018
+     Abstract Software verification implies the static analysis of the source code, requirements and design documents for  Nevertheless, in software validation, the economics of testing shall be carefully considered  Test automation is gaining momentum as a way to decrease the costs and time
+     Url https://link.springer.com/article/10.1007/s10723-018-9454-2
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title MaTeLo: automated testing suite for software validation
+     Author ['A Guiotto', 'B Acquaroli', 'A Martelli']
+     Venue DASIA 2003-Data Systems In …
+     Year 2003
+     Abstract Developing a statistical testing suite able to manage optimal test campaigns for software validation  of the industry partners; - evaluate the MaTeLo technology against the previous used testing method  9. Conclusion The test automation & optimisation, as foreseen in MaTeLo, is
+     Url http://adsabs.harvard.edu/full/2003ESASP.532E..30G
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing
+     Author ['V Bertacco', 'A Legay']
+     Venue NA
+     Year 2013
+     Abstract HVC 2013 Haifa, Israel, November 2013 Proceedings Hardware and Software: Verification and Testing  23 papers for presentation, including five from the software testing track, resulting in  EDA in the Cloud Leon Stok Electronic Design Automation Technologies, IBM Abstract
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-03077-7.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title New assertion concepts for self-metric software validation
+     Author ['LG Stucki', 'GL Foshee']
+     Venue ACM SIGPLAN Notices
+     Year 1975
+     Abstract NEW ASSERTION CONCEPTS FOR SELF-METRIC SOFTWARE VALIDATION  GARY L FOSHEE MCDONNELL DOUGLAS AUTOMATION COMPANY HUNTINGTON BEACH, CALIFORNIA  of powerful new assertion concepts was introduced for software verification and valida
+     Url https://dl.acm.org/doi/abs/10.1145/390016.808425
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Industrial software verification and testing technology
+     Author ['P Drobintsev', 'V Kotlyarov', 'A Letichevsky']
+     Venue CEUR Workshop …
+     Year 2017
+     Abstract Industrial software verification and testing technology  Keywords: Software quality assurance, formal model, verification, testing au- tomation  One of the main problems in the development and test automation of industrial appli- cations' software is handling of complicated and
+     Url http://ceur-ws.org/Vol-1989/paper52.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title General principles of software validation
+     Author ['S Crumpler', 'J Cheng']
+     Venue … for Industry and …
+     Year 2002
+     Abstract For automation of production processes or automation of the quality system § 820.70(i) “ the [device] manufacturer shall validate  Software design Software verification Integration System validation  Validation Page 12. Software Validation ◆ Part of design validation
+     Url http://mlfpcontent.s3.amazonaws.com/wp-content/uploads/20190806144955/BioFocus99-GPSVcrumplerpresentation.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automation of software verification
+     Author ['AJ Malton', 'DL Neville']
+     Venue US Patent 10,664,377
+     Year 2020
+     Abstract G06F11/36—Preventing errors by testing or debugging software; G06F11/3668—Software testing; G06F11/3672—Test management; G06F11/3684—Test management for test  US15/649,189 2016-07-15 2017-07-13 Automation of software verification Active US10664377B2
+     Url https://patents.google.com/patent/US10664377B2/en
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Applying expert systems technology to communications software validation
+     Author ['MJ Davis']
+     Venue Proceedings The Fifth Conference on Artificial …
+     Year 1989
+     Abstract Style, Expert Systems Technology, Communications Software Validation, Expert Systems  Shell, Custom Relational Database Interface, Automated Software Verification Tool, Software  Technology, Communication System Software, System Testing, Automation, Automatic Testing
+     Url https://www.computer.org/csdl/proceedings-article/caia/1989/00049155/12OmNqN6RaP
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An overview of hardware-in-the-loop testing systems at Visteon
+     Author ['S Nabi', 'M Balike', 'J Allen', 'K Rzemien']
+     Venue NA
+     Year 2004
+     Abstract The python test automation libraries also include functions to interface to and control  the HIL an absolute replacement for a real vehicle for software validation and verification  and usage scenario of HIL systems at Visteon Corporation for PCM software verification and validation
+     Url https://www.sae.org/publications/technical-papers/content/2004-01-1240/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An automated software verification tool for model-based development of embedded systems with simulink®
+     Author ['J Börcsök', 'W Chaaban', 'M Schwarz']
+     Venue … and Automation …
+     Year 2009
+     Abstract Therefore, the HiL testing needs to be made as a final step [1]. The rest of the  consists of the following sections: Section II gives an overview about the SiL software verification test  Section VI describes the advantages of automation of the test tool while concluding remarks takes
+     Url https://ieeexplore.ieee.org/abstract/document/5348445/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Integrated technology for industrial software verification and testing
+     Author ['V Kotlyarov', 'P Drobintsev', 'I Nikiforov']
+     Venue Proceedings of the 2014 …
+     Year 2014
+     Abstract Keywords— Formal model, software quality assurance, testing automation, verification  I. INTRODUCTION NE of the main problems in development and testing automation of industrial applications' software is handling of complicated and large scale requirements specifications
+     Url http://inase.org/library/2014/russia/bypaper/MEAS/MEAS-19.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automating software validation of a GPON network
+     Author ['AC Fadel', 'R Moraes', 'P Martins']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract Automating software validation of a GPON network. Abstract: This paper presents the automation of a Gigabit Passive Optical Network (GPON) embedded software validation, which improves the coverage of tests and eliminates faults that may compromise system availability
+     Url https://ieeexplore.ieee.org/abstract/document/6688873/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Testing, proof and automation. An integrated approach
+     Author ['S Burton', 'J Clark', 'J McDermid']
+     Venue … Analysis, Testing and …
+     Year 2000
+     Abstract enhance both the integrity and au- tomation of several areas of the software verification and validation  Section 2 discusses the role of testing in the automatic generation of counter- examples to  case gen- eration strategies and also as a means of performing the automation itself
+     Url https://pdfs.semanticscholar.org/aee3/d4d00af6f8e2197952b896d60a15034f09a0.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The application of machine learning methods in software verification and validation
+     Author ['NV Phuc']
+     Venue NA
+     Year 2010
+     Abstract The application of machine learning methods in software verification and validation  are of special interest to address the following concerns: Completeness for test suite coverage; Automation of test oracles to reduce human intervention in Software testing; Detection of faults
+     Url https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2010-08-1605
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing
+     Author ['R Bloem', 'E Arbel']
+     Venue NA
+     Year NA
+     Abstract Roderick Bloem• Eli Arbel (Eds.) Hardware and Software: Verification and Testing 12th International  A special session about verification and testing challenges of autonomous systems was  hardware design and verification, by Amir Rahat (Optima Design Automation) on design
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-49052-6.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Climb trajectory prediction software validation for decision support tools and simulation models
+     Author ['J Romanelli', 'C Santiago', 'M Paglione']
+     Venue International Test and …
+     Year 2009
+     Abstract Climb Trajectory Prediction Software Validation for  The objective of this testing activity is to identify the trajectory accuracy outliers produced during the climb  predictors used in DSTs such as User Request Evaluation Tool (URET) and En Route Automation Modernization (ERAM
+     Url https://www.researchgate.net/profile/Jessica_Rhodes_Young/publication/264002559_Climb_Trajectory_Prediction_Software_Validation_for_Decision_Support_Tools_and_Simulation_Models/links/02e7e53c80ce1ce15d000000/Climb-Trajectory-Prediction-Software-Validation-for-Decision-Support-Tools-and-Simulation-Models.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software testing
+     Author ['J Pan']
+     Venue Dependable Embedded Systems
+     Year 1999
+     Abstract Automation is a good way to cut down cost and time  This paper mainly discusses their toolset Mothra, integrated environment for automated software validation  This page discusses key issues such as testing, software testing, software reliability, software verification
+     Url http://www.sci.brooklyn.cuny.edu/~sklar/teaching/s08/cis20.2/papers/software-testing.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Research on Techniques for Nuclear-level Software Verification and Validation [J]
+     Author ['G Chao', 'H Lisheng']
+     Venue Microcomputer Applications
+     Year 2010
+     Abstract Gao Chao,Hu Lisheng(Department of Automation,Shanghai Jiaotong University,Shanghai 200240  paper follows IEC60880 as well as IAEA's guidelines of software verification and validation,focusing on studies of requirement verification and testing techniques,which
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WXDY201004005.htm
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Application software configuration management testing in a pharmaceutical laboratory automation environment
+     Author ['TF Linehan']
+     Venue 1988 Conference on Software Maintenance
+     Year 1988
+     Abstract Project Support Environments, Software Configuration Management Testing, Pharmaceutical Laboratory Automation Environment, Software Change, Software Testing, Software Life Cycle, Software Maintenance, Software Validation, Systems Testing, User Acceptance Testing
+     Url https://www.computer.org/csdl/proceedings-article/icsm/1988/00010159/12OmNwHhoWk
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Change-Based Test Management: Improving the Software Validation Process
+     Author ['R Arell']
+     Venue NA
+     Year NA
+     Abstract the Software Validation Process. Specifically written for software engineers and testing specialists, this guide includes an overview of current development models and test methodologies, a complete study of CBTM, in-depth case studies, and test automation techniques
+     Url https://www.globalspec.com/reference/55328/203279/appendix-a-references-and-additional-resources
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automated testing for automotive embedded systems
+     Author ['DH Kum', 'J Son', 'S Lee', 'I Wilson']
+     Venue 2006 SICE-ICASE …
+     Year 2006
+     Abstract and target execution and monitoring system, Target Suite, is developed for the generated software validation  and its functionalities, so that it is desirable to automate testing to improve  Test automation consists of the following three steps: test case generation, test execution and
+     Url https://ieeexplore.ieee.org/abstract/document/4108293/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The Analysis of Existing Methods of Software Verification
+     Author ['SE Bondarev', 'MA Chudinov']
+     Venue 2019 IEEE Conference …
+     Year 2019
+     Abstract The article also includes an overview of the classification and dynamic software verification methods  criteria, such as: a kind of fashion, the degree of automation, the scope  of detected errors, efficiency, region matching method, time verification and software validation algorithm
+     Url https://ieeexplore.ieee.org/abstract/document/8657169/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software verification of Orion cockpit displays
+     Author ['MAR Biswas', 'S Garcia', 'M Prado']
+     Venue 2017 12th …
+     Year 2017
+     Abstract To conduct such testing, the Rapid Prototyping Lab at NASA's Johnson Space Center along with the University of Texas at Tyler employed a software verification tool, EggPlant Functional by TestPlant. It is an image based test automation tool that allows users to create scripts to
+     Url https://ieeexplore.ieee.org/abstract/document/8085474/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Static Analysis tools, a practical approach for safety-critical software verification
+     Author ['R Lopes', 'D Vicente', 'N Silva']
+     Venue ESA Special Publication
+     Year 2009
+     Abstract They also provide a mean to introduce further automation in code analysis activities  or only in the architecture [1]. This is particularly true for Independent Software Verification and Validation  Testing using static analysis tools can drastically reduce a number of bugs which may
+     Url https://www.researchgate.net/profile/Nuno_Silva22/publication/228596851_Static_Analysis_tools_a_practical_approach_for_safety-critical_software_verification/links/004635282c19727410000000.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Nuclear power plant monitoring and control system software: verification and validation
+     Author ['M Kaneda', 'K Niki', 'K Shibata', 'M Makino']
+     Venue NA
+     Year 1986
+     Abstract The kinds of software that must be changed for each user or plant, for example, plant automation logic, CRT display formats, and process input specifications, generally require new design, manufacture, and testing, though part of the design documents may be reusable. - 4
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:17069174
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Issues on software testing for safety-critical real-time automation systems
+     Author ['L Wang']
+     Venue The 23rd Digital Avionics Systems Conference (IEEE …
+     Year 2004
+     Abstract Networked and embedded real-time automation software in safety-critical applications such as  of safety-critical software development lies in processes and techniques for software validation and verification  The effective software testing can ensure the software quality as well as
+     Url https://ieeexplore.ieee.org/abstract/document/1390801/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title TEST: an effective automation tool for testing embedded software
+     Author ['C Baek', 'S Park', 'K Choi']
+     Venue Proceedings of the 9th WSEAS International …
+     Year 2005
+     Abstract Article. TEST: an effective automation tool for testing embedded software  ICCOMP'05: Proceedings of the 9th WSEAS International Conference on Computers. TEST: an effective automation tool for testing embedded software Pages 1–6
+     Url https://dl.acm.org/doi/abs/10.5555/1369599.1369645
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A case study in JML-based software validation
+     Author ['L du Bousquet', 'Y Ledru', 'O Maury']
+     Venue Proceedings. 19th …
+     Year 2004
+     Abstract A Case Study in JML-based Software Validation  It also reveals difficulties to reuse, in a testing context, JML annotations written for a proof process  The automation of validation activities (test and proof) often requires a model or specification of the system under validation
+     Url https://ieeexplore.ieee.org/abstract/document/1342750/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A classification scheme for software verification tools with regard to RTCA/DO-178B
+     Author ['G Zoffmann', 'M Gingerl', 'C Reumann']
+     Venue … Conference on Computer …
+     Year 2001
+     Abstract test. It is useful during preliminary testing to assure some coverage in all areas of software  process. Any software tool used for automation, reduction or elimination of software verification process activities has to be qualified. Automated
+     Url https://link.springer.com/chapter/10.1007/3-540-45416-0_17
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing: 11th International Haifa Verification Conference, HVC 2015, Haifa, Israel, November 17-19, 2015 …
+     Author ['N Piterman']
+     Venue NA
+     Year 2015
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title AVAT, a CASE tool for software verification and validation
+     Author ['H Dai', 'CK Scott']
+     Venue Proceedings Seventh International Workshop …
+     Year 1995
+     Abstract Software Verification and Validation Heping Dai', IEEE Member and C. Keith Scott', IEEE Member Abstract AVAI: an abbreviation of Automation of the Verification, Validation and Testing (A VAT) of Real-Time Software and Embedded Systems, is a CASE (Computer Aidedsofiare
+     Url https://ieeexplore.ieee.org/abstract/document/465298/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing: 9th International Haifa Verification Conference, HVC 2013, Haifa, Israel, November 5-7, 2013 …
+     Author ['V Bertacco', 'A Legay']
+     Venue NA
+     Year 2013
+     Abstract Valeria Bertacco Axel Legay (Eds.) Hardware and Software: Verification and Testing 9th International Haifa  23 papers for presentation, including five from the software testing track, resulting  EDA in the Cloud Leon Stok Electronic Design Automation Technologies, IBM Abstract
+     Url https://books.google.com/books?hl=ro&lr=&id=FDy5BQAAQBAJ&oi=fnd&pg=PP5&dq=%22Automation%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Testing%22&ots=HZpA2Bhs9x&sig=AEy1mrxF4oXJWcz7anNRfZTknhI
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing: 12th International Haifa Verification Conference, HVC 2016, Haifa, Israel, November 14-17, 2016 …
+     Author ['R Bloem', 'E Arbel']
+     Venue NA
+     Year 2016
+     Abstract Roderick Bloem• Eli Arbel (Eds.) Hardware and Software: Verification and Testing 12th International  A special session about verification and testing challenges of autonomous systems was  hardware design and verification, by Amir Rahat (Optima Design Automation) on design
+     Url https://books.google.com/books?hl=ro&lr=&id=TUVrDQAAQBAJ&oi=fnd&pg=PR5&dq=%22Automation%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Testing%22&ots=Ma6nNvjjKB&sig=bDQ7yCE7tiJGz104Mo337L9rD9U
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Bridge software validation guidelines and examples
+     Author ['M Mlynarski', 'JA Puckett', 'CM Clancy']
+     Venue Transportation …
+     Year 2000
+     Abstract details and were developed to support automation of a large number of illustrations (and to  end user's perspective and the other from the perspective of test suite and software validation  DOT, FHWA, and Kansas DOT; many other agencies have helped in testing and validation
+     Url https://journals.sagepub.com/doi/abs/10.3141/1696-17
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Evidential and Continuous Integration of Software Verification Tools
+     Author ['TA Beyene', 'H Ruess']
+     Venue International Symposium on Formal Methods
+     Year 2018
+     Abstract and certification methods based on manual reviews, process constraints, and testing, which are  domain, and IEC 61508 for industrial domains including factory automation and robotics  of a wide range of complementary approaches to software verification, including automated
+     Url https://link.springer.com/chapter/10.1007/978-3-319-95582-7_45
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Autonomy software verification and validation might not be as hard as it seems
+     Author ['E Gat']
+     Venue 2004 IEEE Aerospace Conference Proceedings (IEEE …
+     Year 2004
+     Abstract Autonomy Software Verification and Validation  the possible states of the software into a small number of equivalence classes and testing sample states  Proceedings of the 2001 Internotional Symposium on Artificial Intelligence, Robotics, and Automation for Space, Montreal
+     Url https://ieeexplore.ieee.org/abstract/document/1368117/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Toward automatic testing of flight software
+     Author ['LK Belden']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing
+     Author ['N Piterman']
+     Venue NA
+     Year 2015
+     Abstract Nir Piterman (Ed.) Hardware and Software: Verification and Testing 11th International Haifa Verification  Com- pared to traditional software testing, dynamic software model checking provides better  verification guarantees, but is cheaper due to its higher level of automation
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-26287-1.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Using Certified Software Validation Tools to Increase Software Reliability in Satellite and Spacecraft Applications
+     Author ['J Thomas']
+     Venue AIAA SPACE 2010 Conference & Exposition
+     Year 2010
+     Abstract Using Certified Software Validation Tools to Increase  This automation provides time savings in system engineering processes as well as rigorous enforcement  Again, this whole matrix of relationships all the way down to the software verification report can be represented via an
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2010-8625
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Weighting influence of user behavior in software validation
+     Author ['A Bertolino', 'E Cartaxo', 'P Machado']
+     Venue … on Database and …
+     Year 2008
+     Abstract Similarity Approach (WSA), which weights the influence of user be- haviour in software validation  the focus of our proposal is to guide to appropri- ate testing choices since  To find applicable solutions, we adopted two important guide- lines: maximizing usability and automation
+     Url https://ieeexplore.ieee.org/abstract/document/4624765/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The Goldilocks Principle: Approaches to Software Validation
+     Author ['M Allen', 'S Gitelis']
+     Venue Medical Devices & Diagnostic Industry
+     Year 2006
+     Abstract And usually that includes prac- tices such as monumental testing and SOFTWARE >> The Goldilocks  Still, it often seems that QA professionals try to do just that during software validation  For al- most every major automation process, there is a vendor that supplies the soft- ware
+     Url https://eacpds.com/images/netregulus/GoldilocksPrinciple_softwarevalidation.pdf
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Bridge Software: Validation Guidelines and Examples
+     Author ['Michael Baker Jr.', 'Inc']
+     Venue NA
+     Year 2003
+     Abstract 9 Implementation Illustration—AASHTO LRFD Subdomains, 9 Full Automation, 9 Subdomain  4 Conclusion and Suggested Research Limitations, 20 Additional Testing Possibilities, 20 Design Comparisons, 20 Speciﬁcation Review, 20 Software Validation, 20 Suggested
+     Url https://books.google.com/books?hl=ro&lr=&id=VBcYGFh1GrUC&oi=fnd&pg=PA3&dq=%22Automation%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Testing%22&ots=WDEZ-wan8g&sig=bC6OOuGfJewqe3xMdYWC9_ZwxGM
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Test automation method for software programs
+     Author ['C Li']
+     Venue US Patent 7,930,683
+     Year 2011
+     Abstract In this embodiment, the test automation method is used for unit testing of the client side of mobile infrastructure based applications  Data in the test data repository can later be used by a test automation framework at box 108 for testing
+     Url https://patents.google.com/patent/US7930683B2/en
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Change-Based Test Management: Improving the Software Validation Process
+     Author ['J Sistowicz', 'R Arell']
+     Venue NA
+     Year 2003
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A embedded software testing process model
+     Author ['H Qian', 'C Zheng']
+     Venue 2009 International Conference on …
+     Year 2009
+     Abstract 4) Embedded software testing tools will be introduced in the model, embedded software test automation is realized to improve the  B. target-based testing a) embedded software validation testing Based on the software requirement specification, test cases are designed to cover
+     Url https://ieeexplore.ieee.org/abstract/document/5366362/
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software Verification—A Scalable, Model-Driven, Empirically Grounded Approach
+     Author ['LC Briand']
+     Venue Simula Research Laboratory
+     Year 2010
+     Abstract the scalability and effectiveness of evolutionary testing to address realistic test automation problems still  to believe that certain types of model-based analysis and testing strategies, supported  search techniques, can be combined to address large-scale software verification in
+     Url https://link.springer.com/chapter/10.1007/978-3-642-01156-6_28
+
+
+     Search term "Automation"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Autonomous mobility software validation challenges for planetary surface missions
+     Author ['EW Tunstel']
+     Venue NA
+     Year 2003
+     Abstract non-deterministic aspects of the surface mobility problem that present challenges for autonomy software validation  for Mars rover mobility,” International Symposium on Artificial Intelligence, Robotics and Automation in Space  [5] Rakitin, SR, Software Verification and Validation
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/7133/03-0756.pdf?sequence=1
+

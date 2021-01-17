@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract implementation of the water sector model in both a software and hardware simulation. Testing and results of the simulation are presented in chapter 6. Finally, conclusions and  Finally, malicious actors are those who are targeting the ICS directly  Denotes SCADA component
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware-in-the-Loop Assessment Methods
+     Author ['VH Nguyen', 'QT Tran', 'E Guillo-Sansano']
+     Venue European Guide to …
+     Year 2020
+     Abstract Due to the addition of the hardware/simulation interface, thus various external disturbances (especially the time  link and OpSim architecture) and then in PHIL-PSIL manner (via SCADA-as-a  The bus voltage in the microgrid is then regulated according to the three optimization
+     Url https://link.springer.com/chapter/10.1007/978-3-030-42274-5_4
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title A compact digitally controlled fuel cell/battery hybrid power source
+     Author ['Z Jiang', 'RA Dougal']
+     Venue IEEE Transactions on Industrial …
+     Year 2006
+     Abstract potential for several areas of applications such as those in portable electron- ics, hybrid electric  to serve only as a voltage or current regulator, the power converter is regulated to balance  Simulation and experiment results show that the control algorithm is able to correctly select
+     Url https://ieeexplore.ieee.org/abstract/document/1667907/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware In the Loop (HIL) simulation of wind turbine power control
+     Author ['T Puleva', 'G Rouzhekov', 'T Slavov', 'B Rakov']
+     Venue NA
+     Year 2016
+     Abstract algorithms is presented. It is based on application of programmable logical controller (PLC) and on plant dynamics simulator. A system for hardware simulation of control algorithms is developed. Its structure and characteristics
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2016.1053
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Real-time multi-board architecture for analog spiking neural networks
+     Author ['S Saïghi', 'J Tomas', 'Y Bornat', 'B Belhadj']
+     Venue Proceedings of 2010 …
+     Year 2010
+     Abstract biophysical models following the Hodgkin-Huxley (HH) formalism, with two objectives: a) build hardware simulation systems for  The analog custom ICs are controlled by the digital hardware layer  The supply voltage is 5 V and all the other power supplies are regulated on board
+     Url https://ieeexplore.ieee.org/abstract/document/5538039/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation  the interviewers had to review written material concerning the different top- ics to better  The separator is driven by an asynchronous induction motor regulated by a VFD
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Smart grid simulations and control
+     Author ['A Chakrabortty', 'A Bose']
+     Venue Power Electronics in Renewable …
+     Year 2019
+     Abstract the d‐ and q‐axis currents of the rotor need to be regulated to pre  Since the operator usually observes the power system through SCADA, which updates every few sec  geographical spans of the grid, how can we accurately simulate the cyber‐physical system (CPS) interactions
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119515661.ch11
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Design and Process control of Siemens polysilicon CVD reactor
+     Author ['AS Priya', 'SV Kumar', 'SK Mathew']
+     Venue 2015 Conference on …
+     Year 2015
+     Abstract This GUI based SCADA handles likelihood of fault tolerance, ensuring risk controlled  V. SIMULATION RESULTS OF CVD REACTION The hardware simulation is developed using National  The outlet pressure valve is regulated accordingly to obtain characteristics as shown
+     Url https://ieeexplore.ieee.org/abstract/document/7503950/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Requirements Analysis for a Hardware, Discrete-Event, Simulation Engine Accelerator.
+     Author ['PJ Taylor Jr']
+     Venue NA
+     Year 1991
+     Abstract to standardize the tools needed to design, test, and document large-scale digital electron- ics more efficiently. Initial imp' mentations of VHDL were developed by Intermetrics, Inc  1.5 Scope Implementation of a specific hardware simulation accelerator was not the goal of this
+     Url https://apps.dtic.mil/sti/citations/ADA244202
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Underwater computer
+     Author ['ER Leach', 'JA Robbins', 'SB Helton', 'JJ Webb']
+     Venue US Patent 4,658,358
+     Year 1987
+     Abstract A Government laboratory, in an attempt to minimize DCS occurrence, has developed a diver  Decompression is regulated by comparing the updated partial pressure in the nine compartments  In order to test this hardware, a digital hardware simulation of the pressure transducer
+     Url https://patents.google.com/patent/US4658358A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title A compiler for biological networks on silicon chips
+     Author ['JK Medley', 'J Teo', 'SS Woo', 'J Hellerstein']
+     Venue PLoS computational …
+     Year 2020
+     Abstract Author summary We present a “silicon compiler” that is capable of translating biochemical models encoded in the SBML standard into specialized analog cytomorphic hardware and transfer function–level simulations of such hardware. We show how the compiler and hardware address
+     Url https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008063
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title A Computer Architecture Laboratory
+     Author ['A Barbour']
+     Venue Proc. Of the
+     Year 1993
+     Abstract is the need to use an extension breadboard to accommodate large number of ICs for some  A regulated 5 volt power supply and low frequency pulse generator can be built for  A hardware simulation program, in addition to the hardware lab, gives CS students more insight into
+     Url http://ccscjournal.willmitchell.info/Vol9-93/No3/Ahmed%20E%20Barbour.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Experimental measurement of PMU error distribution and its impact on load model identification
+     Author ['X Zhang', 'C Lu', 'J Lin', 'Y Wang', 'J Wang']
+     Venue 2016 IEEE Power …
+     Year 2016
+     Abstract error are measured through an experiment carried in apower system hardware simulation platform  Compared with traditional SCADA and EMS measurement, the data measured from PMU has the  are given [9]. The amplitude error of current and voltage are regulated by the
+     Url https://ieeexplore.ieee.org/abstract/document/7741069/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Real time engine dynamic analysis and control
+     Author ['G Hogh', 'BK Powell', 'GP Lawson']
+     Venue NA
+     Year 1988
+     Abstract Generally, the primary ADIO application is in aerospace hardware simulation, development and testing, being  the engine/dynamometer at a fixed rpm over a series of regulated torque level  condensation dy- namics, common exhaust plenum, and load and rotational dynam- ics
+     Url https://www.sae.org/publications/technical-papers/content/885104/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Smart grid simulations and their supporting implementation methods
+     Author ['A Chakrabortty', 'A Bose']
+     Venue Proceedings of the IEEE
+     Year 2017
+     Abstract their supporting implementation methods can help us in understanding the evolving behavior of tomorrow's power networks as a truly intelligent cyber-physical system  Typically, both the d- and q-axis currents of the rotor need to be regulated to precomputed setpoints based on
+     Url https://ieeexplore.ieee.org/abstract/document/8052093/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Smart factory automation using internet of things to ensure quality manufacturing
+     Author ['P Pariyumbud', 'R Samkaria']
+     Venue … & Reviews: A …
+     Year 2018
+     Abstract Since the industries have met with Internet of things (IoT) and cyber-physical system (CPS), it  along with the controller unit fed up by this regulated power source  PROTOTYPE DEVELOPMENT Proteus is hardware simulation software provided with a very understandable design
+     Url http://computerjournals.stmjournals.in/index.php/JoESA/article/view/6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title The use of FPGA in field-oriented control of an induction machine
+     Author ['Ö AKIN', 'I Alan']
+     Venue Turkish Journal of Electrical Engineering & …
+     Year 2010
+     Abstract parameters in the figure. Field Orientation Control Inverter IM i e ds i e qs ie* ds ie* qs e r i* cs i* bs i* as ias ibs ics Figure 1. A simple block diagram of a field oriented controlled induction machine. The main advantages of field
+     Url https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=11262
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Auto-Tuning High Current Dual-Channel Motor Control Unit with Communication
+     Author ['S Borse', 'P Jani', 'R Jain', 'K Bhadesiya']
+     Venue NA
+     Year NA
+     Abstract obtained by implementation of system-identification technique and real-time hardware simulation using MATLAB  The required biasing components for the ICs according to parameters are taken from  The input power is then regulated by LM7805-SOT223[4] voltage regulator to
+     Url https://www.researchgate.net/profile/Shreyas_Borse/publication/340528203_Auto-Tuning_High_Current_Dual-Channel_Motor_Control_Unit_with_Communication/links/5e8ef633299bf1307989f405/Auto-Tuning-High-Current-Dual-Channel-Motor-Control-Unit-with-Communication.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Innovative Scaled Hardware Simulator for Designing and Testing an EV's Battery Storage System Incorporated with an Adaptive ANN Model
+     Author ['M Bezha', 'M Ishii', 'T Shoda', 'Y Hoshide']
+     Venue Applied System …
+     Year 2020
+     Abstract It is necessary to develop a new hardware simulation that can test the battery pack  of three blocks: a charging and discharging circuit equipping the integrated circuits (ICs), the microprocessor  circuit is composed of a charging and a discharging circuit, each regulated through a
+     Url https://www.mdpi.com/2571-5577/3/2/27
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Design and Analysis of Low Power Intrinsic Safe Direct-Digital Ohmmeter for Pyrotechnic Resistance Measurement
+     Author ['PV Noel', 'SA Saroop', 'R Thankachan']
+     Venue … on Circuits and …
+     Year 2018
+     Abstract V. EXPERIMENTAL RESULTS A. Implementation details The practicality of the circuit has been verified using commercial of the shelf components and ICs  Iout2 is the maximum load current that can be provided by the regulated output of the charge pump
+     Url https://ieeexplore.ieee.org/abstract/document/8821068/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title IMPLEMENTATION OF MULTILEVEL INVERTER USING SPACE VECTOR PULSE WIDTH MODULATION.
+     Author ['U Shahid', 'A Shafique', 'I Khan']
+     Venue Science …
+     Year 2016
+     Abstract 4] Fig 2: Hardware simulation of 3-level, 3-phase diode clamped inverter  Gate driver ICs. But  transformers. We used step down transformers, rectified the output of the transformer and regulated the DC output with regulator IC 7815
+     Url https://www.researchgate.net/profile/Umer_Shahid6/publication/303987595_IMPLEMENTATION_OF_MULTILEVEL_INVERTER_USING_SPACE_VECTOR_PULSE_WIDTH_MODULATION/links/5cbc5a7aa6fdcc1d49a43283/IMPLEMENTATION-OF-MULTILEVEL-INVERTER-USING-SPACE-VECTOR-PULSE-WIDTH-MODULATION.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware modeling system and method of use
+     Author ['AJ Read', 'MS Papamarcos', 'WP Heideman']
+     Venue US Patent …
+     Year 1994
+     Abstract The HMS of the present invention provides hardware models of standard ICs, ASICs, and electronic subsystems  1) modeling standard off-the-shelf ICs, including static and dynamic ICs and VLSI ICs, in simulation of an electronic system design;
+     Url https://patents.google.com/patent/US5353243A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hybrid Real-Time Simulator for Setting of Automatic Secondary Frequency and Active Power Control.
+     Author ['R Ufa', 'A Vasiliev', 'N Ruban']
+     Venue Electrotehnica …
+     Year 2020
+     Abstract An analysis of existing simulators shows that modern “hybrid” (co-simulation) soft- and hardware simulation tools, like  It used to input telemetry into SCADA and received back control actions  demand of electricity (power demand), it is planned to use controlled/regulated load in
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15825175&AN=143691419&h=zSsW79xCcvCWpaX4HR975ycWPjq%2FPucLiM7up%2BPIZiHme1WJlEcWMEnReb8G66oQIPIPcUPbYsXa2TKG6u5Flw%3D%3D&crl=c
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title DESIGN OF MPPT USING INTELLIGENT SYSTEM FOR HYBRID WIND SOLAR PV PLANT
+     Author ['S NASKAR']
+     Venue NA
+     Year 2019
+     Abstract conditions. The entire hybrid system is described given along with comprehensive simulation results that discover the feasibility of the system. A hardware simulation model has been developed on a small scale to demonstrate our ideas. Page 8. ©RCCIIT, DEPT. OF EE Page
+     Url https://www.rcciit.org/students_projects/projects/ee/2019/GR6.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title PLC based intelligent traffic control system
+     Author ['MA Khattak']
+     Venue International Journal of Electrical & Computer Sciences …
+     Year 2011
+     Abstract Hardware simulation tests were successfully performed on the algorithm implemented into a PLC  Please use only industrial grade linear or switching regulated power supply from established  computer or a master PLC for networking or to implement a distributed control system
+     Url https://www.academia.edu/download/53128853/110606-9494-IJECS-IJENS.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Historical review of air-bearing spacecraft simulators
+     Author ['JL Schwartz', 'MA Peck', 'CD Hall']
+     Venue Journal of Guidance, Control, and …
+     Year 2003
+     Abstract The other two axes of rotation and out-of-plane translation are ar- guably less important in the investigation of relative orbital dynam- ics, at least for the level of effort required  The platform includes 1000 in.3 of regulated cold gas to feed sixteen 25-lb high-response thrusters
+     Url https://arc.aiaa.org/doi/abs/10.2514/2.5085
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Smart grid test bed design and implementation
+     Author ['N Kush', 'AJ Clark', 'E Foo']
+     Venue NA
+     Year 2010
+     Abstract The integration of ICT techniques and technology are intended to enhance the characteristics of existing SCADA network and provide additional benefits, both to the consumers as well  2. Avoid standardising connection interfaces to be regulated by local govern- ing authorities
+     Url https://eprints.qut.edu.au/39098/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Bit significance based reconfigurable approximate restoring dividers and square rooters
+     Author ['N Arya', 'T Soni', 'M Pattanaik', 'GK Sharma']
+     Venue Microelectronics Journal
+     Year 2020
+     Abstract The energy consumption of such digital ICs has also become a critical parameter owing to limited battery capacities and enhanced functionalities of  The CSCs are regulated by a subtractor cell controller which has control output bus for each row controlling the CSC operation in
+     Url https://www.sciencedirect.com/science/article/pii/S0026269220304602
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Electronic system modelling of UT pulser-receiver and the electron beam welding power source
+     Author ['T Parthipan']
+     Venue NA
+     Year 2013
+     Abstract Page 1. BRUNEL UNIVERSITY Electronic System Modelling of UT Pulser-Receiver and the Electron Beam Welding Power Source By Thayaparan Parthipan A thesis submitted in partial fulfilment for the degree of Engineering Doctorate In the School of Engineering and Design
+     Url https://bura.brunel.ac.uk/handle/2438/13892
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Fast simulation of stochastic biochemical reaction networks on cytomorphic chips
+     Author ['SS Woo']
+     Venue NA
+     Year 2016
+     Abstract Page 1. Fast Simulation of Stochastic Biochemical Reaction Networks on Cytomorphic Chips by Sung Sik Woo BS, Electrical Engineering KAIST (2009) SM, Electrical Engineering and Computer Science Massachusetts Institute of Technology (2012)
+     Url https://dspace.mit.edu/handle/1721.1/107292
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Co-evolution of rewards and meta-parameters in embodied evolution
+     Author ['S Elfwing', 'E Uchibe', 'K Doya']
+     Venue Creating Brain-Like Intelligence
+     Year 2009
+     Abstract Embodied evolution is a methodology for evolutionary robot- ics that mimics the distributed, asynchronous, and autonomous proper- ties of biological evolution  mating, ie, a pairwise exchange of genotypes, and the probability of a robot to reproduce offspring is regulated by the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-00616-6_13
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Simulation tools for analysis and design of distribution networks with distributed energy resources
+     Author ['JA Martinez-Velasco', 'F De Leon']
+     Venue Electrical Power Quality …
+     Year 2009
+     Abstract Page 1. Electrical Power Ouality and Utilisation, Journal Vol. XV, No. 1, 2009 Simulation Tools for Analysis and Design of Distribution Networks with Distributed Energy Resõurces Juan A. MARTÍNEZ-VELASCO ), Francisco de LEÓN?), Venkata DINAVAHI3) 1) Univ
+     Url https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-d14b6cc5-a418-486b-87ac-ca42855933b9
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Silicon neural networks: implementation of cortical cells to improve the artificial-biological hybrid technique
+     Author ['FG Grassia']
+     Venue NA
+     Year 2013
+     Abstract The system, which includes artifi- cial and living neural networks, will form a closed loop with a regulated feedback. The  This work addresses two of the fields of research of our BioElectronics group: (i) to build a hardware simulation system for computational
+     Url https://tel.archives-ouvertes.fr/tel-00789406/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Scheduling algorithms for effective thread pairing on hybrid multiprocessors
+     Author ['RL McGregor', 'CD Antonopoulos']
+     Venue 19th IEEE …
+     Year 2005
+     Abstract policy in which the bus band- width consumption from the threads scheduled in each time quantum is regulated and threads  cycles would assist the scheduler to make more ed- ucated decisions, but such a characterization is not possible without detailed hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/1419847/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Design and analysis of therapeutic ultrasound systems to develop a diathermy device
+     Author ['MA Dhali']
+     Venue NA
+     Year 2012
+     Abstract The hardware implementation of the proposed design is discussed in Chapter 3. The output results of the hardware, simulation results and comparison are shown and discussed in Chapter 4. Also the practical test on subject is also discussed in the chapter
+     Url http://103.82.172.44:8080/xmlui/handle/123456789/289
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Problems of instrumental support for the development of distributed embedded real-time systems
+     Author ['AG Bakhmurov', 'RL Smelyansky']
+     Venue Programming and Computer Software
+     Year 2013
+     Abstract of an important and widespread class of Auto mated CSs for technological processes (SCADA sys tems [3  The SCADE envi ronment has no tools for hardware simulation  in the Laboratory of Computing Systems of the Faculty of Computational Mathemat ics and Cybernetics of
+     Url https://link.springer.com/article/10.1134/S0361768813050022
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Effect of Lipid Bilayer Composition on Membrane Protein
+     Author ['AB Pawar', 'X Prasanna', 'D Sengupta']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Design and fpga implementation of an efficient deinterleaving algorithm
+     Author ['ME Olgun']
+     Venue NA
+     Year 2008
+     Abstract Page 1. DESIGN AND FPGA IMPLEMENTATION OF AN EFFICIENT DEINTERLEAVING ALGORITHM A THESIS SUBMITTED TO THE GRADUATE SCHOOL OF NATURAL AND APPLIED SCIENCES OF MIDDLE EAST TECHNICAL UNIVERSITY BY
+     Url https://open.metu.edu.tr/handle/11511/17763
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Constrained model predictive control for compliant position tracking of pneumatic systems
+     Author ['HG Daepp']
+     Venue NA
+     Year 2016
+     Abstract 1.3 Thesis Organization The thesis structure first familiarizes the reader with problem detail and system dynam- ics, then introduces the controller, and then discusses theoretical analysis, implementation details, necessary extensions and results
+     Url https://smartech.gatech.edu/handle/1853/55593
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Embedded systems: world class designs
+     Author ['J Ganssle']
+     Venue NA
+     Year 2007
+     Abstract software development engineer with more than 15 years experience in all aspects of software analysis, design, development and configuration management in ISO 9001, FDA, and NASA regulated environments  Stuart also covers commercial ICs that do the amplification work
+     Url https://books.google.com/books?hl=en&lr=&id=g85yH6tF1S4C&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Regulated%22&ots=EbDg4K62pD&sig=V66X_eVl-3GcrdoYjG6wc_Mimd0
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Evaluation of decentralized reactive swing-leg controllers on powered robotic legs
+     Author ['A Schepelmann']
+     Venue NA
+     Year 2016
+     Abstract Page 1. Evaluation of Decentralized Reactive Swing-Leg Controllers on Powered Robotic Legs Alexander Schepelmann CMU-RI-TR-16-02 Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Robotics
+     Url https://kilthub.cmu.edu/ndownloader/files/12249863
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Strobe-frame sampling of subnanosecond radio pulses
+     Author ['IF Budagyan', 'MS Kostin', "AV Shil'tsin"]
+     Venue Journal of Communications …
+     Year 2017
+     Abstract number of the operating counters of the NVA6201 transceiver can be regulated depending on  2. SOFTWARE-HARDWARE SIMULATION OF STROBE-FRAME SAMPLING IN THE SIMULINK ENVIRONMENT  speed SFS logical circuits with the help of program- mable logical ICs
+     Url https://link.springer.com/article/10.1134/S1064226917050047
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Optimal Operation of Grid-Tied Energy Storage Systems Considering Detailed Device-Level Battery Models
+     Author ['Z Taylor', 'H Akhavan-Hejazi']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Page 1. 3928 IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS, VOL. 16, NO. 6, JUNE 2020 Optimal Operation of Grid-Tied Energy Storage Systems Considering Detailed Device-Level Battery Models Zachariah Taylor
+     Url https://ieeexplore.ieee.org/abstract/document/8825535/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Marshall Space Space Flight Center
+     Author ['MS PROGBAM']
+     Venue NA
+     Year 1974
+     Abstract Page 1. NASA TECHNICAL MEMORANDUM July 1974 NASA TM X-64808 \ MSFC SKYLAB PROGRAM ENGINEERING AND INTEGRATION Skylab Program O_ioe NASA George C. Marshall (NASA-TM-X-6_89_) ENGINEERING _ND HC $9.25 Marshall Space
+     Url https://core.ac.uk/download/pdf/42892756.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Novel frequency swapping technique for conducted electromagnetic interference suppression in power converter applications
+     Author ['MT Kuo', 'MC Tsou']
+     Venue Energies
+     Year 2017
+     Abstract Besides, how to realize frequency modulation is dominated by controllers, and it is feasible for aforementioned methods to be embedded in a chip. Actually, kinds of control integrated circuits (ICs) inclusive of above functions are available nowadays
+     Url https://www.mdpi.com/1996-1073/10/1/24
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title XAUV: modular high maneuverability autonomous underwater vehicle
+     Author ['DG Walker']
+     Venue NA
+     Year 2009
+     Abstract 85 4.2.1 D ecoupled Dynam ics ..... 85  (4) Update simulation with lessons learned from hardware ----- Simulation Small Platform Hardware Platform II (1) Iterate (3) Test * I i
+     Url https://dspace.mit.edu/handle/1721.1/46639
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Anticipating and Adapting to Increases in Water Distribution Infrastructure Failure Caused by Interdependencies and Heat Exposure from Climate Change
+     Author ['E Bondank']
+     Venue NA
+     Year 2019
+     Abstract Power systems are integral to water systems. The two are connected through water pumps, valves, and SCADA need for power,7,114 possible load drops from pump failure, possible transformer flooding from pipe break,115 and generator capacity drop from lack
+     Url https://core.ac.uk/download/pdf/240229133.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Improved Alchemical Free Energy Calculations with Optimized Smoothstep Softcore Potentials
+     Author ['TS Lee', 'Z Lin', 'BK Allen', 'C Lin', 'BK Radak', 'Y Tao']
+     Venue NA
+     Year 2020
+     Abstract 59 60 Page 4. Introduction Recent progress and improvements in computer hardware, simulation software, and free energy methods,1–12 especially the development of highly efficient and cost-effective GPU accelerated free
+     Url http://theory.rutgers.edu/resources/pdfs/ct-2020-00237p_Proof_hi.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title SOFT-SWITCHING SOLID-STATE TRANSFORMER FOR TRACTION APPLICATIONS
+     Author ['X Han']
+     Venue NA
+     Year 2020
+     Abstract Page 1. SOFT-SWITCHING SOLID-STATE TRANSFORMER FOR TRACTION APPLICATIONS A Dissertation Presented to The Academic Faculty By Xiangyu Han In Partial Fulfillment of the Requirements for the Degree Doctor
+     Url https://smartech.gatech.edu/handle/1853/63682
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Relative navigation, microdischarge plasma thruster, and distributed communications experiments on the FASTRAC mission
+     Author ['G Holt', 'S Stewart', 'J Mauldin', 'T Campbell', 'P Eckhoff']
+     Venue NA
+     Year 2003
+     Abstract heating in the discharge is accomplished at an upstream location from the nozzle where the pressure can be regulated to high  Command and Data Handling/Telemetry (C&DH) Radio Design The radio design is composed of individual Kantron- ics and Hamtronics components
+     Url https://digitalcommons.usu.edu/smallsat/2003/All2003/78/
+

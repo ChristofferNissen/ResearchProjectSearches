@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical Intelligent Infusion Monitoring System Based on 5G Network and FPGA
+     Author ['C Bei', 'Y Liu', 'J Gu']
+     Venue Microprocessors and Microsystems
+     Year 2020
+     Abstract verticality. Continuous medical infusion intelligent monitoring system improves people's lifestyle  health. Multiple tasks are accomplished with the same interface, buffering and compression FPGA (Field Programmable Gate Array) devices
+     Url https://www.sciencedirect.com/science/article/pii/S0141933120305500
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of Morlet continuous wavelet transform for EEG analysis
+     Author ['YT Qassim', 'T Cutmore', 'D James']
+     Venue … on Computer and …
+     Year 2012
+     Abstract FPGA Implementation of Morlet Continuous Wavelet Transform for EEG Analysis  Abstract—this article presents the design and implementation of continuous wavelet transform (CWT) of nonstationary Electroencephalogram (EEG) signals using a Spartan 3AN FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6271152/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Multichannel FPGA-based arbitrary waveform generator for medical ultrasound
+     Author ['S Ricci', 'L Bassi', 'E Boni', 'A Dallai', 'P Tortoli']
+     Venue Electronics Letters
+     Year 2007
+     Abstract to implement a single-channel arbitrary wave genera- tor (AWG) for US medical applications [5  off-line, through a sigma–delta modulator, and stored in the memory connected to the FPGA  a performance is compatible with the need to produce 600 Mbit/s continuous data flow
+     Url https://ieeexplore.ieee.org/abstract/document/4390977/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks
+     Author ['A Sanaullah', 'C Yang', 'Y Alexeev', 'K Yoshii']
+     Venue BMC …
+     Year 2018
+     Abstract Interface (BCI) [5] based technique that can extract appropriate features from continuous EEG signal  space for compute-bound MLP inference processors using our proposed FPGA-based architecture  our design to be feasible for applications such as real-time medical diagnosis
+     Url https://link.springer.com/article/10.1186/s12859-018-2505-7
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Automatic detection of electrocardiographic arrhythmias by parallel continuous neural networks implemented in FPGA
+     Author ['M Alfaro-Ponce', 'I Chairez']
+     Venue Neural Computing and …
+     Year 2019
+     Abstract of heart disease are not aware of their condition until a catastrophic medical event occurs  This kind of continuous classifier offers an online detection of classical arrhythmia observed in  CoNN algorithm using fixed point arithmetic on a field-programmable gate array (FPGA)
+     Url https://link.springer.com/article/10.1007/s00521-017-3051-3
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Design considerations of real-time adaptive beamformer for medical ultrasound research using FPGA and GPU
+     Author ['J Chen', 'CH Alfred', 'HKH So']
+     Venue 2012 International Conference on …
+     Year 2012
+     Abstract are being scanned, the real-time definition in medical ultrasound imaging is the human perception of a continuous image video  is in the following aspects: • The designs and implementations of MV adaptive beam- forming for medical ultrasound using FPGA and GPU
+     Url https://ieeexplore.ieee.org/abstract/document/6412134/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Design and test issues of an FPGA based data acquisition system for medical imaging using PEM
+     Author ['C Leong', 'P Bento', 'P Lousã', 'J Nobre']
+     Venue … on Nuclear Science
+     Year 2006
+     Abstract lines) and the modules response to the test vectors, that is, modules signatures (continuous lines)  although they occupy (in the case of the DAQ FPGA) around of the FPGA resources  3] J. Varela, “Electronics and data acquisition in radiation detectors for medical imaging,” Nucl
+     Url https://ieeexplore.ieee.org/abstract/document/1644939/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical connector
+     Author ['JF Donnan', 'DA Reed']
+     Venue US Patent 4,526,572
+     Year 1985
+     Abstract OF GREAT BRITAIN reassignment BOOTS COMPANY PLC., THE, A CORP  Description. The present invention relates to connectors for medical tubing and particularly relates to connectors for use in medical apparatus intended for continuous ambulatory peritoneal
+     Url https://patents.google.com/patent/US4526572A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time 3D image preprocessing for image-guided medical interventions
+     Author ['O Dandekar', 'C Castro-Pareja', 'R Shekhar']
+     Venue Journal of Real-Time Image …
+     Year 2007
+     Abstract FPGA-based real-time 3D image preprocessing for image-guided medical interventions  In the continuous volumetric mode, multislice CT is capable of acquiring images with 256 × 256 × 64 dimensions and resolutions of 0.625 mm, 8 times per second
+     Url https://link.springer.com/article/10.1007/s11554-007-0028-y
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical navigation apparatus
+     Author ['JS Bladen', 'AP Anderson']
+     Venue US Patent 7,174,202
+     Year 2007
+     Abstract B2 US7174202 B2 US 7174202B2 Authority US United States Prior art keywords navigation apparatus defined medical medical navigation operable Prior  and makes no representation or warranty as to the accuracy of the list.) British Telecommunications PLC Original Assignee
+     Url https://patents.google.com/patent/US7174202B2/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title A new FPGA-based real-time configurable system for medical image processing
+     Author ['I Chiuchisan']
+     Venue 2013 E-Health and Bioengineering Conference …
+     Year 2013
+     Abstract In the system description I used continuous-type assignments (assign) that command variable type wire, being  3] Sparsh Mittal, Saket Gupta, S. Dasgupta, “FPGA: An Efficient  4] Iuliana Chiuchişan, M. Cerlincă, „Implementation of Real-Time System for Medical Image Processing
+     Url https://ieeexplore.ieee.org/abstract/document/6707301/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based computation of free-form deformations in medical image registration
+     Author ['J Jiang', 'W Luk', 'D Rueckert']
+     Venue Proceedings. 2003 IEEE …
+     Year 2003
+     Abstract [SI S. Coric, M. Leeser, E. Miller and M. Trepanier, “Parallel-heam hackprojectinn: an FPGA implemen- tation optimized for medical imaging,” Proc  2016-2021,2001. [XI S. Horhelt, A. Munoz, T. Blu and M. Unser, “Spline kemels for continuous-Space image processing
+     Url https://ieeexplore.ieee.org/abstract/document/1275753/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Atomizing pump dispenser for water based formulations
+     Author ['MS Cater']
+     Venue US Patent 5,163,588
+     Year 1992
+     Abstract en 2009-12-15 Assigned to CONSORT MEDICAL PLC reassignment CONSORT MEDICAL PLC CHANGE OF  Assignors: BESPAK PLC 2011-04-10 Anticipated expiration legal-status Critical 2020-03-13  A third vertical hollow cylinder has a lower end in continuous fluid sealing
+     Url https://patents.google.com/patent/US5163588A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Continuous Beam Scanning Intensity Control of a Medical Proton Accelerator Using a Simulink Generated FPGA Gain Scheduled Controller
+     Author ['P Fernandez Carmona', 'C Bula']
+     Venue 12th Int. Workshop …
+     Year 2019
+     Abstract AB-At the Centre for Proton Therapy at the Paul Scherrer Institut we treat cancer patients using a fixed beam line and two gantries. The latter use a step-and-shoot technique to deliver dose covering the treatment volume with a grid of weighted proton bunches. Dose
+     Url http://accelconf.web.cern.ch/AccelConf/pcapac2018/export/FRCC2-ris.htm
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA in technical resources of medical imaging
+     Author ['V Kasik', 'Z Chvostkova']
+     Venue 2013 IEEE 11th International …
+     Year 2013
+     Abstract The objective of this paper is to reveal and demonstrate the possibility of accelerating algorithms in medical imaging technique using FPGA  The animation is solved with different ROM-based images in FPGA without continuous redrawing of the video memory
+     Url https://ieeexplore.ieee.org/abstract/document/6480973/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title High-speed tunable FDML laser, interfaced to a continuous FPGA acquisition system, for FBG accelerometer interrogation
+     Author ['MAB Abdallah', 'G Laffont', 'N Roussel']
+     Venue SENSORS, 2014 …
+     Year 2014
+     Abstract data acquisition system based on a 250 MS/s 4-channels FPGA board  Keywords—Tunable Laser; FDML laser; FBG; Optical Fiber Sensors; Continuous acquisition system; accelerometer  maritime transportation, oil & gas, wind energy, composite materials, medical domain
+     Url https://ieeexplore.ieee.org/abstract/document/6984924/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Continuous vacuum wound drainage system
+     Author ['EG Phillips', 'RW Insalaco', 'WM Booth III']
+     Venue US Patent 4,569,674
+     Year 1986
+     Abstract US4569674A - Continuous vacuum wound drainage system - Google Patents. Continuous vacuum wound drainage system. Download PDF Info. Publication number US4569674A. US4569674A US06/404,791 US40479182A
+     Url https://patents.google.com/patent/US4569674A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Continuous beam scanning intensity control of a medical proton accelerator using a Simulink generated FPGA gain scheduled controller
+     Author ['PF Carmona', 'V Minnig', 'G Klimpki', 'D Meer', 'M Eichin']
+     Venue NA
+     Year NA
+     Abstract At the Center for Proton Therapy at the Paul Scherrer Institute cancer patients are treated with a fixed beamline and in two gantries for ocular and non-ocular malignancies. The gantries use a step-and-shoot technique to deliver dose covering the treatment volume
+     Url https://s3.cern.ch/inspire-prod-files-2/24b0525f95121210231eaef04ebf972c
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Apparatus for dispensing liquid in aerosol spray form
+     Author ['MS Cater']
+     Venue US Patent 5,664,706
+     Year 1997
+     Abstract en 2009-12-15 Assigned to CONSORT MEDICAL PLC reassignment CONSORT MEDICAL PLC CHANGE OF  Assignors: BESPAK PLC 2015-02-02 Anticipated expiration legal-status Critical 2020-01  wall of a tubular extension (16) of the pump body, continuous sliding contact
+     Url https://patents.google.com/patent/US5664706A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA technologies in medical equipment: Electrical impedance tomography
+     Author ['P Artem', 'S Dmitry']
+     Venue East-West Design & Test Symposium …
+     Year 2013
+     Abstract The finite element method (FEM) is used to get system of D linear equations from continuous EIT equation form (Equation (1)). The  [5] A. Perepelitsyn, and V. Kharchenko, “The analysis of the use of FPGA technologies in medical equipment”, Radioelectronic and
+     Url https://ieeexplore.ieee.org/abstract/document/6673157/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical liquid injector for continuous transfusion
+     Author ['T Ishikawa']
+     Venue US Patent 5,178,609
+     Year 1993
+     Abstract aforementioned drawbacks of the conventional injector, an object of the present invention is to provide an injector for continuously injecting a medical liquid which can be easily carried from one place to another, which is capable of continuous injection of the medical liquid at a
+     Url https://patents.google.com/patent/US5178609A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title High-dimensional pattern regression using machine learning: from medical images to continuous clinical variables
+     Author ['Y Wang', 'Y Fan', 'P Bhatt', 'C Davatzikos']
+     Venue Neuroimage
+     Year 2010
+     Abstract Please enable JavaScript to use all the features on this page. Elsevier. NeuroImage. Volume 50, Issue 4, 1 May 2010, Pages 1519-1535. NeuroImage. High-dimensional pattern regression using machine learning: From medical images to continuous clinical variables
+     Url https://www.sciencedirect.com/science/article/pii/S1053811909013810
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Intelligent electrode design for long-term ECG monitoring at home: Prototype design using FPAA and FPGA
+     Author ['G Yang', 'J Chen', 'H Tenhunen']
+     Venue 2009 3rd International …
+     Year 2009
+     Abstract se Abstract-A personal medical device supporting continuous bio- signals monitoring is presented. The  electrode. A prototype for the intelligent electrode is built up based on programmable FPAA and FPGA chips
+     Url https://ieeexplore.ieee.org/abstract/document/5191206/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title AMON: a wearable multiparameter medical monitoring and alert system
+     Author ['U Anliker', 'JA Ward', 'P Lukowicz']
+     Venue IEEE Transactions …
+     Year 2004
+     Abstract The advanced care and alert portable telemedical monitor (AMON) project—financed by the EU FP5 IST program—takes this idea a step further, aiming at continuous medical monitoring for high-risk cardiac/respiratory patients
+     Url https://ieeexplore.ieee.org/abstract/document/1362650/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Surgical dressing
+     Author ['DA Rawlings', 'WD Potter']
+     Venue US Patent 5,010,883
+     Year 1991
+     Abstract Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) Smith and Nephew PLC Original Assignee Smith and Nephew PLC Priority date (The priority date is an assumption and is not a legal conclusion
+     Url https://patents.google.com/patent/US5010883A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA design methodology for industrial control systems—A review
+     Author ['E Monmasson', 'MN Cirstea']
+     Venue IEEE transactions on industrial …
+     Year 2007
+     Abstract 54, NO. 4, AUGUST 2007 FPGA Design Methodology for Industrial Control Systems—A Review  Abstract—This paper reviews the state of the art of field- programmable gate array (FPGA) design methodologies with a focus on industrial control system applications
+     Url https://ieeexplore.ieee.org/abstract/document/4267891/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title An efficient FPGA-based implementation of fractional Fourier transform algorithm
+     Author ['R Tao', 'G Liang', 'XH Zhao']
+     Venue Journal of Signal Processing Systems
+     Year 2010
+     Abstract such as the parity restrictions of signal length, special interval for transform order, interpolation filter, continuous frame computation and continuous order computation are also investigated. Finally, the efficiency of the novel method is verified by FPGA implementation results
+     Url https://link.springer.com/content/pdf/10.1007/s11265-009-0401-0.pdf
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA processing for high-speed optical frequency domain imaging
+     Author ['AE Desjardins', 'BJ Vakoc', 'MJ Suter']
+     Venue … on medical imaging
+     Year 2009
+     Abstract Each ADC- FPGA pair was contained within a single-board computer (Curtiss-Wright, Champ-AVIII)  The RAID array received all data delivered by both single board computers; its write-speeds accommodated continuous data storage. The coefficients ( ) 0 4 ,..., c c of the
+     Url https://ieeexplore.ieee.org/abstract/document/4804752/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title An advanced PC-PLC-based SCADA system for a commerical medical cyclotron
+     Author ['R Singlachar', 'B Mukherjee']
+     Venue Nuclear Instruments and Methods in Physics …
+     Year 1997
+     Abstract In order to improve the data exchange speeds between PC and the PLC  The NMC SCADA system provides a modern and an advanced man-machine interface for com- mercial medical cyclotrons  A 399 (1997) 396-46 continuous data acquisition and recording features
+     Url https://www.sciencedirect.com/science/article/pii/S0168900297009832
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA realization of a chaotic communication system applied to image processing
+     Author ['E Tlelo-Cuautle', 'VH Carbajal-Gomez']
+     Venue Nonlinear …
+     Year 2015
+     Abstract People interested in designing continuous-time multi-scroll chaotic attractors can read [6], which summarizes theories, methods and  5 FPGA realization  For instance, a novel full and selective chaos-based image encryption scheme suitable for medical image encryption
+     Url https://link.springer.com/article/10.1007/s11071-015-2284-x
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Trk receptors use redundant signal transduction pathways involving SHC and PLC-γ1 to mediate NGF responses
+     Author ['RM Stephens', 'DM Loeb', 'TD Copeland', 'T Pawson']
+     Venue Neuron
+     Year 1994
+     Abstract Pathways Involving SHC and PLC-y1  and Development Center Frederick, Maryland 21702 ~Department of Pathology and Center for Neurobiology and Behavior Columbia University New York, New York 10032 ~Department of Molecular and Medical Genetics University of
+     Url https://www.sciencedirect.com/science/article/pii/0896627394902232
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title CW and pulse–Doppler radar processing based on FPGA for human sensing applications
+     Author ['Y Wang', 'Q Liu', 'AE Fathy']
+     Venue IEEE Transactions on Geoscience …
+     Year 2012
+     Abstract Design challenges, performance comparison, pros, and cons will be discussed in detail. Index Terms—Continuous wave (CW), field-programmable gate array (FPGA), human sensing, micro-Doppler, pulse–Doppler (PD) radar, ultrawideband (UWB). I. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/6340328/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA-based anomaly detection for radio frequency signals
+     Author ['DJM Moss', 'D Boland', 'P Pourbeik']
+     Venue … Symposium on Circuits …
+     Year 2018
+     Abstract best of our knowledge, we achieve the highest reported performance to date, supporting continuous 200 MS  Anomaly/Normal (can be used by FPGA or PC  Frequency Modulation (FM), Global System for Mobile Communications (GSM), industrial, scientific, and medical radio (ISM
+     Url https://ieeexplore.ieee.org/abstract/document/8350890/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA-based novel digital PWM control scheme for BLDC motor drives
+     Author ['A Sathyan', 'N Milivojevic', 'YJ Lee']
+     Venue IEEE transactions on …
+     Year 2009
+     Abstract Table 2 Data Sheet for BLDC Motor from Poly-Scientific (BN42-EU-02) Terminal Voltage volts DC 24 Peak Torque Nm 7.56 Continuous Stall Torque Nm 1.54 Rated Speed rpm  Gate signals were generated in the FPGA controller and buffered using an inverted Schmidt circuit
+     Url https://ieeexplore.ieee.org/abstract/document/4926182/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Melatonin reduces lung cancer stemness through inhibiting of PLC, ERK, p38, β‐catenin, and Twist pathways
+     Author ['YC Yang', 'PC Chiou', 'PC Chen', 'PY Liu']
+     Venue Environmental …
+     Year 2019
+     Abstract cells that are capable of tumor initiation, self‐renewal, drug resistance, and continuous growth.36  Melatonin inhibits lung cancer stemness via the PLC, ERK/p38, β‐catenin, and Twist signaling  2320‐B‐030‐007‐; 107‐2320‐B‐039‐019‐MY3), China Medical University under
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/tox.22674
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Scalable FPGA-based architecture for DCT computation using dynamic partial reconfiguration
+     Author ['J Huang', 'M Parris', 'J Lee', 'RF Demara']
+     Venue ACM Transactions on Embedded …
+     Year 2009
+     Abstract This is important for some crit- ical applications that need continuous hardware servicing  Therefore, the functions performed on the parts of the FPGA that are not being reconfigured will  This is very impor- tant for some applications such as medical image diagnosis and military
+     Url https://dl.acm.org/doi/abs/10.1145/1596532.1596541
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based implementation of signal processing systems
+     Author ['R Woods', 'J McAllister', 'G Lightbody', 'Y Yi']
+     Venue NA
+     Year 2017
+     Abstract CSDF Cyclo-static dataflow CWT Continuous wavelet transform DA Distributed arithmetic DCT Discrete cosine transform DDR Double data  memory E-SGR Enhanced Squared Givens rotation algorithm EW Electronic warfare FBF Fixed beamformer FCCM FPGA-based custom
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119079231
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Continuous passage and LSCM imaging of propagation of HAV in PLC/PRF/5 cell line
+     Author ['Z Jishan', 'Z Zongan', 'W Hong', 'T Zuming']
+     Venue Pharmaceutical …
+     Year 2003
+     Abstract Continuous passage and LSCM imaging of propagation of HAV in PLC/PRF/5 cell line  All authors 1. East-China Research Institute for Medical Biofechnigues.Nanjing 210002,Jiangsu;China;;National Laboratory of Molecular and Biomolecular Electronics,Southeast
+     Url https://europepmc.org/article/cba/364544
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Cosmetic degreasing and matting composition
+     Author ['TJ Elliott', 'D Ford']
+     Venue US Patent 4,246,257
+     Year 1981
+     Abstract filed by Beecham Group PLC filed Critical Beecham Group PLC 1981-01-20  A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE; A61K—PREPARATIONS FOR MEDICAL, DENTAL, OR  These products are only temporarily effective since sebum production is continuous
+     Url https://patents.google.com/patent/US4246257A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of DWT EEG data compression for wireless body sensor networks
+     Author ['M Elsayed', 'A Badawy', 'M Mahmuddin']
+     Venue … IEEE Conference on …
+     Year 2016
+     Abstract One key application of WBSN is mobile health (mHealth) for continuous patient monitoring, acquiring vital signs eg EEG  Index Terms—WBSN, FPGA, EEG, ECG  body area network, comprises wearable sensors, typically in the form of probes that collect medical information and
+     Url https://ieeexplore.ieee.org/abstract/document/8187756/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Continuous heart tissue mapping and lasing catheter
+     Author ['S Saksena', 'S Sulek', 'HMG Hussein']
+     Venue US Patent 5,462,544
+     Year 1995
+     Abstract US5462544A - Continuous heart tissue mapping and lasing catheter - Google Patents. Continuous heart tissue mapping and lasing catheter. Download PDF Info. Publication number US5462544A. US5462544A US08/057,735
+     Url https://patents.google.com/patent/US5462544A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-implementation of a bio-inspired medical hearing aid based DWT-OLA
+     Author ['L Bendaouia', 'H Salhi', 'SM Karabernou']
+     Venue … on Audio, Language …
+     Year 2014
+     Abstract By noting Ψ* (t) the conjugate of Ψ (t), the Continuous Wavelet Transform (CWT) of the signal f (t) is defined by “(7)”;  Karabernou, L. Kessal, H. Salhi and F. Ykhlef, “New Design Approach of an FIR Filters Based FPGA-Implementation for a Bio-inspired Medical Hearing Aid
+     Url https://ieeexplore.ieee.org/abstract/document/7009906/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Low complex, programmable FPGA based 8-channel ultrasound transmitter for medical imaging researches
+     Author ['C Dusa', 'P Rajalakshmi', 'S Puli']
+     Venue 2014 IEEE 16th …
+     Year 2014
+     Abstract based ultrasound transmit platform was developed using a reasonably inexpensive FPGA starter board  through the prototype was good enough for ultrasound researches and medical diagnosis  velopment and test of more transmit techniques such as Continuous Wave Doppler
+     Url https://ieeexplore.ieee.org/abstract/document/7001850/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA implementation of real-time QRS detection
+     Author ['HK Chatterjee', 'R Gupta', 'JN Bera']
+     Venue 2011 2nd International …
+     Year 2011
+     Abstract Most of these equipments provide a continuous online display of heart rate for the physicians and medical staffs. FPGA is an integrated circuit designed to be configured by the user or designer after manufacturing—hence "field- programmable"
+     Url https://ieeexplore.ieee.org/abstract/document/6075114/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fpga as a hardware accelerator for computation intensive maximum likelihood expectation maximization medical image reconstruction algorithm
+     Author ['M Ravi', 'A Sewa', 'TG Shashidhar']
+     Venue IEEE Access
+     Year 2019
+     Abstract [14] It supports designing RTL, simula- tion, generating HDL code and continuous feature testing  X. Xue, A. Cheryauka, and D. Tubbs, ''Acceleration of fluoro-CT recon- struction for a mobile C-Arm on GPU and FPGA hardware: A simulation study,'' in Medical Imaging: Physics
+     Url https://ieeexplore.ieee.org/abstract/document/8784190/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Regulation of PLC-mediated signalling in vivo by CDP-diacylglycerol synthase
+     Author ['L Wu', 'B Niemeyer', 'N Colley', 'M Socolich', 'CS Zuker']
+     Venue Nature
+     Year 1995
+     Abstract Howard Hughes Medical Institute and Departments of Biology and Neurosciences, University of California at  specific protein is particularly interesting because fly phototransduction is a PLC- mediated signalling  that eye-COS may be required to provide a continuous supply of
+     Url https://link.springer.com/content/pdf/10.1038/373216a0.pdf
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Wound dressing with conformable elastomeric wound contact layer
+     Author ['SM Lang']
+     Venue US Patent 5,445,604
+     Year 1995
+     Abstract Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.) Smith and Nephew PLC Original Assignee Smith and Nephew PLC Priority date (The priority date is an assumption and is not a legal conclusion
+     Url https://patents.google.com/patent/US5445604A/en
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Killer cell inhibitory receptor recognition of human leukocyte antigen (HLA) class I blocks formation of a pp36/PLC-γ signaling complex in human natural killer (NK) …
+     Author ['NM Valiante', 'JH Phillips', 'LL Lanier']
+     Venue The Journal of …
+     Year 1996
+     Abstract HLA) Class I Blocks Formation of a pp36/PLC-γ Signaling Complex in Human Natural Killer (NK) Cells. Nicholas M. Valiante Nicholas M. Valiante. From the *. Departments of Structural Biology and Microbiology & Immunology, Stanford University Medical School, Stanford
+     Url https://rupress.org/jem/article-abstract/184/6/2243/6999
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title A FPGA-based wearable ultrasound device for monitoring obstructive sleep apnea syndrome
+     Author ['CK Weng', 'JW Chen', 'CC Huang']
+     Venue 2015 IEEE International …
+     Year 2015
+     Abstract Currently, several medical imaging modalities have been used to record the airway changes, such as cine  most of them are difficult to be used widely in clinical diagnosis for continuous recording the  speed analog-to-digital converter, high speed digital I/O, and a FPGA board
+     Url https://ieeexplore.ieee.org/abstract/document/7329521/
+
+
+     Search term "Continuous"+"Medical"+"PLC"+OR+"FPGA"
+     Title Murine GPVI stimulates weak integrin activation in PLCγ2–/– platelets: involvement of PLCγ1 and PI3-kinase
+     Author ['K Suzuki-Inoue', 'O Inoue', 'J Frampton', 'SP Watson']
+     Venue Blood
+     Year 2003
+     Abstract and Immunity, The Medical School, University of Birmingham, Edgbaston, United Kingdom; and the Division of Medical Sciences, The Medical School, University  delay is seen in PLCγ2 – / – platelets, but in this case collagen (10 μg/mL) stimulates a slow, continuous increase in
+     Url https://ashpublications.org/blood/article-abstract/102/4/1367/17106
+

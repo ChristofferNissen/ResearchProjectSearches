@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Hands-on DevOps: Explore the concept of continuous delivery and integrate it with data science concepts
+     Author ['S Vadapalli']
+     Venue NA
+     Year 2017
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Empowering Continuous Delivery in Software Development: The DevOps Strategy
+     Author ['C Siebra', 'R Lacerda', 'I Cerqueira', 'JP Quintino']
+     Venue … Conference on Software …
+     Year 2018
+     Abstract Then, we present the implementation of our infrastructure as code approach, which is based on the PowerShell DCS, and how this new strategy significantly improved our deployment process  Thus, DSC supports the DevOps principle of continuous deployment
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29157-0_11
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Service provider devops
+     Author ['W John', 'G Marchetto', 'F Németh']
+     Venue IEEE …
+     Year 2017
+     Abstract lower levels of infrastructure redundancy in an operator environment compared to centralized DCs  SP-DEVOPS IN PRACTICE We take virtual customer premises equipment (vCPE) as an  elastic” as it supports different scaling approaches triggered by continuous monitoring of
+     Url https://ieeexplore.ieee.org/abstract/document/7823363/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards a DevOps Approach in Cyber Physical Production Systems Using Digital Twins
+     Author ['MU Querejeta', 'L Etxeberria', 'G Sagardui']
+     Venue International Conference on …
+     Year 2020
+     Abstract Bitton, R., et al.: Deriving a cost-effective digital twin of an ICS to facilitate  Giaimo, F., Yin, H., Berger, C., Crnkovic, I.: Continuous experimentation on cyber-physical systems  Yan, D., Liu, Q., Chen, X., Zhang, D.: Digital twin-driven manufacturing cyber-physical system for parallel
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_15
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Emerging Trends, Challenges, and Experiences in DevOps and Microservice APIs
+     Author ['U Zdun', 'E Wittern', 'P Leitner']
+     Venue IEEE Software
+     Year 2019
+     Abstract The seminar's 34 participants included a mix of practitioners and academ- ics, who were invited based on their roles and experiences  DevOps Becomes Common Practice – Challenge: Continuous Service Performance Assessment – Monitoring Solutions – Canary
+     Url https://ieeexplore.ieee.org/abstract/document/8938118/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title CloudWave: Where adaptive cloud management meets DevOps
+     Author ['D Bruneo', 'T Fritz', 'S Keidar-Barner']
+     Venue … IEEE Symposium on …
+     Year 2014
+     Abstract on an iterative cycle of application evolution and improvement through (1) continuous analysis of  from the cloud to smart phones when the CloudWave Execution Analyt- ics Subsystem indicates  In [20] and [21] authors provide an exhaustive description of the DevOps approach
+     Url https://ieeexplore.ieee.org/abstract/document/6912638/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title TEST AUTOMATION FOR CONTROL APPLICATIONS ON DISTRIBUTED CONTROL SYSTEM
+     Author ['L Juurinen']
+     Venue Feedback
+     Year 2020
+     Abstract v LIST OF SYMBOLS AND ABBREVIATIONS API Application programming interface CI Continuous integration CPU Central processing unit DCS Distributed control system DDC Direct digital control DevOps Development and operations DNA Dynamic network of applications
+     Url https://trepo.tuni.fi/bitstream/handle/10024/120707/JuurinenLeo.pdf?sequence=2
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Non-intrusive anomaly detection with streaming performance metrics and logs for DevOps in public clouds: a case study in AWS
+     Author ['D Sun', 'M Fu', 'L Zhu', 'G Li', 'Q Lu']
+     Venue IEEE transactions on Emerging …
+     Year 2016
+     Abstract sampling in public clouds like Amazon EC2 [7]. Cloud computing has been broadly adopted for data analyt- ics for public  In DevOps, continuous delivery/deployment is an important technique to maintain high availability and operability, but non-intrusive anomaly detection is
+     Url https://ieeexplore.ieee.org/abstract/document/7389388/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title From theory to practice: the challenges of a DevOps infrastructure as code implementation
+     Author ['C Siebra', 'R Lacerda', 'I Cerqueira']
+     Venue Proceedings of the 13 …
+     Year 2018
+     Abstract PowerShell DSC (Desired State Configuration) is used to automatically define reliable environments for continuous software delivery  3 DEVOPS IMPLEMENTATION: A CASE STUDY  of our infrastructure as code approach, which is based on the PowerShell DCS, and how this
+     Url https://www.scitepress.org/papers/2018/68261/68261.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Teaching DevOps and cloud computing using a cognitive apprenticeship and story-telling approach
+     Author ['HB Christensen']
+     Venue Proceedings of the 2016 ACM conference on …
+     Year 2016
+     Abstract Moreover, DevOps focuses strongly on testing skills, auto- mated testing, and continuous integration  our course that is based upon these methods and outlined learning top- ics, concrete project  argued that our approach is a viable and well- received way of teaching DevOps
+     Url https://dl.acm.org/doi/abs/10.1145/2899415.2899426
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Next-generation process integration: CMMI and ITIL do devops
+     Author ['B Phifer']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract keep aligned. They would work closely together and perhaps merge into one devops team. The devops principle of “optimize the whole” would spread through organization-level continuous improvement. THE BENEFITS OF
+     Url http://twinkie.homedns.org/TechDocs/itj1108.pdf#page=28
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Finetuning
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue DevOps for Digital Leaders
+     Year 2016
+     Abstract along with new technology, disrupts work behaviors—To support goals of more continuous software delivery  engineers talk of programmable logic controllers and supervisory control and data acquisition (SCADA)  Putting all IT “ego” aside, DevOps teams need to build a good
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-1842-6_10
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards Process Improvement in DevOps: A Systematic Literature Review
+     Author ['S Badshah', 'AA Khan', 'B Khan']
+     Venue … of the Evaluation and Assessment in …
+     Year 2020
+     Abstract of DevOps in software product organizations: A maturity model approach,” Technical Report Series, no. UU-CS-2017- 009. UU BETA ICS Departement Informatica, 2017. [44] S. Mäkinen, M. Puonti, T. Lehtonen, T. Mikkonen, T. Kilamo, and T. Männistö, “Revisiting continuous
+     Url https://dl.acm.org/doi/abs/10.1145/3383219.3383280
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Reference Architecture for Multi-cloud IOT Applications
+     Author ['GB Ghantous', 'AQ Gill']
+     Venue 2018 IEEE 20th Conference on …
+     Year 2018
+     Abstract DRA uses agile adaptive approach for continuous project planning and design. DevOps approach provides team with better communication, and clearer mapping of the project. The system enables synchronization of ideas, effort, resources, and outcomes
+     Url https://ieeexplore.ieee.org/abstract/document/8452669/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Towards the adoption of DevOps in software product organizations: A Maturity Model Approach
+     Author ['R Feijter', 'R Vliet', 'E Jagroep', 'S Overbeek']
+     Venue Technical Report …
+     Year 2017
+     Abstract Because DevOps is described as a movement, the notion is continuous and not prone to aging out  This implies that DevOps also encompasses practices that link to monitoring and measurement, which engender continuous improvement (Fitzgerald & Stol, 2017)
+     Url https://dspace.library.uu.nl/bitstream/handle/1874/359180/devops.pdf?sequence=1
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Adopting DevOps Principles, Practices and Tools. Case: Identity & Access Management
+     Author ['V Blomberg']
+     Venue in practice
+     Year 2019
+     Abstract Key words DevOps, IAM, Identity Management, Continuous Integration, Continuous Deployment, Contin- uous Feedback, Agile, SailPoint, automation, software development Further infor- mation  tools”, “Devops practices”, “Continuous delivery”, “Continuous deployment”
+     Url https://www.utupub.fi/bitstream/handle/10024/148086/Blomberg_Vilma_Opinnayte.pdf?sequence=1
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title C2MON SCADA DEPLOYMENT ON CERN CLOUD INFRASTRUCTURE
+     Author ['M Bräger', 'E Mandilara', 'F Ehm', 'A Lossent']
+     Venue NA
+     Year 2017
+     Abstract [5] J. Hamilton et al., “SCADA Statistics Monitoring Using the Elastic Stack”, TUPHA034, Oct 2017, ICALEPCS'17, Barcelona, Spain  [7] S. Picozzi et al., “Source to Image”, in DevOps with OpenShift, O  [8] V. Naik, “Architecting for Continuous Delivery”, Thoughtworks continuous
+     Url http://accelconf.web.cern.ch/AccelConf/ICALEPCS2017/papers/thbpl01.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Unifying cloud and carrier network: Eu fp7 project unify
+     Author ['A Császár', 'W John', 'M Kind', 'C Meirosu']
+     Venue 2013 IEEE/ACM 6th …
+     Year 2013
+     Abstract New management technologies based on experience from DCs, called Service Provider DevOps, will be  in home networks and data centres x Increased connections with other access network operators, eg FTTx deployed by municipalities x Continuous evolution of
+     Url https://ieeexplore.ieee.org/abstract/document/6809448/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract While formal methods have long been praised by the dependable Cyber-Physical System community, continuous software engineering  discussion about using Behaviour Driven Development, particularly Gherkin and RSpec for DepDevOps, DevOps for dependable
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title A State Report of DevOps Tooling
+     Author ['Z LI', 'S LI', 'S GU', 'HE ZHANG', 'TG WANG']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title The Systems Engineering DevOps Lemniscate and Model-Based System Operations
+     Author ['JTJ Mathieson', 'T Mazzuchi', 'S Sarkani']
+     Venue IEEE Systems Journal
+     Year 2020
+     Abstract as warranted by the complexity of updates needed during operations or can remain in a continuous cycle of  without necessitating the incorporation of all apps in the framework on day 1. DevOps can then  A spacecraft is a relevant example of a complex cyber-physical system
+     Url https://ieeexplore.ieee.org/abstract/document/9179780/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title JACoW: C2MON SCADA deployment on CERN cloud infrastructure
+     Author ['F Ehm', 'M Braeger', 'E Mandilara', 'A Lossent']
+     Venue NA
+     Year 2018
+     Abstract [5] J. Hamilton et al., “SCADA Statistics Monitoring Using the Elastic Stack”, TUPHA034, Oct 2017, ICALEPCS'17, Barcelona, Spain  [7] S. Picozzi et al., “Source to Image”, in DevOps with OpenShift, O  [8] V. Naik, “Architecting for Continuous Delivery”, Thoughtworks continuous
+     Url https://cds.cern.ch/record/2305504
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Models@ runtime for continuous design and deployment
+     Author ['N Ferry', 'A Solberg']
+     Venue Model-Driven Development and Operation of …
+     Year 2017
+     Abstract This way, Models@ Runtime promotes the DevOps method, by providing a unique model-based  Page 96. 9 Models@ Runtime for Continuous Design and Deployment 89 components  all the monitoring components including the model used by the Data Collectors (DCs) so that
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27753/1002252.pdf?sequence=1#page=88
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title IAI DevOps: A Systematic Framework for Prognostic Model Lifecycle Management
+     Author ['Z Guo', 'T Bao', 'W Wu', 'C Jin', 'J Lee']
+     Venue 2019 Prognostics and System …
+     Year 2019
+     Abstract E. Continuous Model Updating It is necessary for industrial AI models to be continuously updated to maintain their reliability  [13] “DevOps for Hybrid Cloud  2012. [20] M. Schlechtingen, IF Santos, and S. Achiche, “Wind turbine condition monitoring based on SCADA data using
+     Url https://www.researchgate.net/profile/Ziqi_Guo/publication/337313206_IAI_DevOps_A_Systematic_Framework_for_Prognostic_Model_Lifecycle_Management/links/5dd13672a6fdcc7e1387de3c/IAI-DevOps-A-Systematic-Framework-for-Prognostic-Model-Lifecycle-Management.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps Service Observability By-Design: Experimenting with Model-View-Controller
+     Author ['DA Tamburri', 'MM Bersani', 'R Mirandola']
+     Venue European Conference on …
+     Year 2018
+     Abstract for observability allows more specific and granular refactoring, thus enabling the continuous, incremental, and  tse/tse19.html#AtleeG93. 3. Bass, L., Weber, I., Zhu, L.: DevOps: A Software  http://cidoc.ics.forth.gr/data_transformations.html. 9. Floridi, L.: Information: A Very Short
+     Url https://link.springer.com/chapter/10.1007/978-3-319-99819-0_4
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Continuous Quantitative Risk Management in Smart Grids Using Attack Defense Trees
+     Author ['E Rios', 'A Rego', 'E Iturbe', 'M Higuero', 'X Larrucea']
+     Venue Sensors
+     Year 2020
+     Abstract Continuous Quantitative Risk Management in Smart Grids Using Attack Defense Trees  In this paper, we propose a comprehensive methodology that enables informed decisions on security protection for smart grid systems by the continuous assessment of cyber risks
+     Url https://www.mdpi.com/1424-8220/20/16/4404
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract DevOps﻿concepts.﻿First,﻿the﻿ability﻿to﻿complete﻿small﻿tasks﻿of﻿ a﻿project﻿and﻿release﻿it﻿as﻿a﻿version﻿to﻿ the﻿end﻿user﻿for﻿testing﻿and﻿feedback,﻿referred﻿ to﻿as﻿continuous﻿integration/continuous﻿deployment﻿( CI/CD)﻿(Virmani,﻿2015;﻿Hilton﻿ et﻿al.,﻿2016).﻿This﻿is﻿a﻿critical﻿DevOps﻿component﻿because﻿it
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Applying a DEVelopment OPerationS (DevOps) Reference Architecture to Accelerate Delivery of Emerging Technologies in Data Analytics, Deep Learning, and …
+     Author ['K Rothenhaus', 'K De Soto', 'E Nguyen', 'J Millard']
+     Venue NA
+     Year 2018
+     Abstract Farcic, V. (2017). The DevOps 2.0 toolkit: Automating the continuous deployment pipeline with containerized microservices. Retrieved from http://www.amazon.com Perez, C. (2016)  Retrieved from https://seal.ics.uci.edu/dissertations/eric.pdf
+     Url https://dair.nps.edu/handle/123456789/1600
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Measuring performance quality scenarios in big data analytics applications: a DevOps and domain-specific model approach
+     Author ['C Castellanos', 'CA Varela', 'D Correal']
+     Venue Proceedings of the 13th …
+     Year 2019
+     Abstract AND DSM APPROACH Our proposal offers a high-level approach to the DevOps practice, starting  Functional Viewpoint (FV) FV describes the functional components, connectors of the analyt- ics solution and  <DataField name=" sz_norm " optype=" continuous " dataType=" float
+     Url https://dl.acm.org/doi/abs/10.1145/3344948.3344986
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Security in DevOps: understanding the most efficient way to integrate security in the agile software development process
+     Author ['M Schicchi', 'K Vallittu', 'B Crispo', 'P Sainio', 'S Virtanen']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Security in DevOps: understanding the  Page 2. UNIVERSITY OF TURKU Department of Future Technologies MIRKO SCHICCHI: Security in DevOps: understanding the most efficient way to inte- grate security in the agile software development process
+     Url https://www.utupub.fi/bitstream/handle/10024/150662/Schicchi_Mirko_Thesis.pdf?sequence=1
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Management and Development of DevOps and Traditional IT Project Paths
+     Author ['J Ahonen']
+     Venue NA
+     Year 2020
+     Abstract Page 6. List of Abbreviations Agile A flexible software development approach which advocates intensive and continuous teamwork. APM Agile Project Management. A project management model that utilizes the agile frameworks. DevOps Development and Operations
+     Url https://www.theseus.fi/bitstream/handle/10024/271531/Ahonen_Jonna.pdf?sequence=2
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps and Its Practices
+     Author ['G Champlin-Scharff']
+     Venue Experience the Newest and Most Advanced …
+     Year 2016
+     Abstract In addition, DevOps practices rely heavily on tools of various kinds, including tools for container management, continuous integra- tion, orchestration, monitoring, de- ployment, and testing. Increasingly, software engineers are the ones who maintain and configure such tools
+     Url http://magzdb.org/file/381755/dl#page=34
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title DevOps-based Collaboration for Building and Operating SDN-enabled Multisite Cloud Playground
+     Author ['AC Risdianto']
+     Venue NA
+     Year 2019
+     Abstract and security policies). As a consequence, it is hard to maintain the continuous operation – 15 – Page 30. of all the boxes  based on an Intelligent Platform Management Interface (IPMI) [22]. 3. Automated provisioning: A set of DevOps-based automated provisioning tools is
+     Url https://www.researchgate.net/profile/Aris_Risdianto/publication/342412235_DevOps-based_Collaboration_for_Building_and_Operating_SDN-enabled_Multisite_Cloud_Playground/links/5ef32a7ca6fdcc158d26182e/DevOps-based-Collaboration-for-Building-and-Operating-SDN-enabled-Multisite-Cloud-Playground.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title PLC Virtualization and Software Defined Architectures in Industrial Control Systems
+     Author ['M Peltonen']
+     Venue NA
+     Year 2017
+     Abstract CPS Cyber-physical system DCS Distributed control system  ICS Industrial Control System IIoT Industrial Internet of Things  Organizations can significantly reduce their software's time-to-market by use of DevOps practices, since it aims to continuous delivery and con
+     Url https://www.theseus.fi/handle/10024/134029
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title How Should We Address Cybersecurity Risk in an Agile or DevOps Environment
+     Author ['C Woody']
+     Venue NA
+     Year 2018
+     Abstract How Should We Address Cybersecurity Risk in an Agile or DevOps Environment? Carol Woody, Ph.D. Page 2. 2  Please see Copyright notice for non-US Government use and distribution. Agile and DevOps Impacts Page 13. 13
+     Url https://apps.dtic.mil/sti/pdfs/AD1087752.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title An adaptive plan‐oriented and continuous software migration to cloud in dynamic enterprises
+     Author ['SY Nabavi', 'O Bushehrian']
+     Venue Software: Practice and Experience
+     Year 2019
+     Abstract They have focused on the factors affecting performance of cloud‐based SCADA systems such as  about the proposed model is that the migration is viewed as a continuous process during  of real life migration scenarios from simple lift‐and‐shift scenarios to DevOps25 mindset
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2725
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title CONTINUOUS INTEGRATION FOR FAST SOC ALGORITHM DEVELOPMENT
+     Author ['S Latif']
+     Venue NA
+     Year 2019
+     Abstract DevOps extends the agile methodologies to swiftly deliver products in an automated and integrated process  This chapter defines the basic concepts of signals, DSP, digital systems, IP blocks, ICs and gives an overview of SoC  A continuous-time signal can be defined and
+     Url https://trepo.tuni.fi/bitstream/handle/10024/117726/LatifSana.pdf?sequence=2
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Dynamic Capabilities related to converging software markets
+     Author ['M Smith']
+     Venue NA
+     Year 2018
+     Abstract Serverless means firm focus on software release, which means a heavy investment in application release automation (ARA, other terms can include continuous delivery release automation CDRA)  paper. Similar to DevOps DCs rely on information flow and trust as well as
+     Url https://pdxscholar.library.pdx.edu/etm_studentprojects/2214/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Specification-based Predictive Continuous Monitoring for Cyber Physical Systems with Unobservables
+     Author ['A Coletta']
+     Venue NA
+     Year 2018
+     Abstract 27 3.2 Continuous Monitoring  cn Corporate Network cps Cyber Physical System dcs Distributed Control System dmz Demilitarised Zone dnf Disjunctive Normal Form hmi Human Machine Interface ics Industrial Control System ict Information and Communication Technology
+     Url http://eprints-phd.biblio.unitn.it/3435/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Continuous Deployment of Trustworthy Smart IoT Systems
+     Author ['N Ferry', 'PH Nguyen', 'H Song', 'E Rios']
+     Venue Journal of Object …
+     Year 2020
+     Abstract As an evolution of the DevOps movement, which calls for better collaborations between developers and  the ENACT H2020 project [FSS+18, FDG+20], which needs support for the continuous deployment of  These two systems communicate using a MQTT broker of the SCADA
+     Url https://www.researchgate.net/profile/Phu_Nguyen4/publication/341832346_Continuous_Deployment_of_Trustworthy_Smart_IoT_Systems/links/5ed79ab7299bf1c67d350eb5/Continuous-Deployment-of-Trustworthy-Smart-IoT-Systems.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title The collaboration perspective on continuous development
+     Author ['S Hoppenbrouwers']
+     Venue NA
+     Year 2018
+     Abstract Continuous RE, as part of Continuous Development [1], includes BizDev as well as DevOps, though the  1. Fitzgerald, B. and Stol, K.-J (2015): Continuous software engineering: A roadmap and agenda  In: Journal of System- ics, Cybernetics and Informatics, Nr: 4, Vol: 2, pp47-51
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/191736/191736.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Unifying cloud and carrier network
+     Author ['A Császár', 'W John', 'M Kind', 'C Meirosu']
+     Venue Proceedings of. DCC …
+     Year 2013
+     Abstract New management technologies based on experience from DCs, called Service Provider DevOps, will be  in home networks and data centres • Increased connections with other access network operators, eg FTTx deployed by municipalities • Continuous evolution of
+     Url https://www.researchgate.net/profile/Wolfgang_John/publication/269308547_Unifying_cloud_and_carrier_network_EU_FP7_Project_UNIFY/links/548c24fc0cf225bf669f8e53.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Initiating the Transition towards Continuous Experimentation: Empirical Studies with Software Development Teams and Practitioners
+     Author ['SG Yaman']
+     Venue NA
+     Year 2019
+     Abstract With continuous experimen- tation (CE), companies can evaluate and prioritise their development decisions, even before fully  such as Lean Startup (Ries, 2011), Customer Development (Blank, 2013), Lean Analyt- ics (Croll and Yoskovitz, 2013) and DevOps (Bass et al
+     Url https://core.ac.uk/download/pdf/231908125.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Continuous delivery in Java: essential tools and best practices for deploying code to production
+     Author ['D Bryant', 'A Marín-Pérez']
+     Venue NA
+     Year 2018
+     Abstract Impact of Platforms on Continuous Delivery DevOps, SRE, and Release Engineering Development and Operations Site Reliability Engineering Release Engineering Shared Responsibility, Metrics, and Observability Summary Designing Architecture for Continuous Delivery
+     Url https://books.google.com/books?hl=en&lr=&id=TG15DwAAQBAJ&oi=fnd&pg=PP1&dq=%22Continuous%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22DevOps%22&ots=GR8wxQ1IR6&sig=g5Vedc_sbZrjtinexuvah7p2HaQ
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Assessing challenges of continuous integration in the context of software requirements breakdown: a case study
+     Author ['A Debbiche', 'M Dienér']
+     Venue NA
+     Year 2015
+     Abstract literature. First, the background is introduced followed by a related work section about agile methodologies, continuous integration, devops, continuous deployment and requirements breakdown. 2.1 Background Continuous
+     Url https://odr.chalmers.se/handle/20.500.12380/220573
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Ensuring Continuous Security in the Cloud and Compliance with GDPR
+     Author ['F Färjsjö', 'E Stenberg']
+     Venue NA
+     Year 2017
+     Abstract 25 7.3 Utilizing the Cloud . . . . . 26 7.3.1 DevOps . . . . . 26 7.3.2 Continuous Delivery . . . . . 27 7.3.3 Infrastructure as Code . . . . . 28 7.3.4 Microservice Architecture
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1136470
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Impacts of Continuous Delivery in Software Projects
+     Author ['S Haverila']
+     Venue NA
+     Year 2016
+     Abstract ATTD Acceptance Test-Driven Development DevOps Development and Operations CD Continuous Delivery CI Continuous Integration QA Quality Assurance NPM Node Package Manager TA Test Automation TDD Test-Driven Development VCS Version Control System v
+     Url https://aaltodoc.aalto.fi/handle/123456789/22835
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title IoT-based Systems Actuation Conflicts Management Towards DevOps: A Systematic Mapping Study.
+     Author ['S Lavirotte', 'G Rocher', 'JY Tigli', 'T Gonnin']
+     Venue IoTBDS
+     Year 2020
+     Abstract IEEE Xplore (”internet of things” OR iot OR ”cyber-physical system” OR cps) AND (actuation OR  which is one of the main reason for promoting the DevOps approach  In International Workshop on Software Engineering Aspects of Continuous Development and New Paradigms of
+     Url http://stephane.lavirotte.com/research/biblio/iotbds2020.pdf
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+     Title Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware
+     Author ['PD Faria']
+     Venue NA
+     Year 2017
+     Abstract Page 1. FACULDADE DE ENGENHARIA DA UNIVERSIDADE DO PORTO Test Automation in Continuous Integration for Hardware Validation Pedro Dias Faria DISSERTATION  Page 2. Page 3. Test Automation in Continuous Integration for Hardware Validation Pedro Dias Faria
+     Url https://repositorio-aberto.up.pt/handle/10216/102620
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification of PLC programs
+     Author ['S Ferro']
+     Venue NA
+     Year 2020
+     Abstract can collect and communicate vital data. Being a crucial device in an Industrial Control System (ICS) and being often highly  A PLC typically has three main components, namely  PLCs are commonly found in Supervisory Control and Data Acquisition (SCADA)
+     Url http://dspace.unive.it/handle/10579/17637
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The Role of Modular Programming in Industrial Control System
+     Author ['RT Varun']
+     Venue NA
+     Year 2015
+     Abstract Page 1152 The Role of Modular Programming in Industrial Control System Varun1, Ritula Thakur2  In future the stress is put on the PLC software verification which further extends the understanding of the control system reliability, verification and testing. REFERENCES
+     Url https://www.academia.edu/download/54836201/IRJET-V2I9195.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract based on PLCs (Programmable Logic Controllers) using the UNICOS (UNified Industrial COntrol System) framework [8  (2) Automatic generation: UNICOS automatically generates all the PLC structure with the links between objects and the communication with SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Implementation of PLC Based Industrial Application Prototypes
+     Author ['KA Gupta', 'N Armani', 'TC Manjunath']
+     Venue Indian Journal of Science …
+     Year 2017
+     Abstract Software validation and hardware implementation used for demonstrating the ease of operation with this  A specific industrial PLC IndraLogic PLC and associated software, has been employed for the  applications this technique can be extended to for packing of PCBs and ICS
+     Url https://www.scilit.net/article/eff7812405cbe7d23408f6795014b7ca
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Application of DCS for Protection System in Nuclear Power Plant
+     Author ['Z Wei-zhi']
+     Venue Nuclear Electronics & Detection Technology
+     Year 2012
+     Abstract Control System Engineering Co.,Ltd,Beijing 100176,China);Application of FPGA in Nuclear  ying (Tianjin University of Technology,Tianjin 300400);The research of DCS network system  5, Cai Jei;Design of a Distributed Control System Network[J];Industrial Contral Computer;1996
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-HERE201204016.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbed for Model-based Verification of Cyber-physical Production Systems.
+     Author ['CJ Budnik', 'S Eckl', 'M Gario']
+     Venue ARCH@ CPSWeek
+     Year 2017
+     Abstract PLC software verification as difficult as more traditional (eg, C) software verification problems  training model (eg fischertechnik™ industry training models, I/O device, SCADA-based Human  machine) • An (Industrial) Ethernet switch • A software application under test (eg PLC)
+     Url https://wvvw.easychair.org/publications/download/cssx
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract cybersecurity standards for control systems [35] and the NIST Guide to Industrial Control System (ICS) Security [46] to improve SCADA security. Cardenas et al  data optimally. To the second point, although all industrial control system users and  2.1 SCADA and PLC Overview
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant [J]
+     Author ['Y XIANG', 'D WANG', 'S LIN']
+     Venue Computer Knowledge and Technology
+     Year 2012
+     Abstract Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant  2, ;Design Principle Study on Man-machine Interface for DCS System in Power  China);Measure and Control System of Pressure Tester Based on PLC[J];Ordnance
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DNZS201218092.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Technical Support for the development of DCS
+     Author ['IS Oh', 'CK Lee', 'DH Kim', 'JT Kim', 'IK Hwang', 'JC Park']
+     Venue NA
+     Year 2008
+     Abstract Software verification and validation and documentation guidelines • User manual documents  다. KNICS 사업의 목표는 원전용 제어기기인 PLC(Programmable Logic Controller)와 DCS(Distributed Control System)를 국산화하고 이들을 기반으로 원전에 공급되는
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:41067703
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and configuration of the plumbing control SCADA node using proficy HMI/SCADA-IFIX 5.5 EN software
+     Author ['M Ciołczyk', 'K Kalinowski']
+     Venue Selected Engineering …
+     Year 2013
+     Abstract For this purpose, SCADA systems (Supervisory Control and Data Acquisition) are used for machines and  K-map) method, • hardware configuration using Simatic Step 7 software, • control program for PLC controller using Simatic Step 7 software, • verification of the PLC
+     Url https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-23613e83-559e-440a-a256-61f74670e235
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A partially automated HiL test environment for model-based development using Simulink® and OPC technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue 2011 XXIII …
+     Year 2011
+     Abstract the design procedures of an automated testing tool, developed in Matlab®/Simulink® environment, that performs software verification during runtime on  test environment for devices and target hardware that conform to the OPC DA communication standard (DCS, PLC) using the
+     Url https://ieeexplore.ieee.org/abstract/document/6102112/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of Advanced Power Reactor (APR1400) I&C System
+     Author ['HY Chung', 'DW Kim']
+     Venue IFAC Proceedings Volumes
+     Year 2003
+     Abstract life cycle process planning which includes 11 documents such as software verification and validation  design standards and implemented in common digital system platform of DCS (Distributed Control System) except for safety system for which PLC (Programmable Logic
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017345573
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC BASED WASTE WATER TREATMENT AND FIRE ALARM SYSTEM
+     Author ['MN Shruthi', 'DS Suresh', 'CJ Rajendra']
+     Venue NA
+     Year NA
+     Abstract REFERENCES: [1] G.Venkateswarlu, Jayashree Sahu, Y.Sriya, Sruti Pappala, PLC and SCADA Based Secured and Sustainable Living  SWCheon, JSLee, KCKwon, DHKim, and H.Kim, The Software Verification and Validation Process for a PLC-based Engineered
+     Url http://pnrsolution.org/Datacenter/Vol4/Issue5/21.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract Formal verification of the FPGA cores. Share on. Authors: Carl Johan Lillieroth profile image Carl Johan Lillieroth  Proof and Specification Assisted Design Environments, PROSPER. http://www.dcs.gla.ac.uk/prosper/.]]Google Scholar Google Scholar; {11} GORDON, MJC 1996
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC on drugs
+     Author ['E Niu', 'C Cuffolo']
+     Venue INTECH-RESEARCH TRIANGLE PARK NC-
+     Year 2004
+     Abstract no procedures for review of source codes in design controls for software validation, and there is  from PLC-based control systems to the firmware, to the PLC application source  SCADA packages, which often connect to PLCs, count as configurable software packages (category 4
+     Url https://ww2.isa.org/standards-and-publications/isa-publications/intech-magazine/2004/november/cover-story-plc-validation-plc-on-drugs/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Effective Software Verification and Validation Approach for Nuclear Power Plant Digital Instrumentation and Control Systems
+     Author ['S Yang', 'J Ding', 'H Miao']
+     Venue International …
+     Year 2010
+     Abstract As part of high- quality engineering assurance, rigorous software Verification and Validation (V&V) life-cycle methodologies are necessary  DCS System Test  Meantime, a bill-of-materials (BOM) (it may include the CPLD, FPGA etc) must be developed and documented, followed
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE18/49293/659/347327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Software verification process and methodology for the develop- ment of FPGA-based engineered  Automation of nuclear power plants – the experience of the ICS RAS, Proceedings of  Cyber Security Risk Assessment Meth- od for SCADA of Industrial Control Systems, Proceed
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title System and method for functional verification of multi-die 3D ICs
+     Author ['S John', 'A Mehta', 'SK Goel', 'KY Ting']
+     Venue US Patent 9,612,277
+     Year 2017
+     Abstract US9612277B2 - System and method for functional verification of multi-die 3D ICs - Google Patents. System and method for functional verification of multi-die 3D ICs. Download PDF Info  Abstract. A system and method is disclosed for functional verification of multi-die 3D ICs
+     Url https://patents.google.com/patent/US9612277B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Project Experience of MMIS for Shin-Hanul units 1&2 (Component Design, Manufacturing and Testing)
+     Author ['S Koo', 'K Kim']
+     Venue NA
+     Year 2015
+     Abstract Doosan MMIS manufacturing is based on PLC and DCS platform  3. Testing According to the industrial code & standards and Doosan quality process, MMIS testing consists of hardware equipment qualification, software verification and validation, and system testing. 3.1
+     Url https://www.kns.org/files/pre_paper/34/15A-%EA%B5%AC%EC%84%9C%EB%A3%A1I.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract The two prominent methods in formal verification are known to be theorem proving and model checking. These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking practices in this paper's context
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Secure and resilient industrial control systems
+     Author ['D Serpanos']
+     Venue IEEE Design & Test
+     Year 2017
+     Abstract however, the communication patterns and response requirements are different at the PLC- to-SCADA networks relatively to the sensor-to-PLC interconnects, because  The small size of ICS application-specific code enables the effective use of software verification and
+     Url https://ieeexplore.ieee.org/abstract/document/8172043/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation-aided implementation of supervisory control of industrial batch reactors
+     Author ['K Preuß', 'MV Le Lann', 'M Cabassud']
+     Venue Computer Aided …
+     Year 2000
+     Abstract Hereby the software validation procedure is accele- rated and utility consumption is reduced, too  The control actions resulting from supervisory control have to be carried out on a lower control level which is located on the SCADA or PLC
+     Url https://www.sciencedirect.com/science/article/pii/S1570794600801935
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title IMPLEMENTATION OF VERIFICATION AND VALIDATION FOR REPLACEMENT OF HANARO CONTROL COMPUTER
+     Author ['HK Kim', 'MW Lee', 'Y San Choi', 'YT Yim', 'HS Jung']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Power Automation System (PAS) Cyber Vulnerability Assessment, RSLN-08-14
+     Author ['K Park', 'Y Kim']
+     Venue NA
+     Year 2014
+     Abstract the key is used for application software verification  industrial control systems”, Shane O'Halloran, http://www.foodengineeringmag.com/articles/print/90314-improving-scada-and-industrial  4. Basic of core-based FPGA design Part I – Core types & trade-offs, http://www.embedded
+     Url https://www.osti.gov/servlets/purl/1245807
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Development and EQ test of the KNICS RPS prototype
+     Author ['JH Park', 'DY Lee', 'CH Kim']
+     Venue IEEE Nuclear Science Symposium …
+     Year 2005
+     Abstract Especially, the software requirement specification of the RPS application software is written in a formal language for a correct software verification and validation  I. INTRODUCTION HE digital systems such as a PLC or a DCS have been applied to the non-safety systems of
+     Url https://ieeexplore.ieee.org/abstract/document/1596272/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Nuclear Power Plants: Innovative Technologies for Instrumentation and Control Systems
+     Author ['Y Xu', 'F Gao', 'W Chen', 'Z Liu', 'P Gu']
+     Venue NA
+     Year 2017
+     Abstract system named FirmSys developed by China General Nuclear Power Corporation, and the FPGA-based safety DCS named NASPIC  technology, electromagnetic compatibility, main control room and human–machine interface design, software verification and validation
+     Url https://link.springer.com/content/pdf/10.1007/978-981-13-3113-8.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title STIMULUS SIGNAL GENERATION FOR FIELD PROGRAMMABLE GATE ARRAY-BASED GAMMA SPECTROSCOPY SYSTEM
+     Author ['NURAB ABD RAHMAN']
+     Venue NA
+     Year 2016
+     Abstract As opposed to analog system, digital processors such as FPGA provide less “test or inspection points”. This is due to digital nature, where the information is in digital form and contained within the ICs [1]. Therefore, FPGA simulation is an important stage in the design cycle
+     Url http://psasir.upm.edu.my/id/eprint/69935/1/ITMA%202016%205%20IR.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Security in the era of cyber-physical systems of systems'
+     Author ['S Karnouskos']
+     Venue ERCIM News
+     Year 2014
+     Abstract Since the majority of the world's SCADA/DCS and PLC systems can be found in high-tech indus- trial facilities in Europe, US and Japan, it is imperative to invest in  Adequately addressing security in the cyber-physical system era, how- ever, poses a significant challenge
+     Url https://www.researchgate.net/profile/Stamatis_Karnouskos/publication/261987806_Security_in_the_Era_of_Cyber-Physical_Systems_of_Systems/links/00b7d53626a908d9dc000000.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Conformance checking for programmable logic controller programs and specifications
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue 2016 11th IEEE Symposium on …
+     Year 2016
+     Abstract I. INTRODUCTION Industrial control systems (ICS) often rely on programmable logic controllers (PLCs)  Formal verification is a good candidate to complement testing in order to improve the verification of PLC-based control software
+     Url https://ieeexplore.ieee.org/abstract/document/7509409/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of FPGA-digital based PID controller
+     Author ['M Kocur', 'S Kozak', 'B Dvorscak']
+     Venue Proceedings of the 2014 15th …
+     Year 2014
+     Abstract law and easy implementation in continuous-time or digital-time form into microcomputer, PLC or as  before it can be used or even tested [2][4]. FPGAs are configurable ICs and used to  the blocks gateway in and gateway out algorithm performs as it was implemented on FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6843603/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Education in computer system validation: 40-hour lesson plan Part-I
+     Author ['J Brady', 'A Greene']
+     Venue Journal of Validation Technology
+     Year 2006
+     Abstract to Logic Gates (1 -hour) i Lesson-5: Fundamentals of Process Control, and Introduction to PLC, SCADA and DOS (2  rounded introduction to the ubiquitous process automation hardware panel for a programmable-logic—controller (PLC) or distributed-control—system (DCS)
+     Url http://search.proquest.com/openview/335f483abb02a13e45c760b127a163c2/1?pq-origsite=gscholar&cbl=29232
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of FPGA-digital based PID controller
+     Author ['M Kocur', 'S Kozak', 'B Dvorscak']
+     Venue Proceedings of the 2014 15th …
+     Year 2014
+     Abstract law and easy implementation in continuous-time or digital-time form into microcomputer, PLC or as  before it can be used or even tested [2][4]. FPGAs are configurable ICs and used to  the blocks gateway in and gateway out algorithm performs as it was implemented on FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6843603/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual factory laboratory system and its application
+     Author ['Y Wu', 'J Zhang', 'Y Feng', 'G Rong']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract system. Inte- grating various application modules, it is capable of carrying on research of enterprise operation management, software validation, algorithm de- velopment and training  equipment DCS,PLC field control equipment simulation
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015360122
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Sandboxing for Cross-Platform Applications of Robots
+     Author ['HP Halvorsen', 'A Jonsaas']
+     Venue 2019 IEEE International …
+     Year 2019
+     Abstract Currently, the fastest platform for “LabVIEW-Real Time” is Compact-RIO on FPGA (Field Programmable Gate Array)  PLC, DCS (Distributed Control System) and SCADA have many common features and are frequently found in manufacturing robotic applications
+     Url https://ieeexplore.ieee.org/abstract/document/8790414/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing: 7th International Haifa Verification Conference, HVC 2011, Haifa, Israel, December 6-8, 2011, Revised …
+     Author ['K Eder', 'J Lourenҫo', 'O Shehory']
+     Venue NA
+     Year 2012
+     Abstract CBMC promotes the industrial adoption of formal software verification more than any other tool in  we would like to thank our sponsors, IBM, Cadence, Mentor Graph- ics, and Jasper  NN Hung, and Xiaoyu Song HAVEN: An Open Framework for FPGA-Accelerated Functional
+     Url https://books.google.com/books?hl=en&lr=&id=ASC6BQAAQBAJ&oi=fnd&pg=PR2&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=K4PKge1h9B&sig=d1LajNIPbkP7KGocbwer2m4Qt4M
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Verification Approach for Programmable Logic Controllers
+     Author ['X LUO', 'LI Yong', 'W DU', 'Y Fan']
+     Venue DEStech Transactions on …
+     Year 2016
+     Abstract It is successfully applied to a few software verification projects to verify device drivers, C programs and Java software [5-7]. This paper presents an iterative approach to verifying programmable logic  Thus, the PLC system is a typical cyber-physical system which consists of
+     Url http://www.dpi-proceedings.com/index.php/dtetr/article/view/6016
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of 32-bit RISC processors without interlocked Pipelining on Artix-7 FPGA board
+     Author ['J Rohit', 'M Raghavendra']
+     Venue 2017 International Conference on …
+     Year 2017
+     Abstract Real time problems have been taken care by these ICs  After verification the module was implemented on Basis 3 board (Artix-7 FPGA)  Vivado Simulator: This simulator[5] is used for software verification, by creating a testbench containing instruction to be executed along with
+     Url https://ieeexplore.ieee.org/abstract/document/8394137/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Computerized System Validation: Regulatory Compliance and Process Safety in the Pharmaceutical Industry
+     Author ['Y Samson']
+     Venue NA
+     Year 2006
+     Abstract Computer System Validation Committee (part of PMA) DCS Distributed Control System DNA Deoxyribo  Reaction PIC/S Pharmaceutical Inspection Cooperation Scheme PLC Programmable Logic  Management System SAT Site Acceptance Test SCADA Supervisory, Control
+     Url https://hal.archives-ouvertes.fr/hal-02270463/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Technical Architecture About Safety I&C System Software V&V in Nuclear Power Plant
+     Author ['S Wang', 'P Gu', 'W Ye', 'W Chen']
+     Venue International …
+     Year 2017
+     Abstract for computer important to safety, it is necessary to implement the software verification and validation  manufacture of China, which is also the domestic first nuclear power DCS software V&V  to the software V&V based on the field programmable gate array (FPGA) technology too
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE25/57793/V001T04A009/252640
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety conditions verification of communication in distributed control system
+     Author ['W Mikluszka']
+     Venue 3rd International Conference on Human System …
+     Year 2010
+     Abstract connecting controllers and computers in the big industrial systems is mostly Ethernet TCP/IP [1]. Small PLC and PID  3. Distributed control system  3 shows an example of a system consisting of SCADA workstation, sensors, actuators, touch panels and PID controllers manage the
+     Url https://ieeexplore.ieee.org/abstract/document/5514477/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test Automation of Inter-Integrated Circuit (I2C) Validation using Hardware Software Approach
+     Author ['A Panchal']
+     Venue NA
+     Year 2018
+     Abstract comprise of devices that require configuration and programming beforehand such as FPGA and  propel the communication between various ICs on the designed validation boards (PCB) target  the recent trends in the field of design validation, 'Hardware Software Validation' is an
+     Url http://dspace.library.uvic.ca/handle/1828/10308
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test-Bed Infrastructure for Industrial Control Systems Validation
+     Author ['E Carpanzano', 'A Cataldo']
+     Venue Engineering …
+     Year 2006
+     Abstract contribute of this work consists of the study, design and the realization of such a communication infrastructure allowing the interfacing of an industrial control system device with a  At first a rough control software validation has been carried out by connecting the PLC to the
+     Url https://asmedigitalcollection.asme.org/ESDA/proceedings-abstract/ESDA2006/42487/757/316117
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Three dimensional integrated circuits
+     Author ['R Madurawe']
+     Venue US Patent App. 10/267,483
+     Year 2004
+     Abstract semi-custom ICs towards field programmable components whose function is determined not when the integrated circuit is fabricated, but by an end user “in the field” prior to use. Off the shelf, generic Programmable Logic Device (PLD) or Field Programmable Gate Array (FPGA)
+     Url https://patents.google.com/patent/US20040004239A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Inferential based measurement of backlash in servo system
+     Author ['P Chandrasekar', 'K Srinivasan']
+     Venue Materials Today: Proceedings
+     Year 2020
+     Abstract PLC sends command pulse to servo drive  1 reverse pos and Basklash is updated in SCADA,likewise the process repeats for 5 cycles and its average is shown in SCADA.When using  P. Chandrasekar: Conceptualization, Methodology, Software, Validation, Writing - original draft
+     Url https://www.sciencedirect.com/science/article/pii/S2214785320372680
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Field programmable gate array with convertibility to application specific integrated circuit
+     Author ['RU Madurawe']
+     Venue US Patent 6,747,478
+     Year 2004
+     Abstract semi-custom ICs towards field programmable components whose function is determined not when the integrated circuit is fabricated, but by an end user “in the field” prior to use. Off the shelf, generic Programmable Logic Device (PLD) or Field Programmable Gate Array (FPGA)
+     Url https://patents.google.com/patent/US6747478B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Prediction and Sensibility Analysis for Nuclear Safety-Critical Software Reliability of DCS
+     Author ['L Ying', 'W Ya-feng', 'P Bo', 'T Lei']
+     Venue International …
+     Year 2018
+     Abstract evaluation (J). At the stage of software verification and validation, it included software verification and validation  formula ( 1 ( ) ( ) ( n j j j PA PBPAB = = ∑ ), the safety-critical DCS-SR could  developed by one China-company and one US-company based on FPGA technology
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE26/51432/V001T04A011/274671
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC Based Timer Controller for Multiple Machines
+     Author ['T Vignesh', 'N Lakshmanakumar', 'S Sethu']
+     Venue NA
+     Year NA
+     Abstract [7] Economakos, C. ; Economakos, G., ―FPGA implementation of PLC programs using automated high-level synthesis tools‖, ISIE 2008  [8] Li-Ling Wang, Hong-Ying Wei, ―Development of a distributed control system for PLC-based applications
+     Url https://www.ijeter.everscience.org/Manuscripts/Volume-4/Issue-8/Vol-4-issue-8-M-24.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model checking of security properties in industrial control systems (ics)
+     Author ['R Shrestha', 'H Mehrpouyan', 'D Xu']
+     Venue … of the Eighth ACM Conference on …
+     Year 2018
+     Abstract 1 INTRODUCTION Supervisory Control and Data Acquisition (SCADA) are widely used for managing Industrial Control System(ICS). SCADA focuses on the supervisory level and is not a full control system in  succinct and precise way so that the model checking in ICS will be
+     Url https://dl.acm.org/doi/abs/10.1145/3176258.3176949
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Power Automation System (PAS) Cyber Vulnerability Assessment
+     Author ['K Park', 'Y Kimb']
+     Venue Site-Directed Research and Development
+     Year 2015
+     Abstract The seed value derives a key, and the key is used for application software verification via an LED blinking  Our test code simulates controlling the SCADA facility by turning on and off the LEDs  The set of LEDs on the lower right corner of the FPGA board are controlled through the
+     Url https://www.osti.gov/servlets/purl/1178443#page=193
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Configurable storage device
+     Author ['RU Madurawe']
+     Venue US Patent 7,042,756
+     Year 2006
+     Abstract semi-custom ICs towards field programmable components whose function is determined not when the integrated circuit is fabricated, but by an end user “in the field” prior to use. Off the shelf, generic Programmable Logic Device (PLD) or Field Programmable Gate Array (FPGA)
+     Url https://patents.google.com/patent/US7042756B2/en
+

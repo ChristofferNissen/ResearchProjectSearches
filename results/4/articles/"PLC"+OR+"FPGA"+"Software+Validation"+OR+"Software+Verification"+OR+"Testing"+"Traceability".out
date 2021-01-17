@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Licensing principles of FPGA-based NPP I&C systems
+     Author ['A Siora', 'V Sklyar', 'Y Rozen']
+     Venue International …
+     Year 2009
+     Abstract functional and timing simulation in CASE-tools environment; – blackbox functional testing  safety-critical functions in the form of “hard” logic (FPGA with implemented  for each algorithm), without software; – reducing time necessary for software verification; – performing parallel
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/267580129_Licensing_Principles_of_FPGA-Based_NPP_IC_Systems/links/57d6d20208ae601b39ac2223/Licensing-Principles-of-FPGA-Based-NPP-I-C-Systems.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The software verification and validation process for a PLC-based engineered safety features-component control system in nuclear power plants
+     Author ['SW Cheon', 'JS Lee', 'KC Kwon']
+     Venue … Annual Conference of …
+     Year 2004
+     Abstract The PLC is being designed to pro- vide various communication networks, a strict real-time performance and a  This paper introduces the software verification and vali- dation (VSrV) tasks for the ESF-CCS in nuclear  codes, and the testing of the integrated software and system
+     Url https://ieeexplore.ieee.org/abstract/document/1433422/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title In-place traceability for automated production systems: A survey of PLC and SysML tools
+     Author ['W Wang', 'N Niu', 'M Alenazi']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract surveyed in this paper the state-of-the-practice tools in aPS development (seven tools for PLC and six  our sur- veys in the context of aPS development, possibly by explor- ing the role of traceability in refactoring [37], viewpoint merg- ing [38], [39], and model testing [40
+     Url https://ieeexplore.ieee.org/abstract/document/8515085/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achieving Quality and Traceability in FPGA/ASIC Flows for DO-254 Aviation Projects
+     Author ['M Lange', 'T Dewey']
+     Venue 2008 IEEE Aerospace Conference
+     Year 2008
+     Abstract Using these automated solutions, design teams can meet traceability requirements in a fraction of the time  that is created or produced as part of the design process for the ASIC or FPGA  identifies the percentage of lines in the RTL design code that were exercised during testing
+     Url https://ieeexplore.ieee.org/abstract/document/4526687/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Design and testing technique of FPGA-based critical systems
+     Author ['V Kharchenko', 'O Siora', 'V Sklyar']
+     Venue 2009 10th International …
+     Year 2009
+     Abstract Software verification is a process aimed to confirm software compliance to defined requirements by way  through the life cycle of development, ie from requirement analysis up to final testing. FPGA-project is developed and verified in 4 stages, with traceability analysis performed
+     Url https://ieeexplore.ieee.org/abstract/document/4839839/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A RFID-enabled traceability system for the supply chain of live fish
+     Author ['YC Hsu', 'AP Chen', 'CH Wang']
+     Venue 2008 IEEE International …
+     Year 2008
+     Abstract the chess products, the sensors of temperature and moisture are linked with PLC to automatically  These records in the aquaculture farms would be fed forward to the traceability system. 2) The inspectors record the testing report: The third party inspection company performs the
+     Url https://ieeexplore.ieee.org/abstract/document/4636124/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software verification process and methodology for the development of FPGA-based engineered safety features system
+     Author ['R Maerani', 'JK Mayaka', 'JC Jung']
+     Venue Nuclear Engineering and Design
+     Year 2018
+     Abstract complexity in term of ability to execute the independent functions in parallel which is not possible with PLC based systems (Wood  Since this development uses hardware description language (HDL) which is VHDL, software testing for software verification for FPGA-based ESF
+     Url https://www.sciencedirect.com/science/article/pii/S0029549318300840
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Food safety and traceability in the agricultural supply chain: using the Internet to deliver traceability
+     Author ['TP Wilson', 'WR Clarke']
+     Venue Supply Chain Management: An International …
+     Year 1998
+     Abstract TP Wilson (TP Wilson is Account Manager, Food Trak plc, Spalding, UK). WR Clarke (WR Clarke Food Trak plc, Spalding, UK). Supply Chain Management. ISSN : 1359-8546  Testing. Testing provides the means by which the content of traceability records can be checked for
+     Url https://www.emerald.com/insight/content/doi/10.1108/13598549810230831/full/html?queryID=17%2F5405210
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Development and application of POSAFE-Q PLC platform
+     Author ['MK Lee', 'SW Song', 'DH Yun']
+     Venue NA
+     Year 2012
+     Abstract 4 PLC was progressed in development process of each plan documents  Software verification and validation team had performed verification and validation independently software development team in  SRS), Software Design Specification (SDS) and codes, and a testing of
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:43130436
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title System and method for verification and validation of redundancy software in plc systems
+     Author ['K Ji', 'Z Song']
+     Venue US Patent App. 13/415,897
+     Year 2012
+     Abstract In particular, tool 50 utilizes a traceability task to cross-check between feature specification 60  generated source code module, with an exemplary flow 82 of module testing shown in  Indeed, the overall verification and validation process for the PLC redundancy software will not
+     Url https://patents.google.com/patent/US20120246612A1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title System and method for verification and validation of redundancy software in plc systems
+     Author ['K Ji', 'Z Song']
+     Venue US Patent App. 13/415,897
+     Year 2012
+     Abstract In particular, tool 50 utilizes a traceability task to cross-check between feature specification 60  generated source code module, with an exemplary flow 82 of module testing shown in  Indeed, the overall verification and validation process for the PLC redundancy software will not
+     Url https://patents.google.com/patent/US20120246612A1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achieving traceability in PLC software
+     Author ['DC Thompson']
+     Venue IEE Colloquium on Advances in …
+     Year 1992
+     Abstract ACHIEVING TRACEABILITY IN PLC SOFTWARE  This provides the framework for drawing up a quality plan and establishing traceability links  of the operating part and control hardware, with the control programme being added to carry out commissioning and acceptance testing
+     Url https://ieeexplore.ieee.org/abstract/document/241340/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A PDA-based record-keeping and decision-support system for traceability in cucumber production
+     Author ['M Li', 'JP Qian', 'XT Yang', 'CH Sun', 'ZT Ji']
+     Venue Computers and Electronics in …
+     Year 2010
+     Abstract Thus a PDA-based Record-keeping and Decision-support System (PRDS) for traceability in cucumber production was developed on Windows  usage early warning model were developed by using the Technical Specification of Balanced Fertilization by Soil Testing and the
+     Url https://www.sciencedirect.com/science/article/pii/S0168169909001896
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Towards industrial internet of things: Crankshaft monitoring, traceability and tracking using RFID
+     Author ['DMS Velandia', 'N Kaur', 'WG Whittow']
+     Venue Robotics and Computer …
+     Year 2016
+     Abstract both hardware and software architectures to support interfaces to typically PLC-controlled machinery and  This paper presents results of testing on-metal RFID tags that have been  For the monitoring, traceability and tracking of crankshafts throughout the relevant machining and
+     Url https://www.sciencedirect.com/science/article/pii/S0736584516300576
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A review on agri-food supply chain traceability by means of RFID technology
+     Author ['C Costa', 'F Antonucci', 'F Pallottino', 'J Aguzzi']
+     Venue Food and bioprocess …
+     Year 2013
+     Abstract tag suited for use with cattle, sheep, pigs and other livestock for RFID management and scientific testing applications; b  in the past decade in different fields of agri-food production in relation to good traceability through all  Sensors controlled by the PLC and web-based system
+     Url https://link.springer.com/article/10.1007/s11947-012-0958-7
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title An RFID-based technology for electronic component and system counterfeit detection and traceability
+     Author ['K Yang', 'D Forte', 'M Tehranipoor']
+     Venue 2015 IEEE International …
+     Year 2015
+     Abstract This eliminates the need for expensive testing, enables contactless detection from multiple different chips  generation systems to enable complete chip-level and board-level authentication and traceability  Secondly, the FPGA prototype was used to verify the digital parts of the
+     Url https://ieeexplore.ieee.org/abstract/document/7225279/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title FPGA Technology and Platforms for NPP I&C systems
+     Author ['A Kovalenko', 'I Babeshko', 'V Tokarev']
+     Venue Cyber Security and …
+     Year 2020
+     Abstract Software verification is a process aimed to confirm software compliance to defined re- quirements by way  Implementation of digital device program model to FPGA Testing of FPGA with implemented program model Blackbox functional testing Completeness of tests assessment
+     Url https://www.igi-global.com/chapter/fpga-technology-and-platforms-for-npp-ic-systems/258688
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The software verification and validation tasks for a safety critical system in nuclear power plants
+     Author ['SW Cheon', 'KH Cha', 'KC Kwon']
+     Venue International journal of safety
+     Year 2004
+     Abstract a requirement traceability analysis, formal verification, and life-cycle based software testing. Key words: nuclear power plants, safety critical systems, software, verification and validation 1  The pro- grammable logic controller (PLC) based platforms (eg, Teleperm XS, Common Q
+     Url https://www.koreascience.or.kr/article/JAKO200428317682795.page
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing framework for on-board verification of HLS modules using grey-box technique and FPGA overlays
+     Author ['J Caba', 'F Rincon', 'J Dondo', 'J Barba', 'M Abaldea']
+     Venue Integration
+     Year 2019
+     Abstract the DUT in order to achieve a double goal: to reuse part of the original tests, adding a configuration for on-board testing, and to  collection of the tests, but with the particularity that it does not directly interact with the DUT when it is running on an FPGA  Software verification stage
+     Url https://www.sciencedirect.com/science/article/pii/S0167926018304978
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title An intelligent value stream-based approach to collaboration of food traceability cyber physical system by fog computing
+     Author ['RY Chen']
+     Venue Food Control
+     Year 2017
+     Abstract of the government's promotion of the TAFT program and adoption of pesticide residue testing  This article applies CPS-based intelligent systems into food traceability system that  all the elements having industrial automation capabilities including smart PLC (programmable logic
+     Url https://www.sciencedirect.com/science/article/pii/S0956713516303565
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability in a modeling environment
+     Author ['X Lin', 'A Pillarisetti', 'WJ Aldrich', 'K Tuschner']
+     Venue US Patent 8,104,017
+     Year 2012
+     Abstract US8104017B2 - Traceability in a modeling environment - Google Patents. Traceability in a modeling environment. Download PDF Info. Publication number US8104017B2. US8104017B2 US11/605,747 US60574706A US8104017B2
+     Url https://patents.google.com/patent/US8104017B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The work of environmental governance networks: Traceability, credibility and certification by the Forest Stewardship Council
+     Author ['S Eden']
+     Venue Geoforum
+     Year 2009
+     Abstract and validate each other, especially through meteorological practices for traceability, and conclude by  (forestry companies, processing companies, retailers, other commercial bodies), B&Q plc, Big Creek  process of moving between the abstract and the concrete, testing out and
+     Url https://www.sciencedirect.com/science/article/pii/S0016718508000031
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title COTS FPGA/SRAM irradiations using a dedicated testing infrastructure for characterization of large component batches
+     Author ['S Uznanski', 'B Todd', 'J Walter']
+     Venue 2014 Proceedings of …
+     Year 2014
+     Abstract In addition, die traceability during manufacturing (silicon lot date code, position on wafer or packaging  objective of this work is to present the architecture of a testing platform to  in the LHC: Static Random Access Memories (SRAM) and Field Programmable Gate Arrays (FPGA)
+     Url https://ieeexplore.ieee.org/abstract/document/6872223/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Guided semi-automatic system testing in factory automation
+     Author ['S Ulewicz', 'B Vogel-Heuser']
+     Venue 2016 IEEE 14th International …
+     Year 2016
+     Abstract Traceability and reproducibility (exactly repeating a test achieving the same result) of these tests is therefore very low, lowering test credibility and consistency  [8] B. Kormann, D. Tikhonov, and B. Vogel-Heuser, “Automated PLC Software Testing using adapted UML
+     Url https://ieeexplore.ieee.org/abstract/document/7819148/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title End-to-end traceability of ics in component supply chain for fighting against recycling
+     Author ['Y Zhang', 'U Guin']
+     Venue IEEE Transactions on Information Forensics …
+     Year 2019
+     Abstract Moreover, the reliability of authentic chips may be reduced if they have been removed from the packaging boxes for testing purposes. In this paper, we propose a robust and low-cost solution for enabling the traceability of an IC
+     Url https://ieeexplore.ieee.org/abstract/document/8760418/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain …
+     Author ['TM Fernández-Caramés', 'O Blanco-Novoa']
+     Venue Sensors
+     Year 2019
+     Abstract UAVs have been applied to inventory and traceability tasks in the past  Specifically, this article includes the following contributions: • This is one of the first articles where design and testing of an RFID-based drone for performing inventory tasks are described
+     Url https://www.mdpi.com/1424-8220/19/10/2394
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract Fig. 6. The NuDE 2.0 in the PLC implementation phase. Fig  IST-FPGA also provides an integrated software simulation (testing) framework, which can generate and execute simulation cases simultane- ously for all phases of FPGA SDLC
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Process and product certification arguments: getting the balance right
+     Author ['I Habli', 'T Kelly']
+     Venue ACM SIGBED Review
+     Year 2006
+     Abstract Page 4. Logic Controller (PLC). In this structure, as in most, there exist 'top level' goals – statements that the goal structure is designed to support  The process information addresses team competency, test case generation, execution and analysis, and testing traceability
+     Url https://dl.acm.org/doi/abs/10.1145/1183088.1183090
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Tracking and traceability solution using a novel material handling system
+     Author ['A Mousavi', 'M Sarhadi', 'S Fawcett', 'S Bowles']
+     Venue Innovative Food Science …
+     Year 2005
+     Abstract information by disassembling the information into shorter chunks and reassembling them in the PLC data tables  6. Control equipment mounting and testing  to the higher levels of information system where data analysis and user interfaces provide traceability and operational
+     Url https://www.sciencedirect.com/science/article/pii/S1466856404001055
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title FPGA level in-hardware verification for DO-254 compliance
+     Author ['L De Luna', 'Z Zalewski']
+     Venue 2011 IEEE/AIAA 30th Digital Avionics …
+     Year 2011
+     Abstract There are several significant challenges that come up when verifying FPGA level requirements at the board level, and they include the following: x The traceability of testing results which involves re-mapping and comparing the hardware outputs to its corresponding RTL
+     Url https://ieeexplore.ieee.org/abstract/document/6096130/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title An intelligent value stream-based approach to collaboration of food traceability cyber physical system by fog computing
+     Author ['RY Chen']
+     Venue Food Control
+     Year 2017
+     Abstract of the government's promotion of the TAFT program and adoption of pesticide residue testing  This article applies CPS-based intelligent systems into food traceability system that  all the elements having industrial automation capabilities including smart PLC (programmable logic
+     Url https://www.sciencedirect.com/science/article/pii/S0956713516303565
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A case for common-case: on FPGA acceleration of erasure coding
+     Author ['R Nakhjavani', 'J Zhu']
+     Venue … IEEE 25th Annual International Symposium on …
+     Year 2017
+     Abstract All too often missing are the more productive strategies of: instituting effective peer reviews, using static analysis tools, actually doing a design, requiring traceability from testing back to requirements, and following applicable software safety and security standards. III
+     Url https://www.computer.org/csdl/proceedings-article/fccm/2017/07966654/12OmNyfdOVU
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Development, verification and validation of an FPGA-based core heat removal protection system for a PWR
+     Author ['Y Wu', 'X Shui', 'Y Cai', 'J Zhou', 'Z Wu', 'J Zheng']
+     Venue Nuclear Engineering and …
+     Year 2016
+     Abstract In the RTM traceability documents, each system acceptance test case is traceable to one or more system  The system acceptance testing V&V platform architecture is shown in Fig  OPS model, a process control program, a virtual serial port and the under test FPGA-based CHR
+     Url https://www.sciencedirect.com/science/article/pii/S0029549316300036
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Methods, systems, and computer readable media for calibration testing and traceability using a distributed ledger
+     Author ['SS Jackson']
+     Venue US Patent App. 16/129,295
+     Year 2020
+     Abstract 106 may be any suitable entity or entities (eg, software executing on a processor, an ASIC, an FPGA, or a combination of software, an ASIC, and/or an FPGA) for performing  FIG. 8 is a diagram illustrating an example process 800 for calibration testing and traceability using a
+     Url https://patents.google.com/patent/US20200080873A1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Computer and Computing Technologies in Agriculture IV: 4th IFIP TC 12 Conference, CCTA 2010, Nanchang, China, October 22-25, 2010, Part II, Selected …
+     Author ['D Li', 'Y Liu', 'Y Chen']
+     Venue NA
+     Year 2011
+     Abstract decision-support systems for agricultural production, agricultural product quality testing, traceability and e  Wen, Zhang You-Hua, and Liu Chao Research on Traceability System of  Study of a Novel Algorithm for Digital Relaying Based on FPGA
+     Url https://books.google.com/books?hl=en&lr=&id=kTaqCAAAQBAJ&oi=fnd&pg=PP2&dq=%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22+%22Traceability%22&ots=6_DbCa4ncu&sig=Za9ZSrVYsyC-2dD2yzKVqC-z0Es
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract Fig. 6. The NuDE 2.0 in the PLC implementation phase. Fig  IST-FPGA also provides an integrated software simulation (testing) framework, which can generate and execute simulation cases simultane- ously for all phases of FPGA SDLC
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Application of model-based testing to validation of new nuclear I&C architecture
+     Author ['F Chastrette', 'F Vallee', 'L Coyette']
+     Venue ICCSEA
+     Year 2013
+     Abstract Func. Diagrams Scade PLC Text / SysML Early functional validation Page 7  Executable model allowing clarification of the early set of requirements and early testing (before writing any code) ⇨ Full traceability to textual requirements ⇨ All verifications performed at model level
+     Url https://ucaat.etsi.org/2013/presentations/ApplicationofMBTtoValidationofNewNuclearI&CArchitectures_All4tec_EsterelTechnologies.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing and validation of safety logic in the virtual environment
+     Author ['A Khan', 'P Falkman', 'M Fabian']
+     Venue CIRP Journal of Manufacturing Science and …
+     Year 2019
+     Abstract In practice, Boolean signal values are shared between the safety PLC logic and the specification  The problem of combinatory explosion is not an issue for testing safety logic using IOCO  However, large number of inputs and outputs could lead to traceability issue if not managed
+     Url https://www.sciencedirect.com/science/article/pii/S1755581719300318
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software Qualification Approach for Safety-critical Software of the Embedded System
+     Author ['J Kim', 'S Kim']
+     Venue … Conference on Future Generation Communication and …
+     Year 2012
+     Abstract Review Notes : SWLC : Software Development Life Cycle, SVVR : Software Verification and Validation  Functional Configuration Audit compiles PLC system software whether it meets the  and traceability analysis, formal verification, hazard analysis, testing techniques including a
+     Url https://link.springer.com/chapter/10.1007/978-3-642-35594-3_25
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain …
+     Author ['TM Fernández-Caramés', 'O Blanco-Novoa']
+     Venue Sensors
+     Year 2019
+     Abstract UAVs have been applied to inventory and traceability tasks in the past  Specifically, this article includes the following contributions: • This is one of the first articles where design and testing of an RFID-based drone for performing inventory tasks are described
+     Url https://www.mdpi.com/1424-8220/19/10/2394
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Functional & timing in-hardware verification of FPGA-based designs using unit testing frameworks
+     Author ['J Caba', 'F Rincoon', 'JD Dondo']
+     Venue 2017 27th International …
+     Year 2017
+     Abstract These tools produce complex designs whose traceability is quite limited, requiring developers to trace the signal(s  is able to synthesise the design code, deploy the DUT remotely into an FPGA and exercise it with the original unit tests, reporting the testing result to the
+     Url https://ieeexplore.ieee.org/abstract/document/8056849/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title DO-254 Requirements Traceability
+     Author ['L De Luna']
+     Venue 2013 IEEE/AIAA 32nd Digital Avionics Systems …
+     Year 2013
+     Abstract and standards     - V Allocate system functions to FPGA Requirements High level description of design Conceptual Design  Program Device Device Testing Detailed Design  Validation & Verification *Requirements Traceability Configuration Manageme t
+     Url https://ieeexplore.ieee.org/abstract/document/6719630/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title IEC61850-based Digital Watt-hour Meter Tester with Traceability
+     Author ['C Huang', 'Y Tang', 'J Bo', 'XS Chen']
+     Venue Advanced Materials …
+     Year 2014
+     Abstract The design scheme, traceability solution and testing result of the tester will be described in the following  Thirdly, a FPGA is used to generate and receive power pulse, which has a high timing  1) Virtual load testing mode Fig.3 shows the principle of virtual load testing mode
+     Url https://www.scientific.net/AMR.986-987.1514
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title PLC based automation of test rig for brake actuators
+     Author ['BB Malakanagouda', 'SK Harisha']
+     Venue … International Conference on …
+     Year 2017
+     Abstract the productivity. The development of PLC based automated test rig reduces the above problems and implementation of SCADA screen helps in traceability, virtual appearance of testing, test report generation etc. The PLC based
+     Url https://ieeexplore.ieee.org/abstract/document/8389639/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability of on-machine tool measurement: a review
+     Author ['U Mutilba', 'E Gomez-Acedo', 'G Kortaberria', 'A Olarra']
+     Venue Sensors
+     Year 2017
+     Abstract Sensors 2017, 17(7), 1605; https://doi.org/10.3390/s17071605. Review. Traceability of On  However, the traceability of the measurement process on a machine tool is not ensured yet and measurement data is still not fully reliable enough for process control or product validation
+     Url https://www.mdpi.com/1424-8220/17/7/1605
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Improving the ASIC and FPGA Development Process
+     Author ['P Cormery']
+     Venue DASIA 2003-Data Systems In Aerospace
+     Year 2003
+     Abstract necessary to improve: - System requirements traceability on ASIC/FPGA development - Reactive  and consistent documentation, instead of pushing quickly towards testing on physical  sub-contractor), to support requirements capture, understanding and traceability through the
+     Url http://adsabs.harvard.edu/full/2003esasp.532e..19c
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Engineering and technological outlook on traceability of agricultural production and products
+     Author ['LU Opara']
+     Venue Agricultural Engineering International: CIGR Journal
+     Year 2002
+     Abstract Bossler, JD (ed). 2001. Manual of geospatial science and technology. Taylor & Francis Group, plc, 664 pp. Boyd, C. 1997  1993. What's new in traceability? Journal of Testing and Evaluation, 21(6): 505-509. Giese, JH 2001. Lab exhibits promote traceability and safety
+     Url http://cigrjournal.org/index.php/Ejounral/article/download/348/342
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title An integrated environment of software development and V and V for PLC based safety-critical systems
+     Author ['SR Koo']
+     Venue NA
+     Year 2005
+     Abstract Software inspection and the analysis of requirements traceability are the most effective methods of software V and V. Although formal methods are  In this study, a nuclear FED-style design specification and analysis (NuFDS) approach was proposed for PLC based safety-critical
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:45043739
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Elval pilot aluminium casting traceability supported by CIMOSA
+     Author ['T Arabatzis', 'D Papaioannou', 'M Didic']
+     Venue Computers in industry
+     Year 1995
+     Abstract the VOICE and VOICE II projects, Elval tried to solve a more or less typical traceability problem by  Although this solution gives a lot of trouble during the installation, testing and start-up phase, it runs  say, MMS, FMS, RDA in order to integrate even a #small system of a PLC and a
+     Url https://www.sciencedirect.com/science/article/pii/0166361595000406
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title COTS FPGA/SRAM Irradiations Using a Dedicated Testing Infrastructure for Characterization of Large Component Batches
+     Author ['U Slawosz', 'T Benjamin', 'W Johannes', 'VV Andrea']
+     Venue NA
+     Year 2015
+     Abstract In addition, die traceability during manufacturing (silicon lot date code, position on wafer or packaging  objective of this work is to present the architecture of a testing platform to  in the LHC: Static Random Access Memories (SRAM) and Field Programmable Gate Arrays (FPGA)
+     Url https://cds.cern.ch/record/1979601
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Integration of supervisory control with SCADA system for a flexible manufacturing cell
+     Author ['NB Portilla', 'MH de Queiroz']
+     Venue 2014 12th IEEE …
+     Year 2014
+     Abstract Petri Nets, Temporal Logic and Dioid Algebras can be used to the analysis and synthesis of control for DES [3]. Although the academic literature comprises many uses of formal methods to PLC code design, their application to SCADA systems is still an open issue
+     Url https://ieeexplore.ieee.org/abstract/document/6945518/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design of safe PLC programs by using Petri nets and formal methods
+     Author ['EI Gergely', 'L Coroiu', 'A Gacsadi']
+     Venue Recent Advances in Automation & …
+     Year 2010
+     Abstract References: [1] MN Lakhoua, Application of Functional Analysis on a SCADA system of a Thermal Power Plant, Advances in Electrical and Computer Engineering journal, Faculty of  Yang, NY Lee and JY Choi, Development of RTOS for PLC using formal methods, Lecture
+     Url https://www.academia.edu/download/51320578/Design_of_safe_PLC_programs_by_using_Pet20170112-20346-1yjfaqp.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Real-Time SCADA Attack Detection by Means of Formal Methods
+     Author ['F Mercaldo', 'F Martinelli']
+     Venue 2019 IEEE 28th …
+     Year 2019
+     Abstract Index Terms—SCADA, model checking, formal methods, timed automaton, temporal logic, critical infrastructure  AND RELATED WORK The Supervisory Control and Data Acquisition (SCADA) is a  using peripheral devices such as pro- grammable logic controller (PLC) [1]. There
+     Url https://ieeexplore.ieee.org/abstract/document/8795430/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A formal authorization framework for networked SCADA systems
+     Author ['O Rysavy', 'J Rab', 'P Halfar']
+     Venue 2012 IEEE 19th …
+     Year 2012
+     Abstract Index Terms—SCADA systems, authentication, security man- agement, security policy management, formal methods I. INTRODUCTION  A SCADA system is a distributed environment consisting of several subsystems  Programmable logic controllers (PLC) implement real- time
+     Url https://ieeexplore.ieee.org/abstract/document/6195199/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract for testing PLC programs developed within the UNICOS (UNified Industrial COntrol System) framework  Formal methods techniques can be applied also to complete control systems developed with UNICOS  Automated testing via SCADA is feasible and in certain cases allows to
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modular and systematic design of supervisory control system integrating PLC, SCADA and task routing for a modular production system
+     Author ['WAF Scotti', 'NB Portilla', 'MH de Queiroz']
+     Venue 2015 IEEE …
+     Year 2015
+     Abstract without a structured architecture. Although the academic literature comprises many uses of formal methods to PLC code design, their application to the design of SCADA systems is still an open issue. For purposes of control
+     Url https://ieeexplore.ieee.org/abstract/document/7294180/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Practice-Oriented Formal Methods for PLC Programs of Industrial Control Systems
+     Author ['D Darvas']
+     Venue NA
+     Year NA
+     Abstract Here we focus on the quality of the PLC programs. Very often ICS are used together with separated, dedicated safety systems, therefore the PLC programs are typically  Formal methods are typically considered too expensive and too difficult to use in these scenarios
+     Url http://home.mit.bme.hu/~darvas/publications/PhD-iFM2016_Darvas.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title From formal methods to algorithmic implementation of human inspired control on bipedal robots
+     Author ['SN Yadukumar', 'M Pasupuleti', 'AD Ames']
+     Venue Algorithmic Foundations of …
+     Year 2013
+     Abstract Page 1. From Formal Methods to Algorithmic  513 goal of this paper is to translate these formal methods in human-inspired control to efficient algorithms which are experimentally realizable on a physical robot; and specifically AMBER, a 2D underactuated bipedal robot (see Fig
+     Url https://link.springer.com/chapter/10.1007/978-3-642-36279-8_31
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Re-engineering approach for PLC programs based on formal methods
+     Author ['MB Younis']
+     Venue NA
+     Year 2006
+     Abstract Summary • Compound of OO, Internet, and formal methods Done PLC-Code Bosch PLC-Code IEC PLC-Code S5  Verification and Validation SW Quality Visualization and Formalization PLC-Code Bosch PLC-Code DCS PLC-Code IEC Analysis and Simulation Page 10
+     Url https://pdfs.semanticscholar.org/49a6/5fe6f331e9eb04e7fa539373a7a91eda3b08.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A UML Modelling Approach for a Railway Signalization System Simulator and SCADA System
+     Author ['F Mecitoğlu', 'MT Söylemez']
+     Venue IFAC Proceedings Volumes
+     Year 2013
+     Abstract The relevant standards insist on using formal methods such as automata and Petri Nets in the design  is employed to design a railway signalling system simulator and a SCADA system  Keywords: railway signalling, interlocking, UML design, PLC, SCADA, software development
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015352113
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract Formal verification of the FPGA cores  Automated Verification in Railways. In Industrial-Strength Formal Methods in Practice, Hinchey, MG and Bowen, JP, Editors  http://www.dcs.gla.ac.uk/ prosper/.]]Google Scholar Google Scholar; {11} GORDON, MJC 1996
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods diffusion: Past lessons and future prospects
+     Author ['R Bloomfield', 'D Craigen', 'F Koob', 'M Ullmann']
+     Venue … on Computer Safety …
+     Year 2000
+     Abstract 1 Of the 386 papers in the HOL bibliography (http://www.dcs.glasgow.ac.uk/~tfm/hol-bib.html) about 30  There is some integration of formal methods with the  to the use of engineer friendly approach to notations œ variants of table based notations, existing PLC notations – trading
+     Url https://link.springer.com/chapter/10.1007/3-540-40891-6_19
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Testing and Validation of Modbus/TCP Protocol for Secure SCADA Communication in CPS using Formal Methods
+     Author ['IA Siddavatam', 'S Parekh', 'T Shah', 'F Kazi']
+     Venue Scalable Computing: Practice …
+     Year 2017
+     Abstract industry standard. Industrial Control System(ICS) is most referred the case of Cyber-physical system; CPS testbed developed tries to cover all aspect of ICS with electrical system as the physical process. Distributed control
+     Url https://www.scpe.org/index.php/scpe/article/view/1331
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Using model-based intrusion detection for SCADA networks
+     Author ['S Cheung', 'B Dutertre', 'M Fong', 'U Lindqvist']
+     Venue … of the SCADA security …
+     Year 2007
+     Abstract SCADA server may communicate with the flow computer and the PLC using the  model-based intrusion detection ap- proach is effective for monitoring SCADA networks, and  His main research interests include formal methods, software architecture, and the application of logic
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.141.2076&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Specification and Verification of PLC for Certification
+     Author ['JH Kim', 'NY Lee', 'JY Choi']
+     Venue SIGBED Review (web version)
+     Year 2006
+     Abstract Next, we informally explain the PLC micro-kernel software and the relevant entities in the system  2. RELATED WORKS To develop micro-kernels in safety-critical systems such as avion- ics, automobile and nuclear power plant, applying formal methods has been studied
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.553.6782&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model checking of security properties in industrial control systems (ics)
+     Author ['R Shrestha', 'H Mehrpouyan', 'D Xu']
+     Venue … of the Eighth ACM Conference on …
+     Year 2018
+     Abstract INTRODUCTION Supervisory Control and Data Acquisition (SCADA) are widely used for managing Industrial Control System(ICS). SCADA focuses on the supervisory level and is not a full control system  and security properties so that the model checking in ICS becomes more
+     Url https://dl.acm.org/doi/abs/10.1145/3176258.3176949
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Power optimization and synthesis at behavioral and system levels using formal methods
+     Author ['JM Chang', 'M Pedram']
+     Venue NA
+     Year 2012
+     Abstract POWER OPTIMIZATION AND SYNTHESIS AT BEHAVIORAL AND SYSTEM LEVELS USING FORMAL METHODS by Jui-Ming Chang Cadence Design Systems  automation of industrial design frameworks has pro- duced a substantial change in the way digital ICs are developed
+     Url https://books.google.com/books?hl=en&lr=&id=nwbTBwAAQBAJ&oi=fnd&pg=PR15&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=BsV0FOTte4&sig=tfjcV3kkNFsy4P5SymKjfv2qNwA
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract Page 1. The State-of-the-Art in Formal Methods by Milica Barjaktarovic Wilkes University Wilkes Barre PA 18766 and WetStone Technologies, Inc. 273 Ringwood Rd  Page 2. Report: State of the Art in Formal Methods M. Barjaktarovic / WetStone Technologies i Abstract
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract control systems mainly based on PLCs (Programmable Logic Controllers) using the UNICOS (UNified Industrial COntrol System) framework [8  all the PLC structure with the links between objects and the communication with SCADA  7] G. Frey and L. Litz, “Formal methods in PLC
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Application diagnostic of distributed control system with safety PLC
+     Author ['J Ždánsky', 'J Valigurský']
+     Venue 2018 ELEKTRO
+     Year 2018
+     Abstract This paper addresses the analysis of the influence of diagnostics in distributed control system on the safety integrity  Vinuela, “Formal Verification of Safety PLC Based Control Software,” 12th International Conference on Integrated Formal Methods, Reykjavik, Iceland
+     Url https://ieeexplore.ieee.org/abstract/document/8398311/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The State of the Art in Formal Methods: A Survey [J]
+     Author ['LV Yi']
+     Venue Microelectronics & Computer
+     Year 2003
+     Abstract A High Efficient Method to Generate the Verification Vector of ICs[J];Acta  OR 97207; 3. School of Software,Tsinghua University,Beijing 100084;PLC Program Verification and  Normal College,Shangrao 334001,China);Integration and Its Application of Formal Methods and Visual
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WXYJ200310008.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Survey on applications of formal methods in reverse engineering and intellectual property protection
+     Author ['S Keshavarz', 'C Yu', 'S Ghandali', 'X Xu']
+     Venue Journal of Hardware and …
+     Year 2018
+     Abstract in this arms race, with a particular focus on design automation and formal methods  involved in synthesis, placement and routing processes, to accomplish the design of ICs  post-processing, obtained through bitstream reverse engineering in case of FPGA implementation, or
+     Url https://link.springer.com/article/10.1007/s41635-018-0044-3
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Practice-oriented formal methods to support the software development of industrial control systems
+     Author ['D Darvas']
+     Venue NA
+     Year 2017
+     Abstract logic formulae is a difficult task, especially for the people not familiar with formal methods  be an obstacle to apply model checking in the development of PLC programs  To improve the usability and to integrate formal verification into the industrial control system develop- ment
+     Url https://repozitorium.omikk.bme.hu/bitstream/handle/10890/5364/ertekezes.pdf?sequence=2
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title E-QED: electrical bug localization during post-silicon validation enabled by quick error detection and formal methods
+     Author ['E Singh', 'C Barrett', 'S Mitra']
+     Venue International Conference on Computer Aided …
+     Year 2017
+     Abstract It is extremely difficult to trace that far back into the history of system operation for complex ICs  E-QED automatically localized every error detected by the EDDI-V and PLC checks in the QED tests, and produced a list  2012) also use formal methods for bug localization purposes
+     Url https://link.springer.com/chapter/10.1007/978-3-319-63390-9_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Security issues and quality of service in real time wireless PLC/SCADA process control systems
+     Author ['H Eren', 'D Hatipoglu']
+     Venue 2008 IEEE Sensors Applications …
+     Year 2008
+     Abstract [4] Zezulka, F., Bradac, Z.; and Kucera, P., “Formal methods for higher reliability of the industrial automation,” IEEE International Confer- ence on Industrial Technology, Maribor Slovenia, Vol. 2, pp. 891-5, 2003 [5] Williams, A., “PC SCADA takes control? Will the PLC be killed by
+     Url https://ieeexplore.ieee.org/abstract/document/4472963/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Methods and the Processing Industries: Status and Prospects from an Academic Perspective
+     Author ['S Kowalewski']
+     Venue Workshop on Formal Methods and Manufacturing
+     Year 1999
+     Abstract Thus, the developers are not familiar with the available formal methods and tools. Another reason is that most control software in this area is written by the PLC or DCS user for one particular application or a rather small number of similar plants
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.9939&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Safety conditions verification of communication in distributed control system
+     Author ['W Mikluszka']
+     Venue 3rd International Conference on Human System …
+     Year 2010
+     Abstract Specifications established by means of formal methods are characterized by transparency, consistency and completeness  Fig. 3. Distributed control system  3 shows an example of a system consisting of SCADA workstation, sensors, actuators, touch panels and PID controllers
+     Url https://ieeexplore.ieee.org/abstract/document/5514477/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Implementation and Design of Remote Industrial Control System based on 3G and PLC [J]
+     Author ['X Tao']
+     Venue Equipment Manufacturing Technology
+     Year 2011
+     Abstract 3, ;Application of PLC in Remote Industrial Control System[J];Automation Panorama;2006-S1  College of Information Science and Engineering,Huaqiao University,Xiamen 361021,China); Design and Verification on the PLC Program Based on Formal Methods[J];Journal of
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GXJX201107028.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Innovative Tank Management System based on DCS
+     Author ['A Firoozshahi']
+     Venue Proceedings ELMAR-2010
+     Year 2010
+     Abstract DCS is operated either in single mode and or it is interfaced with other systems such as PLC, SCADA, and Etc for enhanced functionality  Keywords- Distributed Control System ; DCS; monitoring; system; Tank Gauging;  In this paper we focus on the Industrial Control System
+     Url https://ieeexplore.ieee.org/abstract/document/5606145/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Research on Event-B based modelling and verification of PLC system
+     Author ['H Zhao', 'B Fang', 'H Li', 'P Wang']
+     Venue First International Conference on …
+     Year 2015
+     Abstract on the correctness and reliability of control program are always needed in industrial control system  correctness and reliability of control program are always needed in PLC system  Comparing with the traditional methods, formal methods are easier and earlier detecting the errors
+     Url https://www.atlantis-press.com/proceedings/icismme-15/21217
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An algebraic approach for PLC programs verification
+     Author ['JM Roussel', 'JM Faure']
+     Venue Sixth International Workshop on …
+     Year 2002
+     Abstract Page 1. An algebraic approach for PLC programs verification Jean  The behavior of the generic function blocks of the IEC 61131 standard as well as of PLC programs using these function blocks can be described in this algebra. Proper
+     Url https://ieeexplore.ieee.org/abstract/document/1167703/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automated Testing of SCADA Protocols
+     Author ['N Kube', 'D Hoffman']
+     Venue … of SCADA Security Scientific Symposium
+     Year 2007
+     Abstract The term SCADA is used in this document to represent any industrial control system including Distributed  his PhD work on vulnerability testing protocol implementations in SCADA/DCS devices  Mr. Kube and his team specialize in formal methods for software testing, operations
+     Url https://s4xevents.com/wp-content/uploads/2020/04/4Wurldtech.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Introduction to formal methods for software engineering
+     Author ['T King']
+     Venue Measurement and Control
+     Year 1993
+     Abstract by Trevor King Praxis Systems plc  mathemat- ics becomes a powerful technique for describing and analysing computer systems  In the (admit- tedly small) number of information tech- nology companies which use formal methods, most effort is devoted to con- structing formal
+     Url https://journals.sagepub.com/doi/abs/10.1177/002029409302600105
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Towards an FPGA implementation and performance evaluation of a digital carrier synchronizer with a portable emulation environment
+     Author ['AI Ahmed', 'SH Rahman']
+     Venue … journal of computer …
+     Year 2012
+     Abstract Towards an FPGA implementation and performance evaluation of a digital carrier synchronizer 67  Primarily, we investigate two distinct realizations of DCS  His research interests include Formal Methods, Theorem Proving, Model Checking, SAT-Solvers, VLSI Design and
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2012.050133
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Methods Specification and Analysis Guidebook for the Verification of Software and Computer Systems Volume II: A Practitioner's Companion
+     Author ['JC Kelly']
+     Venue NA
+     Year 1997
+     Abstract Furthermore, the guidebook assumes that, the reader is aware of the potential lmnefits alld fallibility ics of formal met nods: it does not dwell on the very real benefits of the appropriate application of formal methods or the equally real pitfalls of misuse
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/22415/97-0902.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title JACoW: Applying model checking to critical PLC applications: An ITER case study
+     Author ['B Fernández Adiego', 'E Blanco Viñuela']
+     Venue NA
+     Year 2018
+     Abstract SCADA implementation of the HIOC protocol was not part of the verification, thus the various checks implemented in the SCADA layer are  [4] D. Darvas, I. Majzik, and E. Blanco, “Formal verification of safety PLC based control software,” in Integrated Formal Methods, ser
+     Url https://cds.cern.ch/record/2305319
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A Personal Formal Methods Archive
+     Author ['JP Bowen']
+     Venue ResearchGate. DOI
+     Year 2019
+     Abstract The archive includes DCS project material and also course material for an Operating Systems course  aspect of the encouragement or even enforcement of the use of formal methods in critical  programmable hard- ware (eg, on a Field Programmable Gate Array or FPGA) in the
+     Url https://www.academia.edu/download/60888123/fm-archive20191013-80723-9d8eoj.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC advanced course for postgraduate students
+     Author ['M Baniyounis', 'M Alshabi']
+     Venue 2015 10th International Symposium …
+     Year 2015
+     Abstract This course is designed to provide an in depth understanding of the PLC Networking, Analog systems, advanced  Formal methods are also important to verify and validate the control algorithm before implementing it. Distributed Control Automation (DCS) according to IEC 61499
+     Url https://ieeexplore.ieee.org/abstract/document/7373455/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The development and deployment of formal methods in the UK
+     Author ['CB Jones', 'M Thomas']
+     Venue arXiv preprint arXiv:2006.06327
+     Year 2020
+     Abstract It comprised four areas that seemed particularly relevant at the time: • Software Engineering (led by David Talbot from ICL with Rob Witty from Informatics as his Deputy, who brought the focus on formal methods from DCS). • Intelligent Knowledge Based Systems
+     Url https://arxiv.org/abs/2006.06327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automation in buildings and formal methods
+     Author ['P Burget', 'O Sprdlík', 'R Ŝusta']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract on our practical model of energy saving in a small building equipped by an industrial distributed control system  In section 5, we discuss formal methods utilized for analysis and related works  There is a dedicated PLC which is used to control the furnace, which program will be
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015311502
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Verification of Security Pattern Composition: Application to SCADA
+     Author ['F Obeid', 'P Dhaussy']
+     Venue Computing and Informatics
+     Year 2020
+     Abstract FORMAL VERIFICATION OF SECURITY PATTERN COMPOSITION: APPLICATION TO SCADA Fadi Obeid, Philippe Dhaussy  Supervisory control and data acquisition (SCADA) systems control many of our critical industrial infrastructures
+     Url http://www.cai.sk/ojs/index.php/cai/article/viewArticle/2019_5_1149
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title IT AND FORMAL METHODS IN PROCESS CONTROL
+     Author ['F Zezulka', 'Z Bradac']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design of safety critical logic controller using devices integrated microprocessor with FPGA
+     Author ['A Bukowiec', 'M Wegrzyn']
+     Venue Photonics Applications in Astronomy …
+     Year 2005
+     Abstract of this solution is better utilization of hardware resources and decrease number of ICs  However, such design can be implemented only in one type of FPGA chip because its  7. REFERENCES 1. M. Adamski, "Formal methods in specification and synthesis of Petri net based
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5775/0000/Design-of-safety-critical-logic-controller-using-devices-integrated-microprocessor/10.1117/12.610690.short
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Innovative Tank Management System by Distributed Control System
+     Author ['A Firoozshahi', 'F Siyahpoush']
+     Venue Proceedings of the 2009 …
+     Year 2010
+     Abstract either in single mode and or it is interfaced with other systems such as PLC, SCADA, and Etc for  Developing Distributed Control System is a major industrial concern since those systems are more and more complex and  In this paper we focus on the Industrial Control System
+     Url https://books.google.com/books?hl=en&lr=&id=dJ3EqEZslGQC&oi=fnd&pg=PA307&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=0WU9oBoL80&sig=GCZ-v10K65IuYFfPM5A5PvQIfq8
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Methods: From Academia to Industrial Practice. A Travel Guide
+     Author ['M Huisman', 'D Gurov', 'A Malkis']
+     Venue arXiv preprint arXiv:2002.07279
+     Year 2020
+     Abstract Page 1. Formal Methods: From Academia to Industrial Practice  3, 85748 Garching, Germany 17 February 2020 Abstract For many decades, formal methods are considered to be the way for- ward to help the software industry to make more reliable and trustworthy software
+     Url https://arxiv.org/abs/2002.07279
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC BASED CAR WASHING SYSTEM
+     Author ['SK Kar', 'MD Sitikanta']
+     Venue NA
+     Year NA
+     Abstract At operator panel “SCADA system” is mounted therefore it is correct to say that whole operation is controlled by operator  various functions for cleaning the car effectively with embedded PLC and a “hybrid compact logic L43 DCS”  [6] G. Frey and L. Litz, “Formal methods in PLC
+     Url http://www.paideumajournal.com/gallery/93-dec2019.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Bringing Automated Formal Verification to PLC Program Development
+     Author ['VMG Suárez', 'EB Viñuela']
+     Venue NA
+     Year 2014
+     Abstract The thesis proposes a general methodology for applying automated formal verification to PLC programs and any complexity related to formal methods is hidden from control engineers  23 2.2.5 PLC software . . . . . 25 2.3 Formal methods and formal verification
+     Url http://isa.uniovi.es/~vsuarez/Download/TESIS-BORJA-2014.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Bringing automated formal verification to PLC program development
+     Author ['B Fernández Adiego']
+     Venue NA
+     Year 2014
+     Abstract The thesis proposes a general methodology for applying automated formal verification to PLC programs and any complexity related to formal methods is hidden from control engineers  23 2.2.5 PLC software . . . . . 25 2.3 Formal methods and formal verification
+     Url http://digibuo.uniovi.es/dspace/handle/10651/30651
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Experience with formal methods implementing the PROFIBUS FMS and DP protocol for industrial applications
+     Author ['A Poschmann', 'J Hahniche', 'P Deicke']
+     Venue … Workshop on Factory …
+     Year 1997
+     Abstract Page 1. Experience with formal methods implementing the PROFIBUS FMS  2 PROTOCOL DEVELOPMENT CYCLE Formal methods that are suitable for the specification and design of communication systems have been a topic of research for three decades
+     Url https://ieeexplore.ieee.org/abstract/document/634310/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of safety functions by reinterpretation of functional block based specifications
+     Author ['E Németh', 'T Bartha']
+     Venue International Workshop on Formal Methods for …
+     Year 2008
+     Abstract validation of DCS and PLC-based industrial control and monitoring systems. A few examples for formal modelling, verification and validation of PLC applications in various specification languages [6] include: – The authors of [12] describe an application of formal methods in the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-03240-0_17
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Continuous"+"Formal+methods"
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Comparing simulative and formal methods for the analysis of response times in networked automation systems
+     Author ['J Greifeneder', 'L Liu', 'G Frey']
+     Venue IFAC Proceedings Volumes
+     Year 2008
+     Abstract Comparing Simulative and Formal Methods for the Analysis of Response Times in Networked Automation  component-oriented graphical interface is easily under- standable in the automation community  the modeling process of NAS should be done in continuous time, whereas
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016397543
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract These extensions enable Overture to be used in a DevOps setting, through continuous integration and validation of models and generated code via integration with the Jenkins automation server. We frame the integration of formal methods and DevOps in a series of principles
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract continuous value during the automation engineering phase by enabling continuous testing during the  with the automation software and thus enables simulation supported automation engineering.” (Oppelt  While the theory around formal methods have been ready for a long time
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for test automation-hard real-time testing of controllers for the airbus aircraft family
+     Author ['J Peleska']
+     Venue IDPT'02
+     Year 2002
+     Abstract Initially, the related specifica- tion formalisms have been developed in the software engi- neering and formal methods communities to  For time-continuous observables, predicates are the same as for Hybrid Automata  ture for test automation systems described in Section III
+     Url http://www.cs.uni-bremen.de/agbs/jp/papers/peleska_idpt2002.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract or production interruptions due to production equipment, and particularly automation equipment, failures  Similarly, hybrid systems (having both continuous and discrete states) can be subjected to  In general, formal methods attempt to exploit the possibility of using automatic
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Continuous reasoning: Scaling the impact of formal methods
+     Author ["PW O'Hearn"]
+     Venue Proceedings of the 33rd Annual ACM/IEEE Symposium …
+     Year 2018
+     Abstract Continuous Reasoning: Scaling the impact of formal methods  ideas have been advanced in the research com- munity which are relevant to continuous reasoning  and VST-Floyd share a manual approach to compositionality, differing in their level of automation for reasoning
+     Url https://dl.acm.org/doi/abs/10.1145/3209108.3209109
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title … task analytic behavior modeling, erroneous human behavior generation, and formal methods to evaluate the role of human-automation interaction in system …
+     Author ['ML Bolton']
+     Venue NA
+     Year 2010
+     Abstract work can be categorized based on the type of analyses the formal methods have been used  Chapter 1. Human-automation Interaction and Formal Verification 8  Continuous feedback All human operator actions must produce a change in in- terface state that is available to the
+     Url http://fhsl.eng.buffalo.edu/publications/BoltonDissertation2010.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Continuous validation and analysis are required as require- ments get refined during the development of the  Formal methods can help find con- sistencies between requirements  based on SysML to depict and analyze change influences in indus- trial automation systems is
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formally verifying human–automation interaction as part of a system model: limitations and tradeoffs
+     Author ['ML Bolton', 'EJ Bass']
+     Venue Innovations in systems and software engineering
+     Year 2010
+     Abstract factors engineers to exploit their existing human task modeling constructs with the powerful verification capabil- ities of formal methods in order  There are no delays between doses when the pump is in the Continuous mode  Formally verifying human–automation interaction 223
+     Url https://link.springer.com/article/10.1007/s11334-010-0129-9
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Agile Formal Methods
+     Author ['R Hähnle']
+     Venue 6th International KeY Symposium, Nomborn
+     Year 2007
+     Abstract Continuous attention to technical excellence and good design Precise specification — Verification  Agile Formal Methods: Prerequisites  generation ► counter example generation ► symbolic execution debugging ► verification ► High degree of automation Full automation
+     Url https://i11www.iti.kit.edu/~key/keysymposium07/slides/haehnle-agile.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract the emerg- ing application domains of automatic verification is the design of hybrid systems, which consist of both dis- crete and continuous components  Formal Methods • 633  Fol- lowing are some well-known theorem provers, categorized roughly by their degree of automation
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Integrating formal methods by unifying abstractions
+     Author ['R Boute']
+     Venue … Conference on Integrated Formal Methods
+     Year 2004
+     Abstract This holds regardless of automation, but a fortiori if software tools are conceived in an  help unifying the growing diversity of aspects now covered by separate formal methods and mathematical models, and even bridge the gap between “continuous” and “discrete
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24756-2_24
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract Second, while much research in formal methods for model-based design focuses on the delivery  been charac- terised as almost exclusively involving discrete abstractions of continuous behaviour [22  to tools like Simulink, Modelsim, and Modelica [24], test automation, DSE and
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Towards industrially applicable formal methods: Three small steps, and one giant leap
+     Author ['J McDermid', 'A Galloway', 'S Burton']
+     Venue … Methods (Cat. No …
+     Year 1998
+     Abstract automated support for specifi- cation analysis as possible, including specification- based test automation;  Rolls-Royce have inves- tigated the use of discrete formal methods (such as  In engine control software, the core requirements hail from continuous mathematical modeling
+     Url https://ieeexplore.ieee.org/abstract/document/730572/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for dynamic power management
+     Author ['RK Gupta', 'S Irani', 'SK Shukla']
+     Venue ICCAD-2003. International …
+     Year 2003
+     Abstract For example, discrete-time and continuous-time Markov chains have been used. Our focus on formal methods is from the point of view of developing DPM strategies that attempt to ensure bounds on the efficiency of achievable power reduction and power- latency tradeoffs
+     Url https://ieeexplore.ieee.org/abstract/document/1257911/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Pegasus: A framework for sound continuous invariant generation
+     Author ['A Sogokon', 'S Mitsch', 'YK Tan', 'K Cordwell']
+     Venue … on Formal Methods
+     Year 2019
+     Abstract FM 2019: Formal Methods – The Next 30 Years pp 138-157 | Cite as  Automatic generation of continuous invariants remains one of the biggest practical challenges to automation of formal proofs of safety in hybrid systems
+     Url https://link.springer.com/chapter/10.1007/978-3-030-30942-8_10
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for discrete-time dynamical systems
+     Author ['C Belta', 'B Yordanov', 'EA Gol']
+     Venue NA
+     Year 2017
+     Abstract Biological Systems, Vehicular Networking and Connected Vehicles, Aerospace Systems, Automation, Manufacturing, Smart  and synthesis techniques; [162, 144] are research monographs on formal methods for hybrid systems, which combine continuous and discrete
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-50763-7.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Improving medical protocols by formal methods
+     Author ['A Ten Teije', 'M Marcos', 'M Balser']
+     Venue Artificial intelligence in …
+     Year 2006
+     Abstract the quality problem of medical guidelines and protocols relies on the use of formal methods  Data can be provided as a continuous stream of patient readings (high frequency domains  prover with strong proof support for higher-order logic and elaborate heuristics for automation
+     Url https://www.sciencedirect.com/science/article/pii/S0933365705001211
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract involved. 1.2.1 Analytic Formal Methods Each engineering  its field. In many cases, the relevant applied mathematics uses partial differential equations to model the variations in continuous physical quantities over time or space. For
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Understanding formal methods
+     Author ['JF Monin']
+     Venue NA
+     Year 2012
+     Abstract of customer requirements through to the continuous adaptation to new environments and to new features. This revolution in the design of software systems has already been success- fully undertaken in the domain of hardware design, where formal methods are routinely used
+     Url https://books.google.com/books?hl=en&lr=&id=7GsKBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Automation%22+%22Continuous%22+%22Formal+methods%22&ots=4GUEgsiVVf&sig=gCvnMffHMhzW4FQjMUVlFpHfies
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal verification of analog and mixed signal designs: A survey
+     Author ['MH Zaki', 'S Tahar', 'G Bois']
+     Venue Microelectronics journal
+     Year 2008
+     Abstract optimizations like design centering and device sizing and analog layout automation [5]. One  of analog circuits are the functionalities defined directly in terms of continuous electrical quantities  The relative success of formal methods for digital design verification [6] has triggered
+     Url https://www.sciencedirect.com/science/article/pii/S0026269208002085
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Mode confusion analysis of a flight guidance system using formal methods
+     Author ['A Joshi', 'SP Miller']
+     Venue Digital Avionics Systems …
+     Year 2003
+     Abstract Page 1. MODE CONFUSION ANALYSIS OF A FLIGHT GUIDANCE SYSTEM USING FORMAL METHODS  To fly commercial flights today, pilots must master several complex, dynamically interacting systems, often operating at different levels of automation
+     Url https://ieeexplore.ieee.org/abstract/document/5731065/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Applying formal methods to software testing
+     Author ['PA Stocks']
+     Venue NA
+     Year 1993
+     Abstract Accordingly, by far the most prominent use of formal methods in testing is for the derivation and  the constructor operations. Deciding which data to choose is still an open conjec- ture, but the facility for automation allows more brute-force selection strategies
+     Url https://www.researchgate.net/profile/Phil_Stocks/publication/2347416_Applying_Formal_Methods_to_Software_Testing/links/55528c8708aeaaff3befeb1d.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for the validation of automotive product configuration data
+     Author ['C Sinz', 'A Kaiser', 'W Küchlin']
+     Venue Ai Edam
+     Year 2003
+     Abstract Page 1. Formal Methods for the Validation of  Abstract In the automotive industry, the compilation and maintenance of correct prod- uct configuration data is a complex task. Our work shows how formal methods can be applied to the validation of such business critical data
+     Url https://www.researchgate.net/profile/Carsten_Sinz/publication/220306744_Formal_methods_for_the_validation_of_automotive_product_configuration_data/links/0fcfd509dacf5be33b000000.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract applications, especially in scaling FMs through adequate tool support for continuous reasoning in  There, formal methods have been shown to be successful in facilitating regulatory acceptance  The techniques are increasingly practically applicable through greater automation
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Triumphs and challenges for the industrial application of model-oriented formal methods
+     Author ['JS Fitzgerald', 'PG Larsen']
+     Venue NA
+     Year 2007
+     Abstract animation of a formal model of a controller with a tool modelling the continuous behaviour of  Classically, formal methods involve proof, or at least ex- haustive model checking  In accordance with our “Automation” principle, we would leave undischarged obligations for inspection
+     Url http://www.academia.edu/download/33966523/999.pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Industrial-strength formal methods in practice
+     Author ['MG Hinchey', 'JP Bowen']
+     Venue NA
+     Year 2012
+     Abstract Page 1. Michael G. Hinchey and Jonathan P. Bowen (Eds) Industrial-Sirength Formal Methods in Practice Page 2  Page 4. Michael G. Hinchey and Jonathan P. Bowen (Eds) Industrial-Strength Formal Methods in Practice Page 5
+     Url https://books.google.com/books?hl=en&lr=&id=8m0KBwAAQBAJ&oi=fnd&pg=PP12&dq=%22Automation%22+%22Continuous%22+%22Formal+methods%22&ots=poRrvr4642&sig=GUUzBjJ3ZHcNjlNqPMXKBCE9f18
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for performance evaluation
+     Author ['U Herzog']
+     Venue School organized by the European Educational Forum
+     Year 2000
+     Abstract (1) Page 9. Formal Methods for Performance Evaluation 9  Table 3. Some Examples for Random Variables (RV) Continuous RV Discrete RV - Interarrival times of jobs - Number of buffered jobs - Activity times - Idle/busy/overflow-states - Waiting times - Arrivals in a fixed interval
+     Url https://link.springer.com/chapter/10.1007/3-540-44667-2_1
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Closed-loop modeling in future automation system engineering and validation
+     Author ['V Vyatkin', 'HM Hanisch', 'C Pang']
+     Venue IEEE Transactions on …
+     Year 2008
+     Abstract validation of industrial automation systems based on systematic application of formal methods  VYATKIN et al.: CLOSED-LOOP MODELING IN FUTURE AUTOMATION SYSTEM ENGINEERING  is a mathematically rigorous analytic model capturing both continuous and discrete
+     Url https://ieeexplore.ieee.org/abstract/document/4717249/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Triumphs and Challenges for Model-Oriented Formal Methods: The VDM++ Experience
+     Author ['JS Fitzgerald', 'PG Larsen']
+     Venue … Applications of Formal Methods …
+     Year 2006
+     Abstract animation of a formal model of a controller with a tool modelling the continuous behaviour of  Classically, formal methods involve proof, or at least ex- haustive model checking  In accordance with our “Automation” principle, we would leave undischarged obligations for inspection
+     Url https://ieeexplore.ieee.org/abstract/document/4463684/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Using formal verification to evaluate human-automation interaction: A review
+     Author ['ML Bolton', 'EJ Bass']
+     Venue IEEE Transactions on …
+     Year 2013
+     Abstract 1See [75], [76] for an example of how formal methods can be used to assess  an infinite bounded model checker [104] to evaluate system models containing continuous quantities  An extension of this approach has focused on ways of generating human-automation interfaces that
+     Url https://ieeexplore.ieee.org/abstract/document/6472094/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Modern formal methods and applications
+     Author ['HA Gabbar']
+     Venue NA
+     Year 2006
+     Abstract Acknowledgement It is our pleasure to produce such useful scientific communication in the area of formal methods, which we believe will have great value to all  In the academic side, he worked in re- search centers in the areas of marine supply automation and coast protection
+     Url https://books.google.com/books?hl=en&lr=&id=mc9HAAAAQBAJ&oi=fnd&pg=PR11&dq=%22Automation%22+%22Continuous%22+%22Formal+methods%22&ots=WC-wgI9riA&sig=kCafl0JE_gVWkHC2SoBuv0I0XQg
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract term used in the automotive industry to describe a service that provides continuous connectivity between  Formal methods often require searching very large spaces, and so larger memories and faster  A second reason is increased automation, much of which has its roots in the
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract For example, social context causes a continuous evolution of requirements for large complex  We distinguish between formal methods and formal models, in that formal methods try to  produce software faster, cheaper, and more reliably, by increasing automation and decreasing
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title A complete automation of unit testing for Java programs
+     Author ['Y Cheon', 'MY Kim', 'A Perumandla']
+     Venue NA
+     Year 2005
+     Abstract Software Engineering] Software/Program Verification — Assertion checkers, class invariants, formal methods, programming by  of Java classes and interfaces and, thus, to perform continuous testing  This is significant because complete automation will reduce the cost of software
+     Url https://scholarworks.utep.edu/cs_techrep/234/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods for control synthesis: An optimization perspective
+     Author ['C Belta', 'S Sadraddini']
+     Venue Annual Review of Control, Robotics, and …
+     Year 2019
+     Abstract Formal Methods for Control Synthesis: An Optimization Perspective  iteration for the synthesis of control policies for Markov decision processes (1, 6). Through the use of abstractions, such techniques have also been used for infinite systems, such as continuous- and discrete
+     Url https://www.annualreviews.org/doi/abs/10.1146/annurev-control-053018-023717
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods: Promises and problems
+     Author ['JA Goguen']
+     Venue IEEE Software
+     Year 1997
+     Abstract and robust, so that it can easily accommodate the inevitable and often continuous stream of  Given the inevitability of change and iteration, formal methods should be more useful in supporting  using the information in the graph to support several different kinds of automation
+     Url https://ieeexplore.ieee.org/abstract/document/566430/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Derivation of ontological relations using formal methods in a situation awareness scenario
+     Author ['CJ Matheus', 'KP Baclawski']
+     Venue … , and Applications 2003
+     Year 2003
+     Abstract formal methods in a situation awareness scenario  which may not be the best approach giving the fact we need to be dealing with a continuous stream of  10 H. Gao, MM Kokar, and J. Weyman, “An approach to automation of fusion using Specware”, In Proceedings of the Second
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5099/0000/Derivation-of-ontological-relations-using-formal-methods-in-a-situation/10.1117/12.488441.short
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Ten commandments revisited: a ten-year perspective on the industrial application of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue … international workshop on Formal methods for …
+     Year 2005
+     Abstract In [5], we strongly advocated both initial and continuous cost estimation  For the nearer term, the use of formal methods to improve testing seems increasingly promising. A formal specification can aid in the automation of generating test cases
+     Url https://dl.acm.org/doi/abs/10.1145/1081180.1081183
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Are Formal Methods Ready for Agility? A Reality Check.
+     Author ['PG Larsen', 'JS Fitzgerald', 'S Wolff']
+     Venue FM+ AM
+     Year 2010
+     Abstract This argues for increased automation and research effort being put into the interaction between modelling  Our highest priority is to satisfy the customer through early and continuous delivery of  For the formal methods practitioner, these must be some of the more difficult agile prin
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.945.3640&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Checking formal verification models for human-automation interaction
+     Author ['MM van Paassen', 'ML Bolton']
+     Venue 2014 IEEE International …
+     Year 2014
+     Abstract The model for the automation and controlled device must be written directly in the model checking tool's language, in this case SAL [7]. A more complete overview of the use of formal methods in HAI  Especially continuous variables are hard to capture in formal models
+     Url https://ieeexplore.ieee.org/abstract/document/6974507/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal approaches to analog circuit verification
+     Author ['E Barke', 'D Grabowski', 'H Graeb']
+     Venue … Automation & Test in …
+     Year 2009
+     Abstract Simulation Methods Formal Methods  There- fore, the continuous state space is divided into hypercubes of homogeneous behavior by comparing length and  presented in this section can contribute to more design efficiency by introducing more automation and formalization to
+     Url https://ieeexplore.ieee.org/abstract/document/5090759/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Validating voice communication requirements using lightweight formal methods
+     Author ['J Horl', 'BK Aichernig']
+     Venue IEEE Software
+     Year 2000
+     Abstract VCS 3020s is a switched system for real- time transmission of continuous voice data  is the most safety-critical part and thus of particular interest for analyzing the use of formal methods  test case and is a good example showing how specification- based test automation can lead
+     Url https://ieeexplore.ieee.org/abstract/document/896246/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods in manufacturing
+     Author ['J Campos', 'C Seatzu', 'X Xie']
+     Venue NA
+     Year 2018
+     Abstract for Industrial Automated Systems Edited by Richard Zurawski Electronic Design Automation for Integrated  Formal methods can provide both a deep understanding of the system, thus helping to  including finite state automata, Petri nets (discrete, timed, continuous, and hybrid
+     Url https://books.google.com/books?hl=en&lr=&id=7oPNBQAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22Continuous%22+%22Formal+methods%22&ots=uLc1VhgOnU&sig=sECQiLxCzyJn9pgQvm1rEQhHIb4
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal verification of a PowerPC microprocessor
+     Author ['DP Appenzeller', 'A Kuehlmann']
+     Venue Proceedings of ICCD'95 …
+     Year 1995
+     Abstract Formal methods have successfully been used on var- ious levels of abstraction ranging from high  that are tuned to different areas in this complex- ity/abstraction/automation domain  The following three figures are used to illustrate the continuous application of formal verification
+     Url https://ieeexplore.ieee.org/abstract/document/528794/
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Formal methods in pattern recognition: a review
+     Author ['L Nieddu', 'G Patrizi']
+     Venue European Journal of Operational Research
+     Year 2000
+     Abstract Obviously, the field was characterised by formal methods and statistical methods of proof, with an approach, which was essentially deductive  Also, the result is not tied to the application of discrete predicates, but is valid also for continuous variables
+     Url https://www.sciencedirect.com/science/article/pii/S0377221798003683
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Automation in buildings and formal methods
+     Author ['P Burget', 'O Sprdlík', 'R Ŝusta']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract In this paper, we have reported a case study in applying formal methods for automation in buildings. We introduced our practical model of distributed automation in building with solar space heating. We outlined the decomposition of a control program to continuous and discrete
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015311502
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Spacecraft early design validation using formal methods
+     Author ['M Bozzano', 'A Cimatti', 'JP Katoen', 'P Katsaros']
+     Venue Reliability engineering & …
+     Year 2014
+     Abstract Matlab/Simulink models are often used to model and simulate continuous processes, like temperature, power and propulsion control and omit architectural aspects  Our methods have been implemented in a formal methods toolset called the COMPASS toolset [13]
+     Url https://www.sciencedirect.com/science/article/pii/S0951832014001586
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Application of formal verification and falsification to large-scale chemical plant automation systems
+     Author ['BC Rawlings', 'JM Wassick', 'BE Ydstie']
+     Venue Computers & Chemical Engineering
+     Year 2018
+     Abstract Formal methods. Hybrid systems. Programmable logic controllers. Supervisory control. Model checking. Abstraction  plant results in a cyber-physical system, a type of hybrid (continuous and discrete  of systematic tools that can be used to design the discrete automation logic, the
+     Url https://www.sciencedirect.com/science/article/pii/S0098135417304052
+
+
+     Search term "Automation"+"Continuous"+"Formal+methods"
+     Title Automatically generating specification properties from task models for the formal verification of human–automation interaction
+     Author ['ML Bolton', 'N Jiménez']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract Formal methods are mathematically robust techniques and tools for the modeling, specification, and  Continuous lines indicate parts of process previously supported by EOFM [11]  engineering in a number of different capacities including human-automation interface creation [15
+     Url https://ieeexplore.ieee.org/abstract/document/6843972/
+

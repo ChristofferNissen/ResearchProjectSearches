@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Towards flexible and automated testing in production systems engineering projects
+     Author ['D Winkler', 'K Meixner', 'S Biffl']
+     Venue … and Factory Automation (ETFA)
+     Year 2018
+     Abstract It remains to the test manager or project manager to select the best-practice approaches in a given testing context. Nevertheless, the test automation framework should be capable of introducing different methods or tools in the existing test automation framework
+     Url https://ieeexplore.ieee.org/abstract/document/8502650/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title DevOps and the cost of downtime: Fortune 1000 best practice metrics quantified
+     Author ['S Elliot']
+     Venue International Data Corporation (IDC)
+     Year 2014
+     Abstract Application developer 3.3 Application testing 6.7 Quality assurance 16.7  DevOps consultant 3.3 Line-of-business manager 6.7 Automation architect 6.7 n = 30 Source: IDC's DevOps Best Practice Metrics: Fortune 1000 Survey, December 2014 Page 3. ©2014 IDC #253155 3
+     Url http://www.smallake.kr/wp-content/uploads/2013/07/DevOps-metrics-Fortune1K.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Model based testing in practice at Microsoft
+     Author ['K Stobie']
+     Venue Electronic Notes in Theoretical Computer Science
+     Year 2005
+     Abstract The tester writes the automation that will run them. This was the first tool that truly helped with test design automation instead of just test execution automation. 2.4 Impact  [10] TMT won the testing best practice award inside Microsoft in the spring of 2001. 3 AsmL
+     Url https://www.sciencedirect.com/science/article/pii/S1571066104052296
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Software testing best practices
+     Author ['R Chillarege']
+     Venue NA
+     Year 1999
+     Abstract This is a best practice fairly well understood in some segments of software testing and not in others. The best practice, therefore, needs to leverage what is known and then develop methods for areas where automation is not yet fully exploited. Beta Programs (see internal betas)
+     Url http://www.cs.ucf.edu/~turgut/COURSES/EEL5881_SEI_Fall03/TestingBestPractice.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title 'Good'organisational reasons for'Bad'software testing: An ethnographic study of testing in a small software company
+     Author ['D Martin', 'J Rooksby', 'M Rouncefield']
+     Venue … engineering (ICSE'07 …
+     Year 2007
+     Abstract debate over automation (eg [3][20]). Case studies (eg. [15][24]) have proved valuable, and following in this programme of 'empirical studies of testing' (see [12]) we seek to better describe the practical issues in testing for a small software company. Best practice in testing has
+     Url https://ieeexplore.ieee.org/abstract/document/4222621/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Machine Learning-based Software Testing: Towards a Classification Framework.
+     Author ['M Noorian', 'E Bagheri', 'W Du']
+     Venue SEKE
+     Year 2011
+     Abstract Machine Learning (ML) techniques have shown to be quite useful for this automation process. Various works have been presented in the junction of ML and ST areas. The lack of general guidelines for applying appropriate learning methods for software testing purposes is our
+     Url https://www.ee.ryerson.ca/~bagheri/papers/seke11.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Acceptance testing
+     Author ['R Miller', 'CT Collins']
+     Venue Proc. XPUniverse
+     Year 2001
+     Abstract Software acceptance testing is an industry best practice. Most development teams do it poorly  Keywords Testing, acceptance testing, unit testing, test automation, framework. 1 WHAT IS ACCEPTANCE TESTING
+     Url http://www.dsc.ufcg.edu.br/~jacques/cursos/map/recursos/Testing05.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Agile development cycle: Approach to design an effective Model Based Testing with Behaviour driven automation framework
+     Author ['S Sivanandan']
+     Venue 20th Annual International Conference on …
+     Year 2014
+     Abstract OVERVIEW OF ROBOT FRAMEWORK Robot Framework [1] is a generic test automation framework for  Its testing capabilities can be extended by test libraries implemented either with Python or Java  Best practice is to have them defined in some external file and that file is then
+     Url https://ieeexplore.ieee.org/abstract/document/7103243/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Integrating HAZOP and SIL/LOPA analysis: Best practice recommendations
+     Author ['K Bingham', 'P Goteti']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Business analyst's mentor book: with best practice business analysis techniques and software requirements management tips
+     Author ['E Yayici']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Setting up a robotic process automation center of excellence
+     Author ['S Anagnoste']
+     Venue Management Dynamics in the Knowledge Economy
+     Year 2018
+     Abstract and when RPA software is suitable; • Good knowledge of quality standards and best practice  The current paper has important implications in the business world of intelligent software automation  By having set the general guidelines, and sometimes even the most specific ones
+     Url https://www.ceeol.com/search/article-detail?id=767450
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Utilization of BIM for automation of quantity takeoffs and cost estimation in transport infrastructure construction projects in the Czech Republic
+     Author ['S Vitásek', 'P Matějka']
+     Venue IOP Conference Series: Materials Science …
+     Year 2017
+     Abstract Unfortunately, full automation is currently impossible  for methods of quantity takeoffs and estimation using BIM in specified CDE in accord with Czech long-term BIM implementation strategy, Czech legislation and best practice, • consistent testing and improvement of
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/236/1/012110/meta
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Assessing the integration of software agents and industrial automation systems with ISO/IEC 25010
+     Author ['S Karnouskos', 'R Sinha', 'P Leitão']
+     Venue 2018 IEEE 16th …
+     Year 2018
+     Abstract Summarizing, there are some approaches available from the industrial automation domain which look at validation and testing criteria but they have been mainly developed for  The selection of a best practice for the integration of IA and low-level automation functions is very
+     Url https://ieeexplore.ieee.org/abstract/document/8471951/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title The ongoing revolution in software testing
+     Author ['C Kaner']
+     Venue Software Test & Performance Conference
+     Year 2004
+     Abstract reconsidered. Automation is useful, but only if useful things are automated in efficiency-supporting ways  Page 5. 5 Ongoing Revolution in SW Testing Copyright © 2004, Cem Kaner  Practice.” • A “best practice” is an idea that a consultant thinks he can sell to a lot of people
+     Url http://www.kaner.com/pdfs/testingRevolution.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Building automation framework around open source technologies
+     Author ['M Yalla', 'M Shanbhag', 'M Chambers', 'R Agrahara']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title A systematic and flexible approach for testing future mobile networks by exploiting a wrap-around testing methodology
+     Author ['J Pinola', 'J Perälä', 'P Jurmu', 'M Katz']
+     Venue IEEE …
+     Year 2013
+     Abstract By following the general guidelines of the wrap-around testing concept, the testing environment and the test  However, introduc- tion of too many testing tools and testing targets in a single configuration can  Test automation can be used to alleviate the management problems
+     Url https://ieeexplore.ieee.org/abstract/document/6476882/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Model-based time and cost estimation in a software testing environment
+     Author ['B Benton']
+     Venue 2009 Sixth International Conference on Information …
+     Year 2009
+     Abstract there are some certain inescapable uncertainties in initial project estimations, by leveraging work repetition patterns in projects and the implementation of certain best practice estimation techniques it  Test Infrastructure Enhancements 112.5 Ad hoc testing  Scorecard Automation
+     Url https://ieeexplore.ieee.org/abstract/document/5070720/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title The automation of the" making safe" process in South African hard-rock underground mine
+     Author ['SR Teleka', 'JJ Green', 'S Brink']
+     Venue NA
+     Year 2011
+     Abstract In South African hard-rock mines, best practice dictates that the hanging-walls be inspected after  The full automation of the device will be undertaken in three stages; full automation implies a  The device should enable testing from a safe distance and remove subjectivity from the
+     Url http://researchspace.csir.co.za/dspace/handle/10204/5611
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title The Governance Risk Management and Compliance (GRC) Landscape Part 2: Software's Integral Role in GRC Automation
+     Author ['J Hagerty', 'K Verma', 'D Gaughan']
+     Venue NA
+     Year 2008
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Automatic system testing of a decision support system for insulin dosing using Google Android.
+     Author ['S Spat', 'B Höll', 'G Petritsch', 'L Schaupp', 'P Beck']
+     Venue EFMI …
+     Year 2013
+     Abstract system was set up applying several Open Source tools for test automation and system  is a medical device classified as IIb.[4] Thus extensive and reproducible testing is needed  The REACTION protocol, which is an enhancement of published best practice for and insulin titration
+     Url https://books.google.com/books?hl=sv&lr=&id=WS-VAQAAQBAJ&oi=fnd&pg=PA187&dq=%22Automation%22+%22Best+practice%22+OR+%22General+guidelines%22+%22Testing%22&ots=9u2XylCW44&sig=BIISwvoxvxqmsYWf4kGr-A5r6KQ
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Quality in point-of-care testing: taking POC to the next level
+     Author ['JH Nichols']
+     Venue Accreditation and quality assurance
+     Year 2006
+     Abstract of Clinical Biochemistry is currently being conducted to draft guidelines for best practice that link  9]. There is a need for quality laboratory testing given that laboratory testing influences >70  Automation can simplify the complexity of the steps required to perform testing with POCT
+     Url https://link.springer.com/article/10.1007/s00769-006-0130-z
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Integrated tcp/ip protocol software testing for vulnerability detection
+     Author ['S Xiao', 'L Deng', 'S Li', 'X Wang']
+     Venue 2003 International Conference …
+     Year 2003
+     Abstract This paper presents an industry best practice of integrated TCP/IP network protocol testing that  However, despite an effective experiment for security-oriented software robustness testing, PROTOS has  It is difficult to be integrated into current industry test automation environment
+     Url https://ieeexplore.ieee.org/abstract/document/1243061/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Why the mining industry needs a reference architecture for automation initiatives
+     Author ['JJ Dudley', 'PR McAree']
+     Venue 2013 IEEE/ASME International …
+     Year 2013
+     Abstract architecture for mining automation presents a unique opportunity to incorporate the practices of IEC 61508 at a conceptual level with meaningful generality. This should support subsequent, more detailed efforts in context as best practice and in- use testing elucidate appropriate
+     Url https://ieeexplore.ieee.org/abstract/document/6584357/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Interaction testing in model-based development: Effect on model-coverage
+     Author ['RC Bryce', 'A Rajan']
+     Venue 2006 13th Asia Pacific …
+     Year 2006
+     Abstract References [1] J. Bach and P. Shroeder. Pairwise testing: A best practice that isn't. In Proceedings of 22nd Pacific Northwest Soft- ware Quality Conference, pages 180–196, 2004  Combinatorial test techniques: Table-based automation, test generation, and code coverage
+     Url https://ieeexplore.ieee.org/abstract/document/4137426/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Eight steps to PAT: using the design for Lean Six Sigma Toll-Gate Process as best practice
+     Author ['B Chatterjee', 'J Green']
+     Venue PHARMACEUTICAL ENGINEERING
+     Year 2007
+     Abstract as Best Practice  regulatory strategy for the project, while leaving the door open for a future filing to replace product release testing with an in  a scientifically rigorous comparability data set using the optimized control range, then steer the target metrics for PAT automation to the
+     Url http://www.academia.edu/download/51570198/PAT___Six_Sigma.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Role of autoantibody testing
+     Author ['A Aggarwal']
+     Venue Best Practice & Research Clinical Rheumatology
+     Year 2014
+     Abstract Elsevier. Best Practice & Research Clinical Rheumatology. Volume 28, Issue 6, December 2014, Pages 907-920. Best Practice & Research Clinical Rheumatology. 6. Role of autoantibody testing  Keywords. ELISA. Autoantibody. Anti-dsDNA antibodies. Automation. Protein arrays
+     Url https://www.sciencedirect.com/science/article/pii/S1521694215000170
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title CAD/CAM: Managerial challenges and research issues
+     Author ['PS Adler']
+     Venue IEEE Transactions on Engineering Management
+     Year 1989
+     Abstract drafting), and computer-aided manufacturing (encompassing machine control, materials handling, manufacturing scheduling, planning and administration, testing and quality  and four US aircraft companies were visited with the aim of synthesizing the elements of 'best practice'
+     Url https://ieeexplore.ieee.org/abstract/document/35325/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Prospects for distribution automation at Pacific Gas & Electric company
+     Author ['DL Brown', 'JW Skeen', 'P Daryani']
+     Venue IEEE transactions on …
+     Year 1991
+     Abstract Reference (11 includes a set of general guidelines for evaluating distribution automation; it  Substation Automation Benefits Feeder Automation Benefits  and Isolation - Service Restoration - Routine Switching Operations - Recloser Setting - Recloser Testing - Data Collection
+     Url https://ieeexplore.ieee.org/abstract/document/97743/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title A survey of software testing in the cloud
+     Author ['K Incki', 'I Ari', 'H Sözer']
+     Venue 2012 IEEE Sixth International …
+     Year 2012
+     Abstract Software testing has been one of the best practice areas for migrating to cloud environment  Especially in some application domains, software testing requires extensive resources  Test automation topic is frequently visited when software testing is considered over the cloud
+     Url https://ieeexplore.ieee.org/abstract/document/6258440/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Library Automation: Core Concepts and Practical Systems Analysis: Core Concepts and Practical Systems Analysis
+     Author ['D Bilal']
+     Venue NA
+     Year 2014
+     Abstract Cycle (LALC) Phase 1: System Identification and Planning .....17 Library Automation Life Cycle  58 General Guidelines for Preparing the RFP Document .....58 Content of the RFP  Installation, Testing, Facility, Training, and Tracking System Use
+     Url https://books.google.com/books?hl=sv&lr=&id=hcqUAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22Best+practice%22+OR+%22General+guidelines%22+%22Testing%22&ots=CSQOJ_V_88&sig=eedoL3ZZWtHkoCy73ipblku3wKs
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title The nf-core framework for community-curated bioinformatics pipelines
+     Author ['PA Ewels', 'A Peltzer', 'S Fillinger', 'H Patel']
+     Venue Nature …
+     Year 2020
+     Abstract The nf-core project, however, is unique in its use of strict development best-practice guidelines, pipeline templates, testing and automation tools, and comprehensive documentation for both developers and end users (see “Guidelines” and “Tools” in the Supplementary Note
+     Url https://www.nature.com/articles/s41587-020-0439-x
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Introducing Automated Environment Configuration Testing in an Industrial Setting.
+     Author ['C Pinheiro', 'V Garousi', 'F Maurer', 'J Sillito']
+     Venue SEKE
+     Year 2010
+     Abstract [8] S. Ambler, "Development Sandboxes: An Agile “Best Practice” " On-line  [10] S. Berner, R. Weber, and RK Keller, "Observations and lessons learned from automated testing," Proc of  571–579, 2005. [11] M. Fewster and D. Graham, Software Test Automation: ACM Press, 1999.
+     Url http://ebe.cpsc.ucalgary.ca/uploads/Publications/PinheiroSEKE2010.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Substation automation systems: design and implementation
+     Author ['E Padilla']
+     Venue NA
+     Year 2015
+     Abstract Utility Automation) 1.4.2 IEEE Standard 802.3 (Ethernet) Further Reading 8 2 Main Functions of Substation Automation Systems 9 2.1  Devices 149 13.7.9 Checking Collateral Subsystems 149 13.7.10 Checking Redundant Functionalities 149 13.8 Planned Testing Program for
+     Url https://books.google.com/books?hl=sv&lr=&id=a-sbBgAAQBAJ&oi=fnd&pg=PP15&dq=%22Automation%22+%22Best+practice%22+OR+%22General+guidelines%22+%22Testing%22&ots=Ic9SpjLWco&sig=FKeOUg2wO5pSxHReCA9SWlxiJdI
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title A multiple case study on risk-based testing in industry
+     Author ['M Felderer', 'R Ramler']
+     Venue International Journal on Software Tools for …
+     Year 2014
+     Abstract So for them seeking applicable guidelines and best practice information on risk-based testing, it often comes to a surprise  Automated testing is mainly used for the hardware abstraction layer  Full-test automation is therefore not an option, even when the technical issues of UI test
+     Url https://link.springer.com/article/10.1007/s10009-014-0328-z
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Ontology-based big data approach to automated penetration testing of large-scale heterogeneous systems
+     Author ['T Stepanova', 'A Pechenkin', 'D Lavrova']
+     Venue Proceedings of the 8th …
+     Year 2015
+     Abstract tasks. This paper addresses the challenge of increasing penetration testing automation level through the adoption of semi-automatic knowledge extraction from the huge amounts of heterogeneous regularly updated data. The
+     Url https://dl.acm.org/doi/abs/10.1145/2799979.2799995
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Worry-free wireless networks
+     Author ['T Hubler']
+     Venue Networked controls
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Test orchestration a framework for continuous integration and continuous deployment
+     Author ['N Rathod', 'A Surve']
+     Venue 2015 international conference on …
+     Year 2015
+     Abstract Build automation is a best practice for generating code as it bringsthe potential to securebetter quality softwareproduct. The automation of unit testing is the first reason for this enhancement [1]. By forcing the execution of automated testingearlier to integratingthecomponents
+     Url https://ieeexplore.ieee.org/abstract/document/7087120/
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Toward best practice: leveraging the electronic patient record as a clinical data warehouse
+     Author ['CS Ledbetter', 'MW Morgan']
+     Venue Journal of healthcare information …
+     Year 2001
+     Abstract a whole and then evaluate it, healthcare must go beyond basic automation and convert  UHN is embarking on an ambitious multiyear project to advance best practice by creating  of quality improvement opportunities (for example, reducing unnecessary laboratory testing or opti
+     Url http://www.providersedge.com/ehdocs/ehr_articles/Leveraging_the_Electronic_Patient_Record_as_a_Clinical_Data_Warehouse.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Cloud security: A comprehensive guide to secure cloud computing
+     Author ['RLKRD Vines', 'RL Krutz']
+     Venue NA
+     Year 2010
+     Abstract Achetez neuf ou Cloud Security: A Comprehensive Guide to Secure Cloud. - Scribd Cloud Security: A Comprehensive Guide to Secure Cloud Computing The path to secure cloud computing is surely a long one, requiring the. comprehensive C-level best practice
+     Url https://pdfs.semanticscholar.org/af28/46f422c0cfa2340377bed6c6288a81b945ae.pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Single-use in the biopharmaceutical industry: A review of current technology impact, challenges and limitations
+     Author ['AG Lopes']
+     Venue Food and Bioproducts Processing
+     Year 2015
+     Abstract Best-practice for SUT in terms of regulation and training needs to be addressed. Abstract  ASTM American Society for Testing and Materials. EN European standard. FDA Food and Drug Administration. HPLC high-performance liquid chromatography  Lack of automation. •
+     Url https://www.sciencedirect.com/science/article/pii/S0960308513001272
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Choosing a test modeling language: A survey
+     Author ['A Hartman', 'M Katara', 'S Olvovsky']
+     Venue Haifa Verification Conference
+     Year 2006
+     Abstract the actual tests on-line through a commercially available generic test automation system  Below, we provide some general guidelines that take into consideration differ- ent factors  that relies on internal experts to adopt/provide and in- ternally support best practice solutions (eg
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70889-6_16
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Safety instrumented systems: design, analysis, and justification
+     Author ['PE Paul Gruhn']
+     Venue NA
+     Year 2006
+     Abstract [Not Found]
+     Url https://isajobs.isa.org/store/safety-instrumented-systems-design-analysis-and-justification,-second-edition/33903689
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Technical recommendations and best practice guidelines for May-Grünwald-Giemsa staining: literature review and insights from the quality assurance
+     Author ['E Piaton', 'M Fabre', 'I Goubin-Versini']
+     Venue Annales de …
+     Year 2015
+     Abstract [Technical recommendations and best practice guidelines for May-Grünwald-Giemsa staining: literature review and insights  However, staining may vary somewhat and testing is recommended for automated methods (slide stainers) which remain the standard for reproducibility
+     Url https://europepmc.org/article/med/26188673
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Nucleic acid tests for the detection of alpha human papillomaviruses
+     Author ['M Poljak', 'J Cuzick', 'BJ Kocjan', 'T Iftner', 'J Dillner']
+     Venue Vaccine
+     Year 2012
+     Abstract issuing more competitive and fair tender notices for purchasing. Automation systems allowing large-scale testing, as well as further increases in clinical performance, are the main needs in the further improvement of HPV tests
+     Url https://www.sciencedirect.com/science/article/pii/S0264410X12007232
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title On the long-term use of visual gui testing in industrial practice: a case study
+     Author ['E Alégroth', 'R Feldt']
+     Venue Empirical Software Engineering
+     Year 2017
+     Abstract One reason for the company's successes with automation is the individual team structure that  This practice has been identified as a best practice for VGT in previous work (Alégroth et al  However, the main purpose of the automated testing is to mitigate repetitive manual testing to
+     Url https://link.springer.com/article/10.1007/s10664-016-9497-6
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Too darned big to test
+     Author ['K Stobie']
+     Venue Queue
+     Year 2005
+     Abstract REFERENCES 1. Kaner, C. 2000. Architectures of test automation. http://www.kaner.com/testarch. html  6. Bach, J., and Schroeder, P. 2004. Pairwise testing: A best practice that isn't. 22nd Annual Pacific Northwest Software Quality Conference, Portland, OR
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.189.2188&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Formal verification and validation for e-commerce: theory and best practices
+     Author ['RL Probert', 'Y Chen', 'B Ghazizadeh', 'DP Sims']
+     Venue Information and …
+     Year 2003
+     Abstract Best practice: automating test buckets and test execution (orange shading in Fig. 8). After the functional and non-functional test cases have been derived, some test cases are chosen for automation. In industry, testing of e-commerce systems is repeated on different software and
+     Url https://www.sciencedirect.com/science/article/pii/S0950584903000715
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Continuous testing and solutions for testing problems in continuous delivery: A systematic literature review
+     Author ['MA Mascheroni', 'E Irrazábal']
+     Venue Computación y Sistemas
+     Year 2018
+     Abstract Manual testing processes must be evaluated for possibilities of automation  Automation of negative scenarios (S22): manual testing is used to perform exploratory testing that includes negative scenarios (non-happy path scenarios)
+     Url http://www.scielo.org.mx/scielo.php?pid=S1405-55462018000301009&script=sci_arttext
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Start-up: a Technician's Guide
+     Author ['DR Barkin']
+     Venue NA
+     Year 2012
+     Abstract [Not Found]
+     Url https://ww2.isa.org/templates/one-column.aspx?pageid=111294&productId=67888179
+
+
+     Search term "Automation"+"Best+practice"+OR+"General+guidelines"+"Testing"
+     Title Best practices for verification, validation, and test in model-based design
+     Author ['B Murphy', 'A Wakefield', 'J Friedman']
+     Venue NA
+     Year 2008
+     Abstract The demands of production programs drive an even greater need for tools and practices that enable automation and rigor in the area of verification, validation, and test  As shown in Figure 1, the best practice is to reuse the test harness developed for MIL testing against the
+     Url https://www.sae.org/publications/technical-papers/content/2008-01-1469/
+

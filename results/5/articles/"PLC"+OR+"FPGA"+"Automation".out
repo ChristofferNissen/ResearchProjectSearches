@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Automation"
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title FPGA design automation: A survey
+     Author ['D Chen', 'J Cong', 'P Pan']
+     Venue NA
+     Year 2006
+     Abstract FPGA Design Automation: A Survey is an up-to-date comprehensive survey/tutorial of FPGA design automation, with an emphasis on the recent developments within the past 5 to 10 years. The focus is on the theory and techniques that have been, or most likely will be
+     Url https://books.google.com/books?hl=en&lr=&id=4k7rdxbymYsC&oi=fnd&pg=PA9&dq=%22PLC%22+OR+%22FPGA%22+%22Automation%22&ots=MklR8bOCIz&sig=tBVqqRNl2sr4uk6etvzM6kjdl38
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automatic generation of PLC automation projects from component-based models
+     Author ['E Estévez', 'M Marcos', 'D Orive']
+     Venue The International Journal of Advanced …
+     Year 2007
+     Abstract Industrial process measurement and control systems (IPMCS) are used in most of the industrial sectors to achieve production improvement, process optimization and time and cost reduction. Integration, reuse, flexibility and optimization are demanded to adapt to a
+     Url https://link.springer.com/content/pdf/10.1007/s00170-007-1127-4.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title On the implementation of industrial automation systems based on PLC
+     Author ['F Basile', 'P Chiacchio']
+     Venue … on Automation Science …
+     Year 2012
+     Abstract Industrial automation is largely based on PLC-based control systems. PLCs are today mostly programmed in the languages of the IEC 61131 standard which are not ready to meet the new challenges of widely distributed automation systems. Currently, an extension of IEC
+     Url https://ieeexplore.ieee.org/abstract/document/6381490/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Dual protocol stack for maximum speed access to a programmable logic controller (PLC) in a factor automation system
+     Author ['AD Papadopoulos', 'A Tanzman', 'RH Naismith']
+     Venue US Patent 6,963,922
+     Year 2005
+     Abstract A control system includes an Internet web interface to a network of at least one programmable logic control system running an application program for controlling output devices in response to status of input devices. The Web interface runs Web pages from an
+     Url https://patents.google.com/patent/US6963922B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Development of PLC-based software for increasing the dependability of production automation systems
+     Author ['D Schütz', 'A Wannagat', 'C Legat']
+     Venue IEEE Transactions on …
+     Year 2012
+     Abstract This paper presents the elaboration of a concept to develop and implement real-time capable industrial automation software that increases the dependability of production automation systems by means of soft sensors. An application example with continuous
+     Url https://ieeexplore.ieee.org/abstract/document/6359925/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Web-based smart home automation: PLC-controlled implementation
+     Author ['O Bingol', 'K Tasdelen', 'Z Keskin']
+     Venue Acta Polytechnica …
+     Year 2014
+     Abstract The most important source of motivation in continuity of technological developments is to upgrade human living standards. The technological development provides and increases human-beings' safety and comfort directly and indirectly. Developing technologies for this
+     Url https://www.researchgate.net/profile/Kubilay_Tasdelen/publication/281856244_Web-based_Smart_Home_Automation_PLC-controlled_Implementation/links/5888892eaca272b7b4542810/Web-based-Smart-Home-Automation-PLC-controlled-Implementation.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC programming for industrial automation
+     Author ['K Collins']
+     Venue NA
+     Year 2007
+     Abstract I have been teaching PLC programming for fifteen years and the question that I hear most often from students is “Can you recommend a book on this?” In response I have trotted out the titles of various standard text books but I have never come across a book that really
+     Url https://www.webpuran.in/wp-content/uploads/2019/03/plcprogramming.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Three-layer PLC/SCADA system architecture in process automation and data monitoring
+     Author ['M Endi', 'YZ Elhalwagy']
+     Venue … on computer and automation …
+     Year 2010
+     Abstract This paper presents the State-of-the-Art and recent trends of SCADA system Architecture, which is usually three-layer SCADA system architecture depending on open system technology rather than a vendor controlled, proprietary technology. A Real-time Industrial
+     Url https://ieeexplore.ieee.org/abstract/document/5451799/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automation of tank level using Plc and establishment of Hmi by Scada
+     Author ['R Das', 'S Dutta', 'A Sarkar']
+     Venue IOSR Journal of Electrical …
+     Year 2013
+     Abstract Theproposed system provides an analysis of the simulation and components required for the implementation of an automated level control system by the help of Programmable Logic Controller (PLC). Supervisory Control And Data Acquisition (SCADA) was established and
+     Url https://www.researchgate.net/profile/Rishabh_Das2/publication/271258009_Automation_of_Tank_Level_Using_Plc_and_Establishment_of_Hmi_by_Scada/links/59304042a6fdcc89e78439e9/Automation-of-Tank-Level-Using-Plc-and-Establishment-of-Hmi-by-Scada.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Recent developments on PC+ PLC based control systems for Beer Brewery Process Automation Applications
+     Author ['M Ogawa', 'Y Henmi']
+     Venue 2006 SICE-ICASE International Joint …
+     Year 2006
+     Abstract Manufacturers are continuing to do their best efforts for cost effective production systems in order to contribute consumers' requirement. Such environment carries plant operations using quite flexible control systems such as PC (personal computer)-PLC (programmable
+     Url https://ieeexplore.ieee.org/abstract/document/4109113/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PID implementation of heating tank in mini automation plant using Programmable Logic Controller (PLC)
+     Author ['RE Samin', 'LM Jie', 'MA Zawawi']
+     Venue International Conference on …
+     Year 2011
+     Abstract This paper presents the implementation of PID controller using Programmable Logic Controller (PLC) in heating tank of mini automation plant. PID controller is implemented by using ladder diagram in PLC OMRON CJIM-CPU12. A temperature control unit CJ1W
+     Url https://ieeexplore.ieee.org/abstract/document/5953937/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Advances in PLC-based canal automation
+     Author ['CM Burt', 'X Piao']
+     Venue … and Water Balances in San Luis …
+     Year 2002
+     Abstract A short history of canal automation is given. PLC-based canal automation is relatively new. Advances in PLC-based canal automation are listed. Also listed are some of the remaining challenges. Recent advances have been made in understanding unsteady flow simulation
+     Url https://digitalcommons.calpoly.edu/bae_fac/61/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Advance home automation using FPGA controller
+     Author ['KN Sweatha', 'M Poornima', 'MH Vinutha']
+     Venue International Journal of …
+     Year 2013
+     Abstract Technology advancements have made the implementation of embedded systems within home appliances. This increased the capabilities and features. There is demand for smart home automation through mobile phones. Bluetooth modules are cost effective and flexible
+     Url http://www.academia.edu/download/32555944/32-o-sweatha_swamy_-advance_home_automation_using_fpga.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title A security mechanism for automation control in PLC-based networks
+     Author ['J Heo', 'CS Hong', 'SH Ju', 'YH Lim']
+     Venue … Symposium on Power …
+     Year 2007
+     Abstract In power line networks, the metering and control data can be modified by malicious attacker. We can expect that an attacker may be able to eavesdrop the transmission data, and may be able to send modified data to device for control system. This aspect is especially important if
+     Url https://ieeexplore.ieee.org/abstract/document/4231743/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC based industrial crane automation & monitoring
+     Author ['YN Burali']
+     Venue International Journal of Engineering and Science
+     Year 2012
+     Abstract In a traditional industrial crane control system, all control devices are wired directly to each other according to how the system is supposed to operate. Here human is the main to control the crane & that passes through large drawbacks such as more wiring work, appears
+     Url http://www.academia.edu/download/31243989/A0130104.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Implementation of a home automation system through a central FPGA controller
+     Author ['CJ Debono', 'K Abela']
+     Venue 2012 16th IEEE Mediterranean …
+     Year 2012
+     Abstract Technology advancements have made possible the implementation of embedded systems within home appliances. This has added new capabilities and features, however, most of the time, the implementations are proprietary and networking is not always possible. Yet there is
+     Url https://ieeexplore.ieee.org/abstract/document/6196513/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Advances in PLC‐based irrigation canal automation
+     Author ['CM Burt', 'X Piao']
+     Venue Irrigation and drainage
+     Year 2004
+     Abstract A short history of canal automation is given. PLC‐based canal automation is relatively new. Advances in PLC‐based canal automation are listed. Also listed are some of the remaining challenges. Recent advances have been made in understanding unsteady flow simulation
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/ird.106
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automation of shell and tube type heat exchanger with PLC and LabVIEW
+     Author ['TV Bhaskarwar', 'SS Giri']
+     Venue … Conference on Industrial …
+     Year 2015
+     Abstract The paper focuses on implementing the automation of a shell and tube type heat exchanger control system through number of tools such as PLC, SCADA, OPC, LabVIEW and internet. In this paper, PID method is implemented on Allen Bradley Micrologix-1200C PLC. The
+     Url https://ieeexplore.ieee.org/abstract/document/7150859/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title The design of a portable programmable logic controller (PLC) training system for use outside of the automation laboratory
+     Author ['M Barrett']
+     Venue International Symposium for Engineering Education
+     Year 2008
+     Abstract Programmable Controllers are predominately laboratory based subjects as they require “hands on” electrical wiring, interface to industrial electrical components, to Human Machine Interfaces (HMI) and may be networked. As PLC courses evolve to incorporate the IEC 6
+     Url http://www.idc-online.com/technical_references/pdfs/instrumentation/PLCfforoutsidetheautomationlab.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title DigitalSTROM®: A centralized PLC topology for home automation and energy management
+     Author ['G Dickmann']
+     Venue 2011 IEEE International Symposium on Power …
+     Year 2011
+     Abstract A digitalSTROM® system is based on concentrators that reside in the distribution board, act as power-meters for the individual distribution circuits and communicate with individual nodes installed within a home over differently modulated up-and downstream channels. This
+     Url https://ieeexplore.ieee.org/abstract/document/5764421/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC based object sorting automation
+     Author ['N Bargal', 'A Deshpande', 'R Kulkarni']
+     Venue … Research Journal of …
+     Year 2016
+     Abstract In today's world of technology and due to speed running industries, the production rate has increased tremendously. Generally, manufacturing industries keep manufacturing same models with little variation in height, colour, weight, shape. And here sorting plays an
+     Url http://www.academia.edu/download/54527375/IRJET-V3I718.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automatas programables y sistemas de automatizacion/PLC and Automation Systems
+     Author ['EM Pérez', 'JM Acevedo', 'CF Silva']
+     Venue NA
+     Year 2009
+     Abstract Este libro pretende transmitir al lector los conceptos tecnológicos ligados a los autómatas programables y su utilización para implementar sistemas de automatización. Para ello los autores, basándose en su experiencia en el diseño de sistemas de control y en la
+     Url https://books.google.com/books?hl=en&lr=&id=5jp3bforBB8C&oi=fnd&pg=PA1&dq=%22PLC%22+OR+%22FPGA%22+%22Automation%22&ots=g2Awb39cRc&sig=rRGHwKCERXUFU6ZTQlX-Ek_seWA
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Home automation system based on FPGA and GSM
+     Author ['PS Chinchansure', 'CV Kulkarni']
+     Venue … International Conference on …
+     Year 2014
+     Abstract Nowadays, there is a rapid introduction of new digital technologies. These technologies offer exciting and new opportunities that can increase the connectivity of devices within the home for the purpose of home automation. Here, we present the design and implementation of
+     Url https://ieeexplore.ieee.org/abstract/document/6921803/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automation framework for large-scale regular expression matching on FPGA
+     Author ['T Ganegedara', 'YHE Yang']
+     Venue … Conference on Field …
+     Year 2010
+     Abstract We present an extensible automation framework for constructing and optimizing large-scale regular expression matching (REM) circuits on FPGA. Paralleling the technique used by software compilers, we divide our framework into two parts: a frontend that parses each
+     Url https://ieeexplore.ieee.org/abstract/document/5694220/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC based substation automation and SCADA systems and selecting a control system integrator
+     Author ['T Wilson']
+     Venue … Power Institute Distribution/Substation Automation …
+     Year 1999
+     Abstract Much attention has been given to the use of PLCs (Programmable Logic Controllers) in substation and distribution automation applications in recent years. Innovative engineers and technicians have been actively seeking new applications for PLCs in substations and
+     Url http://www.retawprojects.com/uploads/PLC_Based_Substation_Automation_and_SCADA.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Programmable Logic Controller (PLC) in Automation
+     Author ['MG Hudedmani', 'RM Umayal', 'SK Kabberalli']
+     Venue Advanced Journal of …
+     Year 2017
+     Abstract The programmable Logic Controller (PLC) is the central controlling unit in the industry or a process. The effective operation of the process and safety considerations if programmed appropriately can meet the required objectives. The present technical paper
+     Url https://journals.aijr.in/index.php/ajgr/article/view/185
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automation Of Ration Shop Using PLC
+     Author ['D Mohan']
+     Venue NA
+     Year 2013
+     Abstract Automatic Ration Dispensing System presented here is an advanced system useful for the automatic & more efficient way of ration distribution. This project is designed to minimize the manual intervention in the process of ration distribution, so that more transparency &
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.406.6413
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC & SCADA based effective boiler automation system for thermal power plant
+     Author ['S Kalaivani', 'M Jagadeeswari']
+     Venue International Journal of Advanced …
+     Year 2015
+     Abstract Boiler is one of the most important equipment in any power plants which require continuous monitoring and inspection at frequent intervals. There are possibilities of errors at measuring and various stages involved with human workers. So a reliable monitoring system is
+     Url http://www.academia.edu/download/43165455/Automation_System_for_Thermal_Power_Plant.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Power line carrier (PLC) based communication system for distribution automation system
+     Author ['M Ahmed', 'WL Soo']
+     Venue 2008 IEEE 2nd International Power and …
+     Year 2008
+     Abstract This paper presents the development of a power line carrier in low distribution automation system (DAS) for operating and controlling low voltage (LV) down stream of 415/240V. Supervisory Control and Data Acquisition (SCADA) based Remote Terminal Unit (RTU)
+     Url https://ieeexplore.ieee.org/abstract/document/4762742/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title JHDLBits: An open-source model for fpga design automation
+     Author ['AV Poetter']
+     Venue NA
+     Year 2004
+     Abstract Today's Field Programmable Gate Array (FPGA) research community could use an extensible tool flow enabling designers to examine new algorithms and new methods of interacting with FPGA configurations. One such flow is JHDLBits, which integrates two
+     Url https://vtechworks.lib.vt.edu/handle/10919/10121
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC for home and industry automation
+     Author ['G Hallak', 'G Bumiller', 'TG Swart']
+     Venue Power Line Communications
+     Year 2016
+     Abstract The low 'media cost'for power line communication (PLC) technology renders it suitable for home and industry automation purposes. PLC uses an infrastructure already existing in every home and industrial facility, which eliminates the unnecessary expense and the
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118676684#page=472
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Power line communication networks for large-scale control and automation systems
+     Author ['G Bumiller', 'L Lampe', 'H Hrasnica']
+     Venue IEEE Communications …
+     Year 2010
+     Abstract applications. CONTROL AND AUTOMATION SYSTEMS USING PLC We  implemented. We submit that flooding is an attractive packet delivery process in control and automation PLC networks for the following rea- sons. First
+     Url https://ieeexplore.ieee.org/abstract/document/5439083/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Ethernet based industry automation using FPGA
+     Author ['NK Anish', 'B Kowshick', 'S Moorthi']
+     Venue 2013 Africon
+     Year 2013
+     Abstract The aim of this work is to develop an embedded system directed at automating appliances in an industry via Ethernet. The system employs server/client architecture; switching commands for the appliances which are connected to the client can be received and
+     Url https://ieeexplore.ieee.org/abstract/document/6757733/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Carbon footprint optimization as PLC control strategy in solar power system automation
+     Author ['G Prinsloo', 'R Dobson', 'K Schreve']
+     Venue Energy Procedia
+     Year 2014
+     Abstract Control and automation forms an integral part in the design of solar power conversion systems for stand-alone village installations as well as for industrial scale grid-connected installations. Some control designs employ digital implementation platforms such as robust
+     Url https://www.sciencedirect.com/science/article/pii/S1876610214006857
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Progress in PLC programming for distributed automation systems control
+     Author ['F Basile', 'P Chiacchio']
+     Venue 2011 9th IEEE International …
+     Year 2011
+     Abstract Industrial automation plants are controlled essentially by PLC-based control systems. PLCs are today mostly programmed in the languages of the IEC 61131-3 standard which are not ready to meet the new challenges of widely distributed automation systems. Currently
+     Url https://ieeexplore.ieee.org/abstract/document/6034950/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Implementing an OPC UA interface for legacy PLC-based automation systems using the Azure cloud: An ICPS-architecture with a retrofitted RFID system
+     Author ['H Haskamp', 'F Orth', 'J Wermann']
+     Venue 2018 IEEE Industrial …
+     Year 2018
+     Abstract Companies often have legacy systems within production processes. Many of these systems use proprietary information-communication-control-technologies (ICCT), among others, and for that reason it is difficult to integrate them into new industrial environments that require
+     Url https://ieeexplore.ieee.org/abstract/document/8387646/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title OpenPLC: An open source alternative to automation
+     Author ['TR Alves', 'M Buratto', 'FM De Souza']
+     Venue IEEE Global …
+     Year 2014
+     Abstract costs. Since the early 70s, PLC (Programmable Logic Controller) has dominated industrial automation by replacing the relay logic circuits. However  developed countries. Keywords—PLC; OpenPLC; Automation; MODBUS; Open source
+     Url https://ieeexplore.ieee.org/abstract/document/6970342/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Automation system based on SIMATIC S7 300 PLC, for a hydro power plant
+     Author ['R Butuza', 'I Nascu', 'O Giurgioiu']
+     Venue … on Automation, Quality …
+     Year 2014
+     Abstract Based on SIMATIC S7-313C programmable logic controller (PLC) and SIMATIC TP 177B operating touch panel (HMI), this work presents an automation solution for monitoring and controlling a micro hydro power plant (MHC). Using the specified PLC and HMI, there was
+     Url https://ieeexplore.ieee.org/abstract/document/6857859/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Embedded web PLC: a new advances in industrial control and automation
+     Author ['B Mahato', 'T Maity', 'J Antony']
+     Venue 2015 Second International …
+     Year 2015
+     Abstract This paper presents the review of web-PLC recently developed. In the past, remote monitoring and control of industrial systems and processes had limited application because the control system was not accessible from multiple locations. Modems made it possible to
+     Url https://ieeexplore.ieee.org/abstract/document/7306669/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title A chemical process automation virtual laboratory to teach PLC programming
+     Author ['OG Bellmunt', 'DM Miracle', 'JB Jané']
+     Venue … International journal of …
+     Year 2007
+     Abstract This paper introduces a chemical process automation virtual laboratory to teach programmable logic component (PLC) programming to chemical engineering students. The virtual laboratory was used in the practice part of an electrical engineering course and
+     Url https://dialnet.unirioja.es/servlet/articulo?codigo=7430313
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Home automation using PLC and SCADA
+     Author ['VS Deshpande', 'AS Vibhute', 'AK Choure']
+     Venue NA
+     Year 2014
+     Abstract Home automation is an integral part of modern lives that help to monitor and control the home electrical devices as well as other aspects of the digital home that is expected to be the standard for the future home. Home appliance control system enables house owner to
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.680.9338
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Design and automation of VLSI architectures for bidirectional scan based fault localization approach in FPGA fabric aware cellular automata topologies
+     Author ['A Palchaudhuri', 'AS Dhar']
+     Venue Journal of Parallel and Distributed Computing
+     Year 2019
+     Abstract Cellular automata (CA) have received significant attention in VLSI design for the inherent architectural advantages of modularity, cascadability, simplicity and localized interconnections. In this paper, we have designed FPGA fabric aware CA circuit topologies
+     Url https://www.sciencedirect.com/science/article/pii/S0743731519302515
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Fpga physical-design automation using model-driven engineering
+     Author ['C Teodorov', 'D Picard', 'L Lagadec']
+     Venue 6th International Workshop …
+     Year 2011
+     Abstract The physical design automation is a difficult problem due to the huge number of devices, and physical constraints to be met. The Model-Driven Engineering (MDE) approach aims to tackle the complexity of software development using a high level method based on models
+     Url https://ieeexplore.ieee.org/abstract/document/5981495/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC based automatic liquid filling system
+     Author ['D Baladhandabany', 'S Gowtham']
+     Venue International Journal of …
+     Year 2015
+     Abstract II. DESCRIPTION OF OUR PROPOSED DEVICE It is based on plc automation, which consists of various components and are divided into two parts namely: 1. Hardware part  progress. The main purpose of PLC in automation is used to control the whole system. The cost
+     Url http://www.academia.edu/download/43234818/V4I3201599a93.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title FPGA-based improved high brightness RGB LED matrix automation
+     Author ['C López', 'L Costas-Pérez']
+     Venue 2008 IEEE International …
+     Year 2008
+     Abstract The extended use of LEDs is emerging in many areas traditionally restricted to different solutions. Not only simple lighting electronic controlled systems are demanded by industry and consumers, but light jockey user controlled solutions have become more important in
+     Url https://ieeexplore.ieee.org/abstract/document/4677174/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title A component-based virtual engineering approach to PLC code generation for automation systems
+     Author ['B Ahmad']
+     Venue NA
+     Year 2014
+     Abstract In recent years, the automotive industry has been significantly affected by a number of challenges driven by globalisation, economic fluctuations, environmental awareness and rapid technological developments. As a consequence, product lifecycles are shortening and
+     Url https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.763418
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title PLC & SCADA based automation of filter house, a section of Water Treatment Plant
+     Author ['A Archana', 'B Yadav']
+     Venue 2012 1st International Conference on …
+     Year 2012
+     Abstract Rajasthan is an arid state and hence making available drinking water is a government priority. Under Bhageri Ka Naka (Rajasthan) Rural water supply scheme, there is a transmission system of a capacity to produce and deliver 16.21 MLD of treated water in the
+     Url https://ieeexplore.ieee.org/abstract/document/6470057/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Modeling and simulation of PV module using industrial automation PLC
+     Author ['Y Ouberri', 'H Yatimi', 'E Aroudam']
+     Venue 2019 5th International …
+     Year 2019
+     Abstract This paper proposes a PV modeling of polycrystalline and mono-crystalline PV modules using an automation PLC for MPPT purposes. The SIEMENS S7-300 PLC will be used in the present study. To validate the proposed modeling approach, the IV and PV characteristic
+     Url https://ieeexplore.ieee.org/abstract/document/8727668/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title Graphical modeling of plc-based industrial control applications
+     Author ['E Estevez', 'M Marcos', 'N Iriondo']
+     Venue 2007 American Control …
+     Year 2007
+     Abstract This work presents a graphical modeling tool that guides the user through the definition of the IEC1131-3 automation project, as a PLC programming tool does. But, internally, it stores the information about the automation project as a XML file
+     Url https://ieeexplore.ieee.org/abstract/document/4282404/
+
+
+     Search term "PLC"+OR+"FPGA"+"Automation"
+     Title A cyber–physical system-based approach for industrial automation systems
+     Author ['K Thramboulidis']
+     Venue Computers in Industry
+     Year 2015
+     Abstract teaching PLC Programming. Even though two different levels of abstraction in software specification are compared, the finding are quite interesting and can be utilized to facilitate the shift to the object oriented programming paradigm in the development of industrial automation
+     Url https://www.sciencedirect.com/science/article/pii/S0166361515000962
+

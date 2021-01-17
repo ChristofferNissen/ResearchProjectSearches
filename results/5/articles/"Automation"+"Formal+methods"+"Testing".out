@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Formal+methods"+"Testing"
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods for test automation-hard real-time testing of controllers for the airbus aircraft family
+     Author ['J Peleska']
+     Venue IDPT'02
+     Year 2002
+     Abstract In this article, a collection of major problems to be solved for automated testing of embedded hard real-time systems is discussed. It is indicated which solutions are available. Architectural aspects of test automation systems and approaches for automated on-the-fly
+     Url http://www.cs.uni-bremen.de/agbs/jp/papers/peleska_idpt2002.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Finally, the time for initial testing arrived: The system could not do even the most  and issues that have accompanied the better-known improvements in manufacturing automation and computation  This provides a context in which to assess the growth of formal methods in this field
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract One of the main conclusions of that contribution was that using formal methods in the software  and not supported by tools, an improvement in quality and costs of testing was achieved. It was noted in [GWT98] that further improvements seem possible by automation of the test
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract earlier phases. The following Physical installation consist of installation of devices, electrical wiring and testing (ie dry runs). Finally, the system is ready for production start. 2.1 Formal methods in automation systems Despite
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Industrial automation systems (IAS) need to be highly dependable; they should not  Formal methods are mathematical techniques that can greatly aid in developing dependable  system design and implementation, verification and validation (testing), maintenance, and
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Towards industrially applicable formal methods: Three small steps, and one giant leap
+     Author ['J McDermid', 'A Galloway', 'S Burton']
+     Venue … Methods (Cat. No …
+     Year 1998
+     Abstract to provide as much automated support for specifi- cation analysis as possible, including specification- based test automation;  One strand of work is concerned with applied formal methods, and enabling sys- tems engineers to use familiar  2.3 Testing and Formal Specifications
+     Url https://ieeexplore.ieee.org/abstract/document/730572/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract 4. HIGHLIGHTED PROJECTS We present a series of industrial formal methods projects, chosen to show  There is a trade-off between the level of automation achievable in verification and  of legacy Microsoft code with assertions for use in massive regression testing, and [Larus
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Tutorial: Automated formal methods with PVS, SAL, and Yices
+     Author ['J Rushby']
+     Venue … on Software Engineering and Formal Methods  …
+     Year 2006
+     Abstract This full-day tutorial provides an introduction to automated formal methods using modern  within a factor of five of hand-crafted C), random testing, theorem proving  The PVS theorem prover provides powerful automation including rewriting and decision procedures for
+     Url https://ieeexplore.ieee.org/abstract/document/1698746/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal Methods and Testing: An Outcome of the FORTEST Network. Revised Selected Papers
+     Author ['RM Hierons', 'JP Bowen', 'M Harman']
+     Venue NA
+     Year 2008
+     Abstract Such automation brings with it important formal proof obligations at the meta-level  It is also hoped that readers from the formal methods community will be motivated to consider software testing as a possible application for their work: there remain plenty of interesting
+     Url https://books.google.com/books?hl=en&lr=&id=wL1qCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Automation%22+%22Formal+methods%22+%22Testing%22&ots=JlyhGXp-iz&sig=K0wMSMQBDoDIRTGFp_UwHVN4_K0
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal test automation: A simple experiment
+     Author ['A Belinfante', 'J Feenstra', 'RG de Vries']
+     Venue Testing of …
+     Year 1999
+     Abstract assess the feasibility of the FMCT model. One of the major conclusions was that FMCT provides a sound basis for conformance testing based on formal methods, but automation is necessary. In this paper, we study this automation
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35567-2_12
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title FORTEST: Formal methods and testing
+     Author ['JP Bowen', 'K Bogdanov', 'JA Clark']
+     Venue Proceedings 26th …
+     Year 2002
+     Abstract Do we distinguish too heavily between 'formal meth- ods' (things done by the “formal methods community”) and the mathematics used by  Based on the above, it may thus be argued that one of testing research's major challenges is to find system prop- erties  6. Test Automation
+     Url https://ieeexplore.ieee.org/abstract/document/1044538/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Using formal methods and testability concepts in the avionics systems validation and verification (v&v) process
+     Author ['O Laurent']
+     Venue … Third International Conference on Software Testing …
+     Year 2010
+     Abstract Automation of part of this V&V process is thus a crucial industrial challenge, but must  Airbus has used formal methods for several years to specify avionics systems and automatically generate code  This industrial fact leads Airbus to seek for improvements of the testing process
+     Url https://ieeexplore.ieee.org/abstract/document/5477108/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Testing concurrent systems: A formal approach
+     Author ['J Tretmans']
+     Venue International Conference on Concurrency Theory
+     Year 1999
+     Abstract Moreover, testing is (should be) repeated each time a system is modified. Hence, testing would be an ideal candidate for automation  In this section a framework is presented for the use of formal methods in conformance testing [10,44,32]
+     Url https://link.springer.com/chapter/10.1007/3-540-48320-9_6
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Protocol conformance testing a SIP registrar: An industrial application of formal methods
+     Author ['BK Aichernig', 'B Peischl', 'M Weiglhofer']
+     Venue … and Formal Methods …
+     Year 2007
+     Abstract Page 1. Protocol Conformance Testing a SIP Registrar: an Industrial Application of Formal Methods ∗ Bernhard K. Aichernig1 Bernhard Peischl2 Martin Weiglhofer2 Franz Wotawa1 † 1Institute for Software Technology Technische
+     Url https://ieeexplore.ieee.org/abstract/document/4343938/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A survey on network verification and testing with formal methods: Approaches and challenges
+     Author ['Y Li', 'X Yin', 'Z Wang', 'J Yao', 'X Shi', 'J Wu']
+     Venue … Surveys & Tutorials
+     Year 2018
+     Abstract applied to help operators build reliable systems in electronic design automation and soft  current interest, it is an interdisciplinary subject (with fields including formal methods, mathematical logic  for data plane ver- ification, control plane verification, data plane testing and control
+     Url https://ieeexplore.ieee.org/abstract/document/8453007/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Model checking and other ways of automating formal methods
+     Author ['JM Rushby']
+     Venue Position paper for panel on Model Checking for …
+     Year 1995
+     Abstract 1.3 Degree of automation Direct testing and model-checking methods are generally presented as fully au- tomatic, whereas those based on theorem proving are generally considered labor- intensive  2 Integrated Automation of Formal Methods
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.6771&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title FORMS/FORMAT 2010: Formal Methods for Automation and Safety in Railway and Automotive Systems
+     Author ['E Schnieder', 'G Tarnai']
+     Venue NA
+     Year 2011
+     Abstract 8th Symposium of FORMS/FORMAT and its subtitle" Formal Methods for Automation and Safety in  in its whole can profit from this theoretical ap- proach for formal methods, the scope  attractive for the control in transportation together with tool chains for testing and development
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-14261-1.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Teaching formal methods: Lessons to learn
+     Author ['P Gibson', 'D Méry']
+     Venue 2nd Irish Workshop on Formal Methods 2
+     Year 1998
+     Abstract 2This problem arose from a typing error when testing their functions. 8  We formalise to structure complex problems in such a way as they can be solved through highly repetitive automation. Formal methods application depends on the tools for performing such automation
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/FM1998.4
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Test automation for safety-critical systems: Industrial application and future developments
+     Author ['J Peleska']
+     Venue International Symposium of Formal Methods Europe
+     Year 1996
+     Abstract In this article, we will focus on test automation for reactive real-time sys- tems, with emphasis on Hardware-in-the-Loop tests  An industrial application of the method is presented and used for the evalu- ation of the benefits of formal methods-based testing in comparison
+     Url https://link.springer.com/chapter/10.1007/3-540-60973-3_79
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Wireless communication in automation
+     Author ['Z Bradac', 'P Fiedler', 'P Cach']
+     Venue 10th IEEE International …
+     Year 2003
+     Abstract fmt prototypes of embedded devices used for testing. Moreover the paper discusses some specific challenges associated with utilization of wireless communication techniques (focused to Bluetooth) in automation. Finally the paper presents ideas (formal methods) that could he
+     Url https://ieeexplore.ieee.org/abstract/document/1301871/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A lightweight approach to formal methods
+     Author ['S Agerholm', 'PG Larsen']
+     Venue … on Current Trends in Applied Formal Methods
+     Year 1998
+     Abstract and reli- able, and allow different sorts of checking to be performed by automation tools  tools has often been claimed to be a main obstacle to the industrial take-up of formal methods  for traditional engineers to produce and analyze formal models in a fa- miliar testing framework
+     Url https://link.springer.com/chapter/10.1007/3-540-48257-1_10
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract generation safety critical systems. With respect to the techniques of testing based on formal methods, future developments will be in the direction of automation. This concerns both automation of test derivation from formal 12 Page 13
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract It also includes iterated design, refinement, and synthesis, with comparable and compatible automation  and middleware for automotive and avion- ics applications already entails formal methods use  validation A reliable infrastructure permits sys- tem design and testing at a
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Using formal methods to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue NA
+     Year 2008
+     Abstract It may transpire that its support for test automation is one of the most significant benefits of formal model building. The links between testing and formal methods do, however, go well beyond generating tests from a formal specification
+     Url https://bura.brunel.ac.uk/handle/2438/1871
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Automated requirements testing with abstract oracles
+     Author ['BK Aichernig']
+     Venue ISSRE
+     Year 1998
+     Abstract Consequently, instead of promoting formal cor- rectness proofs, we regard the automation of func- tional testing as the next step in a smooth in- tegration of formal methods to raise the level of reliability, after formal speci cation techniques have been introduced
+     Url http://www.ist.tugraz.at/aichernig/publications/papers/issre98.ps.gz
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A complete automation of unit testing for Java programs
+     Author ['Y Cheon', 'MY Kim', 'A Perumandla']
+     Venue NA
+     Year 2005
+     Abstract Keywords: unit testing, test automation, genetic algorithms, runtime assertion checking, formal  Software/Program Verification — Assertion checkers, class invariants, formal methods, programming by  tools, validation, JML; D.2.5 [Software Engineering] Testing and Debugging
+     Url https://scholarworks.utep.edu/cs_techrep/234/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Test development for communication protocols: towards automation
+     Author ['R Dssouli', 'K Saleh', 'E Aboulhamid', 'A En-Nouaary']
+     Venue Computer Networks
+     Year 1999
+     Abstract research point of view (automatic test generation). The complete automation of the testing process requires the use of formal methods for providing a model of the required system behavior. We show the importance of modelling the
+     Url https://www.sciencedirect.com/science/article/pii/S1389128699000638
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Automated black-box testing with abstract VDM oracle
+     Author ['BK Aichernig']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 1999
+     Abstract Consequently, instead of promoting formal correctness proofs, we regard the automation of functional testing as the next step in a smooth integration of formal methods, to raise the level of reliability, after formal specification tech- niques have been introduced
+     Url https://link.springer.com/chapter/10.1007/3-540-48249-0_22
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Automated Formal Methods Enter the Mainstream.
+     Author ['JM Rushby']
+     Venue J. UCS
+     Year 2007
+     Abstract also the reason why software is so hard to get right, and why testing is not  First, steady progress in the automation that can be applied to formal calculations, coupled with the  construction of tools that deliver practi- cal benefits in return for a modest investment in formal methods
+     Url http://www.jucs.org/jucs_13_5/automated_formal_methods_enter/jucs_13_5_0650_0660_rushby.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Testing transition systems: An annotated bibliography
+     Author ['E Brinksma', 'J Tretmans']
+     Venue Summer School on Modeling and Verification of …
+     Year 2000
+     Abstract Page 5. [BFV + 99] A. Belinfante, J. Feenstra, RG de Vries, J. Tretmans, N. Goga, L. Feijs, S. Mauw, and L. Heerink. Formal test automation: A simple experiment  Formal methods in confor- mance testing: Results and perspectives. In O. Rafiq, editor, Int
+     Url https://link.springer.com/chapter/10.1007/3-540-45510-8_9
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Integrating formal methods and testing for concurrent programs
+     Author ['RH Carver', 'R Durham']
+     Venue COMPASS'95 Proceedings of the Tenth …
+     Year 1995
+     Abstract Hence, we consider the integration of formal methods with recently developed testing techniques for concurrent programs  Deterministic testing of P against A involves the following steps [5]  Ronnie Durham Automation Research Systems, Ltd
+     Url https://ieeexplore.ieee.org/abstract/document/521884/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Testing, proof and automation. An integrated approach
+     Author ['S Burton', 'J Clark', 'J McDermid']
+     Venue … Analysis, Testing and …
+     Year 2000
+     Abstract a combination of the two approaches can lead to greater lev- els of automation and integrity  Additionally, testing to generate counter- examples to proofs can save much effort and produce il  is still seen by many as a barrier to the widespread industrial usage of formal methods
+     Url https://pdfs.semanticscholar.org/aee3/d4d00af6f8e2197952b896d60a15034f09a0.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A formal methods approach to the analysis of mode confusion
+     Author ['RW Butler', 'SP Miller', 'JN Potts']
+     Venue 17th DASC. AIAA/IEEE …
+     Year 1998
+     Abstract particular importance to the analysis of safetyeritical systems is the fact that formal methods provides a  Simulation and testing simply cannot accom- plish this in practical amounts of time  Billings writes @g. 149) [1]: It must be noted that automation also makes apparently random
+     Url https://ieeexplore.ieee.org/abstract/document/741497/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Applying formal methods to software testing
+     Author ['PA Stocks']
+     Venue NA
+     Year 1993
+     Abstract Accordingly, by far the most prominent use of formal methods in testing is for the derivation and  An advantage of algebraic speci cations in testing is the ease with which test data are constructed  ture, but the facility for automation allows more brute-force selection strategies
+     Url https://www.researchgate.net/profile/Phil_Stocks/publication/2347416_Applying_Formal_Methods_to_Software_Testing/links/55528c8708aeaaff3befeb1d.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Improving automation software dependability: a role for formal methods?
+     Author ['TL Johnson']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract Finally, the time for initial testing arrived: It was a disaster  processes and issues that have accompanied the better-known improvements in manufacturing automation and computation. This provides a context in which to assess the context for growth of formal methods in this field
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361128
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Automation of spacecraft onboard equipment testing
+     Author ['LF Nozhenkova', 'OS Isaeva']
+     Venue … on Advanced Materials …
+     Year 2016
+     Abstract SUMMARY The software created for automation of spacecraft onboard equipment testing allows to expand the possibilities to conduct experiments and makes it possible to  46 p. [7] ITU-T Recommendation Z.500 – Framework on formal methods in conformance testing, 1997
+     Url https://www.atlantis-press.com/proceedings/amsee-16/25858139
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal test automation: The conference protocol with phact
+     Author ['L Heerink', 'J Feenstra', 'J Tretmans']
+     Venue Testing of Communicating Systems
+     Year 2000
+     Abstract In this note we describe a case study of automatic test generation and ex- ecution based on formal methods  Hence, the Conference Protocol serves as a vehicle for testing and comparison of test tools  Page 3. Formal Test Automation: The Conference Protocol with PHACT 213
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35516-0_13
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Protocol testing theory based on formal methods
+     Author ['J Wu', 'X Yin']
+     Venue JOURNAL-TSINGHUA UNIVERSITY
+     Year 2001
+     Abstract Chunming Man Qingfeng (School of Mechanical Engineering and Automation, Beijing University  and Technology, USTC, Hefei Anhui 230027, China);Conformance Testing for Routing  The Chinese Academy of Sciences,Beijing 100080, China );Formal Methods for Software
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-QHXB2001Z1048.htm
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract SAT solvers form only the most basic level of automation in formal-methods tools  Now, the situation has improved: many robust formal-methods tools are publicly available with suitable documentation  We have found that testing the code is inadequate as a method to find subtle
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal Test Automation: The Conference Protocol with TGV/TorX
+     Author ['L Du Bousquet', 'S Ramangalahy', 'S Simon']
+     Venue Testing of …
+     Year 2000
+     Abstract [2] A. Belinfante, 1. Feenstra, RG de Vries, 1. Tretmans, N. Goga, L. Feijs, S. Mauw, and L. Heerink. Formal test automation: A simple experiment  1991. [6] ITU-T recommendation Z-500: Framework on formal methods in conformance testing, 1997. [7] T. leron and P. Morel
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35516-0_14
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title An introduction to formal methods for the development of safety-critical applications
+     Author ['AE Haxthausen']
+     Venue NA
+     Year 2010
+     Abstract correctness. Using formal methods in the specification and design phases implies not only that more flaws are found, but also that they are found already in these earlier phases rather than in the testing or maintenance phases. This is
+     Url https://core.ac.uk/download/pdf/13733960.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract The added qual- ity, however, decreased the overall cost of software development because of the huge savings in testing  Formal Methods • 633  Fol- lowing are some well-known theorem provers, categorized roughly by their degree of automation
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Finite state machine based formal methods in protocol conformance testing: from theory to implementation
+     Author ['BS Bosik', 'MÜ Uyar']
+     Venue Computer Networks and ISDN Systems
+     Year 1991
+     Abstract testing is that the complex- ity of the protocols and the associated testbeds, and the time consumed in testing provide major opportunities to benefit from optimization and automation of the testing  That is, if the industry can adopt common formal methods for testing, it can lead
+     Url https://www.sciencedirect.com/science/article/pii/016975529190079R
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract typing, inheritance, and dynamic binding, with mechanisms for object creation, type testing, type casting  the framework using applications in railways, agriculture, automotive systems and building automation. There are ample opportunities for formal methods to play a key role in
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods in testing software architectures
+     Author ['A Bertolino', 'P Inverardi', 'H Muccini']
+     Venue … on Formal Methods for the Design of …
+     Year 2003
+     Abstract Page 1. Formal Methods in Testing Software Architectures Antonia Bertolino1, Paola Inverardi2, and Henry Muccini2  122–147, 2003. c Springer-Verlag Berlin Heidelberg 2003 Page 2. Formal Methods in Testing Software Architectures 123 the relevant behaviors
+     Url https://link.springer.com/chapter/10.1007/978-3-540-39800-4_7
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title A verification-supported evolution approach to assist software application engineers in industrial factory automation
+     Author ['S Ulewicz', 'M Ulbrich', 'A Weigl', 'M Kirsten']
+     Venue … on Assembly and …
+     Year 2016
+     Abstract Logic Controller Software,” in Formal Methods and Software Engineering, Springer International Publishing, 2015, pp. 234–251. [3] S. Rösch, S. Ulewicz, J. Provost, and B. Vogel-Heuser, “Review of Model-Based Testing Approaches in Production Automation and Adjacent
+     Url https://ieeexplore.ieee.org/abstract/document/7750714/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal verification of critical aerospace software
+     Author ['V Wiels', 'R Delmas', 'D Doose', 'PL Garoche', 'J Cazin']
+     Venue NA
+     Year 2012
+     Abstract Issue 4 - May 2012 - Formal Verification of Critical Aerospace Software AL04-10 6 Test automation using formal methods  Special attention has to be given to the methods used in order to respect the constraints imposed by DO-178B that forbid the use of structural testing
+     Url https://hal.archives-ouvertes.fr/hal-01184099/
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Issues in the full scale use of formal methods for automated testing
+     Author ['JL Crowley', 'JF Leathrum', 'KA Liburdy']
+     Venue ACM SIGSOFT Software …
+     Year 1996
+     Abstract automation relies upon successful application of formal methods to the test specification process  Formal methods may be used in all phases of computer system development, including requirements analysis, system design and system testing
+     Url https://dl.acm.org/doi/abs/10.1145/226295.226303
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title An integration testing method that is proved to find all faults
+     Author ['F Ipate', 'M Holcombe']
+     Venue International Journal of Computer …
+     Year 1997
+     Abstract Indeed, the belief of many in the formal methods community is that formal verification, that is mathematical proofs  Theoretical Basis for Stream X-machine Testing  We call this the associated automation of m. If m and m' are two deterministic stream X-machines with the same type
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207169708804559
+
+
+     Search term "Automation"+"Formal+methods"+"Testing"
+     Title Formal methods in factory automation
+     Author ['C Popescu', 'JLM Lastra']
+     Venue NA
+     Year 2010
+     Abstract In factory automation, formal system representations are used for two main purposes: to verify  3.1 Verification/Validation/Synthesis of software control The utilization of formal methods for the synthesis and  of process logic control has arisen as an alternative to the testing of direct
+     Url https://www.researchgate.net/profile/Jose_Luis_Martinez_Lastra/publication/221908293_Formal_Methods_in_Factory_Automation/links/09e4150dc9eaf06c87000000/Formal-Methods-in-Factory-Automation.pdf
+

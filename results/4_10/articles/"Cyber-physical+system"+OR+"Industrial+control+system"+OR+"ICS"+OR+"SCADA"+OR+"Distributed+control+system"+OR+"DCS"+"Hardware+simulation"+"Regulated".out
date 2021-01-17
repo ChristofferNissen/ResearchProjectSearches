@@ -1,0 +1,91 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract implementation of the water sector model in both a software and hardware simulation. Testing and results of the simulation are presented in chapter 6. Finally, conclusions and  Finally, malicious actors are those who are targeting the ICS directly  Denotes SCADA component
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title A compact digitally controlled fuel cell/battery hybrid power source
+     Author ['Z Jiang', 'RA Dougal']
+     Venue IEEE Transactions on Industrial …
+     Year 2006
+     Abstract potential for several areas of applications such as those in portable electron- ics, hybrid electric  to serve only as a voltage or current regulator, the power converter is regulated to balance  Simulation and experiment results show that the control algorithm is able to correctly select
+     Url https://ieeexplore.ieee.org/abstract/document/1667907/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware-in-the-Loop Assessment Methods
+     Author ['VH Nguyen', 'QT Tran', 'E Guillo-Sansano']
+     Venue European Guide to …
+     Year 2020
+     Abstract Due to the addition of the hardware/simulation interface, thus various external disturbances (especially the time  link and OpSim architecture) and then in PHIL-PSIL manner (via SCADA-as-a  The bus voltage in the microgrid is then regulated according to the three optimization
+     Url https://link.springer.com/chapter/10.1007/978-3-030-42274-5_4
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware In the Loop (HIL) simulation of wind turbine power control
+     Author ['T Puleva', 'G Rouzhekov', 'T Slavov', 'B Rakov']
+     Venue NA
+     Year 2016
+     Abstract algorithms is presented. It is based on application of programmable logical controller (PLC) and on plant dynamics simulator. A system for hardware simulation of control algorithms is developed. Its structure and characteristics
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2016.1053
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Smart grid simulations and control
+     Author ['A Chakrabortty', 'A Bose']
+     Venue Power Electronics in Renewable …
+     Year 2019
+     Abstract the d‐ and q‐axis currents of the rotor need to be regulated to pre  Since the operator usually observes the power system through SCADA, which updates every few sec  geographical spans of the grid, how can we accurately simulate the cyber‐physical system (CPS) interactions
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119515661.ch11
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation  the interviewers had to review written material concerning the different top- ics to better  The separator is driven by an asynchronous induction motor regulated by a VFD
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Real-time multi-board architecture for analog spiking neural networks
+     Author ['S Saïghi', 'J Tomas', 'Y Bornat', 'B Belhadj']
+     Venue Proceedings of 2010 …
+     Year 2010
+     Abstract biophysical models following the Hodgkin-Huxley (HH) formalism, with two objectives: a) build hardware simulation systems for  The analog custom ICs are controlled by the digital hardware layer  The supply voltage is 5 V and all the other power supplies are regulated on board
+     Url https://ieeexplore.ieee.org/abstract/document/5538039/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title A compiler for biological networks on silicon chips
+     Author ['JK Medley', 'J Teo', 'SS Woo', 'J Hellerstein']
+     Venue PLoS computational …
+     Year 2020
+     Abstract Author summary We present a “silicon compiler” that is capable of translating biochemical models encoded in the SBML standard into specialized analog cytomorphic hardware and transfer function–level simulations of such hardware. We show how the compiler and hardware address
+     Url https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008063
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Design and Process control of Siemens polysilicon CVD reactor
+     Author ['AS Priya', 'SV Kumar', 'SK Mathew']
+     Venue 2015 Conference on …
+     Year 2015
+     Abstract This GUI based SCADA handles likelihood of fault tolerance, ensuring risk controlled  V. SIMULATION RESULTS OF CVD REACTION The hardware simulation is developed using National  The outlet pressure valve is regulated accordingly to obtain characteristics as shown
+     Url https://ieeexplore.ieee.org/abstract/document/7503950/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Regulated"
+     Title Requirements Analysis for a Hardware, Discrete-Event, Simulation Engine Accelerator.
+     Author ['PJ Taylor Jr']
+     Venue NA
+     Year 1991
+     Abstract to standardize the tools needed to design, test, and document large-scale digital electron- ics more efficiently. Initial imp' mentations of VHDL were developed by Intermetrics, Inc  1.5 Scope Implementation of a specific hardware simulation accelerator was not the goal of this
+     Url https://apps.dtic.mil/sti/citations/ADA244202
+

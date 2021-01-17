@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract are connected to MicroBlaze core through the on-chip bus, the synthesizable plant model is connected to the DPWM peripheral, and the whole architecture is implemented into the FPGA  Each network configuration is described by a continuous time state- space equation
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract To implement into an FPGA the HIL platform, the customized peripherals and the power converter must be modeled in synthesizable VHDL. Fig  The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An iterative real-time nonlinear electromagnetic transient solver on FPGA
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2010
+     Abstract This paper proposes an iterative nonlinear tran- sient solver on a field programmable gate array (FPGA). The parallel solver, based on the compensation method and the Newton-Raphson algorithm (continuous and piece-wise), is en- tirely implemented in VHDL
+     Url https://ieeexplore.ieee.org/abstract/document/5518422/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Processor-in-the-loop and hardware-in-the-loop simulation of electric systems based in FPGA
+     Author ['J Mina', 'Z Flores', 'E López', 'A Pérez']
+     Venue … Conference on Power …
+     Year 2016
+     Abstract The continuous time model of the dc motor is given by the following equations ௗ௜೑ ௗ௧ ൌ െ ோ೑ ௅೑ ݅௙ ൅ ଵ ௅೑ ݒ௙  [9] S. Karimi, A. Gaillard, P. Poure, and S. Saadate, “FPGA-Based Real  [10] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/7530751/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative. This will ensure that at the point |imc|, Lm(|imc|) = Ly(|imc|). For the FPGA implementation, (19
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time simulation of fault tolerant current controllers for power electronics
+     Author ['I Bahri', 'I Slama-Belkhodja']
+     Venue 2009 IEEE International …
+     Year 2009
+     Abstract Actually, using the computed K, (i=a,b,c) at the beginning of the digital current controller computation process, the a and ~ components of the current vector are computed without using the failed current sensor providing the proper continuous working. TABLE II FPGA Time/Area
+     Url https://ieeexplore.ieee.org/abstract/document/5222730/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Fpga-accelerated simulation technologies (fast): Fast, full-system, cycle-accurate simulators
+     Author ['D Chiou', 'D Sunwoo', 'J Kim', 'NA Patil']
+     Venue 40th Annual IEEE …
+     Year 2007
+     Abstract Page 1. FPGA-Accelerated Simulation Technologies (FAST)  The speculative func- tional model enables the simulator to be parallelized, im- plementing the timing model in FPGA hardware for speed and the functional model using a modified full-system simu- lators
+     Url https://ieeexplore.ieee.org/abstract/document/4408260/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA-based hardware-in-the-loop development test-bench for multiple output power converters
+     Author ['O Lucia', 'O Jimenez', 'LA Barragan']
+     Venue 2010 Twenty-Fifth …
+     Year 2010
+     Abstract LOOP APPLICATION To achieve the aim of this paper, HIL at power converter level is applied, including the power converter model in the FPGA implementation  Provided that the inverter operates in continuous mode, the loads are parallel-connected to a voltage source inverter
+     Url https://ieeexplore.ieee.org/abstract/document/5433653/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A biologically plausible real-time spiking neuron simulation environment based on a multiple-FPGA platform
+     Author ['S Yang', 'TM McGinnity']
+     Venue ACM SIGARCH Computer Architecture News
+     Year 2011
+     Abstract hybrid systems by a set of differential equations [2]. However, we cannot compute a continuous process exactly  We are not attempting to demonstrate the hardware simulation speed  4.1 A Small Neural Network A small network was implemented on two FPGA devices to evaluate
+     Url https://dl.acm.org/doi/abs/10.1145/2082156.2082176
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA implementation of Lorenz's chaotic generator for ciphering telecommunications
+     Author ['MS Azzaz', 'C Tanougast', 'S Sadoudi']
+     Venue 2009 Joint IEEE North …
+     Year 2009
+     Abstract However, it should be noted that the continuous chaotic signals are real  It can be seen that the functional hardware simulation results are very similar those of the RK-4  for a digital hardware implementation of the proposed Lorenz's chaotic system using Virtex-II Xilinx FPGA [8] is
+     Url https://ieeexplore.ieee.org/abstract/document/5290495/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and FPGA Implementation of a new hyperchaotic system
+     Author ['W Guang-Yi', 'B Xu-Lei', 'W Zhong-Lin']
+     Venue Chinese physics B
+     Year 2008
+     Abstract The Hardware in Loop (HIL), which is supplied by DSP-Builder, can do well in hardware simulation  The simulated results for the established HIL model of the designed digital circuit have shown that the continuous system (1) can be car- ried out by FPGA in hardware
+     Url https://iopscience.iop.org/article/10.1088/1674-1056/17/10/011/meta
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A new platform and methodology for system-level design of next-generation FPGA-based digital SMPS
+     Author ['B MacCleery', 'O Trescases', 'M Mujagic']
+     Venue 2012 IEEE Energy …
+     Year 2012
+     Abstract The salient features of the new methodology include: (1) A continuous time co-variable time- step co  2011. [16] M. Cirstea and A. Dinu, “A vhdl holistic modeling approach and fpga implementation of  [17] G. Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6342622/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An open-loop sin microstepping driver based on FPGA and the Co-simulation of Modelsim and Simulink
+     Author ['Y Li', 'J Huo', 'X Li', 'J Wen', 'Y Wang']
+     Venue … , Control and Electronic …
+     Year 2010
+     Abstract we must first change equation (5) into discrete format by substituting differential equation in continuous system with  In the design of FPGA, the simulation is a very important and the most time  It provides the hardware simulation interface between Matlab, Simulink and Mode1sim
+     Url https://ieeexplore.ieee.org/abstract/document/5609859/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A software-hardware cosynthesis approach to digital system simulation
+     Author ['KA Olukotun', 'R Helaihel', 'J Levitt', 'R Ramirez']
+     Venue IEEE Micro
+     Year 1994
+     Abstract Event con- trol-free blocks include continuous assignment blocks and simple always blocks  Hardware synthesis FPGAs are an ideal implementation medium for hardware simulation because they  a perimeter of programmable input/output b1ocks.l The processor-FPGA interface
+     Url https://ieeexplore.ieee.org/abstract/document/296157/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware accelerated simulation tool (HAST)
+     Author ['VS Lin', 'RJ Speelman', 'CI Daniels']
+     Venue 2005 IEEE …
+     Year 2005
+     Abstract has additional hardware that interpolates between adjacent coefficients for more continuous and realistic  the next section provides a short description of the FPGA-based hardware emulation platform and the communication interface between the software and the hardware
+     Url https://ieeexplore.ieee.org/abstract/document/1559437/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-Based Pedestal Variance Computation Accelerator for Continuous Light Monitoring in VERITAS
+     Author ['M Shepherd']
+     Venue NA
+     Year 2019
+     Abstract Computation Accelerator for Continuous  This project aims to fix these issues by creating an FPGA-based system to accelerate variance calculations of the light  We found the parallelized scheme was optimal, and we tested the scheme in MATLAB, in hardware simulation, and in
+     Url https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/0/1909/files/2019/04/Final-Report.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title PLC based intelligent traffic control system
+     Author ['MA Khattak']
+     Venue International Journal of Electrical & Computer Sciences …
+     Year 2011
+     Abstract Hardware simulation tests were successfully performed on the algorithm implemented into a PLC (programmable logic controller)  that has: 1. The ability to collect the information of the busy tracks by sensors and providing the output to PLC  Provide for continuous movement of
+     Url https://www.academia.edu/download/53128853/110606-9494-IJECS-IJENS.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and FPGA implementation of a pseudo-random bit sequence generator using spatiotemporal chaos
+     Author ['Y Mao', 'L Cao', 'W Liu']
+     Venue 2006 International Conference on …
+     Year 2006
+     Abstract Elementary hardware simulation results show that the throughput of the PRBS generator chip reaches high  FIPS 140-2 and NIST 800-22, then, in section IV, FPGA implementation is  algorithm described previously has one significant flaw: it operates in continuous domain which
+     Url https://ieeexplore.ieee.org/abstract/document/4064322/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Chaos secure communication'implementation in FPGA
+     Author ['T Tami', 'T Messaoudene', 'A Ferdjouni']
+     Venue … on Applied Smart …
+     Year 2018
+     Abstract ModelSim software, provided by ISE of XILINX, can be very useful in hardware simulation. The simulated results established from the digital circuit designed under ModelSim showed that the continuous system (1) can be realized by FPGA in hardware. Fig
+     Url https://ieeexplore.ieee.org/abstract/document/8652046/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of hippocampal spiking network and its real-time simulation on dynamical neuromodulation of oscillations
+     Author ['S Yang', 'B Deng', 'H Li', 'C Liu', 'J Wang', 'H Yu', 'Y Qin']
+     Venue Neurocomputing
+     Year 2018
+     Abstract The hardware implementation is on an Altera Stratix III EP3SE260 FPGA, which can deal with the resource-consuming design and complex algorithm validation  Mirror-image memory technology uses two groups of RAMs to store the variable values of two continuous steps
+     Url https://www.sciencedirect.com/science/article/pii/S0925231217318751
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A general framework for FPGA-based real-time emulation of electrical machines for HIL applications
+     Author ['NR Tavana', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2014
+     Abstract 1 A General Framework for FPGA-Based Real-Time Emulation of Electrical Machines for HIL  This paper presents a digital hardware emulation of commonly used electrical machines for HIL simu- lation on the field programmable gate arrays (FPGA) in a general framework
+     Url https://ieeexplore.ieee.org/abstract/document/6915878/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA simulation of surrogate models of large spiking networks
+     Author ['M Berzish', 'C Eliasmith', 'B Tripp']
+     Venue International Conference on Artificial …
+     Year 2016
+     Abstract Having defined this continuous variable, we can specify a decoding operation for estimating the input  The centre plot is a hardware simulation of the same recurrent network  neural simulator [1] with a custom backend that translates neural models to FPGA configuration data
+     Url https://link.springer.com/chapter/10.1007/978-3-319-44778-0_41
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Large-scale real-time electromagnetic transient simulation of power systems using hardware emulation on FPGAs
+     Author ['Y Chen']
+     Venue NA
+     Year 2012
+     Abstract parallelled EMT solution algorithm is described that accommodates the parallel FPGA architecture. For inclusion of nonlinear elements in power system, a parallel iterative nonlinear network solver is described that uses Newton-Raphson method both continuous and piecewise
+     Url https://era.library.ualberta.ca/items/93fed049-1d24-4bde-b1c4-accafa65e12f
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Fpga-based real-time simulation of a dual three-phase induction machine
+     Author ['R Gregor', 'G Valenzano']
+     Venue 2014 16th European …
+     Year 2014
+     Abstract vehicles, ship propulsion and recently in wind power systems [8]. The DTPIM is a continuous system which  HF, Ould-Bachir T., David JP: A State-Space Modeling Approach for the FPGA-Based Real  [4] Parma GG, Dinavahi V.: Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/6911031/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A real-time virtual manipulator simulation platform based on FPGA
+     Author ['J Hu', 'B Deng', 'S Yang', 'X Wei']
+     Venue 2019 Chinese Control …
+     Year 2019
+     Abstract the manipulator mentioned above, the hardware model of the manipulator is built on the FPGA hardware platform, and the fixed-point control is carried out with a simple PD controller. In order to implement the model in hardware digital circuit, the continuous differential equation
+     Url https://ieeexplore.ieee.org/abstract/document/8865804/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract high chopper frequency of the emulation part would be useful to impose a continuous current idcm  22] C. Dufour, J. Bélanger, S. Abourida, V. Lapointe, “FPGA-Based Real  Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract From a hardware architectural point of view, the DRTS can be divided into the following categories: (a) PC-based, (b) custom-processor based, (c) super-computer based, and (d) FPGA based  Simulation on FPGA is a good solution to achieve this particular performance
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real time hardware implementation of a new Duffing's chaotic attractor
+     Author ['S Sadoudi', 'MS Azzaz', 'C Tanougast']
+     Venue 2009 16th IEEE …
+     Year 2009
+     Abstract However, it should be noted that the continuous chaotic signals are real  values as defined in the Section 2. It can be seen that the functional hardware simulation results are  a hardware implementation of the proposed Duffing's chaotic oscillator using Virtex-II Xilinx FPGA [20] is
+     Url https://ieeexplore.ieee.org/abstract/document/5410866/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time digital simulation of power electronics systems with neutral point piloted multilevel inverter using FPGA
+     Author ['M Rakotozafy', 'P Poure', 'S Saadate', 'C Bordas']
+     Venue Electric power systems …
+     Year 2011
+     Abstract 2. Top-Down approach. Fig. 2 shows the proposed FPGA-based implementation methodology. First, the continuous reference model must satisfy all of the required functionalities. In the case of this study, the reference model is built with PLECS software
+     Url https://www.sciencedirect.com/science/article/pii/S0378779610002695
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A state-space modeling approach for the FPGA-based real-time simulation of high switching frequency power converters
+     Author ['HF Blanchette', 'T Ould-Bachir']
+     Venue IEEE Transactions on …
+     Year 2011
+     Abstract Page 5. BLANCHETTE et al.: STATE-SPACE MODELING APPROACH FOR FPGA-BASED SIMULATION OF POWER CONVERTER  The state-space approach provides network equations in a continuous form that need to be discretized to conduct a time- domain simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6117078/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title LastLayer: Towards Hardware and Software Continuous Integration
+     Author ['L Vega', 'J Roesch', 'J McMahan', 'L Ceze']
+     Venue IEEE Micro
+     Year 2020
+     Abstract LastLayer, an open-source tool1 that enables hardware and software continuous integration and  Index terms— hardware simulation, hardware language inter- operability, agile hardware design  also fostered the creation of multiple hardware tools such as FPGA frameworks [16
+     Url https://ieeexplore.ieee.org/abstract/document/9099634/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title IoTs enable active contour modeling based energy efficient and thermal aware object tracking on FPGA
+     Author ['SHA Musavi', 'BS Chowdhry', 'T Kumar', 'B Pandey']
+     Venue Wireless Personal …
+     Year 2015
+     Abstract Frame buffer is used to store continuous image frame to calculate the relative motion of object with respect to  In future, we can go for hardware simulation of electronic component other than frame buffer used in object tracking. Here, we are using 28 nm technology based FPGA
+     Url https://link.springer.com/article/10.1007/s11277-015-2753-z
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real time hardware implementation of a new Duffing's chaotic attractor
+     Author ['S Sadoudi', 'MS Azzaz', 'C Tanougast']
+     Venue 2009 16th IEEE …
+     Year 2009
+     Abstract However, it should be noted that the continuous chaotic signals are real  values as defined in the Section 2. It can be seen that the functional hardware simulation results are  a hardware implementation of the proposed Duffing's chaotic oscillator using Virtex-II Xilinx FPGA [20] is
+     Url https://ieeexplore.ieee.org/abstract/document/5410866/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Large-scale real-time electromagnetic transient simulation of power systems using hardware emulation on FPGAs
+     Author ['Y Chen']
+     Venue NA
+     Year 2012
+     Abstract parallelled EMT solution algorithm is described that accommodates the parallel FPGA architecture. For inclusion of nonlinear elements in power system, a parallel iterative nonlinear network solver is described that uses Newton-Raphson method both continuous and piecewise
+     Url https://era.library.ualberta.ca/items/93fed049-1d24-4bde-b1c4-accafa65e12f
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A hardware Gaussian noise generator using the Wallace method
+     Author ['DU Lee', 'W Luk', 'JD Villasenor', 'G Zhang']
+     Venue … Transactions on Very …
+     Year 2005
+     Abstract such that the output rates are not constant, which is undesirable in a hardware simulation environment  by concurrent execution: 20 parallel instances of the noise generator on an XC2V4000-6 FPGA at 115  4] A. Bergstrom, “Gaussian estimation of mixed-order continuous-time
+     Url https://ieeexplore.ieee.org/abstract/document/1512179/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware accelerated simulation tool (HAST)
+     Author ['VS Lin', 'RJ Speelman', 'CI Daniels']
+     Venue 2005 IEEE …
+     Year 2005
+     Abstract has additional hardware that interpolates between adjacent coefficients for more continuous and realistic  the next section provides a short description of the FPGA-based hardware emulation platform and the communication interface between the software and the hardware
+     Url https://ieeexplore.ieee.org/abstract/document/1559437/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Dynamic variable time-stepping schemes for real-time FPGA-based nonlinear electromagnetic transient emulation
+     Author ['Z Shen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2017
+     Abstract Section IV briefly describes the real-time emulation applications on an FPGA, introduces HLS, and then presents the FPGA im- plementation  3) Piecewise NR (PNR) Method: The NR method uses continuous functions to describe the nonlinear elements, while the PNR method
+     Url https://ieeexplore.ieee.org/abstract/document/7815355/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time digital simulation of power electronics systems with neutral point piloted multilevel inverter using FPGA
+     Author ['M Rakotozafy', 'P Poure', 'S Saadate', 'C Bordas']
+     Venue Electric power systems …
+     Year 2011
+     Abstract 2. Top-Down approach. Fig. 2 shows the proposed FPGA-based implementation methodology. First, the continuous reference model must satisfy all of the required functionalities. In the case of this study, the reference model is built with PLECS software
+     Url https://www.sciencedirect.com/science/article/pii/S0378779610002695
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A software-hardware cosynthesis approach to digital system simulation
+     Author ['KA Olukotun', 'R Helaihel', 'J Levitt', 'R Ramirez']
+     Venue IEEE Micro
+     Year 1994
+     Abstract Event con- trol-free blocks include continuous assignment blocks and simple always blocks  Hardware synthesis FPGAs are an ideal implementation medium for hardware simulation because they  a perimeter of programmable input/output b1ocks.l The processor-FPGA interface
+     Url https://ieeexplore.ieee.org/abstract/document/296157/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A scalable FPGA architecture for randomly connected networks of hodgkin-huxley neurons
+     Author ['K Akbarzadeh-Sherbaf', 'B Abdoli', 'S Safari']
+     Venue Frontiers in …
+     Year 2018
+     Abstract Implementing a continuous model in a digital computing machine is done by discretizing the model which results in more arithmetic operations  A custom hardware design using either ASIC or FPGA is an alternative way that is more amenable to parallelism
+     Url https://www.frontiersin.org/articles/10.3389/fnins.2018.00698/full
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A Gaussian noise generator for hardware-based simulations
+     Author ['DU Lee', 'W Luk', 'JD Villasenor']
+     Venue IEEE Transactions on …
+     Year 2004
+     Abstract We describe a hardware-based Gaussian noise generator used as a key component in a hardware simulation system, for exploring channel code  An implementation at 133MHz on a Xilinx Virtex-II XC2V4000-6 FPGA produces 133 million samples per second, which is seven
+     Url https://ieeexplore.ieee.org/abstract/document/1347079/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time simulation of renewable energy source power converters
+     Author ['T Kökényesi', 'I Varjasi']
+     Venue Journal of Energy and Power …
+     Year 2013
+     Abstract Page 5. FPGA-Based Real-Time Simulation of Renewable Energy Source Power Converters 172 computation periods  These continuous time methods require the implementation of digital integrators to store the values of the state variables
+     Url http://search.proquest.com/openview/35128ccac1f88307b69ebbfdb07341ae/1.pdf?pq-origsite=gscholar&cbl=2029951
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract Two processing flows are generated inside this FPGA  at different time scales (from single event to learning sequence) is a specificity of this hardware simulation system  The neuron models are computed in continuous time on the analog hardware layer, whereas connectivity is
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time simulation of state-space models using floating-point cores
+     Author ['TO Bachir', 'JP David']
+     Venue Proceedings of 14th International Power …
+     Year 2010
+     Abstract In this paper, we propose an efficient interlacing technique to effectively incorporate commercially available floating-point cores into FPGA designs in state-space  B; xk = x(k∆t), yk = y(k∆t) and uk = u(k∆t), are equally- spaced, sampled values of the continuous model quantities
+     Url https://ieeexplore.ieee.org/abstract/document/5606584/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based hardware-in-the-loop for multi-domain simulation
+     Author ['AD Benhamadouche', 'F Djahli', 'A Ballouti']
+     Venue International Journal of …
+     Year 2019
+     Abstract 7. PID structure in continuous-time domain  a practical case study of a controlled power converter is used, where the digital controller is implemented in FPGA and the  7. Parma GG, Dinavahi V., Real-time digital hardware simulation of power electronics and drives, IEEE Trans
+     Url https://www.worldscientific.com/doi/abs/10.1142/S179396231950020X
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract FPGA as a signal conditioning and coprocessing device for the analog and digital inputs and outputs. A pictorial view of such a system is shown in Fig. 6  With continuous customer support, these simulators can be used to accommodate any special needs of the consumers
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Fpga-based simulation of power electronics using iterative methods
+     Author ['H Zhang', 'J Sun']
+     Venue 2014 International Power Electronics …
+     Year 2014
+     Abstract Impulse invariance and bilinear transformation are standard methods for the discretization of continuous domain transfer function  852-860,2010. [5] Parma, GG and Y. Dinavahi, "Real-time digital hardware simulation of power  [6] Myaing, A and Y. Dinavahi, "FPGA-based real
+     Url https://ieeexplore.ieee.org/abstract/document/6869894/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Exploring the limits of floating-point resolution for hardware-in-the-loop implemented with fpgas
+     Author ['A Sanchez', 'E Todorovich', 'A De Castro']
+     Venue Electronics
+     Year 2018
+     Abstract [27] presented one of the first examples of a HIL model using floating-point in an FPGA  If the current is positive, the diode is conducting (called CCM or Continuous Current Mode) and the inductor voltage is v g − v c , while the capacitor current is i L − i R , so the state variables
+     Url https://www.mdpi.com/2079-9292/7/10/219
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-Based Real-Time Simulation Platform for Large-Scale STN-GPe Network
+     Author ['M Chen', 'L Zu', 'H Wang', 'F Su']
+     Venue IEEE Transactions on Neural …
+     Year 2020
+     Abstract PD [4], [5]. At present, clinically-deployed DBS operates in open-loop mode, where continuous high frequency stimulation with fixed parameters  DESIGN OF HARDWARE SIMULATION PLATFORM The overall implementation process on the FPGA digital circuits
+     Url https://ieeexplore.ieee.org/abstract/document/9208688/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Synchronization control of stochastic delayed Lotka–Volterra systems with hardware simulation
+     Author ['L Wang', 'Y Dong', 'D Xie', 'H Zhang']
+     Venue Advances in Difference Equations
+     Year 2020
+     Abstract the main theoretical results based on the Field-Programmable Gate Array hardware simulation tool  to demonstrate the validity of the proposed methods based on the FPGA hardware tool  0}\) satisfying the usual conditions (ie, it is increasing and right continuous while \(\mathscr
+     Url https://link.springer.com/article/10.1186/s13662-019-2474-9
+

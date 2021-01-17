@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing improvements in the chocolate traceability system: Impact on product recalls and production efficiency
+     Author ['R Saltini', 'R Akkerman']
+     Venue Food Control
+     Year 2012
+     Abstract Testing improvements in the chocolate traceability system: Impact on product recalls and production  In this paper we propose two hypothetical improvements of the traceability system within the  and supply chain and we illustrate the resulting benefits by using a case study
+     Url https://www.sciencedirect.com/science/article/pii/S095671351100288X
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Reconstructing traceability between bugs and test cases: An experimental study
+     Author ['N Kaushik', 'L Tahvildari', 'M Moore']
+     Venue 2011 18th Working …
+     Year 2011
+     Abstract In the case of manual testing, the process of finding the most relevant manual  We report on our experience of recovering traceability between bugs and test cases using  as Latent Semantic Indexing (LSI) and Latent Dirichlet Allocation (LDA) through a small industrial case study
+     Url https://ieeexplore.ieee.org/abstract/document/6079869/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Alignment of requirements specification and testing: A systematic mapping study
+     Author ['ZA Barmi', 'AH Ebrahimi', 'R Feldt']
+     Venue … on Software Testing …
+     Year 2011
+     Abstract into scenario-based formal language which in turn could be linked to software verification [2]. Bouquet et al  Weak 7 20 Medium 17 49 Strong 11 31 Total 35 With case study 16 46  approaches, Test cases, Problems and set of good practices in aligning requirements and testing
+     Url https://ieeexplore.ieee.org/abstract/document/5954452/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Designing blockchain-based applications a case study for imported product traceability
+     Author ['X Xu', 'Q Lu', 'Y Liu', 'L Zhu', 'H Yao', 'AV Vasilakos']
+     Venue Future Generation …
+     Year 2019
+     Abstract 4.2. Methodology. In this case study, we first extracted a traceability process with adaptable scenarios from the current traceability system of our partner  If the batch of products passes all the inspections and testing, the traceability company issues the supplier a Traceability
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X18314298
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Measurement traceability and its role in proficiency testing schemes–a case study for wastewater analysis in Slovenia
+     Author ['A Drolc', 'M Cotman', 'M Ros', 'N Majcen']
+     Venue Accreditation and quality assurance
+     Year 2006
+     Abstract This paper reports how measurement traceability of results of field laboratories in the area of wastewater analysis can be demonstrated by participation in a proficiency testing scheme based on reference values. A description of the scheme, organized by the National Institute
+     Url https://link.springer.com/article/10.1007/s00769-006-0112-1
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Implementing requirements traceability: a case study
+     Author ['B Ramesh', 'T Powers', 'C Stubbs']
+     Venue Proceedings of 1995 …
+     Year 1995
+     Abstract The W ST was chosen as the subject of this case study after an extensive search for an organization that uses  and use of resources by various system components 1. As the ADIP has not reached the testing stage, the model represents the traceability mechanisms WST
+     Url https://ieeexplore.ieee.org/abstract/document/512549/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Mbsrt2: Model-based selective regression testing with traceability
+     Author ['L Naslavsky', 'H Ziv']
+     Venue … on Software Testing …
+     Year 2010
+     Abstract Page 1. MbSRT2: Model-based Selective Regression Testing with Traceability  Traceability relationships used to select test cases for model-based regression testing do not necessarily need to be obtained as an afterthought
+     Url https://ieeexplore.ieee.org/abstract/document/5477097/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Adaptable blockchain-based systems: A case study for product traceability
+     Author ['Q Lu', 'X Xu']
+     Venue IEEE Software
+     Year 2017
+     Abstract Based Systems A Case Study for Product Traceability Qinghua Lu and Xiwei Xu  If a testing sample involves multi- ple labs for crosschecking, signatures from all the labs are required before the traceability application can un- dergo further processing
+     Url https://ieeexplore.ieee.org/abstract/document/8106871/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Establishing traceability links between unit test cases and units under test
+     Author ['B Van Rompaey', 'S Demeyer']
+     Venue 2009 13th European Conference …
+     Year 2009
+     Abstract [10]. Recently, in a case study on an industrial system Lormans et al  This task of establishing traceability links is part of the questionnaire shown in Table 1. In the main question of the survey (question 5.), we ask  1. Which testing conventions and guidelines exist in your project
+     Url https://ieeexplore.ieee.org/abstract/document/4812754/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title On the gamification of human-centric traceability tasks in software testing and coding
+     Author ['RM Parizi']
+     Venue 2016 IEEE 14th International Conference on …
+     Year 2016
+     Abstract In this case study, the effectiveness of DF A in identification of test-to-code traceability links  we propose an engaging approach built into the project environment for achieving traceability information with minimal effort for developers to facilitate software testing/maintenance
+     Url https://ieeexplore.ieee.org/abstract/document/7516146/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Recovering traceability links between unit tests and classes under test: An improved method
+     Author ['A Qusef', 'R Oliveto', 'A De Lucia']
+     Venue 2010 IEEE International …
+     Year 2010
+     Abstract However, the case study also highlights the limitations of the experimented traceability recovery approaches, showing that detecting the class under test cannot be fully automated and some issues are still under study. Index Terms—Unit testing; Traceability; Empirical Studies
+     Url https://ieeexplore.ieee.org/abstract/document/5609581/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract our use of the Model-Based Testing process for smart card software validation testing: - Modeling for  Generation of Test Sequences from Formal Specifications: GSM 11-11 Standard Case Study  Leaton, C. M. Lott, GC Patton, and BM Horowitz, Model-Based Testing in Practice
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Achievements and challenges in state-of-the-art software traceability between test and code artifacts
+     Author ['RM Parizi', 'SP Lee', 'M Dabbagh']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract This criterion determines how the approach was evaluated in the original work, ie by case study, survey study, or controlled  Therefore, developing adequate COTS test-to-code traceability tools for the needs of the software engineering industry, particularly testing, would be
+     Url https://ieeexplore.ieee.org/abstract/document/6862933/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Measurement uncertainty, traceability and evaluation of test results in testing laboratories
+     Author ['G Beges', 'J Drnovsek', 'I Pusnik']
+     Venue … Science and Technology
+     Year 2002
+     Abstract The example is chosen as a useful case study, as well as a very illustrative example, where many dilemmas could be highlighted  Therefore, knowledge and awareness of all facts about calibration, testing requirements and traceability are essential
+     Url https://iopscience.iop.org/article/10.1088/0957-0233/13/4/320/meta
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Getting more from requirements traceability: Requirements testing progress
+     Author ['C Ziftci', 'I Krüger']
+     Venue … 7th International Workshop on Traceability in …
+     Year 2013
+     Abstract In the case that it does not exist at all, one of the existing requirements traceability techniques in the literature [1, 4, 15] can be used to reverse engineer it  V. DISCUSSION Based on our case study results, our metric is useful to estimate the testing progress over
+     Url https://ieeexplore.ieee.org/abstract/document/6620148/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Mitigating threats to validity in empirical software engineering: A traceability case study
+     Author ['N Mustafa', 'Y Labiche', 'D Towey']
+     Venue 2019 IEEE 43rd Annual …
+     Year 2019
+     Abstract U. Raja, and K. Kamran, “Requirements traceability: systematic review and industry case study,” Int  Traceability in Automated Test Generation - Application to Smart Card Software Validation ,” in 1st international workshop on Advances in model-based testing, 2005, vol
+     Url https://ieeexplore.ieee.org/abstract/document/8754344/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Requirements traceability: a systematic review and industry case study
+     Author ['R Torkar', 'T Gorschek', 'R Feldt']
+     Venue … Journal of Software …
+     Year 2012
+     Abstract Requirements Traceability: A Systematic Review and Industry Case Study 391  Study [9] Deciding to Adopt Requirements Traceability in Practice [10] Requirements Traceability in Automated Test Generation Application to Smart Card Software Validation [11] Tracing
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401250009X
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability in model-based testing
+     Author ['M George', 'KP Fischer-Hellmann', 'M Knahl', 'U Bleimann']
+     Venue Future Internet
+     Year 2012
+     Abstract Since the models and tests are the integral parts of model-based testing, traceability between these artifacts and elements are important for navigating from  In the ongoing research we will undertake a case study for the proof of concept and quantify the benefits of our approach
+     Url https://www.mdpi.com/1999-5903/4/4/1026
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Tracing requirements in a model-based testing approach
+     Author ['F Abbors', 'D Truscan', 'J Lilius']
+     Venue … on Advances in System Testing …
+     Year 2009
+     Abstract require- ments traceability approach while providing small ex- amples from a telecommunications case study  in Automated Test Generation: Application to Smart Card Software Validation,” in Proceedings of the 1st international workshop on Advances in model-based testing
+     Url https://ieeexplore.ieee.org/abstract/document/5279414/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability case study on rail vehicle control unit development project
+     Author ['N Pavkovic', 'Z Tecec Ribaric']
+     Venue DS 70: Proceedings of …
+     Year 2012
+     Abstract study methodology and results. A description of HW and SW testing process specific for industrial partner which participated in case study is given to illustrate the proposed traceability records structure. Last chapter of paper
+     Url https://www.designsociety.org/download-publication/32126/traceability_case_study_on_rail_vehicle_control_unit_development_project
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A higher order generative framework for weaving traceability links into a code generator for web application testing
+     Author ['P Fraternali', 'M Tisi']
+     Venue International Conference on Web Engineering
+     Year 2009
+     Abstract We use WebML to model a sim- plified Web application, derive testing sessions, generate the code with model- to-implementation traceability links, and perform regression testing with the support of the application model. As a case study, we consider a Product Cata- log Web
+     Url https://link.springer.com/chapter/10.1007/978-3-642-02818-2_28
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Factors influencing requirements traceability practice
+     Author ['B Ramesh']
+     Venue Communications of the ACM
+     Year 1998
+     Abstract various stakeholders in systems development, and a longitudinal case study of traceability  users (system maintainer) and producers (system designer) of traceability information  system engineer- ing, training, requirements man- agement, system testing, integration, configuration
+     Url https://dl.acm.org/doi/pdf/10.1145/290133.290147
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Can LSI help reconstructing requirements traceability in design and test?
+     Author ['M Lormans', 'A Van Deursen']
+     Venue Conference on Software …
+     Year 2006
+     Abstract 1. Can LSI help in reconstructing meaningful requirements—design and requirements—test case traceability relations  The first is a lab study, Pacman, used in a testing course at Delft  The second case study is part of a software engineer- ing course at Eindhoven University of
+     Url https://ieeexplore.ieee.org/abstract/document/1602357/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Using tool integration for improving traceability management testing processes: An automotive industrial experience
+     Author ['D Amalfitano', 'V De Simone', 'RR Maietta']
+     Venue Journal of Software …
+     Year 2019
+     Abstract It shows how we applied this process to improve the traceability management of the MIL/SIL testing process; It provides a new case study aimed at demonstrating how the application of the proposed tool integration solution improved the original MIL/SIL testing process
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2171
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract 1. Introduction The importance of linking testing and requirements, eg, via test traceability has been investigated in a recent case study reporting practices  In this work, an emerging trend in industry, employ- ing software verification, is integrated into the development
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Software traceability: a roadmap
+     Author ['G Spanoudakis', 'A Zisman']
+     Venue Handbook Of Software Engineering And …
+     Year 2005
+     Abstract Furthermore, they may facilitate: (a) System testing by relating requirements with test models and  In this paper, we organize the various types of traceability relations pro- posed in the  In the case study developed in [51], generalization abstractions are seen as a special type of
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789812775245_0014
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Automated transition from use cases to UML state machines to support state-based testing
+     Author ['T Yue', 'S Ali', 'L Briand']
+     Venue European Conference on Modelling Foundations …
+     Year 2011
+     Abstract use cases to state machines would provide significant, practical help for testing system re  to automatically generate state machine diagrams from use cases while establishing traceability links  a tool, which we used to perform three case studies, including an industrial case study
+     Url https://link.springer.com/chapter/10.1007/978-3-642-21470-7_9
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Test management traceability model to support software testing documentation
+     Author ['A Azmi', 'S Ibrahim']
+     Venue International Conference on Digital Information and …
+     Year 2011
+     Abstract Ibrahim, S., Idris, NB, Uk, MM, Deraman, A.: Implementing a document-based requirements traceability: A case study  Azmi, A., Ibrahim, S., Mahrin, MN: A software traceability model to support software testing documentation. In: Proc
+     Url https://link.springer.com/chapter/10.1007/978-3-642-22027-2_3
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture
+     Author ['R Wohlrab', 'E Knauss', 'JP Steghöfer', 'S Maro']
+     Venue Requirements …
+     Year 2020
+     Abstract Search SpringerLink Search. Original Article; Open Access; Published: 21 November 2018. Collaborative traceability management: a multiple case study from the perspectives of organization, process, and culture
+     Url https://link.springer.com/article/10.1007/s00766-018-0306-1
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Security testing by telling teststories
+     Author ['M Felderer', 'B Agreiter', 'R Breu', 'A Armenteros']
+     Venue Modellierung 2010
+     Year 2010
+     Abstract Our approach is based on the Telling TestStories methodology for model–driven system testing  We show how traceability between all artifacts can be established and how the tests can be executed focusing on security  All steps are explained based on an industrial case study
+     Url https://dl.gi.de/handle/20.500.12116/19697
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A multiple case study on risk-based testing in industry
+     Author ['M Felderer', 'R Ramler']
+     Venue International Journal on Software Tools for …
+     Year 2014
+     Abstract projects. Development and testing follows V-model; Traceability of requirements, features and components. 3.3 Data collection procedure. The case study is based on data from the three selected cases described in Sect. 4. For
+     Url https://link.springer.com/article/10.1007/s10009-014-0328-z
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title The quest for ubiquity: A roadmap for software and systems traceability research
+     Author ['O Gotel', 'J Cleland-Huang', 'JH Hayes']
+     Venue 2012 20th IEEE …
+     Year 2012
+     Abstract Traceability underlies many important software and systems engineering activities, such as change impact analysis and regression testing. Despite important research advances, as in the automated creation and maintenance
+     Url https://ieeexplore.ieee.org/abstract/document/6345841/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Traceability case study on rail vehicle control unit development project
+     Author ['N Pavkovic', 'Z Tecec Ribaric']
+     Venue DS 70: Proceedings of …
+     Year 2012
+     Abstract study methodology and results. A description of HW and SW testing process specific for industrial partner which participated in case study is given to illustrate the proposed traceability records structure. Last chapter of paper
+     Url https://www.designsociety.org/download-publication/32126/traceability_case_study_on_rail_vehicle_control_unit_development_project
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A Requirements-to-Implementation Mapping Tool for Requirements Traceability.
+     Author ['JE Garcia', 'ACR Paiva']
+     Venue JSW
+     Year 2016
+     Abstract activities such as analyzing the impact of changes and software verification and validation  Automating software traceability in very small companies: A case study and lessons learne  She teaches subjects like software testing, formal methods and software engineering, among
+     Url http://www.jsoftware.us/vol11/135-S062.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title … the scientific challenges in moving from targeted to non-targeted methods for food fraud testing and how can they be addressed?–Spectroscopy case study
+     Author ['TF McGrath', 'SA Haughey', 'J Patterson']
+     Venue Trends in Food Science …
+     Year 2018
+     Abstract What are the scientific challenges in moving from targeted to non-targeted methods for food fraud testing and how can they be addressed? – Spectroscopy case study  Difficult to obtain authentic samples with full traceability for model building. •
+     Url https://www.sciencedirect.com/science/article/pii/S0924224417307938
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A test generation solution to automate software testing
+     Author ['F Bouquet', 'C Grandpierre', 'B Legeard']
+     Venue Proceedings of the 3rd …
+     Year 2008
+     Abstract In this precise case study, the scope of the functional testing and the system observation points  Requirement Traceability in Automated Test Generation - Application to Smart Card Software Validation  Workshop on Advances in Model-Based Software Testing (A- MOST'05), St
+     Url https://dl.acm.org/doi/abs/10.1145/1370042.1370052
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Benefits of traceability in fish supply chains–case studies
+     Author ['N Mai', 'SG Bogason', 'S Arason', 'SV Árnason']
+     Venue British Food …
+     Year 2010
+     Abstract benefit evaluation framework of an electronic‐based traceability system, using WaterCo natural mineral water company as a case study  expect to save costs of routine analytical (eg microbiological) tests if they couple their traceability system with fast testing methods such
+     Url https://www.emerald.com/insight/content/doi/10.1108/00070701011074354/full/html
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A principal-agent model for evaluating the economic value of a traceability system: A case study with injection-site lesion control in fed cattle
+     Author ['MA Resende-Filho', 'BL Buhr']
+     Venue American Journal of Agricultural …
+     Year 2008
+     Abstract Article Navigation. A Principal-Agent Model for Evaluating the Economic Value of a Traceability System: A Case Study with Injection-site Lesion Control in Fed Cattle. Moises A. Resende-Filho. assistant professor. Departamento
+     Url https://academic.oup.com/ajae/article-abstract/90/4/1091/148035
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Recovering traceability links between code and documentation
+     Author ['G Antoniol', 'G Canfora', 'G Casazza']
+     Venue IEEE transactions on …
+     Year 2002
+     Abstract complete and comprehensive test cases, and to infer requirement coverage from structure coverage during testing  We believe that IR techniques can provide a way to semiautomatically recovering traceability links between  In the first case study, the C++ classes of the LEDA
+     Url https://ieeexplore.ieee.org/abstract/document/1041053/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Challenges of aligning requirements engineering and system testing in large-scale agile: A multiple case study
+     Author ['FGDO Neto', 'J Horkoff', 'E Knauss']
+     Venue 2017 IEEE 25th …
+     Year 2017
+     Abstract [12] proposes a set of practices to align RE and ST such as use of metrics and traceability with tool  and discuss during the workshop, and iii) a group of practitioners, that we refer here to as a FG involved in RE and testing activities to  Table I presents our case study's planning
+     Url https://ieeexplore.ieee.org/abstract/document/8054871/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A computerised database system for bovine traceability
+     Author ['R Houston']
+     Venue Revue Scientifique et Technique-Office International …
+     Year 2001
+     Abstract database has evolved into the current, second generation system and this case study details that  date, and print test sheets which detail all animals requiring testing in each  This comprehensive traceability system was highly cost-effective in rapidly identifying possible disease
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.125.4265&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A higher order generative framework for weaving traceability links into a code generator for web application testing
+     Author ['P Fraternali', 'M Tisi']
+     Venue International Conference on Web Engineering
+     Year 2009
+     Abstract We use WebML to model a sim- plified Web application, derive testing sessions, generate the code with model- to-implementation traceability links, and perform regression testing with the support of the application model. As a case study, we consider a Product Cata- log Web
+     Url https://link.springer.com/chapter/10.1007/978-3-642-02818-2_28
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Realising the potential of traceability: a case study research on usage and impacts of product traceability
+     Author ['I Töyrylä']
+     Venue NA
+     Year 1999
+     Abstract 97 REALISING THE POTENTIAL OF TRACEABILITY - A case study research on usage and impacts of product traceability ILKKA TÖYRYLÄ  Page 2. 2 Töyrylä, Ilkka, Realising the potential of traceability - A case study research on usage and impacts of product traceability
+     Url https://aaltodoc.aalto.fi/handle/123456789/2506
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Test-to-code traceability: Why and how?
+     Author ['A Qusef']
+     Venue 2013 IEEE Jordan Conference on Applied Electrical …
+     Year 2013
+     Abstract Keywords—Agile Development,Unit testing; Traceability; Slic- ing; Conceptual Coupling  Actually, this scenario was considered by ANSI/IEEE Standard on Software Unit Testing [16] as a major challenge in establishing test-to-code traceability links. • Test Helpers
+     Url https://ieeexplore.ieee.org/abstract/document/6716450/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A framework for traceability and transparency in the dairy supply chain networks
+     Author ['RR Pant', 'G Prakash', 'JA Farooquie']
+     Venue Procedia-Social and …
+     Year 2015
+     Abstract This paper follows a case study approach and presents findings from various types of dairy supply  of milk testing labs in the rural areas supported by advanced testing labs for testing of dairy  in the present study is to enhance quality, safety, transparency and traceability in Indian
+     Url https://cyberleninka.org/article/n/993918.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Toward reference models for requirements traceability
+     Author ['B Ramesh', 'M Jarke']
+     Venue IEEE transactions on software …
+     Year 2001
+     Abstract focus groups involving the various stakeholders, and an in- depth case study of traceability practice in one  development including project management, soft- ware engineering training, requirements management, soft- ware testing, system integration  traceability meta-model
+     Url https://ieeexplore.ieee.org/abstract/document/895989/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Agile non functional requiremnents (NFR) traceability metamodel
+     Author ['AFB Arbain', 'I Ghani']
+     Venue 2014 8th. Malaysian …
+     Year 2014
+     Abstract This case study will be conducted in two environment which are in academic (postgraduate class) and industry level and  In A Model-Based Testing Approach” First International Conference on Advances in System Testing and Validation  "Toward improved traceability of non
+     Url https://ieeexplore.ieee.org/abstract/document/6986019/
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title A study to support agile methods more effectively through traceability
+     Author ['A Espinoza', 'J Garbajosa']
+     Venue Innovations in Systems and Software …
+     Year 2011
+     Abstract Section 5 presents a case study to illustrate the con- cepts already introduced with an example; a discussion on the advantages and disadvantages of the approach is presented  Traceability types must be featured by a strong semantics; this way, testing techniques may
+     Url https://link.springer.com/content/pdf/10.1007/s11334-011-0144-5.pdf
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Reconstructing requirements coverage views from design and test using traceability recovery via LSI
+     Author ['M Lormans', 'A Van Deursen']
+     Venue … 3rd international workshop on Traceability …
+     Year 2005
+     Abstract coverage metric defined in Section 2. Currently, for every link defined in the traceability model we  PACMAN In this section we will discuss our preliminary results from the a case study we executed  lab experiment and is used by students in a lab course for testing object oriented
+     Url https://dl.acm.org/doi/abs/10.1145/1107656.1107665
+
+
+     Search term "Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title An exploratory case study of the maintenance effectiveness of traceability models
+     Author ['A Bianchi', 'AR Fasolino']
+     Venue Proceedings IWPC 2000 …
+     Year 2000
+     Abstract An Exploratory Case Study of the Maintenance Effectiveness of Traceability Models  An exploratory case study evaluating the relationship between the granularity of the traceability model adopted and the effectiveness of the maintenance process is presented in this paper
+     Url https://ieeexplore.ieee.org/abstract/document/852489/
+

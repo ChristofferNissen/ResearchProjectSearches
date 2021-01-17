@@ -1,0 +1,55 @@
+Showing papers for search query "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Concurrent Engineering in OpenGL's Product Development
+     Author ['RJ Casey', 'LL Lindstone']
+     Venue HEWLETT PACKARD JOURNAL
+     Year 1998
+     Abstract Evolving this environment for hardware verification re- quired us to take the prototyping further than we would have for software verification alone  Hardware Simulation One key factor in our concurrent engineering process is hardware simulation
+     Url https://www.hpl.hp.com/hpjournal/98may/may98a6.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Design for test in automotive electronics
+     Author ['S Stoica']
+     Venue Proceedings of 3rd International Workshop on the …
+     Year 1994
+     Abstract Hence, ,only ,in a ,concurrent ,engineering environment, ,where  challenge ,for the ,ECAD ,industry ,to ,produce tools ,that ,are targeted for a mixed-signal environment for hard- ,38 ,ware ,test ,and ,for ,automatic ,software ,validation  In ,addition to ,hardware ,simulation ,tools ,we
+     Url https://www.computer.org/csdl/proceedings-article/icedtm/1994/00496090/12OmNzZmZo2
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The 5ESS‐2000 Switch: Exceeding Customer Expectations
+     Author ['HG Holland', 'CP Huang', 'CE Jeschke']
+     Venue AT&T Technical …
+     Year 1994
+     Abstract Improved Hardware Simulation  initiatives were introduced for the hardware-component selection process for the 5ESS-2000 switch project, which provided for increased concurrent engineering, as well as enhancement of design for reliability, quality, and logis- tics
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1994.tb00617.x
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Using matlab for mixed-signal verification of a software radio ASIC
+     Author ['PM Overs']
+     Venue IEE Colloquium on DSP enabled Radio
+     Year 2003
+     Abstract The concurrent engineering approach allowed full cross verification of the following things  that we had in all environments (Matlab simulation, software simulation, hardware simulation and hardware  Figure 3 shows the basic flow for software verification against the Matlab model
+     Url https://digital-library.theiet.org/content/conferences/10.1049/ic.2003.0320
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtualization Based Development
+     Author ['J Yantchev', 'A Parashkevov']
+     Venue Concurrency, Security, and Puzzles
+     Year 2017
+     Abstract an interface stub, a function emulation model, a detailed specification accurate hardware simulation model, a  For example, the ECU software verification and validation (V&V) test environment of the  one or more at a time in each sprint, in a concurrent engineering process where
+     Url https://link.springer.com/chapter/10.1007/978-3-319-51046-0_15
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A VHDL Simulator in a Co-verification Environment
+     Author ['K Melakari']
+     Venue NA
+     Year 1998
+     Abstract Page 17. 17 It is, however, possible to speed up hardware simulation by using hardware accelerators, which are specialised computers, allowing the gate-level HDL description to be executed faster than it would be with an ordinary workstation
+     Url https://www.vttresearch.com/sites/default/files/pdf/publications/1998/P355.pdf
+

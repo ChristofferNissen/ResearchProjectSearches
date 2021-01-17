@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Continuous"+"Software+Validation"
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Microservices validation: Mjolnirr platform case study
+     Author ['DI Savchenko', 'GI Radchenko']
+     Venue 2015 38th International …
+     Year 2015
+     Abstract Page 1. Microservices validation: Mjolnirr platform case study  One of the most important stages of the process of continuous integration and deployment is validation of the developed software  to provide a review of existing software validation methods to identify testing features
+     Url https://ieeexplore.ieee.org/abstract/document/7160271/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Caveat: A tool for software validation
+     Author ['P Baudin', 'A Pacalet', 'J Raguideau', 'D Schoen']
+     Venue … Systems and Networks
+     Year 2002
+     Abstract of model transformations, continuous deductive verification may help the transformation developer in early bug detection  Our case study presents an approximate 50% reuse of verification results for postconditions, and 70% reuse of verification results for sub-goals
+     Url https://www.computer.org/csdl/proceedings-article/dsn/2002/15970537/12OmNBkxsoZ
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Reproducible big data science: A case study in continuous FAIRness
+     Author ['R Madduri', 'K Chard', "M D'Arcy", 'SC Jung', 'A Rodriguez']
+     Venue PloS one
+     Year 2019
+     Abstract Research Article. Reproducible big data science: A case study in continuous FAIRness. Ravi Madduri  Roles Software, Validation. Affiliation Information Sciences Institute, University of Southern California, Los Angeles, California, United States of America
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213013
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title HybridFluctuat: A static analyzer of numerical programs within a continuous environment
+     Author ['O Bouissou', 'E Goubault', 'S Putot', 'K Tekkal']
+     Venue … on Computer Aided …
+     Year 2009
+     Abstract simplified version of 1 This work was partially funded by the ESA project ITI 19783 “Space Software Validation using Abstract  Kowalewski, S., Stursberg, O., Fritz, M., Graf, H., Preuß, IHJ, et al.: A case study in tool-aided analysis of discretely controlled continuous systems: the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-02658-4_46
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Improving validation activities in a global software development
+     Author ['C Ebert', 'CH Parro', 'R Suttels']
+     Venue Proceedings of the 23rd …
+     Year 2001
+     Abstract The challenges, which we will address in this case study, involve: 545  Several current best practices related to continuous build, configuration management, inspections and validations within a product line concept involving legacy software are elaborated in [2,8,12,13]
+     Url https://ieeexplore.ieee.org/abstract/document/919129/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Inception of software validation and verification practices within CMMI Level 2
+     Author ['P Monteiro', 'RJ Machado']
+     Venue 2009 Fourth International …
+     Year 2009
+     Abstract Inception of Software Validation and Verification Practices within CMMI Level 2  the dependencies between PAs that appear when a company uses the continuous representation to  of test sequences from formal specifications: GSM 11-11 standard case study,” Software: Practice
+     Url https://ieeexplore.ieee.org/abstract/document/5298751/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title ECSS standard compliant agile software development: an industrial case study
+     Author ['E Ahmad', 'B Raza', 'R Feldt', 'T Nordebäck']
+     Venue Proceedings of the 2010 …
+     Year 2010
+     Abstract Keywords Case Study, European Cooperation for Space Standardiza- tion, Agile Paradigm  The iterative development in agile ensures the continuous application of reviews and metrics  Software validation is about building the right product while software verification is about
+     Url https://dl.acm.org/doi/abs/10.1145/1890810.1890816
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Automatic test generation for the analysis of a real-time system: Case study
+     Author ['D Clarke', 'I Lee']
+     Venue … Third IEEE Real-Time Technology and …
+     Year 1997
+     Abstract the translation of real-time tests into a software test language for software validation purposes  As an illustration of this benefit, we describe the case study of using the automatic deriva  In both cases the constraints define continuous linear domains for valid time delays between 1
+     Url https://ieeexplore.ieee.org/abstract/document/601349/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Method validation in pharmaceutical analysis: A guide to best practice
+     Author ['J Ermer', 'JHMB Miller']
+     Venue NA
+     Year 2006
+     Abstract 1 Analytical Validation within the Pharmaceutical Environment 3 Joachim Ermer Regulatory Requirements 4 Integrated and Continuous Validation 5  Miller Introduction 170 Non- chromatographic Techniques Separation Techniques 171 3 170 Case Study: Validation of an
+     Url https://books.google.com/books?hl=de&lr=&id=HbBlyvlRgwkC&oi=fnd&pg=PR5&dq=%22Case+Study%22+%22Continuous%22+%22Software+Validation%22&ots=nWAuzNw9Ka&sig=GIa5OEfLNdhNVEUQ_E2RfDI4-sY
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title How to assure correctness and safety of medical software: the hemodialysis machine case study
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue … , Alloy, B, TLA, VDM, and Z
+     Year 2016
+     Abstract of medical software are the standard IEC 62304 [3] and the “General Principles of Software Validation” [21] established  Risk management was also not part of the case study description in [20]  This is a continuous activity along the ASM process till the desired level of refinement
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33600-8_30
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Unit testing, model validation, and biological simulation
+     Author ['GP Sarma', 'TW Jacobs', 'MD Watts', 'SV Ghayoomie']
+     Venue …
+     Year 2016
+     Abstract In this article, we give a focused case study of our experience with the practices of unit testing and test-driven development in OpenWorm, an open-science project aimed at modeling  Keywords: model, biology, software, validation, C. elegans, testing, quality control. Introduction
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007758/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Reference Case Study “Traffic Control Systems” for Comparison and Validation of Formal Specifications Using a Railway Model Demonstrator
+     Author ['F Hänsel', 'J Poliak', 'R Slovák', 'E Schnieder']
+     Venue Integration of Software …
+     Year 2004
+     Abstract Software validation in the context of an assessment process in railway engineering today often requires integration of hardware components (eg validation of the  This allows communication via continuous and discrete signals  Reference Case Study “Traffic Control Systems”
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27863-4_8
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Software analytics in continuous delivery: a case study on success factors
+     Author ['H Huijgens', 'D Spadini', 'D Stevens', 'N Visser']
+     Venue Proceedings of the 12th …
+     Year 2018
+     Abstract projects. CCS CONCEPTS • Software and its engineering → Empirical software validation; KEYWORDS Software  Arie van Deursen. 2018. Software Analytics in Continuous Delivery: A Case Study on Success Factors. In ACM / IEEE
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240505
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Changes of NOx in urban air detected with monitoring VIS-NIR field spectrometer during the coronavirus pandemic: A case study in Germany
+     Author ['P Naethe', 'M Delaney', 'T Julitta']
+     Venue Science of The Total Environment
+     Year 2020
+     Abstract 4. Conclusion. Three different classification and regression approaches were tested in this case study to retrieve information on urban air pollutants from continuous down-welling radiance measurements  Michael Delaney: Software, Validation, Writing - review & editing
+     Url https://www.sciencedirect.com/science/article/pii/S0048969720348154
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title A cloud-based TaaS infrastructure with tools for SaaS validation, performance and scalability evaluation
+     Author ['J Gao', 'K Manjula', 'P Roopa']
+     Venue … on Cloud Computing …
+     Year 2012
+     Abstract service model for software testing, in which on-demand test requests in software validation processes are  They can control the continuous execution of the same test suite for a selected  5. A Case Study To apply the developed TaaS system (CTaaS) for SaaS validation, we
+     Url https://ieeexplore.ieee.org/abstract/document/6427555/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title A unified approach for verification and validation of systems and software engineering models
+     Author ['L Alawneh', 'M Debbabi', 'F Hassaine']
+     Venue 13th Annual IEEE …
+     Year 2006
+     Abstract The continuous advancement in software and systems design led to the emergence of modern modeling languages, including the most prominent  We will illustrate our methodology with respect to verify- ing behavioral diagrams in the case study sections for se- quence and
+     Url https://ieeexplore.ieee.org/abstract/document/1607391/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title The metrô rio case study
+     Author ['A Ferrari', 'A Fantechi', 'G Magnani', 'D Grasso']
+     Venue Science of Computer …
+     Year 2013
+     Abstract Science of Computer Programming journal homepage: www.elsevier.com/locate/scico The Metrô Rio case study  Note that no function is implemented through Simulink, used only as a simulation framework, and no block with continuous dynamics is used in our approach
+     Url https://www.sciencedirect.com/science/article/pii/S0167642312000676
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Integrating formal methods into medical software development: The ASM approach
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini', 'A Mashkoor']
+     Venue Science of Computer …
+     Year 2018
+     Abstract (3)–(6) The ASM process allows preparation for software validation and verification as early as possible, since V&V can  We also show how the FDA principles are concretely fulfilled by the early and continuous V&V activities of the ASM process. 5.1. Case study description
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301430
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Stereolithography (SLA) 3D printing of an antihypertensive polyprintlet: Case study of an unexpected photopolymer-drug reaction
+     Author ['X Xu', 'P Robles-Martinez', 'CM Madla', 'F Joubert']
+     Venue Additive …
+     Year 2020
+     Abstract Full Length Article. Stereolithography (SLA) 3D printing of an antihypertensive polyprintlet: Case study of an unexpected photopolymer-drug  photopolymerisation techniques such as stereolithography (SLA) [24], digital light processing (DLP) [25] and continuous liquid interface
+     Url https://www.sciencedirect.com/science/article/pii/S2214860419314356
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Successful Application of Software Reliability: A Case Study.
+     Author ['NF Schneidewind']
+     Venue International Journal of Performability …
+     Year 2010
+     Abstract This is particularly the case for systems like the Shuttle where the software is subjected to continuous and rigorous testing for several years in multiple facilities  Successful Application of Software Reliability: Case Study 545  Quantifying Software Validation: When to Stop Testing
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=09731318&asa=Y&AN=55769818&h=xbUBPmNMNa75XpO6GQYrInS%2B7EohaB%2FJdL8Cmat5E6y50qghhT0PDVIbq5TpMT8ZU4VeYhzHgeN7z7sUcK73lw%3D%3D&crl=c
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title The metrô rio ATP case study
+     Author ['A Ferrari', 'D Grasso', 'G Magnani', 'A Fantechi']
+     Venue … Workshop on Formal …
+     Year 2010
+     Abstract Note that no function is implemented through Simulink, used only as a simulation framework, and no block with continuous dynamics is used in our approach: any anlaysis problem that might be related to a hybrid semantics is therefore  Page 7. The Metrô Rio ATP Case Study 7
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15898-8_1
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Engineering the software for understanding climate change
+     Author ['SM Easterbrook', 'TC Johns']
+     Venue Computing in science & …
+     Year 2009
+     Abstract of agile and open source projects, but with highly customized software validation and verification  Case Study Background We conducted an eight-week observational study at the Met  Essentially, with this approach, the scientists are performing continuous integration testing, but
+     Url https://ieeexplore.ieee.org/abstract/document/5337646/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Software validation via model animation
+     Author ['AM Dutle', 'CA Muñoz', 'AJ Narkawicz']
+     Venue … Conference on Tests and …
+     Year 2015
+     Abstract The functions that compute the position and velocity of an aircraft through- out each type of segment, as well as functions for determining the amount of time needed to keep the velocity continuous throughout the flight plan, reside in a  Software Validation via Model Animation 95
+     Url https://link.springer.com/chapter/10.1007/978-3-319-21215-9_6
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Embedded systems and software validation
+     Author ['A Roychoudhury']
+     Venue NA
+     Year 2009
+     Abstract Embedded systems and software validation / Abhik Roychoudhury. p. cm  8 2.2 CriteriaforDesignModel..... 10 2.3 Informal Requirements: A Case Study ..... 12 2.3.1 TheRequirementsDocument
+     Url https://books.google.com/books?hl=de&lr=&id=d-7r5hkYBhUC&oi=fnd&pg=PP1&dq=%22Case+Study%22+%22Continuous%22+%22Software+Validation%22&ots=5OLpNQJkuA&sig=UtWlGthc0ywucD6d2soKzxEHgNg
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Flood hydrograph simulation using the SWMM model: A semiarid zone watershed case study, Shiraz Khoshk River, Iran
+     Author ['E Khaleghi', 'A Sadoddin', 'A Najafinejad']
+     Venue Natural Resource …
+     Year 2020
+     Abstract Flood hydrograph simulation using the SWMM model: A semiarid zone watershed case study, Shiraz Khoshk River, Iran. Esmaeil Khaleghi  The SWMM model is a dynamic rainfall‐runoff simulation model used for single event and/or continuous runoff simulation
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/nrm.12269
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Experimenting with reproducibility: a case study of robustness in bioinformatics
+     Author ['YM Kim', 'JB Poline', 'G Dumas']
+     Venue GigaScience
+     Year 2018
+     Abstract Navigation. Experimenting with reproducibility: a case study of robustness in bioinformatics  iceberg). Reproducibility and robustness in bioinformatics: a case study. Reproducibility: from MATLAB to MATLAB, OS and environment
+     Url https://academic.oup.com/gigascience/article-abstract/7/7/giy077/5046609
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Validation methodology for solar heating and cooling systems
+     Author ['DK Anand', 'WJ Kennish', 'TM Knasel', 'AC Stolarz']
+     Venue Energy
+     Year 1979
+     Abstract As a part of several on-going software/software validation studies, FCHART and SOLCOST have been compared for the heating and service hot water mode  (Continuous curves may be possible for certain parameters but it is unlikely.) A case study demonstrating this
+     Url https://www.sciencedirect.com/science/article/pii/0360544279900835
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Enabling continuous software engineering for embedded systems architectures with virtual prototypes
+     Author ['PO Antonino', 'M Jung', 'A Morgenstern']
+     Venue … Conference on Software …
+     Year 2018
+     Abstract achieved so far: (i) Jaguar Land Rover, which achieved 90% faster software validation for its  Google Scholar. 5. O'Connor, RV, Elger, P., Clarke, PM: Continuous software engineering a  M., et al.: Virtual development on mixed abstraction levels: an agricultural vehicle case study
+     Url https://link.springer.com/chapter/10.1007/978-3-030-00761-4_8
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Evaluation of specific energy consumption and GHG emissions for different drying methods (Case study: Pistacia Atlantica)
+     Author ['M Kaveh', 'RA Chayjan', 'E Taghinezhad']
+     Venue Journal of Cleaner …
+     Year 2020
+     Abstract Evaluation of specific energy consumption and GHG emissions for different drying methods (Case study: Pistacia Atlantica)  using 5 different types of dryers, namely hot air (HA), hybrid hot air–Infrared (HA–IR), hybrid hot air–microwave (HA–MW), continuous multistage (CMS
+     Url https://www.sciencedirect.com/science/article/pii/S0959652620310106
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract In this paper a case study is presented on the use of formal methods in the testing  is much profit to be gained in these kind of combinations of different software validation techniques  The process of checking statically is most helped by a continuous learning organisation
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Formal validation and verification of a medical software critical component
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue 2015 ACM/IEEE …
+     Year 2015
+     Abstract In Sect. V, we present the application of the proposed process to the SAM case study  The modeling process permits a continuous defect preven- tion  The proposed methodology allows preparation for software validation and verification as early as possible, since one can start
+     Url https://ieeexplore.ieee.org/abstract/document/7340473/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Best practices for validating research software prototypes-MARKOS case study
+     Author ['A Laskowska', 'JG Cruz', 'P Kędziora']
+     Venue eChallenges e-2014 …
+     Year 2014
+     Abstract Software Prototypes - MARKOS Case Study  Software validation can and should occur since creating the first lines of code until the completion of the system in test  practice of this approach is to start the validation very early and treat validation as a continuous process throughout
+     Url https://ieeexplore.ieee.org/abstract/document/7058179/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Models testing models in continuous integration of modeldriven development
+     Author ['V Estivill-Castro', 'R Hexel', 'J Stover']
+     Venue IASTED Int. Symp. Software …
+     Year 2015
+     Abstract The practice of Continuous Integration (CI) [8] in- volves the use of a shared repository for the source code  Thus, in this case study, using the Combinatorial  used the powerful LLFSMs software modeling and construction tool as part of a discipline of software validation via testing
+     Url https://www.actapress.com/PDFViewer.aspx?paperId=456106
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Better validation in a world-wide development environment
+     Author ['C Ebert', 'CH Parro', 'R Suttels']
+     Venue Proceedings Seventh …
+     Year 2001
+     Abstract other teams. Continuous build implies that these features from the various teams are integrated continuously. The  timeframe. The three hypotheses also reflect the type of changes that we focus on in this case study. This study
+     Url https://ieeexplore.ieee.org/abstract/document/915537/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Two-level process validation approach for medical devices
+     Author ['YL Chen']
+     Venue Journal of medical engineering & technology
+     Year 2019
+     Abstract However, mechanical/electronic-based device manufacturing process is continuous process in nature  It generally includes computer software validation, sterilisation system validation, facility/utilities validation  6. Two-Level process validation case study for medical devices
+     Url https://www.tandfonline.com/doi/abs/10.1080/03091902.2019.1626505
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Simulation and optimization of the operation strategy of ASHP heating system: A case study in Tianjin
+     Author ['J Ling', 'H Tong', 'J Xing', 'Y Zhao']
+     Venue Energy and Buildings
+     Year 2020
+     Abstract A middle school building in Tianjin, China is chosen as a case study and its physical model is developed by using the EnergyPlus  Besides, researchers found that the energy consumption of continuous heating is even lower than intermittent heating when running at a relatively
+     Url https://www.sciencedirect.com/science/article/pii/S0378778820307611
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Impact of Continuous Climb Operations in ATC workload. Case-study Palma airport
+     Author ['JA Pérez-Castán', 'B Asensio', 'Á Rodríguez-Sanz']
+     Venue Journal of Air Transport …
+     Year 2020
+     Abstract Impact of Continuous Climb Operations in ATC workload. Case-study Palma airport
+     Url https://www.sciencedirect.com/science/article/pii/S0969699720304749
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Collaborative Education: Building a Skilled Software Validation and Verification Community
+     Author ['S Acharya', 'PA Manohar', 'PY Wu']
+     Venue Proceedings of the EDSIG …
+     Year 2018
+     Abstract Software validation and verification (SV&V) is proven to be effective in ensuring software  SV&V Area Case Study mins Requirements Management Understanding User Requirements 50  from a Customer's Perspective 250 Configuration Management Continuous Integration 100
+     Url http://proc.iscap.info/2018/pdf/4645.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Automated operational modal analysis and ambient noise deconvolution interferometry for the full structural identification of historic towers: A case study of the Sciri …
+     Author ['E García-Macías', 'F Ubertini']
+     Venue Engineering Structures
+     Year 2020
+     Abstract of automated OMA and Ambient Noise Deconvolution Interferometry for the full structural system identification of historic structures, and evaluates the advantages of this technology through a validation case study of the Sciri Tower in Perugia, Italy. A continuous vibration-based
+     Url https://www.sciencedirect.com/science/article/pii/S0141029619330093
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title An integrated framework for lean manufacturing in relation with blue ocean manufacturing-a case study
+     Author ['S Sadiq', 'MS Amjad', 'MZ Rafique', 'S Hussain']
+     Venue Journal of Cleaner …
+     Year 2019
+     Abstract 3. Sheehan and Vaidyanathan (2009), Case Study, Yes, Yes, No, The authors have suggested that lean practices complement the blue ocean  a philosophy (Bhasin and Burcher, 2006) that enables industries to do better by employing the principles of continuous improvement and
+     Url https://www.sciencedirect.com/science/article/pii/S095965262033835X
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Software testing
+     Author ['J Pan']
+     Venue Dependable Embedded Systems
+     Year 1999
+     Abstract Because software and any digital systems are not continuous, testing boundary values  A case study describing the experience of using these approaches for testing the  This paper mainly discusses their toolset Mothra, integrated environment for automated software validation
+     Url http://www.sci.brooklyn.cuny.edu/~sklar/teaching/s08/cis20.2/papers/software-testing.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Developing Medical Devices from Abstract State Machines to Embedded Systems: A Smart Pill Box Case Study
+     Author ['A Bombarda', 'S Bonfanti', 'A Gargantini']
+     Venue International Conference on …
+     Year 2019
+     Abstract In the proposed case study we have identified four CTL (Computational Tree Logic) properties that we have tested  that the software has been validated and verified is straightforward, since V&V are continuous activities during  6.2 FDA General Principles of Software Validation
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29852-4_7
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Unification of verification and validation methods for software systems: progress report and initial case study formulation
+     Author ['JC Browne', 'C Lin', 'K Kane', 'Y Cheon']
+     Venue Proceedings 20th IEEE …
+     Year 2006
+     Abstract 3. Initial Case Study for UVV: Access Control for Distributed Systems of Services  and complete approaches to testing: Specification of properties, behaviors and assertion Test coverage algorithms based on static analysis processes Testing as a continuous process integrating
+     Url https://ieeexplore.ieee.org/abstract/document/1639582/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Investigation of integrated environmental solutions-virtual environment software accuracy for air temperature and relative humidity of the test room simulations
+     Author ['P Leng', 'MH bin Ahmad', 'DR Ossen']
+     Venue UMT 11th International …
+     Year 2012
+     Abstract Technology integration and advancement promoted continuous improvement in the architecture and building  The simulation software applied in the case study [8] does not show the positive result  is important in order to set the benchmark for the software validation task
+     Url http://www.academia.edu/download/34184323/Investigation_of_Integrated_Environmental_Solutions-Virtual_Environment_Software_Accuracy_for_Air_Temperature_and_Relative_Humidity_of_t.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Application of statistical process control to software defect metrics: An industry experience report
+     Author ['C Fernández-Corrales', 'M Jenkins']
+     Venue 2013 ACM/IEEE …
+     Year 2013
+     Abstract minimized. There are different types of control charts for both continuous and count variables (attributes or discrete variables)  sample. In our case study, we used a moving range of two observations (which is the most commonly used)
+     Url https://ieeexplore.ieee.org/abstract/document/6681375/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Applying the AOGCM-AR5 models to the assessments of land suitability for walnut cultivation in response to climate change: a case study of Iran
+     Author ['K Vahdati', 'AR Massah Bavani', 'M Khosh-Khui']
+     Venue PloS one
+     Year 2019
+     Abstract Roles Data curation, Formal analysis, Investigation, Methodology, Software, Validation, Writing – original draft, Writing – review  for walnut cultivation in response to climate change: A case study of Iran  the form of the function can be linear, nonlinear, continuous or discontinuous
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218725
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Scalability and validation of big data bioinformatics software
+     Author ['A Yang', 'M Troup', 'JWK Ho']
+     Venue Computational and structural biotechnology …
+     Year 2017
+     Abstract Software validation is the process of determining whether the program under test fulfils the task for which it was designed  Otherwise, MRs that are derived primarily from user expectation is said to be performing software validation
+     Url https://www.sciencedirect.com/science/article/pii/S200103701730048X
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Towards practical runtime verification and validation of self-adaptive software systems
+     Author ['G Tamura', 'NM Villegas', 'HA Müller', 'JP Sousa']
+     Venue Software Engineering for …
+     Year 2013
+     Abstract Software validation and verification (V&V) concerns the quality assessment of soft- ware products throughout their lifecycle  Section 2 de- scribes a concrete industrial case study that we use to illustrate the concepts, concerns and challenges discussed in this chapter
+     Url https://link.springer.com/chapter/10.1007/978-3-642-35813-5_5
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Work standardization and line balancing in a windmill gearbox manufacturing cell: A case study
+     Author ['S Vijay', 'MG Prabha']
+     Venue Materials Today: Proceedings
+     Year 2020
+     Abstract and 2How), 5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke) can be implemented in the view of standardization and continuous improvement adds  This case study work has been done at Windmill Gearbox Industry  Data curation, Visualization, Investigation, Software, Validation
+     Url https://www.sciencedirect.com/science/article/pii/S221478532036466X
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"
+     Title Modern code review: a case study at google
+     Author ['C Sadowski', 'E Söderberg', 'L Church', 'M Sipko']
+     Venue Proceedings of the 40th …
+     Year 2018
+     Abstract Modern Code Review: A Case Study at Google  to improve code review quality [5]. Facebook's code review system, Phabricator [29], allows re- viewers to “take over” a change and commit it themselves and provides hooks for automatic static analysis or continuous build/test
+     Url https://dl.acm.org/doi/abs/10.1145/3183519.3183525
+

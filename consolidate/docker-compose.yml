@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+
+    consolidator:
+      build: ./
+      image: stifstof/consolidator:latest
+      container_name: consolidator_container
+      # restart: on-failure
+      # network_mode: host
+      env_file:
+        - ../envfile.env
+      volumes:
+        - /home/cn/Documents/git/ResearchProjectSearches/results:/output

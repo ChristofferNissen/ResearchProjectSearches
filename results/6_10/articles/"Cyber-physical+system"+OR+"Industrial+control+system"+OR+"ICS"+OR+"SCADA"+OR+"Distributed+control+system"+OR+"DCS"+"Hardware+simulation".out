@@ -1,0 +1,91 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract the PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware  of Power Quality, Energy Management and Real Time Control, Hardware Simulation for Hybrid
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Adjusting the neurons models in neuromimetic ICs using the voltage-clamp technique
+     Author ['S Saïghi', 'L Buhry', 'Y Bornat', "G N'Kaoua"]
+     Venue … on Circuits and …
+     Year 2008
+     Abstract We conclude by mentioning the potential applications of this technique in hardware simulation systems based on neuromimetic ASICs  4], or vision processing [5]. Alternatives to software-based solutions, neuromorphic systems are often based on custom ICs and systems
+     Url https://ieeexplore.ieee.org/abstract/document/4541730/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Parameter estimation of multiterminal transmission lines using joint PMU and SCADA data
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract Regarding the SCADA data, the error level is assumed to be twice that of PMU measurements, that is, 2%, to reflect this fact that the accuracy of SCADA data is lower than that of PMU data. However, the values associated with the hardware simulation inherently have some
+     Url https://ieeexplore.ieee.org/abstract/document/6966756/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Application of WAMS and SCADA data to online modeling of series-compensated transmission lines
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract 8, NO. 4, JULY 2017 Application of WAMS and SCADA Data to Online Modeling of Series-Compensated Transmission Lines  Case studies through software and hardware simulation efforts demonstrate validity of the modeling approach
+     Url https://ieeexplore.ieee.org/abstract/document/7401091/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Smart Grid Testbed using SCADA Software and Xbee Wireless Communication
+     Author ['A Soetedjo', 'A Lomi', 'YI Nakhoda']
+     Venue (IJACSA) International Journal of …
+     Year 2015
+     Abstract wireless communication. The proposed testbed combines both the software simulation and the hardware simulation. The Winlog SCADA software is employed to implement the algorithm in the Smart Grid system. To communicate
+     Url http://eprints.itn.ac.id/3140/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Training SCADA operators with real-time simulation
+     Author ['RJ Strand', 'AJ Clemmens']
+     Venue SCADA and Related …
+     Year 2005
+     Abstract and the SCADA computer remains untouched. The communication between the hardware simulation and the SCADA system uses the Modbus protocol over an RS-232 serial connection. USE AS A TRAINING TOOL As this
+     Url https://mountainscholar.org/bitstream/handle/10217/46525/101_Proceedings%202005%20USCID%20Vancouver.pdf?sequence=1#page=327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title HAL; a block level hardware logic simulator
+     Author ['T Sasaki', 'N Koike', 'K Ohmori']
+     Venue 20th Design Automation …
+     Year 1983
+     Abstract which simulates a 1,500,000 gate custom LSI and 2M byte RAM ICs digital system at a 5 millisecond cl0ckspeed. High level performance was achieved by 32 parallel processes and pipe-line processor architecture, utilizing a new Block Oriented Hardware Simulation Technique
+     Url https://ieeexplore.ieee.org/abstract/document/1585641/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Concurrent hardware-software co-simulation
+     Author ['Y Tzori']
+     Venue US Patent 6,202,044
+     Year 2001
+     Abstract US6202044B1 - Concurrent hardware-software co-simulation - Google Patents. Concurrent hardware-software co-simulation. Download PDF Info. Publication number US6202044B1. US6202044B1 US09/096,672 US9667298A
+     Url https://patents.google.com/patent/US6202044B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract provide fast simulation and constraint handling for physically-based dynamic [19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Good Vibrations: Modal Dynamics for Graph- ics and Animation
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+

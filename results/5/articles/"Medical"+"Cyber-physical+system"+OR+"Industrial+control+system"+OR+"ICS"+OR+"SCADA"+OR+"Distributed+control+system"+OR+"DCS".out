@@ -1,0 +1,451 @@
+Showing papers for search query "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Bio-Medical CMOS ICs
+     Author ['HJ Yoo', 'C van Hoof']
+     Venue NA
+     Year 2010
+     Abstract A major societal challenge for the decades to come will be the delivery of effective medical services while at the same time curbing the growing cost of healthcare. It is expected that new concepts-particularly electronically assisted healthcare will provide an answer. This will
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4419-6597-4.pdf
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges and constraints in designing implantable medical ICs
+     Author ['P Gerrish', 'E Herrmann', 'L Tyler']
+     Venue IEEE Transactions on …
+     Year 2005
+     Abstract Implantable medical electronics are differentiated from most of the other electronic-system implementations by their unique combination of extreme low-power and high-reliability requirements. Many implanted medical devices rely on a fixed nonrechargeable battery over
+     Url https://ieeexplore.ieee.org/abstract/document/1545904/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cost efficient resource management in fog computing supported medical cyber-physical system
+     Author ['L Gu', 'D Zeng', 'S Guo', 'A Barnawi']
+     Venue IEEE Transactions on …
+     Year 2015
+     Abstract With the recent development in information and communication technology, more and more smart devices penetrate into people's daily life to promote the life quality. As a growing healthcare trend, medical cyber-physical systems (MCPSs) enable seamless and intelligent
+     Url https://ieeexplore.ieee.org/abstract/document/7359164/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Hacking medical devices for fun and insulin: Breaking the human SCADA system
+     Author ['J Radcliffe']
+     Venue Black Hat Conference presentation slides
+     Year 2011
+     Abstract On my 22nd birthday I went to the doctor, having lost 40 pounds in less than two months and an insatiable thirst. It did not take long before the doctor diagnosed diabetes; not long after that I was prescribed insulin, which I had to inject into my body 4-‐7 times a day. There
+     Url https://paper.bobylive.com/Meeting_Papers/BlackHat/USA-2011/BH_US_11_Radcliffe_Hacking_Medical_Devices_WP.pdf
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Data-centered runtime verification of wireless medical cyber-physical system
+     Author ['Y Jiang', 'H Song', 'R Wang', 'M Gu']
+     Venue IEEE transactions on …
+     Year 2016
+     Abstract Wireless medical cyber-physical systems are widely adopted in the daily practices of medicine, where huge amounts of data are sampled by the wireless medical devices and sensors, and is passed to the decision support systems (DSSs). Many text-based guidelines
+     Url https://ieeexplore.ieee.org/abstract/document/7480373/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Reliability considerations for implantable medical ICs
+     Author ['M Porter', 'P Gerrish', 'L Tyler', 'S Murray']
+     Venue 2008 IEEE …
+     Year 2008
+     Abstract Implantable medical devices continue to grow in complexity, mirroring the ascent of the semiconductor industry along the Moorepsilas Law curve. Traditionally, implantable applications have taken a fast-follower approach to silicon adoption, using more mature
+     Url https://ieeexplore.ieee.org/abstract/document/4558939/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Selected design issues of the medical cyber-physical system for telemonitoring pregnancy at home
+     Author ['J Jezewski', 'A Pawlak', 'K Horoba', 'J Wrobel']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract The telemonitoring problem of high-risk pregnancies at home is introduced, and some design issues of the monitoring system are identified. A Medical Cyber-Physical System (MCPS) approach has been taken. Various MCPS design issues and requirements, like
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116300874
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Design pillars for medical cyber-physical system middleware
+     Author ['D Arney', 'J Plourde', 'R Schrenker']
+     Venue … on Medical Cyber …
+     Year 2014
+     Abstract Our goal is to improve patient outcomes and safety through medical device interoperability. To achieve this, it is not enough to build a technically perfect system. We present here our work toward the validation of middleware for use in interoperable medical cyber-physical
+     Url https://drops.dagstuhl.de/opus/volltexte/2014/4529/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Ontology-driven adaptive medical information collection system
+     Author ['MM Bouamrane', 'A Rector', 'M Hurrell']
+     Venue International Symposium on …
+     Year 2008
+     Abstract questionnaire ontology. We illustrate the model with a description of our own medical ICS imple- mentation and discuss the potential benefits of such system, especially in the context of tailored healthcare. 1 Introduction Information
+     Url https://link.springer.com/chapter/10.1007/978-3-540-68123-6_62
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title From requirements to code: Model based development of a medical cyber physical system
+     Author ['A Murugesan', 'MPE Heimdahl', 'MW Whalen']
+     Venue Software Engineering in …
+     Year 2014
+     Abstract The advanced use of technology in medical devices has improved the way health care is delivered to patients. Unfortunately, the increased complexity of modern medical devices poses challenges for development, assurance, and regulatory approval. In an effort to
+     Url https://link.springer.com/chapter/10.1007/978-3-319-63194-3_7
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Design of a secure and effective medical cyber‐physical system for ubiquitous telemonitoring pregnancy
+     Author ['GC Li', 'CL Chen', 'HC Chen', 'F Lin']
+     Venue … : Practice and Experience
+     Year 2018
+     Abstract In recent years, ubiquitous‐based telemedicine has become increasingly popular in many countries; this is a new discipline that can break distance barriers in order to improve access to various medical services. Due to recent progress in telecare services, scientists provided
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.4236
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Behavior rule specification-based intrusion detection for safety critical medical cyber physical systems
+     Author ['R Mitchell', 'R Chen']
+     Venue IEEE Transactions on Dependable and …
+     Year 2014
+     Abstract We propose and analyze a behavior-rule specification-based technique for intrusion detection of medical devices embedded in a medical cyber physical system (MCPS) in which the patient's safety is of the utmost importance
+     Url https://ieeexplore.ieee.org/abstract/document/6774867/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title UACFinder Mining Syntactic Carriers of Unspecified Assumptions in Medical Cyber-Physical System Design Models
+     Author ['Z Fu', 'C Guo', 'Z Zhang', 'S Ren', 'L Sha']
+     Venue ACM Transactions on Cyber …
+     Year 2020
+     Abstract During the system development process, domain experts and developers often make assumptions about specifications and implementations. However, most of the assumptions being taken for granted by domain experts and developers are too tedious to be
+     Url https://dl.acm.org/doi/abs/10.1145/3375405
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Configurable Medical Cyber-Physical System Framework for Physical Activity Monitoring
+     Author ['F Arafsha']
+     Venue NA
+     Year 2019
+     Abstract A digital twin facilitates the means to monitor, understand, and optimize the functions of the physical entity and provides continuous feedback to improve quality of life, and Medical Cyber-Physical Systems (MCPS) is an integral part of this vision. Many studies focus on
+     Url https://ruor.uottawa.ca/handle/10393/38793
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Working together in rural South Dakota: integrating medical and chiropractic primary care.
+     Author ['K Barnett', 'C McLachlan', 'J Hulbert']
+     Venue Journal of manipulative …
+     Year 1997
+     Abstract number of rural primary medical and chiropractic physicians in the state. Rural DCs are more professionally cooperative with medical providers than are urban DCs and, as such, offer services more closely related to primary care
+     Url https://europepmc.org/article/med/9436142
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Medical aspects of terrorist bombings–a focus on DCS and DCR
+     Author ['VM Mutafchiyski', 'GI Popivanov', 'KC Kjossev']
+     Venue Military medical research
+     Year 2014
+     Abstract Although terrorist bombings have tormented the world for a long time, currently they have reached unprecedented levels and become a continuous threat without borders, race or age. Almost all of them are caused by improvised explosive devices. The unpredictability of
+     Url https://link.springer.com/article/10.1186/2054-9369-1-13
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Modeling and integrating physical environment assumptions in medical cyber-physical system design
+     Author ['Z Fu', 'C Guo', 'S Ren', 'Y Jiang']
+     Venue Design, Automation & Test …
+     Year 2017
+     Abstract Implicit physical environment assumptions made by safety critical cyber-physical systems, such as medical cyber-physical systems (M-CPS), can lead to catastrophes. Several recent US Food and Drug Administration (FDA) medical device recalls are due to implicit physical
+     Url https://ieeexplore.ieee.org/abstract/document/7927249/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Medical cyber physical system security—mitigating attacks using trust model
+     Author ['J Sathya Priya', 'SP Rajagopalan']
+     Venue Journal of Medical …
+     Year 2016
+     Abstract Cyber-Physical Systems (CPS) has attracted researchers from academic/industry as it is viewed as the next computing revolution. CPS has applications in domains like data-centers, health management, power-grids, vehicular management and physical infrastructure. Many
+     Url https://www.ingentaconnect.com/content/asp/jmihi/2016/00000006/00000007/art00005
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Synchronization stability analysis of medical cyber-physical cloud system considering multi-closed-loops
+     Author ['L Liu', 'G Xie', 'R Li']
+     Venue Journal of Circuits, Systems and Computers
+     Year 2019
+     Abstract Medical cyber-physical system (MCPS) is usually used in hospitals to provide continuous services (eg, glycemic monitor and alarm) for patients  1950198-1 Page 2. 1. Introduction 1.1. Background Medical cyber-physical system (MCPS) is a life-critical,1,2
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0218126619501986
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A comparison of chiropractic, medical and osteopathic care for work-related sprains and strains.
+     Author ['MR Johnson', 'MK Schultz']
+     Venue Journal of manipulative …
+     Year 1989
+     Abstract Descriptive findings for the flow of care of the respondents were evaluated and a comparison made of the benefits and costs of care received by patients treated by chiropractic doctors (DCs), medical doctors (MDs) or osteopathic doctors (DOs)
+     Url https://www.ncbi.nlm.nih.gov/pubmed/2532676
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Active myocarditis in the spectrum of acute dilated cardiomyopathies: clinical features, histologic correlates, and clinical outcome
+     Author ['', 'JT Fallon', 'HT Aretz', 'J Mills', 'DCS Lee']
+     Venue … England Journal of …
+     Year 1985
+     Abstract We studied the clinical features and course (average follow-up time, 18 months) of 27 patients with acute dilated cardiomyopathy (symptoms for less than 6 months) who were referred for end...
+     Url https://www.nejm.org/doi/full/10.1056/NEJM198504043121404
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Design challenges for home telemonitoring of pregnancy as a medical cyber-physical system
+     Author ['K Horoba', 'J Jeżewski', 'J Wróbel', 'A Pawlak']
+     Venue Journal of Medical …
+     Year 2014
+     Abstract EN The paper introduces the problem of designing a telemedical system for pregnancy monitoring at home. It focuses on design challenges concerning embedded computing and networking, requirements modelling, and presents the architecture and solutions when
+     Url https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-b72112a4-9113-4bdf-b80f-9d70736c4b80
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Guideline'Treating asthma in children'for pediatric pulmonologists . II. Medical treatment
+     Author ['EJ Duiverman', 'HJ Brackel', 'PJ Merkus']
+     Venue Nederlands tijdschrift …
+     Year 2003
+     Abstract II. Medical treatment]" Ned Tijdschr Geneeskd  Short-acting beta 2-sympathicomimetics are the medication of choice for acute exacerbations and should therefore be prescribed to each patient. Inhaled corticosteroids (ICS) are the medication of choice for maintenance treatment
+     Url https://europepmc.org/article/med/14560689
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Heart failure in outpatients: a randomized trial of digoxin versus placebo
+     Author ['DCS Lee', 'RA Johnson', 'JB Bingham']
+     Venue … England Journal of …
+     Year 1982
+     Abstract The view that digitalis clinically benefits patients with heart failure and sinus rhythm lacks support from a well-controlled study. Using a randomized, double-blind, crossover protocol, w...
+     Url https://www.nejm.org/doi/full/10.1056/NEJM198203253061202
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Identity-based proxy-oriented outsourcing with public auditing in cloud-based medical cyber–physical systems
+     Author ['X Zhang', 'J Zhao', 'L Mu', 'Y Tang', 'C Xu']
+     Venue Pervasive and Mobile Computing
+     Year 2019
+     Abstract Cloud-based medical cyber–physical system (MCPS) relies on cloud computing to provide powerful data storage and computing services  Cloud computing. Identity-based proxy-oriented outsourcing. Medical cyber–physical system. Elliptic curve cryptography. Public auditing
+     Url https://www.sciencedirect.com/science/article/pii/S1574119218304152
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Therapeutic molecules
+     Author ['S Cory', 'J Adams', 'DCS Huang', "L O'connor"]
+     Venue US Patent …
+     Year 2006
+     Abstract The present invention relates generally to novel molecules capable of inter alia, modulating apoptosis in mammalian cells and to genetic sequences encoding same. More par ticularly, the present invention relates to a novel member of the Bcl-2 family of proteins, referred to
+     Url https://patents.google.com/patent/US7064193B1/en
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A comparison of 4-year total medical care costs, adverse outcomes, and opioid/prescription analgesic use for 3 knee osteoarthritis pain treatments: Intra …
+     Author ['J Mackowiak', 'JT Jones', 'V Dasa']
+     Venue Seminars in Arthritis and Rheumatism
+     Year 2020
+     Abstract Using a large insurance claims database, our objective was to answer 3 questions: 1. What are the 4-year medical care costs for an IHA-only cohort vs an ICS-only cohort, and how do these cohorts' costs compare to a TKA-only cohort? 2
+     Url https://www.sciencedirect.com/science/article/pii/S0049017220300032
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Energy Efficient Resource Management in Fog Computing Supported Medical Cyber-Physical System
+     Author ['HK Apat', 'K Bhaisare', 'B Sahoo']
+     Venue … Conference on Computer …
+     Year 2020
+     Abstract The sufficient resources in the cloud data center allow plenties of the Internet of Things (IoT) application that has to be deployed on the server to provide services for different industries. However the major drawbacks faced nowadays is the centralized nature of computing
+     Url https://ieeexplore.ieee.org/abstract/document/9132855/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Mitigating Cyber Security Threats of Industrial Control Systems (Scada & Dcs)
+     Author ['A Lamba', 'S Singh', 'S Balvinder', 'N Dutta']
+     Venue … , Biomedical, Medical …
+     Year 2017
+     Abstract Modern Supervisory Control and Data Acquisition (SCADA) systems are essential for monitoring and managing electric power generation, transmission and distribution. In the age of the Internet of Things, SCADA has evolved into big, complex and distributed systems
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3492685
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The importance of an endotoxin-free environment during the production of nanoparticles used in medical applications
+     Author ['H Vallhov', 'J Qin', 'SM Johansson', 'N Ahlborg']
+     Venue Nano …
+     Year 2006
+     Abstract which had practically no effect on phenotypic maturation or cytokine production of the DCs. Our findings emphasize the importance of high purity in the production of nanoparticles, since possible contaminants may interfere with the assessment of biological/medical effects
+     Url https://pubs.acs.org/doi/abs/10.1021/nl060860z
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunction
+     Author ['BT Haylen', 'D De Ridder', 'RM Freeman']
+     Venue … : Official Journal of …
+     Year 2010
+     Abstract iii, ... ) Wherever possible, evidence- based medical principles will be followed. As in earlier ICS reports,2,3 when a reference is made to the whole anatomical organ, the vesica urinaria, the correct term is the bladder. When
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/nau.20798
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Clinical practice guidelines: medical follow-up of patients with asthma—adults and adolescents
+     Author ['N Roche', 'H Morel', 'P Martel', 'P Godard']
+     Venue Respiratory medicine
+     Year 2005
+     Abstract high daily dose of ICS (μg/day) in adults. Low dose, Average dose, High dose. Beclomethasone a, <500, 500–1000, >1000. Budesonide, <400, 400–800, >800. Fluticasone, <250, 250–500, >500. a Dose should be halved for QVAR ® and NEXXAIR ®. Synopsis Title, Medical follow
+     Url https://www.sciencedirect.com/science/article/pii/S095461110500106X
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Mitigating Cyber Security Threats of Industrial Control Systems (Scada & Dcs)
+     Author ['A Lamba', 'S Singh', 'S Balvinder', 'N Dutta']
+     Venue … , Biomedical, Medical …
+     Year 2017
+     Abstract Modern Supervisory Control and Data Acquisition (SCADA) systems are essential for monitoring and managing electric power generation, transmission and distribution. In the age of the Internet of Things, SCADA has evolved into big, complex and distributed systems
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3492685
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Health-CPS: Healthcare cyber-physical system assisted by cloud and big data
+     Author ['Y Zhang', 'M Qiu', 'CW Tsai', 'MM Hassan']
+     Venue IEEE Systems …
+     Year 2015
+     Abstract CYBER-PHYSICAL SYSTEM ASSISTED BY CLOUD AND BIG DATA 91 patients, a doctor may be able to adjust the treatment plan according to a patient's emotion. An emotion-aware healthcare service promotes the innovation of modern medical with humanistic treatment
+     Url https://ieeexplore.ieee.org/abstract/document/7219371/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title ERmed–Towards Medical Multimodal Cyber-Physical Environments
+     Author ['D Sonntag']
+     Venue International Conference on Augmented Cognition
+     Year 2014
+     Abstract a cancer screening programme, we are combining active speech based input, pas- sive/active eye tracker user input, and HMD output (all devices are on- body and hands-free) in a convenient way for both the patient and the doctor inside such a medical cyber-physical system
+     Url https://link.springer.com/chapter/10.1007/978-3-319-07527-3_34
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Damage control surgery and casualty evacuation: techniques for surgeons, lessons for military medical planners
+     Author ['PJ Parker']
+     Venue BMJ Military Health
+     Year 2006
+     Abstract two isolated tents in the lee of a desert sand dune truly be seen as a sustainable DCS or TASC facility? In the Korean War, physicians were attached to mobile blood transfusion units. These supported FSTs and proved extremely effective. US Military Medical planners again talk
+     Url https://militaryhealth.bmj.com/content/152/4/202.short
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Identity-based proxy-oriented outsourcing with public auditing in cloud-based medical cyber–physical systems
+     Author ['X Zhang', 'J Zhao', 'L Mu', 'Y Tang', 'C Xu']
+     Venue Pervasive and Mobile Computing
+     Year 2019
+     Abstract Cloud-based medical cyber–physical system (MCPS) relies on cloud computing to provide powerful data storage and computing services  Cloud computing. Identity-based proxy-oriented outsourcing. Medical cyber–physical system. Elliptic curve cryptography. Public auditing
+     Url https://www.sciencedirect.com/science/article/pii/S1574119218304152
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Managing multiple-casualty incidents: a rural medical preparedness training assessment
+     Author ['SD Glow', 'VJ Colucci', 'DR Allington', 'CW Noonan']
+     Venue Prehosp Disaster …
+     Year 2013
+     Abstract Abbreviations: EMS: Emergency Medical Service ICS: incident command system MCI: mass-casualty incident START: Simple Triage and Rapid Transport Received: February 7, 2011 Accepted: April 27, 2011 Revised: May 28, 2011 doi:10.1017/S1049023X13000423
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.390.3896&rep=rep1&type=pdf
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title CMOS IC design for wireless medical and health care
+     Author ['Z Wang', 'H Jiang', 'H Chen']
+     Venue NA
+     Year 2014
+     Abstract It is believed that the semiconductor ICs will bring the same story to the medical and health care technology, as what have happened to the computing technology. Actually, such changes have already taken place, with the aid of semiconductor ICs
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4614-9503-1.pdf
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Human lupus autoantibody–DNA complexes activate DCs through cooperation of CD32 and TLR9
+     Author ['TK Means', 'E Latz', 'F Hayashi', 'MR Murali']
+     Venue The Journal of …
+     Year 2005
+     Abstract 2 Department of Medicine, University of Massachusetts Medical School, Worcester, Massachusetts, USA  complexes (ICs) within lupus serum (SLE-ICs), but not protein-containing ICs from other autoimmune rheumatic diseases, stimulates plasmacytoid DCs (PDCs) to
+     Url https://www.jci.org/articles/view/23025?content_type=full
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Implementation of Asthma Guideline in Taiwan—The Management in Medical Centers
+     Author ['SH Kuo']
+     Venue Journal of Asthma
+     Year 2002
+     Abstract for pulmonologists in medical centers, ie, in accordance with previous observations.[12-13] In reality, however, the adherence to guidelines was suboptimal in terms of prescriptions of bronchodilators and ICS, as well as monitoring with PEF. In auditing the medical records, oral
+     Url https://www.tandfonline.com/doi/abs/10.1081/JAS-120015801
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title An analysis of physicians' reasons for prescribing long-term digitalis therapy in outpatients
+     Author ['KJ Carlson', 'DCS Lee', 'AH Goroll', 'M Leahy']
+     Venue Journal of chronic …
+     Year 1985
+     Abstract suggest that the diagnosis of heart failure should be more carefully scrutinized than is often the case in urban North American medical practice, and  N Engl J Med 303: 1443-1448, 1980 Lee DCS, Johnson RA, Bingham JB ef al: Heart failure in outpatients: a randomized trial of
+     Url https://www.sciencedirect.com/science/article/pii/0021968185901158
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Assessing treatment effects of inhaled corticosteroids on medical expenses and exacerbations among COPD patients: longitudinal analysis of managed care claims
+     Author ['M Akazawa', 'SC Stearns', 'AK Biddle']
+     Venue Health services research
+     Year 2008
+     Abstract Individual‐level, fixed‐effects regression models estimated the effects of initiating ICS on medical expenses and likelihood of severe exacerbation  The medical expenses were identified from inpatient, outpatient, and pharmacy claims (including ICS treatment expenses)
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2008.00879.x
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A comparison of 4-year total medical care costs, adverse outcomes, and opioid/prescription analgesic use for 3 knee osteoarthritis pain treatments: Intra …
+     Author ['J Mackowiak', 'JT Jones', 'V Dasa']
+     Venue Seminars in Arthritis and Rheumatism
+     Year 2020
+     Abstract Using a large insurance claims database, our objective was to answer 3 questions: 1. What are the 4-year medical care costs for an IHA-only cohort vs an ICS-only cohort, and how do these cohorts' costs compare to a TKA-only cohort? 2
+     Url https://www.sciencedirect.com/science/article/pii/S0049017220300032
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Prototype Architecture of the Medical Cyber Physical System based on Grid Computing
+     Author ['P Zhang', 'PJ He', 'M Chen']
+     Venue Advanced Materials Research
+     Year 2012
+     Abstract Medical Cyber-Physical System (CPS) is integrations of computation and medical processes. Embedded computers and networks monitor and control the medical processes, usually with feedback loops where medical processes affect computations and vice versa
+     Url https://www.scientific.net/AMR.433-440.884
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Early integration of palliative care in oncology practice: results of the Italian Association of Medical Oncology (AIOM) survey
+     Author ['', 'A Simultaneous', 'CCSCCT Force-ESMO-DCs']
+     Venue Journal of …
+     Year 2016
+     Abstract Background: Early integration of palliative care in oncology practice (“simultaneous care”, SC) has been shown to provide better care resulting in improved quality-of-life and also survival. We evaluated the opinions of Italian Association of Medical Oncology (AIOM)
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5118660/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The role of DCs in the immunopathogenesis of chronic HBV infection and the methods of inducing DCs maturation
+     Author ['H Sun', 'D Zhou', 'J Zhou']
+     Venue Journal of Medical Virology
+     Year 2016
+     Abstract Chronic hepatitis B virus (HBV) infection is the result of an inadequate immune response towards the virus. Dendritic cells (DCs), as the most efficient professional antigen‐presenting cells (APCs), possess the strongest antigen presenting the effect in the body and
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.24306
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The potential for improving medical textiles with cyclodextrin inclusion compounds
+     Author ['AE Tonelli']
+     Venue J. Text. Appar. Technol. Manag
+     Year 2003
+     Abstract Here we offer an assessment of the potential for using polymer materials processed with CD-ICs as a means to improve medical textiles, including applications such as the controlled delivery of drugs and genes and for fabricating anti-bacterial sutures, wound dressings, and
+     Url https://textiles.ncsu.edu/tatm/wp-content/uploads/sites/4/2017/11/tonelli_full_70_03.pdf
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Clinical and radiological features of urinary infection in childhood
+     Author ['', 'CJ Hodson', 'D Edwards', 'ICS Normand']
+     Venue British Medical …
+     Year 1964
+     Abstract Infection of the urinary tract is a common condition in childhood and one which is often overlooked. In a recent large survey significant bacteriuria was found in 1% of a schoolgirl population, many of these children being symptomless (Kunin et al., 1962). De Luca et
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1817223/
+
+
+     Search term "Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The ICS–'BPH' Study: the psychometric validity and reliability of the ICSmale questionnaire
+     Author ['JL Donovan', 'P Abrams', 'TJ Peters', 'HE Kay']
+     Venue British journal of …
+     Year 1996
+     Abstract 554 © 1996 British Journal of Urology Page 2. ICS–'BPH' STUDY 555 associated with the lower urinary tract, including ques  Method of completion urinary symptoms are: Boyarsky [3] and Madsen–Iversen [4], the Maine Medical Assessment Program (MMAP)
+     Url https://bjui-journals.onlinelibrary.wiley.com/doi/abs/10.1046/j.1464-410X.1996.93013.x
+

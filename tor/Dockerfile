@@ -6,7 +6,7 @@ EXPOSE 9050 9051
 RUN apk update && apk add --no-cache --upgrade  tor bash
 
 # Setup tor config
-COPY docker/setup_tor_config.sh .
+COPY config/setup_tor_config.sh .
 RUN ./setup_tor_config.sh
 
 RUN chown -R tor /etc/tor

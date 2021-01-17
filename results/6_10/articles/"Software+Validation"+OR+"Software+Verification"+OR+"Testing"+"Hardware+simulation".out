@@ -1,0 +1,91 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract Systems Design, Testing, and Analysis  ABSTRACT This task force paper summarizes the state-of-the-art real-time digital simulation concepts and technologies that are used for the analysis, design, and testing of the electric power system and its apparatus
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Unit) of self-driving vehicle as a part of the simulation platform, which improves the efficiency of development and testing, and also  Simulation experiments on applying the HiL system are used to verify the validity of self-driving algorithms in virtual scenes, including perception
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Method and system for hardware simulation
+     Author ['RL Klevans', 'R Krishnan', 'S Ramakrishnan']
+     Venue US Patent 7,047,176
+     Year 2006
+     Abstract FIG. 1 shows an overall system architecture of one embodiment of the system for hardware simulation 100 according to the invention that provides a testing platform for embedded software. The system can be distributed among
+     Url https://patents.google.com/patent/US7047176B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract The results show that use of a reference implementation, hardware simulation with fault injection, a testable design  mis- sions, with the goal of using the full array of available software verification and validation technologies — ran- domized testing, runtime monitoring
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title An engineering environment for hardware/software co-simulation
+     Author ['D Becker', 'RK Singh', 'SG Tell']
+     Venue DAC
+     Year 1992
+     Abstract simulated hardware to interact. We extended the Cadence Verilog-XL simulator to enable soft- ware debugging and testing using hardware simulation. The environment was proven during a successful system design. 1 Introduction
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5633&rep=rep1&type=pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Hardware-in-the-loop testing of a fuel cell aircraft powerplant
+     Author ['TH Bradley', 'BA Moffitt', 'DN Mavris', 'TF Fuller']
+     Venue Journal of Propulsion …
+     Year 2009
+     Abstract By using the actual powerplant and power train hardware during testing, the uncertainty associated with the performance simulation can be reduced  1. The simulation is composed of three categories of components: software simulation, hardware simulation, and interface
+     Url https://arc.aiaa.org/doi/pdf/10.2514/1.40805
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title FPGA simulation of linear and nonlinear support vector machine
+     Author ['D Mahmoodi', 'A Soleimani', 'H Khosravi']
+     Venue Journal of Software …
+     Year 2011
+     Abstract SVM. Table 5. Hardware simulation results of nonlinear SVM. compared with MATLAB  proposed. This de-. sign can be generalized to other SVM classification ap-. plications with no limitation in the number of training. and testing data
+     Url https://www.scirp.org/html/5072.html
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title System and method for simulation of integrated hardware and software components
+     Author ['MR Pauna']
+     Venue US Patent 6,052,524
+     Year 2000
+     Abstract 5,544,067, by Rostoker et al; "Hardware Simulation and Design Verification System and Method," US Pat  For example, if hardware-software verification system 10 is being used on a computer running  and the off-chip ROM can be modified by a debugger for testing purposes, but
+     Url https://patents.google.com/patent/US6052524A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Real-time digital hardware simulation of power electronics and drives
+     Author ['GG Parma', 'V Dinavahi']
+     Venue IEEE Transactions on Power Delivery
+     Year 2007
+     Abstract 1235 Real-Time Digital Hardware Simulation of  Before prototyping, the controller stage is usually subjected to several cycles of testing and re-design in an expen- sive facility containing the power converter, motor-generator sets, sensors, switchgear, and other test equipment
+     Url https://ieeexplore.ieee.org/abstract/document/4141147/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+     Title Simulation Design for Security Testing of Integrated Electronic Systems
+     Author ['D He', 'Q Qiao', 'J Gao', 'S Chan', 'K Zheng']
+     Venue IEEE Network
+     Year 2019
+     Abstract approach has many advantag- es: it is highly reusable, flexible, and free from space constraints, which perfectly meets various testing requirements. Researchers can adjust the simulation system to suit different research goals. Commonly, hardware simulation is often used to
+     Url https://ieeexplore.ieee.org/abstract/document/8786081/
+

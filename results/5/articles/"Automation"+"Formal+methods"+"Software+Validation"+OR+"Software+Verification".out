@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated tools for teaching formal software verification
+     Author ['I Feinerer', 'G Salzer']
+     Venue … Formal Methods: Practice and Experience
+     Year 2006
+     Abstract our course on formal software verification in more detail. We report our experiences in using Perfect Developer for the course assignments. Keywords: formal verification of software, Perfect Developer 1. INTRODUCTION As the automation of formal methods makes progress
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/TFM2006.4
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal software verification: Model checking and theorem proving
+     Author ['M Ouimet', 'K Lundqvist']
+     Venue … Systems Laboratory Technical Report ESL-TIK …
+     Year 2007
+     Abstract Because theorem provers and model checkers each provide complementary benefits in terms of automation and scalability, it is likely that this  MIT Press (1999) 9. Holzmann, G.: Trends in Software Verification. In: Proceedings of the Formal Methods Europe Conference (FME'03
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.90.5587&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Intelligent systems and formal methods in software engineering
+     Author ['B Beckert', 'T Hoare', 'R Hahnle', 'DR Smith']
+     Venue IEEE Intelligent …
+     Year 2006
+     Abstract Thomas Ball and Sriram Rajamani look at formal methods from an industry perspective  Three ingredients characterize deductive software verification: First, it represents tar- get programs as well  in the past, designers of theorem provers often traded off automation for precision
+     Url https://ieeexplore.ieee.org/abstract/document/4042539/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Panel: given that hardware verification has been an uphill battle, what is the future of software verification?
+     Author ['SK Shukla', 'T Bultan', 'CL Heitmeyer']
+     Venue MEMOCODE
+     Year 2004
+     Abstract views, experiences and opinions of formal methods practitioners from design automation, hardware and  in order to understand the industrial needs and trends in using formal methods  what hardware formal verification expe- riences bring to bear for formal software verification
+     Url http://www.academia.edu/download/30756362/memocode04pos.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An integrated approach to high integrity software verification.
+     Author ['WJ Ellis']
+     Venue NA
+     Year 2010
+     Abstract exploiting the strengths of different technologies to increase automation. The objective of this thesis is to support the production of high integrity software by automating an aspect of formal methods. To develop tractable techniques we focus on  to software verification
+     Url http://www.ros.hw.ac.uk/handle/10399/2353
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A comparison of tools for teaching formal software verification
+     Author ['I Feinerer', 'G Salzer']
+     Venue Formal aspects of computing
+     Year 2009
+     Abstract are regularly used by industry, there are hardly any automated tools supporting formal software verification due to  The slow but steady progress in the automation of program verification led us in  into context, we start with a section describing the situation of formal methods at our
+     Url https://link.springer.com/article/10.1007/s00165-008-0084-5
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automation of software verification
+     Author ['AJ Malton', 'DL Neville']
+     Venue US Patent 10,664,377
+     Year 2020
+     Abstract Automation of software verification. Download PDF  In some cases, verifiable program fragments can be constructed as inputs to a software verification tool  fragment can include a sequence of API calls using non-deterministic input that can be verified by a formal methods engine
+     Url https://patents.google.com/patent/US10664377B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Numerical Software Verification
+     Author ['M Zamani', 'D Zufferey']
+     Venue … Workshop on Numerical Software Verification
+     Year 2019
+     Abstract has a unique set of challenges, which set it apart from rest of software verification  it can be made more robust and efficient, from the automation of individual  Formal Methods for Highly Automated Driving Applications Jens Oehlerking Robert Bosch GmbH, Stuttgart, Germany
+     Url https://link.springer.com/content/pdf/10.1007/978-3-030-28423-7.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Inference of properties from requirements and automation of their formal verification
+     Author ['M Reich']
+     Venue 2019 34th IEEE/ACM International Conference on …
+     Year 2019
+     Abstract The research shall leverage the application of formal methods for software verification purposes in industry by contributing to the automation of the fulfillment of certification objectives from DO-333 [8] which may be summarized as follows: (1) Requirements formaliza- tion to
+     Url https://ieeexplore.ieee.org/abstract/document/8952397/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An integrated approach to high integrity software verification
+     Author ['A Ireland', 'BJ Ellis', 'A Cook', 'R Chapman']
+     Venue Journal of Automated …
+     Year 2006
+     Abstract An Integrated Approach to High Integrity Software Verification Andrew Ireland · Bill J. Ellis · Andrew Cook · Roderick Chapman · Janet Barnes  The SPARK Approach provides a significant degree of automation in proving exception freedom
+     Url https://link.springer.com/article/10.1007/s10817-006-9034-1
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Accessible software verification with dafny
+     Author ['KRM Leino']
+     Venue IEEE Software
+     Year 2017
+     Abstract For these two kinds of users, the lan- guage's streamlined syntax, the veri- fier's high degree of automation, and the IDEs' fast turnaround provide an enticing experience  20th Int'l Symp. Formal Methods (FM 15), LNCS 9109, Springer, 2015, pp. 414–434
+     Url https://ieeexplore.ieee.org/abstract/document/8106874/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated V&V for high integrity systems, a targeted formal methods approach
+     Author ['S Burton', 'J Clark', 'A Galloway']
+     Venue NASA …
+     Year 2000
+     Abstract the intermediate results of a project to develop automated, high integrity, software verification and validation  Work In this paper we described our experiences in inte- grating formal methods into an  The high level of automation was made possible by restricting the work to a
+     Url https://books.google.com/books?hl=de&lr=&id=XaAmAQAAIAAJ&oi=fnd&pg=PA129&dq=%22Automation%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=lb9VGejATm&sig=_Pw7F6TVcLzzozCSii0sp5dmU0E
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Evidential and Continuous Integration of Software Verification Tools
+     Author ['TA Beyene', 'H Ruess']
+     Venue International Symposium on Formal Methods
+     Year 2018
+     Abstract FM 2018: Formal Methods pp 679-685 | Cite as. Evidential and Continuous Integration of Software Verification Tools  and air traffic management systems, ISO 26262 [11] in the automative domain, and IEC 61508 for industrial domains including factory automation and robotics
+     Url https://link.springer.com/chapter/10.1007/978-3-319-95582-7_45
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of critical aerospace software
+     Author ['V Wiels', 'R Delmas', 'D Doose', 'PL Garoche', 'J Cazin']
+     Venue NA
+     Year 2012
+     Abstract Verification and validation means Software verification and validation is still mainly achieved by means of simulation and testing  AL04-10 3 • Model driven engineering at platform level; • Cooperation of analysis techniques; • Test automation using formal methods
+     Url https://hal.archives-ouvertes.fr/hal-01184099/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Static Analysis tools, a practical approach for safety-critical software verification
+     Author ['R Lopes', 'D Vicente', 'N Silva']
+     Venue ESA Special Publication
+     Year 2009
+     Abstract Static Analysis tools, a practical approach for safety-critical software verification  Lint- based syntax parsers to standards' compliance checkers to tools using more formal methods for verification  They also provide a mean to introduce further automation in code analysis activities
+     Url https://www.researchgate.net/profile/Nuno_Silva22/publication/228596851_Static_Analysis_tools_a_practical_approach_for_safety-critical_software_verification/links/004635282c19727410000000.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract Formal software verification involves automated model extraction to elimi- nate extraneous detail  also includes iterated design, refinement, and synthesis, with comparable and compatible automation. Unfortunately, tool support for constructive formal methods lags far behind the
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The Analysis of Existing Methods of Software Verification
+     Author ['SE Bondarev', 'MA Chudinov']
+     Venue 2019 IEEE Conference …
+     Year 2019
+     Abstract types of detected errors, efficiency, region matching method, time verification and software validation algorithm  Also, verification methods are classified by automation level  Formal methods are endowed with a distinctive feature - it is highly functional suitability and accuracy, if
+     Url https://ieeexplore.ieee.org/abstract/document/8657169/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An introduction to formal methods for the development of safety-critical applications
+     Author ['AE Haxthausen']
+     Venue NA
+     Year 2010
+     Abstract Some standards require the use of formal methods at such specific levels, see section 7. 3 Formal specification  4 Formal verification Traditionally, software validation and verification has been done by techniques such as code inspection and testing
+     Url https://core.ac.uk/download/pdf/13733960.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal software verification at model and at source code levels
+     Author ['AF Pires', 'T Polacsek', 'S Duprat']
+     Venue International Conference on Model and …
+     Year 2012
+     Abstract There are many formal methods for verification tasks and all of them can be in- corporated in the  Formal Software Verification at Model and at Source Code Levels  In: Proceedings of the Conference on Design, Automation and Test in Europe, DATE 2010, European Design and
+     Url https://link.springer.com/chapter/10.1007/978-3-642-33609-6_16
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Moving fast with software verification
+     Author ['C Calcagno', 'D Distefano', 'J Dubreil', 'D Gabi']
+     Venue NASA Formal Methods …
+     Year 2015
+     Abstract 3 Software Verification in the Perpetual Development Era As we have seen, Facebook employs a perpetual development model both for web and mobile software  Page 4. 6 C. Calcagno et al. – Full automation and integration
+     Url https://link.springer.com/chapter/10.1007/978-3-319-17524-9_1
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software verification using symbolic execution and uninterpreted functions
+     Author ['D Currie', 'X Feng', 'M Fujita', 'AJ Hu', 'M Kwan']
+     Venue International Journal of …
+     Year 2006
+     Abstract 34, No. 1, February 2006 (© 2006) Embedded Software Verification Using Symbolic Execution and  The past 15years, however, have witnessed a revolution in formal verification, primarily for hardware verification, but beginning to affect software verification as well
+     Url https://link.springer.com/article/10.1007/s10766-005-0004-8
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal synthesis in circuit design—A classification and survey
+     Author ['R Kumar', 'C Blumenröhr', 'D Eisenbiegler']
+     Venue … on Formal Methods in …
+     Year 1996
+     Abstract An argumentation similar to the automation holds for the other two approaches  the maintenance of the tool when changes are made, and the skills in formal methods required for  impossible to develop such a tool for realistic synthesis programs, since software verification can be
+     Url https://link.springer.com/chapter/10.1007/BFb0031817
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Testing, proof and automation. An integrated approach
+     Author ['S Burton', 'J Clark', 'J McDermid']
+     Venue The Proceedings of …
+     Year 2000
+     Abstract a combination of the two approaches can lead to greater lev- els of automation and integrity  For the benefits of formal methods in V&V to be fully exploited in industry there is a  enhance both the integrity and au- tomation of several areas of the software verification and validation
+     Url https://pdfs.semanticscholar.org/aee3/d4d00af6f8e2197952b896d60a15034f09a0.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Wolf–bug hunter for concurrent software using formal methods
+     Author ['S Barner', 'Z Glazberg', 'I Rabinovitz']
+     Venue International Conference on Computer …
+     Year 2005
+     Abstract 2 Structure of Wolf Wolf is composed of three modules: a C-to-model translator, software verification algorithms integrated into RuleBase PE, and Vet  Wolf - Bug Hunter for Concurrent Software Using Formal Methods  In Design Automation Conference, pages 655–660, 1996
+     Url https://link.springer.com/chapter/10.1007/11513988_16
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title An empirical research agenda for understanding formal methods productivity
+     Author ['R Jeffery', 'M Staples', 'J Andronick', 'G Klein']
+     Venue Information and Software …
+     Year 2015
+     Abstract An empirical research agenda for understanding formal methods productivity  Its artefacts and activities are different to those of conventional software engineering, and the nature and drivers of productivity for formal methods are not yet understood. Objective
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914002511
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing
+     Author ['R Bloem', 'E Arbel']
+     Venue NA
+     Year NA
+     Abstract Roderick Bloem• Eli Arbel (Eds.) Hardware and Software: Verification and Testing 12th International Haifa  As we evaluate the progress in debug automation, we will point out  departure from existing debug efforts, need complement traditional simulation/formal methods to not
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-49052-6.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification/Validation Methods and Tools... or Practical Formal Methods
+     Author ['J Rushby']
+     Venue NA
+     Year NA
+     Abstract Page 2. Software Verification/Validation Methods and Tools  John Rushby, SR I Practical Formal Methods: 1 Page 3  There is an opportunity to reduce costs and improve quality by applying automation to verification and verification of embedded systems John Rushby, SR I
+     Url http://www.csl.sri.com/users/rushby/slides/gm04.ps
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Efficient SAT-based bounded model checking for software verification
+     Author ['F Ivančić', 'Z Yang', 'MK Ganai', 'A Gupta']
+     Venue Theoretical Computer …
+     Year 2008
+     Abstract Leveraging Applications of Formal Methods (ISoLA), in November 2004 (see [F. Ivančić, Z. Yang, M. Ganai, A. Gupta, P. Ashar, Efficient SAT-based bounded model checking for software verification, in: Symposium on Leveraging Formal Methods in Applications, ISoLA, 2004])
+     Url https://www.sciencedirect.com/science/article/pii/S0304397508002223
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Range analysis for software verification
+     Author ['A Zaks', 'S Cadambi', 'I Shlyakhter', 'F Ivancic']
+     Venue … on Software Validation …
+     Year 2006
+     Abstract Such range information for each variable can be used to improve the efficiency of software verification tools by providing a smaller state-space  significantly help in re- ducing the state-space and thus later stages of verification, extending the reach of formal methods for software
+     Url https://cs.wmich.edu/~zijiang/pub/rangeTR.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing: 12th International Haifa Verification Conference, HVC 2016, Haifa, Israel, November 14-17, 2016 …
+     Author ['R Bloem', 'E Arbel']
+     Venue NA
+     Year 2016
+     Abstract Roderick Bloem• Eli Arbel (Eds.) Hardware and Software: Verification and Testing 12th International Haifa  As we evaluate the progress in debug automation, we will point out  departure from existing debug efforts, need complement traditional simulation/formal methods to not
+     Url https://books.google.com/books?hl=de&lr=&id=TUVrDQAAQBAJ&oi=fnd&pg=PR5&dq=%22Automation%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=Ma6nNvkhJC&sig=88tKsxl7qcpEgStqIWkHc4hR5MY
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Session 1: Concurrent Software Verification
+     Author ['A Sinha', 'S Malik', 'A Gupta']
+     Venue NA
+     Year NA
+     Abstract 5 Tony Hoare Session 1: Concurrent Software Verification Efficient Predictive Analysis for Detecting  Eric Feron, from Georgia Tech, presented “Formal Methods for Aerospace Applications”  Centaur Technology, IBM Corp., Intel Corp., Jasper Design Automation, Mentor Graphics
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.686.6645&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Certification and software verification considerations for autonomous unmanned aircraft
+     Author ['C Torens', 'FM Adolf', 'L Goormann']
+     Venue Journal of aerospace information …
+     Year 2014
+     Abstract the software development process view as well as methodologies on test automation and simulation  A. UAV Software Verification and Compliance Challenges  of autonomous systems is growing, and computer science, programming languages, and formal methods have had
+     Url https://arc.aiaa.org/doi/abs/10.2514/1.I010163
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Autonomy software verification and validation might not be as hard as it seems
+     Author ['E Gat']
+     Venue 2004 IEEE Aerospace Conference Proceedings (IEEE …
+     Year 2004
+     Abstract Autonomy Software Verification and Validation  Fortunately, recent developments in formal methods have shown great promise in getting a handle on such  Proceedings of the 2001 Internotional Symposium on Artificial Intelligence, Robotics, and Automation for Space, Montreal
+     Url https://ieeexplore.ieee.org/abstract/document/1368117/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification using range analysis
+     Author ['S Cadambi', 'Z Aleksandr', 'F Ivancic', 'I Shlyakhter']
+     Venue US Patent …
+     Year 2012
+     Abstract Software verification using range analysis. Download PDF Info  Software analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model  of the 36th ACM/IEEE Design Automation Conference, pp
+     Url https://patents.google.com/patent/US8131532B2/en
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal modeling and verification in the software engineering framework of IEC 61499: a way to self-verifying systems
+     Author ['V Vyatkin', 'HM Hanisch']
+     Venue … Technologies and Factory Automation …
+     Year 2001
+     Abstract However, the existing methods of software validation (manual testing or computer-aided simulation) are too slow to  The state of the art in design of industrial automation systems is characterized by massive substitution of  FORMAL METHODS - SUCCESSES AND SHORTAGES
+     Url https://ieeexplore.ieee.org/abstract/document/997677/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Deductive software verification
+     Author ['JC Filliâtre']
+     Venue NA
+     Year 2011
+     Abstract One is that a richer logic comes at a cost: proof automation is typically more difficult to achieve  Deductive software verification is only one aspect of for- mal methods  was held in Eindhoven, The Netherlands on November 2, 2009, as part of the Formal Methods Week FM20093
+     Url https://link.springer.com/content/pdf/10.1007/s10009-011-0211-0.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title TEST: an effective automation tool for testing embedded software
+     Author ['C Baek', 'S Park', 'K Choi']
+     Venue Proceedings of the 9th WSEAS International …
+     Year 2005
+     Abstract Article. TEST: an effective automation tool for testing embedded software. Share on. Authors: Changhyun Baek profile image Changhyun Baek  ICCOMP'05: Proceedings of the 9th WSEAS International Conference on Computers. TEST: an effective automation tool for testing
+     Url https://dl.acm.org/doi/abs/10.5555/1369599.1369645
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title AVAT, a CASE tool for software verification and validation
+     Author ['H Dai', 'CK Scott']
+     Venue Proceedings Seventh International Workshop …
+     Year 1995
+     Abstract Software Verification and Validation  AVAI: an abbreviation of Automation of the Verification, Validation and Testing (A VAT) of Real-Time Software and Embedded Systems  Formal methods [5,6,7] are seen as being crucial in achieving a high level of quality assurance for software
+     Url https://ieeexplore.ieee.org/abstract/document/465298/
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Industrial software verification and testing technology
+     Author ['P Drobintsev', 'V Kotlyarov', 'A Letichevsky']
+     Venue CEUR Workshop …
+     Year 2017
+     Abstract Industrial software verification and testing technology  One of the main problems in the development and test automation of industrial appli- cations' software is handling of  Applicability of formal methods in the industry is determined to a great extent by how adequate is the
+     Url http://ceur-ws.org/Vol-1989/paper52.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software verification in hardware–software codesign
+     Author ['PA Hsiung']
+     Venue Journal of systems architecture
+     Year 2000
+     Abstract Embedded software verification in hardware–software codesign  Previous article in issue; Next article in issue. Keywords. Embedded software. Software verification. Symbolic model checking. System/process concurrency. Quasi-static scheduling. Software synthesis. 1. Introduction
+     Url https://www.sciencedirect.com/science/article/pii/S1383762100000345
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Numerical Software Verification: 12th International Workshop, NSV 2019, New York City, NY, USA, July 13–14, 2019, Proceedings
+     Author ['M Zamani', 'D Zufferey']
+     Venue NA
+     Year 2019
+     Abstract has a unique set of challenges, which set it apart from rest of software verification  it can be made more robust and efficient, from the automation of individual  Formal Methods for Highly Automated Driving Applications Jens Oehlerking Robert Bosch GmbH, Stuttgart, Germany
+     Url https://books.google.com/books?hl=de&lr=&id=Mx2nDwAAQBAJ&oi=fnd&pg=PP6&dq=%22Automation%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=gUWsKmiT68&sig=C6kMxunX4c9pe0CYw1pAkdNcfBo
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Trustable formal specification for software certification
+     Author ['D Méry', 'NK Singh']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2010
+     Abstract Formal notations also reduce cost by enabling the automation of verification activities  Keatley, KL: A review of the fda draft guidance document for software validation: guidance for  FINAL1-web.pdf 3. Bowen, J., Stavridou, V.: Safety-critical systems, formal methods and standards
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16561-0_31
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Integrated technology for industrial software verification and testing
+     Author ['V Kotlyarov', 'P Drobintsev', 'I Nikiforov']
+     Venue Proceedings of the 2014 …
+     Year 2014
+     Abstract I. INTRODUCTION NE of the main problems in development and testing automation of industrial applications' software is handling of complicated and  Applicability of formal methods in the industry is determined to a great extent by how adequate is the formalization language to
+     Url http://inase.org/library/2014/russia/bypaper/MEAS/MEAS-19.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Repeatable and Tracable Software Verification for 3D Coordinate Measuring Machines
+     Author ['B Müller']
+     Venue Proceedings of the 18th World Multi-Conference on …
+     Year 2014
+     Abstract 4. PROCESS AUTOMATION Despite long history in formal verification research [4] only very  simple software systems can be verified correct based on formal methods of mathematics  The TraCIM Software Verification System (TraCIM SVS) which is under active development at
+     Url http://www.iiis.org/CDs2014/CD2014SCI/SCI_2014/PapersPdf/MA688QD.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Developing the automation of critical infrastructure plants with high operation risk, involving ones in the  2. The place of the software verification and validation in the quality assurance  to be formalized, since, otherwise, to prove somewhat by the use of any formal methods will be
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal specifications in reverse engineering and software verification
+     Author ['IB Bourdonov', 'AV Demakov', 'AS Kossatchev']
+     Venue Proceedings of the …
+     Year 1999
+     Abstract engineering and software verification  Thus, there is a prerequisite for a complete automation of both test generation and analysis of test results. In the last ten years another direction of formal methods application – «model checking» – has become serious
+     Url http://www.burdonov.ru/doctor/papers_1999/Formal_specifications_in_reverse_engineering_and_software_verification/Formal_specifications_in_reverse_engineering_and_software_verification.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Verification of Systems
+     Author ['S Tahar', 'E Cerny', 'X Song']
+     Venue Class Lecture Notes, May
+     Year 2002
+     Abstract design automation.” Page 13  fizzled out by the late 1970's • Theorem proving approaches have “cultural roots” in software verification in 1970's (Hoare, Owicki, Gries) • The use of formal methods did not seem practical - notations too obscure
+     Url http://www.ece.concordia.ca/~tahar/coen7501/notes/1-intro-02.06.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Proceedings of Formal Methods in Computer Aided Design, FMCAD 2010
+     Author ['R Bloem', 'N Sharygina']
+     Venue NA
+     Year 2010
+     Abstract Albstadt-Sigmaringen University, Germany Ziyad Hanna, Jasper Design Automation, USA Christian  Alexander Nadel DFT Logic Verification through Property Based Formal Methods- SOC to  Amit Roy, Bijitendra Mittra, Subir K Roy Session 3. Software Verification SLAM2: Static
+     Url https://repositories.lib.utexas.edu/handle/2152/20112
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated Verification of Embedded Control Software
+     Author ['D Gurov', 'P Herber', 'I Schaefer']
+     Venue … Applications of Formal Methods
+     Year 2020
+     Abstract of formal methods in industrial practice and shows future directions for formal methods research. This track investigates how the degree of automation can be increased for the  Huisman and Monti [5] (On the Industrial Application of Critical Software Verification with VerCors
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61467-6_15
+
+
+     Search term "Automation"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated Reasoning for Software Verification
+     Author ['A Ireland']
+     Venue NA
+     Year NA
+     Abstract Caveat: A tool for software validation  Description logics for shape analysis. In IEEE International Conference on Software Engineering and Formal Methods (SEFM-05), 2005. 10. A. Ireland. Towards increased verification automation for high integrity software engineering
+     Url https://pdfs.semanticscholar.org/7cf4/ff75e024f13bd6aa284073b74faa8cef5d41.pdf
+

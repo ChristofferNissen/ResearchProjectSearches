@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Design of integrated SCADA systems in piston production manufacturing case study on the conveyor, the coolant, the hydraulic, and the alarm systems using PLC …
+     Author ['S Ardi', 'A Ponco', 'RA Latief']
+     Venue 2017 4th International Conference …
+     Year 2017
+     Abstract This research was conducted at the company in Indonesia which is engaged in the production of piston. Piston is an important part of a vehicle. This research is based on the condition of the manufacturing plant, where there is an abnormality on all production lines
+     Url https://ieeexplore.ieee.org/abstract/document/8257700/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Comparison between commercial and open-source SCADA packages—A case study
+     Author ['O Barana', 'P Barbato', 'M Breda', 'R Capobianco']
+     Venue Fusion Engineering and …
+     Year 2010
+     Abstract decided to adopt the open-source EPICS [3] (Experimental Physics and Industrial Control System) package as  Typically, the PLC suppliers have their own (commercial) SCADA, but there are also commercial  The case study 1 presented in this paper aims at comparing a set of
+     Url https://www.sciencedirect.com/science/article/pii/S092037961000030X
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Applying in education an FPGA-based methodology to prototype ASIC soft cores and test ICs
+     Author ['CRW Reinbrecht', 'JL Da Silva']
+     Venue 2012 VIII Southern …
+     Year 2012
+     Abstract In sections IV and V are presented the development and results of a case study  allows emulating the hardware system and provides a test environment for manufactured ICs. On the other hand, when in a FPGA design, the reliability increases, due to the deep verification
+     Url https://ieeexplore.ieee.org/abstract/document/6211803/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Controlling the Filling and Capping Operation of a Bottling Plant using PLC and SCADA
+     Author ['K Chakraborty', 'I Roy', 'P De']
+     Venue Indonesian Journal of …
+     Year 2015
+     Abstract 3. Process Description and Case Study in Factory In our paper we have specialised on ROCKWELL PLC  Using plc programming the process of capping and filling is done simultaneously and as it is  There is one control room where the SCADA output is constantly observed by a
+     Url http://section.iaesonline.com/index.php/IJEEI/article/view/125
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Forensics in industrial control system: a case study
+     Author ['P Van Vliet', 'MT Kechadi', 'NA Le-Khac']
+     Venue Security of Industrial Control …
+     Year 2015
+     Abstract Industrial control system Forensic artefacts Forensic process Case study. Download conference  ICS can also be a very complex Distributed Control System (DCS) connected to Supervisory Control And Data Acquisition (SCADA) system(s) [6] in a nuclear power plant
+     Url https://link.springer.com/chapter/10.1007/978-3-319-40385-4_10
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Implementation of a fuzzy-based level control using SCADA
+     Author ['Z Aydogmus']
+     Venue Expert Systems with Applications
+     Year 2009
+     Abstract applicable. A SCADA has been used for monitoring the present process system  2007). Google Scholar. Yue et al., 1998 PK Yue, HL Sng, CH MessomFuzzy PLC control of a steam heated dryer: Case study and implementation details. IEEE
+     Url https://www.sciencedirect.com/science/article/pii/S0957417408004946
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Automation of tank level using Plc and establishment of Hmi by Scada
+     Author ['R Das', 'S Dutta', 'A Sarkar']
+     Venue IOSR Journal of Electrical …
+     Year 2013
+     Abstract Application of Centralized PLC Automation Control in Painting Line of Steel Plant. Proceeding of the 4th Asian Conference on Industrial Automation and Robotics, Landmark Hotel, Thailand Theses: [10]. Tony Stafford, Taking Back – A SCADA case study, Camrosa Water District
+     Url https://www.researchgate.net/profile/Rishabh_Das2/publication/271258009_Automation_of_Tank_Level_Using_Plc_and_Establishment_of_Hmi_by_Scada/links/59304042a6fdcc89e78439e9/Automation-of-Tank-Level-Using-Plc-and-Establishment-of-Hmi-by-Scada.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title The use of SCADA system in water resources management, management of Shatt Al-Hilla in Iraq as a case study
+     Author ['N Alghazali', 'R Alkhaddar', 'H Hadi']
+     Venue International Journal of …
+     Year 2013
+     Abstract Page 4. 240 Najm OS Alghazali et al.: The Use of SCADA System in Water Resources Management, Management of Shatt Al-Hilla in Iraq as a Case Study Master Station in Baghdad City PLC PLC1 PLC2 Six Motors Head Regulator in ) (Al- Hindiya Barrage
+     Url https://www.researchgate.net/profile/Dr_Najm_Alghazali/publication/270707303_The_Use_of_SCADA_System_in_Water_Resources_Management_Management_of_Shatt_Al-Hilla_in_Iraq_as_a_Case_Study/links/5e078a13299bf10bc380bfc6/The-Use-of-SCADA-System-in-Water-Resources-Management-Management-of-Shatt-Al-Hilla-in-Iraq-as-a-Case-Study.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Supervision of control valve characteristics using PLC and creation of HMI by SCADA
+     Author ['S Dutta', 'A Sarkar', 'K Samanta', 'R Das']
+     Venue 2014 First International …
+     Year 2014
+     Abstract Application of Centralized PLC Automation Control in Painting Line of Steel Plant  XXXV, issue no. 3. [19] Tony Stafford, Taking Back – A SCADA case study, Camrosa Water District, California. July 2002, JP Fig. 7. The HMI window Fig 7(b). Flowchart for Quick Opening Valve
+     Url https://ieeexplore.ieee.org/abstract/document/6808025/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title A case study of modern PLC and LabVIEW controls: Power Supply Controls for the ORNL ITER ECH test stand
+     Author ['AM Barker', 'SM Killough', 'TS Bigelow']
+     Venue 2011 Future of …
+     Year 2011
+     Abstract with large scale SCADA systems Very large scale distributed SCADA systems like  http://www.opcfoundation.org/ [7] Experimental Physics and Industrial Control System (EPICS) http://www  DESIGN CONSIDERATIONS The system presented in this case study is a
+     Url https://ieeexplore.ieee.org/abstract/document/6476800/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Specifying and tendering of automation and SCADA systems: Case study for waste water treatment plants
+     Author ['A Korodi', 'I Silea']
+     Venue 2014 IEEE Conference on Control …
+     Year 2014
+     Abstract engineering, PLC and generally programming of embedded systems, reliability engineering, etc  the structure and substance of technical documentation for an automation and SCADA project then  More than that, taking into consideration the current case study of the waste water
+     Url https://ieeexplore.ieee.org/abstract/document/6981537/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title A Case Study on the Implementation of a River Water Level Monitoring System using PLC (Programmable Logic Controller) and Public Telecommunication Network
+     Author ['S Kim', 'M Kim']
+     Venue Journal of Society for e-Business Studies
+     Year 2016
+     Abstract A Case Study on the Implementation of a River Water Level Monitoring System using  Figure 3> The 3rd Generation- Networked SCADA System [13  및 구현된 통합 소프트웨어로, 설비들과 연결된 PLC(Programmable Logic Controller), DCS(Distributed Control System), RTU 등의
+     Url http://www.jsebs.org/jsebs/index.php/jsebs/article/view/194
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title PLC code-level vulnerabilities
+     Author ['A Serhane', 'M Raad', 'R Raad']
+     Venue … Conference on Computer …
+     Year 2018
+     Abstract [2] Troy Nash, “Backdoors and Holes in Network Perimeters—A Case Study for Improving  ICS Vulnerabilities, URL: https://www2.fireeye.com/rs/848-DID-242/images/ics-vulnerability- trend  S. and Farkas, C. Software Security: Application-Level Vulnerabilities in SCADA Systems
+     Url https://ieeexplore.ieee.org/abstract/document/8460287/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Model-based real-time evaluation of security patterns: A SCADA system case study
+     Author ['A Motii', 'A Lanusse', 'B Hamid', 'JM Bruel']
+     Venue International Conference on …
+     Year 2016
+     Abstract case study. Figure 7 shows the input functional architecture together with hardware platform. The functional model contains ten functions in three transactions with their deadlines and trigger periods. The hardware topology in the platform contains a SCADA master and a PLC
+     Url https://link.springer.com/chapter/10.1007/978-3-319-45480-1_30
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title A digital twin for production planning based on cyber-physical systems: A Case Study for a Cyber-Physical System-Based Creation of a Digital Twin
+     Author ['F Biesinger', 'D Meike', 'B Kraß', 'M Weyrich']
+     Venue Procedia CIRP
+     Year 2019
+     Abstract equipment. In the software of the PLC, there is information about the different variants which are built as well as cycle times of the station and production line  methods. 4. Case Study: Cyber-Physical System Information for the Digital Twin
+     Url https://www.sciencedirect.com/science/article/pii/S2212827119302045
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Survey of SCADA security challenges and potential attack vectors
+     Author ['RE Johnson']
+     Venue … Conference for Internet Technology and Secured …
+     Year 2010
+     Abstract J. Weiss, Bellingham Control System Cyber Security Case Study, http://csrc.nist.gov/groups/ SMAIfisma/ics/documents/pape rslBellingham-Case-Study-briefing.pdf  [5] National Safety and Transportation Board, Supervisory Control and Data Acquision (SCADA) in Liquid
+     Url https://ieeexplore.ieee.org/abstract/document/5678102/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of a fastflex supervisory control and data acquisition (SCADA) remote telemetry unit
+     Author ['TJ Coggins', 'MN Cirstea']
+     Venue 31st Annual Conference of IEEE …
+     Year 2005
+     Abstract Index Terms – FPGA, SoC, SoPC, VHDL, fastflex, SCADA  a full custom ASIC can be manufactured from the same design files as those used for the FPGA design  The sample case study presented in this paper deals with a novel VHDL SoC design, implementing the same
+     Url https://ieeexplore.ieee.org/abstract/document/1569247/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Analysis of SCADA security using penetration testing: A case study on modbus TCP protocol
+     Author ['J Luswata', 'P Zavarsky', 'B Swar']
+     Venue 2018 29th Biennial …
+     Year 2018
+     Abstract Testing: A case study on Modbus TCP Protocol  and intrusion detection," 2015 International Conference on Cyber Security of Smart Cities, Industrial Control System and Communications  Protection Vulnerability [Online] Available: https://ics- cert.us-cert.gov/alerts/ICS-ALERT-11
+     Url https://ieeexplore.ieee.org/abstract/document/8494686/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Implementation of e-Learning Concept for Industrial Control System. A Case Study.
+     Author ['V Calofir', 'I Fagarasan', 'SS Iliescu']
+     Venue … & Software for …
+     Year 2018
+     Abstract Implementation of e-Learning Concept for Industrial Control System. A Case Study  process and design or testing the implementation of different control scheme in simulation or using industrial automation components as Programmable Logic Controllers (PLC) or embedded
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=2066026X&AN=129483724&h=kAzrPohANT6TVUnPMBwu29NuCFOSPPpy1U62K7NJRwKx2PS1073Sd%2BkDd5AAxZcx51EfHPMyuqpTSfUWuMql3w%3D%3D&crl=c
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Recognition and Disposal of Faulty Bottles in a Bottle Filling Industry Using PLC and Producing Human Machine Interface by SCADA
+     Author ['S Das', 'S Dutta', 'A Sarkar', 'S Kar']
+     Venue … Refereed Journal of Engineering and Science …
+     Year NA
+     Abstract Application of Centralized PLC Automation Control in Painting Line of Steel Plant  XXXV, issue no. 3. [12] Tony Stafford, Taking Back – A SCADA case study, Camrosa Water District, California. July 2002, JP www.irjes.com 23 | Page
+     Url http://www.irjes.com/Papers/vol3-issue5/C351823.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Evaluation of software and electronics technologies for the control of the E-ELT instruments: a case study
+     Author ['P Di Marcantonio', 'R Cirami', 'I Coretti']
+     Venue Proc. of …
+     Year 2011
+     Abstract SOFTWARE AND ELECTRONICS TECHNOLOGIES FOR THE CONTROL OF THE E-ELT INSTRUMENTS: A CASE STUDY  Devices and OPC UA Standard Both ICS and DCS control hardware devices. Connection to the ICS PLC hardware is handled via OPC UA [3]. The OPC
+     Url https://accelconf.web.cern.ch/AccelConf/icalepcs2011/papers/wepks025.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title A Simulation-Based Optimisation Method for PLC Systems
+     Author ['B Svensson']
+     Venue NA
+     Year 2012
+     Abstract suitability in industrial applications, and the effectiveness of the new CoLiS algorithm, an optimisation case study has been  Simulation based optimisation, Virtual manufacturing, Industrial control system, PLC, Continuous simulation, Parameter tuning, Optimisation methods
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:555240
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Ontology-driven compression of temporal series: A case study in scada technologies
+     Author ['M Cristani', 'E Burato', 'N Gabrielli']
+     Venue 2008 19th International …
+     Year 2008
+     Abstract Page 1. Ontology-driven compression of Temporal Series: a Case Study in SCADA  SCADA (Supervisory Control And Data Acquisition) technologies are used to provide a framework for trans- ferring data from sensors to micro-controllers, like PLC (Programmable Logic
+     Url https://ieeexplore.ieee.org/abstract/document/4624806/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Design and Development of Industrial Automated System using PLC-SCADA
+     Author ['N Nadgauda']
+     Venue 2019 IEEE 10th GCC …
+     Year 2019
+     Abstract Solutions for automation in warehousing systems can be implemented based on current trends and a thorough case study of the processes carried out in the  Literature [11] illustrated the utilisation of AGVs having line-tracking and teleoperation systems using PLC-SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/9087620/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title … OF LOW COST, LOW POWER SCADA SYSTEM FOR SUGAR INDUSTRY BASED ON ATMEL-CAN NETWORKING MCU 89C51CC03: A CASE STUDY
+     Author ['S JAYADE']
+     Venue International Journal of Computing and Corporate …
+     Year 2011
+     Abstract profit margin is low. PLC based SCADA is too costly as most of the sugar industries are running in loss and about to be closed. The case study of the employability of the low cost SCADA based on the recent microcontroller was carried out by the authors
+     Url http://www.ijccr.com/July2011/6.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title SCADA System for Monitoring Water Supply Network: A Case Study
+     Author ['C Martinovska Bande', 'G Bande']
+     Venue International Journal of …
+     Year 2016
+     Abstract This paper presents a case study of a SCADA system for monitoring and control of the  is made between different Industrial Control Systems (ICT): Supervisory Control and Data Acquisition (SCADA), Distributed Control Systems (DCS) and Programmable
+     Url http://eprints.ugd.edu.mk/16285/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Stuxnet worm impact on industrial cyber-physical system security
+     Author ['S Karnouskos']
+     Venue IECON 2011-37th Annual Conference of the …
+     Year 2011
+     Abstract security as a process [29] by looking holistically the emergent cyber-physical system of systems  supervisory systems in complex industrial organizations: Basic principles and case study,” Comput  Falco, and K. Scarfone, “Guide to industrial control systems (ics) security,” National
+     Url https://ieeexplore.ieee.org/abstract/document/6120048/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title PLC based intelligent power factor correctors for industrial power systems-A case study
+     Author ['NR Kulkami', 'HV Murthy', 'AP Raju']
+     Venue … International Conference on …
+     Year 2015
+     Abstract Fig. 8. Real time result of improved power factor after successful application ofIPFC in the industry considered for case study  [6] K Gowrishankar, "Control of boiler operation using PLC-SCADA" International MultiConference of Engineers and Computer Scientists, vol. II, pp
+     Url https://ieeexplore.ieee.org/abstract/document/7274920/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Mobile phone based SCADA for industrial automation
+     Author ['E Ozdemir', 'M Karacor']
+     Venue ISA transactions
+     Year 2006
+     Abstract PLCs), single loop controllers, direct digital con- trol systems (DDC), distributed control systems (DCS), and input  At the second stage, an autho- rized user can control the SCADA system values via  In our case study, authorized users can control the state of motor 1, motor 2, and
+     Url https://www.sciencedirect.com/science/article/pii/S0019057807600664
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Case study: Revised engineering and testing practices resulting from migration to IEC 61850
+     Author ['H Fischer', 'J Gilbert', 'G Morton']
+     Venue Proceedings of the …
+     Year 2008
+     Abstract © 2008 PPL Electric Utilities Corporation and SEL Case Study: Revised Engineering and Testing Practices Resulting From  Windows PC Primary HMI Windows PC Backup HMI PLC-Based Tap Changer Under Load (TCUL) PLC-Based SCADA To Other Bay PLCs
+     Url http://www.zonaeletrica.com.br/downloads/ctee/simpase2009/minicurso1/Part%2007%20PP&L%20Revised%20Engineering_For%20Test.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Modular and systematic design of supervisory control system integrating PLC, SCADA and task routing for a modular production system
+     Author ['WAF Scotti', 'NB Portilla', 'MH de Queiroz']
+     Venue 2015 IEEE …
+     Year 2015
+     Abstract This paper presents a SCT based methodology to synthe- size and implement the supervisory control of manufacturing systems integrating PLC, SCADA and task routing by means of the MASC structure. This work uses as a case study a didactic MPS with a hierarchical control
+     Url https://ieeexplore.ieee.org/abstract/document/7294180/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Building a SCADA security testbed
+     Author ['C Queiroz', 'A Mahmood', 'J Hu', 'Z Tari']
+     Venue 2009 Third International …
+     Year 2009
+     Abstract we describe the main components of our SCADA simulation using a case study of a  SCADA SYSTEM ARCHITECTURE Figure 1 illustrates how a modern SCADA system is connected  consist of Remote Terminal Units (RTU), Programmable Logic Devices (PLC), and Intelligent
+     Url https://ieeexplore.ieee.org/abstract/document/5319283/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Process Automation Through PLC And SCADA
+     Author ['N Pal', 'S Dave', 'K Chahal', 'S Shahdadpuri']
+     Venue International Journal for …
+     Year 2010
+     Abstract [3] Tony Stafford, Taking Back – A SCADA case study, Camrosa Water  [5] Engin Ozdemir, Mevlut karacor, “Mobile Phone based SCADA for Industrial  A. Sagahyroon, A. Elrayes, AR A1-Ali, R. A1-Aydi, “Development of a Monitoring and Control Platform for PLC-Based Application
+     Url http://www.academia.edu/download/36113824/IJIRSTV1I6017.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Integrating a commercial industrial control system to the accelerator control system: a case study
+     Author ['F Momal', 'J Brahy', 'R Saban', 'P Sollander']
+     Venue Nuclear Instruments and …
+     Year 1994
+     Abstract Integrating a commercial industrial control system to the control system: a case study  These industrial control sys- tems can be divided in two categories: the DCS (Distrib- uted Control System) and the PLC (Programmable Logic Controller)
+     Url https://www.sciencedirect.com/science/article/pii/0168900294915717
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title PLC & SCADA, a Case Study:-Autoclave Automation
+     Author ['DP Kadam', 'PM Sonwane', 'MSC Landge', 'VP Dhote']
+     Venue NA
+     Year NA
+     Abstract Automation generally refers to the science and technology of process control and includes the control of chemical and petrochemical plants, Oil refineries, iron and steel plant, Power plants, cement mills, Paper pulp and paper mills water and waste water treatment plants and
+     Url https://www.researchgate.net/profile/Pravin_Sonawane4/publication/296754469_PLC_SCADA_a_Case_Study_-Autoclave_Automation/links/56da6bf808aee73df6cf6db1.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title ICS security testbed with delay attack case study
+     Author ['E Korkmaz', 'A Dolgikh', 'M Davis']
+     Venue MILCOM 2016-2016 …
+     Year 2016
+     Abstract ICS Security Testbed with Delay Attack Case Study  In order to test time delay effects on the industrial control system, we utilized the Binghamton University  In the following subsections, testbed components are summarized to describe the cyber- physical system design and how
+     Url https://ieeexplore.ieee.org/abstract/document/7795340/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title An internet based distributed control systems: A case study of oil refineries
+     Author ['MK Mahmood', 'FM Al-Naima']
+     Venue Energy and Power Engineering
+     Year 2011
+     Abstract An Internet based Distributed Control System (DCS) is presented in this paper for monitoring real time data using ordinary web browser  based on web services was presented in [9]. In [10, 11] an internet based SCADA systems for power plants taking as case study the power
+     Url https://www.academia.edu/download/37087416/EPE20110300010_82684936.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Design of High Speed, Reconfigurable Multiple ICs Tester using FPGA Platform
+     Author ['B Rabakavi', 'S Siddamal']
+     Venue 2018 International Conference on …
+     Year 2018
+     Abstract Fig.6: Simulation of JKFF d) Case study of comparator of 4bits  Further this work can be extended to support many more ICs used in the industries like ADC, DAC, memories etc. and also different packages like PLCC, BGA as FPGA support huge I/O count and density etc
+     Url https://ieeexplore.ieee.org/abstract/document/9001588/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Perancangan SCADA Software dengan Wonderware InTouch Recipe Manager dan SQL Access Manager pada Simulator Proses Pencampuran Bahan
+     Author ['H Wicaksono', 'R Lim', 'W Sutanto']
+     Venue Jurnal Teknik Elektro
+     Year 2009
+     Abstract In this research, the process of paper making will be used as an industrial case study. In order to describe the process, a simulator plant will be made. It connects to PLC Omron C200HG and a computer which installed with Wonderware InTouch. In SCADA software that has
+     Url http://203.189.120.189/ejournal/index.php/elk/article/view/17354
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title A cyber–physical system-based approach for industrial automation systems
+     Author ['K Thramboulidis']
+     Venue Computers in Industry
+     Year 2015
+     Abstract Authors in [13] report their experience from an evaluation of a UML-based versus an IEC 61131-3-based software engineering approach for teaching PLC Programming  3. A cyber–physical system-based approach for system development. 3.1. The liqueur plant case
+     Url https://www.sciencedirect.com/science/article/pii/S0166361515000962
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Testbed diversity as a fundamental principle for effective ICS security research
+     Author ['B Green', 'SAF Frey', 'A Rashid', 'D Hutchison']
+     Venue Serecin
+     Year 2016
+     Abstract Keywords Industrial Control System; ICS; Supervisory Control and Data Acquisition; SCADA; Testbed; Security; Resilience  Figure 3 and table 1 are the output of a case study with a  Our testbed will investigate ICS-IoT interactions through extensions to the existing infrastructure
+     Url https://eprints.lancs.ac.uk/id/eprint/79044/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Distributed attack detection in a water treatment plant: Method and case study
+     Author ['S Adepu', 'A Mathur']
+     Venue IEEE Transactions on Dependable and …
+     Year 2018
+     Abstract Plant: Method and Case Study  I. INTRODUCTION A Cyber Physical System (CPS, also referred to here as a plant, consists of a physical process controlled by a  The com- putation and communications infrastructure is also referred to as an Industrial Control System (ICS)
+     Url https://ieeexplore.ieee.org/abstract/document/8486707/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Reduction of Energy Consumption in Hotels with Aerothermal Energy. Case Study: Canary Islands (Spain)
+     Author ['FJD Perez', 'D Chinarro', 'MRP Otín']
+     Venue … of Engineering & …
+     Year 2018
+     Abstract Energy. Case Study: Canary Islands (Spain) Francisco Javier Díaz Perez1*, David Chinarro1, Mª Rosa Pino Otín1, Ricardo Díaz Martín2, and Adib Guardiola Mouhaffel3  Keywords: DHW, energy efficiency, hotels, aerothermal energy, SCADA, PLC. 1. Introduction
+     Url https://www.researchgate.net/profile/Francisco_Javier_Diaz_Perez/publication/327287899_Reduction_of_Energy_Consumption_in_Hotels_with_Aerothermal_Energy_Case_Study_Canary_Islands_Spain/links/5b9787cc92851c78c41c766d/Reduction-of-Energy-Consumption-in-Hotels-with-Aerothermal-Energy-Case-Study-Canary-Islands-Spain.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Attacking Fieldbus Communications in ICS: Applications to the SWaT Testbed.
+     Author ['DI Urbina', 'JA Giraldo', 'NO Tippenhauer', 'AA Cárdenas']
+     Venue SG-CRC
+     Year 2016
+     Abstract A modern industrial control system typically consists of several layers of networks  in turn communicate with a centralized Supervisory Control and Data Acquisition (SCADA) system with  a systematic methodology to deploy cyber-attacks on industrial control systems (ICS), with a
+     Url https://www.researchgate.net/profile/Jairo_Giraldo/publication/292612170_Attacking_Fieldbus_Communications_in_ICS_Applications_to_the_SWaT_Testbed/links/5a0a481945851551b78d3539/Attacking-Fieldbus-Communications-in-ICS-Applications-to-the-SWaT-Testbed.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Case study: Efficiently replace plc automation systems by integrating ieds with fiber-optic and ethernet communications in the substation
+     Author ['R Jenkins', 'D Dolezilek', 'D Darms']
+     Venue 2006 Power Systems …
+     Year 2006
+     Abstract the existing in-service PLC-based systems. This case study explains integrating the existing protective relays to use their logic and control capabilities in making previously unavailable local automation decisions, along with providing remote access SCADA, which provides both
+     Url https://ieeexplore.ieee.org/abstract/document/4064689/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Intrusion Detection in PLC-Based Industrial Control Systems Using Formal Verification Approach in Conjunction with Graphs
+     Author ['M Hailesellasie', 'SR Hasan']
+     Venue Journal of Hardware and Systems Security
+     Year 2018
+     Abstract 4 Case Study: Water Level Control System  In: 2015 international conference on cyber security of smart cities, industrial control system and communications (SSIC)  http://www.ssic-conf.org/ 2015/quickstart/. 8. Huang S et al (2015) Cyber-physical system security for networked
+     Url https://link.springer.com/article/10.1007/s41635-017-0017-y
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Migration of a SCADA system to IaaS clouds–a case study
+     Author ['P Church', 'H Mueller', 'C Ryan']
+     Venue Journal of Cloud …
+     Year 2017
+     Abstract Section 5 shows a case study – it describes the process used to develop and  EPICS (Experimental Physics and Industry Control System) [15] is a SCADA system designed to  TANGO [16] is an object orientated distributed control system supported by a consortium of European
+     Url https://www.biomedcentral.com/openurl?doi=10.1186/s13677-017-0080-5
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract based on PLCs (Programmable Logic Controllers) using the UNICOS (UNified Industrial COntrol System) framework [8  In the case study presented, the process is controlled by a Siemens PLC  the PLC structure with the links between objects and the communication with SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract for testing PLC programs developed within the UNICOS (UNified Industrial COntrol System) framework  of both approaches are presented and illustrated with a case study, validating a  this in mind, another possible approach would be using a SCADA application connected to
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+     Title PLC-based systems for data acquisition and supervisory control of environment-friendly energy-saving technologies
+     Author ['Y Kondratenko', 'OV Korobko', 'OV Kozlov']
+     Venue Green IT Engineering: Concepts …
+     Year 2017
+     Abstract In [19, 20] an internet based SCADA systems for power plants taking as case study the power system in Montenegro and Cameroon were presented. Researcher, Aydogmus [16], has presented a SCADA control via PLC for monitoring of water level in tank with fuzzy controller
+     Url https://link.springer.com/chapter/10.1007/978-3-319-44162-7_13
+

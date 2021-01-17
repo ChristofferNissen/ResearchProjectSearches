@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Factory"+"PLC"+OR+"FPGA"
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title A Model-Based Approach to Calculate Maintainability Task Lists of PLC Programs for Factory Automation
+     Author ['K Busch', 'J Rätz', 'S Koch', 'R Heinrich']
+     Venue IECON 2018-44th …
+     Year 2018
+     Abstract As long-living systems, automated Production Systems (aPS) have to be adapted due to optimization and inclusion of new features in their life cycle over decades. aPS consist of electrical, mechanical, and software components, which have a complex interaction and
+     Url https://ieeexplore.ieee.org/abstract/document/8591302/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of wireless lan system for factory automation
+     Author ['TTT Nguyen', 'Y Nagao', 'T Uwai']
+     Venue 2018 International …
+     Year 2018
+     Abstract A design of wireless communication system, particularly Media Access Control (MAC) and Physical layer system (PHY) for Factory Automation (FA) system based on Wireless Local Area Network (WLAN) communication system, is proposed in this paper. The designed of
+     Url https://ieeexplore.ieee.org/abstract/document/8587479/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automatic generation of PLC automation projects from component-based models
+     Author ['E Estévez', 'M Marcos', 'D Orive']
+     Venue The International Journal of Advanced …
+     Year 2007
+     Abstract Several groups are focussed their research in this topic. [21] discusses the role of the IEC 61499 in the factory automation and analyses the current on going research by several groups  In fact, only ISaGRAF® PLC programming tool [26] announces it is
+     Url https://link.springer.com/content/pdf/10.1007/s00170-007-1127-4.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Power quality and factory automation
+     Author ['VE Wagner', 'AA Andreshak']
+     Venue IEEE Transactions on …
+     Year 1990
+     Abstract QUALITY AND FACTORY AUTOMATION Normal Operation Disrupted Operation I I I I I I I I I I I I I I ( I ( III I I I I I I I I I I I I I I ~ I I I 1 1 1 1 1 1 625 loof Normal Operation 1 B - m cn m 3 .- L 0 Normal Operation Disrupted Operation 2of f [ 0.1 0.2 0.3 0.4 Duration(s) Fig. 9. PLC processor
+     Url https://ieeexplore.ieee.org/abstract/document/55984/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title A CORBA-based remote monitoring system for factory automation
+     Author ['K Kusunoki', 'I Imai', 'H Ohtani']
+     Venue … on Object-Oriented …
+     Year 1998
+     Abstract And we have developed two prototypes of remote mon- itoring system for factory automation, which are a manufacturing line monitoring system and a remote PLC monitoring with using Web browser, to examine feasibility and e ectiveness of our proposed architec- ture
+     Url https://ieeexplore.ieee.org/abstract/document/666812/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Factory management and transport automation
+     Author ['MC Mora', 'V Suesta', 'L Armesto']
+     Venue … and Factory Automation …
+     Year 2003
+     Abstract This paper describes factory management and transport automation based on a fleet of industrial  Factory supervision is achieved by means of a SCADA application located on computers  has been included, At present, a hardware centralized architecture based on PLC with US
+     Url https://ieeexplore.ieee.org/abstract/document/1248741/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Development of PLC-based software for increasing the dependability of production automation systems
+     Author ['D Schütz', 'A Wannagat', 'C Legat']
+     Venue IEEE Transactions on …
+     Year 2012
+     Abstract (R4) Sensor precisions affecting factory functions Since the sensor values used in the automation software deviate from the physical state of the machinery, parameter  (R6) Implementation on a PLC with real-time requirements Based on the implementation of soft
+     Url https://ieeexplore.ieee.org/abstract/document/6359925/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Embedded web PLC: a new advances in industrial control and automation
+     Author ['B Mahato', 'T Maity', 'J Antony']
+     Venue 2015 Second International …
+     Year 2015
+     Abstract The simple laboratory experimental set-up presented shows a clear view of the application and operation Nano-10 PLC for the use in remote factory area. This will definitely open up a new aspect of automation in industrial scenario. References
+     Url https://ieeexplore.ieee.org/abstract/document/7306669/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Dual protocol stack for maximum speed access to a programmable logic controller (PLC) in a factor automation system
+     Author ['AD Papadopoulos', 'A Tanzman', 'RH Naismith']
+     Venue US Patent 6,963,922
+     Year 2005
+     Abstract Many manufacturers provide factory automation information using Microsoft Windows and other types of  the Internet in place of specialized industrial networks to remotely monitor automation control devices  The faster the means of communication between a PLC device and its I
+     Url https://patents.google.com/patent/US6963922B2/en
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title The providing-water with frequency converter PLC automatic control system of tap water factory
+     Author ['Y Chen']
+     Venue Control & Automation
+     Year 2005
+     Abstract 3, Zhang Lixin (Department of Automation, Beijing Institute of Petro-chemical Technology, Beijing 102617) Chu Xiaoming (Research Institute, Hydraulic mechanical factory of Shou Gang, Beijing 102600);Application of Programmable Logical Controller (PLC) in the Control
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WJSJ200502000.htm
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Roaming in wireless factory automation networks
+     Author ['M Rentschler']
+     Venue … Technologies and Factory Automation (ETFA)
+     Year 2017
+     Abstract III. ROAMING IN THE CONTEXT OF CONTROL SYSTEMS Control systems in factory automation consist mostly of a single PLC with a precisely defined topology of I/O- devices, being conceptually a master-slave system. The
+     Url https://ieeexplore.ieee.org/abstract/document/8247723/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title A security mechanism for automation control in PLC-based networks
+     Author ['J Heo', 'CS Hong', 'SH Ju', 'YH Lim']
+     Venue … Symposium on Power …
+     Year 2007
+     Abstract FUTURE WORKS We propose a Security Provider for metering and automation control system  real UPLC system environment and considering other security factor for PLC-based network  for Power-line Metering System," In proceedings of IEEE Factory Communication Systems
+     Url https://ieeexplore.ieee.org/abstract/document/4231743/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title On the implementation of industrial automation systems based on PLC
+     Author ['F Basile', 'P Chiacchio']
+     Venue … on Automation Science …
+     Year 2013
+     Abstract 1545-5955 © 2012 IEEE Page 2. BASILE et al.: ON THE IMPLEMENTATION OF INDUSTRIAL AUTOMATION SYSTEMS BASED ON PLC 991  Page 4. BASILE et al.: ON THE IMPLEMENTATION OF INDUSTRIAL AUTOMATION SYSTEMS BASED ON PLC 993 Fig
+     Url https://ieeexplore.ieee.org/abstract/document/6381490/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Trend of process automation and factory automation
+     Author ['S Shin']
+     Venue 2006 SICE-ICASE International Joint Conference
+     Year 2006
+     Abstract There are two fields in the production system. One is PA (Process Automation) and another is FA (Factory Automation)  The controller for FA is PLC (Programmable Logic Controller), which treats ON/OFF signal mainly and its origin is a relay sequence
+     Url https://ieeexplore.ieee.org/abstract/document/4108815/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Factory automation: a controls course for every university
+     Author ['KT Erickson']
+     Venue Proceedings of the 2001 American Control …
+     Year 2001
+     Abstract Table 1. Outline of First PLC Course Lectures Topic Introduction to factory automation and PLCs Basic ladder logic PLC memory, discrete YO and wiring Timers, counters Sequential applications Troubleshooting Exam 1 Tour of local industry
+     Url https://ieeexplore.ieee.org/abstract/document/945879/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title The design of a factory aquiculture monitor system based on PLC [J]
+     Author ['MA Cong-guo', 'NI Wei']
+     Venue Industrial Instrumentation & Automation
+     Year 2005
+     Abstract The paper analyses the present conditions and some problems of aquiculture in China, and presents the design method of software and hardware and the control strategy for use with the factory aquiculture. The system has been used successfully in a production process in
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GYZD200502017.htm
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automation of tank level using Plc and establishment of Hmi by Scada
+     Author ['R Das', 'S Dutta', 'A Sarkar']
+     Venue IOSR Journal of Electrical …
+     Year 2013
+     Abstract In our project we used SIEMENS S7- 300 PLC [3].S.Ghosh et, al has effectively designeda bottle filling plant using PLC [4] and A.Saha et, al gives a proposed system that efficiently controls a cement factory using PLC[5]. A Centralized PLC Automation Control in Painting Line of
+     Url https://www.researchgate.net/profile/Rishabh_Das2/publication/271258009_Automation_of_Tank_Level_Using_Plc_and_Establishment_of_Hmi_by_Scada/links/59304042a6fdcc89e78439e9/Automation-of-Tank-Level-Using-Plc-and-Establishment-of-Hmi-by-Scada.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title System for programming a factory automation device using a web browser
+     Author ['RA Baker']
+     Venue US Patent 7,035,898
+     Year 2006
+     Abstract Yet another object of the invention allows for easy access over a commercial network such as the Internet to a device for programming an application program of a factory automation device, preferably a programmable logic controller (PLC)
+     Url https://patents.google.com/patent/US7035898B1/en
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Innovative experiments for undergraduate factory automation
+     Author ['KT Erickson']
+     Venue IFAC Proceedings Volumes
+     Year 1996
+     Abstract As part of this strategy, the EE department continues to upgrade its factory automation laboratory. This laboratory presents one piece of the overaU interdisciplinary nature of factory automation, namely programmable logic controller (PLC) programming
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017581331
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC based industrial crane automation & monitoring
+     Author ['YN Burali']
+     Venue International Journal of Engineering and Science
+     Year 2012
+     Abstract crane movements. Programmable Logic Controller (PLC) is a small computer used for automation of real-world processes, such as control of machinery on factory assembly lines. The PLC usually uses a microprocessor. The
+     Url http://www.academia.edu/download/31243989/A0130104.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Web based factory automation training on demand
+     Author ['MW Harriman']
+     Venue US Patent 7,033,179
+     Year 2006
+     Abstract provides integrated training on demand regarding factory automation subjects, unlike the prior art which at best suggests only time-consuming training systems which do not provide integrated training when it is demanded. In the software for programming a PLC, when an error
+     Url https://patents.google.com/patent/US7033179B2/en
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Industrializing software development: The “factory automation” way
+     Author ['NI Altintas', 'S Cetin', 'AH Dogru']
+     Venue International Conference on Trends in …
+     Year 2006
+     Abstract DE). Our Software Factory Automation (SFA) approach is principally inspired by the PLC concept. Fig. 1  Automation Fig. 1. Software Factory Automation and PLC Analogy SFA has further commonalities with PLC. Specifically
+     Url https://link.springer.com/chapter/10.1007/978-3-540-75912-6_5
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title … device for use with a factory automation network having multiple stations for accessing a factory automated device using address variables specific to the factory …
+     Author ['A Kabe']
+     Venue US Patent 5,604,914
+     Year 1997
+     Abstract Typically, the Client is a controller station and the Server is a FA device. FIG. 4B is a block diagram illustrating the arrangement of a conventional communication device employing a PLC (Programmable Logic Controller) 1 as an example of an FA (Factory Automation) device
+     Url https://patents.google.com/patent/US5604914A/en
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title An adaptive industrial boiler automation application using FPGA & GSM
+     Author ['US Kulkarni', 'VN Ghodke']
+     Venue International Journal of Applied …
+     Year 2015
+     Abstract The revolution of automation on factory floors is a key driver for the more  In this paper we have introduced a controller design for boiler automation with a  The PLC designer can integrate flexible high-performance DSP functions, microcontrollers, logic functions, and
+     Url http://portal.unimap.edu.my/portal/page/portal30/Lecture%20Notes/KEJURUTERAAN_MIKROELEKTRONIK/Semester%201%20Sidang%20Akademik%2020152016/EMT%20353%20Digital%20IC%20Design/sampelreport.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Ultra-reliable and low-latency communication for wireless factory automation: From LTE to 5G
+     Author ['SA Ashraf', 'I Aktas', 'E Eriksson']
+     Venue … Factory Automation  …
+     Year 2016
+     Abstract In factory automation, this behavior can be seen as an equivalent to a device collecting the sensory data and forwarding it to the PLC (ie, uplink traffic) which is then processed and transmitted to the actuator by the PLC (ie followed by a downlink traffic)
+     Url https://ieeexplore.ieee.org/abstract/document/7733543/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Development of a mobile manufacturing system with PDA and PLC
+     Author ['AWL Yao', 'SD Strombeck', 'JSC Chi']
+     Venue The International Journal of Advanced …
+     Year 2005
+     Abstract con- forms to IEEE 802.11b. Experimental results show that the PDA and PC-based platforms are able to control and monitor a PLC- controlled manufacturing system promptly for a F2B practice. Keywords E-factory · E-manufacturing · Factory automation · Factory-to-business
+     Url https://link.springer.com/content/pdf/10.1007/s00170-003-1914-5.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Real time automated control of industrial processes with PLC–LABVIEW communication
+     Author ['N Akshay', 'KU Sravanth', 'R Varanasi']
+     Venue International Journal for …
+     Year 2012
+     Abstract I. Introduction A Programmable Logic Controller (PLC) or Programmable Controller is a digital computer used for automation of electrochemical processes, such as control of machinery on factory assembly lines, amusement rides, or lighting fixtures
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.669.6796&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title A Metamodel-Based Approach to Calculate Maintainability Task Lists of PLC Programs for Factory Automation
+     Author ['K Busch', 'J Raetz', 'S Koch', 'R Heinrich']
+     Venue … Conference of the …
+     Year 2018
+     Abstract As long-living systems, automated Production Systems (aPS) have to be adapted due to optimization and inclusion of new features in their life cycle over decades. aPS consist of electrical, mechanical, and software components, which have a complex interaction and
+     Url https://mediatum.ub.tum.de/1454669
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title The System of the Electricity Automation of Sewage Factory Based on PLC S7-200 [J]
+     Author ['HU Jin-ming']
+     Venue Journal of Langfang Teachers College
+     Year 2007
+     Abstract To control the system of the electricity automation primarily depends on PLC to analyze the collected data and send controlling instructions. The S7-200 series are a kind of micro-programmable logic controllers (Micro PLCs) that can control various automation
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-LFSF200703007.htm
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Guided semi-automatic system testing in factory automation
+     Author ['S Ulewicz', 'B Vogel-Heuser']
+     Venue 2016 IEEE 14th International …
+     Year 2016
+     Abstract The approach was qualitatively evaluated in an application experiment using a real industrial factory automation system by a group of six industrial experts in the field of factory automation, more specifically PLC programming, commissioning and module library programming for
+     Url https://ieeexplore.ieee.org/abstract/document/7819148/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title An autonomous, decentralized control system for factory automation
+     Author ['N Koinoda', 'K Kera', 'T Kubo']
+     Venue Computer
+     Year 1984
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Wireless communication for factory automation: An opportunity for LTE and 5G systems
+     Author ['B Holfeld', 'D Wieruch', 'T Wirth', 'L Thiele']
+     Venue IEEE …
+     Year 2016
+     Abstract of the protocol stack. Latency is considered end-to-end (e2e) in factory automation, where one end is formed by sensors measuring data and provid- ing it to the process logic controller (PLC). The PLC comprises the essential
+     Url https://ieeexplore.ieee.org/abstract/document/7497764/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of PLC programs using automated high-level synthesis tools
+     Author ['C Economakos', 'G Economakos']
+     Venue 2008 IEEE International …
+     Year 2008
+     Abstract logic controllers (PLC) are the most commonly used computing devices in factory automation and industrial  since 1968 [1], they are still preferred by designers in industrial automation tasks  2] the authors have investigated alternative methods for translating a PLC program to an
+     Url https://ieeexplore.ieee.org/abstract/document/4677262/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title An application of FPGA to high-speed programmable controller: development of the conversion program from SFC to Verilog
+     Author ['M Ikeshita', 'Y Takeda', 'H Murakoshi']
+     Venue … Factory Automation …
+     Year 1999
+     Abstract The high-speed programmable controller (PC) is required in factory automation (FA). Recently, field programmable gate arrays (FPGA) are expected to be used for high-speed PC. Programming languages for a current PC are Ladder Diagram or Sequential Function
+     Url https://ieeexplore.ieee.org/abstract/document/813151/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Adding factory floor automation to digital ecosystems; tools, technology and transformation.
+     Author ['P Phaithoonbuathong', 'T Kirkham']
+     Venue 2008 2nd IEEE …
+     Year 2008
+     Abstract Thus the use of SOA hold the potential to break the integration chains of proprietary and legacy software that is surrounding factory automation systems, and preventing them from joining effective  The proto- col can be implemented at control devices (PLC, Embedded devices)
+     Url https://ieeexplore.ieee.org/abstract/document/4635176/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Development of a remote control equipment for farm automation
+     Author ['JJ Choi', 'SH Park', 'YK Choi']
+     Venue 전자공학회논문지 IE
+     Year 2008
+     Abstract The purpose of this paper is to build a system applicable to floriculture, hydroponics and vinyl house agriculture by a development of remote control equipments using programmable logic controllers (PLC). Remote factory automation and home automation systems
+     Url https://www.koreascience.or.kr/article/JAKO200806135604133.page
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title An FPGA-based implementation for median filter meeting the real-time requirements of automated visual inspection systems
+     Author ['MA Vega-Rodríguez']
+     Venue … and Automation
+     Year 2002
+     Abstract Page 1. AN FPGA-BASED IMPLEMENTATION FOR MEDIAN  fax: +34-927-257202 e-mail: {mavega,sanperez,jangomez}@unex.es Keywords: Factory Automation, Image Processing, Median Filter, Reconfigurable Hardware, Real- Time Processing. Abstract
+     Url http://islab.soe.uoguelph.ca/sareibi/TEACHING_dr/ENG6530_RCS_html_dr/outline_W2017/docs/PAPER_REVIEW_dr/2013_dr/GRAD_dr/FPGAbasedMedianFilter.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Evaluation of a newly developed model-driven PLC programming approach for machine and plant automation
+     Author ['M Obermeier', 'D Schütz']
+     Venue 2012 IEEE International …
+     Year 2012
+     Abstract Vogel-Heuser, S. Braun, M. Obermeier, F. Jobst, and K. Schweizer, “Usability Evaluation on Teaching and Applying Model-Driven Object Oriented Approaches for PLC Software,” presented  Emerging Technologies and Factories and Factory Automation (ETFA), Bilbao, 2010, pp
+     Url https://ieeexplore.ieee.org/abstract/document/6377957/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Software changes in factory automation: Towards automatic change based regression testing
+     Author ['S Ulewicz', 'D Schütz']
+     Venue IECON 2014-40th Annual …
+     Year 2014
+     Abstract The described approaches can be used to tackle individual problems of the development process in factory automation engineering, but few are directly applicable to real PLC code or need extensive manual effort not available in this domain
+     Url https://ieeexplore.ieee.org/abstract/document/7048875/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Particle filter slam on fpga: A case study on robot@ factory competition
+     Author ['BG Sileshi', 'J Oliver', 'R Toledo', 'J Gonçalves']
+     Venue Robot 2015: Second …
+     Year 2016
+     Abstract the model of such low cost laser scanner, this work presented an FPGA implementation of  EMG30 geared motor with encoder resorting to simtwo: the official robot@factory simulator  In: Flexible Automation Intelligent Manufacturing (Faim 2013), Porto, July 28, 2013 8. Campos, D
+     Url https://link.springer.com/chapter/10.1007/978-3-319-27146-0_32
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Experiments for an Undergraduate Automation Laboratory
+     Author ['KT Erickson']
+     Venue 1993 American Control Conference
+     Year 1993
+     Abstract To give the students a realistic view of factory automation, programming of the PLCs is accomplished with personal computers connected directly with the PLC or connected remotely over a communication network. IL Batch Cntrol
+     Url https://ieeexplore.ieee.org/abstract/document/4793237/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title System and method for accessing devices in a factory automation network
+     Author ['D Dube']
+     Venue US Patent App. 10/097,390
+     Year 2002
+     Abstract proprietary protocols. [0002]. BACKGROUND OF THE INVENTION; Methods for remote access of objects and components in a PLC or factory automation device often require unique, proprietary protocols. These methods require
+     Url https://patents.google.com/patent/US20020152289A1/en
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Transparent Factory,«Information Everywhere»: Benefits to Users Impacts PLC Design
+     Author ['J Doussy', 'G Brault']
+     Venue IFAC Proceedings Volumes
+     Year 1998
+     Abstract Copyright IQ IFAC Infonnation Control in Manufacturing, Nancy - Metz, France, 1998 TRANSPARENT FACTORY,« INFORMATION EVERYWHERE »: BENEFITS TO USERS IMPACTS PLC DESIGN Jean Doussy, Gilbert Brault Schneider Automation Sophia Antipolis France
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017405532
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automatic generation of PLC programs using Automation Designer
+     Author ['M Andersson', 'E Helander']
+     Venue NA
+     Year 2010
+     Abstract 3.1 Programmable Logic Controller (PLC) for Industrial Automation A PLC (Programmable Logic Controller) is a digital computer used for controlling an automated production system such as factory assembly lines. The PLC controls equipment like robots, fixtures and conveyors
+     Url http://publications.lib.chalmers.se/records/fulltext/133762.pdf
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Modular wireless real-time sensor/actuator network for factory automation applications
+     Author ['HJ Korber', 'H Wattar', 'G Scholl']
+     Venue IEEE Transactions on Industrial …
+     Year 2007
+     Abstract (FPGA) or a fast microcontroller, whereby the FPGA solution offers greater design flexibility  [2] T. Schildknecht, “Wie kann man SPS steuerungen per funk koppeln (how to couple PLC wirelessly),” in Proc  Emerging Technologies and Factory Automation (EFTA), Nov. 1996, vol
+     Url https://ieeexplore.ieee.org/abstract/document/4214849/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title The future of control [programmable automation controllers]
+     Author ['I Bell']
+     Venue Manufacturing Engineer
+     Year 2005
+     Abstract Factory automation  However, control engineers today can use LabVIEW FPGA to create custom control algorithms that are downloaded onto FPGA chips  But, if this is all they are doing then a PAC is not cost effective and you should stick with the traditional PLC based approach
+     Url https://ieeexplore.ieee.org/abstract/document/1508021/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Application of PLC and Configuration Software in Remote Monitoring and Control System for Sewage Treatment [J]
+     Author ['L CAO', 'J TIAN', 'G HUANG']
+     Venue Machine Tool & Hydraulics
+     Year 2008
+     Abstract of Automation, Shanghai Jiaotong Univ  200030 )Yuan Jingqi;Application of Control System on the Base of S7-400 PLC in Sewage  China Academy of Engineering Physics,Mianyang, Sichuan621900;Application Of RSView32 In Waste Water Treatment Factory's Control System
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JCYY200807067.htm
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Application of PLC and frequency converter in the rebuilding ingredient production line of ferrosilicon factory [J]
+     Author ['F WANG', 'J WEI', 'Z ZHANG']
+     Venue Electric Drive Automation
+     Year 2010
+     Abstract A rebuilding example on the use of PLC and AC frequency converter is expatiated in the ingredient production line of ferrosilicon factory, and the system of hardware and software processes are introduced. The roles of the various parts of the system are discussed
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DQCD201006014.htm
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title WIA-FA and its applications to digital factory: A wireless network solution for factory automation
+     Author ['W Liang', 'M Zheng', 'J Zhang', 'H Shi', 'H Yu']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract This paper introduces the Wireless networks for Industrial Automation–Factory  This paper presents a comprehensive survey on recently approved International Electrotechnical Commission standard Wireless networks for Industrial Automation–Factory Automa- tion (WIA-FA)
+     Url https://ieeexplore.ieee.org/abstract/document/8649759/
+
+
+     Search term "Automation"+"Factory"+"PLC"+OR+"FPGA"
+     Title Design and Implementation of PLC Experimental Platform
+     Author ['XJ Guo', 'LC Ren', 'YW Geng', 'Y Liu']
+     Venue Research and Exploration in …
+     Year 2011
+     Abstract J];Coal Mine Machinery;2009-10. 6, Qiu Xiaohuai ZhangZhijun;Packet Wood Composites Control Based on PLC Dual-bus and Inverter[J];Programmable Controller & Factory Automation;2007-11. 7, LIU Mei-lan (Xi'an Jiaotong
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYSY201106046.htm
+

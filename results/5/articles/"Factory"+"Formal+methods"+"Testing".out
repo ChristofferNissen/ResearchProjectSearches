@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"Formal+methods"+"Testing"
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title A verification-supported evolution approach to assist software application engineers in industrial factory automation
+     Author ['S Ulewicz', 'M Ulbrich', 'A Weigl', 'M Kirsten']
+     Venue … on Assembly and …
+     Year 2016
+     Abstract A. Weigl, “Regression Verification for Programmable Logic Controller Software,” in Formal Methods and Software  B. Czybik, and J. Jasperneite, “Model based TTCN-3 testing of industrial  First results,” in IEEE Conference on Emerging Technologies in Factory Automation, 2011
+     Url https://ieeexplore.ieee.org/abstract/document/7750714/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract In this dimension there are, for example, system developer tests, factory acceptance tests, user acceptance tests, operational acceptance tests, and third party  3 Page 4. Conformance testing with formal methods When using formal methods in conformance testing we mean
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods in factory automation
+     Author ['C Popescu', 'JLM Lastra']
+     Venue NA
+     Year 2010
+     Abstract In factory automation, formal system representations are used for two main purposes: to verify  3.1 Verification/Validation/Synthesis of software control The utilization of formal methods for the synthesis and  of process logic control has arisen as an alternative to the testing of direct
+     Url https://www.researchgate.net/profile/Jose_Luis_Martinez_Lastra/publication/221908293_Formal_Methods_in_Factory_Automation/links/09e4150dc9eaf06c87000000/Formal-Methods-in-Factory-Automation.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Factory-level regression test suites will probably become a reality  For instance, “boundary value testing” often is effective in detecting coding errors  In general, formal methods attempt to exploit the possibility of using automatic theorem proving to assert the logical correctness of a
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract version dissimilar (or diverse) software-but this is not a fully satis- factory solution  Part of the explanation is that formal methods provide us with powerful tools for identifying and  In empirical testing, we examine only the external manifestations of the system, and our ability to
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods for the specification and design of real-time safety critical systems
+     Author ['JS Ostroff']
+     Venue Journal of Systems and Software
+     Year 1992
+     Abstract This article surveys formal methods for specifying, design- ing, and verifying real-time systems so as to  turn in time, the robot might collide with another object on the factory floor  be verified for correctness by mathematical methods (rather than by intractable case-by-case testing)
+     Url https://www.sciencedirect.com/science/article/pii/016412129290045L
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods for verification and validation of partial specifications: A case study
+     Author ['S Easterbrook', 'J Callahan']
+     Venue Journal of Systems and Software
+     Year 1998
+     Abstract 3.1 Approach Our approach to the application of formal methods in an IV&V context follows a simple four-step process as follows  Once a formal model was obtained, testing of the properties was straightforward, ass both the SCR tool and the SPIN model checker provided
+     Url https://www.sciencedirect.com/science/article/pii/S0164121297001672
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title The Concurrency Factory-Practical Tools for Specification, Stimulation, Verification, and Implementation of Concurrent Systems.
+     Author ['R Cleaveland', 'JN Gada', 'PM Lewis', 'SA Smolka']
+     Venue Specification of Parallel …
+     Year 1994
+     Abstract We are in the process of equipping the Con- currency Factory with an object-oriented database system, which will allow ob- jects to be accessed e ciently and uniformly in a  Testing-based abstractions for value-passing systems  Formal Methods in System Design, 2, 1993
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.4400&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal Methods for V&V of partial specifications: An experience report
+     Author ['S Easterbrook', 'J Callahan']
+     Venue Proceedings of ISRE'97: 3rd IEEE …
+     Year 1997
+     Abstract Lightweight formal methods show significant promise in this con- text, as they offer a way of uncovering major errors, without the burden of full proofs of correctness. We de- scribe an experiment in the application of the method SCR to testing for consistency properties of a partial
+     Url https://ieeexplore.ieee.org/abstract/document/566865/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Developing tools for formal methods
+     Author ['P Kefalas', 'G Eleftherakis']
+     Venue … of the 9th …
+     Year 2003
+     Abstract For X-machines, there exists a testing method, which is proved that it finds all  18-19 [9] CMHolloway, RWButler, Impediments to Industrial Use of Formal Methods, IEEE Computer  [12] R.Cleaveland, PMLewis, SASmolka, O.Sokolsky, The Concurrency Factory: A Development
+     Url https://kefalas.citycollege.sheffield.eu/special/research/xcityng/papers/Kef-Elef-Sot-03.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract A. Formal Methods in Conventional Testing  The most successful formal methods target conventional testing and aim to make it easier, more comprehensive, and/or faster. A more detailed analysis of our findings appears in Section V.
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title The Concurrency Factory software development environment
+     Author ['R Cleaveland', 'PM Lewis', 'SA Smolka']
+     Venue International Workshop on …
+     Year 1996
+     Abstract of finite-state processes, and VTSim is a sophisticated environ- ment for the simulation and testing of VTView  We have described the Concurrency Factory, a graphical environment that supports the following system development tasks  Formal Methods in System Design, 2, 1993
+     Url https://link.springer.com/chapter/10.1007/3-540-61042-1_56
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract specified and designed in Z, managing Z projects or carrying out system testing on Z  computers, was formally specified in VVSL and (in June 1992) has passed factory acceptance  several others in production or recently issued, recommend the use of formal methods for safety
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Teaching formal methods lite via testing
+     Author ['M Utting', 'S Reeves']
+     Venue Software testing, verification and reliability
+     Year 2001
+     Abstract Verif. Reliab. 2001; 11:181–195 Page 11. TEACHING FORMAL METHODS LITE VIA TESTING 191 Overall Rating of Course 0 10 20 30 40 50 Excellent Very Good Satis- factory Unsatis- factory Poor Pe rc e n t of Stude nts 1997 1998 How Valuable has this course been for you
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.223
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Improving automation software dependability: a role for formal methods?
+     Author ['TL Johnson']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract IMPROVING AUTOMATION SOFTWARE DEPENDABILITY: A ROLE FOR FORMAL METHODS  Finally, the time for initial testing arrived: It was a disaster  often with multithreaded (concurrent) operation, and the contemplated use of wireless links for factory networks will create
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361128
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Software reuse: From library to factory
+     Author ['ML Griss']
+     Venue IBM systems journal
+     Year 1993
+     Abstract well- designed parts following a careful process within a reuse-based software factory  life cycle, especially front-end activities such as analysis and design • Formal methods that ensure  in the traditional waterfall model • Inspections, reviews, and structured testing, which ensure
+     Url https://ieeexplore.ieee.org/abstract/document/5387334/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Testing concurrent systems: A formal approach
+     Author ['J Tretmans']
+     Venue International Conference on Concurrency Theory
+     Year 1999
+     Abstract In this dimension there are, for example, system developer tests, factory acceptance tests, user acceptance tests, operational ac- ceptance tests, and third party (independent  In this section a framework is presented for the use of formal methods in conformance testing [10,44,32
+     Url https://link.springer.com/chapter/10.1007/3-540-48320-9_6
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Development of RTOS for PLC using formal methods
+     Author ['JH Kim', 'SY Lee', 'YA Ahn', 'JH Sim', 'JS Yang']
+     Venue … for Verification and …
+     Year 2004
+     Abstract and control (I&C) systems such as control of machin- ery on factory assembly lines  use ModelChecker and ModelCertifier in STATEMATE MAGNUM(I-LOGIX).In applying formal methods, we found  we'll study abstraction methods to reduce state explosion and testing methods to
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30476-0_40
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal Methods.
+     Author ['M Hinchey', 'JP Bowen', 'E Vassev']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal Methods at Intel—An Overview
+     Author ['J Harrison']
+     Venue Second NASA Formal Methods Symposium
+     Year 2010
+     Abstract But recently there have been notable successes elsewhere for 'semi-formal' methods involving abstraction or more limited property  One can also consider applying theorem proving technology to support testing or other traditional validation methods  The factory producing the
+     Url https://pdfs.semanticscholar.org/70e9/d90cfe4f7e6ba54afeb590329e88fe1787d2.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title The role of formal methods in developing a distributed railway interlocking system
+     Author ['M Banci', 'A Fantechi', 'S Gnesi']
+     Venue … the 5th Symposium on Formal Methods …
+     Year 2004
+     Abstract The case of Formal Methods in the devel- opment of RISs is evident from the list of  of applications of field buses in different safety-concerned industrial areas: from factory automation to  7. System in field testing: Though the extensive validation effort carried on the model and the
+     Url http://fmt.isti.cnr.it/webpaper/forms_04.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods for reconfigurable assembly systems
+     Author ['T Ribeiro', 'G Gonçalves']
+     Venue … on Emerging Technologies & Factory …
+     Year 2010
+     Abstract Formal methods for reconfigurable assembly systems  of the main goals of the XPRESS project is to es- tablish a breakthrough for the factory of the  3.5 Functional Testing and Characterization One of the main concerns when implementing opti- mization algorithms is that some
+     Url https://ieeexplore.ieee.org/abstract/document/5641248/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Support for teaching formal methods
+     Author ['VL Almstrum', 'CN Dean', 'D Goelman']
+     Venue Working group reports …
+     Year 2001
+     Abstract tools and include ACL2, HOL, Larch Prover, PVS, 7_JEVES, Concurrency Factory, Murphy, SVM  technologies; and more user training." 3) Jeannette Wing, Weaving Formal Methods into the  tool, we can more easily teach that verification complements the testing and simulation
+     Url https://dl.acm.org/doi/abs/10.1145/571968.571970
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Designing verifiable and reusable data access layer using formal methods and design patterns
+     Author ['F Sohail', 'F Zubairi', 'N Sabir']
+     Venue … Conference on Computer …
+     Year 2009
+     Abstract “Just because a system has passed unit and system testing, it does  Traditionally, formal methods are considered feasible for control systems  DAO Factory: The DAO pattern can be made highly flexible by adopting the Abstract Factory [GoF] and Factory Method [GoF] patterns
+     Url https://ieeexplore.ieee.org/abstract/document/4797376/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Guest editorial special section on formal methods in manufacturing
+     Author ['J Campos']
+     Venue IEEE Transactions on Industrial Informatics
+     Year 2010
+     Abstract The methodology has been tested in a real factory where the system is currently in operational use  REFERENCES [1] CA Vissers, M. van Sinderen, and LF Pires, “What makes industries believe in formal methods,” in Protocol Specification, Testing and Ver- ification, XIII, ser
+     Url https://ieeexplore.ieee.org/abstract/document/5416325/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Design of WorldFIP's industrial communication systems based on formal methods
+     Author ['P Marino', 'F Poza', 'MA Dominguez']
+     Venue ISIE'99. Proceedings …
+     Year 1999
+     Abstract DESIGN OF WORLDFIP'S INDUSTRIAL COMMUNICATION SYSTEMS BASED ON FORMAL METHODS  languages [12] [I31 is the aim of this work, Currently, in the factory automation field  software tools to support all design stages as specification, checking and testing of these
+     Url https://ieeexplore.ieee.org/abstract/document/796924/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract Use of formal methods also improves product quality, but this argument might not elicit  example, auto-manufacturing industry loses $3,000-4,000 every minute of factory downtime; Intel  are cases where formal tools discovered bugs not previously discovered in extensive testing
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title An International Survey of Industrial Applications of Formal Methods. Volume 2. Case Studies
+     Author ['DH Craigen', 'SL Gerhart', 'TJ Ralston']
+     Venue NA
+     Year 1993
+     Abstract contract to a commercial client, Praxis formally defined the interfaces between various components of a distributed factory control system  4. Few errors were discovered in reviews and testing, although it proved difticult to adduce this exclusively to formal methods since object
+     Url https://apps.dtic.mil/sti/citations/ADA272179
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Model-based testing of object-oriented systems
+     Author ['B Rumpe']
+     Venue International Symposium on Formal Methods for …
+     Year 2002
+     Abstract Thus in contrast to applying formal methods for verification purposes, the use of formal techniques for  are a number of obstacles that need to be overcome to enable model-based testing  test patterns are based on design patterns, such as singleton, adapter or factory to achieve
+     Url https://link.springer.com/chapter/10.1007/978-3-540-39656-7_16
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Implementing smart factory of industrie 4.0: an outlook
+     Author ['S Wang', 'J Wan', 'D Li', 'C Zhang']
+     Venue International journal of …
+     Year 2016
+     Abstract Tips on citation download. Download Citation. Download article citation data for: Implementing Smart Factory of Industrie 4.0: An Outlook. Shiyong Wang, Jiafu Wan, Di Li, and Chunhua Zhang. International Journal of Distributed Sensor Networks 2016 12:1. Download Citation
+     Url https://journals.sagepub.com/doi/abs/10.1155/2016/3159805
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Kinetic models in industrial biotechnology–improving cell factory performance
+     Author ['J Almquist', 'M Cvijovic', 'V Hatzimanikatis', 'J Nielsen']
+     Venue Metabolic …
+     Year 2014
+     Abstract [Not Found]
+     Url https://www.sciencedirect.com/science/article/pii/S109671761400041X
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal Methods in Fieldbus Specification
+     Author ['P Kučera']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract The difference being whether the tests are performed in the factory or in the  Applied to programming code, formal methods provide a precise semantics of a program  Considering that other testing mechanisms can never guarantee error-free applications this technique appears
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal Methods for Distributed System Development: FORTE/PSTV 2000 IFIP TC6 WG6. 1 Joint International Conference on Formal Description Techniques …
+     Author ['T Bolognesi', 'D Latella']
+     Venue NA
+     Year 2013
+     Abstract Checking. * Jan Tretmans: Specification based testing with formal methods -- from theory via tools to applications. • Marta Kwiatkowska: Modelling and verification of probabilistic real time systems using probabilistic timed automata
+     Url https://books.google.com/books?hl=ru&lr=&id=sXvTBwAAQBAJ&oi=fnd&pg=PP2&dq=%22Factory%22+%22Formal+methods%22+%22Testing%22&ots=UqKofhV2NA&sig=7DFK2ohGtYIrWT0_R0zZ7lDViEI
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title An integrated framework of formal methods for interaction behaviors among industrial equipments
+     Author ['P Deng', 'G Ren', 'W Yuan', 'F Chen', 'Q Hua']
+     Venue Microprocessors and …
+     Year 2015
+     Abstract formal methods comprise formal specification and formal verification. Formal specification can definitely specify interaction behaviors among industrial equipments and formal verification can theoretically account for every possible system state. In contrast to testing and
+     Url https://www.sciencedirect.com/science/article/pii/S0141933115001313
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title MODEL BASED TESTING OF PLC FACTORY AUTOMATION SOFTWARE
+     Author ['A Kuusik', 'J Vain']
+     Venue NA
+     Year NA
+     Abstract cell The following chapter describes implementation and testing of a particular robotized production testing cell at an electronics factory. The system is more complex than conventional PLC control systems, because it contains other active controllers. Therefore
+     Url https://digikogu.taltech.ee/et/Download/c9f7dd5f-3ed5-4645-96b6-9141ed4d7665/MudeliphinePLCTstustarkvaraTestimine.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Project FoX: A Tool That Offers Automated Testing Using a Formal Approach
+     Author ['I Neskovic']
+     Venue NA
+     Year NA
+     Abstract Specification (cont.) • Simple buffer in a factory. < xMachine name = " Buffer " >  3(2), pp. 69-76, 1988. • F. Ipate and M. Holcombe, “Specification and Testing using Generalized  1st South Eastern European workshop on Formal Methods (SEEFM 03), (Thessaloniki), pp
+     Url http://2011.java2days.com/wp-content/uploads/2011/11/2011.java2days.Neskovic.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Testing and Validation of Modbus/TCP Protocol for Secure SCADA Communication in CPS using Formal Methods
+     Author ['IA Siddavatam', 'S Parekh', 'T Shah', 'F Kazi']
+     Venue Scalable Computing: Practice …
+     Year 2017
+     Abstract primary difference between SCADA and DCS or PLC controlled sub-systems is, former are geographically dispersed while later are confined to factory or plant  Testing and Validation of Modbus/TCP Protocol for Secure SCADA Communication in CPS using Formal Methods
+     Url https://www.scpe.org/index.php/scpe/article/view/1331
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title A reference activity model for smart factory design and improvement
+     Author ['K Jung', 'SS Choi', 'B Kulvatunyou', 'H Cho']
+     Venue Production planning & …
+     Year 2017
+     Abstract components. The build phase realises the system and includes the physical deployment of resources, testing and validation for design and operation of the system  use. A reference activity model for smart factory design and improvement
+     Url https://www.tandfonline.com/doi/abs/10.1080/09537287.2016.1237686
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Virtual start–up of plants using formal methods
+     Author ['S Preuße', 'C Gerber']
+     Venue International journal of …
+     Year 2011
+     Abstract This might sound as a restriction, but if formal methods prove the software to be correct, it will only have to be adjusted if the plant configuration changes  This scenario can be avoided by testing the control software in connection with a plant model
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2011.045401
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Scenario co-evolution for reinforcement learning on a grid world smart factory domain
+     Author ['T Gabor', 'A Sedlmeier', 'M Kiermeier', 'T Phan']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract trained agent as well, thus suggesting that SCoE's scenarios can afterwards be used for software testing on the domain in general. For the evaluation of our approach we introduced and imple- mented a small grid world domain inspired by the vision of the smart factory
+     Url https://dl.acm.org/doi/abs/10.1145/3321707.3321831
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Enhanced engineering of component-based industrial automation systems using formal methods
+     Author ['S Patil']
+     Venue NA
+     Year 2018
+     Abstract Enhanced engineering of component-based industrial automation systems using formal methods  IEEE International Conference on Emerging Technologies and Factory Automation : 17/09/2012 - 21/09  automation control systems would have built as the basis for initial testing
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1194293
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title A LOTOS based tutorial on formal methods for object-oriented distributed systems
+     Author ['H Bowman']
+     Venue New Generation Computing
+     Year 1998
+     Abstract For example, if a strong notion, such as testing equivalence or weak or strong bisimulation were employed then the instantiation and class behaviour would be mutually indistinguishable to an  A LOTOS Based Tutorial on Formal Methods for Object-Oriented Distributed Systems
+     Url https://link.springer.com/content/pdf/10.1007/BF03037429.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title … and Software: The Importance of the Buyer's Warranty and the Developer's Liability in Promoting the Use of Systematic Quality Assurance and Formal Methods
+     Author ['DM Berry']
+     Venue 2000 Monterey Workshop on Modelling Software …
+     Year 2000
+     Abstract not cover pick up delivery, or house calls; however, it you mail your appliance to a Hoover Factory Service Center  developers, their procedures would change to use all available methods for assuring quality, including inspections, testing, IV&V, and even formal methods
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a383445.pdf#page=48
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal techniques
+     Author ['DP Sidho', 'TK Leung']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Development of RTOS for PLC Using Formal Methods
+     Author ['JS Yang', 'NY Lee', 'JY Choi']
+     Venue Automated Technology for Verification and …
+     Year 2004
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Algebraic specification and formal methods for program development: what are the real problems?
+     Author ['A Tarlecki']
+     Venue Current Trends In Theoretical Computer Science …
+     Year 1993
+     Abstract 115 Algebraic specification and formal methods for program development: what are the real problems  accurate to say that this is a non-solution to the problem of specification testing  version of some main ESF-concepts within the ESF-project (EUREKA Software Factory) is given
+     Url https://books.google.com/books?hl=ru&lr=&id=fr_sCgAAQBAJ&oi=fnd&pg=PA115&dq=%22Factory%22+%22Formal+methods%22+%22Testing%22&ots=XAqpp6MBFn&sig=ORqGtv7wiDzMi2tvamM78C432Fk
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Formal methods for validation and test point prioritization in railway signaling logic
+     Author ['S Ghosh', 'A Das', 'N Basak', 'P Dasgupta']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract The PET tool uses formal methods to prioritize the tests that are more relevant to the  establishing that the system eventually progresses, and this is something that every testing procedure must  the application logic is tested at two levels, broadly known as factory acceptance test
+     Url https://ieeexplore.ieee.org/abstract/document/7529152/
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Testing from Traces Specifications
+     Author ['F Tang']
+     Venue NA
+     Year NA
+     Abstract In this respect, the author believes the testers can learn much from the formal methods community  This way, the testing code is separated from the code that will be used to build the final product  List hosts, candidates; Host target; public AbsScheduler(Factory factory)
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.9123&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Testing"
+     Title Experience with formal methods implementing the PROFIBUS FMS and DP protocol for industrial applications
+     Author ['A Poschmann', 'J Hahniche', 'P Deicke']
+     Venue … Workshop on Factory …
+     Year 1997
+     Abstract The requirements for testing are increased in order to achieve top-quality products, easy to  Our experience is that formal methods are in general very useful also in the kind of  the use of one Estelle module for each sublayer for implementation issues in factory communi- cation
+     Url https://ieeexplore.ieee.org/abstract/document/634310/
+

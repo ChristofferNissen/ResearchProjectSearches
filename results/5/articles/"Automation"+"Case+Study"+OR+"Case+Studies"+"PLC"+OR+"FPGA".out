@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Control-as-a-service from the cloud: A case study for using virtualized PLCs
+     Author ['O Givehchi', 'J Imtiaz', 'H Trsek']
+     Venue 2014 10th IEEE …
+     Year 2014
+     Abstract How- ever, the requirements of industrial automation systems differ significantly from the office and enterprise world. In this paper we describe a case study that implements a concept of PLC as a service within a cloud based in- frastructure and provides a performance
+     Url https://ieeexplore.ieee.org/abstract/document/6837587/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Automatic generation: A way of ensuring PLC and HMI standards
+     Author ['P Falkman', 'E Helander', 'M Andersson']
+     Venue ETFA2011
+     Year 2011
+     Abstract 2.2 Case study description PLC code and HMI screens are automatically gener- ated for the case study stations to test how the Volvo Car standards can be ensured in each generated project. The generations is made by Automation Designer, however to be able to generate the
+     Url https://ieeexplore.ieee.org/abstract/document/6059201/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A fuzzy PLC with gain-scheduling control resolution for a thermal process–a case study
+     Author ['HX Li', 'SK Tso']
+     Venue Control Engineering Practice
+     Year 1999
+     Abstract A fuzzy PLC with gain-scheduling control resolution for a thermal process — a case study H.-X. Li*, SK Tso Center for Intelligent Design, Automation and Manufacturing, Faculty of Science and Technology, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong
+     Url https://www.sciencedirect.com/science/article/pii/S0967066199000076
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Evolution in industrial plant automation: A case study
+     Author ['C Legat', 'J Folmer']
+     Venue IECON 2013-39th Annual …
+     Year 2013
+     Abstract Furthermore, the PLC- code (software) has to be adapted by changing the software  projects will rely on the demonstration scenarios described in the case study, thus providing a central evaluation platform in order to solve evolution management in industrial plant automation
+     Url https://ieeexplore.ieee.org/abstract/document/6699841/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A case study on migration from IEC 61131 PLC to IEC 61499 function block control
+     Author ['WW Dai', 'V Vyatkin']
+     Venue 2009 7th IEEE International Conference on …
+     Year 2009
+     Abstract 61499 has recently attracted attention of researchers, eg works [3,4]. In this paper we continue investigation of this issue from a practical perspective of material handling systems automation  A Case Study on Migration from IEC 61131 PLC to IEC 61499 Function Block Control
+     Url https://ieeexplore.ieee.org/abstract/document/5195782/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Challenges for maintenance of PLC-software and its related hardware for automated production systems: Selected industrial Case Studies
+     Author ['B Vogel-Heuser', 'J Fischer', 'S Rösch']
+     Venue 2015 IEEE …
+     Year 2015
+     Abstract ST as the standard programming language and SFC for more complicated automation sequences to  In this case study, the com- plexity was reduced through the use of hierarchical modules  Compared to the other case studies, this company uses a very sophisticated library and
+     Url https://ieeexplore.ieee.org/abstract/document/7332487/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Configuration of PLC software for automated warehouses based on reusable components-an industrial case study
+     Author ['J Fischer', 'B Vogel-Heuser']
+     Venue … & Factory Automation  …
+     Year 2015
+     Abstract In the development of PLC software for automated Production Systems the method copy & paste is commonly used. However, this method leads to various disadvantages. To avoid these disadvantages, a parameter-based concept for planed reuse is presented in this
+     Url https://ieeexplore.ieee.org/abstract/document/7301414/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Evaluation of Linux rt-preempt for embedded industrial devices for Automation and Power Technologies-A Case Study
+     Author ['M Mossige', 'P Sampath', 'RG Rao']
+     Venue 9th RTL Workshop
+     Year 2007
+     Abstract This paper presents a case study, where rt-preempt is evaluated in the context of an  Embedded systems in industrial automation, robotics and power technologies are characterized by certain factors unique  is a multifunction bus also used by the PCI interface, the FPGA and the
+     Url https://linuxdevices.org/ldfiles/article081/Sampath.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A Case Study of Virtual PLC Validation System's Implementation: In Case of An Automobile Trim Line
+     Author ['SH Bae', 'YM Kim']
+     Venue Journal of the Korea Society for Simulation
+     Year 2010
+     Abstract A Case Study of Virtual PLC Validation System's Implementation : In Case of An Automobile Trim  can validate the code without launching real equipments because the PLC module and  final assembly line of an automotive industry and validated by using DELMIA Automation
+     Url https://www.koreascience.or.kr/article/ArticleFullRecord.jsp?cn=SMROBX_2010_v19n2_9
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Teaching PLC in Automation–A Case Study
+     Author ['G Yang', 'Y Rasis']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Model checking PLC software written in function block diagram
+     Author ['O Pavlovic', 'HD Ehrich']
+     Venue 2010 Third International Conference on …
+     Year 2010
+     Abstract This is demonstrated in the next section. IV. CASE STUDY Here we describe how the method is applied in the area of railway automation. We concentrate on FBD software as it is used by one family of PLC-based interlocking systems
+     Url https://ieeexplore.ieee.org/abstract/document/5477057/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Xilinx vivado high level synthesis: Case studies
+     Author ["D O'Loughlin", 'A Coffey', 'F Callaly', 'D Lyons', 'F Morgan']
+     Venue NA
+     Year 2014
+     Abstract Case studies illustrate the effectiveness of HLS as a developing efficient and flexible design capture to FPGA implementation approach  Each design has been implemented and tested in FPGA hardware using the Vicilogic automation and proto-typing tools developed by
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0713
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Introduction to robotics in CIM systems
+     Author ['JA Rehg']
+     Venue NA
+     Year 1997
+     Abstract 7-4 Programmable logic Controllers 215 PLC system components, 215 Basic PLC system operation, 216 7-5 Computer numerical control  228 Assembly cell, 228 Signal types, 230 Work-cell controller, 230 Programmable logic controller, 231 7-9 Automation case study 231
+     Url https://pdfs.semanticscholar.org/bc84/a1f2db57927a2c815a9657415246be0c16df.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Towards autoconfiguration of industrial automation systems: A case study using Profinet IO
+     Author ['L Dürkop', 'H Trsek', 'J Jasperneite']
+     Venue … & Factory Automation …
+     Year 2012
+     Abstract For a complete PnP-enabled solution the variables of the application (eg an IEC 61131 based PLC) have to  In this paper a concept for autoconfiguration of indus- trial automation systems is presented and evaluated by means of a case study using PN IO as an example
+     Url https://ieeexplore.ieee.org/abstract/document/6489654/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Design patterns for model-based automation software design and implementation
+     Author ['M Bonfe', 'C Fantuzzi', 'C Secchi']
+     Venue Control Engineering Practice
+     Year 2013
+     Abstract However, PLC-Statecharts enforce user-defined priorities for any transition in the model, independently  of three design patterns, strictly related to each other, to the previously described case studies. 5.1  to be included in the ISA-88 (International Society of Automation, 2008) as
+     Url https://www.sciencedirect.com/science/article/pii/S0967066112000810
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title On fast development of FPGA-based SOA services—machine vision case study
+     Author ['A Ruta', 'R Brzoza-Woch', 'K Zielinski']
+     Venue … Automation for Embedded Systems
+     Year 2012
+     Abstract Development of FPGA-based, network-enabled embedded systems in Register Transfer Level hardware description languages is tedious. Despite the automation of this process with numerous EDA tools available, no well-established design patterns exist
+     Url https://link.springer.com/article/10.1007/s10617-012-9084-z
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A case study of nanoscale FPGA programmable switches with low power
+     Author ['V Elamaran', 'HN Upadhyay']
+     Venue International Journal of …
+     Year 2013
+     Abstract Page 1. A Case Study of Nanoscale FPGA Programmable Switches with Low Power  These models are built by using Electronic Design Automation (EDA) tools like DSCH (Digital Schematic) and Microwind layout tools using BSIM4 MOSFET model in 60 nm technology
+     Url https://pdfs.semanticscholar.org/00fd/15a42ce2b3e13cdf7fe991aac01f29d5f9a7.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Learning automation by doing it–a case-study
+     Author ['CP Leão', 'PM Silva', 'PC Oliveira', 'NC Carvalho']
+     Venue ICEE–International …
+     Year 2007
+     Abstract The PLC programming was done considering that the automobiles could only circulate without changing  Horelli,J. and Jussila, J., E-learningHUB of production automation, FORMATEX 2006  The role of interactive video technology in higher education: Case study and proposed
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.937.9967&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Fpga physical-design automation using model-driven engineering
+     Author ['C Teodorov', 'D Picard', 'L Lagadec']
+     Venue 6th International Workshop …
+     Year 2011
+     Abstract However, such a view of the physical design automation, that isolates and encapsulates the different steps of the flow, poses the bases for future standardizations which can limit the number of intermediate  V. CASE STUDY - ROUTING The FPGA routing architecture can be
+     Url https://ieeexplore.ieee.org/abstract/document/5981495/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Cloud-based control: A multi-tenant, horizontally scalable soft-PLC
+     Author ['T Goldschmidt', 'MK Murugaiah']
+     Venue 2015 IEEE 8th …
+     Year 2015
+     Abstract implementation of a multi-tenant, horizontally scalable Soft-PLC. Furthermore, we evaluate the most important quality attributes, ie round- trip times and scalability of our architecture based on a prototypical implementation and a case study from the building automation domain
+     Url https://ieeexplore.ieee.org/abstract/document/7214134/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title PLC based intelligent power factor correctors for industrial power systems-A case study
+     Author ['NR Kulkami', 'HV Murthy', 'AP Raju']
+     Venue … International Conference on …
+     Year 2015
+     Abstract from the supply line using Power Meter and development of a PLC program to  The results of this paper is based on the case study on application of the  Power factor correction, Programmable logic controllers, Dynamic capacitor banks, Industrial automation, Intelligent power
+     Url https://ieeexplore.ieee.org/abstract/document/7274920/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A neuron library for rapid realization of artificial neural networks on FPGA: A case study of Rössler chaotic system
+     Author ['İ Koyuncu', 'İ Şahin', 'C Gloster']
+     Venue Journal of Circuits …
+     Year 2017
+     Abstract A Neuron Library for Rapid Realization of Arti¯cial Neural Networks on FPGA: A Case Study of R€ossler Chaotic System* İsmail Koyuncu† Department of Control and Automation, Duzce University, Uzunmustafa Mahallesi, Duzce 81010, Turkey ismailkoyuncu@duzce.edu.tr
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0218126617500153
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title In-place traceability for automated production systems: A survey of PLC and SysML tools
+     Author ['W Wang', 'N Niu', 'M Alenazi']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract Accessed on: Oct. 2018. [22] Beckhoff Automation, “TwinCAT PLC and motion control on the PC,” 2017. [Online]  [Online]. Available: https://www. nomagic.com/mbse/resources/case-studies. html. Accessed on: Oct. 2018  2018. [31] Eclipse, “Case study,” 2016. [Online]
+     Url https://ieeexplore.ieee.org/abstract/document/8515085/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Particle filter slam on fpga: A case study on robot@ factory competition
+     Author ['BG Sileshi', 'J Oliver', 'R Toledo', 'J Gonçalves']
+     Venue Robot 2015: Second …
+     Year 2016
+     Abstract Study on Robot@Factory Competition  Using data based on the model of such low cost laser scanner, this work presented an FPGA implementation of particle filter for a  In: Proceedings of the 2005 IEEE International Conference on Robotics and Automation, ICRA 2005, pp
+     Url https://link.springer.com/chapter/10.1007/978-3-319-27146-0_32
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title High-level synthesis of dynamic data structures: A case study using Vivado HLS
+     Author ['F Winterstein', 'S Bayliss']
+     Venue … Conference on Field …
+     Year 2013
+     Abstract High-level synthesis promises a significant short- ening of the FPGA design cycle  The outcome of this case study is twofold: We confirm similar performance between the  We generalise our source-to-source transformations whose automation motivates research directions to
+     Url https://ieeexplore.ieee.org/abstract/document/6718388/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title FPGA-based mixed-criticality execution platform for SystemJ and the Internet of industrial things
+     Author ['D Packwood', 'M Sharma', 'D Ding', 'H Park']
+     Venue 2015 IEEE 18th …
+     Year 2015
+     Abstract Main contributions described in the paper are: 1. FPGA-based new multi-core architecture that fits into IoIT paradigm  for communication of SystemJ program parts over CAN is described in Section V. Section VI presents an industrial automation case study designed using the
+     Url https://ieeexplore.ieee.org/abstract/document/7153804/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Automatic generation of PLC programs using Automation Designer
+     Author ['M Andersson', 'E Helander']
+     Venue NA
+     Year 2010
+     Abstract In this report three stations at VCC in Torslanda, Göteborg, is used in a case study to build up templates inside Automation Designer. The goal with the study is to test if PLC code and HMI screens can be generated from the software and still be according to the VCC standard
+     Url http://publications.lib.chalmers.se/records/fulltext/133762.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Design projects in a programmable logic controller (PLC) course in electrical engineering technology
+     Author ['L Guo', 'R Pecen']
+     Venue The Technology Interface Journal/Fall
+     Year 2009
+     Abstract ASEE Annual Conference & Exposition, 2000 10. Yang, G., Rasis, Y., “Teaching PLC in Automation – A Case Study”, ASEE Annual Conference & Exposition, 2003 11. Chang,W, Wu, Y., et. Al, “Design and implementation of a
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.459.5890&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Power quality and factory automation
+     Author ['VE Wagner', 'AA Andreshak']
+     Venue IEEE Transactions on …
+     Year 1990
+     Abstract A case study is described to monitor power quality disturbances at a representative plant and identify  Two PLC transfer lines and a CNC lathe were tested with a sag generator to  Paper GID 90-1, approved by the Machine Tools, Robotics, and Factory Automation Committee of
+     Url https://ieeexplore.ieee.org/abstract/document/55984/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Fault handling in PLC-based industry 4.0 automated production systems as a basis for restart and self-configuration and its evaluation
+     Author ['B Vogel-Heuser', 'S Rösch', 'J Fischer', 'T Simon']
+     Venue Journal of software …
+     Year 2016
+     Abstract In the following for four of the eight case studies fault handling is discussed in more detail to provide a deeper understanding of the domain  The first case study was conducted in the area of factory automation for production of automotive sub-com- ponents
+     Url https://www.scirp.org/html/1-9302152_63064.htm
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Collaborative knowledge management—A construction case study
+     Author ['B Dave', 'L Koskela']
+     Venue Automation in construction
+     Year 2009
+     Abstract Elsevier. Automation in Construction. Volume 18, Issue 7, November 2009, Pages 894-902. Automation in Construction  The work presented in the case study refers to the work carried out by the first author when employed at Pochins PLC (case study organisation)
+     Url https://www.sciencedirect.com/science/article/pii/S0926580509000545
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Multiprocessor systems synthesis for multiple use-cases of multiple applications on FPGA
+     Author ['A Kumar', 'S Fernando', 'Y Ha', 'B Mesman']
+     Venue … on Design Automation …
+     Year 2008
+     Abstract The key design automation challenges are designing systems for these use-cases and fast exploration of  of the research community and is used to carry out a DSE case study with multiple use  ms, and the whole DSE was com- pleted in 45 minutes, including FPGA mapping and
+     Url https://dl.acm.org/doi/abs/10.1145/1367045.1367049
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Multi-FPGA emulation of a 48-cores multiprocessor with NOC
+     Author ['X Li', 'O Hammami']
+     Venue 2008 3rd International Design and Test …
+     Year 2008
+     Abstract We propose to improve design productivity by raising IP reuse to small scale multiprocessor IP combined with fast extension techniques for system level design automation in the framework of multi-FPGA based emulator. A design case study of a 48-processors multiprocessor
+     Url https://ieeexplore.ieee.org/abstract/document/4802498/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Platform WALC: design and development of a PLC Network
+     Author ['N Carvalho', 'S Rodrigo', 'CP Leão', 'J Machado']
+     Venue Virtual …
+     Year 2009
+     Abstract Remote laboratories and virtual animations are examples of interactive case-studies to be developed and used as  WALC platform, the Automation Portal at Minho University  Each real-world case- study (mounted in a portable suitcase) is physical connected to the ANL for
+     Url https://www.researchgate.net/profile/Celina_Leao/publication/228615680_Platform_WALC_design_and_development_of_a_PLC_Network/links/0c960521b817aab7e1000000.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Modularity, variant and version management in plant automation–future challenges and state of the art
+     Author ['S Feldmann', 'J Fuchs']
+     Venue DS 70: Proceedings of …
+     Year 2012
+     Abstract have been introduced providing an engineering framework for plant automation engineering  be used in plant modules, application modules and basic modules in the case study  The case studies demonstrate that modularity structures in software engineering are different from
+     Url https://www.designsociety.org/publication/32138/modularity_variant_and_version_management_in_plant_automation_%96_future_challenges_and_state_of_the_art
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Use of Remote Laboratories for Education in Industrial Processes and Automation
+     Author ['JL Avila', 'D Amaya']
+     Venue Proceedings of The
+     Year 2014
+     Abstract Use of Remote Laboratories for Education in Industrial Processes and Automation Jose L. Avila Military University Nueva Granada u1801245@unimilitar.edu.co  It presents a case study of a PLC that can be accessed remotely via an Internet connection, solving problems of
+     Url http://cd14.ijme.us/papers/030__Jose%20L.%20Avila,%20Dario%20Amaya.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title On composition of mechatronic components enabled by interoperability and portability provisions of IEC 61499: A case study
+     Author ['S Patil', 'J Yan', 'V Vyatkin', 'C Pang']
+     Venue … & Factory Automation (ETFA)
+     Year 2013
+     Abstract Page 2. Capabilities of the IEC 61131-3 [2] automation paradigm are very limited from this perspective  PICK-AND-PLACE MANIPULATOR In this section we will describe how our case study example was implemented to be interoperable across three PLC's and three
+     Url https://ieeexplore.ieee.org/abstract/document/6648136/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Redesign distributed PLC control systems using IEC 61499 function blocks
+     Author ['W Dai', 'V Vyatkin']
+     Venue IEEE Transactions on Automation Science …
+     Year 2012
+     Abstract An initial migration case study for FESTO MPS didactic plant is presented by Hussain and Frey in [13]  IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING  On the other hand, it is hard to apply results of the narrowly focused case studies in other do- mains
+     Url https://ieeexplore.ieee.org/abstract/document/6163387/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title The application of service-oriented architectures in distributed automation systems
+     Author ['WW Dai', 'V Vyatkin']
+     Venue … Robotics and Automation  …
+     Year 2014
+     Abstract The implementation of the Service- Oriented Architecture based PLC execution environment is demonstrated on a case study. Index Terms — Service-Oriented Architecture, Industrial Automation, IEC 61499, function blocks, IEC 61131-3, PLC, Reusability, Interoperability
+     Url https://ieeexplore.ieee.org/abstract/document/6906618/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Accelerating workloads on fpgas via opencl: A case study with opendwarfs
+     Author ['A Verma', 'AE Helal', 'K Krommydas', 'WC Feng']
+     Venue NA
+     Year 2016
+     Abstract This process requires extensive knowledge of logic design, design automation tools, and low-level details of FPGA architecture, this consumes significant development time and effort  An Option Pricing Case Study,” in FPGA Based Accelerators for Financial Applications
+     Url https://vtechworks.lib.vt.edu/handle/10919/70969
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title FPGA based soft-core SIMD processing: A MIMO-OFDM fixed-complexity sphere decoder case study
+     Author ['X Chu', 'J McAllister']
+     Venue 2010 International Conference on Field …
+     Year 2010
+     Abstract Page 1. FPGA Based Soft-core SIMD Processing: A MIMO-OFDM Fixed-Complexity Sphere Decoder Case Study Xuezheng Chu #1, John McAllister #2 # Institute of Electronics, Communications and Information Technology
+     Url https://ieeexplore.ieee.org/abstract/document/5681463/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Case study of a large transmission and distribution substation automation project
+     Author ['D Dolezilek']
+     Venue … Engineering Laboratories, Inc., Pullman, WA USA
+     Year 1999
+     Abstract In this paper, the author describes a case study of a large substation integration design project  The project scope consisted of a complete turnkey transmission and distribution automation solution from system design through installation and commissioning  9 PLC Centric
+     Url https://cdn.selinc.com/assets/Literature/Publications/Technical%20Papers/6084.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Accelerating fluid registration algorithm on multi-FPGA platforms
+     Author ['J Cong', 'M Huang', 'Y Zou']
+     Venue 2011 21st International Conference …
+     Year 2011
+     Abstract This paper presents our implementation of the fluid registration algorithm on a multi-FPGA platform Convey HC-1. We obtain a 35X speedup versus single-threaded software on a CPU  The experience of this case study also identifies further automation steps needed
+     Url https://ieeexplore.ieee.org/abstract/document/6044784/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title A Simulation Case Study of the new IEEE 802.11 e HCCA mechanism in Industrial Wireless Networks
+     Author ['H Trsek', 'J Jasperneite']
+     Venue … and Factory Automation
+     Year 2006
+     Abstract industrial automation. 4.4 Simulation Scenarios This case study considers two different simulation scenarios. In the first scenario only real-time traffic and in the second scenario both real-time and non real-time traffic are considered. The first scenario is shown in Figure 5. A PLC
+     Url https://ieeexplore.ieee.org/abstract/document/4178304/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Fast design productivity for embedded multiprocessor through multi-FPGA emulation: The case of a 48-way multiprocessor with NoC
+     Author ['X Li', 'O Hammami']
+     Venue NA
+     Year 2008
+     Abstract We propose to improve design productivity by raising IP reuse to small scale multiprocessor IP combined with fast extension techniques for system level design automation in the framework of multi-FPGA based emulator. A design case study of a 48-processors multiprocessor
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.499.3430
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Automation of Tire Tread Extruder Line Using Cameras
+     Author ['CS Pyo', 'J Lyou']
+     Venue Journal of Institute of Control, Robotics and …
+     Year 2013
+     Abstract This paper describes a vision based automation case study for the tire tread extruder  Keywords: tire thread, machine vision, extruder control, factory automation  압출라인은 PLC (Programmable Logic Controller)를 하나 의 통신 네트워크로 통합하였고, 규격관리 컴퓨터
+     Url https://www.koreascience.or.kr/article/JAKO201310559989858.page
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title An FPGA design flow for reconfigurable network-based multi-processor systems on chip
+     Author ['A Kumar', 'A Hansson', 'J Huisken']
+     Venue … , Automation & Test in …
+     Year 2007
+     Abstract The automation of this step is another important contribution of this work, al- lowing a quick and effort-less  Floor-plan of FPGA for the “Host-boot mode” case study  have been verified on a Xil- inx Virtex II 6000 FPGA development board, and two such case studies are presented
+     Url https://ieeexplore.ieee.org/abstract/document/4211782/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Comparison between commercial and open-source SCADA packages—A case study
+     Author ['O Barana', 'P Barbato', 'M Breda', 'R Capobianco']
+     Venue Fusion Engineering and …
+     Year 2010
+     Abstract correct operation of SPIDER and MITICA will be guaranteed by process automation and plant  bed was represented by a SCADA system exchanging data with a PLC (Programmable Logic  The case study consisted of: (a) the development of a minimal panel provided with fields
+     Url https://www.sciencedirect.com/science/article/pii/S092037961000030X
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Formal verification of safety PLC based control software
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue International Conference on Integrated …
+     Year 2016
+     Abstract Logic Controllers (PLCs) are special industrial computers, widely-used for various automation tasks  The validation and our experiences on the above-presented case study are discussed in  identified semantics of the IL instructions are generic, not specific to our case studies
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33693-0_32
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"
+     Title Probabilistic delay time analysis in networked automation systems
+     Author ['J Greifeneder', 'G Frey']
+     Venue … Technologies and Factory Automation
+     Year 2005
+     Abstract In analysing the consequences of component failures in networked automation systems it is important to  A case study shows the feasability of PMC an- swering questions on the reliability of distributed  is to study the influence existing between the length of the PLC cycle and the
+     Url https://ieeexplore.ieee.org/abstract/document/1612644/
+

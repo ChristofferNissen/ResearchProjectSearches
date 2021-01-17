@@ -1,0 +1,145 @@
+Showing papers for search query "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual Platforms Driving Software Quality in Pre-Silicon
+     Author ['AD Pulla']
+     Venue NA
+     Year NA
+     Abstract that connects virtual platform with FPGA-based prototypes for software validation and hardware  Unlike virtual platforms, FPGA prototyping systems have almost zero debug capabilities, but  agile development, scaled agile frameworks, continuous integration and DevOps can be
+     Url https://pdfs.semanticscholar.org/d93c/509453cb05c755a0f4a27ea7f44616b7472d.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware
+     Author ['PD Faria']
+     Venue NA
+     Year 2017
+     Abstract of the hardware with a specific combination of each element in the system board, such as the Driver version on the CPU, the Verilog version configuring the FPGA, and the  Software and its engineering → Software creation and management → Software verification and validation
+     Url https://repositorio-aberto.up.pt/handle/10216/102620
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for dynamic risk assessment of software systems
+     Author ['WD Jones', 'SJ Aud', 'JP Hudepohl', 'ML Flournory']
+     Venue US Patent …
+     Year 2001
+     Abstract US6219805B1 - Method and system for dynamic risk assessment of software systems - Google Patents. Method and system for dynamic risk assessment of software systems. Download PDF Info. Publication number US6219805B1
+     Url https://patents.google.com/patent/US6219805B1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Utilising CI environment for efficient and effective testing of NFRs
+     Author ['L Yu', 'E Alégroth', 'P Chatzipetrou', 'T Gorschek']
+     Venue Information and Software …
+     Year 2020
+     Abstract testing in practices. Previous article in issue; Next article in issue. Keywords. Agile. Continuous integration. CI. DevOps. Non-functional requirement. NFR. Scaled agile framework. SAFe. 1. Introduction. Frequent integration and automation
+     Url https://www.sciencedirect.com/science/article/pii/S095058491930206X
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Machine Defect Prediction Based on a Signature
+     Author ['M Mathen', 'R Vijendran']
+     Venue US Patent App. 16/232,316
+     Year 2019
+     Abstract on a testing cycle, and in the case of Agile/Devops projects, there is  With regard to conventional approaches, traditional software validation techniques can depend on predefined test cases  a programmable gate array (“PGA”), a field programmable gate array (“FPGA”), etc.), or
+     Url https://patents.google.com/patent/US20190196938A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Evaluating fairness in devices under test
+     Author ['DG Bair', 'RM Gott', 'EJ Kaminski Jr', 'WJ Lewis']
+     Venue US Patent 10,678,670
+     Year 2020
+     Abstract US10678670B2 - Evaluating fairness in devices under test - Google Patents. Evaluating fairness in devices under test. Download PDF Info. Publication number US10678670B2. US10678670B2 US16/046,574 US201816046574A
+     Url https://patents.google.com/patent/US10678670B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Future Research.
+     Author ['RH Reussner', 'M Goedicke', 'W Hasselbring']
+     Venue NA
+     Year 2019
+     Abstract Deductive Software Verification-The KeY Book: From Theory to Practice. Vol  2017. [Bou+ 17b] Safa Bougouffa et al.“Scalable Cloud Based Semantic Code Analysis to Support Continuous Integration of Industrial PLC Code”  Performance-oriented DevOps: A Research Agenda
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=394
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The S3D Modeling Methodology v1. 0
+     Author ['J Merino', 'E Villar', 'H Posadas']
+     Venue NA
+     Year 2020
+     Abstract contexts and domains, being compatible with methodologies like Agile [Amb15] and DevOps [NMP17  Independently of the quality of the software testing methods used, software verification is usually limited  R8 and associated devices are to be implemented in a FPGA, the main
+     Url https://s3d.unican.es/wp-content/uploads/2020/02/S3D-Modeling-Methodology.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Predicting software product quality
+     Author ['PP Chitale', 'CM Cox', "D D'angelo", 'X Jiang']
+     Venue US Patent …
+     Year 2017
+     Abstract US9619363B1 - Predicting software product quality - Google Patents. Predicting software product quality. Download PDF Info. Publication number US9619363B1. US9619363B1 US14/865,384 US201514865384A US9619363B1
+     Url https://patents.google.com/patent/US9619363B1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Performance assessment of a program model
+     Author ['G Haber']
+     Venue US Patent App. 13/046,747
+     Year 2012
+     Abstract Alternatively, apparatus 400 can be implemented as firmware ported for a specific processor such as digital signal processor (DSP) or microcontrollers, or can be implemented as hardware or configurable hardware such as field programmable gate array (FPGA) or application
+     Url https://patents.google.com/patent/US20120232880A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Standard Compliant Snapshotting for SystemC Virtual Platforms
+     Author ['B Farkas']
+     Venue NA
+     Year 2020
+     Abstract ESA European Space Agency. , , ESLD Electronic System-Level Design. ix, , – , , FPGA Field Programmable Gate Array. , GPL GNU General Public License. HDL Hardware-Description Language. , , , , HPC high-perfomance computing. IC Integrated Circuit
+     Url https://publikationsserver.tu-braunschweig.de/servlets/MCRFileNodeServlet/dbbs_derivate_00046888/Diss_Farkas_Bastian.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model-based Testing
+     Author ['J Hagar', 'LM Taff', 'TLS Brown', 'D Carlson', 'E Soukup']
+     Venue CrossTalk
+     Year 2017
+     Abstract Software verification and validation remain active during software-sys- tem evolution in operations and management  A program- mable logic control (PLC) for power systems was installed in an isolated network, but then a router was added to the network to
+     Url https://apps.dtic.mil/sti/pdfs/AD1057246.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title India as an innovation economy: the role of IP and ICT
+     Author ['A Mukherjee', 'A Chawla']
+     Venue NA
+     Year 2018
+     Abstract Page 1. India as an Innovation Economy The Role of IP and ICT Page 2. Page 3. INDIA AS AN INNOVATION ECONOMY The Role of IP and ICT June 2018 Page 4. © 2018 Indian Council for Research on International Economic
+     Url https://www.think-asia.org/handle/11540/8479
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Complete Bibliography of Publications in ACM Computing Surveys
+     Author ['NHF Beebe']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Sampling of device states for mobile software applications
+     Author ['V Ekambaram', 'AK Mathur', 'V Nandakumar']
+     Venue US Patent …
+     Year 2019
+     Abstract US10313901B2 - Sampling of device states for mobile software applications - Google Patents. Sampling of device states for mobile software applications. Download PDF Info. Publication number US10313901B2. US10313901B2
+     Url https://patents.google.com/patent/US10313901B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Service-Based Fault Tolerance for Cyber-Physical Systems: A Systems Engineering Approach
+     Author ['P Alho']
+     Venue NA
+     Year 2015
+     Abstract xii P2P peer-to-peer PLC programmable logic controller RAMI reliability, availability, maintainability and inspectability REST Representational State Transfer RFID Radio Frequency Identification RH remote handling RHCS remote handling control system ROS Robot Operating
+     Url https://trepo.tuni.fi/handle/10024/115264
+

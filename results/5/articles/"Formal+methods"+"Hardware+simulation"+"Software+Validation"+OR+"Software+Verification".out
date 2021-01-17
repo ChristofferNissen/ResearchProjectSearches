@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware verification using software analyzers
+     Author ['R Mukherjee', 'D Kroening']
+     Venue 2015 IEEE Computer …
+     Year 2015
+     Abstract Software Verification Algorithms  A. Symbolic Hardware Simulation and Software Execution Symbolic simulation of hardware designs aims to replace multiple simulation runs, each with different inputs, by a single symbolic simulation run that uses symbolic values as its inputs
+     Url https://ieeexplore.ieee.org/abstract/document/7308670/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous dialects for verification  Formal methods are often described as the application of mathematical rigor to system design and  In software, verification often connotes formal analysis
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent …
+     Year 2020
+     Abstract system with respect to a certain formal specification or property, using formal methods of mathematics  software (eg, instructions run on a processing device to perform hardware simulation), or a  for a method 400 of verifying software using a distributed software verification service
+     Url https://patents.google.com/patent/US10664379B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Automated software verification service
+     Author ['JR Hortala', 'N Rungta', 'MR Tuttle', 'S Tasiran']
+     Venue US Patent App. 16 …
+     Year 2020
+     Abstract Additionally, by performing software verification in a cloud computing environment, verification tasks can be split up and divided among many  intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics
+     Url https://patents.google.com/patent/US20200257611A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for co-verifying hardware and software for a semiconductor device
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake', 'T Kowatari']
+     Venue US Patent …
+     Year 2006
+     Abstract as C-based native code simulation is implemented, the simulation performance (number of instructions/second) improves by a factor of 10 2 to 10 3 compared with the method that uses the prior art ISS, and a speedup of simulation for hardware/software verification is thus
+     Url https://patents.google.com/patent/US7155690B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title New challenges in model checking
+     Author ['GJ Holzmann', 'R Joshi', 'A Groce']
+     Venue 25 Years of Model Checking
+     Year 2008
+     Abstract We have meanwhile completed several versions of this hardware simulation layer, supporting different  Stronger types of software verification are therefore essential to reach higher levels of  its strategic goals in software development the adoption of formal methods for software
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69850-0_4
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Partitionless Multi User Support For Hardware Assisted Verification
+     Author ['K Suresh', 'CW Selvidge']
+     Venue US Patent App. 13/875,267
+     Year 2014
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  initiating a hardware assisted software verification process on a selected one of the multiple electronic design using the emulator as a resource
+     Url https://patents.google.com/patent/US20140032204A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Strategies for the integration of hardware and software IP components in embedded systems-on-chip
+     Author ['FR Wagner', 'WO Cesário', 'L Carro', 'AA Jerraya']
+     Venue Integration
+     Year 2004
+     Abstract Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0167926003001093
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title UVM-powered hardware/software co-verification
+     Author ['S Birla', 'S Sharma', 'NK Shukla']
+     Venue Journal of Information and …
+     Year 2017
+     Abstract It runs on guest machine while the hardware simulation runs on host machine  of Fourth ACM and IEEE International Conference on Formal Methods and Models for  Manoj Ariyamparambath, Bashuman Deb, A new Methodology for Hardware Software Verification, Design and
+     Url https://www.tandfonline.com/doi/abs/10.1080/02522667.2017.1372141
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for measuring assertion density in a system of verifying integrated circuit design
+     Author ['Y Lu', 'Y Liu', 'N Mhaske']
+     Venue US Patent 8,881,075
+     Year 2014
+     Abstract 5009—Computer-aided design using simulation; G06F17/504—Formal methods. G—PHYSICS;  the set of assertions comprises running the software verification tool within  model generating method for hardware verification, computer system, hardware simulation method, control
+     Url https://patents.google.com/patent/US8881075B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbench for the validation of a device under test
+     Author ['U Heinkel', 'J Knaeblein', 'C Mayer']
+     Venue US Patent App. 10/208,607
+     Year 2004
+     Abstract test vectors, patterns or sequences; G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment. G—PHYSICS; G06—COMPUTING; CALCULATING
+     Url https://patents.google.com/patent/US20040015739A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract cover all the possible cases. Formal can provide extensive coverage, but is limited to the size of the verification subject, be it hardware or software  Then, it presents the importance and necessity of verification methods in the development of embedded systems
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A dynamic assertion-based verification platform for validation of UML designs
+     Author ['A Banerjee', 'S Ray', 'P Dasgupta']
+     Venue ACM SIGSOFT …
+     Year 2012
+     Abstract Categories and Subject Descriptors D.2.4 [Software Engineering]: Software / Program Verifica- tion—Assertion checkers Formal Methods Validation General Terms Verification Keywords Software Verification, Dynamic Property Verification, Assertion Checking, UML
+     Url https://dl.acm.org/doi/abs/10.1145/2088883.2088891
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design of inverter power supply
+     Author ['MA El Dahb', 'S Iino', 'Y Shiraishi', 'M Tatsuno']
+     Venue 2009 ICCAS-SICE
+     Year 2009
+     Abstract suggested method and data obtained using the actual prototype was observed. Keywords: Embedded system, Hardware simulation, embedded software 1. INTRODUCTION  Design Challenge” proceedings of the 14th International Symposium on Formal Methods (FM), 2006
+     Url https://ieeexplore.ieee.org/abstract/document/5335347/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Debug environment for a multi user hardware assisted verification system
+     Author ['K Suresh', 'CW Selvidge', 'S Gupta', 'A Jain']
+     Venue US Patent 9,703,579
+     Year 2017
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  Similar to hardware verification, software verification is often performed using an emulator as a resource
+     Url https://patents.google.com/patent/US9703579B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,966
+     Year 2020
+     Abstract After performing the software verification and the hardware verification separately, the hybrid system may be tested to verify that executing  of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics
+     Url https://patents.google.com/patent/US20200142815A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract level and the clock frequency. On the other hand, due to a lack of automation, software Validation and Verification (V&V) tends to swallow up 40% to 50% of the total development cost. The ``Enhanced Quality Using Intensive
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,952
+     Year 2020
+     Abstract After performing the software verification and the hardware verification separately, the hybrid system may be tested to verify that executing  of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics
+     Url https://patents.google.com/patent/US20200142814A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Debug environment for a multi user hardware assisted verification system
+     Author ['K Suresh', 'CW Selvidge', 'S Gupta']
+     Venue US Patent App. 15 …
+     Year 2018
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  Similar to hardware verification, software verification is often performed using an emulator as a resource
+     Url https://patents.google.com/patent/US20180032357A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hybrid genetic concolic co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent 10,606,732
+     Year 2020
+     Abstract G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model  the concolic execution of the software-under-test may be a software verification technique that  over the portion of the software symbols are used in the hardware simulation
+     Url https://patents.google.com/patent/US10606732B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent 10,649,887
+     Year 2020
+     Abstract intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics  In some exemplary embodiments, the automatic test generation may be performed by combining software verification methods with hardware
+     Url https://patents.google.com/patent/US10649887B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded systems design: Hardware and software interaction
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue Embedded Software Design …
+     Year 2010
+     Abstract design step, different software components are generated and verified using hardware simulation models  respect to a certain formal specification or property, using formal methods of mathematics  The software validation and debug is performed by execution of the software code
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-5567-8_1
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying abstract interpretation to verify EN-50128 software safety requirements
+     Author ['D Kästner', 'C Ferdinand']
+     Venue … Conference on Reliability, Safety, and Security …
+     Year 2016
+     Abstract Classical software verification methods like code review and testing with measurements cannot really guarantee the  Formal Methods Supplement [21] to DO-178C [22  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33951-1_14
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software design and programming of multiprocessor system-on-chip
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue NA
+     Year 2010
+     Abstract At each design step, different software components are generated and verified using hardware simulation models  even if it would not contain the entire hardware architecture, but only a subset of components which are sufficient to allow some level of software verification on the
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4419-5567-8.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety standards and WCET analysis tools
+     Author ['D Kästner', 'C Ferdinand']
+     Venue NA
+     Year 2012
+     Abstract the use and qualification of software tools and the use of formal methods to complement  The pre- sentation of the US regulations follows [9]. Software validation is a requirement  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the
+     Url https://hal.archives-ouvertes.fr/hal-02192406/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to model checking
+     Author ['EM Clarke', 'TA Henzinger', 'H Veith']
+     Venue Handbook of Model Checking
+     Year 2018
+     Abstract In recent research on software verification, abstract interpretation and model checking have converged to a large extent  from all of these research areas, but also from automata theory, process alge- bra, graph algorithms, game theory, hardware simulation, stochastic processes
+     Url https://link.springer.com/chapter/10.1007/978-3-319-10575-8_1
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design for automobile external lighting systems
+     Author ['JH Neme', 'MMD Santos', 'ELS Teixeira']
+     Venue NA
+     Year 2015
+     Abstract Furthermore, it also improves software validation and verification boosting embedded system development  flexible simulation and low cost procedure once compared to hardware simulation  J., Kapinski, K.Ueda, K. Butts., “Challenges of Applying Formal Methods to Automotive
+     Url https://www.sae.org/publications/technical-papers/content/2015-36-0374/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Visualization and Measurement of Source Code
+     Author ['JH Cross', 'KH Chang', 'TD Hendrix']
+     Venue CrossTalk Journal of …
+     Year 1997
+     Abstract Originally developed as a hardware simulation language, VHDL has become an industry standard for specification of digital  His research interests include high-level synthesis, hardware-software co-design, and formal methods for hardware and software verification
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.203.182&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract mis- sions, with the goal of using the full array of available software verification and validation  inject a fault F (eg, write failure or system reset) into the hardware simulation layer  We describe the experience of a group of model checking and formal methods researchers with
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hybrid counterexample guided abstraction refinement
+     Author ['C Wang', 'A Gupta', 'H Kim']
+     Venue US Patent App. 11/950,730
+     Year 2009
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract. Systems and methods are disclosed for performing counterexample
+     Url https://patents.google.com/patent/US20090007038A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Node computation initialization technique for efficient parallelization of software analysis in a distributed computing environment
+     Author ['I Ghosh', 'MR Prasad']
+     Venue US Patent 8,769,500
+     Year 2014
+     Abstract US8769500B2 - Node computation initialization technique for efficient parallelization of software analysis in a distributed computing environment - Google Patents. Node computation initialization technique for efficient parallelization
+     Url https://patents.google.com/patent/US8769500B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Concretization of abstracted traces
+     Author ['H Chockler', 'S Keidar-Barner']
+     Venue US Patent 8,903,700
+     Year 2014
+     Abstract Dynamic verification methods such as hardware simulation and software testing are the primary means of verifying the correctness of hardware and software  In the present disclosed subject matter, hardware simulation and software testing are both referred to as simulation
+     Url https://patents.google.com/patent/US8903700B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system of verifying software
+     Author ['D Ratiu', 'SS Arumugam']
+     Venue US Patent App. 15/718,241
+     Year 2018
+     Abstract verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model  The memory includes a software verification module configured to generate a formal similarity specification based on relationships between a
+     Url https://patents.google.com/patent/US20180150379A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Institute of Microelectronic Systems Prof. Dr. Dr. hc mult. Manfred Glesner Supervisor: Dr.-Ing. Thomas Hollstein
+     Author ['S Jäger']
+     Venue NA
+     Year NA
+     Abstract DIPLOMA THESIS „Technical and Economical Barriers and Drivers for the Introduction of Formal Methods in the Verification of Digital Systems“  Page 14. Formal methods in the verification of digital systems 3 2 Formal methods in the verification of digital systems 2.1 Overview
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.4078&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title On minimising the maximum expected verification time
+     Author ['T Mancini', 'F Mari', 'A Massini', 'I Melatti', 'I Salvo']
+     Venue Information Processing …
+     Year 2017
+     Abstract Formal verification. Explicit model checking. System-level formal verification. Formal methods. Software engineering  This is in contrast with, eg, digital hardware simulation, where the time needed to  the approach always used in digital hardware as well as in software verification
+     Url https://www.sciencedirect.com/science/article/pii/S0020019017300170
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title CASH: Compilation and Analysis, Software and Hardware December 10, 2018
+     Author ['C Alias', 'J Braine', 'L Gonnord', 'L Henrio', 'P Iannetta']
+     Venue NA
+     Year 2018
+     Abstract compilation. Similarly, the hardware simulation community usually considers compilers as black-boxes and do not interact with researchers in compilation. Our contributions are therefore expected in several domains. While
+     Url http://www.ens-lyon.fr/LIP/CASH/wp-content/uploads/2018/01/projet-equipe-CASH.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title 100% Coverage for Safety-Critical Software–Efficient Testing by Static Analysis
+     Author ['D Kästner', 'R Heckmann', 'C Ferdinand']
+     Venue International Conference on …
+     Year 2010
+     Abstract the absence of safety hazards has to be demonstrated by formal methods or testing  Classical software validation methods like code review and testing with debug- ging cannot  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15651-9_15
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying parametrised hardware designs via counter automata
+     Author ['A Smrčka', 'T Vojnar']
+     Venue Haifa Verification Conference
+     Year 2007
+     Abstract 53 hardware synthesis tools, and also for hardware simulation or verification tools. A process called synthesis transforms a generic RTL description of a system to the gate/transistor level of a concrete electronic circuit description
+     Url https://link.springer.com/chapter/10.1007/978-3-540-77966-7_8
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A bibliography on formal methods for system specification, design and validation
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue NA
+     Year 1982
+     Abstract 1 0. Introduction There ie a body of literature describing formal methods which have been or are being developed  v `= ' This report contains the results. of a iterature survey designed to classify current literature an formal methods that mi ht be meanin full ex lofted in r g gy P
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for processing verification tests for testing a design under test
+     Author ['M Ovadia']
+     Venue US Patent 10,592,703
+     Year 2020
+     Abstract verification, eg functional simulation or model checking using formal methods, eg equivalence  US9536027B2 (en), 2017-01-03, Executing a hardware simulation and verification solution  US8930912B2 (en), 2015-01-06, Method and system for performing software verification
+     Url https://patents.google.com/patent/US10592703B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Partial order reduction for scalable testing in system level design
+     Author ['MK Ganai', 'S Kundu']
+     Venue US Patent App. 12/265,347
+     Year 2009
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract. A system and method for program testing includes, using a static
+     Url https://patents.google.com/patent/US20090132991A1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title An Overview of the Verification of the seL4 Microkernel
+     Author ['L Stevens']
+     Venue NA
+     Year 2018
+     Abstract 3 2.2 Formal Methods of the Correctness Proof . . . . . 5  As another advantage, no time must be spent to rewrite low-level, hardware dependent code when using a hardware simulation. But what about running the kernel on real hardware
+     Url https://www21.in.tum.de/teaching/proof21/SS18/files/14-final.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Software-centric and interaction-oriented system-on-chip verification.
+     Author ['XX Xu']
+     Venue NA
+     Year 2009
+     Abstract 27 2.2.2 Formal Methods: Not in the Position . . . . . 28 2.2.3 Simulation: DUT-TB Dualism  117 6.6 Hardware Simulation Profiling . . . . . 119 6.7 Basic Test-program Profiling
+     Url https://digital.library.adelaide.edu.au/dspace/handle/2440/58577
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer-aided verification
+     Author ['RP Kurshan', 'EM Clarke']
+     Venue NA
+     Year 1993
+     Abstract p. cm. "Reprinted from Formal methods in system design, voi 1, nos. 2-3." ISBN 978-1-4613-6579-2 ISBN 978-1-4615-3556-0 (eBook) DOI 10.1007/978-1-4615-3556-0 1. Computer software--Verification. 2. Electronic digital computers--Evaluation
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4615-3556-0.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system of latch mapping for combinational equivalence checking
+     Author ['JR Burch', 'V Singhal']
+     Venue US Patent 6,247,163
+     Year 2001
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract. A method and system of latch mapping for performing combinational
+     Url https://patents.google.com/patent/US6247163B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title TLB virtualization in the context of hypervisor verification
+     Author ['M Kovalev']
+     Venue NA
+     Year 2013
+     Abstract 231 10.5 Virtual Hardware Simulation . . . . . 233 10.6 Hardware Thread  Formal software verification is an act of proving or disproving correctness of a piece of software wrt to its specification, using formal methods of mathematics
+     Url https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/26535
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A study on run time assurance for complex cyber physical systems
+     Author ['M Clark', 'X Koutsoukos', 'J Porter', 'R Kumar']
+     Venue NA
+     Year 2013
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Error propagation in a system model
+     Author ['K Schloegel', 'D Bhatt', 'DV Oglesby', 'G Madl']
+     Venue US Patent 8,984,343
+     Year 2015
+     Abstract G06F17/50—Computer-aided design; G06F17/5009—Computer-aided design using simulation; G06F17/504—Formal methods. Abstract  FIG. 1 illustrates a computer for execution of a software verification tool in accordance with one embodiment. FIG
+     Url https://patents.google.com/patent/US8984343B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification and Validation
+     Author ['L Markosian', 'MS Feather']
+     Venue System Health …
+     Year 2011
+     Abstract Main Engine Controller - The Block II Space Shuttle Main Engine (SSME) Hardware Simulation Laboratory II  SSMEC software verification is conducted in the HSL II at MSFC and software certification is  this kind of problem has long been appropriate for formal methods such as
+     Url https://pdfs.semanticscholar.org/4c5c/96bfe52cf1d7d486245ecb26eb66eb875113.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of a logic design
+     Author ['MJ Boersma', 'U Krautz', 'U Schmidt']
+     Venue US Patent 8,918,747
+     Year 2014
+     Abstract BACKGROUND Formal methods for verification of logic designs as sequential equivalence checking (SEC) technologies, capable of demonstrating the behavioral equivalence of two logic designs, have grown in capacity over the past decades
+     Url https://patents.google.com/patent/US8918747B2/en
+

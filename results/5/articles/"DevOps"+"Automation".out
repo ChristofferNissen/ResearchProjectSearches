@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Automation"
+
+     Search term "DevOps"+"Automation"
+     Title Standards-based DevOps automation and integration using TOSCA
+     Author ['J Wettinger', 'U Breitenbücher']
+     Venue 2014 IEEE/ACM 7th …
+     Year 2014
+     Abstract DevOps is an emerging paradigm to tightly integrate developers with operations personnel. This is required to enable fast and frequent releases in the sense of continuously delivering software. Users and customers of today's Web applications and mobile apps running in the
+     Url https://ieeexplore.ieee.org/abstract/document/7027481/
+
+
+     Search term "DevOps"+"Automation"
+     Title Streamlining DevOps automation for Cloud applications using TOSCA as standardized metamodel
+     Author ['J Wettinger', 'U Breitenbücher', 'O Kopp']
+     Venue Future Generation …
+     Year 2016
+     Abstract DevOps as an emerging paradigm aims to tightly integrate developers with operations personnel. This enables fast and frequent releases in the sense of continuously delivering new iterations of a particular application. Users and customers of today's Web applications
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X15002496
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps automation and Agile methodology
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2017
+     Abstract In recent times, interest in the collaboration between technology and IT activities which is part of the DevOps phenomenon has been on the rise among, software-engineering, practitioners, and scientists. However, DevOps is also associated with agile as well as
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655581
+
+
+     Search term "DevOps"+"Automation"
+     Title Streamlining DevOps automation for Cloud applications
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2018
+     Abstract There are closer links between DevOps and cloud computing. DevOps aims to optimize progress for user specifications to be swiftly incorporated in application output, while the cloud enables automated supply and scaling to manage application changes. IT experts in
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655574
+
+
+     Search term "DevOps"+"Automation"
+     Title Improve Software Quality through practicing DevOps Automation
+     Author ['SM Mohammad']
+     Venue … DEVOPS AUTOMATION", International Journal of …
+     Year 2018
+     Abstract Computer Developers over the past years have implemented new generation programming languages. DevOps is complemented by a range of agile practices designed to improve cooperation between development and operating teams. The main aim of this paper is to
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681565
+
+
+     Search term "DevOps"+"Automation"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract The task of managing large installations of computer systems presents a number of unique challenges related to heterogeneity, consistency, information flow and documentation. The emerging field of DevOps borrows practices from software engineering to tackle complexity
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "DevOps"+"Automation"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract the primary requirement for DevOps, and DevOps's main concept is "Automate everything." DevOps automation commences from the coding on the developer machine until the code is run and then  DevOps automation captures everything from design, delivery, and supervision
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract T AB L E 1 Automation tools for DevOps. Tool DevOps phase Tool type Configuration format Language License Ant Build Build XML Java Apache Maven Build Build XML Java Apache  DevOps pushes automation from the application to the infrastructure
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "DevOps"+"Automation"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "DevOps"+"Automation"
+     Title Dimensions of devops
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on agile …
+     Year 2015
+     Abstract 3.2 Automation According to the literature and the practitioners, automation in DevOps is required in operations processes and increased test automation is necessary in the software devel- opment process [9], [15–17]. In order
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_19
+
+
+     Search term "DevOps"+"Automation"
+     Title Automated capturing and systematic usage of devops knowledge for cloud applications
+     Author ['J Wettinger', 'V Andrikopoulos']
+     Venue 2015 IEEE International …
+     Year 2015
+     Abstract Today, an ever-growing amount of DevOps tools, reusable artifacts such as scripts, and Cloud services are available to implement DevOps automation  More specifically, knowledge is organized around middleware, infrastructure, providers, and DevOps automation tooling
+     Url https://ieeexplore.ieee.org/abstract/document/7092900/
+
+
+     Search term "DevOps"+"Automation"
+     Title Report: Devops literature review
+     Author ['F Erich', 'C Amrit', 'M Daneva']
+     Venue University of Twente, Tech. Rep
+     Year 2014
+     Abstract We also found that DevOps is supported by a culture of collaboration, automation, measurement, information sharing and web service usage. DevOps benefits IS development and operations performance  DevOps automation is supported by various design patterns
+     Url https://www.researchgate.net/profile/Chintan_Amrit/publication/267330992_Report_DevOps_Literature_Review/links/544ba33f0cf2bcc9b1d6bd8a.pdf
+
+
+     Search term "DevOps"+"Automation"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract We review the lit- erature and develop a DevOps conceptual map, correlating the DevOps automation tools with these concepts  They identified six areas related to DevOps: social aspects, automation, measurements, sharing, quality assurance, and leanness
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "DevOps"+"Automation"
+     Title A grounded theory analysis of modern web applications: knowledge, skills, and abilities for DevOps
+     Author ['SK Bang', 'S Chung', 'Y Choh', 'M Dupuis']
+     Venue Proceedings of the 2nd annual …
+     Year 2013
+     Abstract analysis approach, namely grounded theory, to three web application development projects, we discover that the KSAs for both Software Development and IT Operator practitioners support the four perspectives of DevOps: collaboration culture, automation, measurement, and
+     Url https://dl.acm.org/doi/abs/10.1145/2512209.2512229
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract DevOps originated with operations as a means of streamlining and improving the effectiveness of operations in the face of increasing workload. Traditionally operations had the time to deal with application stability, risk, and performance issues separately from
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "DevOps"+"Automation"
+     Title Toward unified DevOps model
+     Author ['A Wahaballa', 'O Wahballa', 'M Abdellatief']
+     Venue 2015 6th IEEE …
+     Year 2015
+     Abstract AGILE '08. Conference, pp.202,207, 4-8 Aug. 2008 [2] Wettinger, Johannes; Breitenbcher, Uwe; Leymann, Frank: Standards- based DevOps Automation and Integration Using TOSCA, International Conference on Utility and Cloud Computing, 2014
+     Url https://ieeexplore.ieee.org/abstract/document/7339039/
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps Automation Cookbook
+     Author ['M Duffy']
+     Venue NA
+     Year 2015
+     Abstract Over 120 recipes covering key automation techniques through code management and virtualization offered by modern Infrastructure as a Service About This Book Use some of the powerful tools that have emerged to enable systems administrators and developers to take
+     Url https://books.google.com/books?hl=en&lr=&id=k_SoCwAAQBAJ&oi=fnd&pg=PP1&dq=%22DevOps%22+%22Automation%22&ots=-kk2J89OxN&sig=VWES0IkUpLCoj4US8IfNJg03Nqs
+
+
+     Search term "DevOps"+"Automation"
+     Title Improve software quality through practicing DevOps
+     Author ['P Perera', 'R Silva', 'I Perera']
+     Venue … Conference on Advances in ICT for …
+     Year 2017
+     Abstract release. In order to accommodate continuous releases, DevOps encourages automation of the change, configuration and release processes. The objective  Automation is a key enabler for DevOps adoption. The right people
+     Url https://ieeexplore.ieee.org/abstract/document/8257807/
+
+
+     Search term "DevOps"+"Automation"
+     Title Software security in devops: Synthesizing practitioners' perceptions and practices
+     Author ['AAU Rahman', 'L Williams']
+     Venue 2016 IEEE/ACM International …
+     Year 2016
+     Abstract In 13 Internet artifacts, authors reported that instead of operating in silos, the security team could adopt existing DevOps automation activities inside the organization, and customize existing security tools in a way that ensures the feedback cycle between the security team, with
+     Url https://ieeexplore.ieee.org/abstract/document/7809439/
+
+
+     Search term "DevOps"+"Automation"
+     Title Evaluating the impact of DevOps practice in Sri Lankan software development organizations
+     Author ['P Perera', 'M Bandara', 'I Perera']
+     Venue 2016 Sixteenth International …
+     Year 2016
+     Abstract DevOps- Culture .209 .249 .173 DevOps- Automation .086 .128 .096 DevOps- Measurement .166 .160 .142 DevOps- Sharing .159 .226 .259  Another important future research can be to explore the need for specialized tool support that facilitates DevOps through automation
+     Url https://ieeexplore.ieee.org/abstract/document/7829932/
+
+
+     Search term "DevOps"+"Automation"
+     Title Orchestrating automation and sharing in DevOps teams: a revelatory case of job satisfaction factors, risk and work conditions
+     Author ['A Hemon-Hildgen', 'F Rowe']
+     Venue European Journal of …
+     Year 2020
+     Abstract Agile can be seen as an accelerator to develop software, yet it suffers from bottlenecks between development and operations. DevOps can overcome bottlenecks between agile development teams and operations, notably by providing continuous integration, delivery
+     Url https://www.tandfonline.com/doi/abs/10.1080/0960085X.2020.1782276
+
+
+     Search term "DevOps"+"Automation"
+     Title Towards DevOps in the embedded systems domain: Why is it so hard?
+     Author ['LE Lwakatare', 'T Karvonen', 'T Sauvola']
+     Venue 2016 49th hawaii …
+     Year 2016
+     Abstract In DevOps, automation of the deployment process is achieved through tool support that helps to automatically manage application and infrastructure configurations [1]. In the embedded systems domain, deploying new software functionality to customer sites involves numerous
+     Url https://ieeexplore.ieee.org/abstract/document/7427859/
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps adoption benefits and challenges in practice: a case study
+     Author ['L Riungu-Kalliosaari', 'S Mäkinen', 'LE Lwakatare']
+     Venue … Conference on Product …
+     Year 2016
+     Abstract The idea of rapid delivery aligns with the DevOps notion of reducing the time it takes for a software release to reach the production environment [3]. DevOps encourages automation, which was seen to help in improving the quality of releases
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_44
+
+
+     Search term "DevOps"+"Automation"
+     Title Are DevOps and Automation Our Next Silver Bullet?
+     Author ['I Ozkaya']
+     Venue IEEE Software
+     Year 2019
+     Abstract Fred brooks, in his well-known classic The Mythical Man-Month, already told the software engineering industry in 1975 that there are no silver bullets in gaining an order-of-magnitude improvement in software productivity. 1 He also observed that" most of the big
+     Url https://ieeexplore.ieee.org/abstract/document/8738081/
+
+
+     Search term "DevOps"+"Automation"
+     Title Pioneering the automation of lnternal quality assurance system of higher education (IQAS-HE) using DevOps approach
+     Author ['A Taryana', 'I Setiawan', 'A Fadli']
+     Venue … and Technology (SIET …
+     Year 2017
+     Abstract Now, It was important to develop a software for managing the Internal Quality Assurance System for Higher Education (IQAS-HE). One hot issue was an automation, how to develop the software that can be reused by many developers, upgraded the release fast and frequent
+     Url https://ieeexplore.ieee.org/abstract/document/8304146/
+
+
+     Search term "DevOps"+"Automation"
+     Title Implementation of a DevOps pipeline for serverless applications
+     Author ['V Ivanov', 'K Smolander']
+     Venue International Conference on Product-Focused …
+     Year 2018
+     Abstract Most of the DevOps automation practices can be grouped into CI, CD and Monitoring categories  0. No. The results of the workshop and interviews showed that 18 out of 27 DevOps automation practices selected for this research are affected by the Serverless architecture
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03673-7_4
+
+
+     Search term "DevOps"+"Automation"
+     Title Devops for digital leaders: Reignite business with a modern devops-enabled software factory
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue NA
+     Year 2016
+     Abstract month, in less than two years. By leveraging DevOps workflows and supporting automation, the Dutch bank transitioned from release cycles dictated by technical roadmaps, to those focused on strategic business objectives
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/28172/1001822.pdf?sequence=1
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps: Concepts, practices, tools, benefits and challenges
+     Author ['G Bou Ghantous', 'A Gill']
+     Venue PACIS2017
+     Year 2017
+     Abstract According to Erich et al. [23]; “DevOps automation is supported by various design patterns which improve the continuous delivery of software application on cloud platform”  “Continuous Integration and Automation for DevOps”, HK Kim et al
+     Url https://opus.lib.uts.edu.au/bitstream/10453/130066/1/DevOps-%20Concepts%20Practices%20Tools%20Benefits%20and%20Challenges.pdf
+
+
+     Search term "DevOps"+"Automation"
+     Title A qualitative study of DevOps usage in practice
+     Author ['FMA Erich', 'C Amrit', 'M Daneva']
+     Venue Journal of Software: Evolution …
+     Year 2017
+     Abstract personnel. Automation (8 papers); Automation within the software process. Organizations practicing DevOps aim for a high degree of automation. Measurement (3 papers); Metrics within the software process. Organizations practicing
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1885
+
+
+     Search term "DevOps"+"Automation"
+     Title Applying DevOps Practices of Continuous Automation for Machine Learning
+     Author ['I Karamitsos', 'S Albarhami', 'C Apostolopoulos']
+     Venue Information
+     Year 2020
+     Abstract This paper proposes DevOps practices for machine learning application, integrating both the development and operation environment seamlessly. The machine learning processes of development and deployment during the experimentation phase may seem easy. However
+     Url https://www.mdpi.com/2078-2489/11/7/363
+
+
+     Search term "DevOps"+"Automation"
+     Title Is DevOps another project management methodology?
+     Author ['L Banica', 'M Radulescu', 'D Rosca', 'A Hagiu']
+     Venue Informatica Economica
+     Year 2017
+     Abstract Closely related to the IT market direction towards the offer of software resources as services, DevOps automation achieves a business model that uses Cloud computing based techniques, such as: Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as
+     Url http://revistaie.ase.ro/content/83/04%20-%20banica,%20radulescu,%20rosca,%20hagiu.pdf
+
+
+     Search term "DevOps"+"Automation"
+     Title Relationship of DevOps to agile, lean and continuous deployment
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on product …
+     Year 2016
+     Abstract ML and scientific articles agreed that the practices and tools advocated by DevOps help to achieve CD. Some of these practices involve: (1) organisational and cultural changes designed to eliminate the gap between development and operations, (2) automation of deployment
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_27
+
+
+     Search term "DevOps"+"Automation"
+     Title Secdevops: Is it a marketing buzzword?-mapping research on security in devops
+     Author ['V Mohan', 'LB Othmane']
+     Venue 2016 11th International Conference on …
+     Year 2016
+     Abstract Rahman et al. [2] suggest that the relationship between the use of automation activities in DevOps environments and its influence on the software quality could be a useful line of research for DevOps enthusiasts. They also suggest
+     Url https://ieeexplore.ieee.org/abstract/document/7784617/
+
+
+     Search term "DevOps"+"Automation"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract is not a zero-sum game. Devops is an approach to fixing the first three problems listed above through culture, automation, measurement, and sharing. 2 We will address each of these aspects in turn. Culture In terms of culture
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps capabilities, practices, and challenges: Insights from a case study
+     Author ['M Senapathi', 'J Buchan', 'H Osman']
+     Venue Proceedings of the 22nd …
+     Year 2018
+     Abstract Measurement Technological Enablers Build automation Test automation Deployment automation Monitoring automation Recovery automation Infrastructure automation Configuration management for code and infrastructure Metrics automation The DevOps capability enablers
+     Url https://dl.acm.org/doi/abs/10.1145/3210459.3210465
+
+
+     Search term "DevOps"+"Automation"
+     Title What is DevOps? A systematic mapping study on definitions and practices
+     Author ['R Jabbari', 'N bin Ali', 'K Petersen']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract Page 2. them in IS development, which were specifically related to development and operations. They also investigated how DevOps can mitigate the identified challenges. In addition, they mentioned culture, automation, measurement, sharing, services, quality assurance, etc
+     Url https://dl.acm.org/doi/abs/10.1145/2962695.2962707
+
+
+     Search term "DevOps"+"Automation"
+     Title From agile to DevOps: Smart skills and collaborations
+     Author ['A Hemon', 'B Lyonnet', 'F Rowe', 'B Fitzgerald']
+     Venue Information Systems Frontiers
+     Year 2020
+     Abstract Background and Related Work. Agile, DevOps and Level of Automation of Design and Flows  2014). Humble and Molesky (2011) presented four core values for DevOps: Culture, Automation, Measurement and Sharing. In the recent DevOps handbook, (Kim et al
+     Url https://link.springer.com/article/10.1007/s10796-019-09905-1
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps Automation Advances IT Sectors with the Strategy of Release Management
+     Author ['SM Mohammad']
+     Venue International Journal of Computer Trends and …
+     Year 2019
+     Abstract This Development of software release is the systematic process, planning, designing, and monitoring software through different phases and settings; testing and delivery of software releases included. Traditional models, such as incremental/iterative and ad-hoc
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628988
+
+
+     Search term "DevOps"+"Automation"
+     Title Security practices in DevOps
+     Author ['AA Ur Rahman', 'L Williams']
+     Venue … of the Symposium and Bootcamp on the …
+     Year 2016
+     Abstract From our analysis of Internet artifacts and survey we make the following observations: • From Table 1 we observe that common DevOps activities such as automation of monitoring, automation of testing, and automation of code review are used to integrate security in DevOps
+     Url https://dl.acm.org/doi/abs/10.1145/2898375.2898383
+
+
+     Search term "DevOps"+"Automation"
+     Title Composable DevOps: automated ontology based DevOps maturity analysis
+     Author ['MA McCarthy', 'LM Herger', 'SM Khan']
+     Venue 2015 IEEE …
+     Year 2015
+     Abstract VII. METADATA PROVENANCE FRAMEWORK TO ASSURE AUTOMATED DEVOPS MATURITY PATH DECISIONS DevOps automation is composed of complex interactions between actionable policies and processes. Policy must be decomposable to discrete action plans
+     Url https://ieeexplore.ieee.org/abstract/document/7207405/
+
+
+     Search term "DevOps"+"Automation"
+     Title Research for practice: the DevOps phenomenon
+     Author ['A Wiedemann', 'N Forsgren', 'M Wiesche']
+     Venue Communications of the …
+     Year 2019
+     Abstract DevOps enhances automation from applications to infrastructure provision- ing  Third, each DevOps solution should encompass a holistic view, consisting of automation (includ- ing tools and architecture), process, and culture
+     Url https://dl.acm.org/doi/fullHtml/10.1145/3331138
+
+
+     Search term "DevOps"+"Automation"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract is not a zero-sum game. Devops is an approach to fixing the first three problems listed above through culture, automation, measurement, and sharing. 2 We will address each of these aspects in turn. Culture In terms of culture
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps Automation Advances IT Sectors with the Strategy of Release Management
+     Author ['SM Mohammad']
+     Venue International Journal of Computer Trends and …
+     Year 2019
+     Abstract This Development of software release is the systematic process, planning, designing, and monitoring software through different phases and settings; testing and delivery of software releases included. Traditional models, such as incremental/iterative and ad-hoc
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3628988
+
+
+     Search term "DevOps"+"Automation"
+     Title An exploratory study of DevOps and it's future in the United States
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract Fig i: DevOps Performance Metrics IV. FUTURE OF DEVOPS IN THE US There have been waves in the IT industry in the emergence of AI and automation, and DevOps is no exception. DevOps in the US has big potential projections
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668439
+
+
+     Search term "DevOps"+"Automation"
+     Title Including performance benchmarks into continuous integration to enable DevOps
+     Author ['J Waller', 'NC Ehmke', 'W Hasselbring']
+     Venue ACM SIGSOFT Software …
+     Year 2015
+     Abstract Automation is key to DevOps success: automated building of sys- tems out of version management repositories; automated execu- tion of unit tests, integration tests, and system tests; automated deployment in test and production environments
+     Url https://dl.acm.org/doi/abs/10.1145/2735399.2735416
+
+
+     Search term "DevOps"+"Automation"
+     Title Characterizing DevOps by hearing multiple voices
+     Author ['BBN de França', 'H Jeronimo']
+     Venue Proceedings of the 30th …
+     Year 2016
+     Abstract Automation: claimed to be one of the core principles of DevOps due the benefits it could promote. It  From that, they identified four general dimensions of DevOps: collaboration, automation, measurement, and monitoring. Moreover
+     Url https://dl.acm.org/doi/abs/10.1145/2973839.2973845
+
+
+     Search term "DevOps"+"Automation"
+     Title The DevOps Phenomenon
+     Author ['A Wiedemann', 'N Forsgren', 'M Wiesche', 'H Gewald']
+     Venue Queue
+     Year 2019
+     Abstract DevOps enhances automation from applications to infrastructure provisioning  research for practice RFP Automation The next principle, automation, requires a suite of DevOps tools.2,13 Following are a few examples of available automation tooling: Build 3 Build
+     Url https://dl.acm.org/doi/pdf/10.1145/3329781.3338532
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps for IoT applications using cellular networks and cloud
+     Author ['A Karapantelakis', 'H Liang', 'K Wang']
+     Venue 2016 IEEE 4th …
+     Year 2016
+     Abstract Index Terms—5G, Cloud, Internet of Things, Network Slicing, DevOps, Resource Orchestration, Automation  In “continuous delivery” environments such as DevOps, automation and short lead- time between application deployment, use, teardown are of significant importance
+     Url https://ieeexplore.ieee.org/abstract/document/7575883/
+
+
+     Search term "DevOps"+"Automation"
+     Title DevOps for information management systems
+     Author ['AQ Gill', 'A Loumish', 'I Riyat', 'S Han']
+     Venue VINE Journal of Information and …
+     Year 2018
+     Abstract This review paper identified 23 tools that can support DevOps process automation (Table VIII). Most reported tools are for building the systems (build system)  Thus, a single tool may not be sufficient for the end-to-end automation needs of DevOps
+     Url https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-02-2017-0007/full/html
+
+
+     Search term "DevOps"+"Automation"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract Further this stage of process optimization refers to achieving automation such that as soon as developer delivers the change the build systems detects that (may even be a scheduled  This is heart of DevOps and forms the critical piece of overall software delivery optimization
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+

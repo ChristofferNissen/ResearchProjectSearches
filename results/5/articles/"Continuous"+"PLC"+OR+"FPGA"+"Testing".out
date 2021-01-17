@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous testing as a strategy of improving the PLC software development cycles
+     Author ['U Kramer']
+     Venue 2001 IEEE/ASME International Conference on …
+     Year 2001
+     Abstract An appropriate simulation environment for testing real-time software applications, especially PLC (programmable logic controller) programs, is in demand for many reasons. One of the them might be found in the altered conditions of cooperation (teamwork, teleworking, etc.)
+     Url https://ieeexplore.ieee.org/abstract/document/936765/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title An FPGA-based quench detection and continuous logging system for testing superconducting magnets
+     Author ['R Pilipenko', 'RH Carcagno', 'A Makulski']
+     Venue IEEE transactions on …
+     Year 2013
+     Abstract A quench detection system for testing superconducting magnets with two concurrent data logging modes was developed at Fermilab. This system consists of two functional components: An active quench detection component, which is based on a reconfigurable
+     Url https://ieeexplore.ieee.org/abstract/document/6413182/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Implementing a simple continuous speech recognition system on an FPGA
+     Author ['SJ Melnikoff', 'SF Quigley']
+     Venue Proceedings. 10th Annual …
+     Year 2002
+     Abstract The speech waveforms used for the testing and training of both implementations were taken from the TIMIT database [6], a collection of speech data designed for the development of speech  Table 1. Results from continuous HMM implementation FPGA resources Correct
+     Url https://ieeexplore.ieee.org/abstract/document/1106682/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title An FPGA based decimation filter processor design for real-time continuous-time Σ− Δ modulator performance measurement and evaluation
+     Author ['S Cetinsel', 'RCS Morling', 'I Kale']
+     Venue 2011 20th European …
+     Year 2011
+     Abstract reports on a Field Programmable Gate Array (FPGA) implementation as well as prototyping for real-time testing of a low complexity high efficiency decimation filter processor which is deployed in conjunction with a custom built low-power jitter insensitive Continuous Time (CT
+     Url https://ieeexplore.ieee.org/abstract/document/6043370/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title On the characteristics of Portevin–Le Chatelier bands in aluminum alloy 5182 under stress-controlled and strain-controlled tensile testing
+     Author ['M Abbadi', 'P Hähner', 'A Zeghloul']
+     Venue Materials Science and Engineering: A
+     Year 2002
+     Abstract This is another reason why we decided to polish the samples prior to systematic tensile testing  6 reveal that serrations of Type A (continuous PLC band propagation) and Type C (stochastic PLC band nucleation without propagation) are confined, respectively, to the regimes
+     Url https://www.sciencedirect.com/science/article/pii/S0921509302000369
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Integrated testing of serializer/deserializer in FPGA
+     Author ['AH Lesea']
+     Venue US Patent 6,874,107
+     Year 2005
+     Abstract US20050071730A1 (en) *, 2003-09-30, 2005-03-31, Lattice Semiconductor Corporation, Continuous self-verify of configuration memory in  FPGA emulation system  en), 2007-06-08, 2011-11-22, Lattice Semiconductor Corporation, Soft error detection logic testing systems and
+     Url https://patents.google.com/patent/US6874107B2/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title PLC-based model of reactive power flow in steam power plant for pre-commissioning validation testing of coordinated QV controller
+     Author ['J Dragosavac', 'Ž Janda']
+     Venue IEEE Transactions on …
+     Year 2011
+     Abstract power output. Standard PLC hardware, as industrial grade equipment appropriate for on site testing, is used for practical QFM implementation after discretiza- tion of the continuous mathematical model. The developed QFM
+     Url https://ieeexplore.ieee.org/abstract/document/5746556/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Proton testing of SEU mitigation methods for the Virtex FPGA
+     Author ['C Carmichael', 'E Fuller', 'J Fabula']
+     Venue Proc. of Military and …
+     Year 2001
+     Abstract Continuous readback in conjunction with a detection algorithm (bit compare, CRC, etc) provides data on upsets encountered, time, and frequency  The other consideration for dynamic testing is that the test probes an FPGA design, not the device
+     Url https://www.researchgate.net/profile/Carl_Carmichael/publication/238685441_Proton_testing_of_seu_mitigation_methods_for_the_virtex_fpga/links/544548f40cf2d62c304d7bb5/Proton-testing-of-seu-mitigation-methods-for-the-virtex-fpga.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Radiation testing update, SEU mitigation, and availability analysis of the Virtex FPGA for space reconfigurable computing.
+     Author ['E Fuller', 'M Caffrey']
+     Venue NA
+     Year 2000
+     Abstract Two features of the Virtex architecture can help overcome upset problems. The fwst is that the configuration bitstream can be read back from the part while in operation, allowing continuous monitoring for an upset in the configuration  Testing of the FPGA was performe~ with
+     Url https://www.osti.gov/servlets/purl/766418
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing of Hybrid Real-time Systems Using FPGA Platform
+     Author ['J Krákora', 'Z Hanzálek']
+     Venue 2006 International Symposium on …
+     Year 2006
+     Abstract an industrial environment ac- tivities to react with an IUT ei programmable logic controller (called PLC)  LabView FPGA I1] in HIL application allows an user to test IUT on-line  design its own HIL using LabView environment supportinl both dis- crete event and continuous systems
+     Url https://ieeexplore.ieee.org/abstract/document/4197494/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Using roving STARs for on-line testing and diagnosis of FPGAs in fault-tolerant applications
+     Author ['M Abramovici', 'C Strond', 'C Hamilton']
+     Venue … (IEEE Cat. No …
+     Year 1999
+     Abstract of EECS Lucent Technologies Allentown, PA 18 103 Univ. of Illinois at Chicago Chicago, IL 60607 which is not applicable in missions relying on continuous system operation. The only attempt at on-line FPGA testing has been the pioneering work of Shnidman et a1.[26]
+     Url https://ieeexplore.ieee.org/abstract/document/805830/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based network device testing equipment for high load testing
+     Author ['K Toda', 'T Katashita', 'K Sakamaki', 'T Inui']
+     Venue US Patent …
+     Year 2011
+     Abstract Furthermore, an extension for making a continuous inspection for a long time is also made possible by  an equipment that varies the communication protocol with a communication apparatus using an FPGA, there has been no report on network device testing equipment in
+     Url https://patents.google.com/patent/US7953014B2/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Speech recognition on an FPGA using discrete and continuous hidden Markov models
+     Author ['SJ Melnikoff', 'MJ Russell']
+     Venue International Conference on Field …
+     Year 2002
+     Abstract 6.2 Speech Data The speech waveforms used for the testing and training of both implementations were taken  We have implemented a speech recognition system on an FPGA development board, comparing versions based on discrete HMMs and continuous HMMs, and
+     Url https://link.springer.com/chapter/10.1007/3-540-46117-5_22
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Active replication: Towards a truly sram-based fpga on-line concurrent testing
+     Author ['MG Gericota', 'GR Alves', 'ML Silva']
+     Venue … On-Line Testing …
+     Year 2002
+     Abstract However, the cause of the failure is actually transient [4]. A higher system dependability level can therefore only be achieved through the continuous testing of all FPGA resources throughout system lifetime, and by the introduction of fault tolerance features
+     Url https://ieeexplore.ieee.org/abstract/document/1030201/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Built-in self-test of FPGA interconnect
+     Author ['C Stroud', 'S Wijesuriya', 'C Hamilton']
+     Venue … 1998 (IEEE Cat. No …
+     Year 1998
+     Abstract We will apply all possible 2” test patterns to every group of n wires under test (WUTs), where a wire is a continuous group of wire segments connected by  As a result, we decided to ignore the routing faults detected during PLB test and to treat testing the FPGA interconnect as
+     Url https://ieeexplore.ieee.org/abstract/document/743180/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based neural network harmonic estimation for continuous monitoring of the power line in industrial applications
+     Author ['M Valtierra-Rodriguez', 'RA Osornio-Rios']
+     Venue Electric power systems …
+     Year 2013
+     Abstract The startup transient of the CNC lathe was chosen for testing the instrument in the  Additionally, the FPGA implementation of the proposed methodology allows satisfying the processing time that outperforms PC-based instruments; therefore, the continuous and online
+     Url https://www.sciencedirect.com/science/article/pii/S0378779613000217
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated plc software testing using adapted uml sequence diagrams
+     Author ['B Kormann', 'D Tikhonov', 'B Vogel-Heuser']
+     Venue IFAC Proceedings Volumes
+     Year 2012
+     Abstract Automatic program verification of continuous function chart based on model checking  A framework for automated testing of automa- tion systems  Plc state charts: An approach to integrate uml state charts in open-loop control engineering
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016333821
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title The FPGA-based continuous FFT tune measurement system for the LHC and its test at the CERN SPS
+     Author ['A Boccardi', 'M Gasior', 'OR Jones']
+     Venue 2007 IEEE Particle …
+     Year 2007
+     Abstract Page 1. THE FPGA-BASED CONTINUOUS FFT TUNE MEASUREMENT SYSTEM FOR THE LHC AND ITS TEST AT THE CERN SPS A. Boccardi, M.Gasior, ORJones, KKKasinski, RJ Steinhagen, CERN, Geneva, Switzerland
+     Url https://ieeexplore.ieee.org/abstract/document/4439982/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Scalable and parallel processing methods and structures for testing configurable interconnect network in FPGA device
+     Author ['RT Cote', 'B Nguyen', 'XD Pham']
+     Venue US Patent …
+     Year 2004
+     Abstract US6725442B1 - Scalable and parallel processing methods and structures for testing configurable interconnect network in FPGA device - Google Patents. Scalable and parallel processing methods and structures for testing configurable
+     Url https://patents.google.com/patent/US6725442B1/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous flow apparatus for biological testing
+     Author ['NA Posch']
+     Venue US Patent 4,053,284
+     Year 1977
+     Abstract US4053284A - Continuous flow apparatus for biological testing - Google Patents. Continuous flow apparatus for biological testing. Download PDF Info. Publication number US4053284A. US4053284A US05/665,358 US66535876A
+     Url https://patents.google.com/patent/US4053284A/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Radiation test results of the Virtex FPGA and ZBT SRAM for space based reconfigurable computing
+     Author ['E Fuller', 'M Caffrey', 'P Blain', 'C Carmichael']
+     Venue MAPLD …
+     Year 1999
+     Abstract This FPGA offers the speed, density, IO, and architecture required for reconfigurable computing, and is an  The possibility of using it in space motivated the SEE testing  configuration bitstream can be read back from the part while in operation, allowing continuous monitoring for
+     Url http://ebook.pldworld.com/_Semiconductors/XILINX/DataSource%20CD-ROM/Rev.3%20(Q1-2001)/documents/www.xilinx.com/appnotes/VtxTest.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Roving STARs: an integrated approach to on-line testing, diagnosis, and fault tolerance for FPGAs in adaptive computing systems
+     Author ['M Abramovici', 'JM Emmert']
+     Venue Proceedings Third NASA …
+     Year 2001
+     Abstract While FPGA testing has been the focus of many papers [21[ 161[ 1 SI[ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 1 ~ ~ ~ 11[3~1[401[4~1[421[4 8][49][51][52][53][56], most of the previous work deals with off-line testing, which is not applicable in missions relying on continuous system operation
+     Url https://ieeexplore.ieee.org/abstract/document/937949/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Through the eye of the PLC: semantic security monitoring for industrial processes
+     Author ['D Hadžiosmanović', 'R Sommer', 'E Zambon']
+     Venue Proceedings of the 30th …
+     Year 2014
+     Abstract Table 3: Testing model capabilities Deviating variables across different types of series (mean %/ st.dev) Constant Attribute Continuous PLC 1a 0.5/0.29 19.05/0.2 57.49/5.78 PLC 1b 0.31/0.04 19.80/1.4 44.64/5.41 PLC 1c 0.14/0.02 19.55/4.0 37.58/2.98 PLC 2a 0.64/0.0 26.92
+     Url https://dl.acm.org/doi/abs/10.1145/2664243.2664277
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title A linear time-over-threshold digitizing scheme and its 64-channel DAQ prototype design on FPGA for a continuous crystal PET detector
+     Author ['W Yonggang', 'C Xinyi', 'L Deng']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract comparators could be substituted in the future by the on-chip LVDS receivers of the FPGA [21] so  Besides, there are also many redundant designs on the boards for testing other possible im- plementing circuits in  identical PET detector modules based on continuous scin- tillators
+     Url https://ieeexplore.ieee.org/abstract/document/6710205/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Performing speech recognition on multiple parallel files using continuous hidden Markov models on an FPGA
+     Author ['SJ Melnikoff', 'SF Quigley']
+     Venue 2002 IEEE International …
+     Year 2002
+     Abstract is written so as to be as functionally similar to the FPGA implementation as  Speech data The speech waveforms used for the testing and training of both implementations  Theory Continuous HMMs compute their observation probabilities bj(O,) based on feature vectors extracted
+     Url https://ieeexplore.ieee.org/abstract/document/1188720/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Model-based testing of PLC software: test of plants' reliability by using fault injection on component level
+     Author ['S Rösch', 'D Tikhonov', 'D Schütz']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract the requirements on the TD specification were refined based on the analysis of PLC code from  because many values within the software, eg the pressure in a cylinder, follow continuous courses  in plant automation are another aspect that must be dealt with when testing as some
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016421488
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA implementation of Morlet continuous wavelet transform for EEG analysis
+     Author ['YT Qassim', 'T Cutmore', 'D James']
+     Venue … on Computer and …
+     Year 2012
+     Abstract coefficients in the time-frequency plane [4], [5]. The CWT of the continuous input signal X  One FPGA design sheet was used which contains all the different main components; the FFT core  PC through the JTAG cable which enables changing variables or on line testing of signals
+     Url https://ieeexplore.ieee.org/abstract/document/6271152/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title TESLA cavity modeling and digital implementation with FPGA technology solution for control system development
+     Author ['T Czarski', 'KT Pozniak', 'RS Romaniuk']
+     Venue … , Industry, and High …
+     Year 2004
+     Abstract The continuous SIMULINK and digital MATLAB model implementation is developed as a reference for the hardware simulator based on the FPGA — Field Programmable Gate Array technology. The step operation mode has been applied for testing of the FPGA device coupled
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5484/0000/TESLA-cavity-modeling-and-digital-implementation-with-FPGA-technology-solution/10.1117/12.568854.short
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous delivery: Huge benefits, but challenges too
+     Author ['L Chen']
+     Venue IEEE Software
+     Year 2015
+     Abstract http://martinfowler.com/bliki/ContinuousDelivery.html [2] J. Humble and D. Farley, Continuous Delivery: Reliable  [4] C. Kaner, J. Falk, and HQ Nguyen, Testing Computer Software  Lianping Chen is a senior software engineer at Paddy Power PLC and a doctoral researcher at Lero
+     Url https://ieeexplore.ieee.org/abstract/document/7006384/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design and testing technique of FPGA-based critical systems
+     Author ['V Kharchenko', 'O Siora', 'V Sklyar']
+     Venue 2009 10th International …
+     Year 2009
+     Abstract and signaling channels should be defined Requirements to timing characteristics Timing characteristics are specified as duration of entrance cycles of continuous and discrete  3 A life cycle of FPGA-based I&C system V. A PROCESS OF FPGA-PROJECTS TESTING
+     Url https://ieeexplore.ieee.org/abstract/document/4839839/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design and test issues of an FPGA based data acquisition system for medical imaging using PEM
+     Author ['C Leong', 'P Bento', 'P Lousã', 'J Nobre']
+     Venue … on Nuclear Science
+     Year 2006
+     Abstract lines) and the modules response to the test vectors, that is, modules signatures (continuous lines  DAE testing [8] is carried out in order to insure: 1) design and prototype validation, diagnosis  Almost all the DAE test pro- cedures are embedded in the FPGA design with negligible
+     Url https://ieeexplore.ieee.org/abstract/document/1644939/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title An efficient FPGA design and performance testing of the ACE algorithm for PAPR reduction in DVB-T2 systems
+     Author ['Z Zheng', 'G Li']
+     Venue IEEE Transactions on Broadcasting
+     Year 2016
+     Abstract It should be noted that the PAPR of a continuous-time OFDM signal cannot be precisely described by the use of N samples per signal period  Page 4. ZHENG AND LI: EFFICIENT FPGA DESIGN AND PERFORMANCE TESTING OF THE ACE ALGORITHM 137 Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7547929/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title A development and testing instrumentation for GPS software defined radio with fast FPGA prototyping support
+     Author ['A Soghoyan', 'A Suleiman']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract Continuous modernization of the GNSS systems, including transmission of new signals also challenges the  8], [14]–[17] became popular for advanced receiver development and testing because the  solutions are reported [7], [14], [15], [18], [19], including the FPGA- based GPS
+     Url https://ieeexplore.ieee.org/abstract/document/6750082/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Near infra-red spectroscopy combined with transcranial direct current stimulation in FPGA-based hardware for point of care testing of cerebral vascular status-a stroke …
+     Author ['U Jindal', 'M Sood', 'A Das']
+     Venue 2015 7th International …
+     Year 2015
+     Abstract This paper describes the development of a 4-channel continuous wave NIRS combined with tDCS in an FPGA-based hardware that  Thus, combining NIRS with tDCS can lend to low-cost point of care testing of cerebral vascular status so we present a NIRS-tDCS based
+     Url https://ieeexplore.ieee.org/abstract/document/7146805/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Scalable and parallel processing methods and structures for testing configurable interconnect network in FPGA device
+     Author ['RT Cote', 'B Nguyen', 'XD Pham']
+     Venue US Patent …
+     Year 2002
+     Abstract 692,694 US69269400A US6470485B1 US 6470485 B1 US6470485 B1 US 6470485B1 US 69269400 A US69269400 A US 69269400A US 6470485 B1 US6470485 B1 US 6470485B1 Authority US United States Prior art keywords lut interconnect fpga states testing Prior art
+     Url https://patents.google.com/patent/US6470485B1/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title BIST-based delay-fault testing in FPGAs
+     Author ['M Abramovici', 'CE Stroud']
+     Venue Journal of electronic testing
+     Year 2003
+     Abstract A signal path is formed by connecting sev- eral wire segments and PLBs in a continuous sequence via multiple CIPs  Our roving STARs approach [2, 4] introduced new techniques for on-line FPGA testing, diagnosis, and fault-tolerance, applicable to any FPGA supporting
+     Url https://link.springer.com/article/10.1023/A:1025126030727
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based reliability testing and analysis for 3D NAND flash memory
+     Author ['D Wei', 'Z Piao', 'H Feng', 'L Qiao', 'X Peng']
+     Venue Microelectronics Reliability
+     Year 2020
+     Abstract The crystal on the test platform makes FPGA work at 50 MHz  retrieved after P/E Operation with a range from 100 to 10,000 P/E cycles in 200 continuous block reads  In this research, we designed a test platform that supports testing multiple packages 3D NAND flash memory chips
+     Url https://www.sciencedirect.com/science/article/pii/S0026271420304169
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous Integration of FPGA Designs for CMS
+     Author ['R Glein', 'A Perloff', 'K Ulmer']
+     Venue Topical Workshop on Electronics for Particle …
+     Year 2019
+     Abstract In the development of FPGA designs, comprehensive verification and testing is required  simulation, synthesis (netlist translation), implementation (place and route), and test of FPGA designs. To manage this complexity, Continuous Integration (CI) offers an automated way to set
+     Url https://s3.cern.ch/inspire-prod-files-8/8f534b5362f6cd8a16723f15cc1f57f4
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Study on test method of FPGA circuit board [J]
+     Author ['SSC Shichuang']
+     Venue Foreign Electronic Measurement Technology
+     Year 2011
+     Abstract With the continuous development of microelectronic technology,more and more complex logic devices are applied to the circuit board of weapons  type of circuit board test.Therefore,first of all,the article discourse the specificity and complexity of the FPGA testing by analyzing the
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GWCL201111017.htm
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Report of the first international consensus on standardized nomenclature of antinuclear antibody HEp-2 cell patterns 2014–2015
+     Author ['', 'W de Melo Cruvinel', 'PLC Francescantonio']
+     Venue Frontiers in …
+     Year 2015
+     Abstract To facilitate continuous improvement and input, specific comments on ICAP are encouraged and these will be discussed in  is to promote harmonization and understanding of autoantibody test nomenclature, as well as interpretation guidelines for ANA testing, thereby optimizing
+     Url https://www.frontiersin.org/articles/10.3389/fimmu.2015.00412/full
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Distributed PLC Control System of Wire Feeders in Continuous Casting Engineering [J]
+     Author ['Y ZHANG', 'H SHEN', 'L CHEN']
+     Venue Instrument Technique and …
+     Year 2006
+     Abstract 3.Huazhong University of Control Science and Engineering,Wuhan 430074,China);PLC Control System  of Science and Technology Beijing,Beijing 100083,China;3.Hangang Continuous Casting and  Bang-shu OU Qiao-feng(Key Laboratory of Nondestructive Testing(Ministry of
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-YBJS200601010.htm
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Dynamic testing of an SRAM-based FPGA by time-resolved laser fault injection
+     Author ['V Pouget', 'A Douin', 'G Foucard']
+     Venue … On-Line Testing …
+     Year 2008
+     Abstract Laser fault injection can be performed using continuous-wave (cw) or pulsed lasers on devices in static or dynamic electrical  this work, we present the pulsed laser testing approach for the principles and first results of dynamic laser testing of an SRAM-based FPGA using time
+     Url https://ieeexplore.ieee.org/abstract/document/4567109/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title SRAM FPGA reliability analysis for harsh radiation environments
+     Author ['PS Ostler', 'MP Caffrey', 'DS Gibelyou']
+     Venue IEEE transactions on …
+     Year 2009
+     Abstract in re- liability of TMR through fault injection and radiation testing [11  Like conventional memory scrubbing, configuration scrub- bing involves the continuous reading and repairing of  Most FPGA scrubbing techniques require some external hardware including external memory for
+     Url https://ieeexplore.ieee.org/abstract/document/5341388/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title The impact of aging on an FPGA-based physical unclonable function
+     Author ['A Maiti', 'L McDougall']
+     Venue 2011 21st International …
+     Year 2011
+     Abstract A. Circuit aging With continuous usage of ICs, circuit components grad- ually undergo structural degradation, resulting in hard faults  Stott et al. performed accel- erated aging testing to estimate how FPGA components such as LUTs, routing wires degrade with time [9
+     Url https://ieeexplore.ieee.org/abstract/document/6044799/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title A new platform and methodology for system-level design of next-generation FPGA-based digital SMPS
+     Author ['B MacCleery', 'O Trescases', 'M Mujagic']
+     Venue 2012 IEEE Energy …
+     Year 2012
+     Abstract evaluated through the design and testing of a single-phase and three- phase DC-to-AC inverter. Simulation and experimental data are compared to demonstrate the high accuracy of the novel continuous time co-simulation interface. The user defined FPGA software, developed
+     Url https://ieeexplore.ieee.org/abstract/document/6342622/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Noise cancelling algorithms for FPGA-based time-domain EMI measurements in real-time
+     Author ['A Frech', 'S Limmer', 'P Russer']
+     Venue 2011 IEEE International …
+     Year 2011
+     Abstract A powerful hardware platform was developed providing a continuous signal acquisition and processing by an  4 shows the result of the simulation of the implemented ANC system on a FPGA. The testing scenario which is shown uses a 400 MHz sinusoidal signal as DUT fed
+     Url https://ieeexplore.ieee.org/abstract/document/6038360/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title A Laser Diode PIV Testing System Based on FPGA [J]
+     Author ['M YANG', 'W XU', 'H GU']
+     Venue Journal of Optoelectronics. laser
+     Year 2005
+     Abstract I)-voltage(V) automatic testing system,which was a combination of FPGA technique,was  Engineering,Dalian Maritime University,Dalian 116026,China);Pulse injection testing for LD  Control,Harbin Institute of Technology,Harbin 150001,China);Design of Continuous Laser Diode
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GDZJ20050300M.htm
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA software testing process management
+     Author ['W Li', 'Z Hao']
+     Venue 2015 IEEE International Conference on Grey …
+     Year 2015
+     Abstract and related management tools, the testing activities can provide correct guidance, organization and implementation, it can also be used for continuous improvement in all stages of the testing process, work quality and utility. Early discovery and closure the defects of FPGA in the
+     Url https://ieeexplore.ieee.org/abstract/document/7301927/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Evaluating the effects of SEUs affecting the configuration memory of an SRAM-based FPGA
+     Author ['M Bellato', 'P Bernardi', 'D Bortolato']
+     Venue … Automation and Test …
+     Year 2004
+     Abstract Radiation testing [10] is an effective solution for understanding the effects of SEUs affecting both  our irradiation experiments we have tested the same Virtex XCV300PQ240-4 FPGA model from  Our test strategy was based on the continuous monitoring of the outputs of a circuit
+     Url https://ieeexplore.ieee.org/abstract/document/1268908/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Testing"
+     Title Designing of chaotic system output sequence circuit based on FPGA and its applications in network encryption card
+     Author ['Q Ding', 'J Pang', 'J Fang', 'X Peng']
+     Venue International Journal of Innovative …
+     Year 2007
+     Abstract The way of testing is firstly to change the chaotic sequence into X = { x(n) | n = 0, 1,2,···· x(n) ∈ {−1 , 1 } } again, then to make the sequence probability  This paper mainly introduces a method for realizing continuous chaotic output sequence by FPGA technology and the
+     Url http://www.academia.edu/download/32001374/DESIGNING_OF_CHAOTIC_SYSTEM_OUTPUT_SEQUENCE_CIRCUIT.pdf
+

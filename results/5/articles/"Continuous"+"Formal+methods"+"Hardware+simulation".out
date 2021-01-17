@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Formal+methods"+"Hardware+simulation"
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract [4]. Most formal methods are either hard to scale up to larger systems, or re- quire a difficult  We apply the same concept towards transparent hardware simulation envi- ronment  Integrating Discrete Event and Continuous Complex Dynamic Systems, 2 ed. Academic Press, 2000.
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Formal reasoning with Verilog HDL
+     Author ['GJ Pace', 'J He']
+     Venue NA
+     Year 1998
+     Abstract Until now, most work done in the formalization of industry standard hardware simulation languages has  comparison, until quite recently, much less work has been done on formal methods used with  Discrete Duration Calculus is simply a re- stricted version of the continuous one
+     Url https://www.um.edu.mt/library/oar/handle/123456789/24013
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract inject a fault F (eg, write failure or system reset) into the hardware simulation layer  To date, the longest continuous run of successful tests includes over 3.5 billion randomly selected  We describe the experience of a group of model checking and formal methods researchers with
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Formal hardware verification methods: A survey
+     Author ['A Gupta']
+     Venue Formal Methods in System Design
+     Year 1992
+     Abstract 2.1. Problem dimensions Since the idea of using formal methods for verifying hardware was first introduced, researchers have explored numerous approaches to the problem  3.1.1.2. Applications of hardware simulation techniques
+     Url https://link.springer.com/content/pdf/10.1007/BF00121125.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title The Role of Validation in Refinement-Based Formal Software Development
+     Author ['JP Jacquot', 'A Mashkoor']
+     Venue NA
+     Year 2018
+     Abstract reached its target speed, although the leading vehicle had a smooth continuous speed, the  This boils down to the fidelity of the hardware simulation model to the actual hardware piece  In formal methods, such as Event-B, the notion of refinement was introduced and formalized
+     Url https://hal.inria.fr/hal-01788768/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Research on Hardware Design Verification Methods
+     Author ['J Zhang', 'J Qi', 'Y Guan']
+     Venue Advanced Materials Research
+     Year 2012
+     Abstract Verification The biggest difference between simulation-based and formal methods-based verification  excitation signal inputs; (2) develop more versatile hardware simulation platforms; to  work, the hardware design verification methods will achieve continuous improvement and
+     Url https://www.scientific.net/AMR.588-589.1208
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title FORMAL MISSION SPECIFICATION IN AN OPEN ARCHITECTURE
+     Author ['I Rh']
+     Venue NA
+     Year NA
+     Abstract the controller: mod eling, algorithm design, development of software and hardware, simulation, validation, installation  the systems which must jointly handle the discrete and continuous worlds caracterizing  the speci cation and validation of these entities, formal methods must be
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.47.8484&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware design based on Verilog HDL.
+     Author ['GG Pace']
+     Venue NA
+     Year 1998
+     Abstract 75 6.11.3 Continuous Assignment Signals  Figure 1.1 proposes one possible framework via which formal methods may be introduced in hardware design  However, literature on the join- ing of the two, where hardware simulation and verification are put within the same framework
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.9040&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Sound Simulation and Co-simulation for Robotics
+     Author ['A Cavalcanti', 'A Miyazawa', 'R Payne']
+     Venue Present and Ulterior …
+     Year 2017
+     Abstract state machine controller code hardware simulation discrete environment simulation  For continuous modelling, we use as an example Simulink [43], which is widely used in industry for simulation of control laws. We can, however, accommodate other notations for Page 3
+     Url https://link.springer.com/chapter/10.1007/978-3-319-67425-4_11
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Efficient automata-based assertion-checker synthesis of PSL properties
+     Author ['M Boulé', 'Z Zilic']
+     Venue 2006 IEEE International High Level Design …
+     Year 2006
+     Abstract Some forms of properties are not suitable for simulation and can only be evaluated by formal methods  algorithms are designed such that the assertion result signal does not simply indicate a yes/no answer obtained at the end of execution, but rather a continuous and dynamic
+     Url https://ieeexplore.ieee.org/abstract/document/4110065/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Static Analysis for SystemC with Scoot: From Verification to Simulation
+     Author ['N Blanc']
+     Venue NA
+     Year 2010
+     Abstract In particular, our research indicates that formal methods have appli- cations beyond property checking, namely for code optimizations, simulation, and testing  SCOOT is the first compiler for SystemC that uses formal methods to improve simulation performance and coverage
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/72717/eth-1159-02.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Use of formal verification at Centaur Technology
+     Author ['WA Hunt', 'S Swords', 'J Davis', 'A Slobodova']
+     Venue Design and verification of …
+     Year 2010
+     Abstract easily translated into the EMOD language, which lacks features such as continuous assignments and  2. To prove that output from a hardware simulation is equivalent to that produced  The integration of formal methods into Centaur's design methodology has been on- going for
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-1539-9_3
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title A bibliography on formal methods for system specification, design and validation
+     Author ['JF Meyer', 'DG Furchtgott', 'A Movaghar']
+     Venue NA
+     Year 1982
+     Abstract of a iterature survey designed to classify current literature an formal methods that mi ht be meanin full ex lofted in r g gy P  [7] ^, A, Goguen, J, W, Thatcher, E, G, Wagner, and J, B, Wright,. "Initial algebra semantics and continuous algebras," JAG^l, val, 24, pp, 6th-95, Jan, 1877
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016114
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Formal hardware specification languages for protocol compliance verification
+     Author ['A Bunker', 'G Gopalakrishnan', 'SA Mckee']
+     Venue ACM Transactions on Design …
+     Year 2004
+     Abstract The transfer of formal methods technologies to industrial practice depends on their ability to  In one project, class libraries support hardware simulation by implementing hardware design components  additions to the language, let state- ments model continuous assignment, and
+     Url https://dl.acm.org/doi/abs/10.1145/966137.966138
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title High level modeling and validation methodologies for embedded systems: bridging the productivity gap
+     Author ['SK Shukla', 'SA Edwards', 'JP Talpin']
+     Venue … Conference on VLSI …
+     Year 2003
+     Abstract Moore's law is imposing an even greater challenge by the continuous improvement in  Verilog provides more primitives geared specifically toward hardware simulation  His research interests are in formal methods for system design and validation, embedded systems design
+     Url https://ieeexplore.ieee.org/abstract/document/1183104/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Hybrid co-simulation: it's about time
+     Author ['F Cremona', 'M Lohstroh', 'D Broman', 'EA Lee']
+     Venue Software & Systems …
+     Year 2019
+     Abstract The results are not equal. If signals are continuous, then such small differences in time have very little effect on system behavior  For example, VHDL, a widely used hardware simulation language, uses integer time with units of femtoseconds
+     Url https://link.springer.com/article/10.1007/s10270-017-0633-6
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Method for generating compiler, simulation, synthesis and test suite from a common processor specification
+     Author ['J Willis']
+     Venue US Patent 7,805,690
+     Year 2010
+     Abstract eg test vectors, patterns or sequences as a result of hardware simulation, eg in an  instances and connecting nets), and post compilation analysis/optimization using simulation and formal methods  For example the state may include quantities which are continuous in value, time
+     Url https://patents.google.com/patent/US7805690B2/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Digital Simulation
+     Author ['J Sanguinetti']
+     Venue Electronic Design Automation for IC System …
+     Year 2017
+     Abstract general software world where proving programs correct has proven intractable, formal methods for verifying  VHDL, and SystemC, are the primary languages used for hardware simulation today  is the inclusion of a separate construct to describe combinational or continuous logic
+     Url https://books.google.com/books?hl=ro&lr=&id=UeobDAAAQBAJ&oi=fnd&pg=PA401&dq=%22Continuous%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=VdQ-0mkbmw&sig=ymNTi0Tooq6BrF1rnTxiHJ7fQQ4
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Software intensive embedded systems
+     Author ['M Müllerburg']
+     Venue Information and Software Technology
+     Year 1999
+     Abstract lead to more rigour in construction and validation, and hence, strengthen the role of formal methods  of software and hardware), and computer aided design (CAD) (hardware synthesis, hardware simulation, test and  Reactive behaviour is continuous—at least in normal cases
+     Url https://www.sciencedirect.com/science/article/pii/S0950584999000725
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Observations on the practice and profession of modeling and simulation: A survey approach
+     Author ['JJ Padilla', 'SY Diallo', 'CJ Lynch', 'R Gore']
+     Venue Simulation
+     Year 2018
+     Abstract This paper reports on a survey capturing modelers' perspectives of Modeling and Simulation (M&S). The survey was completed by a total of 283 respondents from the M&S community with 167 fully comple...
+     Url https://journals.sagepub.com/doi/abs/10.1177/0037549717737159
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Design of embedded systems: Formal models, validation, and synthesis
+     Author ['S Edwards', 'L Lavagno', 'EA Lee']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract The underlying mathematical model, a set of differential equations over continuous time, is not directly implementable on a digital computer, due to the double quantization of real numbers into finite bit strings, and of time into clock cycles
+     Url https://ieeexplore.ieee.org/abstract/document/558710/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title From software and hardware formal design towards an integrated system design methodology
+     Author ['L Jadoul', 'J Van Dun', 'M Jadoul']
+     Venue Proceedings 1993 Software …
+     Year 1993
+     Abstract aspects. Data aspects are desaibed under form of ab- stract data types (ADT) [61. Top-level and detailed design are elaborated, in an iterative and continuous process, with SDL. Once the detailed design has been completed, auto
+     Url https://ieeexplore.ieee.org/abstract/document/263947/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Distributed simulation of asynchronous hardware: the program driven synchronization protocol
+     Author ['GK Theodoropoulos']
+     Venue Journal of Parallel and Distributed Computing
+     Year 2002
+     Abstract Additionally, the Asynchronous Online Logic Home Page maintained by the AMULET group at the University of Manchester provides continuous, up-to-date information regarding asynchronous systems research [3]. A number of asynchronous architectures have been
+     Url https://www.sciencedirect.com/science/article/pii/S0743731501918064
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Simulation-Based Hardware Verification with High-Level Decision Diagrams
+     Author ['M Jenihhin']
+     Venue NA
+     Year 2008
+     Abstract Hardware verification is usually divided into two types. They are, first, formal, which assumes theorem proving and other formal methods of mathematics and, second, simulation-based, which relies on design simulation with the provided set of test vectors (aka stimuli)
+     Url https://digikogu.taltech.ee/en/Download/adfa3660-806a-41ac-a6d8-4c03ac3e9912/SimulationBasedHardwareVerificationwithHighL.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Complex mathematical models simulation on mixed HDL-simulink platform
+     Author ['A Milik', 'A Pulka']
+     Venue 2008 Conference on Human System …
+     Year 2008
+     Abstract The signals can be of continuous or of discrete nature for combinatorial and sequential circuits respectively  Hardware simulation Object visualization Fig  Third ACM and IEEE International Conference on Formal Methods and Models for Co- Design, 2005. MEMOCODE '05, pp
+     Url https://ieeexplore.ieee.org/abstract/document/4581468/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract Finally, the role of Phase 4 is to provide the continuous process of DO-254 compliance for making any new parts that might need  For the purpose of this discussion, we follow the definition of a formal method as given by the NASA Langley Formal Methods Group (NASA Lagley
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Realizing learned quadruped locomotion behaviors through kinematic motion primitives
+     Author ['A Singla', 'S Bhattacharya', 'D Dholakiya']
+     Venue … on Robotics and …
+     Year 2019
+     Abstract Formal methods usually employ the optimization tools only for generating the reference gaits (trajectories), and then these trajectories are  This observation is true for any continuous trajectory that  The kMPs (of hardware, simulation or horse) seem to follow a pattern: VNMW
+     Url https://ieeexplore.ieee.org/abstract/document/8794179/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title The use of contract specifications for representing requirements and for functional testing of hardware models
+     Author ['VP Ivannikov', 'AS Kamkin', 'AS Kossatchev']
+     Venue … and Computer Software
+     Year 2007
+     Abstract occur. 4 Here, we do not consider various undefined values, which are often used in the hardware simulation. 5 In  simply, clock. Edges of the cycle signal split continuous time into a discrete set of inter- vals called cycles. What
+     Url https://link.springer.com/article/10.1134/S0361768807050039
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Selection of initial states for formal verification
+     Author ['JAG Seawright', 'R Sathianathan', 'CG Gauthron']
+     Venue US Patent …
+     Year 2008
+     Abstract 10-14, 1996, pp. 418-425; and. (3) Geist, D., et al., “Coverage-Directed Test Generation Using Symbolic Techniques”, Formal Methods in Computer-Aided Design  3 is described in FIG. 4 , as the right-hand-side of the continuous assignment statements 424; multiplexer 328 in FIG
+     Url https://patents.google.com/patent/US7454324B1/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Rapid development of structured simulation models for the verification of discrete-event control systems
+     Author ['A Sanchez', 'C Gollain', 'S Macchietto']
+     Venue IFAC Proceedings Volumes
+     Year 1998
+     Abstract Techniques range from purpose-built hardware simulation to the use of general software packages for dynamic simulation  Formal methods for industrial applicatIOns: specifying and programming the steam boiler control  The mode ling of combined discrete/continuous processes
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017449962
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title CFSIM: A Concurrent Compiled Code Functional Simulator for hopCP.
+     Author ['V Akella', 'G Gopalakrishnan']
+     Venue Int. Journal in Computer …
+     Year 1994
+     Abstract In this paper, we illustrate the use of formal methods in the design of a control intensive IC  Hardware simulation can be performed at the device level (eg SPICE), switch level with timing (eg  This is extremely useful for debugging asynchronous circuits where time is continuous
+     Url https://pdfs.semanticscholar.org/8f76/a6bdd570f5c2cfc6c0f006b821bd7fdf9cb9.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Specific Criteria for System Design and Role and Importance of Hardware Software Co-design Process
+     Author ['V Shrimal', 'M Sharma', 'S Singh', 'R Gupta']
+     Venue World Applied Programming
+     Year 2011
+     Abstract Simulation package has two categories: discrete event and continuous simulation  Hardware simulation is used from functional simulation to physical simulation  16-28, 1993 [10] A. Gupta, “Formal Hardware Verification Methods: A Survey,” Formal Methods in System Design
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.208.910&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Development and verification of complex hybrid systems using synthesizable monitors
+     Author ['A Abel', 'A Adir', 'T Blochwitz', 'L Greenberg']
+     Venue Haifa Verification …
+     Year 2013
+     Abstract Let X and Y be two continuous signals in the system with inaccuracy parameters εX and εY , respectively, and A be a discrete signal  converts these CSL templates into PSL and then uses an existing synthesizer from PSL to C (originally used for hardware simulation monitors) to
+     Url https://link.springer.com/chapter/10.1007/978-3-319-03077-7_13
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Towards a provably correct hardware implementation of Occam
+     Author ['H Jifeng', 'I Page', 'J Bowen']
+     Venue … Conference on Correct Hardware Design and …
+     Year 1993
+     Abstract (P 2_ R and Q ~_ R) iff (P n Q) ~ R All occam constructors are continuous; ie, they  It is possible to develop a hardware simulation program for the netlist inter- pretation of normal form  4. JP Bowen and V. Stavridou, Formal methods and software safety, in H. Frey (ed.), Safety of
+     Url https://link.springer.com/chapter/10.1007/BFb0021726
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Functional verification of the IBM system z10 processor chipset
+     Author ['CA Krygowski', 'DG Bair', 'RM Gott']
+     Venue IBM Journal of …
+     Year 2009
+     Abstract was made to develop a hybrid environment that allows the application of formal methods using FLAVOR  The z10 paradigm moved to a continuous 24/7 overlapped test-case generation  AwanNG [19] hardware simulation accelerators were used to achieve speeds of up to 8,000
+     Url https://ieeexplore.ieee.org/abstract/document/5388578/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title MULTES: multilevel temporal-parallel event-driven simulation
+     Author ['D Kim', 'M Ciesielski', 'S Yang']
+     Venue IEEE Transactions on Computer …
+     Year 2013
+     Abstract I. Introduction HARDWARE simulation remains the most widely used technique for functional and timing  of MULTES Results Even though the state matching technique uses formal methods based on  In order to achieve a fully continuous simulation, simulation that starts at state
+     Url https://ieeexplore.ieee.org/abstract/document/6516614/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Distributed systems, hardware-in-the-loop simulation, and applications in control systems
+     Author ['P Handrigan']
+     Venue NA
+     Year 2004
+     Abstract signals. This method is often called hardware-to-hardware simulation. As mentioned  Figure 2-2 (from-[2]) shows the design of the HILS environment. The process component of the HILS structure will output continuous signal such
+     Url https://research.library.mun.ca/10611/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Clock simulation device and methods thereof
+     Author ['QR Yin', 'JT Yen', 'WC Wong']
+     Venue US Patent 8,645,117
+     Year 2014
+     Abstract US8645117B2 - Clock simulation device and methods thereof - Google Patents. Clock simulation device and methods thereof. Download PDF Info. Publication number US8645117B2. US8645117B2 US12/788,769 US78876910A
+     Url https://patents.google.com/patent/US8645117B2/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Testbench for the validation of a device under test
+     Author ['U Heinkel', 'J Knaeblein', 'C Mayer']
+     Venue US Patent App. 10/208,607
+     Year 2004
+     Abstract G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment  [0007]. The basic functionality of SONET/SDH designs is fairly simple as in- and output are continuous data streams
+     Url https://patents.google.com/patent/US20040015739A1/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Modelling for Parallel Simulation: Possibilities and Pitfalls.
+     Author ['F Breitenecker', 'I Husinsky']
+     Venue NA
+     Year 1995
+     Abstract Strange enough there are hardly any formal methods of modelling which supports completeness  Conventional solvers for continuous systems are finite difference, finite element/volume, and a  There are many approaches in parallel hardware simulation most are based on some
+     Url https://www.researchgate.net/profile/Peter_Sloot/publication/230727236_Modelling_for_Parallel_Simulation_Possibilities_and_Pitfalls/links/0a85e5372351e50cb5000000.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,966
+     Year 2020
+     Abstract the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics  The proposed solution may be utilized for post-silicon validation, to enable a continuous update of the validation of the
+     Url https://patents.google.com/patent/US20200142815A1/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent App. 16/737,952
+     Year 2020
+     Abstract the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics  The proposed solution may be utilized for post-silicon validation, to enable a continuous update of the validation of the
+     Url https://patents.google.com/patent/US20200142814A1/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title System and method for automated functional coverage generation and management for IC design protocols
+     Author ['S Ikram', 'I Akkawi', 'J Perveiler', 'D Asher', 'J Ellis']
+     Venue US Patent 9,355,206
+     Year 2016
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  The output of the script provides continuous updates on the covered sequences in runs
+     Url https://patents.google.com/patent/US9355206B2/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract These two achievements are obtained by (1) developing a continuous tool-chain to automate the V&V process, (2) improving the relevance of the test campaigns by detecting redundant tests using equivalence classes, (3) providing assistance for hardware failure effect analysis
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Real-time systems education in computer science at Manchester University
+     Author ['RN Zobel']
+     Venue Microprocessing and Microprogramming
+     Year 1988
+     Abstract intro- duced to support all aspects of design including circuits and logic, architec- ture, continuous systems, controllers  is not of interest for real- time systems, and this includes such topics as formal methods, AI and  [5] Zobel RN, FIR Filter Software and Hardware Simulation, Proc
+     Url https://www.sciencedirect.com/science/article/pii/0165607488901585
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Collaborative Modeling and Simulation for Cyber-Physical Systems
+     Author ['PG Larsen', 'J Fitzgerald', 'J Woodcock']
+     Venue Trustworthy Cyber …
+     Year 2016
+     Abstract automatons [28], where finite control graphs describe discrete behaviors and differential equations describe continuous behav- iors  co-simulation SysML—FMI model generation Heterogeneous systems models Feedback Testing Code/ hardware simulation Strong traceability
+     Url https://books.google.com/books?hl=ro&lr=&id=eScNDgAAQBAJ&oi=fnd&pg=PA177&dq=%22Continuous%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=iGI54UMfSQ&sig=wyQETvVE9ve5y8fskBfb02cBFBQ
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Virtual development on mixed abstraction levels: an agricultural vehicle case study
+     Author ['M Jung', 'S Piao', 'T Purusothaman', 'X Pan']
+     Venue Synopsys Usergroup …
+     Year 2015
+     Abstract Transaction Level Modelling (TLM2.0) IEEE Standard [1]. TLM speeds up hardware simulation by replacing all pinlevel events with a single function call  SMASH ​[22], the authors enabled integrated simulation of continuous ​SPICE (Simulation
+     Url https://www.researchgate.net/profile/Matthias_Jung2/publication/306355998_Virtual_Development_on_Mixed_Abstraction_Levels_an_Agricultural_Vehicle_Case_Study/links/57ba135e08aedfe0ec96eb7f.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Co-verification of hardware and software
+     Author ['F Copty', 'D Murik', 'SK Barner']
+     Venue US Patent 10,649,887
+     Year 2020
+     Abstract the correctness of intended algorithms underlying a system with respect to a certain formal specification or property, using formal methods of mathematics  The proposed solution may be utilized for post-silicon validation, to enable a continuous update of the validation of the
+     Url https://patents.google.com/patent/US10649887B2/en
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title Intentions and issues of model-driven development and an introduction to the OMG MARTE™ profile
+     Author ['LL VanZandt']
+     Venue 2009 IEEE Aerospace conference
+     Year 2009
+     Abstract forms of time include: physical time, logical time, discrete time, continuous time, absolute  Furthermore, models of computation are often derived from formal methods and mathematics and  Discrete-Event model which is the core of digital hardware simulation; the Synchronous
+     Url https://ieeexplore.ieee.org/abstract/document/4839643/
+
+
+     Search term "Continuous"+"Formal+methods"+"Hardware+simulation"
+     Title An approach based on SysML and SystemC to simulate complex systems
+     Author ['A Abdulhameed', 'A Hammad']
+     Venue … on Model-Driven …
+     Year 2014
+     Abstract The diagram shows the flow ports, the port management allow continuous mov- ing the direction of Controller System and the port of other parts (ie “NorthandSouthLights, EastandWest- Lights”)  Topcased combin- ing formal methods with model-driven engineering
+     Url https://ieeexplore.ieee.org/abstract/document/7018517/
+

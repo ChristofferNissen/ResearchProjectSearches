@@ -1,0 +1,406 @@
+Showing papers for search query "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Introducing development features for virtualized network services
+     Author ['S Van Rossem', 'W Tavernier', 'D Colle']
+     Venue IEEE …
+     Year 2018
+     Abstract systems or hardware platforms (server/mobile) : Windows, Linux, iOS, Android, x86, ARM, FPGA  of SDN/NFV-based services makes them a good fit for DevOps processes, a  Practically, formal methods can be integrated into editors for generating network service descriptions
+     Url https://ieeexplore.ieee.org/abstract/document/8284055/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Work-in-Progress: A Formal Approach to Verify Fault Tolerance in Industrial Network Systems
+     Author ['A Sacco', 'G Marchetto', 'R Sisto']
+     Venue 2020 16th IEEE …
+     Year 2020
+     Abstract Nonetheless, formal methods were rarely applied in the design of computer networks and systems where  to make the supervisory decisions of overriding or adjusting normal PLC (RTU) controls  Formal verification of virtual network function graphs in an sp-devops context,” in
+     Url https://ieeexplore.ieee.org/abstract/document/9114432/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Analysis of SLA Compliance in the Cloud--An Automated, Model-based Approach
+     Author ['FS de Boer', 'E Giachino', 'S de Gouw', 'R Hähnle']
+     Venue arXiv preprint arXiv …
+     Year 2019
+     Abstract fits well within a methodology combining software development with information technology operations (DevOps)  recently acquired and integrated into the ATTRAQT Group plc, see www  and scalable services, supported by highly automated analysis tools using formal methods
+     Url https://arxiv.org/abs/1908.10040
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A Formal Approach to Verify Connectivity and Optimize VNF Placement in Industrial Networks
+     Author ['G Marchetto', 'R Sisto', 'F Valenza']
+     Venue IEEE Transactions …
+     Year 2020
+     Abstract Communication Networks Field Site EMS/SCADA PLC Terminal Power Generation PLC Distribution Substation RTU IED Scada Backup Remote Shutdown DC 2 DC 1 DC 3 RC  PLC FW RTU DPI 1 SCADA Backup DPI 2 VPN Server VPN Client Remote User b) a) Billing Server
+     Url https://ieeexplore.ieee.org/abstract/document/9119174/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Predictive Detection of Known Security Criticalities in Cyber Physical Systems with Unobservable Variables
+     Author ['A Coletta']
+     Venue 11th international conference on security and its …
+     Year 2018
+     Abstract PLC). Each PLC is connected to the same TCP/IP-based Process Control Network (PCN)  CPS. Security monitoring has gained relevance in the Security Operation Centres (SOC) of big organizations and in the DevOps sector
+     Url https://airccj.org/CSCP/vol8/csit88105.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design for future: managed software evolution
+     Author ['U Goltz', 'RH Reussner', 'M Goedicke']
+     Venue … Science-Research and …
+     Year 2015
+     Abstract In DevOps development and operations are working together in order to avoid too much separation between the two  FYPA2C collaborates with MoDEMAS on run-time verification of production systems on basis of PLC signal traces, with  Also formal methods are part of this field
+     Url https://link.springer.com/article/10.1007/s00450-014-0273-9
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formally verified latency-aware vnf placement in industrial internet of things
+     Author ['G Marchetto', 'R Sisto', 'J Yusupov']
+     Venue 2018 14th IEEE …
+     Year 2018
+     Abstract Since soundness and completeness are not provided by simulation, formal methods are the most suitable solution, also considering that IIoT systems are safety  in the service graph, which can be configured to behave as an endpoint- based model (ie, MTU, RTU, PLC, IED, HMI
+     Url https://ieeexplore.ieee.org/abstract/document/8402355/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modeling languages in Industry 4.0: an extended systematic mapping study
+     Author ['A Wortmann', 'O Barais', 'B Combemale']
+     Venue Software and Systems …
+     Year 2020
+     Abstract 5 reports insights into modeling in Industry 4.0 and discusses a vision of model-based DevOps for Industry 4.0 in  DSLs are most popular (17 publications), followed by the application of knowledge representation techniques (35) publications), formal methods (13) publications
+     Url https://link.springer.com/article/10.1007/s10270-019-00757-6
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Praxis der Forschung–Wintersemester 2018/19
+     Author ['EM Veranstaltung']
+     Venue NA
+     Year NA
+     Abstract This process is then tightly integrated with deployment and operation (DevOps) to parametrize  want to develop a practicable method for the synthesis of PLC software from a  Furthermore, you should be interested in programming languages, formal methods, and theory of infinite
+     Url https://formal.iti.kit.edu/teaching/projektgruppe/themen/WiSe1819/handoutWiSe1819.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Journal of Logical and Algebraic Methods in Programming
+     Author ['S de Gouw', 'J Mauro', 'G Zavattaro']
+     Venue NA
+     Year 2019
+     Abstract These are usually the low-level tools used in the DevOps approach to deploy an application: our approach is at a higher level of abstraction  4 Fredhopper was recently acquired and integrated into the ATTRAQT Group plc, see http://www.fredhopper.com. 5 www.haproxy.org
+     Url https://jacopomauro.com/publication/dblp-journalsjlap-gouw-mz-19/dblp-journalsjlap-gouw-mz-19.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Specification-based Predictive Continuous Monitoring for Cyber Physical Systems with Unobservables
+     Author ['A Coletta']
+     Venue NA
+     Year 2018
+     Abstract ied Intelligent Electronic Device iot Internet of Things lan Local Area Network lp Linear Programming nist National Institute of Standards and Technology plc Programmable Logic Controller ppl Parma Polyhedra Library rmf NIST Risk Management Framework viii Page 9
+     Url http://eprints-phd.biblio.unitn.it/3435/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Process-Oriented Approach to the Design of Cyber-Physical Systems
+     Author ['L Knap', 'J Mączak', 'M Trojgo']
+     Venue Dynamical Systems Theory and Applications
+     Year 2017
+     Abstract Berlin, Formal Methods. FM 2011  Samer, IM: DevOps shifting software engineering strategy Value based perspective  SCADA) Systems, Distributed Control Systems (DCS), and Other Control System Configurations such as Programmable Logic Controllers (PLC), NIS National
+     Url https://link.springer.com/chapter/10.1007/978-3-319-96598-7_16
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Future Research.
+     Author ['RH Reussner', 'M Goedicke', 'W Hasselbring']
+     Venue NA
+     Year 2019
+     Abstract In: 13th International Conference on integrated Formal Methods (iFM 2017) Vol  [Bou+ 17b] Safa Bougouffa et al.“Scalable Cloud Based Semantic Code Analysis to Support Continuous Integration of Industrial PLC Code”  Performance-oriented DevOps: A Research Agenda
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=394
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A Case for a New IT Ecosystem: On-The-Fly Computing
+     Author ['H Karl', 'D Kundisch', 'FM auf der Heide']
+     Venue Business & Information …
+     Year 2019
+     Abstract Current industry trends such as DevOps strive to keep development and deployment tasks  approaches restrict such reasoning to concepts and their relationships, formal methods such as Z  Processing Unit (GPGPU) or a Field- Programmable Gate Array (FPGA) (with different
+     Url https://link.springer.com/content/pdf/10.1007/s12599-019-00627-x.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Flexible Composition of Robot Logic with Computer Vision Services
+     Author ['O Semeniuta']
+     Venue NA
+     Year 2018
+     Abstract PLC vendors have been constantly adding higher-level functionality, such as connection to product  Design Hardware and software implementation Analysis System verification based on formal methods Figure 2.1  as well as constituting a major force of the DevOps and DataOps
+     Url https://www.researchgate.net/profile/Oleksandr_Semeniuta/publication/335135900_Flexible_Composition_of_Robot_Logic_with_Computer_Vision_Services/links/5d52521da6fdcc370a90ed77/Flexible-Composition-of-Robot-Logic-with-Computer-Vision-Services.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Securing the testing process for industrial automation software
+     Author ['M Eckhart', 'K Meixner', 'D Winkler', 'A Ekelhart']
+     Venue Computers & Security
+     Year 2019
+     Abstract All male interviewees are working in different departments and are filling various roles, viz., (i) Project Manager in the department Automation Engineering, (ii) Head of the department PLC Programming, (iii) Head of the department SCADA, and (iv) Head of Software Quality in
+     Url https://www.sciencedirect.com/science/article/pii/S0167404818314482
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title 3.28 Qualitative and Multi-Attribute Learning from Diverse Data Collections
+     Author ['M Ben-Chen', 'F Chazal', 'LJ Guibas']
+     Venue … , Vol. 7, Issue 1 ISSN 2192 …
+     Year 2017
+     Abstract patching vulnerabilities in both application and systems software. Researchers in formal methods may provide insight for provably correct repair, given appropriate correctness specifications. Finally, the topic is connected to human
+     Url https://d-nb.info/1135801932/34#page=19
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Managing software process evolution: traditional, agile and beyond–how to handle process change
+     Author ['M Kuhrmann', 'J Münch', 'I Richardson', 'A Rausch']
+     Venue NA
+     Year 2016
+     Abstract some of these fads are called continuous deployment, lean startups, DevOps, flow and  Resolution Camera, and CAPTARE with focus on EEE parts including FPGA programming, materials  His ongoing work focuses on combining data mining and formal methods for analysis
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-31545-4.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title IMPROVING CONTINUOUS PRACTICES IN SYSTEM-ON-CHIP DEVELOPMENT
+     Author ['S Mustalahti']
+     Venue NA
+     Year 2019
+     Abstract Unit CVS Concurrent Versions System DSP Digital Signal Processor DUT Device Under Test EEPROM Electronically Erasable Programmable Read-Only Memory EPROM Erasable Programmable Read-Only Memory EthSS Ethernet Sub System FPGA Field-Programmable
+     Url https://trepo.tuni.fi/bitstream/handle/123456789/27344/Mustalahti.pdf?sequence=4
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title On the modeling of optimal and automatized cloud application deployment
+     Author ['S de Gouw', 'J Mauro', 'G Zavattaro']
+     Venue … of Logical and Algebraic Methods in …
+     Year 2019
+     Abstract This is also testified by the appearance of software engineering approaches, like the DevOps approach to software development and delivery [1], that are strongly based on a closer collaboration among software developers, operations professionals, and quality assurance
+     Url https://www.sciencedirect.com/science/article/pii/S235222081830138X
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Real-time globalization verification on development operations
+     Author ['FAN Yang', 'PL Glenski', 'SI Haiderzaidi']
+     Venue US Patent 10,095,600
+     Year 2018
+     Abstract for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model  The technical solutions described herein are based on software development operations (such as DevOps) that recognize an increasing
+     Url https://patents.google.com/patent/US10095600B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The S3D Modeling Methodology v1. 0
+     Author ['J Merino', 'E Villar', 'H Posadas']
+     Venue NA
+     Year 2020
+     Abstract It can be adapted to different design contexts and domains, being compatible with methodologies like Agile [Amb15] and DevOps [NMP17]  As an example, in Figure 13, the ARM R8 and associated devices are to be implemented in a FPGA, the main memory will make use of a
+     Url https://s3d.unican.es/wp-content/uploads/2020/02/S3D-Modeling-Methodology.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Mega-modeling of complex, distributed, heterogeneous CPS systems
+     Author ['E Villar', 'J Merino', 'H Posadas', 'R Henia']
+     Venue Microprocessors and …
+     Year 2020
+     Abstract Driven Software Engineering (MDSE) has proven to be a powerful approach to deal with the increasing complexity of software development [3]. It can be adapted to different design contexts and domains, being compatible with methodologies like Agile [4] and DevOps [5]. The
+     Url https://www.sciencedirect.com/science/article/pii/S0141933120304051
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Data-Driven Software Development with User-Interaction Data
+     Author ['S Suonsyrjä']
+     Venue NA
+     Year 2019
+     Abstract Abbreviations, Terms and Definitions Development & Operations DevOps Movement of tightening the collab- oration between development and operations teams  Field-Programmable Gate Array FPGA Goal/Question/Metric GQM An approach for setting metrics based on goals
+     Url https://trepo.tuni.fi/handle/10024/115529
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Visual test workload execution modeling
+     Author ['TW Conti', 'KR Moser']
+     Venue US Patent 9,983,980
+     Year 2018
+     Abstract G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation. G  electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable logic
+     Url https://patents.google.com/patent/US9983980B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Discovering and grouping application endpoints in a network environment
+     Author ['SW Danait', 'K Ponnuswamy', 'PJ Lesiak']
+     Venue US Patent 10,797,951
+     Year 2020
+     Abstract US10797951B2 - Discovering and grouping application endpoints in a network environment - Google Patents. Discovering and grouping application endpoints in a network environment. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US10797951B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Visual test workload execution modeling
+     Author ['TW Conti', 'KR Moser']
+     Venue US Patent 9,977,728
+     Year 2018
+     Abstract G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation. G  electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable logic
+     Url https://patents.google.com/patent/US9977728B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Intelligent cloud engineering platform
+     Author ['P Bijani', 'M Bandkar', 'A Parulkar']
+     Venue US Patent …
+     Year 2019
+     Abstract US10474438B2 - Intelligent cloud engineering platform - Google Patents. Intelligent cloud engineering platform. Download PDF Info. Publication number US10474438B2. US10474438B2 US15/836,100 US201715836100A US10474438B2
+     Url https://patents.google.com/patent/US10474438B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Software defined networking (Dagstuhl seminar 12363)
+     Author ['P Hui', 'T Koponen']
+     Venue Dagstuhl Reports
+     Year 2013
+     Abstract Andrew Moore: S/FPGA/NetFPGA  Distributed control planes, and a shift in influence bases from NetOps to DevOps all must be addressed  Is the specification correct Bluespec Network debugging There's some real work to be done applying formal methods to reasoning about
+     Url https://drops.dagstuhl.de/opus/volltexte/2013/3789/
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Mega-modeling of complex, distributed, heterogeneous CPS systems
+     Author ['E Villar Bonet', 'J Merino Calleja', 'H Posadas Cobo']
+     Venue NA
+     Year 2020
+     Abstract 2 domains, being compatible with methodologies like Agile [4] and DevOps [5]. The abstraction, interoperability, and reusability capabil- ities of MDSE become  6: , the ARM-Duo and associated devices are to be implemented in a FPGA, the main memory will make use of a com
+     Url https://repositorio.unican.es/xmlui/handle/10902/19247
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Prestatiemodellering van virtuele netwerkdiensten
+     Author ['S Van Rossem']
+     Venue NA
+     Year 2020
+     Abstract Processing Unit D DevOps Development and Operations DPI Deep Packet Inspection Page 24. xviii E EPC Evolved Packet Core ETSI European Telecommunications Standards Institute F FPGA Field Programmable Gate Array G GP
+     Url https://biblio.ugent.be/publication/8674069/file/8674072
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Utilization of publicly available source code
+     Author ['K Anders', 'JR Fox', 'J Dunne', 'G Denner']
+     Venue US Patent App. 16/238,824
+     Year 2020
+     Abstract G06F11/36—Preventing errors by testing or debugging software; G06F11/3604—Software analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation
+     Url https://patents.google.com/patent/US20200218636A1/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Advanced Simulation and Computing FY19 Implementation Plan, Rev. 1
+     Author ['MG McCoy', 'B Archer', 'S Collis']
+     Venue NA
+     Year 2018
+     Abstract IC TBD 6802 Sensitivity and Uncertainty Workflow of Full System SIERRA Models Supporting High Consequence Applications 9/1/19 SNL IC-3 IC, V&V TBD 6803 Demonstration of Model-Based Design for NW Digital Controller Using Formal Methods 9/30/19 SNL IC-3
+     Url https://www.osti.gov/biblio/1480420
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Käyttövarmuuden rakentaminen osaksi teollisuusrobotin soluohjainta
+     Author ['E Johansson']
+     Venue NA
+     Year 2018
+     Abstract 24 3.7.3 Jatkuva toimitus ja -julkaisu . . . . . 25 3.7.4 DevOps . . . . . 26 4. Toteutusympäristö . . . . . 28 4.1 PLC:n toimintaperiaate . . . . . 28 4.1.1 Skannaus sykli
+     Url https://trepo.tuni.fi/bitstream/handle/123456789/26134/johansson.pdf?sequence=4
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Efficient software testing
+     Author ['S Atzitz', 'S Matza', 'Y Shachar', 'O Shadmi']
+     Venue US Patent …
+     Year 2020
+     Abstract US10656934B2 - Efficient software testing - Google Patents. Efficient software testing. Download PDF Info. Publication number US10656934B2. US10656934B2 US16/030,911 US201816030911A US10656934B2 US 10656934
+     Url https://patents.google.com/patent/US10656934B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Software testing assurance through inconsistent treatment detection
+     Author ['MK Jayaswal']
+     Venue US Patent 10,545,855
+     Year 2020
+     Abstract G06F11/36—Preventing errors by testing or debugging software; G06F11/3604—Software analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation
+     Url https://patents.google.com/patent/US10545855B1/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Service-Based Fault Tolerance for Cyber-Physical Systems: A Systems Engineering Approach
+     Author ['P Alho']
+     Venue NA
+     Year 2015
+     Abstract xii P2P peer-to-peer PLC programmable logic controller RAMI reliability, availability, maintainability and inspectability REST Representational State Transfer RFID Radio Frequency Identification RH remote handling RHCS remote handling control system ROS Robot Operating
+     Url https://trepo.tuni.fi/handle/10024/115264
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Intelligent code quality monitoring
+     Author ['PN Khandalkar', 'V Bhatia', 'P Tripathi']
+     Venue US Patent 10,572,367
+     Year 2020
+     Abstract for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model  unit (APU), a microprocessor, a microcontroller, a digital signal processor (DSP), a field-programmable gate array (FPGA), an application
+     Url https://patents.google.com/patent/US10572367B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title 10th USENIX Conference on File and Storage Technologies (FAST'12)
+     Author ['E Threats']
+     Venue Development (WebApps' 12)
+     Year 2012
+     Abstract 6 The Danger of Unrandomized Code EDWARD J. SCHWARTZ Of Headless User Accounts and Restricted Shells JAN SCHAUMANN DevOps from a Sysadmin Perspective PATRICK DEBOIS Conference Reports from the 20th USENIX Security Symposium, CSET, HotSec, and
+     Url https://www.usenix.org/system/files/login/issues/usenix_dec11_login.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title On the way to the physical principles of biological evolution. Continuation
+     Author ['MI Katsnelson', 'YI Wolf', 'EV Koonin']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Software Engineering practices for building MLware applications-credit risk evaluation case study
+     Author ['S BHATORE']
+     Venue NA
+     Year 2020
+     Abstract for drug utilization reviews in pharmacy adjudication, treasury management in banks, target positioning in missiles adhere to formal methods with due  For allowing the deployment of optimizing complex ML environment, a DevOps approach with continuous integration was also
+     Url http://web2py.iiit.ac.in/research_centres/publications/download/mastersthesis.pdf.8194795ed28cb795.4d535f5468657369735f5369646468617274685f46696e616c2e706466.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Cloud validation as a service
+     Author ['F Qadri', 'A Malatpure', 'J Haskin']
+     Venue US Patent 10,402,301
+     Year 2019
+     Abstract US10402301B2 - Cloud validation as a service - Google Patents. Cloud validation as a service. Download PDF Info. Publication number US10402301B2. US10402301B2 US15/865,235 US201815865235A US10402301B2 US
+     Url https://patents.google.com/patent/US10402301B2/en
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Entendimento sobre sistemas legados à luz da teoria fundamentada em dados
+     Author ['AS Chervenski']
+     Venue NA
+     Year 2019
+     Abstract Page 1. UNIVERSIDADE FEDERAL DO PAMPA Alex Severo Chervenski Entendimento sobre Sistemas Legados à luz da Teoria Fundamentada em Dados Alegrete 2019 Page 2. Page 3. Alex Severo Chervenski Entendimento sobre Sistemas Legados à luz da
+     Url http://dspace.unipampa.edu.br/handle/riu/4835
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Vers une certification continue des logiciels critiques en aéronautique
+     Author ['V Louis', 'C Baron']
+     Venue Les Techniques de l'Ingenieur
+     Year 2019
+     Abstract Page 1. 1 Vers une certification continue des logiciels critiques en aéronautique Vincent LOUIS DGA Techniques aéronautiques 47 rue Saint-Jean 31131 Balma France vincent1.louis@intradef.gouv.fr Claude BARON INSA LAAS-CNRS
+     Url https://hal.laas.fr/hal-02372069
+
+
+     Search term "DevOps"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Réforme de la formation ingénieur
+     Author ['T El Manar']
+     Venue NA
+     Year 2018
+     Abstract Page 1. 1 REPUBLIQUE TUNISIENNE **** Ministère de l'Enseignement Supérieur et de la Recherche Scientifique **** DIRECTION GÉNÉRALE DES ETUDES TECHNOLOGIQUES Réforme de la formation ingénieur Institut Supérieur d'Informatique (ISI) Tunis El Manar
+     Url http://www.isi.rnu.tn/wp-content/uploads/2020/01/Plan-Etude-ING.pdf
+

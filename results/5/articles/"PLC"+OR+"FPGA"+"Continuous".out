@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Continuous"
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Implementing a simple continuous speech recognition system on an FPGA
+     Author ['SJ Melnikoff', 'SF Quigley']
+     Venue Proceedings. 10th Annual …
+     Year 2002
+     Abstract Speech recognition is a computationally demanding task, particularly the stage which uses Viterbi decoding for converting pre-processed speech data into words or sub-word units. We present an FPGA implementations of the decoder based on continuous hidden Markov
+     Url https://ieeexplore.ieee.org/abstract/document/1106682/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A 1000-word vocabulary, speaker-independent, continuous live-mode speech recognizer implemented in a single FPGA
+     Author ['EC Lin', 'K Yu', 'RA Rutenbar', 'T Chen']
+     Venue … of the 2007 ACM/SIGDA 15th …
+     Year 2007
+     Abstract The Carnegie Mellon In Silico Vox project seeks to move best-quality speech recognition technology from its current software-only form into a range of efficient all-hardware implementations. The central thesis is that, like graphics chips, the application is
+     Url https://dl.acm.org/doi/abs/10.1145/1216919.1216928
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Enabling continuous planetary rover navigation through FPGA stereo and visual odometry
+     Author ['TM Howard', 'A Morfopoulos', 'J Morrison']
+     Venue 2012 IEEE …
+     Year 2012
+     Abstract Safe navigation under resource constraints is a key concern for autonomous planetary rovers operating on extraterrestrial bodies. Computational power in such applications is typically constrained by the radiation hardness and energy consumption requirements. For
+     Url https://ieeexplore.ieee.org/abstract/document/6187041/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Speech recognition on an FPGA using discrete and continuous hidden Markov models
+     Author ['SJ Melnikoff', 'MJ Russell']
+     Venue International Conference on Field …
+     Year 2002
+     Abstract Speech recognition is a computationally demanding task, particularly the stage which uses Viterbi decoding for converting pre-processed speech data into words or sub-word units. Any device that can reduce the load on, for example, a PC's processor, is advantageous
+     Url https://link.springer.com/chapter/10.1007/3-540-46117-5_22
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA-based vibration analyzer for continuous CNC machinery monitoring with fused FFT-DWT signal processing
+     Author ['J de Jesus Rangel-Magdaleno']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract The industry of machine tools keeps a constant progress that responds to the most demanding market requirements, such as production-time decreasing and zero-defect manufacturing. As part of this progress, sensors and monitoring instruments have been
+     Url https://ieeexplore.ieee.org/abstract/document/5458093/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous production of hepatitis A virus in PLC/PRF/5 cell cultures: use of antigen for serology
+     Author ['JM Crance', 'J Passagot', 'E Biziagos']
+     Venue Journal of virological …
+     Year 1987
+     Abstract The strain CF53 of hepatitis A virus (HAV) previously adapted to growth in PLC/PRF/5 cells was grown in 175 cm 2 flasks, at different passages. After infection, cells were incubated at 32° C in RPMI 1640 medium supplemented with 2.5% foetal calf serum (FCS) for 6–12
+     Url https://www.sciencedirect.com/science/article/pii/0166093487901248
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A linear time-over-threshold digitizing scheme and its 64-channel DAQ prototype design on FPGA for a continuous crystal PET detector
+     Author ['W Yonggang', 'C Xinyi', 'L Deng']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract We propose a practical general method, called the linear time-over-threshold (linear TOT) scheme, for nuclear pulse amplitude digitization aiming at providing a high degree of integration for a high-channel count detector system. The most critical technique in the
+     Url https://ieeexplore.ieee.org/abstract/document/6710205/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA-based neural network harmonic estimation for continuous monitoring of the power line in industrial applications
+     Author ['M Valtierra-Rodriguez', 'RA Osornio-Rios']
+     Venue Electric power systems …
+     Year 2013
+     Abstract Manufacturing cells are present in almost all the industrial sector. Unfortunately, all machine tools into the manufacturing cell are connected to the same power line, implying that their operation adds nonlinear loads such as harmonics and interharmonics that affect the
+     Url https://www.sciencedirect.com/science/article/pii/S0378779613000217
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title The FPGA-based continuous FFT tune measurement system for the LHC and its test at the CERN SPS
+     Author ['A Boccardi', 'M Gasior', 'OR Jones']
+     Venue 2007 IEEE Particle …
+     Year 2007
+     Abstract A base band tune (BBQ) measurement system has recently been developed at CERN based on a high-sensitivity direct-diode detection technique followed by a high resolution FFT algorithm implemented in an FPGA. The FPGA based digital processing allows the
+     Url https://ieeexplore.ieee.org/abstract/document/4439982/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Performing speech recognition on multiple parallel files using continuous hidden Markov models on an FPGA
+     Author ['SJ Melnikoff', 'SF Quigley']
+     Venue 2002 IEEE International …
+     Year 2002
+     Abstract Speech recognition is a computationally demanding task, particularly the stages which use Viterbi decoding for converting pre-processed speech data into words or subword unit, and the associated observation probability calculations, which employ multivariate Gaussian
+     Url https://ieeexplore.ieee.org/abstract/document/1188720/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA implementation of Morlet continuous wavelet transform for EEG analysis
+     Author ['YT Qassim', 'T Cutmore', 'D James']
+     Venue … on Computer and …
+     Year 2012
+     Abstract This article presents the design and implementation of continuous wavelet transform (CWT) of nonstationary Electroencephalogram (EEG) signals using a Spartan 3AN FPGA. The widely applied Morlet wavelet function was used for obtaining the CWT coefficients. The
+     Url https://ieeexplore.ieee.org/abstract/document/6271152/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA-based implementation of a real-time 5000-word continuous speech recognizer
+     Author ['Y Choi', 'K You', 'W Sung']
+     Venue 2008 16th European Signal …
+     Year 2008
+     Abstract We have developed a hidden Markov model based 5000-word speaker independent continuous speech recognizer using a Field-Programmable Gate Array (FPGA). The feature extraction is conducted in software on a soft-core based CPU, while the emission probability
+     Url https://ieeexplore.ieee.org/abstract/document/7080300/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous testing as a strategy of improving the PLC software development cycles
+     Author ['U Kramer']
+     Venue 2001 IEEE/ASME International Conference on …
+     Year 2001
+     Abstract An appropriate simulation environment for testing real-time software applications, especially PLC (programmable logic controller) programs, is in demand for many reasons. One of the them might be found in the altered conditions of cooperation (teamwork, teleworking, etc.)
+     Url https://ieeexplore.ieee.org/abstract/document/936765/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Design and FPGA Implementation of a new hyperchaotic system
+     Author ['W Guang-Yi', 'B Xu-Lei', 'W Zhong-Lin']
+     Venue Chinese physics B
+     Year 2008
+     Abstract 3597 port on the digital hardware implementation of con- tinuous hyperchaos based on the FPGA. Therefore, the digital FPGA implementation of continuous hy- perchaotic system is a nontrivial task with interesting impact on chaos-based engineering applications
+     Url https://iopscience.iop.org/article/10.1088/1674-1056/17/10/011/meta
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Discrete and continuous particle swarm optimization for FPGA placement
+     Author ['M El-Abd', 'H Hassan', 'MS Kamel']
+     Venue 2009 IEEE Congress on …
+     Year 2009
+     Abstract This paper proposes the use of a particle swarm optimization algorithm to the Field Programmable Gate Arrays (FPGA) placement problem. Two different versions of the particle swarm optimization algorithm are proposed. The first is a discrete version that solves the
+     Url https://ieeexplore.ieee.org/abstract/document/4983014/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A DDS-based wait-free phase-continuous carrier frequency modulation strategy for EMI reduction in FPGA-based motor drive
+     Author ['Y Chen', 'M Yang', 'J Long', 'D Xu']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract In ac motor drives, the fixed-frequency harmonic components of output voltage and current from the inverter with fixed-frequency pulsewidth modulation usually lead to electromagnetic interference (EMI). The spread spectrum clock generation (SSCG) is a widely used solution
+     Url https://ieeexplore.ieee.org/abstract/document/8606101/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title An FPGA-based quench detection and continuous logging system for testing superconducting magnets
+     Author ['R Pilipenko', 'RH Carcagno', 'A Makulski']
+     Venue IEEE transactions on …
+     Year 2013
+     Abstract A quench detection system for testing superconducting magnets with two concurrent data logging modes was developed at Fermilab. This system consists of two functional components: An active quench detection component, which is based on a reconfigurable
+     Url https://ieeexplore.ieee.org/abstract/document/6413182/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous phase measurement in the W7-X infrared interferometer by means of a FPGA and high-speed ADCs
+     Author ['L Esteban', 'M Sánchez', 'J Sánchez']
+     Venue Fusion Science and …
+     Year 2010
+     Abstract Interferometry is used for measuring line average electronic densities in fusion plasmas. The W7-X stellarator will employ a two-color CO2 (10.591 μm) and CO (5.295 μm) heterodyne-infrared interferometer as an electronic density measurement diagnostic. The frequency
+     Url https://www.tandfonline.com/doi/abs/10.13182/FST10-9
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Parallelized Viterbi processor for 5,000-word large-vocabulary real-time continuous speech recognition FPGA system
+     Author ['T Fujinaga', 'K Miura', 'H Noguchi']
+     Venue … Annual Conference of …
+     Year 2009
+     Abstract We propose a novel Viterbi processor for the large vocabulary real-time continuous speech recognition. This processor is built with multi Viterbi cores. Since each core can independently compute, these cores reduce the cycle times very efficiently. To verify the
+     Url https://www.isca-speech.org/archive/interspeech_2009/i09_1483.html
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Optimized FPGA based continuous wavelet transform
+     Author ['YT Qassim', 'TRH Cutmore', 'DD Rowlands']
+     Venue Computers & Electrical …
+     Year 2016
+     Abstract A memory efficient field programmable gate array (FPGA) method is described that facilitates the processing of the continuous wavelet transform (CWT) arithmetic operations. The CWT computations were performed in Fourier space and implemented on FPGA following several
+     Url https://www.sciencedirect.com/science/article/pii/S0045790614003127
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title An FPGA-Based 16-Bit Continuous-Time 1-1 MASH ΔΣ TDC Employing Multirating Technique
+     Author ['A Mouri Zadeh Khaki', 'E Farshidi', 'HMD Ali', 'M Othman']
+     Venue Electronics
+     Year 2019
+     Abstract An all-digital voltage-controlled oscillator (VCO)-based second-order multi-stage noise-shaping (MASH) ΔΣ time-to-digital converter (TDC) is presented in this paper. The prototype of the proposed TDC was implemented on an Altera Stratix IV FPGA board. In order to
+     Url https://www.mdpi.com/2079-9292/8/11/1285
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title SCYLLA: QoE-aware Continuous Mobile Vision with FPGA-based Dynamic Deep Neural Network Reconfiguration
+     Author ['S Jiang', 'Z Ma', 'X Zeng', 'C Xu', 'M Zhang']
+     Venue … -IEEE Conference on …
+     Year 2020
+     Abstract Continuous mobile vision is becoming increasingly important as it finds compelling applications which substantially improve our everyday life. However, meeting the requirements of quality of experience (QoE) diversity, energy efficiency and multi-tenancy
+     Url https://ieeexplore.ieee.org/abstract/document/9155435/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Ultra-low latency continuous block-parallel stream windowing using FPGA on-chip memory
+     Author ['JSJ Wong', 'R Shi', 'M Wang']
+     Venue … Conference on Field …
+     Year 2017
+     Abstract In this paper, we propose and demonstrate a real-time ultra-fast multi-data stream processing methodology on FPGA called “SWIM”(Stream Windowing on Interleaved Memory). The method exploits the flexible on-chip block memory fabric on existing FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/8280121/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title The design and implementation of a PLC continuous casting control system
+     Author ['R Krob', 'T Suddoth', 'P Van Gemert']
+     Venue Conference Record of the …
+     Year 1993
+     Abstract The authors describe the electrical control system from the development of the system configuration to the implementation and commissioning of the system used for the Timken Company, Harrison steel plant 4-strand continuous bloom caster. Since the startup of the
+     Url https://ieeexplore.ieee.org/abstract/document/299217/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Distributed Continuous Event-Based Data Acquisition Using the IEEE 1588 Synchronization and FlexRIO FPGA
+     Author ['C Taliercio', 'A Luchetta', 'G Manduchi']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract High-speed event driven acquisition is normally performed by analog-to-digital converter (ADC) boards with a given number of pretrigger sample and posttrigger sample that are recorded upon the occurrence of a hardware trigger. A direct physical connection is
+     Url https://ieeexplore.ieee.org/abstract/document/7942070/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Design and development of PLC and SCADA based control panel for continuous monitoring of 3-phase induction motor
+     Author ['J Ahir', 'V Pandya', 'C Mehta']
+     Venue … on Recent Trends in Engineering & …
+     Year 2011
+     Abstract Three phase squirrel cage induction motors are widely used motors in industry because of its rugged construction and negligible maintenance. To operate this kind of this motor star-delta starters are used. But, because of its constant speed characteristics, many a times it is
+     Url https://www.academia.edu/download/32455675/301016.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title High-Speed Post-Processing in Continuous-Variable Quantum Key Distribution Based on FPGA Implementation
+     Author ['SS Yang', 'ZG Lu', 'YM Li']
+     Venue Journal of Lightwave Technology
+     Year 2020
+     Abstract In a continuous-variable quantum key distribution (CV-QKD) system, the computation speed of the post-processing procedure, including information reconciliation (IR) and privacy amplification (PA), inevitably affects the practical secret key rate. IR and PA can be
+     Url https://ieeexplore.ieee.org/abstract/document/9057665/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title The PLC Control Program of the Continuous Sintering Furnace
+     Author ['H Zhang', 'S Cao']
+     Venue Industrial Heating
+     Year 2008
+     Abstract Introduced the PLC control thought of the continual sintering furnace parts transportation, and aimed at several segments to analyze the control method in detail. Through the program debugging, revision, we have finally realized to control the continuous sintering furnace
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GYJR200802013.htm
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title An FPGA-based real-time maximum likelihood 3D position estimation for a continuous crystal PET detector
+     Author ['Y Wang', 'Y Xiao', 'X Cheng', 'D Li']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract For the continuous crystal-based positron emission tomography (PET) detector built in our lab, a maximum likelihood algorithm adapted for implementation on a field programmable gate array (FPGA) is proposed to estimate the three-dimensional (3D) coordinate of
+     Url https://ieeexplore.ieee.org/abstract/document/7407516/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title N-continuous OFDM signal analysis of FPGA-based transmissions
+     Author ['EM Lizarraga', 'VH Sauchelli']
+     Venue 2011 VII Southern …
+     Year 2011
+     Abstract N-Continuous OFDM systems have been proposed to achieve an important reduction of the out-of-band emitted power compared to conventional OFDM. However, system complexity has been increased and some resource demanding operations are necessary. So, this work
+     Url https://ieeexplore.ieee.org/abstract/document/5782618/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous release pharmaceutical compositions
+     Author ['FG Hutchinson']
+     Venue NA
+     Year 1982
+     Abstract Publication number ZA8200565B ZA8200565B ZA82565A ZA8200565A ZA8200565B ZA 8200565  B ZA8200565 B ZA 8200565B ZA 82565 A ZA82565 A ZA 82565A ZA 8200565 A ZA8200565  A ZA 8200565A ZA 8200565 B ZA8200565 B ZA 8200565B Authority ZA South Africa Prior art
+     Url https://patents.google.com/patent/ZA8200565B/en%20US4325121.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Scalable cloud based semantic code analysis to support continuous integration of industrial PLC code
+     Author ['S Bougouffa', 'S Diehm', 'M Schwarz']
+     Venue 2017 IEEE 15th …
+     Year 2017
+     Abstract During the lifecycle of automated production systems (aPS) additional functionalities and evolutions are realized. As a consequence, control software of aPS becomes highly complex and hard to maintain, which rises the need for evaluating and improving the quality of the
+     Url https://ieeexplore.ieee.org/abstract/document/8104843/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA Implementation of a Multi-Channel Continuous-Throughput FFT Processor
+     Author ['E Fankhauser', 'J Wassner']
+     Venue 2018 IEEE International Workshop …
+     Year 2018
+     Abstract The Fast Fourier Transform (FFT) is at the heart of many signal processing systems, eg those using orthogonal frequency-division multiplexing (OFDM) modulation. For such systems the FFT is typically implemented on dedicated hardware, eg field-programmable gate arrays
+     Url https://ieeexplore.ieee.org/abstract/document/8598373/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Distributed PLC Control System of Wire Feeders in Continuous Casting Engineering [J]
+     Author ['Y ZHANG', 'H SHEN', 'L CHEN']
+     Venue Instrument Technique and …
+     Year 2006
+     Abstract To control the parameters as lengths, rates and coil states of wire feeding during continuous casting, a distributed PLC control system based on fieldbus technology for four-conductor ladle refinement wire feeders was designed. PROFIBUS-DP protocol was used in the
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-YBJS200601010.htm
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous ink jet printing
+     Author ['JJ Doyle', 'A Lecheheb']
+     Venue US Patent 4,688,049
+     Year 1987
+     Abstract In a continuous ink jet printing method for printing multiple lines of print (13-15), raster of drops is produced in which the differential charge between drops printed on opposite sides of an interline gap (17, 18) is increased in comparison with that between adjacent drops to
+     Url https://patents.google.com/patent/US4688049A/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A double refresh rate sonar ring with FPGA-based continuous matched filtering
+     Author ['DC Browne', 'L Kleeman']
+     Venue Robotica
+     Year 2012
+     Abstract Existing sonar rings are limited in their refresh rate to the transmit echo rate, that is, waiting for maximum range echoes to arrive before transmitting again. This paper presents a sonar ring refreshing at 60 Hz for 5.7-m range, which is twice the transmit echo rate, and this leads
+     Url http://search.proquest.com/openview/a30b2659b129d67509e7e1ad99054df9/1?pq-origsite=gscholar&cbl=37292
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Real-time FPGA-based anomaly detection for radio frequency signals
+     Author ['DJM Moss', 'D Boland', 'P Pourbeik']
+     Venue … Symposium on Circuits …
+     Year 2018
+     Abstract Trained network weights are passed to the FPGA, which performs continuous high-speed anomaly detection, com- bining parallelism reduced precision, and a single-chip design to maximise performance and energy efficiency
+     Url https://ieeexplore.ieee.org/abstract/document/8350890/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A FPGA-based accelerated architecture for the Continuous GRASP
+     Author ['B Nogueira', 'E Barboza']
+     Venue Computing
+     Year 2020
+     Abstract This work proposes a FPGA-based architecture for accelerating the Continuous GRASP (C-GRASP), a prominent metaheuristic for solving continuous optimization problems. Although FPGA implementations have been proposed for other metaheuristics, nothing has been
+     Url https://link.springer.com/article/10.1007/s00607-020-00850-5
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title High-speed tunable FDML laser, interfaced to a continuous FPGA acquisition system, for FBG accelerometer interrogation
+     Author ['MAB Abdallah', 'G Laffont', 'N Roussel']
+     Venue SENSORS, 2014 …
+     Year 2014
+     Abstract In this study, we have developed a FDML laser characterized by a scanning frequency up to 100 kHz over a wide spectral range of several tens of nm at 1.55 μm. Traditionally, high speed FBG analyzers able to demultiplex arrays of Fiber Bragg Gratings do not process the
+     Url https://ieeexplore.ieee.org/abstract/document/6984924/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Analysis of integrator for continuous time digital sigma delta ADC on Xilinx FPGA
+     Author ['PAH Vardhini']
+     Venue 2016 International Conference on Electrical …
+     Year 2016
+     Abstract This paper mainly discuss the advantage of CT integrator structure and the design of passive RC integrator for first order continuous time Digital sigma Delta ADC on FPGA. Transient analysis of the passive integrator ie, RC section is carried out and the
+     Url https://ieeexplore.ieee.org/abstract/document/7755184/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Automatic detection of electrocardiographic arrhythmias by parallel continuous neural networks implemented in FPGA
+     Author ['M Alfaro-Ponce', 'I Chairez']
+     Venue Neural Computing and …
+     Year 2019
+     Abstract In the developed world, heart diseases are the major cause of death among adults. Often, the sufferers of heart disease are not aware of their condition until a catastrophic medical event occurs. Therefore, early online detection and continuous monitoring of abnormal heart
+     Url https://link.springer.com/article/10.1007/s00521-017-3051-3
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title On FPGA implementation of a continuous-discrete time observer for sensorless induction machine using simulink HDL coder
+     Author ['M Besbes', 'SH Said', "F M'Sahli"]
+     Venue International Journal of …
+     Year 2017
+     Abstract This paper deals with the design of a continuousdiscrete time high gain observer (CDHGO) for sensorless control of an induction machine (IM). Only two weakly sampled stator current measurements are used to achieve a real-time estimation of the rotor flux, the mechanical
+     Url https://www.researchgate.net/profile/MSahli_Faouzi/publication/318095290_On_FPGA_Implementation_of_a_Continuous-Discrete_Time_Observer_for_Sensorless_Induction_Machine_using_Simulink_HDL_Coder/links/598da3e5aca272e57ad7889a/On-FPGA-Implementation-of-a-Continuous-Discrete-Time-Observer-for-Sensorless-Induction-Machine-using-Simulink-HDL-Coder.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous ink-jet printer and method of operation
+     Author ['E Ufkes']
+     Venue US Patent 6,280,023
+     Year 2001
+     Abstract A continuous ink-jet printing method in which a stream of droplets issue from a nozzle of a continuous ink-jet printhead and a print substrate is moved past the printhead. The deflection electrodes of the printhead being disposed at a preselected angle relative to the
+     Url https://patents.google.com/patent/US6280023B1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title FPGA based Continuous Control Set Model Predictive Current Control for PMSM System Using Multi-step Error Tracking Technique
+     Author ['F Wang', 'L He', 'J Rodriguez']
+     Venue IEEE Transactions on Power …
+     Year 2020
+     Abstract To overcome the shortcomings of the conventional continuous control set model predictive current control (CCS-MPCC), such as large overshoot and poor robustness, an extended surface-mounted permanent magnet synchronous motor (SPMSM) model-based multi-step
+     Url https://ieeexplore.ieee.org/abstract/document/9055203/
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous ink jet printing
+     Author ['A Lecheheb', 'JJ Doyle']
+     Venue US Patent 4,864,323
+     Year 1989
+     Abstract A method of operating a continuous ink jet printing system which includes a nozzle arranged to be vibrated by a piezoelectric oscillator. The nozzle, in use, passes a stream of ink past a charging electrode. The continuity of charge detection is sensed by a charge detector
+     Url https://patents.google.com/patent/US4864323A/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title A FPGA-based discretization algorithm of continuous attributes in rough set
+     Author ['GQ Sun', 'HL Wang', 'JH Lu', 'X He']
+     Venue Applied Mechanics and Materials
+     Year 2013
+     Abstract Rough set theory is mainly used for analysing, processing fuzzy and uncertain information and knowledge, but most of data that we usually gain are continuous data, rough set theory can pretreat these data and can gain satisfied discretization results. So, discretization of
+     Url https://www.scientific.net/AMM.278-280.1167
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title LabVIEW FPGA-Based Data Continuous Transmission Between Two Clock Domains [J]
+     Author ['P CUI', 'Q HE', 'Z HAN', 'C SHANG']
+     Venue Modern Electronics Technique
+     Year 2011
+     Abstract In order to solve the problem of data transmission discontinuity caused by the improperly depth setting of DMA FIFO based on LabVIEW FPGA, a method of setting the depth of FIFO is presented in combination with the characteristic of LabVIEW FPGA and the working
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-XDDJ201117045.htm
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title The quadrature method of moments for continuous thermodynamics
+     Author ['PLC Lage']
+     Venue Computers & chemical engineering
+     Year 2007
+     Abstract A new pseudo-component characterization method was developed. It is based on a Gaussian quadrature rule whose weight function is the molar fraction distribution of the complex mixture. Due to its accuracy, this quadrature was shown to be more adequate than
+     Url https://www.sciencedirect.com/science/article/pii/S0098135406002146
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Method for continuous friction actuated extrusion
+     Author ['JB Childs', 'OP McKenna']
+     Venue US Patent 4,419,324
+     Year 1983
+     Abstract In a continuous friction-actuated extrusion process, such as the Conform process, particulate material is fed into the extrusion passageway at a rate low enough to the rate at which material is extruded from the die orifice to be determined by and substantially equal to the
+     Url https://patents.google.com/patent/US4419324A/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Continuous"
+     Title Continuous extrusion of metals
+     Author ['SW Pigott', 'P Gregory']
+     Venue US Patent 4,283,931
+     Year 1981
+     Abstract An extrusion machine is disclosed wherein wax or other suitable lubricant is applied to the side of the feedstock contacting the shoe of the extruder. A stick of wax may be supported in a cylinder having an open end facing the feedstock; the stick is a loose sliding fit in the
+     Url https://patents.google.com/patent/US4283931A/en
+

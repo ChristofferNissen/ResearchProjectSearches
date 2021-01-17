@@ -1,0 +1,91 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title FPGA-based network device testing equipment for high load testing
+     Author ['K Toda', 'T Katashita', 'K Sakamaki', 'T Inui']
+     Venue US Patent …
+     Year 2011
+     Abstract Network device testing equipment capable of testing network devices using small size packets and for a transferring ability and a filtering ability at a media speed is described. A configuration is adopted in which a Field Programmable Gate Array (FPGA) included in a
+     Url https://patents.google.com/patent/US7953014B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Exciting FPGA cryptographic Trojans using combinatorial testing
+     Author ['P Kitsos', 'DE Simos', 'J Torres-Jimenez']
+     Venue 2015 IEEE 26th …
+     Year 2015
+     Abstract Contemporary hardware design shares many similarities with software development. The injection of malicious functionality (Trojans) in FPGA designs is a realistic threat. Established techniques for testing correctness do not cope well with Trojans, since Trojans are not
+     Url https://ieeexplore.ieee.org/abstract/document/7381800/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Testing FPGA based digital system using XILINX ChipScope logic analyzer
+     Author ['K Arshak', 'E Jafer', 'C Ibala']
+     Venue 2006 29th International Spring …
+     Year 2006
+     Abstract This paper presents the use of Xilinx ChipScopetrade Pro integrated logic analyzer for Field programmable gate arrays (FPGA) as a board-and system-level diagnostic tool. FPGA designs have become increasingly dense and complex. They are difficult to debug because
+     Url https://ieeexplore.ieee.org/abstract/document/4216059/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Integrated testing of serializer/deserializer in FPGA
+     Author ['AH Lesea']
+     Venue US Patent 6,874,107
+     Year 2005
+     Abstract A field programmable gate array (FPGA) device includes a high-speed serializer/deserializer (SERDES). The field programmable gate array allows programmable built-in testing of the SERDES at operating speeds. A digital clock manager circuit allows
+     Url https://patents.google.com/patent/US6874107B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title BIST-based delay path testing in FPGA architectures
+     Author ['IG Harris', 'PR Menon', 'R Tessier']
+     Venue … International Test Conference …
+     Year 2001
+     Abstract The widespread use of field programmable gate arrays (FPGAs) as components in high-performance systems has increased the significance of path delay faults in FPGAs. We present a technique for FPGA path delay fault detection which integrates test insertion with
+     Url https://ieeexplore.ieee.org/abstract/document/966717/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Application-independent testing of FPGA interconnects
+     Author ['MB Tahoori', 'S Mitra']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2005
+     Abstract We present a new automatic test-configuration-generation technique for application-independent manufacturing testing of the interconnection network of static-random-access-memory-based field programmable gate arrays (FPGAs). This technique targets detection of
+     Url https://ieeexplore.ieee.org/abstract/document/1522443/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title SEU simulation framework for Xilinx FPGA: First step towards testing fault tolerant systems
+     Author ['M Straka', 'J Kastil', 'Z Kotasek']
+     Venue 2011 14th Euromicro …
+     Year 2011
+     Abstract In the paper, the SEU simulation framework for testing fault tolerant system designs implemented into FPGA is presented. The framework is based on SEU generation outside FPGA (in personal computer) and the transport of modified bit stream through the JTAG
+     Url https://ieeexplore.ieee.org/abstract/document/6037413/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Software verification process and methodology for the development of FPGA-based engineered safety features system
+     Author ['R Maerani', 'JK Mayaka', 'JC Jung']
+     Venue Nuclear Engineering and Design
+     Year 2018
+     Abstract Verification process is very important for the new development or re-engineering process for Instrumentation and Control (I&C) in Nuclear Power Plant (NPP). Due to the fact that the Engineered Safety Feature-Component Control System (ESF-CCS) is safety critical system
+     Url https://www.sciencedirect.com/science/article/pii/S0029549318300840
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title Radiation testing update, SEU mitigation, and availability analysis of the Virtex FPGA for space reconfigurable computing.
+     Author ['E Fuller', 'M Caffrey']
+     Venue NA
+     Year 2000
+     Abstract Orbital remote sensing instruments and systems can benefit from high performance, adaptable components. Field programmable SRAM-based gate arrays (FPGAs) are usually the chosen platform for real-time reconfigurable computing. This technology is driven by the
+     Url https://www.osti.gov/servlets/purl/766418
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+     Title FPGA Interconnect Delay Fault Testing.
+     Author ['E Chmelar']
+     Venue ITC
+     Year 2003
+     Abstract The interconnection network consumes the majority of die area in an FPGA. Presented is a scalable manufacturing test method for all SRAM-based FPGAs, able to detect multiple interconnect delay faults, multiple bridging faults, or both. An adjustable maximum sensitivity
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.8410&rep=rep1&type=pdf
+

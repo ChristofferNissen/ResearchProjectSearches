@@ -1,0 +1,221 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Hardware+simulation"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Traceability"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Best+practice"+OR+"General+guidelines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"PLC"+OR+"FPGA"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Traceability"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Best+practice"+OR+"General+guidelines"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environment"+"Hardware+simulation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Hardware+simulation"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"FDA+Requirement" 0
+         "DevOps"+"Regulated+Domain" 8
+         "DevOps"+"Hardware+simulation" 43
+         "DevOps"+"Regulated+Environment" 62
+
+     Combinations with "Continuous"
+
+     Combinations with "Traceability"
+         "Traceability"+"Regulated+Domain" 52
+         "Traceability"+"FDA+Requirement" 84
+
+     Combinations with "Hardware+simulation"
+         "Hardware+simulation"+"FDA+Requirement" 0
+         "Hardware+simulation"+"Regulated+Environment" 3
+         "Hardware+simulation"+"Regulated+Domain" 0
+         "Hardware+simulation"+"DevOps" 43
+
+     Combinations with "Medical"
+
+     Combinations with "Regulated+Domain"
+         "Regulated+Domain"+"FDA+Requirement" 0
+         "Regulated+Domain"+"DevOps" 8
+         "Regulated+Domain"+"Regulated+Environment" 25
+         "Regulated+Domain"+"Traceability" 52
+         "Regulated+Domain"+"Best+practice"+OR+"General+guidelines" 80
+         "Regulated+Domain"+"Hardware+simulation" 0
+         "Regulated+Domain"+"PLC"+OR+"FPGA" 110
+
+     Combinations with "Regulated+Environment"
+         "Regulated+Environment"+"FDA+Requirement" 15
+         "Regulated+Environment"+"Regulated+Domain" 25
+         "Regulated+Environment"+"Hardware+simulation" 3
+         "Regulated+Environment"+"DevOps" 62
+
+     Combinations with "FDA+Requirement"
+         "FDA+Requirement"+"Regulated+Domain" 0
+         "FDA+Requirement"+"Hardware+simulation" 0
+         "FDA+Requirement"+"DevOps" 0
+         "FDA+Requirement"+"Regulated+Environment" 15
+         "FDA+Requirement"+"PLC"+OR+"FPGA" 89
+         "FDA+Requirement"+"Traceability" 84
+         "FDA+Requirement"+"Best+practice"+OR+"General+guidelines" 103
+
+     Combinations with "Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Combinations with "Case+Study"
+
+     Combinations with "PLC"+OR+"FPGA"
+         "PLC"+OR+"FPGA"+"FDA+Requirement" 89
+         "PLC"+OR+"FPGA"+"Regulated+Domain" 110
+
+     Combinations with "Best+practice"+OR+"General+guidelines"
+         "Best+practice"+OR+"General+guidelines"+"Regulated+Domain" 80
+
+     Combinations with "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+         "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Regulated+Domain" 96
+         "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"FDA+Requirement" 104
+
+

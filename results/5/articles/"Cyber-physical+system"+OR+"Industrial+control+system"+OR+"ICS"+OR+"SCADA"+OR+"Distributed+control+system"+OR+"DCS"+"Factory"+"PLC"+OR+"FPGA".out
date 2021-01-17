@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Survey of SCADA Systems and Visualization of a real life process
+     Author ['JAG Gomez', 'J Angel']
+     Venue S-581
+     Year 2002
+     Abstract tool in which application SCADA will be developed. Study of this tool, possibilities that offer, limitations and operations. • Application developing: create an application for the supervision, monitorization and control of the Lego car Factory. • Connectivity between the PLC and the
+     Url http://www.control.isy.liu.se/student/exjobb/xfiles/0246.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automation of tank level using Plc and establishment of Hmi by Scada
+     Author ['R Das', 'S Dutta', 'A Sarkar']
+     Venue IOSR Journal of Electrical …
+     Year 2013
+     Abstract Keywords: Automation, SCADA, PLC,HMI, Tank-level Control  we used SIEMENS S7- 300 PLC [3].S.Ghosh et, al has effectively designeda bottle filling plant using PLC [4] and A.Saha et, al gives a proposed system that efficiently controls a cement factory using PLC[5]. A
+     Url https://www.researchgate.net/profile/Rishabh_Das2/publication/271258009_Automation_of_Tank_Level_Using_Plc_and_Establishment_of_Hmi_by_Scada/links/59304042a6fdcc89e78439e9/Automation-of-Tank-Level-Using-Plc-and-Establishment-of-Hmi-by-Scada.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Energy efficient automized bottling plant using PLC and SCADA with speed variable conveyor assembly
+     Author ['SP Jain', 'SL Haridas']
+     Venue J. Electron. Comm. Eng
+     Year 2014
+     Abstract To accomplish we have applied knowledge of PLC and SCADA. A programmable logic controller (PLC) or programmable controller is a digital computer used for automation of electromechanical processes, such as control of machinery on factory assembly lines
+     Url https://pdfs.semanticscholar.org/9123/b6d31bdbdc0918b547d933e4f54673c3b665.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Real-time implementation of hydroelectric power plant using PLC and SCADA
+     Author ['V Rajeswari', 'Y Rajeshwari']
+     Venue … Journal of Engineering …
+     Year 2012
+     Abstract The software module of the project consists of PLC programming Language and Supervisory Control And Data Acquisition.The specifications of the PLC programming software is RS logic 500 professional addition 8.10 version and the SCADA software used is Factory talk view
+     Url https://pdfs.semanticscholar.org/e90d/45dbe911d6defa54658ad149b63372e6c937.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Configurable PLC and SCADA-based control system
+     Author ['MW Hylden', 'BA Alexander', 'CA Wichman']
+     Venue US Patent …
+     Year 2004
+     Abstract Nc systems; G05B2219/32—Operator till task planning; G05B2219/32404—Scada supervisory control  task planning; G05B2219/32413—Pc generates control strategy, download in plc to monitor  to greenhouse gas [GHG] emissions mitigation; Y02P90/02—Total factory control, eg
+     Url https://patents.google.com/patent/US6799080B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract ICS.....Industrial Control System  1 Page 16. The research that we are proposing addresses the issue of industrial control system  Related Work Currently, most facilities that use factory automation are turning to SCADA systems
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC based substation automation and SCADA systems and selecting a control system integrator
+     Author ['T Wilson']
+     Venue Western Electric Power Institute Distribution …
+     Year 1999
+     Abstract The objective of this plan was to ensure the project was tested and that the factory and commission acceptance tests  of the system or software functional specification was developed which described the software functionality of the PLC based SCADA and substation
+     Url http://www.retawprojects.com/uploads/PLC_Based_Substation_Automation_and_SCADA.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title … control and data acquisition (scada) systems, distributed control systems (dcs), and other control system configurations such as programmable logic controllers (plc)
+     Author ['KA Stouffer', 'JA Falco', 'KA Scarfone']
+     Venue NA
+     Year 2011
+     Abstract 2. Overview of Industrial Control Systems Industrial control system (ICS) is a general term that encompasses several types of control systems, including supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and other
+     Url https://dl.acm.org/doi/pdf/10.5555/2206293
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Controlling the Filling and Capping Operation of a Bottling Plant using PLC and SCADA
+     Author ['K Chakraborty', 'I Roy', 'P De']
+     Venue Indonesian Journal of …
+     Year 2015
+     Abstract 3. Process Description and Case Study in Factory In our paper we have specialised on  Using plc programming the process of capping and filling is done simultaneously and as it is  There is one control room where the SCADA output is constantly observed by a person from
+     Url http://section.iaesonline.com/index.php/IJEEI/article/view/125
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Migration of a PLC controller to an IEC 61499 compliant distributed control system: Hands-on experiences
+     Author ['T Hussain', 'G Frey']
+     Venue Proceedings of the 2005 IEEE International …
+     Year 2005
+     Abstract B. Development of the SIFBs The distributed control system for controlling the didactic plant needed a number of  it is prudent to develop event-triggered control for IEC 61499 compliant DCS ensuring proper  on Emerging Technologies in Factory Automation (ETFA'03), pp
+     Url https://ieeexplore.ieee.org/abstract/document/1570730/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Distributed Control System of Automatic Production Line for Roasted Green Tea Based on PLC
+     Author ['H Wang', 'H Jin', 'X Shen']
+     Venue Light Industry Machinery
+     Year 2012
+     Abstract CO.,Ltd.,Chishui,Guizhou 564707);Development Trend of Distributed Control System(DCS)[J]; Guizhou  Technology,Zhejiang Sci-Tech University,Hangzhou 310018,China);Distributed control system of air  RTU in S7-200[J];Programmable Controller & Factory Automation;2006
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-QGJX201205024.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC vs DCS in process control-the distinction is fading
+     Author ['R Davis']
+     Venue [Proceedings] IEEE 1992 Annual Textile, Fiber and …
+     Year 1992
+     Abstract A DCS or Distributed Control System is best described as a system which is fully integrated with  The potential for process control is provided but not in an factory integrated manner. The PLC is generally considered more environmentally hardened than its DCS counterpart
+     Url https://ieeexplore.ieee.org/abstract/document/175241/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title History of Control History of PLC and DCS
+     Author ['VR Segovia', 'A Theorin']
+     Venue University of Lund
+     Year 2012
+     Abstract was the origin of devices such as the Programmable Logic Controller (PLC) and the Distributed Control System (DCS)  or continuous control functions in a variety of processing plant and factory environments  Nowadays the PLC is used in virtually every industry imaginable
+     Url http://archive.control.lth.se/media/Education/DoctorateProgram/2012/HistoryOfControl/Vanessa_Alfred_report.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Hybrid method for automatically filling of the chemical liquid into bottles using PLC & SCADA
+     Author ['J Dhiman', 'D Kumar']
+     Venue … Journal of Engineering Research and General …
+     Year 2014
+     Abstract controller or programmable controller is a digital computer used for automation of industrial process, such as control of machinery on factory assembly lines  The advantages of the PLC / DCS SCADA system are: • The computer can record and store a very large amount of data
+     Url http://akgec.ac.in/wp-content/uploads/2019/06/AKG_Int_Journal_Tech_Vol_6_no_1_3.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title EMS-SCADA Design of AC Usage on a Building
+     Author ['H Rachmat', 'RA Anugraha', 'T Mulyana']
+     Venue Proceeding 8th International …
+     Year 2015
+     Abstract Active Factory is software from Wonderware which is designed to present the data process quickly and accurately  This data can be obtained from HMI and PLC, and then put into the database SQL Server automatically through SQL. Figure 6 is the EMS-SCADA scheme process
+     Url https://isiem.net/wp-content/uploads/2015/09/PS-8-Haris-Rachmat-2015.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Factory management and transport automation
+     Author ['MC Mora', 'V Suesta', 'L Armesto']
+     Venue … and Factory Automation …
+     Year 2003
+     Abstract 1 which is mainly based on OMRON [ 1 I] products. In this sense, a SCADA application, based on CX- Supervisor, receives orders from the management system and transmits them to a CJlM PLC, located on a fixed position at the factory
+     Url https://ieeexplore.ieee.org/abstract/document/1248741/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title The design of a factory aquiculture monitor system based on PLC [J]
+     Author ['MA Cong-guo', 'NI Wei']
+     Venue Industrial Instrumentation & Automation
+     Year 2005
+     Abstract hardware and the control strategy for use with the factory aquiculture  Chitianhua Group Co.,Ltd.,Chishui 564707);Development of the Distributed Control System[J];Guizhou  Zhejiang University,Hangzhou,310027);Research of Communication Technique Between DCS and Host
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GYZD200502017.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Sistem Automasi Proses Produksi Minuman Dengan Sistem SCADA Menggunakan PLC
+     Author ['F Pasila', 'SA Ananda', 'NK Rahardja']
+     Venue Jurnal Teknik Elektro
+     Year 2004
+     Abstract Sistem Automasi Proses Produksi Minuman Dengan Sistem SCADA Menggunakan PLC  SCADA with PLC can be used in many industrial processes because it can answer all the problems in controlling industrial application automatically
+     Url http://ced.petra.ac.id/index.php/elk/article/view/15882
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title A research on SCADA application by the help of OPC server for water tank filling system
+     Author ['H Toylan', 'H Kuscu']
+     Venue Scientific Research and Essays
+     Year 2010
+     Abstract acquisition (scada) applications needed to have a standard way for reading and writing data from devices on the factory floor in process control. In this paper, the aim of the study was to control the water tank filling system through the programmable logic controller (PLC) and to
+     Url https://academicjournals.org/journal/SRE/article-full-text-pdf/6474EC719734.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Real time automated control of industrial processes with PLC–LABVIEW communication
+     Author ['N Akshay', 'KU Sravanth', 'R Varanasi']
+     Venue International Journal for …
+     Year 2012
+     Abstract control device, such as a PLC (Programmable Logic Controller) or DCS (Distributed Control System)  for Rockwell Automation Networks and Devices is a comprehensive factory communications solution  of PID based cascade control system through SCADA-PLC-OPC
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.669.6796&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PI control of level control system using PLC and LabVIEW based SCADA
+     Author ['P Panchal', 'A Patel', 'J Barve']
+     Venue 2015 International Conference on …
+     Year 2015
+     Abstract Keywords— Level Control System, PLC, SCADA, Mathematical Modelling, NI-LabVIEW  CONCLUSION Thus a low cost SCADA platform for level control trainer system was developed using MODBUS RTU communication protocol between NI-LabVIEW and AB MICRO 830 PLC
+     Url https://ieeexplore.ieee.org/abstract/document/7150929/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title A Review Paper of Automatic Canal Gate Control of 3-ø Induction Motor with PLC and VFD, Powered by Solar System and Monitoring by SCADA
+     Author ['M Nandaniya']
+     Venue International Journal of Emerging Trends in Electrical …
+     Year 2013
+     Abstract the raw signal in electrical form • Control system which includes PLC, DCS & PID  5. Electromagnetic clutch (to engagement and disengagement of Shaft) 6. SCADA Software (Monitoring  of electromechanical processes, such as control of machinery on factory assembly
+     Url http://www.iret.co.in/Docs/Volume%201/6%20A%20Review%20Paper%20of%20Automatic%20Canal%20Gate%20Control%20of%20Induction%20Motor%20with%20PLC%20and%20VFD%20Powered%20by%20Solar%20System%20and%20Monitoring%20by%20SCADA.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automation of sugar boiling process in batch vacuum pans using ABB-Freelance PLC (AC 800F) and conductor NT SCADA
+     Author ['M Behary', 'RTFA King']
+     Venue 2004 IEEE International …
+     Year 2004
+     Abstract the allocation list that is representing the hardware used with a corresponding PLC address  fluctuations and the current yielding obtained from the sugar cane being processed at the factory  that each sub models in the synoptic view has been correctly interfaced on the SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/1490186/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Security issues in SCADA networks
+     Author ['VM Igure', 'SA Laughter', 'RD Williams']
+     Venue computers & security
+     Year 2006
+     Abstract and controlled over the SCADA network by either a PC or a Programmable Logic Controller (PLC)  other servers to aid the operators in the overall management of the factory network. This SCADA network is usually connected to the outside corporate network and/or the Internet
+     Url https://www.sciencedirect.com/science/article/pii/S0167404806000514
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Survey of SCADA SYSTEMS and visualization of a real life process
+     Author ['JA Gomez Gomez']
+     Venue NA
+     Year 2002
+     Abstract tool in which application SCADA will be developed. Study of this tool, possibilities that offer, limitations and operations. • Application developing: create an application for the supervision, monitorization and control of the Lego car Factory. • Connectivity between the PLC and the
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:18579
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC DCS Analog Input Module Design Breaks Barriers in Channel-to-Channel Isolation and High Density
+     Author ['SM Van Yang', 'D Hartmann']
+     Venue NA
+     Year 2016
+     Abstract 1 PLC DCS Analog Input Module Design Breaks  Introduction In high end factory automation applications such as gas and oil plants and power plants, the  The thermocouple and/or RTD measurements are performed by highly integrated temperature front-end ICs (AD7124, or
+     Url http://www.analog.com/media/en/analog-dialogue/volume-50/number-4/articles/plc-dcs-analog-input-module-breaks-barriers-in-isolation.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title The Wireless Digital Transmission of Water Factory Based on PLC [J]
+     Author ['C Guang-Liang']
+     Venue Development & Innovation of Machinery & …
+     Year 2005
+     Abstract Changchun Jilin 130022,China). The paper introduced the application of wireless SCADA technique in Water Factory,and introduced the solution of radio supervises and control on the well that in the Wireless Digital Transmission of Water Factory Based on PLC with emphasis
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JDCP200506046.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC and SCADA based Fault Diagnosis of Induction Motor
+     Author ['R Masand', 'D Jadwani', 'A Sahu']
+     Venue International Journal of Digital …
+     Year 2014
+     Abstract PLC and SCADA based Fault Diagnosis of Induction Motor  A PLC or a programmable controller is a small computer used for control of machinery on factory assembly lines and automation of real  A PLC can also be programmed to sense, control and activate industrial equipment
+     Url https://eg4.nic.in/govpoly/DFILES/EBOOKS/IR/Project_EIE_Induction_Motor.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Industrial control system security
+     Author ['P Jie', 'L Li']
+     Venue 2011 third international conference on intelligent …
+     Year 2011
+     Abstract II. INDUSTRIAL CONTROL SYSTEM ADOPTS THE MAINSTREAM TECHNOLOGY Typically, the factory has three  The traits of industrial control system make the industrial control system meet not  to infect data acquisition and Supervisory Control and Data Acquisition (SCADA)
+     Url https://ieeexplore.ieee.org/abstract/document/6038238/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Pneumatic Control System of Automatic Production Line Using Two Method of SCADA/HMI Implement PLC
+     Author ['HH Hadi', 'MY Salloom']
+     Venue Al-Khwarizmi Engineering Journal
+     Year 2019
+     Abstract The objectives of this study are implemented two SCADA/HMI system using two  can do performance feeding, transportation, sorting functions, is designed and simulated in FACTORY IO software  S7-1200 PLC employed to control the automatic production line using ladder logic
+     Url https://www.iasj.net/iasj?func=article&aId=167711
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Pneumatic Control System of Automatic Production Line Using SCADA Implement PLC
+     Author ['HH Hadi', 'MY Sallom']
+     Venue 2019 4th Scientific International …
+     Year 2019
+     Abstract simulation Also, FACTORY IO software used to simulate the sequence of the ladder diagram with the processes of the production line. SCADA system would be implemented by using two programs. First NIOPC program to enable communicate S7- 1200 PLC software with HMI
+     Url https://ieeexplore.ieee.org/abstract/document/9019356/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Mixed Control System of Acrylic FiberS Production Line Based on DCS and PLC
+     Author ['GSY Yejian']
+     Venue Electrical Automation
+     Year 2010
+     Abstract Ge Suoliang Yuan Yejian (School of Electrical Engineering and Automation,Hefei University of Technology,Hefei Anhui 230009,China). Distributed Control System improves management  A mixed control system based on DCS and PLC is used in one acrylic fibers factory
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DQZD201006015.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Application of programmable logic controller to build-up an intelligent industry 4.0 platform
+     Author ['JY Chen', 'KC Tai', 'GC Chen']
+     Venue Procedia CIRP
+     Year 2017
+     Abstract The cyber-physical system (CPS) and IoT would serve as the bridge that evolve into neural  floor are handled by TIA that also includes supervisory control and data acquisition (SCADA)  with data sharing systems and help decision- making processes for factory managers
+     Url https://www.sciencedirect.com/science/article/pii/S2212827117302627
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Software factory techniques applied to Process Control at CERN
+     Author ['MD Dutour']
+     Venue NA
+     Year 2007
+     Abstract the development of these applications, we migrated our existing UNICOS tooling suite toward a software factory in charge of assembling project, domain and technical information seamlessly into deployable PLC (Programmable logic Controller) – SCADA (Supervisory Control
+     Url https://cds.cern.ch/record/1067152
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automation of Bottle Filling System in Industries using PLC AND SCADA
+     Author ['TP SINGH', 'S SINGH', 'V MAURYA']
+     Venue … Research Journal of …
+     Year 2016
+     Abstract To accomplish this PLC and SCADA have been used. A programmable logic controller (PLC) or programmable controller is a digital computer used for automation of electromechanical processes, such as control of machinery on factory assembly lines [1]. Supervisory control
+     Url http://www.academia.edu/download/54330962/IRJET-V3I9238.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title INTEGRATION OF A PLC AND SCADA CONTROL AND REPORTING SYSTEM WITH AN EXISTING DCS
+     Author ['VAN TONDER']
+     Venue 86th Annual Congress of the South …
+     Year 2014
+     Abstract INTEGRATION OF A PLC AND SCADA CONTROL AND REPORTING SYSTEM WITH AN EXISTING DCS VAN TONDER P  Abstract Komati Mill was built 20 years ago as a fully automated sugar mill utilising a factory-wide Distributed Control System (DCS) to achieve a
+     Url https://pdfs.semanticscholar.org/7824/122c5ff64ca4002decfdfb1a299b3cf1df1d.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Security issues and quality of service in real time wireless PLC/SCADA process control systems
+     Author ['H Eren', 'D Hatipoglu']
+     Venue 2008 IEEE Sensors Applications …
+     Year 2008
+     Abstract In this paper, a wireless network containing 20 PLC/SCADA systems has been configured as a Local Area Network, LAN. The PLCs and SCADA set up has been based on the Factory Intelligent Network Services (FINS) Gateway (termed as FinsGateway) for communication
+     Url https://ieeexplore.ieee.org/abstract/document/4472963/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Distinguishing internet-facing ICS devices using PLC programming information
+     Author ['PM Williams']
+     Venue NA
+     Year 2014
+     Abstract List of Acronyms Acronym Definition NIST National Institute of Standards and Technology ICS Industrial Control System SCADA Supervisory Control and Data Acquisition Systems DCS Distributed Control Systems PLC Programmable Logic Controllers IP Internet Protocol
+     Url https://scholar.afit.edu/etd/524/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Implementation of automatic material handling based on PLC and SCADA
+     Author ['V SENTHIL KUMAR']
+     Venue NA
+     Year 2019
+     Abstract All logic was implemented in real time with all the field devices and other controlling devices with monitoring tools. Keywords: STUDIO 5000, FACTORY TALK VIEW, FIELD DEVICES. Italian keywords: PLC; SCADA. English keywords: PLC; SCADA. Language: eng
+     Url https://www.politesi.polimi.it/handle/10589/147258
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Security in SCADA systems: How to handle the growing menace to process automation
+     Author ['T Brown']
+     Venue Computing & Control Engineering Journal
+     Year 2005
+     Abstract To date I have not yet seen any SCADA system or PLC technology address this fundamental security issue  In fact it is possible to provide very good logical separation between the SCADA network and other factory systems, which eliminates the previously mentioned
+     Url https://ieeexplore.ieee.org/abstract/document/1499235/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Automation based power transmission control Station using PLC and SCADA
+     Author ['T Vignesh', 'J Kirubakaran']
+     Venue International Journal of …
+     Year 2015
+     Abstract Traditionally, SCADA systems have made use of the Public Switched Network (PSN) for monitoring purposes  243 PLC Programmable Logic Controller or  electromechanical processes, such as control of machinery on factory assembly lines, amusement rides, or light fixtures
+     Url https://pdfs.semanticscholar.org/2dce/95241732778b299813cbd5e4fba227948332.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Towards automated safety vetting of plc code in real-world plants
+     Author ['M Zhang', 'CY Chen', 'BC Kao']
+     Venue … IEEE Symposium on …
+     Year 2019
+     Abstract to understand causal relations among events in PLC code and (b) mine temporal invariants from data traces collected in Industrial Control System (ICS) testbeds to  Re- ports have shown that anomalous ICS behaviors have resulted in loss of life on real-world factory floors [11
+     Url https://ieeexplore.ieee.org/abstract/document/8835244/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC and SCADA Based Secured and Sustainable Living
+     Author ['G Venkateswarlu', 'J Sahu', 'Y Sriya', 'S Pappala']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Distributed Control System (DCS) Design of Meishan Iron Mine Factory [J]
+     Author ['CXLQC Qihong', 'FSWDZ Dingyong', 'H Mingzhi']
+     Venue Electric Drive
+     Year 2001
+     Abstract Wang Donglai Zhou Dingyong Huo Mingzhi. This paper introduces distributed control system(DCS)design target  2, YAN XiaoLin et al.;Application of OMRON PLC in DCS System of  Technology, Nanjing 210013, China);APPLICATION OF FIELDBUS IN THE SCADA SYSTEM
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DQCZ200104014.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title DCS Control System of Production Technics of Cement Based on PLC [J]
+     Author ['X Shuping', 'S Xiaohui', 'L Weiguo']
+     Venue Computer Measurement & …
+     Year 2009
+     Abstract Engineering,Gansu University of Technology,Lanzhou730050,China);DCS Control System  Nanjing 210016, China; 2.Nanjing Dalianshan Cement Factory,Nanjing211122, China  Engineering, Shandong University, Ji'nan 250061, China);Distributed Control System Based on
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JZCK200904023.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Development of PLC-SCADA based control strategy for water storage in a tank for a semi-automated plant
+     Author ['K Chakraborty', 'MG Choudhury', 'S Das']
+     Venue Journal of …
+     Year 2020
+     Abstract J. Sci. Eng. Res. 3 (2012) 1. [12] G. Pradhan et al., Automation of tank level by using PLC and SCADA/HMI, Int. J. Adv. Res. Ideas Innov. Tech. 4 (2018) 1935. [13] VE Wagner et al., Power quality and factory automation, IEEE Trans. Ind. Appl. 26 (1990) 620. –7–
+     Url https://iopscience.iop.org/article/10.1088/1748-0221/15/04/T04007/meta
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Building management system using PLC and SCADA
+     Author ['JPR Suresh Kumar', 'AK Thakur']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title The Application of PLC-DCS to Automatic Cardboard Production [J]
+     Author ['X LI', 'Y MA']
+     Venue Techniques of Automation and Applications
+     Year 2003
+     Abstract institute of industry,Chongqing 400050,China);Application of PLC Distributed Control System Based on  ZHANG Wen-Yong,WU Xian-guang (Shuzhou Telecommunication Motor Factory,Shuzhou 215002  100041, China);Design of Control Drawing Configuration in DCS System
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-ZDHJ200305006.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title Guide to industrial control systems (ICS) security
+     Author ['K Stouffer', 'J Falco', 'K Scarfone']
+     Venue NIST special publication
+     Year 2011
+     Abstract Department of Homeland Security, the Department of Homeland Security Industrial Control System Joint Working  ICS are typically used in industries such as electric, water and  and discrete manufacturing (eg, automotive, aerospace, and durable goods.) SCADA systems are
+     Url http://www.gocs.com.de/pages/fachberichte/archiv/164-sp800_82_r2_draft.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"PLC"+OR+"FPGA"
+     Title A testbed for SCADA control system cybersecurity research and pedagogy
+     Author ['T Morris', 'R Vaughn', 'YS Dandass']
+     Venue … of the Seventh Annual Workshop on …
+     Year 2011
+     Abstract Keywords Testbed, industrial control system, SCADA, cybersecurity  including, petrochemical manufacturing, gas pipeline operation, electricity transmission, factory systems, steel  include remote terminal units (RTU), programmable logic controllers (PLC), sensors, actuators, and
+     Url https://dl.acm.org/doi/pdf/10.1145/2179298.2179327
+

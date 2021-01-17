@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for embedded systems
+     Author ['R Huuck']
+     Venue MMAR
+     Year 2002
+     Abstract Page 1. SOFTWARE VERIFICATION FOR EMBEDDED SYSTEMS RALF HUUCK†  8. Jeroen Kratz. A case study in PLC control: two ways of verifying PLC control software for a LEGO plant. Master's thesis, Katholieke Univer- siteit Nijmegen, November 1999
+     Url https://www.researchgate.net/profile/Ralf_Huuck/publication/2892315_Software_Verification_for_Embedded_Systems/links/0c9605271ca70057c4000000.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking  we would like to mention Mader et al.'s study including very detailed examples on a practical case study. 6 Model checking graphical PLC programs
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for programmable logic controllers
+     Author ['R Huuck']
+     Venue NA
+     Year 2003
+     Abstract are presented in Chapter 7. Moreover, the subsequent appendix provides more details about the case studies  The brick sorting case study of Chapter 6 is based on [Huu02  2. It includes and extensive overview of publications in the area of PLC (software) verification and points
+     Url https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00000726/d726.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title SPIN Model Checking and Software Verification: 7th International SPIN Workshop Stanford, CA, USA, August 30-September 1, 2000 Proceedings
+     Author ['K Havelund', 'J Penix', 'W Visser']
+     Venue NA
+     Year 2006
+     Abstract focus than previous workshops in that papers on software verification were encouraged  University of Technology) Verification and Optimization of a PLC Control Schedule  Modeling the ASCB-D Synchronization Algorithm with SPIN: A Case Study
+     Url https://books.google.com/books?hl=nl&lr=&id=8UBsCQAAQBAJ&oi=fnd&pg=PA1&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=247e74Zder&sig=2oD174MRfT_wXpUlPTttpwkWtWQ
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The impact of modern FPGA architectures on neural hardware: A case study of the TOTEM neural processor
+     Author ['S McBader', 'P Lee', 'A Sartori']
+     Venue 2004 IEEE International Joint …
+     Year 2004
+     Abstract Using the TOTEM neural processor as a case study, this paper reports on the main advantages of implementing neural hardware on  The complete design of SoftTOTEM, including its implementation on a Xilinx FPGA as well as hardware and software verification, took an
+     Url https://ieeexplore.ieee.org/abstract/document/1381178/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract While some standards (eg [11]) already address the issue of hardware validation, software validation of PLC systems, ie ensuring that the PLC program meets the requirements  In the case study presented, the process is controlled by a Siemens PLC using GRAPH
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Practical Application of NUREG/CR-6430 Software Safety Hazard Analysis to FPGA Software
+     Author ['S Jung', 'J Yoo', 'YJ Lee']
+     Venue Reliability Engineering & System Safety
+     Year 2020
+     Abstract paper, and we explain the performing hazard analysis upon the FPGA software as a case study in Section 4  levels to each requirement element differ slightly from the one against the PLC-based software requirements specifications because FPGA software requirement
+     Url https://www.sciencedirect.com/science/article/pii/S0951832020305305
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based fault injection architecture for real time software dependability testing
+     Author ['A Corsetti']
+     Venue LATIN-AMERICAN SYMPOSIUM ON DEPENDABLE …
+     Year NA
+     Abstract The advantages of FPGA-based fault injection architecture are highlighted in a case study which uses  Space subsystem testing; fault injection; robustness; FPGA based architecture  I. INTRODUCTION Software validation is an important activity in the development of any software
+     Url http://bibdigital.sid.inpe.br/rep-/sid.inpe.br/mtc-m18/2011/04.08.21.44
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual commissioning of a robotic cell: An educational case study
+     Author ['IA Fernández', 'MA Eguía']
+     Venue 2019 24th IEEE …
+     Year 2019
+     Abstract A. Context The case study covers a project in which students pro- grammed and validated the control system of a robotic cell  Comments on emulation for software validation  In the PLC debugging environment a lot of abstraction is required, and what is tested seems to be fine
+     Url https://ieeexplore.ieee.org/abstract/document/8869373/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Verification of Cyber-Physical Systems Specified by Petri Nets—A Case Study of a Direct Matrix Converter
+     Author ['R Wisniewski', 'G Bazydło', 'P Szcześniak', 'I Grobelna']
+     Venue Mathematics
+     Year 2019
+     Abstract Second verification (software validation) is performed at the modelling stage  The proposed technique is explained by a case-study example of a direct matrix converter (MC) with  described in the Verilog hardware description language and finally implemented in an FPGA device
+     Url https://www.mdpi.com/2227-7390/7/9/812
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract IV. CASE STUDY  9 summarizes all partial/full scale case studies for 25 techniques/tools of the NuDE 2.0  program by NuSCRtoFBD, and also translated to a C program for PLC implementation by FBDtoC and a Ver- ilog program for FPGA implementation by FBDtoVerilog 2.0
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Formal Embedded Software Verification using Software Fault Tree Analysis
+     Author ['J Yoo']
+     Venue NA
+     Year NA
+     Abstract Software Verification using  Tree ▪ SFT-to-Verilog Translation ▪ Property-to-Verilog Translation ▪ VIS Equivalence Checking • Case Study: KNICS RPS  10] ▪ Formal requirements specification language for RPS (Reactor Protection System) ▪ Targeting PLC (Programmable Logic
+     Url http://dslab.konkuk.ac.kr/Publication/ISET2010.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract C. A case study In order to demonstrate the basic mechanisms for using the proposed architecture for real-time PLC control software verification and validation, the simulation developed for the geothermal plant from the University of Oradea is presented
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiplatform plasma metabolic and lipid fingerprinting of breast cancer: A pilot control-case study in Colombian Hispanic women
+     Author ['MP Cala', 'J Aldana', 'J Medina', 'J Sánchez', 'J Guio']
+     Venue PloS one
+     Year 2018
+     Abstract Multiplatform plasma metabolic and lipid fingerprinting of breast cancer: A pilot control-case study in Colombian Hispanic women  Roles Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Resources, Software, Validation, Visualization
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190958
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Direct model checking of PLC programs in IL
+     Author ['B Schlich', 'J Brauer', 'J Wernerus']
+     Venue IFAC Proceedings Volumes
+     Year 2009
+     Abstract This case study shows that the verification time scales roughly linear with the number of executed instructions  The case studies could show that our approach scales at least as good as the approaches described in  Auto- mated formal verification of plc programms written in IL
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015355919
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Validation and robustness assessment of an automotive system
+     Author ['M Desogus', 'MS Reorda', 'L Sterpone']
+     Venue 2013 8th IEEE …
+     Year 2013
+     Abstract In this paper we propose a novel flow for hardware and software validation and debug through the use of an FPGA- based emulation platform  Experimental results on a real industrial case study allow to evaluate the effectiveness and costs of the proposed solution
+     Url https://ieeexplore.ieee.org/abstract/document/6727076/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design verification enhancement of field programmable gate array-based safety-critical I&C system of nuclear power plant
+     Author ['I Ahmed', 'J Jung', 'G Heo']
+     Venue Nuclear Engineering and Design
+     Year 2017
+     Abstract In order to prove and demonstrate the applicability of these approaches, we took, as case study, the bistable  That is, PLC operates by using both operating system (OS) and application software  However, in recent years, FPGA is considered as an alternative to PLCs or used in
+     Url https://www.sciencedirect.com/science/article/pii/S0029549317301103
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title AN IMPLEMENTATION OF SDH FRAMER/DEFRAMER ON FPGA
+     Author ['V MARINKOVIĆ', 'N VRANIĆ', 'M DIMITRASKOVIĆ']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A verification framework for FBD based software in nuclear power plants
+     Author ['J Yoo', 'S Cha', 'E Jee']
+     Venue 2008 15th Asia-Pacific Software …
+     Year 2008
+     Abstract essential task when replacing traditional relay-based analog system with PLC-based software in  This paper proposes a software verification framework for FBD software in nuclear power  A case study, conducted using a nuclear power plant shutdown system being developed in
+     Url https://ieeexplore.ieee.org/abstract/document/4724570/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiple Scenario Approach for Pre-Silicon Hardware/Software Co-Verification
+     Author ['M Katona', 'D Djukaric']
+     Venue 2009 First IEEE Eastern …
+     Year 2009
+     Abstract One more approach of ASIC prototyping based on mixed hardware/software verification environment is  34] is that it can be partitioned between FPGAs using available FPGA interconnections  The case study with a design example which requires more FPGA connections
+     Url https://ieeexplore.ieee.org/abstract/document/5290982/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Offline PLC Failure Detection Method: A Case Study
+     Author ['MAB Vitekar', 'MS Nagmode', 'A Pawar']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA implementation of I2C & SPI protocols: A comparative study
+     Author ['AK Oudjida', 'ML Berrandjia', 'R Tiar']
+     Venue 2009 16th IEEE …
+     Year 2009
+     Abstract Both designs have undergone severe functional software verification procedure according to our own  Low/Medium Speed I2C Slave Transceiver: A Detailed FPGA Implementation,” Journal  et al, “Master-Slave Wrapper Communication Protocol: A Case Study,” Proceedings of
+     Url https://ieeexplore.ieee.org/abstract/document/5410881/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Fast hardware-in-the-loop verification platform: A case study for convolutional decoders
+     Author ['A Alonso', 'A Irizar']
+     Venue Design of Circuits and Integrated Systems
+     Year 2014
+     Abstract Page 1. Fast hardware-in-the-loop verification platform: a case study for convolutional decoders  Section III presents the hardware-software verification platform and Section IV shows the fast parametrical study that was carried out  3. ACSU architecture PC Domain FPGA Domain
+     Url https://ieeexplore.ieee.org/abstract/document/7035587/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A partition based methodology for simulation acceleration of digital VLSI circuits using FPGAs
+     Author ['AZ Hashmi', 'S Biswas', 'DR Pal']
+     Venue Proceedings of the …
+     Year 2004
+     Abstract work we have taken large ISCAS89 benchmark circuits and Xilinx 9000[4] series FPGAs as case studies  5. The pattern generator signals are applied to the FPGA based system and the  To Rapid Prototyping For Digital Circuit And System Design -A Design Case Study for IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/1497700/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Word-length optimization beyond straight line code
+     Author ['DP Boland', 'GA Constantinides']
+     Venue Proceedings of the ACM/SIGDA …
+     Year 2013
+     Abstract used within a word-length optimization framework to improve a cus- tom FPGA design using  All these case studies contain loops with data dependent exit conditions where the loop transition  5.1 Case study: Half-life The first stage of the process involves extracting the relevant
+     Url https://dl.acm.org/doi/abs/10.1145/2435264.2435285
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A novel scalable and reconfigurable emulation platform for embedded systems verification
+     Author ['M Di Marzio', 'M Grosso', 'MS Reorda']
+     Venue Proceedings of 2010 …
+     Year 2010
+     Abstract Section V presents the case study and Section V reports conclusions and future  This solution introduces the usage of FPGA embedded processors interconnected through fast  functionalities and the controlling module, which does not support software verification and debugging
+     Url https://ieeexplore.ieee.org/abstract/document/5537422/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Introducing Graphics Processing from a Systems Perspective: A Hardware/ Software Approach
+     Author ['M Steffen', 'PH Jones III']
+     Venue American …
+     Year 2012
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware benchmarking of cryptographic algorithms using high-level synthesis tools: The SHA-3 contest case study
+     Author ['E Homsirikamol', 'K Gaj']
+     Venue International Symposium on Applied …
+     Year 2015
+     Abstract Keywords: FPGA · High-level synthesis · Secure hash algorithm · SHA-3 · Cryptography · Benchmarking · Evaluation · Hardware · Case study 1 Introduction & Motivation  Software Verification Test Vectors Netlist FPGA Tools Option Optimization ATHENa GMU
+     Url https://link.springer.com/chapter/10.1007/978-3-319-16214-0_18
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiprocessor System-Level Modeling and Analysis on Platform FPGA
+     Author ['Z Lei', 'S You', 'F YongQing']
+     Venue Advances in Information Technology and …
+     Year 2011
+     Abstract And we present results of a case study to illustrate these usages  Predicate Abstraction [5] is modified by many scientists and used in the hardware and software verification of the  A high performance FPGA was used to implement an h.264 encoder, and the primary MPSoC video
+     Url https://link.springer.com/chapter/10.1007/978-3-642-22418-8_58
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Dynamically Self-Reconfigurable Machine Learning Structure for FPGA Implementation.
+     Author ['JA Starzyk', 'Y Guo']
+     Venue Engineering of Reconfigurable Systems and …
+     Year 2003
+     Abstract Several case studies have proven the feasibility for these methods, especially in wireless communication  from which the diagram is produced is obtained through the FPGA interface  produces a very similar result with this real-time hardware/software verification, except minor
+     Url https://www.researchgate.net/profile/Janusz_Starzyk/publication/220844419_Dynamically_Self-Reconfigurable_Machine_Learning_Structure_for_FPGA_Implementation/links/5413959f0cf2bb7347db25ab/Dynamically-Self-Reconfigurable-Machine-Learning-Structure-for-FPGA-Implementation.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Parallel implementation on FPGA of support vector machines using stochastic gradient descent
+     Author ['FF Lopes', 'JC Ferreira', 'MAC Fernandes']
+     Venue Electronics
+     Year 2019
+     Abstract Our design was synthesized to a Xilinx Virtex-6 XC6VCX240T-1 FPGA containing 241,152 logic cells, 768 embedded multipliers and 37,680 slices [20], included on the ML605 evaluation board [21]  4. Results. 4.1. XOR Gate Dataset. 4.1.1. Software Validation
+     Url https://www.mdpi.com/2079-9292/8/6/631
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FBDtoVerilog: A Vendor-Independent Translation from FBDs into Verilog Programs.
+     Author ['J Yoo', 'JH Lee', 'S Jeong', 'SD Cha']
+     Venue SEKE
+     Year 2011
+     Abstract It is a part of PLC-based software development framework we proposed in [15  And we will plan the case study that verifies further correctness of the FBDtoVerilog through  critical systems are using FBD as standard representation of software design, software verification on FBDs
+     Url https://pdfs.semanticscholar.org/586c/522503a6f78154d5d94ee21f006bb176248e.pdf%22%22
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Secure embedded system hardware design–a flexible security and trust enhanced approach
+     Author ['AP Fournaris', 'N Sklavos']
+     Venue Computers & Electrical Engineering
+     Year 2014
+     Abstract hardware modules. As a case study of the above proposal, an FPGA based trusted zone architecture is presented, its components are analyzed and its main functionality is described. The rest of the paper is organized as follows
+     Url https://www.sciencedirect.com/science/article/pii/S0045790613002930
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Control logic verification for an automotive body assembly line using simulation
+     Author ['CM Park', 'S Park', 'GN Wang']
+     Venue International Journal of Production …
+     Year 2009
+     Abstract methodology using observed signal sequences during the simulation is proposed. This approach was applied to an assembly line controlled by a PLC and the effectiveness of the proposed system was explained in a case study
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207540802350716
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving the hardware complexity by exploiting the reduced dynamics-based fractional order systems
+     Author ['N Ullah', 'A Ullah', 'A Ibeas', 'J Herrera']
+     Venue IEEE Access
+     Year 2017
+     Abstract additional advantages. In this paper a fractional order model of a nonlinear system along with its controller design and its implementation on a field programmable gate array (FPGA) is undertaken as a case study. Overall three
+     Url https://ieeexplore.ieee.org/abstract/document/7927701/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Prototype Design of Hierarchical Cluster Multiprocessor on Platform FPGA
+     Author ['RH Mu', 'PZ Zhao', 'D Li']
+     Venue … and Knowledge Engineering: Theory and Practice
+     Year 2012
+     Abstract Predicate Abstraction [8] is modified by many scientists and used in the hardware and software verification of the embedded systems  3 Case Study A high performance FPGA was used to implement an MPSoC of JPEG decoder, as shown in Figure 3 and the multi-core processor
+     Url https://link.springer.com/chapter/10.1007/978-3-642-25349-2_91
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Reliable execution of statechart-generated correct embedded software under soft errors
+     Author ['RR Ferreira', 'T Klotz', 'T Vörtler', 'J da Rolt']
+     Venue … on Design and …
+     Year 2014
+     Abstract Section IV presents the case study and discusses the experimental evaluation of the approach  puts the existing expertise and best-practices for UML modeling and software verification together with a novel reliable hardware substrate ready to be deployed onto an FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6868779/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Performance Verification for ESL Design Methodology from AADL Models
+     Author ['H Jérome', 'M Fellipe']
+     Venue NA
+     Year NA
+     Abstract Shift-left ❑ Perform hardware/software validation earlier in the design flow ∎ Integration of different methodologies and technologies  Third Party ESL Products • Zynq SoC • Virtex FPGA Family • Spartan FPGA Family • Cyclone V Soc Target Page 19. Case Study : Motion-JPEG
+     Url https://www.irt-saintexupery.com/wp-content/uploads/2015/08/2-ISAE-SpaceCo-PerformanceVerification.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of a plc control program for a batch plant vhs case study 1
+     Author ['A Mader', 'E Brinksma', 'H Wupper', 'N Bauer']
+     Venue European Journal of Control
+     Year 2001
+     Abstract As part of the project a number of case studies concerning par- ticular examples of hybrid systems are  Our approach to VHS case study 1 deals with the design and verification of a control  for a so- called batch plant that is controlled by a Program- mable Logic Controller (PLC)
+     Url https://www.sciencedirect.com/science/article/pii/S0947358001701811
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Verification Approach for Programmable Logic Controllers
+     Author ['X LUO', 'LI Yong', 'W DU', 'Y Fan']
+     Venue DEStech Transactions on …
+     Year 2016
+     Abstract It is successfully applied to a few software verification projects to verify device drivers, C programs and Java  We first introduce the architecture of PLC systems, explore the modeling method for PLC systems, then present the verification method and a case study to illustrate
+     Url http://www.dpi-proceedings.com/index.php/dtetr/article/view/6016
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Mapping multi-million gate SoCs on FPGAs: industrial methodology and experience
+     Author ['H Krupnova']
+     Venue Proceedings Design, Automation and Test in …
+     Year 2004
+     Abstract is working and stable, the mapping on the FPGA platform targeted for the software validation ([3]) can  projects collected in this paper provides a view into the industrial FPGA prototyping challenges  The four case studies presented in this paper are listed in Table 1. They are the
+     Url https://ieeexplore.ieee.org/abstract/document/1269065/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA realization of wavelet transform for detection of electric power system disturbances
+     Author ['SJ Huang', 'TM Yang', 'JT Huang']
+     Venue IEEE Transactions on Power …
+     Year 2002
+     Abstract Fol- lowing the software verification of each submodule, the syn- thesis is then activated that  V. CONCLUSION A new approach of using FPGA for the realization of wavelet  By case studies with numerical simulations and experimental waveforms, this method was verified with
+     Url https://ieeexplore.ieee.org/abstract/document/997905/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Proof in VDM: Case Studies
+     Author ['JC Bicarregui']
+     Venue NA
+     Year 2012
+     Abstract arising from it are illustrated through a number of small examples and one larger case study of a  Together these case studies cover a broad range of issues in the use of proof in formal Software  Cliff Jones Harlequin plc, Queens Court, Wilmslow Road, Cheshire, SK9 7QD, UK
+     Url https://books.google.com/books?hl=nl&lr=&id=hA7lBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=LUpzrUqFD6&sig=EJG-1TtK5Zf17Xq96aI18Gm6u_o
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Platform for hardware in loop simulation
+     Author ['A Ingalalli', 'H Satheesh', 'M Kande']
+     Venue … International Symposium on …
+     Year 2016
+     Abstract testing of controllers has become an integral part of the embedded software verification and validation  Communication between PCs is achieved using FPGA-based proprietary communication link. The case study presented in this paper is very much similar but the workflow is
+     Url https://ieeexplore.ieee.org/abstract/document/7525843/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA realization of line-interactive uninterruptible power supply
+     Author ['SJ Huang', 'CH Sun', 'TS Lee']
+     Venue The Fifth International Conference …
+     Year 2003
+     Abstract Following the software verification of each submodule, the synthesis is then activated that will  v. CONCLUSIONS In this paper, the line-interactive UPS realized via FPGA chip is  By case studies with experimental performances, this method has been verified with high reliability
+     Url https://ieeexplore.ieee.org/abstract/document/1282857/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving the hardware complexity by exploiting the reduced dynamics based fractional order systems
+     Author ['AU NasimUllah', 'A Ibeas', 'J Herrera']
+     Venue NA
+     Year NA
+     Abstract additional advantages. In this paper a fractional order model of a nonlinear system along with its controller design and its implementation on a field programmable gate array (FPGA) is undertaken as a case study. Overall three
+     Url https://www.researchgate.net/profile/Jorge_Herrera_Cuartas/publication/316945784_Improving_the_Hardware_Complexity_by_Exploiting_the_Reduced_Dynamics-Based_Fractional_Order_Systems/links/5960020ba6fdccc9b1c4b479/Improving-the-Hardware-Complexity-by-Exploiting-the-Reduced-Dynamics-Based-Fractional-Order-Systems.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to the special issue for SPIN 2019
+     Author ['F Biondi', 'T Given-Wilson', 'A Legay']
+     Venue NA
+     Year NA
+     Abstract of specifications, test cases, or other useful material via formal analysis; case studies of interesting  or with inter- esting results; engineering and implementation of software verification and analysis  Although a recently debuted FPGA swarm is faster, the deployment process to the
+     Url https://link.springer.com/content/pdf/10.1007/s10009-020-00580-1.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Survey of Formal Verification in Mission-critical High-consequence Applications.
+     Author ['Y Hu', 'RC Armstrong']
+     Venue NA
+     Year 2011
+     Abstract Overall, this case study represents an effective formal modeling and analysis approach for a  Several case studies are analyzed for their unique application and challenge, applied formal  For hardware systems, the survey focuses on designs implemented with FPGA, because of
+     Url https://www.osti.gov/servlets/purl/1109051
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Using the virtual heart model to validate the mode-switch pacemaker operation
+     Author ['Z Jiang', 'A Connolly']
+     Venue 2010 Annual International …
+     Year 2010
+     Abstract Through a case study involving multiple arrhythmias, this investigation shows how the VHM can  The synthetic electrograms for several case studies have been validated by a electrophysiologist. The same model also executes on a programmable hardware (FPGA) platform for
+     Url https://ieeexplore.ieee.org/abstract/document/5626262/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA Technology and Platforms for NPP I&C systems
+     Author ['A Kovalenko', 'I Babeshko', 'V Tokarev']
+     Venue Cyber Security and …
+     Year 2020
+     Abstract Besides, verification after each stage of development is obligatory for both FPGA electronic designs and software. Software verification is a process aimed to confirm software compliance to defined re- quirements by way of versatile tests and obtaining verifiable proofs (Lyu, MR
+     Url https://www.igi-global.com/chapter/fpga-technology-and-platforms-for-npp-ic-systems/258688
+

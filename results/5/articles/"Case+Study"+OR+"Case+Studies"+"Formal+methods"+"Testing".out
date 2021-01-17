@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract paper presents the state of the art and future perspectives in testing based on formal methods. The theory of formal testing is briefly outlined, a test tool is presented which automates both test derivation and test execution on-the-fly, and an application case study is discussed
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract In this paper a case study is presented on the use of formal methods in the testing of a realistic (mission critical) system. The top level design was written in the formal language Promela, which made it possible to simulate a model of the system before it was built
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal verification of the AAMP5 microprocessor: A case study in the industrial use of formal methods
+     Author ['SP Miller', 'M Srivas']
+     Venue Proceedings of 1995 IEEE Workshop on …
+     Year 1995
+     Abstract Formal Verification of the AAMPS Microprocessor A Case Study in the Industrial Use of  of showing that such systems meet ulua-high reliability requirements through testing alone [8  Formal methods are a promising approach for increasing our confidence in digital systems, but
+     Url https://ieeexplore.ieee.org/abstract/document/515475/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title A tale of two paradigms: Formal methods and software testing
+     Author ['D Carrington', 'P Stocks']
+     Venue Z User Workshop, Cambridge 1994
+     Year 1994
+     Abstract The paper also presents a framework for conducting specification-based test- ing and a simple case study to demonstrate its use  2.2 Dick and Faivre The work of Dick and Faivre is a major contribution to the use of formal methods in software testing [4, 5). Though their work
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-3452-7_4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Specification and testing using generalized machines: a presentation and a case study
+     Author ['F Ipate', 'M Holcombe']
+     Venue … Testing, Verification and Reliability
+     Year 1998
+     Abstract Despite claims to the contrary, formal methods require extensive training and experience, so any formal  Laycock's (1992b) case study shows how to generate test cases using the category- partition  A number of case studies indicate that it is quite straightforward to use the X
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1689(199806)8:2%3C61::AID-STVR154%3E3.0.CO;2-W
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Torx: Automated model-based testing
+     Author ['GJ Tretmans', 'H Brinksma']
+     Venue First European Conference on …
+     Year 2003
+     Abstract project Côte de Resyste worked on methods, techniques and tools for automating specification based testing using formal methods  On the other hand, the applicability of TorX has been demonstrated by testing several academic and industrial case studies
+     Url https://research.utwente.nl/en/publications/torx-automated-model-based-testing
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Experiences using lightweight formal methods for requirements modeling
+     Author ['S Easterbrook', 'R Lutz', 'R Covington']
+     Venue IEEE Transactions …
+     Year 1998
+     Abstract The case studies differ from previously reported applications of formal methods in that formal  For each case study, we describe what methods were applied, how they were applied  In all three cases, formal methods enhanced the existing verification and validation processes, by
+     Url https://ieeexplore.ieee.org/abstract/document/663994/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Applying formal methods to software testing
+     Author ['PA Stocks']
+     Venue NA
+     Year 1993
+     Abstract studies. Chapter 7 examines application of the framework in areas beyond deriving  Accordingly, by far the most prominent use of formal methods in testing is for the derivation and  The method and tool have been used successfully on a substantial case study DM91]
+     Url https://www.researchgate.net/profile/Phil_Stocks/publication/2347416_Applying_Formal_Methods_to_Software_Testing/links/55528c8708aeaaff3befeb1d.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Case study: Applying formal methods to the traffic alert and collision avoidance system (TCAS) II
+     Author ['JJ Britt']
+     Venue Proceedings of COMPASS'94-1994 IEEE 9th Annual …
+     Year 1994
+     Abstract This case study illustrates how formal methods have been applied to a safety-critical system, improving the assurance of safety in three areas: product review, process and personnel certification. and functional testing. 1. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/318468/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Case Study of Commercially Available Tools that Apply Formal Methods to a Matlab/Simulink/Stateflow Model
+     Author ['S Ranville']
+     Venue NA
+     Year 2004
+     Abstract However, Validator does not claim to be “complete” in the traditional formal methods sense  CASE STUDIES  Note: An additional tool was originally included in this case study, but was removed at the request of the tool vendor when they decided that they wanted to further
+     Url https://www.sae.org/publications/technical-papers/content/2004-01-1765/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Reification of executable test scripts in formal specification-based test generation: The java card transaction mechanism case study
+     Author ['F Bouquet', 'B Legeard']
+     Venue International Symposium of Formal Methods …
+     Year 2003
+     Abstract On the basis of this Java Card case study, we describe the difficulties that arose and present some generic solutions embedded in the BZ-Testing-Tools envi- ronment. Keywords: B abstract machine, Formal methods, Java Card, Oracle synthesis, Representation mapping
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_42
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal methods applied to high‐performance computing software design: a case study of MPI one‐sided communication‐based locking
+     Author ['S Pervez', 'G Gopalakrishnan', 'RM Kirby']
+     Venue Software: Practice …
+     Year 2010
+     Abstract Focusing on the use of formal methods for HPC software design, and in particular for MPI-based  The case study in this paper involves one-sided communication, applies to a published algorithm, and  It is also an accurate record of one of our earliest case studies that helped us
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.946
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Test template framework: A specification-based testing case study
+     Author ['P Stocks', 'D Carrington']
+     Venue … international symposium on Software testing …
+     Year 1993
+     Abstract soft- ware testing, and is yet another good reason for using formal methods in software  situations, and comparing methods because they can be used on the same case study. Popular testing case studies are symbol tables [Hay86, HS91], and other simple data structures such
+     Url https://dl.acm.org/doi/abs/10.1145/154183.154190
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract The added qual- ity, however, decreased the overall cost of software development because of the huge savings in testing  See also Craigen et al. [1993a, 1993b, 1994, 1995] for a description of 12 case studies in formal methods (most cited in the preceding)
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Agedis case studies: Model-based testing in industry
+     Author ['I Craggs', 'M Sardis', 'T Heuillard']
+     Venue Proc. 1st Eur. Conf. on Model Driven …
+     Year 2003
+     Abstract These case studies are of the smaller end of the industrial testing scale  Bozga, Jean-Claude Fernandez, Lucian Ghirvu, Susanne Graf, Jean-Pierre Krimm, Laurent Mounier, World Congress on Formal Methods, 1999, pp  [8.1] Report on AGEDIS Testing Case Study 1, Kenneth
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.5600&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Applying formal methods to PCEP: an industrial case study from modeling to test generation
+     Author ['I Hwang', 'AR Cavalli', 'M Lallali']
+     Venue Software Testing …
+     Year 2012
+     Abstract This paper presents the experimental results in applying formal methods to an industrial protocol for constraint‐based path computation, called Path Computation Element Communication Protocol (PCEP). The experiments include a number of major activities in
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/stvr.445
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Cˆote de Resyste--Automated model based testing
+     Author ['GJ Tretmans', 'E Brinksma']
+     Venue NA
+     Year 2002
+     Abstract Formal methods provide a rigorous and sound basis for algorithmic and automatic generation of tests  During several case studies it turned out desirable to have different test runs executed after each other  The first case study within Côte de Resyste was the Con- ference Protocol
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/176037/176037.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Case study: Paris metro signaling system
+     Author ['S Gerhart', 'D Craigen', 'T Ralston']
+     Venue IEEE Software
+     Year 1994
+     Abstract R6-1 91 The authors' biographies are on p.28. CASE STUDY: TRAFFIC ALERT AND COLLISION· AVOIDANCE SYil EM  1993. 3. D. Craigen, S. Gerhart, and T. Ralston, "An International Survey uflndustrial Applications of Formal Methods, Volume 2 Case Studies," 'lech
+     Url https://ieeexplore.ieee.org/abstract/document/1279941/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Using formal methods to increase confidence in a home network system implementation: a case study
+     Author ['L Du Bousquet', 'M Nakamura', 'B Yan', 'H Igaki']
+     Venue Innovations in Systems and …
+     Year 2009
+     Abstract Using formal methods to increase confidence in a home network system implementation: a case study Lydie du Bousquet · Masahide Nakamura · Ben Yan · Hiroshi Igaki  Keywords Formal methods · Validation by testing · Home network system 1 Introduction
+     Url https://link.springer.com/article/10.1007/s11334-009-0092-5
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Using algebraic specifications in software testing: a case study on the software of an automatic subway
+     Author ['P Dauchy', 'MC Gaudel', 'B Marre']
+     Venue Journal of Systems and Software
+     Year 1993
+     Abstract Moreover, formal methods provide a formal frame- work for the study of “black box testing” (also  These methods look very attractive, but they still need to be tested on realistic case studies. This article reports such a case study: the piece of soft- ware considered is the onboard
+     Url https://www.sciencedirect.com/science/article/pii/016412129390025S
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Constructing CORBA-supported oracles for testing: a case study in automated software testing
+     Author ['P Fenkam', 'H Gall', 'M Jazayeri']
+     Venue Proceedings 17th IEEE …
+     Year 2002
+     Abstract We present a case study of the technique applied to a Java application for generic access control  An intermediate solution is obtained by applying lightweight formal methods  This process is also called formal testing or specification based testing
+     Url https://ieeexplore.ieee.org/abstract/document/1115003/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title The application of formal methods to the assessment of high integrity software
+     Author ['RE Bloomfield', 'PKD Froome']
+     Venue IEEE Transactions on Software …
+     Year 1986
+     Abstract and the Prolog animation was an effective oracle for back-to-back testing of the implementation. Although formal methods have overwhelming theoretical advan- tages over informal documentation and analysis, we were well aware when embarking upon this case study of the
+     Url https://ieeexplore.ieee.org/abstract/document/6313053/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Testing MATIS: A case study on specification-based testing of interactive systems
+     Author ['I MacColl', 'D Carrington']
+     Venue Formal Aspects of HCI (FAHCI98)
+     Year 1998
+     Abstract Page 1. Testing MATIS: a case study on speci cation-based testing of interactive systems Ian MacColl ianm@csee.uq.edu.au David Carrington davec@csee.uq.edu.au Software Veri cation Research Centre Department of Computer
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.8267&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Specification-based class testing: A case study
+     Author ['I MacColl', 'L Murray', 'P Strooper']
+     Venue … Conference on Formal …
+     Year 1998
+     Abstract Page 1. Specification-based class testing: A case study Ian MacColl ianm Leesa Murray leesam Paul Strooper pstroop David Carrington davec  Abstract This paper contains a case study demonstrating a com- plete process for specification-based class testing
+     Url https://ieeexplore.ieee.org/abstract/document/730586/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title An International Survey of Industrial Applications of Formal Methods. Volume 2. Case Studies
+     Author ['DH Craigen', 'SL Gerhart', 'TJ Ralston']
+     Venue NA
+     Year 1993
+     Abstract Earlier drafts of the case studies were reviewed by the relevant participants. I I I Manuscript approved April 14, 1993. 3 Page 7. 2  4. Few errors were discovered in reviews and testing, although it proved difticult to adduce this exclusively to formal methods since object-oriented
+     Url https://apps.dtic.mil/sti/citations/ADA272179
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Models, numbers, and cases: methods for studying international relations
+     Author ['Y Nahmias-Wolinsky']
+     Venue NA
+     Year 2004
+     Abstract Case Study Methods in International Security Studies Arie M. Kacowicz Part II  The proliferation of statistical and formal methods of analysis has been striking, alongside more systematic employment of qualitative case studies
+     Url https://books.google.com/books?hl=en&lr=&id=o0iOOrN3DQIC&oi=fnd&pg=PR7&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Testing%22&ots=t5IiIIv9FF&sig=pUYEOK4rCZ9S9fLF3LW4YLA-kHs
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Heuristic-driven test case selection from formal specifications. A case study
+     Author ['JC Burguillo-Rial', 'MJ Fernández-Iglesias']
+     Venue … of Formal Methods …
+     Year 2002
+     Abstract It can be seen as a framework to evaluate and select test suites using formal methods, assisted by informal heuristics. This proposal is illustrated with a practical case study: the testing of a protocol for mobile auctions in a distributed, wireless environment
+     Url https://link.springer.com/chapter/10.1007/3-540-45614-7_4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Standardization of formal methods in conformance testing of communication protocols
+     Author ['AR Cavalli', 'JP Favreau', 'M Phalippou']
+     Venue Computer Networks and ISDN …
+     Year 1996
+     Abstract an easy comparison between methods, which greatly vary (languages taken as input, format of the tests, semi-automatic or fully automatic, theoretically- based or empirically-developed), a common case study, based on  Framework: Formal methods in conformance testing
+     Url https://www.sciencedirect.com/science/article/pii/S0169755296000153
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Reasoning about software architecture-based regression testing through a case study
+     Author ['H Muccini', 'M Dias']
+     Venue 29th Annual International …
+     Year 2005
+     Abstract Page 7. approach was applied to the Cargo Router case study and some results have been collected  [5] RH Carver and K.-C. Tai. Use of Sequencing Con- straints for Specification-Based Testing of Concurrent Pro- grams  [8] Formal Methods for Software Architectures
+     Url https://ieeexplore.ieee.org/abstract/document/1508109/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Generation of test sequences from formal specifications: GSM 11‐11 standard case study
+     Author ['E Bernard', 'B Legeard', 'X Luck']
+     Venue Software: Practice and …
+     Year 2004
+     Abstract Formal methods are mostly used in safety-critical domains to produce high-quality software or  This is not too restrictive; in various case studies (process scheduler [17], protocol T = 1 [24  The objective of the case study presented here was to evaluate the coverage and quality of
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.597
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Case studies in learning-based testing
+     Author ['L Feng', 'S Lundmark', 'K Meinke', 'F Niu']
+     Venue … Conference on Testing …
+     Year 2013
+     Abstract (This will be seen in case study 3 of Section 4.3.) For user requirements modeling, the formal language currently  A significant contribution of LBTest is its support for liveness testing. Our case studies in Section 4 will provide examples of both safety and liveness testing
+     Url https://link.springer.com/chapter/10.1007/978-3-642-41707-8_11
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title An international survey of industrial applications of formal methods
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue Z User Workshop, London 1992
+     Year 1993
+     Abstract Page 2. 2 2 Case Studies In brief, the twelve cases were:1  [10] Susan Gerhart, Dan Craigen, Ted Ralston. Observations on Industrial Practice Using Formal Methods  A Case Study in Cleanroom Software Engineering: the IBM COBOL Structuring Facility
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-3556-2_1
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Combining testing and proof to gain high assurance in software: a case study
+     Author ['P Bishop', 'R Bloomfield', 'L Cyra']
+     Venue 2013 IEEE 24th International …
+     Year 2013
+     Abstract We present a case study of the application of our approach to the analysis and testing of the software-implemented transfer function in a smart sensor. This demonstrated that relatively low levels of effort were needed to apply the approach
+     Url https://ieeexplore.ieee.org/abstract/document/6698924/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Testing real-time embedded software using UPPAAL-TRON: an industrial case study
+     Author ['KG Larsen', 'M Mikucionis', 'B Nielsen']
+     Venue Proceedings of the 5th …
+     Year 2005
+     Abstract UPPAAL-TRON is a new tool for model based online black-box conformance testing of real-time embedded systems specified as timed automata. In this paper we present our experiences in apply- ing our tool and technique on an industrial case study
+     Url https://dl.acm.org/doi/abs/10.1145/1086228.1086283
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title The automated production control documentation system: a case study in cleanroom software engineering
+     Author ['CJ Trammell', 'LH Binder', 'CE Snyder']
+     Venue ACM Transactions on Software …
+     Year 1992
+     Abstract under new sponsorship. This summary of the Cleanroom case study con  ongoing peer review within a small, well-qualified team, — use of the formal methods of Box Structure specification and design, functional verification, and statistical testing, and
+     Url https://dl.acm.org/doi/abs/10.1145/125489.122826
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Model-based security testing using umlsec: A case study
+     Author ['J Jürjens']
+     Venue Electronic Notes in Theoretical Computer Science
+     Year 2008
+     Abstract Due to space restrictions, a more detailed discussion of the results from this case-study has to be deferred to a longer version of this paper  4 Related Work There has been an increasing amount of work on the interaction between formal methods and testing, see [3,16,8,2
+     Url https://www.sciencedirect.com/science/article/pii/S1571066108004453
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal specification and validation at work: A case study using VDM-SL
+     Author ['S Agerholm', 'PJ Lecoeur', 'E Reichert']
+     Venue … workshop on Formal methods in …
+     Year 1998
+     Abstract One of their case studies in the terrestrial transportation domain concerns the use of the formal  they were afraid that the case study might be too complex for the case study  well-known to engineers, in contrast to other techniques typically associated with formal methods such as
+     Url https://dl.acm.org/doi/pdf/10.1145/298595.298861
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Practitioners' views on the use of formal methods: an industrial survey by structured interview
+     Author ['C Snook', 'R Harrison']
+     Venue Information and Software Technology
+     Year 2001
+     Abstract 3, Completed case study — bidding for contracts  As with most case studies, the cause of this improvement cannot be identified with certainty to the use of formal methods, since other factors such as culture may be atypical, but it does provide a positive empirical indication of
+     Url https://www.sciencedirect.com/science/article/pii/S095058490000166X
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Model-based testing of a wap gateway: an industrial case-study
+     Author ['A Hessel', 'P Pettersson']
+     Venue … Workshop on Parallel and Distributed Methods in …
+     Year 2006
+     Abstract 116–131, 2007. c© Springer-Verlag Berlin Heidelberg 2007 Page 2. Model-Based Testing of a WAP Gateway: An Industrial Case-Study 117  Page 4. Model-Based Testing of a WAP Gateway: An Industrial Case-Study 119 Time Initiator Responder Invoke Invoke Ack Result
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70952-7_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Protocol conformance testing a SIP registrar: An industrial application of formal methods
+     Author ['BK Aichernig', 'B Peischl', 'M Weiglhofer']
+     Venue … and Formal Methods …
+     Year 2007
+     Abstract This article contributes to the field of testing reactive sys- tems in several aspects  regarding (problem-tailored) abstractions and, unlike to the majority of conducted case studies, provide rationales  Fifth IEEE International Conference on Software Engineering and Formal Methods
+     Url https://ieeexplore.ieee.org/abstract/document/4343938/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal specification and documentation using Z: A case study approach
+     Author ['JP Bowen']
+     Venue NA
+     Year 1996
+     Abstract for those who may not wish to read the later more detailed case study chapters  Z for the design and documentation of network services and during some case studies of existing  The initial barrier to using formal methods is the notation, which may contain unfamiliar symbols, and
+     Url http://images4.wikia.nocookie.net/__cb20091031155410/formalmethods/images/4/4e/Zbook.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Regulatory case studies
+     Author ['S Gerhart', 'D Craigen', 'T Ralston']
+     Venue High-Integrity System …
+     Year 2012
+     Abstract Regulatory Case Studies Susan Gerhart, Dan Craigen, and Ted Ralston 1. Case Study: Darlington Nuclear  Although applying formal methods to the control logic constituted substantial effort, the actual amount of code was small: There are 6000 lines of assembly dis
+     Url https://books.google.com/books?hl=en&lr=&id=eT7uBwAAQBAJ&oi=fnd&pg=PA429&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22Testing%22&ots=bWatJAN4MD&sig=6Ksf6CP6e6cf_tmXVMf852FeBao
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Combinatorial testing for an automotive hybrid electric vehicle control system: a case study
+     Author ['G Dhadyalla', 'N Kumari', 'T Snell']
+     Venue … on Software Testing …
+     Year 2014
+     Abstract B. Test oracles The need for appropriate test oracles for any testing is important  termed embedded assertions and is described by the author as lightweight formal methods, where the  than the development of the system itself and therefore impractical in the presented case study
+     Url https://ieeexplore.ieee.org/abstract/document/6825638/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Towards a theory for integration of mathematical verification and empirical testing
+     Author ['M Lowry', 'M Boyd', 'D Kulkami']
+     Venue Proceedings 13th IEEE …
+     Year 1998
+     Abstract types of V&V methods, it is possible to integrate the use of testing with formal methods in such  Section 2 describes a framework for integration, and section 3 presents a NASA case study, in which the  A longer technical report describes further case studies [4] and generalizations
+     Url https://ieeexplore.ieee.org/abstract/document/732690/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Generation of functional test sequences from B formal specifications presentation and industrial case-study
+     Author ['B Legeard', 'F Peureux']
+     Venue Proceedings 16th Annual International …
+     Year 2001
+     Abstract 3 Contribution of the method The main results of a case-study managed with SCHLUMBERGER are given  Program development by re- jinement - Case studies using the B method  FME'93: Industrial Strength Formal Methods Europe, LNCS 670:268-284,1993
+     Url https://ieeexplore.ieee.org/abstract/document/989833/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Generating structurally complex test cases by data mutation: A case study of testing an automated modelling tool
+     Author ['L Shan', 'H Zhu']
+     Venue The Computer Journal
+     Year 2009
+     Abstract Section 4 reports a case study with the method on testing a modelling tool  The advantages of the testing method are shown by a case study of testing more complicated software in Section 4. Suppose we are to test a triangle classification program
+     Url https://ieeexplore.ieee.org/abstract/document/8130778/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Formal verification in hardware design: a survey
+     Author ['C Kern', 'MR Greenstreet']
+     Venue ACM Transactions on Design Automation of …
+     Year 1999
+     Abstract overcoming some of the limitations of traditional validation techniques such as simulation and testing. There are two main aspects to the application of formal methods in a design  limitations of currently available techniques, we present a selection of case studies where formal
+     Url https://dl.acm.org/doi/abs/10.1145/307988.307989
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title An International Survey of Industrial Applications of Formal Methods. Volume 1: Purpose, Approach, Analysis, and Conclusions
+     Author ['DH Craigen', 'SL Gerhart', 'TJ Ralston']
+     Venue NA
+     Year 1993
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title SOFL: A formal engineering methodology for industrial applications
+     Author ['S Liu', 'AJ Offutt', 'C Ho-Stuart', 'Y Sun']
+     Venue IEEE Transactions on …
+     Year 1998
+     Abstract In Section 4, we evaluate SOFL in the light of the case study  be used for risk analysis as in the Spiral model [30], but the use of formal methods can improve the  Testing should be conducted to verify the system against both the informal user requirements (system testing) and the
+     Url https://ieeexplore.ieee.org/abstract/document/663996/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"Testing"
+     Title Bridging the gap between cots product reuse and formal methods: A case study
+     Author ['E Addy', 'M Sitaraman']
+     Venue NA
+     Year 1998
+     Abstract understanding and formal reasoning, precise descriptions of the interfaces also guide the testing that must be performed on the COTS product and integration testing. Page 2. Bridging the Gap Between COTS Product Reuse and Formal Methods 2 The case study, on which this
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.30.9638&rep=rep1&type=pdf
+

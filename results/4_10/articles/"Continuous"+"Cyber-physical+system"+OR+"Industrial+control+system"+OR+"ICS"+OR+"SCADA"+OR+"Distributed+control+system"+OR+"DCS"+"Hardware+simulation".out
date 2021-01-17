@@ -1,0 +1,91 @@
+Showing papers for search query "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Smart Grid Testbed using SCADA Software and Xbee Wireless Communication
+     Author ['A Soetedjo', 'A Lomi', 'YI Nakhoda']
+     Venue (IJACSA) International Journal of …
+     Year 2015
+     Abstract The proposed testbed combines both the software simulation and the hardware simulation. The Winlog SCADA software is employed to implement the algorithm in the Smart Grid  show that the proposed testbed works properly in simulating the continuous supply algorithm
+     Url http://eprints.itn.ac.id/3140/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract Accurate and Reliable production of process data is essential to continuous process improvement  PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract dynamic [19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Good Vibrations: Modal Dynamics for Graph- ics and Animation  Theory of Vibration, Volume II: Discrete and Continuous Systems
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract frequency of the emulation part would be useful to impose a continuous current idcm  Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A per-unit hardware-in-the-loop simulation of a fuel cell/battery hybrid energy system
+     Author ['L Gauchia', 'J Sanz']
+     Venue IEEE Transactions on Industrial Electronics
+     Year 2009
+     Abstract As in the case of the vehicle simulator, the interaction between the software and hardware simulation of the fuel  The fuel cell will be in continuous operation, even  12 presents the simulated fuel cell current measured by a current transducer at the Sorensen DCS power source
+     Url https://ieeexplore.ieee.org/abstract/document/5340635/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract Despite the high-speed internal dynam- ics of the power electronics-based apparatus, the system- level interactions may not require a very small time-step  With continuous customer support, these simulators can be used to accommodate any special needs of the consumers
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Development of SCADA system for Turbocharger testing
+     Author ['SN Lakade', 'SU Bhandari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract And lastly in section V, results for hardware simulation is given  8. PLC is also sending continuous ON/OFF signal to ventilation system and ventilation system sends feedback signal to PLC that it it operating  There are total 12 electrical panels needed to build SCADA system
+     Url https://ieeexplore.ieee.org/abstract/document/7860134/
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract power system simulators apply the discrete step to approximate the continuous process, while  speed, and close practicality; (2) the application of a hardware simulation into the  system (WAMS) security, and supervisory control and data acquisition (SCADA) security analysis
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Continuous"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract We apply the same concept towards transparent hardware simulation envi- ronment  the circuit implementation with the IC 74283 working in the breadboard, and ICs 74169, 7410  Integrating Discrete Event and Continuous Complex Dynamic Systems, 2 ed. Academic Press, 2000
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+

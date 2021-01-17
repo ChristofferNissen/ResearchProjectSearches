@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract 19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Good Vibrations: Modal Dynamics for Graph- ics and Animation  Non-linear and anisotropic elastic soft tissue models for medical simulation
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Understanding the memory performance of data-mining workloads on small, medium, and large-scale cmps using hardware-software co-simulation
+     Author ['W Li', 'E Li', 'A Jaleel', 'J Shan', 'Y Chen']
+     Venue … Analysis of Systems …
+     Year 2007
+     Abstract simulators, FPGA-based hardware simulation has been  ics which is used to identify the similar and divergent re- gions between two sequences  applications including credit approval, medical diagnosis, performance prediction, and selective marketing. 2.5
+     Url https://ieeexplore.ieee.org/abstract/document/4211020/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Eigenskin: real time large deformation character skinning in hardware
+     Author ['PG Kry', 'DL James', 'DK Pai']
+     Venue Proceedings of the 2002 ACM SIGGRAPH …
+     Year 2002
+     Abstract a) FEM simulated pose b) SSD only c) EigenSkin d) Real time hardware simulation  PENTLAND, A., AND WILLIAMS, J. July 1989. Good vibrations: Modal dynam- ics for graphics and animation  Non-linear and anisotropic elastic soft tissue models for medical simulation
+     Url https://dl.acm.org/doi/abs/10.1145/545261.545286
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract In such a case, the hardware is designed for a specific application, as for example in the case of bio-medical artefacts (Akay  biophysical models following the Hodgkin–Huxley (HH) formalism, in order to address two fields of research: (i) build a hardware simulation system for
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Cyber-Physical Systems: A New Paradigm for Energy Technology Development
+     Author ['D Tucker', 'P Pezzini', 'KM Bryden']
+     Venue ASME Power …
+     Year 2018
+     Abstract building a cyber-physical test facility would provide a reconfigurable hardware simulation capable of  In this regard, SCADA systems are used for implementing or advising multi-objective  The cyber-physical system hardware was physically coupled to a gas turbine, exhaust gas
+     Url https://asmedigitalcollection.asme.org/POWER/proceedings-abstract/POWER2018/51395/V001T04A001/277478
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Design of Embedded Linux Simulation Development Environment
+     Author ['W WANG', 'Z WU']
+     Venue Computer Simulation
+     Year 2005
+     Abstract software/hardware cooperate.To meet the requirement we discussed current software/hardware simulation technologies  4, Zhang Zuying;Research on Ethernet-based Board-type DCS Application Technology[J];Computer  5, ;Design of a Medical Balanced Device[J];;2006-22
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JSJZ200509069.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Understanding the Memory Performance of Data-Mining Workloads on Small, Medium, and Large-Scale CMPs Using Hardware-Software Co-simulation
+     Author ['W Li', 'E Li', 'A Jaleel', 'J Shan', 'Y Chen', 'Q Wang']
+     Venue … Analysis of Systems & …
+     Year 2007
+     Abstract on,an,Intel®g,Xeon®g,machine.,simulators,,FPGA-based,hardware,simulation,has,been  an,important,tool,in,,bioinformat2.2.,Classification,and,Prediction,Workloads,ics,which,is  mon,substring,in,sequences.,applications,including,credit,approval,,medical,diagnosis
+     Url https://www.computer.org/csdl/proceedings-article/ispass/2007/04211020/12OmNwHQB7S
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Time accurate simulation: Making a pc behave like a 8-bit embedded cpu
+     Author ['J Engblom', 'M Nilsson']
+     Venue Uppsala University and CC Systems AB …
+     Year 2002
+     Abstract hardware is too dan- gerous to test early software on (weapons systems and medical equipment  The Sim- ICS extension called SimICS Central [9] builds on an idea similar to our  at the call to the programming interface in the application code, or the hardware simulation code is
+     Url http://user.it.uu.se/~jakob/publications/tr-2002-024.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Simultaneously driving a hardware device and a software model during a test
+     Author ['MT Moore', 'V So', 'PK Jha']
+     Venue US Patent 7,017,097
+     Year 2006
+     Abstract of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in  en) *, 2009-09-30, 2011-03-31, Nellcor Puritan Bennett Llc, Evaluation Kit For Medical Monitoring Module  Custom IC hardware modeling using standard ICs for use in IC design validation
+     Url https://patents.google.com/patent/US7017097B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Design of PLC Experimental System Based on Siemens S7-200 [J]
+     Author ['J JIANG', 'Y LIU', 'M DENG', 'H HUANG']
+     Venue Research and Exploration in …
+     Year 2008
+     Abstract The system makes full use of soft-hardware simulation technology,MCU application technology, USB  212013,China) Chen Jianfeng Zhao Dean;Study and Design of DCS System Based  Jin-yang1,LU Jing1,CHEN Bing-hong2,SHI Heng2 (1.Shanghai Medical Instrument College
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYSY200808071.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Implementation of health monitoring system using mixed environment
+     Author ['N Sinha', 'V Ravi']
+     Venue Indian Journal of Science and Technology
+     Year 2015
+     Abstract is modelled in this paper by using a mixed software and hardware simulation environment  Proceedings 12th Nordic Baltic Conference on Bio- medical Engineering and Medical Physics; 2002 Jun  E, Momose S, Sansen WA single chip CMOS transceiver for DCS-1800 wireless
+     Url https://www.researchgate.net/profile/Ravi_V2/publication/283788462_Implementation_of_Health_Monitoring_System_using_Mixed_Environment/links/58062fa208ae5ad188162523/Implementation-of-Health-Monitoring-System-using-Mixed-Environment.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A compiler for biological networks on silicon chips
+     Author ['JK Medley', 'J Teo', 'SS Woo', 'J Hellerstein']
+     Venue PLoS computational …
+     Year 2020
+     Abstract E-mail: kyle@how2cell.com. Current address: Stowers Institute for Medical Research, Kansas City, Missouri, United States of America. Affiliation Department of Bioengineering, University of Washington, Seattle, Washington, United States of America
+     Url https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008063
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title 20 Hardware Protection through Logic Obfuscation
+     Author ['J Pathak', 'SL Tripathi']
+     Venue Advanced VLSI Design and Testability …
+     Year 2020
+     Abstract Future works for security on different technologies such as 3D ICs can be a major turn in providing a much higher level of security against reverse  8–9 FPGA, 5, 10–14 GAL, 5, 8 PAL, 5, 6–7 PLA, 5, 7–8 Field-programmable gate array (FPGA) applications in medical imaging, 14
+     Url https://books.google.com/books?hl=en&lr=&id=OBn0DwAAQBAJ&oi=fnd&pg=PA339&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Medical%22&ots=WN2Munio0s&sig=Xh7h8SfmafKc8aN_5ZaZP6GBOwM
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Advanced integrated-circuit reliability simulation including dynamic stress effects
+     Author ['WJ Hsu', 'BJ Sheu', 'SM Gowda']
+     Venue IEEE journal of solid …
+     Year 1992
+     Abstract For system operation involving hu- man safety such as flight control, or electronic pace- makers in medical applications, loss of  Through the use of high-level description languages for hardware simulation, the reliability performance resulting from detailed circuit reliability
+     Url https://ieeexplore.ieee.org/abstract/document/121545/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A Parametric EIT System Spice Simulation with Phantom Equivalent Circuits
+     Author ['C Dimas', 'N Uzunoglu', 'PP Sotiriadis']
+     Venue Technologies
+     Year 2020
+     Abstract 2012), the KHU Mark 2.5 system (2014) [9] and the ACE1 pulmonary real-time imaging system(2019) [1]. Over the years, many design and configuration improvements have taken place, targeted to the acquired medical images' quality  All ICs were supplied with +/− 15 Volts
+     Url https://www.mdpi.com/2227-7080/8/1/13
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A binary-constraint search algorithm for minimizing hardware during hardware/software partitioning
+     Author ['F Vahid', 'DD Gajski', 'J Gong']
+     Venue EURO-DAC
+     Year 1994
+     Abstract The pre- cision factor used in BCS is 5%. We applied each algorithm to several examples: a real-time medical system (Volume) for measuring volume, a beam former system (Beam), a fuzzy logic control system (Fuzzy), and a microwave trans- mitter system (Microwave)
+     Url https://www.researchgate.net/profile/Daniel_Gajski/publication/220811471_A_Binary-Constraint_Search_Algorithm_for_Minimizing_Hardware_during_HardwareSoftware_Partitioning/links/00b7d5323295e3d31b000000/A-Binary-Constraint-Search-Algorithm-for-Minimizing-Hardware-during-Hardware-Software-Partitioning.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Software Performance Estimation for Toshiba TLCS-R3900
+     Author ['ES Chang', 'DD Gajski']
+     Venue NA
+     Year 1996
+     Abstract echang@ics.uci.edu Abstract  The comparison of these three ap- proaches are summarized in Table 1. In hardware simulation, system speci cation was  The medical system 6] contains many basic blocks (more than thirty) and each basic block only contains a few statements
+     Url https://www.researchgate.net/profile/Daniel_Gajski/publication/2288722_Software_Performance_Estimation_for_Toshiba_TLCS-R3900/links/551473220cf283ee0836247c/Software-Performance-Estimation-for-Toshiba-TLCS-R3900.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Software performance estimation for pipeline and superscalar processors
+     Author ['CY Huang', 'DD Gajski']
+     Venue NA
+     Year 1995
+     Abstract chu-yih@ics.uci.edu gajski@uci.edu  The comparison of these three approaches are summaried in Table 1. In hardware simulation, system speci cation was compiled  The three example are elliptical lter [10], medical system [9], and MPEG decoder [3]. The three processors are
+     Url http://www.ics.uci.edu/~cad/publications/tech-reports/1995/TR-95-20.pipelined_proc_estimation.ps.gz
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract based systems in terms of processing power, I/O capacity, reduced footprint and a reduction in number of ICs on the circuit  The international standard IEC 60601-1-4 (2000), on Programmable Electrical Medical Systems, states explicitly that it “goes beyond traditional testing and
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title High level modeling and validation methodologies for embedded systems: bridging the productivity gap
+     Author ['SK Shukla', 'SA Edwards', 'JP Talpin']
+     Venue … Conference on VLSI …
+     Year 2003
+     Abstract of networked computing, ubiquitous computing, extensive use of handheld devices, and bio-medical devices, embedded  Verilog provides more primitives geared specifically toward hardware simulation  irisa.fr/prive/talpin [4] Rajesh K. Gupta's webpage: http://www.ics.uci.edu
+     Url https://ieeexplore.ieee.org/abstract/document/1183104/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Design and performance of an enhanced IEEE 802.11 MAC protocol for multihop coverage extension
+     Author ['FHP Fitzek', 'D Angelini', 'G Mazzini']
+     Venue IEEE Wireless …
+     Year 2003
+     Abstract The solution we propose leverages on the fact that multiple channels are available in the indus- trial, scientific, and medical (ISM) band used for WLANs, so the handshake used for contention and channel allocation can be segregated from the actual user traffic
+     Url https://ieeexplore.ieee.org/abstract/document/1265850/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A Hardware Platform for Communication and Localization Performance Evaluation of Devices inside the Human Body
+     Author ['S Li']
+     Venue NA
+     Year 2012
+     Abstract 2 human body, these software tools' limitations is they cannot be put to use for connecting real- world medical devices, which are necessary prerequisites to real-world field measurement. For  With future study, our work can be extended into a cyber-physical system. Cyber
+     Url https://digitalcommons.wpi.edu/etd-theses/876/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract of high-level PC software to control PLCs for multiple telescopes, this paper examines the development of PLC programs to operate the hardware of a medical cyclotron beamline controlled from a PC using the Experimental Physics and Industrial Control System (EPICS), which
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Method for measuring the effect of microscopic hardware faults in high-complexity applications implemented in a hardware electronic system, and corresponding …
+     Author ['R Mariani']
+     Venue US Patent 9,898,379
+     Year 2018
+     Abstract irradiation of the component with alpha particles). When hardware-fault injections are carried out at a level of hardware simulation of the electronic system, as indicated, for example, in the US Pat. No. 7,472,051 B2 filed in the name
+     Url https://patents.google.com/patent/US9898379B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A hardware-software partitioning algorithm for minimizing hardware
+     Author ['F Vahid', 'J Gong', 'DD Gajski']
+     Venue NA
+     Year 1993
+     Abstract vahid@ics.uci.edu jgong@ics.uci.edu  The PartAlg() used in PWHC and BCS is group migration [6]. The accu- racy factor used in BCS is 1%. We applied each algorithm to several examples: a real-time medical system (Volume) for measuring the patient's urinary bladder volume
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.4750&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Hybrid Linux System Modeling with Mixed-Level Simulation
+     Author ['JCV Mesquita']
+     Venue NA
+     Year 2016
+     Abstract crowaves) to industrial automation (robotics), automotive components (antilock brakes), military defense systems, energy generation, medical equipment (cardiac monitors) and networking components (routers, hubs, gateways), embedded sys
+     Url https://repositorium.sdum.uminho.pt/handle/1822/46603
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title FPGA implementation of semi-fragile reversible watermarking by histogram bin shifting in real time
+     Author ['S Hazra', 'S Ghosh', 'S De', 'H Rahaman']
+     Venue Journal of Real-Time Image …
+     Year 2018
+     Abstract without the non-recurring engineering (NRE) costs that are associated with fabrication of ICs  Hardware implementation of a RW scheme for radiological medical images is proposed in [28]  The hardware simulation for the section images is performed using the Spartan-3E
+     Url https://link.springer.com/article/10.1007/s11554-017-0672-9
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Efficient space leaping for ray casting architectures
+     Author ['M Meißner', 'M Doggett', 'J Hirche', 'U Kanus']
+     Venue Volume Graphics 2001
+     Year 2001
+     Abstract However, our hardware simulation takes 36 hours to render a 2563 dataset, making the  Research, Hamburg, Germany, the skull dataset is courtesy of Siemens Medical Systems, Forchheim  In Eurograph- ics/SIGGRAPH Workshop on Graphics Hardware, pages 129-136, August
+     Url https://link.springer.com/chapter/10.1007/978-3-7091-6756-4_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Cellfast: Interactive unstructured volume rendering and classification
+     Author ['CM Wittenbrink', 'HJ Wolters', 'M Goss']
+     Venue Data Visualization
+     Year 2003
+     Abstract Demonstration of fluid flow, medical simulation, and medical imaging datasets are provided  Display lists allow the graph- ics drivers to optimize vertices, colors, and triangle strips  Delaunay triangulation, processing of the output of CellFast into a hardware simulation has shown
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-1177-9_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title System and method for configuring a programmable hardware instrument to perform measurement functions utilizing estimation of the hardware implentation and …
+     Author ['JL Kodosky', 'H Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2003
+     Abstract US6608638B1 - System and method for configuring a programmable hardware instrument to perform measurement functions utilizing estimation of the hardware implentation and management of hardware resources - Google Patents
+     Url https://patents.google.com/patent/US6608638B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title System and method for configuring an instrument to perform measurement functions utilizing conversion of graphical programs into hardware implementations
+     Author ['JL Kodosky', 'H Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2004
+     Abstract US6784903B2 - System and method for configuring an instrument to perform measurement functions utilizing conversion of graphical programs into hardware implementations - Google Patents. System and method for configuring
+     Url https://patents.google.com/patent/US6784903B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Low cost concurrent test implementation for linear digital systems
+     Author ['I Bayraktaroglu', 'A Orailoglu']
+     Venue Proceedings IEEE European Test …
+     Year 2000
+     Abstract Manufacturing test provides a relatively easy way of eliminating defective ICs  Signal processing is employed in many mission critical applications, such as mil- itary, satellite, and medical  Simulation results in section 5 are followed by conclusions in section 6
+     Url https://ieeexplore.ieee.org/abstract/document/873791/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A fast power estimation method for content addressable memory by using systemC simulation environment
+     Author ['KL Tsai', 'IJ Tung', 'F Lai']
+     Venue IEICE Transactions on Fundamentals of …
+     Year 2013
+     Abstract “Parallelizing SystemC kernel for fast hardware simulation on SMP  He is a professor in the Graduate Institute of Biomedical Electron- ics and Bioinformatics, the Department of Com- puter  His current research interests are SOC low power computing, Medical Information System
+     Url https://www.jstage.jst.go.jp/article/transfun/E96.A/8/E96.A_1723/_article/-char/ja/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Research on Nuclear Safety Video Display Unit Technology Based on Digital Twin
+     Author ['Y Wu', 'Y Zhao', 'M Liu', 'W Jiang']
+     Venue International …
+     Year 2020
+     Abstract NASPIC is a nuclear safety level distributed control system independently developed by CNNC  With the actual DCS and virtual DCS, SVDU physical devices and models  application" simulation, board-level support package (BSP) simulation, and "SVDU hardware" simulation
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE2020/83778/V002T08A057/1088745
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Embedded Computing Systems and Hardware/Software Co-Design
+     Author ['WK Chen']
+     Venue Design Automation, Languages, and Simulations
+     Year 2003
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title ANGUISH: Security attack in narrowband‐Internet of Things (NB‐IoT) using game theory and hardware analysis
+     Author ['V Kumar', 'R Kumar Jha', 'S Jain']
+     Venue Transactions on Emerging …
+     Year 2020
+     Abstract network (WSN), machine to machine (M2M), software‐defined networking (SDN), supervisory control and data acquisition (SCADA), cloud computing  Reference, Objective, Modeling techniques, Game theory, SCA, Function of analysis (hardware/simulation), Bandwidth spoofing
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3987
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Impact of Hardware/Software Partitioning and MicroBlaze FPGA Configurations on the Embedded Systems Performances
+     Author ['I Mhadhbi', 'N Litayem', 'SB Othman']
+     Venue Complex System Modelling …
+     Year 2015
+     Abstract This work can contribute to enforce the security of SCADA (Supervision Control and Data  They incorporate many application areas such as telecommunication, avionics, automotive, medical implants, domestic  Discrete Event modeling is often used for hardware simulation
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12883-2_25
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Cooperative Intelligence for Remotely Piloted Vehicle Fleet Control. Analysis and Simulation
+     Author ['R Steeb', 'S Cammarata', 'S Narain', 'J Rothenberg']
+     Venue NA
+     Year 1986
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A methodology for design, test, and evaluation of real-time systems
+     Author ['KD Shere', 'RA Carlson']
+     Venue Computer
+     Year 1994
+     Abstract the KSs would be similar to those shown in Figure 4. There would be a targethackground model. a propagation model. a platform dynani- ics model, a sensor model. and a pro- cessing model. The processing model represents the sensor processing system
+     Url https://ieeexplore.ieee.org/abstract/document/261919/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A simple and efficient SNN and its performance & robustness evaluation method to enable hardware implementation
+     Author ['A Biswas', 'S Prasad', 'S Lashkare', 'U Ganguly']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract After training, performance evaluation requires more computation. Thus, to avoid complexity and computational cost for hardware simulation, a simple and small network with high performance on standard classification problems is needed
+     Url https://arxiv.org/abs/1612.02233
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title System and method for configuring a programmable hardware instrument to perform measurement functions utilizing estimation of the hardware implementation and …
+     Author ['JL Kodosky', 'H Andrade', 'BK Odom']
+     Venue US Patent App. 11 …
+     Year 2010
+     Abstract USRE41228E1 - System and method for configuring a programmable hardware instrument to perform measurement functions utilizing estimation of the hardware implementation and management of hardware resources - Google Patents
+     Url https://patents.google.com/patent/USRE41228E1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract CFG Control Flow Graph CNF Conjunction Normal Form CPS Cyber-physical System COI Cone-of-Influence  Inside the safety-critical group of applications, the most notable examples are automotive, aerospace, and medical. The automotive industry, for instance, has
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Residue Number System-Based Solution for Reducing the Hardware
+     Author ['NI Chervyakov', 'PA Lyakhov', 'MA Deryabin']
+     Venue NA
+     Year NA
+     Abstract of information from external sensors in unmanned land and aircraft vehicles [4], medical diagnostics  The efficiency of the proposed ap- proach is illustrated by hardware simulation on a Xilinx  gets accelerated 35.4 times compared to the NVIDIA GTX 1080 graph- ics processor
+     Url https://dspace.ncfu.ru/bitstream/20.500.12258/12151/2/WoS%20875%20.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Vortex Methods for Fluid Simulation in Computer Graphics
+     Author ['MA Vines Neuwirth']
+     Venue NA
+     Year 2013
+     Abstract I would also like to thank him for sharing his knowledge on fluid simulation for computer graph- ics, and for welcoming into the Exocortex team during my internship throughout our  ics, volume 26.6-10 (June-December), pages 407-434, 2012. M. Vines, and W.-S. Lee
+     Url https://ruor.uottawa.ca/handle/10393/23647
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Bit significance based reconfigurable approximate restoring dividers and square rooters
+     Author ['N Arya', 'T Soni', 'M Pattanaik', 'GK Sharma']
+     Venue Microelectronics Journal
+     Year 2020
+     Abstract 1. Introduction. The complexity and density of nanoscale digital integrated circuits (IC's) have increased tremendously leading to high power density. Leakage currents arising due to high power density decreases the ICs reliability thereby affecting its lifetime and robustness
+     Url https://www.sciencedirect.com/science/article/pii/S0026269220304602
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Simulators and emulators for WSNs
+     Author ['HMA Fahmy']
+     Venue Wireless sensor networks
+     Year 2016
+     Abstract In this chapter an in depth study of simulators and emulators has been presented, with care accorded to their features, implementation and use. Since emulators are hardware dependent, selecting one...
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0412-4_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Architecture-Centric Modeling, Analysis, and Verification of Cyber-Physical Systems
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue NA
+     Year 2016
+     Abstract The term cyber-physical system (CPS) was introduced by Helen Gill at the NSF referring to  improvement of many non-electronic products such as cars, airplanes, medical equipment, domestic  The cornerstone of SimSoC is a library of hardware simulation modules, that include
+     Url https://shonan.nii.ac.jp/docs/5296fabd2d5262bb0fd4870004bc2ac0e46b3015.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Fast simulation of stochastic biochemical reaction networks on cytomorphic chips
+     Author ['SS Woo']
+     Venue NA
+     Year 2016
+     Abstract Page 1. Fast Simulation of Stochastic Biochemical Reaction Networks on Cytomorphic Chips by Sung Sik Woo BS, Electrical Engineering KAIST (2009) SM, Electrical Engineering and Computer Science Massachusetts Institute of Technology (2012)
+     Url https://dspace.mit.edu/handle/1721.1/107292
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Medical"
+     Title Cognon Neural Model Software Verification and Hardware Implementation Design
+     Author ['PH Negre']
+     Venue NA
+     Year 2013
+     Abstract 1.1 Background In recent years, projects based upon massive hardware simulation of interconnected neurons  ics, art, music, and planning) occurs primarily in the neocortex, which is the most phylogenetically recent structure within the cerebral cortex
+     Url https://scholar.colorado.edu/downloads/5999n366z
+

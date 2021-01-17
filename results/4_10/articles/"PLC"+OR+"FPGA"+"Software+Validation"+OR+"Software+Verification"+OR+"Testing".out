@@ -1,0 +1,91 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Application dependent FPGA testing method
+     Author ['M Rozkovec', 'J Jenicek', 'O Novak']
+     Venue 2010 13th Euromicro …
+     Year 2010
+     Abstract Application dependent FPGA testing can reduce time and memory requirements comparing with the tests that exercise complete FPGA structure. This paper describes a methodology of FPGA testing that does not require reconfiguration of the tested hardware and thus it
+     Url https://ieeexplore.ieee.org/abstract/document/5615554/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based network device testing equipment for high load testing
+     Author ['K Toda', 'T Katashita', 'K Sakamaki', 'T Inui']
+     Venue US Patent …
+     Year 2011
+     Abstract Network device testing equipment capable of testing network devices using small size packets and for a transferring ability and a filtering ability at a media speed is described. A configuration is adopted in which a Field Programmable Gate Array (FPGA) included in a
+     Url https://patents.google.com/patent/US7953014B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Application-dependent testing of FPGA delay faults
+     Author ['A Krasniewski']
+     Venue … . Informatics: Theory and Practice for the New …
+     Year 1999
+     Abstract To ensure correct operation of an FPGA based system with regard to timing characteristics, an application-dependent FPGA testing, ie testing of an FPGA programmed to implement a user-defined function, must be performed. We propose a procedure for application
+     Url https://ieeexplore.ieee.org/abstract/document/794478/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Integrated testing of serializer/deserializer in FPGA
+     Author ['AH Lesea']
+     Venue US Patent 6,874,107
+     Year 2005
+     Abstract A field programmable gate array (FPGA) device includes a high-speed serializer/deserializer (SERDES). The field programmable gate array allows programmable built-in testing of the SERDES at operating speeds. A digital clock manager circuit allows
+     Url https://patents.google.com/patent/US6874107B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Interconnect testing in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue Proceedings of the 37th Annual Design Automation …
+     Year 2000
+     Abstract As IC densities are increasing, cluster-based FPGA architectures are becoming the architecture of choice for major FPGA manufacturers. A cluster-based architecture is one in which several logic blocks are grouped together into a coarse-grained logic block. While the
+     Url https://dl.acm.org/doi/abs/10.1145/337292.337310
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA Interconnect Delay Fault Testing.
+     Author ['E Chmelar']
+     Venue ITC
+     Year 2003
+     Abstract The interconnection network consumes the majority of die area in an FPGA. Presented is a scalable manufacturing test method for all SRAM-based FPGAs, able to detect multiple interconnect delay faults, multiple bridging faults, or both. An adjustable maximum sensitivity
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.8410&rep=rep1&type=pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title BIST-based delay path testing in FPGA architectures
+     Author ['IG Harris', 'PR Menon', 'R Tessier']
+     Venue … International Test Conference …
+     Year 2001
+     Abstract The widespread use of field programmable gate arrays (FPGAs) as components in high-performance systems has increased the significance of path delay faults in FPGAs. We present a technique for FPGA path delay fault detection which integrates test insertion with
+     Url https://ieeexplore.ieee.org/abstract/document/966717/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Application-independent testing of FPGA interconnects
+     Author ['MB Tahoori', 'S Mitra']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2005
+     Abstract We present a new automatic test-configuration-generation technique for application-independent manufacturing testing of the interconnection network of static-random-access-memory-based field programmable gate arrays (FPGAs). This technique targets detection of
+     Url https://ieeexplore.ieee.org/abstract/document/1522443/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automatic configuration generation for FPGA interconnect testing
+     Author ['MB Tahoori', 'S Mitra']
+     Venue Proceedings. 21st VLSI Test Symposium …
+     Year 2003
+     Abstract We present a new automatic test configuration generation technique for manufacturing testing of interconnect network of SRAM-based FPGA architectures. The technique guarantees detection of open and bridging faults in all wiring channels and programmable
+     Url https://ieeexplore.ieee.org/abstract/document/1197644/
+
+
+     Search term "PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing and diagnosis of interconnect faults in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2002
+     Abstract As IC densities are increasing, cluster-based field programmable gate arrays (FPGA) architectures are becoming the architecture of choice for major FPGA manufacturers. A cluster-base architecture is one in which several logic blocks are grouped together into a
+     Url https://ieeexplore.ieee.org/abstract/document/1047052/
+

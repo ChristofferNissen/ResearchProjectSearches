@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A classification of PLC models and applications
+     Author ['A Mader']
+     Venue Discrete Event Systems
+     Year 2000
+     Abstract past years there is an increasing interest in analysing PLC appli- cations with formal methods  The main difference to conventional systems is the operation mode: PLC programs are executed  makes PLCs suitable for control tasks and interaction with a continuous environment
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4493-7_24
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Similarly, hybrid systems (having both continuous and discrete states) can be subjected to  Formal methods for developing and verifying diagnostic codes have been proposed (Paoli &  However, even for networks consisting exclusively of interconnected PLC's, system level
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design of safe PLC programs by using Petri nets and formal methods
+     Author ['EI Gergely', 'L Coroiu', 'A Gacsadi']
+     Venue Recent Advances in Automation & …
+     Year 2010
+     Abstract programmable logic controllers (PLCs) are the main equipment of automation in all areas from single machines to manufacturing plants and continuous processes  A method to handle these requirements lies in the application of formal methods in the PLC program design
+     Url https://www.academia.edu/download/51320578/Design_of_safe_PLC_programs_by_using_Pet20170112-20346-1yjfaqp.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Comparing simulative and formal methods for the analysis of response times in networked automation systems
+     Author ['J Greifeneder', 'L Liu', 'G Frey']
+     Venue IFAC Proceedings Volumes
+     Year 2008
+     Abstract Comparing Simulative and Formal Methods for the Analysis of Response Times in Networked Automation Systems  It consists of a PLC, which is con- nected with two IO-modules through an  As the modeling process of NAS should be done in continuous time, whereas the model
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016397543
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A re-engineering approach for PLC programs using finite automata and UML
+     Author ['G Frey', 'MB Younis']
+     Venue Proceedings of the 2004 IEEE International …
+     Year 2004
+     Abstract been implemented in proprietary languages before a standard existed and even todrry formal methods are scarcely  complete, but it describes the primary steps for the transformation of the PLC programs into  Table 3) gives continuous light if the ma- chine is in the state "active
+     Url https://ieeexplore.ieee.org/abstract/document/1431431/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Re-engineering approach for PLC programs based on formal methods
+     Author ['MB Younis']
+     Venue NA
+     Year 2006
+     Abstract Visualization Re-Implem. SW-Quality Case Stud. Summary • Compound of OO, Internet, and formal methods Done PLC-Code Bosch PLC-Code IEC PLC-Code S5 Classification and Conversion algorithms SW Metrics Visualized Formal Description XML Transformation
+     Url https://pdfs.semanticscholar.org/49a6/5fe6f331e9eb04e7fa539373a7a91eda3b08.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract by VIRTCOM-Virtual preparation and commissioning of production systems including PLC logics, reference  This will enable continuous testing of the con- trol system, as described by Oppelt  VC models is ongoing (ie during preparation), work can be assisted by formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract For example, social context causes a continuous evolution of requirements for large complex  our discussions of software composition and a new paradigm of "Domain Specific Formal Methods."  been supported in part (for J. Goguen) by British Telecommunications plc, the CEC
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods: Promises and problems
+     Author ['JA Goguen']
+     Venue IEEE Software
+     Year 1997
+     Abstract Thus, any method you use to implement requirements should be flexible and robust, so that it can easily accommodate the inevitable and often continuous stream of changes. We sug- gest that you can more effectively use formal methods by ♦ putting more emphasis on formal
+     Url https://ieeexplore.ieee.org/abstract/document/566430/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of safety PLC based control software
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue … Conference on Integrated Formal Methods
+     Year 2016
+     Abstract Special thanks to Roberto Speroni for the cooperation and the continuous feedback. References  Sülflow, A., Drechsler, R.: Verification of PLC programs using formal proof techniques. In: Formal Methods for Automation and Safety in Railway and Automotive Systems, pp. 43–50
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33693-0_32
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title From formal methods to algorithmic implementation of human inspired control on bipedal robots
+     Author ['SN Yadukumar', 'M Pasupuleti', 'AD Ames']
+     Venue Algorithmic Foundations of …
+     Year 2013
+     Abstract Page 4. 514 SN Yadukumar, M. Pasupuleti, and AD Ames 2 Formal Methods for Bipedal Robot Modeling and Control  Zα = {(θ, ˙θ) ∈ TQR : yα(θ) = 0, LfR yα(θ, ˙θ) = 0} (10) invariant and exponentially stable for the continuous dynamics
+     Url https://link.springer.com/chapter/10.1007/978-3-642-36279-8_31
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automatic generation of PLC programs for control of flexible manufacturing cells
+     Author ['J Richardsson', 'M Fabian']
+     Venue EFTA 2003. 2003 IEEE Conference …
+     Year 2003
+     Abstract Formal methods, that is mathematical reasoning about system model properties  in a control tablc only contains sets of states it can be stored in a neutral format and loaded to PLC's of any  Another type of handshake, less frequent in manufacturing cells, is the continuous one
+     Url https://ieeexplore.ieee.org/abstract/document/1248719/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Experiences with the application of discrete formal methods to the development of engine control software
+     Author ['AJ Galloway', 'TJ Cockram', 'JA McDermid']
+     Venue IFAC Proceedings Volumes
+     Year 1998
+     Abstract It is supported by Rolls-Royce Plc, Lucas Aerospace and more recently British  Secondly, we have found that the formal methods which are conventionally used to verify  The requirements hail from continuous mathematical modeling of the engine and actuator dynamics and
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017363358
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLCverif: A tool to verify PLC programs based on model checking techniques
+     Author ['D Darvas', 'E Blanco Vinuela', 'B Fernández Adiego']
+     Venue NA
+     Year 2015
+     Abstract This paper focuses on this tool and on the bridge between the formal methods and PLC domains  The PLC codes are parsed using Xtext  It allowed us to set up a “continuous verification” workflow, where a Jenkins job automatically (re-)checks all verification cases on each SVN
+     Url https://cds.cern.ch/record/2213507
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract Praxis plc, 20 Manvers Street, Bath BA1 1PX, UK  WHAT ARE FORMAL METHODS  Traditional engineering relies on the mathematics of continuous functions, because it is concerned with describing systems that exhibit continuous behaviour, such as the bending of a steel
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of the sequential part of PLC programs
+     Author ['S Lampérière-Couffin', 'JJ Lesage']
+     Venue Discrete Event Systems
+     Year 2000
+     Abstract 0., Roussel 1.-M., and Lesage 1.-1., "Formal verification of PLC programs: a  S., and Ralston T., "An International Survey of Industrial Applications of Formal Methods", Volume I  S., Engell S., and Stursberg 0., "Verification of Logic Controllers for Continuous Plants", Advances in
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4493-7_25
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Prototype of Automated PLC Model Checking Using Continuous Integration Tools
+     Author ['M Lettrich']
+     Venue NA
+     Year 2015
+     Abstract With PLCverif, CERN has developed a tool showcasing that formal verifica- tion of PLC programs is possible and the complexity of using formal methods can be completely hidden from the developers. In this project, the ideas of continuous integration from off-the-shelf soft
+     Url https://cds.cern.ch/record/2056706
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An algebraic approach for PLC programs verification
+     Author ['JM Roussel', 'JM Faure']
+     Venue Sixth International Workshop on …
+     Year 2002
+     Abstract On the other hand the languages of the IEC 61131-3 standard are widely used for PLC program- ming and we will only consider programs  In order to provide a formal framework for binary signals, we pro- pose to represent them as piecewise-continuous functions from СЪ+Ѓ to
+     Url https://ieeexplore.ieee.org/abstract/document/1167703/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract commercially available modelling and simulation tools designed for simulating continuous systems [10  In this paper, some issues regarding PLC software verification methods are analyzed  Starting form the idea that formal methods are very useful but have limited applicability in
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract based on State- charts that allows hierarchical designs of discrete-continuous embedded systems  verification can be found in [9]. A semantic characterization of PLC programs based  front-end specification languages that are aimed at making formal methods more accessible
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An algebraic approach for PLC programs verification
+     Author ['JM Roussel', 'JM Faure']
+     Venue Sixth International Workshop on …
+     Year 2002
+     Abstract On the other hand the languages of the IEC 61131-3 standard are widely used for PLC program- ming and we will only consider programs  In order to provide a formal framework for binary signals, we pro- pose to represent them as piecewise-continuous functions from СЪ+Ѓ to
+     Url https://ieeexplore.ieee.org/abstract/document/1167703/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract Praxis plc, 20 Manvers Street, Bath BA1 1PX, UK  WHAT ARE FORMAL METHODS  Traditional engineering relies on the mathematics of continuous functions, because it is concerned with describing systems that exhibit continuous behaviour, such as the bending of a steel
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The 2020 expert survey on formal methods
+     Author ['H Garavel', 'MH ter Beek', 'J van de Pol']
+     Venue … Conference on Formal Methods for …
+     Year 2020
+     Abstract The 2020 Expert Survey on Formal Methods. Authors; Authors and affiliations. Hubert Garavel Email author; Maurice H. ter Beek Email author; Jaco van de Pol Email author. Conference paper  3 Assessment of Formal Methods. 3.1 System Design
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58298-2_1
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract commercially available modelling and simulation tools designed for simulating continuous systems [10  In this paper, some issues regarding PLC software verification methods are analyzed  Starting form the idea that formal methods are very useful but have limited applicability in
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract For example, social context causes a continuous evolution of requirements for large complex  our discussions of software composition and a new paradigm of "Domain Specific Formal Methods."  been supported in part (for J. Goguen) by British Telecommunications plc, the CEC
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Visual PLC-programming using signal interpreted Petri nets
+     Author ['M Minas', 'G Frey']
+     Venue Proceedings of the 2002 American Control …
+     Year 2002
+     Abstract uni-kl. de (assembling) and continuous processes (especially chemical batch processes)  [9] G. Frey and L. Litz. Formal methods in PLC programming. Proc. of the IEEE Conference on Systems Man and Cyber- netics (SMC2000), pp. 243 1-2436,2000
+     Url https://ieeexplore.ieee.org/abstract/document/1025461/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Migration from PLC to IEC 61499 using semantic web technologies
+     Author ['W Dai', 'VN Dubinin', 'V Vyatkin']
+     Venue IEEE Transactions on Systems …
+     Year 2013
+     Abstract of PLC-based systems design through analysis but it does not show the role of formal methods in the  Function Of “copies” the values of variables from OutputVar to PLC data outputs. There are two types of tasks in the IEC 61131-3 standard: periodic tasks and continuous tasks
+     Url https://ieeexplore.ieee.org/abstract/document/6663744/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Increasing the efficiency of PLC program verification using a plant model
+     Author ['J Machado', 'B Denis', 'JJ Lesage', 'JM Faure', 'JF da Silva']
+     Venue NA
+     Year 2003
+     Abstract Frey, G. and L. Litz (2000). Formal Methods in PLC programming  Lampérière-Couffin, S., and J.-J. Lesage (2000). Formal verification of the sequential part of PLC programs  Verification of Logic Controllers for Continuous Plants Using Timed Condition/Event-System Models
+     Url https://hal.archives-ouvertes.fr/hal-00424030/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC formal control methodologies: Does academia supply what industry demands?
+     Author ['H Darabi', 'R Sampath', 'D Naylor']
+     Venue TECHNICAL …
+     Year 2002
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Real-Time SCADA Attack Detection by Means of Formal Methods
+     Author ['F Mercaldo', 'F Martinelli']
+     Venue 2019 IEEE 28th …
+     Year 2019
+     Abstract using peripheral devices such as pro- grammable logic controller (PLC) [1]. There  R. Kohavi, and M. Sahami, “Supervised and unsupervised discretization of continuous features,” in  regulatory networks from time series data, an approach based on formal methods,” Methods, vol
+     Url https://ieeexplore.ieee.org/abstract/document/8795430/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract Page 1. The State-of-the-Art in Formal Methods by Milica Barjaktarovic Wilkes University Wilkes Barre PA 18766 and WetStone Technologies, Inc. 273 Ringwood Rd  Page 2. Report: State of the Art in Formal Methods M. Barjaktarovic / WetStone Technologies i Abstract
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modelling and Verifying of a 'Cash-Point Service'Using MOBY/PLC
+     Author ['H Dierks', 'J Tapken']
+     Venue Formal Aspects of Computing
+     Year 2000
+     Abstract Hence, we verified an extensive list of real-time properties in a continuous time domain  IPL, 40/5:269–276, 1991. [Die97] Dierks, H.: PLC-Automata: A new  Springer. [KPO96] Krieg-Brückner, B., Peleska, J., Olderog, E.-R. et al.: UniForM: Universal Formal Methods Workbench
+     Url https://link.springer.com/article/10.1007/s001650070015
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Combining extended uml models and formal methods to analyze real-time systems
+     Author ['N Addouche', 'C Antoine', 'J Montmain']
+     Venue International Conference on …
+     Year 2005
+     Abstract Our example presents a distributed system such that several controllers (PLC) interact to control the system functioning  Combining Extended UML Models and Formal Methods 35 as Markov decision processes, discrete time Markov chains and continuous time Markov chains
+     Url https://link.springer.com/chapter/10.1007/11563228_3
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model-driven development of PLC software for machine tools
+     Author ['MF Zaeh', 'C Poernbacher']
+     Venue Production Engineering
+     Year 2008
+     Abstract additional effort required to model the behavior of the NC, PLC and user  M (ed) Proceedings of the 3rd international conference on integrated formal methods, Turku (Finland  2005) Theory of modeling and simulation—integrating discrete event and continuous complex dynamic
+     Url https://link.springer.com/content/pdf/10.1007/s11740-008-0083-7.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The 2020 expert survey on formal methods
+     Author ['H Garavel', 'MH ter Beek', 'J van de Pol']
+     Venue … Conference on Formal Methods for …
+     Year 2020
+     Abstract The 2020 Expert Survey on Formal Methods. Authors; Authors and affiliations. Hubert Garavel Email author; Maurice H. ter Beek Email author; Jaco van de Pol Email author. Conference paper  3 Assessment of Formal Methods. 3.1 System Design
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58298-2_1
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification and optimization of a PLC control schedule
+     Author ['E Brinksma', 'A Mader']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 2000
+     Abstract In our case we handled the relevant real-time properties of the PLC controller using a  Nowadays, the verification of hybrid systems is a popular topic in the formal methods community. The presence of both discrete and continuous phenomena in such systems poses an inspiring
+     Url https://link.springer.com/chapter/10.1007/10722468_5
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Applying REMES behavioral modeling to PLC systems
+     Author ['A Vulgarakis', 'A Čaušević']
+     Venue 2009 XXII International Symposium …
+     Year 2009
+     Abstract REMES has a notion of resources that are classified by their discrete or continuous nature, how they can be consumed and  not have a background in formal methods. Therefore, the use of REMES might reduce the development time of PLC systems and also bring savings in the
+     Url https://ieeexplore.ieee.org/abstract/document/5348453/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal Methods and the Processing Industries: Status and Prospects from an Academic Perspective
+     Author ['S Kowalewski']
+     Venue Workshop on Formal Methods and Manufacturing
+     Year 1999
+     Abstract to say that in the field of logic controllers for processing systems, in particular when continuous processes are  Thus, the developers are not familiar with the available formal methods and tools. Another reason is that most control software in this area is written by the PLC or DCS
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.9939&rep=rep1&type=pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Migration from PLC to IEC 61499 using semantic web technologies
+     Author ['W Dai', 'VN Dubinin', 'V Vyatkin']
+     Venue IEEE Transactions on Systems …
+     Year 2013
+     Abstract of PLC-based systems design through analysis but it does not show the role of formal methods in the  Function Of “copies” the values of variables from OutputVar to PLC data outputs. There are two types of tasks in the IEC 61131-3 standard: periodic tasks and continuous tasks
+     Url https://ieeexplore.ieee.org/abstract/document/6663744/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Real-Time SCADA Attack Detection by Means of Formal Methods
+     Author ['F Mercaldo', 'F Martinelli']
+     Venue 2019 IEEE 28th …
+     Year 2019
+     Abstract using peripheral devices such as pro- grammable logic controller (PLC) [1]. There  R. Kohavi, and M. Sahami, “Supervised and unsupervised discretization of continuous features,” in  regulatory networks from time series data, an approach based on formal methods,” Methods, vol
+     Url https://ieeexplore.ieee.org/abstract/document/8795430/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of FPGA based systems
+     Author ['H Deng']
+     Venue NA
+     Year 2011
+     Abstract the system. Applying formal methods to close the gap between the specifica- tion and netlist or Hardware Description Language (HDL) implementation is  MASc Thesis Honghan Deng McMaster Computing and Software Figure 1.3: Two FPGA Formal Verification Frameworks
+     Url https://macsphere.mcmaster.ca/handle/11375/11188
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods in real-time systems
+     Author ['ER Olderog']
+     Venue … . 10th EUROMICRO Workshop on Real-Time …
+     Year 1998
+     Abstract How can different notations and formal methods for real- time systems be tied together  where Time is a continuous time domain, here the nonnega- tive real numbers Μ 0, and Dobs is the type or data domain of obs  A PLC interacts with sensors and actuators in a cyclic manner
+     Url https://ieeexplore.ieee.org/abstract/document/685130/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification of PLC programs given as sequential function charts
+     Author ['N Bauer', 'S Engell', 'R Huuck', 'S Lohmann']
+     Venue Integration of software …
+     Year 2004
+     Abstract For the specification and the implementation of PLC programs, the graphical and hier- archical language Sequential Function Charts (SFC) is  many industrial logic controllers are still imple- mented in the languages instruction list, ladder diagram, or continuous function charts [1
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27863-4_28
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Applying formal verification to early assessment of FPGA-based aerospace applications: Methodology and experience
+     Author ['KA Hoque', 'OA Mohamed']
+     Venue 2016 Annual IEEE …
+     Year 2016
+     Abstract 11] C. Baier, J.-P. Katoen, and H. Hermanns, “Approximate symbolic model checking of continuous-time markov  DAL analysis to optimize a combined TMR-blind-scrubbing mitigation technique for FPGA-based aerospace applications,” in Formal Methods and Models
+     Url https://ieeexplore.ieee.org/abstract/document/7490557/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLCverif re-engineered: An open platform for the formal analysis of PLC programs
+     Author ['D Darvas', 'E Blanco', 'SV Molnár']
+     Venue Proceedings of the 17th …
+     Year 2019
+     Abstract This is an essential feature to integrate PLCverif in a continuous integration practice  doi:10. 18429/JACoW-ICALEPCS2015-WEPGF092 [5] D. Darvas, M. István and E. Blanco, “Formal Verification of Safety PLC Based Control Software”, Integrated Formal Methods, ser
+     Url http://icalepcs2019.vrws.de/papers/mobpp01.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Teaching formal methods within system-on-a-programmable-chip design
+     Author ['L Gomes', 'A Costa']
+     Venue 2005 IEEE International Conference on …
+     Year 2005
+     Abstract This paper emphasizes the usage of formal methods for system specification, complemented by the usage  The referred projects (introductory projects and mini- project) are implemented in a FPGA  an area where we have been taking advantage of the continuous evolutions on
+     Url https://ieeexplore.ieee.org/abstract/document/1509385/
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Practice-oriented formal methods to support the software development of industrial control systems
+     Author ['D Darvas']
+     Venue NA
+     Year 2017
+     Abstract Group of the Budapest University of Technology and Economics who provided continuous help, support  logic formulae is a difficult task, especially for the people not familiar with formal methods  may be an obstacle to apply model checking in the development of PLC programs
+     Url https://repozitorium.omikk.bme.hu/bitstream/handle/10890/5364/ertekezes.pdf?sequence=2
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods and VLSI engineering practice
+     Author ['V Stavridou']
+     Venue The Computer Journal
+     Year 1994
+     Abstract of the continuous delivery of proper service (where service is delivered according to specified conditions) or equivalently of the time to failure. Availability is a measure of the delivery of proper service with respect to the alternation of proper and improper service. Formal methods
+     Url https://academic.oup.com/comjnl/article-abstract/37/2/96/491685
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modeling of the PLC behavior in intralogistics with non-autonomous hybrid Petri-Nets
+     Author ['L Kopecki', 'S Lauck']
+     Venue Applied Mechanics and Materials
+     Year 2014
+     Abstract 1.0 en:2005 [6] G. Frey, L. Litz in: Formal methods in PLC programming, volume 4 of IEEE International Conference on Systems, Man, and Cybernetics (2000)  [10] R. David, H. Alla in: Discrete, Continuous and Hybrid Petri Nets Springer-Verlag Berlin Heidelberg, (2005)
+     Url https://www.scientific.net/AMM.666.349
+
+
+     Search term "Continuous"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A model-driven approach for transforming GRAFCET specification into PLC code including hierarchical structures
+     Author ['R Julius', 'T Trenner', 'J Neidig', 'A Fay']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Keywords: code generation, formal methods, GRAFCET, meta-model, Model-Driven Software  optionally create a PLCopenXML file (which can be imported into several PLC development tools  act_step := false; 24 execute actions on activation; 25 END_IF; 26 //continuous 27 IF
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319314387
+

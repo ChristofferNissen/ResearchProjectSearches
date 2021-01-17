@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Hardware+simulation"+"Testing"
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title LastLayer: Towards Hardware and Software Continuous Integration
+     Author ['L Vega', 'J Roesch', 'J McMahan', 'L Ceze']
+     Venue IEEE Micro
+     Year 2020
+     Abstract LastLayer, an open-source tool1 that enables hardware and software continuous integration and  register transfer level (RTL) abstraction, LastLayer provides a mechanism for testing Verilog designs  and memories in the design as well as control over the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/9099634/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract 1 Abstract—This paper presents a compendious summary of power hardware-in- the-loop (PHIL) simulations that are used for designing, analyzing and testing of electrical power system components. PHIL simulations are an
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract 68 VOLUME 2, NO. 2, JUNE 2015 Page 7. FARUQUE et al.: Real-Time Simulation Technologies for Power Systems Design, Testing, and Analysis  With continuous customer support, these simulators can be used to accommodate any special needs of the consumers
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract or a high chopper frequency of the emulation part would be useful to impose a continuous current idcm  [4] H. Hanselmann, "HIL simulation testing and its  IEEE-PESC'07, Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Sizing and preliminary hardware testing of solar powered UAV
+     Author ['S Jashnani', 'TR Nada', 'M Ishfaq', 'A Khamker']
+     Venue The Egyptian Journal of …
+     Year 2013
+     Abstract In conclusion it could be said that the hardware simulation of a theoretically designed system includes  During the building and testing of an engineering model that simulates an actual component  the operation of power and propulsion system over 24 h of continuous operation
+     Url https://www.sciencedirect.com/science/article/pii/S1110982313000112
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Simulation experiments on applying the HiL system are used to verify the validity of self  the effectiveness and importance of our method in the process of testing and verifying  Work The development of autonomous driving technologies re- quires the continuous verification and
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract To date, the longest continuous run of successful tests includes over 3.5 billion randomly selected operations  3. Hardware Simulation with Fault Injection The most critical element in testing was a simulator for the flash hardware
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title FIR Filter Software and Hardware Simulation
+     Author ['RN Zobel']
+     Venue UKSC 84
+     Year 1984
+     Abstract This allows software configuration of microprogrammed digital filters operated under single step or continuous operation, for assistance with  This results in the important system aspect of compatibility between software simulation, hardware simulation and hardware testing
+     Url https://www.sciencedirect.com/science/article/pii/B9780408015042500491
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Method and system for generating electronic hardware simulation models
+     Author ['DA Fura']
+     Venue US Patent 5,953,519
+     Year 1999
+     Abstract US5953519A - Method and system for generating electronic hardware simulation models - Google Patents. Method and system for generating electronic hardware simulation models. Download PDF Info. Publication number US5953519A
+     Url https://patents.google.com/patent/US5953519A/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Study on simulation and testing of FLISR
+     Author ['L Jinsong', 'L Dong', 'L Wangshui']
+     Venue CICED 2010 …
+     Year 2010
+     Abstract The simulation of switch and fault current is a difficult problem in FLISR simulation testing, and this can be resolved by hardware simulation  FLISR testing with a distribution grid simulation laboratory can also perform long, continuous operation tests of the FLISR system
+     Url https://ieeexplore.ieee.org/abstract/document/5736124/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Large-scale real-time electromagnetic transient simulation of power systems using hardware emulation on FPGAs
+     Author ['Y Chen']
+     Venue NA
+     Year 2012
+     Abstract For inclusion of nonlinear elements in power system, a parallel iterative nonlinear network solver is described that uses Newton-Raphson method both continuous and piecewise. Multiple FPGAs are utilized for real-time EMT emulation of large-scale power systems
+     Url https://era.library.ualberta.ca/items/93fed049-1d24-4bde-b1c4-accafa65e12f
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Performance analysis of a hardware implemented complex signal kurtosis radio-frequency interference detector
+     Author ['AJ Schoenwald', 'DC Bradley']
+     Venue 2016 14th Specialist …
+     Year 2016
+     Abstract narrow band continuous wave (CW) interference, narrow band pulsed continuous wave (PCW  addition to software simulations, the Monte-Carlo hy- pothesis testing algorithm evaluation  PCW modulation was excluded from hardware simulation to simplify the experimental setup
+     Url https://ieeexplore.ieee.org/abstract/document/7530507/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Computer controlled hardware simulation of fading channel models
+     Author ['RN Kolte', 'SC Kwatra']
+     Venue … ,-Spanning the Universe.
+     Year 1988
+     Abstract For hardware simulation, this can only be achieved through the computer control of these para- meters  If the user desires, these time varying parameters can also take fixed values for testing purposes  They are fixed mode, step mode, and continuous mode
+     Url https://ieeexplore.ieee.org/abstract/document/13826/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Using a tree view metaphor to visualize hardware simulation for testing
+     Author ['P Jacobsson']
+     Venue CHI'02 Extended Abstracts on Human Factors in …
+     Year 2002
+     Abstract Keywords Graphical user interface, hardware simulation, third generation mobile telephony, tree view, 3G, usability test  In doing so there are great needs for continuous testing to see how the various applications behave on different hardware configurations
+     Url https://dl.acm.org/doi/abs/10.1145/506443.506630
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Programming 8-bit PIC microcontrollers in C: with interactive hardware simulation
+     Author ['MP Bates']
+     Venue NA
+     Year 2008
+     Abstract Programming 8-bit PIC Microcontrollers in C with Interactive Hardware Simulation Martin P. Bates AMSTERDAM  35 Program Creation.....36 Program Testing.....37 Program
+     Url https://books.google.com/books?hl=ro&lr=&id=lIo87dnhO7YC&oi=fnd&pg=PP1&dq=%22Continuous%22+%22Hardware+simulation%22+%22Testing%22&ots=m8nS_TcZUM&sig=GN0HEKj74pu0QGkIxNIRzu1-Vts
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Simulation Aided Process for Developing Powertrains
+     Author ['T Lang', 'C Schyr']
+     Venue NA
+     Year 2000
+     Abstract art simulation techniques can contribute to a continuous development process, which is based upon offline simulation using hardware in the loop, the utilization of modern test bed technology up to vehicle adjustment. The integration of hardware-in-the-loop testing together with
+     Url https://www.sae.org/publications/technical-papers/content/2000-01-3161/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Comparison of real-time simulation methods for power electronic applications
+     Author ['T Kökényesi', 'I Varjasi']
+     Venue 2013 4th International Youth …
+     Year 2013
+     Abstract 4. One of the systemG inputs U, is not a continuous signal, it is changing by leaps and bounds  X. Wu, H. Figueroa, and A. Monti, "A Low-Cost Real-Time Hardware-in-the-Loop Testing Approach of  9] GG Parma, and V. Dinavahi, "Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/6604137/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Faking it for pleasure and profit: the use of hardware simulation at AAO
+     Author ['K Shortridge', 'M Vuong']
+     Venue Software and Cyberinfrastructure for …
+     Year 2010
+     Abstract that the sixth incremental release might control the telescope unchanged from its testing in simulation  of TCS, the AAO has continued to use the same sort of detailed hardware simulation for other  moves back-illuminated fibres in a field and a camera provides a continuous set of
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7740/774008/Faking-it-for-pleasure-and-profit--the-use-of/10.1117/12.856216.short
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract 2) is made up by the power converter and a versatile control architecture based on a SoPC implemented into an FPGA. It allows testing modulation patterns directly from a PC  Each network configuration is described by a continuous time state- space equation
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Trainer using video photographs and overlays for reconfigurable hardware simulation
+     Author ['VS De Gyarfas', 'R Saunders']
+     Venue US Patent 5,286,202
+     Year 1994
+     Abstract Trainer using video photographs and overlays for reconfigurable hardware simulation. Download PDF  instructional information and menus available and to assist authoring, editing and testing procedures used to  will move the line down, or to the left, in a continuous motion until
+     Url https://patents.google.com/patent/US5286202A/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Count data access in a distributed simulation environment
+     Author ['CI Gabele', 'W Roesner', 'DE Williams']
+     Venue US Patent 7,085,703
+     Year 2006
+     Abstract US7085703B2 - Count data access in a distributed simulation environment - Google Patents. Count data access in a distributed simulation environment. Download PDF Info. Publication number US7085703B2. US7085703B2
+     Url https://patents.google.com/patent/US7085703B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Comparing the dynamic performances of power hardware-in-the-loop interfaces
+     Author ['S Lentijo', "S D'Arco", 'A Monti']
+     Venue IEEE Transactions on Industrial …
+     Year 2009
+     Abstract The results presented in [26] show that the LCL filter interface is stable and suitable for testing electric drives  13 shows the Nyquist diagram from the transfer func- tions defined in (1), (4), and (7). The results for the original system Go are shown in a continuous line, the results for
+     Url https://ieeexplore.ieee.org/abstract/document/5170073/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Using a hardware simulation engine for custom MOS structured designs
+     Author ['Z Barzilai', 'DK Beece', 'LM Huisman']
+     Venue IBM journal of …
+     Year 1984
+     Abstract points compared to the number of devices they contain, thereby complicating debugging and testing  per second [2]. We indicate in this paper how a hardware simulation engine can  Continuous and discrete simulation The accuracy required of simulation has to be balanced
+     Url https://ieeexplore.ieee.org/abstract/document/5390298/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title WSN testing environment with energy consumption monitoring and simulation of sensed data
+     Author ['G Girban', 'M Popa']
+     Venue Proceedings of the 6th IEEE International …
+     Year 2011
+     Abstract The continuous current is measured through the voltage drop across a resistor with the  Through this paper, the prototype system developed in the lab for hardware simulation of the  This system behaves as a testing environment with several features like data acquisition, context
+     Url https://ieeexplore.ieee.org/abstract/document/6072890/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Continuous integration in agile development
+     Author ['MR Bakal', 'J Althouse', 'P Verma']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations  Assuming that the buck can operate in the continuous and discontinuous conduction modes, it has three feasible configurations: Q = {q0, q1, q2}
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title A versatile FMCW radar system simulator for millimeter-wave applications
+     Author ['S Scheiblhofer', 'M Treml', 'S Schuster']
+     Venue 2008 38th European …
+     Year 2008
+     Abstract we present a new versatile simulation environment for frequency-modulated continuous- wave radar  Besides common hardware simulation it covers integrated system simulation and concept analysis  and efficiently delivers simulation data for development and testing of signal
+     Url https://ieeexplore.ieee.org/abstract/document/4751778/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title European white book on real-time power hardware in the loop testing: Derlab report no. r-005.0
+     Author ['E de Jong', 'R de Graff', 'P Vassen', 'P Crolla', 'A Roscoe']
+     Venue NA
+     Year 2012
+     Abstract This has very strong advantages over a pure hardware simulation as it is very flexible and has  of how this powerful tool can be utilized to support the development, testing and validation  The resulting equivalent model for the quasi continuous approach is shown in [17, 18, 30]
+     Url https://strathprints.strath.ac.uk/id/eprint/43450
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Hardware simulation of relative navigation using visual sensor information
+     Author ['M Monda', 'H Schaub']
+     Venue … , Navigation, and Control Conference and Exhibit
+     Year 2005
+     Abstract Hardware Simulation of Relative Navigation using Visual  filtering to visual sensor output data can offer many benefits including smoother, more continuous sensor information  Marshall Space Flight Center's Flight Robotics Laboratory8 is a very sophisticated testing facility which
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2005-5999
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Hardware simulation of harmonic radar using a transverse electromagnetic cell
+     Author ['GJ Mazzaro', 'KD Sherbondy']
+     Venue SoutheastCon 2018
+     Year 2018
+     Abstract A hardware simulation of harmonic radar detection is constructed using standard laboratory-grade radio  set of filters and another directional coupler is used for testing f0 = 520 MHz to  A constant-amplitude continuous-wave sinusoid at frequency f0 and power Ptrans is
+     Url https://ieeexplore.ieee.org/abstract/document/8479219/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Hardware simulation of fuel cell/gas turbine hybrids
+     Author ['TP Smith']
+     Venue NA
+     Year 2007
+     Abstract real-time. Once the integration of the numeric and the hardware simulation components was completed, HILS experiments were conducted to evaluate hybrid system performance. The testing identified non-intuitive transient responses arising from the
+     Url https://smartech.gatech.edu/handle/1853/14581
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title FPGA-Based Pedestal Variance Computation Accelerator for Continuous Light Monitoring in VERITAS
+     Author ['M Shepherd']
+     Venue NA
+     Year 2019
+     Abstract the parallelized scheme was optimal, and we tested the scheme in MATLAB, in hardware simulation, and in  main goal was to design an FPGA-based system that allows for a continuous stream of  found this in the Data Collection section), so we moved on to testing the schema
+     Url https://cpb-us-w2.wpmucdn.com/sites.wustl.edu/dist/0/1909/files/2019/04/Final-Report.pdf
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Method and apparatus for testing software
+     Author ['JH Profit Jr']
+     Venue US Patent 5,911,059
+     Year 1999
+     Abstract US5911059A - Method and apparatus for testing software - Google Patents. Method and apparatus for testing software. Download PDF Info  The module integration process also involves testing of the integrated software modules
+     Url https://patents.google.com/patent/US5911059A/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Using CONFIG for simulation of operation of water recovery subsystems for advanced control software evaluation
+     Author ['JT Malin', 'L Flores', 'L Fleming', 'D Throop']
+     Venue NA
+     Year 2002
+     Abstract An advanced autonomous control system controls the WRS testing  event simulation with capabilities for approximate and qualitative modeling of continuous system behavior  A communications interface can be established between a CONFIG hardware simulation and
+     Url https://www.sae.org/publications/technical-papers/content/2002-01-2285/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Systems and methods for power hardware in the loop testing
+     Author ['A Monti', "S D'arco"]
+     Venue US Patent 7,979,223
+     Year 2011
+     Abstract For instance, in one embodiment, a system for power hardware in the loop testing is described  FIG. 2 illustrates the topology of the RLC filter. FIG. 3 illustrates (a) reference currents (continuous line) and filter currents (dotted line) and (b) zoomed view. FIG
+     Url https://patents.google.com/patent/US7979223B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Simulation-based interface testing automation system and method for robot software components
+     Author ['HS Park', 'JS Kang', 'HS Choi', 'SW Meng']
+     Venue US Patent …
+     Year 2013
+     Abstract US8601436B2 - Simulation-based interface testing automation system and method for robot software components - Google Patents. Simulation-based interface testing automation system and method for robot software components. Download PDF Info
+     Url https://patents.google.com/patent/US8601436B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Design and Verification of Vehicle-Based GNSS/INS Integrated Navigation Semi-hardware Simulation and Test Platform
+     Author ['W Liu', 'S Geng', 'X Li', 'H Yuan']
+     Venue China Satellite Navigation Conference …
+     Year 2016
+     Abstract Design and Verification of Vehicle-Based GNSS/INS Integrated Navigation Semi-hardware Simulation and Test Platform  The test platform data display and analysis module are responsible for testing the various data platforms which summarizes  Three frame continuous rotation
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0934-1_42
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Multilevel simulation of heterogeneous reconfigurable platforms
+     Author ['D Picard', 'L Lagadec']
+     Venue International Journal of Reconfigurable …
+     Year 2009
+     Abstract offers valuable debugging and probing facilities as well as integrated testing features  Our system brings these benefits to the hardware simulation, while enforcing validation through  Continuous advances in the VLSI processing technology enable to produce ever more complex
+     Url https://www.hindawi.com/journals/ijrc/2009/162416/abs/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Development of SCADA system for Turbocharger testing
+     Author ['SN Lakade', 'SU Bhandari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract In section IV, use of PLC and its algorithm is given. And lastly in section V, results for hardware simulation is given  Figure 1. Working of Turbocharger II Turbocharger Testing  This situation is seen when vehicle is traveled on road which has continuous up and down movement
+     Url https://ieeexplore.ieee.org/abstract/document/7860134/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Live, virtual & constructive simulation for real time rapid prototyping, experimentation and testing using network centric operations
+     Author ['W Bezdek', 'J Maleport', 'R Olshan']
+     Venue AIAA Modeling and Simulation …
+     Year 2008
+     Abstract Page 4. 4 American Institute of Aeronautics and Astronautics Figure 4 Live, Virtual, Constructive Research, Operations, Testing, and Training  The OMM ground station provided the F-15 with continuous updates of the target position via a reconfurable networking waveform
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2008-7090
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Theoretical Feasibility of Statistical Assurance of Programmable Systems Based on Simulation Tests
+     Author ['L Chen', 'J May']
+     Venue … on Software Quality, Reliability and Security …
+     Year 2017
+     Abstract for protection system, or to demonstrate any (desirable) reliability levels for continuous operation ('high  the real hardware platform, thus easing the critical path nature of the testing activity  hardware simulation and the software) can be copied any number of times and the copies
+     Url https://ieeexplore.ieee.org/abstract/document/8004407/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract The most successful invention by de Laval was the continuous separator  The databases were found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation”, ”IEC 61131-3”, ”software testing” and ”real-time simulation”
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Vision: Testing of mechatronics software using agile simulation
+     Author ['SP Masticola', 'M Gall']
+     Venue Proceedings of the 3rd international workshop on …
+     Year 2008
+     Abstract Constructing the hardware simulation in virtualization can require the same or more effort as  Thus, the agile simulation approach outlined here can immediately support model-based software testing  UML in future research, to create test cases that require continuous as well as
+     Url https://dl.acm.org/doi/abs/10.1145/1370042.1370060
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title SystemC hardware in the loop simulation scheme
+     Author ['H Zheng', 'X Wu', 'Y Tao']
+     Venue MS&E
+     Year 2020
+     Abstract the current booming industry, the speed of semiconductor development, verification and testing is crucial  The scheduling algorithm idea of SystemC is to divide the continuous simulation time into  strong performance, and it will be more conducive to the hardware simulation test
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072029/meta
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Characterization of a solid oxide fuel cell gas turbine hybrid system based on a factorial design of experiments using hardware simulation
+     Author ['B Restrepo', 'LE Banta', 'D Tucker']
+     Venue … on Fuel Cell …
+     Year 2011
+     Abstract TURBINE HYBRID SYSTEM BASED ON A FACTORIAL DESIGN OF EXPERIMENTS USING HARDWARE SIMULATION  in the HyPer facility over approximately four days of continuous operation. Compressor inlet conditions between testing of separate valves varied with the
+     Url https://asmedigitalcollection.asme.org/FUELCELL/proceedings-abstract/FUELCELL2011/54693/937/357907
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Design and development of a static VAR compensator for load compensation using real-time digital simulator and hardware simulation
+     Author ['J Berge', 'RK Varma']
+     Venue 2007 Large Engineering Systems …
+     Year 2007
+     Abstract Simulation Jonathan (Jon) Berge, Student Member, IEEE and Rajiv K. Varma, Member, IEEE S Page 2. 7  For RTDS testing the functions of this circuit were performed by the RTDS analog and digital outputs  The software executes on a continuous loop
+     Url https://ieeexplore.ieee.org/abstract/document/4437344/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Introducing hardware in the loop and model based simulation concepts in the ALMA observatory for software testing
+     Author ['TC Shen', 'R Soto', 'A Saez', 'J Avarias']
+     Venue … for Astronomy V
+     Year 2018
+     Abstract In summary, HIL simulation provides the following advantages: i) Test earlier in the development process, ii) Reduce testing costs, iii) Increase test coverage, iv) Increase test flexibility, and iv) Increase  hybrib approach that combines hardware simulation and software simulation.
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10707/107070C/Introducing-hardware-in-the-loop-and-model-based-simulation-concepts/10.1117/12.2313688.full?sessionGUID=902bc999-3ced-268b-ead4-9a28531ab0d3&webSyncID=e6ec7a49-dab6-a0cb-ad05-9329ad883c9d&sessionGUID=902bc999-3ced-268b-ead4-9a28531ab0d3
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title A per-unit hardware-in-the-loop simulation of a fuel cell/battery hybrid energy system
+     Author ['L Gauchia', 'J Sanz']
+     Venue IEEE Transactions on Industrial Electronics
+     Year 2009
+     Abstract To achieve these objectives extensive work must be done in the development and testing of the electrochemical  As in the case of the vehicle simulator, the interaction between the software and hardware simulation of the fuel  The fuel cell will be in continuous operation, even
+     Url https://ieeexplore.ieee.org/abstract/document/5340635/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Tracking converage results in a batch simulation farm network
+     Author ['CI Gabele', 'W Roesner', 'DE Williams']
+     Venue US Patent 7,359,847
+     Year 2008
+     Abstract US7359847B2 - Tracking converage results in a batch simulation farm network - Google Patents. Tracking converage results in a batch simulation farm network. Download PDF Info. Publication number US7359847B2. US7359847B2
+     Url https://patents.google.com/patent/US7359847B2/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Testing"
+     Title Processor-in-the-loop and hardware-in-the-loop simulation of electric systems based in FPGA
+     Author ['J Mina', 'Z Flores', 'E López', 'A Pérez']
+     Venue … Conference on Power …
+     Year 2016
+     Abstract The continuous time model of the dc motor is given by the following equations  REFERENCES [1] W. Ma, Y. Chen, and D. Yao, “PC-based real-time simulator and its application on testing of power  [10] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/7530751/
+

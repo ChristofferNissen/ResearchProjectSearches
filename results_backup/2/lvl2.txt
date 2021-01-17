@@ -1,0 +1,134 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Software+Product+Line"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Automation+System"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Line"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+System"+"Software+Validation"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"Regulated+Domain" 8
+         "DevOps"+"FDA+Requirement" 0
+         "DevOps"+"Software+Validation" 110
+         "DevOps"+"Software+Product+Line" 263
+         "DevOps"+"Automation+System" 320
+         "DevOps"+"Continuous" 999
+         "DevOps"+"Case+Study" 998
+
+     Combinations with "Software+Product+Line"
+         "Software+Product+Line"+"FDA+Requirement" 0
+         "Software+Product+Line"+"Regulated+Domain" 11
+         "Software+Product+Line"+"Software+Validation" 163
+         "Software+Product+Line"+"DevOps" 263
+         "Software+Product+Line"+"Automation+System" 393
+         "Software+Product+Line"+"Case+Study" 1000
+         "Software+Product+Line"+"Continuous" 1000
+
+     Combinations with "Regulated+Domain"
+         "Regulated+Domain"+"DevOps" 8
+         "Regulated+Domain"+"Automation+System" 5
+         "Regulated+Domain"+"Software+Validation" 6
+         "Regulated+Domain"+"FDA+Requirement" 0
+         "Regulated+Domain"+"Software+Product+Line" 11
+         "Regulated+Domain"+"Case+Study" 289
+         "Regulated+Domain"+"Continuous" 446
+
+     Combinations with "FDA+Requirement"
+         "FDA+Requirement"+"Software+Product+Line" 0
+         "FDA+Requirement"+"DevOps" 0
+         "FDA+Requirement"+"Automation+System" 2
+         "FDA+Requirement"+"Regulated+Domain" 0
+         "FDA+Requirement"+"Software+Validation" 24
+         "FDA+Requirement"+"Case+Study" 222
+         "FDA+Requirement"+"Continuous" 772
+
+     Combinations with "Continuous"
+         "Continuous"+"Regulated+Domain" 446
+         "Continuous"+"FDA+Requirement" 772
+         "Continuous"+"DevOps" 999
+         "Continuous"+"Software+Product+Line" 1000
+         "Continuous"+"Automation+System" 995
+         "Continuous"+"Software+Validation" 994
+         "Continuous"+"Case+Study" 999
+
+     Combinations with "Automation+System"
+         "Automation+System"+"FDA+Requirement" 2
+         "Automation+System"+"Regulated+Domain" 5
+         "Automation+System"+"Software+Validation" 267
+         "Automation+System"+"Software+Product+Line" 393
+         "Automation+System"+"DevOps" 320
+         "Automation+System"+"Case+Study" 1000
+         "Automation+System"+"Continuous" 998
+
+     Combinations with "Software+Validation"
+         "Software+Validation"+"Regulated+Domain" 6
+         "Software+Validation"+"FDA+Requirement" 24
+         "Software+Validation"+"DevOps" 110
+         "Software+Validation"+"Software+Product+Line" 163
+         "Software+Validation"+"Automation+System" 267
+         "Software+Validation"+"Case+Study" 999
+         "Software+Validation"+"Continuous" 996
+
+     Combinations with "Case+Study"
+         "Case+Study"+"Regulated+Domain" 289
+         "Case+Study"+"FDA+Requirement" 222
+         "Case+Study"+"Software+Validation" 997
+         "Case+Study"+"DevOps" 998
+         "Case+Study"+"Automation+System" 1000
+         "Case+Study"+"Software+Product+Line" 1000
+         "Case+Study"+"Continuous" 999
+
+

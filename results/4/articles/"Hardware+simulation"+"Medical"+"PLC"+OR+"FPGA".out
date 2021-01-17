@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware design and implementation of a wavelet de-noising procedure for medical signal preprocessing
+     Author ['SW Chen', 'YH Chen']
+     Venue Sensors
+     Year 2015
+     Abstract Keywords: field programmable gate array (FPGA); medical signal preprocessing; electrocardiogram (ECG); signal integrity; wavelet de-noising. 1. Introduction. Signal integrity always plays a crucial role for applications into medical signal sensing and processing
+     Url https://www.mdpi.com/1424-8220/15/10/26396
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA simulations of charge sharing effect compensation algorithms for implementation in deep sub-micron technologies
+     Author ['P Maj', 'A Drozd', 'R Szczygiel']
+     Venue 2013 UKSim 15th …
+     Year 2013
+     Abstract describes the advantages of using the Field Programmable Gate Arrays (FPGA) for significant  The implementation of the C8P1 algorithm is described at the hardware simulation level, including  deep sub-micron solution technology, which aims to improve medical, scientific and
+     Url https://ieeexplore.ieee.org/abstract/document/6527518/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware-software co-simulation for medical x-ray control units.
+     Author ['B Kleinert', 'GR Rahimi', 'M Reichenbach', 'D Fey']
+     Venue SimuTools
+     Year 2015
+     Abstract 3.2 Hardware simulation We developed a hardware simulator, that is able to interpret our SDL as input and  presented our contribution to master the complexity of product adaption cycles of a medical X-ray  is built from two compo- nents, an x86 64 PC to which an FPGA board is
+     Url http://cs.virginia.edu/~gr5yf/Reza_files/papers/Simutool2015.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based adaptive noise cancellation for ultrasonic NDE application
+     Author ['C Brady', 'J Arbona', 'IS Ahn', 'Y Lu']
+     Venue 2012 IEEE International …
+     Year 2012
+     Abstract FPGA-based adaptive noise cancellation is designed  Software simulation and hardware simulation shows that the adaptive filter could be an effective tool for  G. Cincotti, G. Loi, and M. Pappalardo, “ Frequency decomposition and compounding of ultrasound medical images with
+     Url https://ieeexplore.ieee.org/abstract/document/6220729/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA platform for real-time simulation of spiking neuronal networks
+     Author ['D Pani', 'P Meloni', 'G Tuveri', 'F Palumbo']
+     Venue Frontiers in …
+     Year 2017
+     Abstract Reviewed by. Stavros Zanos. Feinstein Institute for Medical Research, United States. Francesco Leporati  Front. Neurosci., 28 February 2017 | https://doi.org/10.3389/fnins.2017.00090. An FPGA Platform for Real-Time Simulation of Spiking Neuronal Networks
+     Url https://www.frontiersin.org/articles/10.3389/fnins.2017.00090/full
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA Based Architecture for the Data Acquisition Electronics of the Clear-PEM System
+     Author ['J Varela', 'P Bento', 'C Leong', 'IC Teixeira']
+     Venue Proc. Int. Workshop on …
+     Year 2005
+     Abstract Results of simulation are compared with VHDL hardware simulation results in order to  site multiple acquisition alternatives, exploiting trade-off between accuracy and medical examination duration  and the volume production of the envisaged product, put FPGA-based solutions
+     Url http://www.academia.edu/download/30666024/ARC2005.pdf#page=141
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Towards FPGA hardware in the loop for QCA simulation
+     Author ['A Olson']
+     Venue NA
+     Year 2011
+     Abstract a Combinational Logic Block (CLB) that would form the basis of a QCA-based FPGA [46]. Thus it can be seen that nonoarchitecture  where low power consumption and high reliability are more important than operating speed, such as in medical implants or space exploration
+     Url http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=8152&context=theses
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of semi-fragile reversible watermarking by histogram bin shifting in real time
+     Author ['S Hazra', 'S Ghosh', 'S De', 'H Rahaman']
+     Venue Journal of Real-Time Image …
+     Year 2018
+     Abstract Hardware implementation of a RW scheme for radiological medical images is proposed in [28]  bin shifting based watermarking process, the hardware-based simulation using FPGA is carried  The hardware simulation for the section images is performed using the Spartan-3E
+     Url https://link.springer.com/article/10.1007/s11554-017-0672-9
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Encrypted biography of biomedical image-a pentalayer cryptosystem on FPGA
+     Author ['D Ravichandran', 'S Rajagopalan', 'HN Upadhyay']
+     Venue Journal of Signal …
+     Year 2019
+     Abstract Medical image with the extension .dcm was read through the Biomedical Toolkit of LabVIEW 2014 and the  The generated pixels were stored in off-chip SRAM of the FPGA for further processing  Hardware simulation waveforms of synthetic image generation unit are shown in Fig
+     Url https://link.springer.com/article/10.1007/s11265-018-1337-z
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title HIGH-LEVEL DESIGN FOR REAL TIME IMPLEMENTATION OF CSC ALGORITHM ON FPGA USING MATLAB & SIMULINK SIMULATION
+     Author ['M Alareqi', 'R Elgouri', 'A Zemmouri', 'L Hlou']
+     Venue Journal of Theoretical …
+     Year 2016
+     Abstract In addition, the software provides for the hardware simulation and hardware- in-the-loop verification, referred to as hardware co  [6] C.JohnMoses, D.Selvathi, and S.SajithaRani, “FPGA Implementation of an Efficient Partial Volume Interpolation for Medical Image Registration
+     Url https://www.researchgate.net/profile/Mohammed_Alareqi3/publication/298045825_High-level_design_for_real_time_implementation_of_csc_algorithm_on_fpga_using_matlab_simulink_simulation/links/572224fe08ae262228a5cc74/High-level-design-for-real-time-implementation-of-csc-algorithm-on-fpga-using-matlab-simulink-simulation.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of non-subsampled Shearlet transform for image fusion
+     Author ['PC Bhaskar', 'MVR Munde']
+     Venue 2017 International Conference on …
+     Year 2017
+     Abstract Fig.6. Hardware Simulation Result for Image Fusion model on ML605 Virtex-6 xc6vlx240t-1ff1156  So from power analysis and device utilization report we observed that, FPGA consumes less  Wang, Yulin Xiong, “A Novel Fusion Technique for CT and MRI Medical Image Based
+     Url https://ieeexplore.ieee.org/abstract/document/8463747/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Design of PLC Experimental System Based on Siemens S7-200 [J]
+     Author ['J JIANG', 'Y LIU', 'M DENG', 'H HUANG']
+     Venue Research and Exploration in …
+     Year 2008
+     Abstract The system makes full use of soft-hardware simulation technology,MCU application technology, USB  College ZhengZhou HeNan 450052);Choice and system configuration of PLC[J];Control &  LU Jing1,CHEN Bing-hong2,SHI Heng2 (1.Shanghai Medical Instrument College
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYSY200808071.htm
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of color image encryption using a new chaotic map
+     Author ['HA Abdullah', 'HN Abdullah']
+     Venue Indonesian J Electr Eng Comput Sci
+     Year 2019
+     Abstract The hardware simulation results show that the number of pins that used of the proposed  [6] Syed Shahzad Hussain Shah, Gulistan Raja,, "FPGA Implementation of  V Lokesha, "A Naïve Visual Cryptographic Algorithm for the Transfer of Compressed Medical Images," Bulletin of
+     Url https://www.researchgate.net/profile/Hamsa_Abdulkareem/publication/330509208_FPGA_implementation_of_color_image_encryption_using_a_new_chaotic_map/links/5c44de8792851c22a38493f2/FPGA-implementation-of-color-image-encryption-using-a-new-chaotic-map.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Automatic generation of bio-inspired retina-like processing hardware
+     Author ['A Martínez', 'LM Reyneri', 'FJ Pelayo', 'SF Romero']
+     Venue … Work-Conference on …
+     Year 2005
+     Abstract In this paper we focus our attention in the medical purpose of the tool  The well–known AlphaData RC1000 PCI board, which contains a VirtexE 2000 FPGA chip, is being  stop in the generation of the hardware oriented Simulink model in order to perform a hardware simulation
+     Url https://link.springer.com/chapter/10.1007/11494669_65
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A real-time virtual manipulator simulation platform based on FPGA
+     Author ['J Hu', 'B Deng', 'S Yang', 'X Wei']
+     Venue 2019 Chinese Control …
+     Year 2019
+     Abstract A real-time virtual manipulator simulation platform based on FPGA Jinling Hu1, Bin Deng1*, Shuangming Yang1, Xile Wei1, Jiang Wang1  Compared with software simulation, field-programmable gate array (FPGA) shows more advantages especially in the real-time
+     Url https://ieeexplore.ieee.org/abstract/document/8865804/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real time hardware co-simulation for image processing algorithms using Xilinx System Generator
+     Author ['M Alareqi', 'R Elgouri', 'K Mateur', 'L Hlou']
+     Venue International Journal on Electrical …
+     Year 2015
+     Abstract Figure 10. Shows the software and hardware simulation for the segmentation by thresholding design for the input image  [7]. C.JohnMoses, D.Selvathi, S.Sajitha Rani, “FPGA Implementation of an Efficient Partial Volume Interpolation for Medical Image Registration,” IEEE
+     Url http://ijeei.org/docs-1738964260568c8b4c029c4.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title NOC-based FPGA acceleration for Monte Carlo simulations with applications to SPECT imaging
+     Author ['PJ Kinsman', 'N Nicolici']
+     Venue IEEE Transactions on Computers
+     Year 2011
+     Abstract the basic concepts used for image reconstruction in nuclear medical imaging and  KINSMAN AND NICOLICI: NOC-BASED FPGA ACCELERATION FOR MONTE CARLO SIMULATIONS WITH  that it was infeasible to perform complete functional hardware simulation for any more
+     Url https://ieeexplore.ieee.org/abstract/document/6112747/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Simple generation of threshold for images binarization on FPGA
+     Author ['E Ieno', 'LM Garcés', 'AJ Cabrera']
+     Venue Ingeniería e Investigación
+     Year 2015
+     Abstract (2009) is employed in this work, adding the hardware simulation results with area resources and speed optimization  Real Time Implementation of Medical Images Segmentation Based on PSO  Implementation of Otsu's Thresholding Process Based on FPGA. In (Vol. 1, pp
+     Url http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-56092015000300009
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title High-Performance Hardware 3D Medical Imaging using Wavelets in the Residue Number System
+     Author ['NI Chervyakov', 'PA Lyakhov']
+     Venue 2020 9th …
+     Year 2020
+     Abstract Keywords —medical imaging; residue number system; parallel computing; discrete wavelet transform; hardware implementation; 3D image processing; FPGA  V. HARDWARE SIMULATION OF THE 3D MEDICAL IMAGES WAVELET PROCESSING An example of 3D 8-bit
+     Url https://ieeexplore.ieee.org/abstract/document/9134123/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA HardCore single processor implementation of RT control applications
+     Author ['SB Othman', 'M Ghrissi', 'AKB Salem']
+     Venue 2008 3rd International …
+     Year 2008
+     Abstract such as wired and wireless telecommunications, image and signal processing, medical equipment, robotics  REFERENCES [1] V. Aggarwal and R. Kuhlman, "Simulating Sensors on FPGA Hardware," Embedded Systems  2] H. Shouling and X. Xuping, "Hardware simulation of an
+     Url https://ieeexplore.ieee.org/abstract/document/4540272/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A FPGA implementation of a DCT-based digital electrocardiographic signal compression device
+     Author ['BS Pimentel', 'JH de Avila Valgas Filho']
+     Venue … Circuits and Systems …
+     Year 2001
+     Abstract 1. Introduction Digital signal processing techniques have been widely used on medical diagnosis methods  ECG Signal Input Figure 3. Overall system architecture. The DCT component matrix is stored in a ROM module within the FPGA logical units  6.2. Hardware Simulation
+     Url https://ieeexplore.ieee.org/abstract/document/953002/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract the use of higher-level programming languages 4 . Based on techniques used in the development of high-level PC software to control PLCs for multiple telescopes, this paper examines the development of PLC programs to operate the hardware of a medical cyclotron beamline
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA based architectures for high performance adaptive FIR filter systems
+     Author ['S Niu', 'S Aslan', 'J Saniie']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract fields, such as wireless communication, noise cancelling techniques, channel estimation and medical signal processing  The XC5VLX110T [6] FPGA offers 64 DSP48 hard cores for DSP applications and  Hardware simulation and performance is discussed in the next Section. IV
+     Url https://ieeexplore.ieee.org/abstract/document/6555696/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware implementation of a scale and rotation invariant object detection algorithm on FPGA for real-time applications
+     Author ['M Peker', 'H Altun', 'F Karakaya']
+     Venue Turkish Journal of Electrical …
+     Year 2016
+     Abstract on hardware for real-time applications, such as shape recognition [1,4], medical image-processing [6  However, FPGA implementation of an algorithm is a very complex task that needs confirmation of the  Section 3 explains the hardware simulation environment in MATLAB
+     Url https://journals.tubitak.gov.tr/elektrik/abstract.htm?id=19077
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Simulation and FPGA Modeling of a Virtual BLDC Motor
+     Author ['K Giridharan', 'A Chitra', 'J Vanishree']
+     Venue International Review on …
+     Year 2012
+     Abstract BLDC) motors are widely used in consumer electronics, electric vehicles and medical applications  [19] Nikola Milivojevic, et al, Stability Analysis of FPGA-Based Control  Gustavo G. Parma, Member, IEEE, and Venkata Dinavahi, “Real- Time Digital Hardware Simulation of Power
+     Url https://www.researchgate.net/profile/J_Vanishree/publication/281371796_Simulation_and_FPGA_modeling_of_a_virtual_BLDC_motor/links/55e423df08aede0b5733def6/Simulation-and-FPGA-modeling-of-a-virtual-BLDC-motor.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Multi-stage Threshold Method for Liver Tumor Segmentation in CT scan Images and its Implementation for FPGA
+     Author ['YR Kumar', 'BS Reddy']
+     Venue … Images and Its Implementation for FPGA …
+     Year 2020
+     Abstract [14] Dr.J.Thirumaran and S.Shylaja“Medical Image Processing- An Introduction”,International  [18] Ms.Dipika,S.Warkari and Dr.UAKshirsagar,“FPGA Implementation of Point Processing Operations using Hardware Simulation”, International Journal of Advanced Research in
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668757
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Experiences on developing computer vision hardware algorithms using Xilinx system generator
+     Author ['AT Moreo', 'PN Lorente', 'FS Valles', 'JS Muro']
+     Venue Microprocessors and …
+     Year 2005
+     Abstract real-time point tracking [29], real-time image processing [15], medical image processing  As most of computer vision applications are based on MAC operations, an FPGA with more  generator (XSG) development tool is time consumption in low-level hardware simulation, which is
+     Url https://www.sciencedirect.com/science/article/pii/S0141933104001619
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A simplification of Cobelli's glucose–insulin model for type 1 diabetes mellitus and its FPGA implementation
+     Author ['P Li', 'L Yu', 'Q Fang', 'SY Lee']
+     Venue Medical & biological engineering & computing
+     Year 2016
+     Abstract 11 Hardware simulation of a patient with constant insulin sensitivity (IS) and variable insulin sensitivity for a whole day  SYL collaborated on the FPGA implementation  We believe that the manuscript complies with the aims and scope of Medical and Biological Engineering and
+     Url https://link.springer.com/article/10.1007/s11517-015-1436-y
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA‐based pipeline for micropolarizer array imaging
+     Author ['PJ Lapray', 'L Gendre', 'A Foulonneau']
+     Venue International Journal of …
+     Year 2018
+     Abstract On this, we can add the emergence of embedded systems dedicated to applications such as video protection, medical imaging, or driving  37 We have not found complete and comprehensive works dealing with Stokes imaging on field‐programmable gate array (FPGA); here is
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.2477
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware Software Co-Simulation of the Multiple Image Encryption Technique Using the Xilinx System Generator.
+     Author ['HT Panduranga', 'SKN Kumar']
+     Venue Journal of Information …
+     Year 2013
+     Abstract Fig. 5. Hardware Simulation ofthe Proposed Encryption Approach  Our technique is more useful in the following areas: 1. Medical image security (MRI-images) 2. Satellite image  approach is carried out using the Xilinx System Generator and the Xilinx Virtex 2 Pro FPGA device
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1976913X&asa=Y&AN=90549554&h=rZtWQP2kfFxg5r5FQee0pu6BhQ%2FB1MDKRD7Iv7YKugxWTq0T9B3SQBpOw8y9wDsXIzAy3jbXSlhWR789tvT68Q%3D%3D&crl=c
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A Low Power Hardware Implementation of Lifting based Reversible Watermarking for Medical Image
+     Author ['P Jana', 'GK Maity', 'H Mandal']
+     Venue 2019 Devices for Integrated …
+     Year 2019
+     Abstract Section IV represents the software and also the hardware simulation results respectively  The encoder circuit is realized in Zynq series FPGA (XC7Z010-CLG400-3) to evaluate the  performance is experienced over a collection of test images (grayscale and medical images)
+     Url https://ieeexplore.ieee.org/abstract/document/8783370/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Application of TEXTIO in the Simulation of FPGA Image Processing Algorithm
+     Author ['S Zhang', 'J Zhu', 'C Wang']
+     Venue 2016 3rd International Conference …
+     Year 2016
+     Abstract 3) Simulation in Modelsim: Modelsim is HDL (Description Language Hardware) simulation software of Technology Model, it  J. Martinu and P. Vecerkova, An algorithm to echogenicity level identification on medical B- images and its applicability on FPGA platform, 2015
+     Url https://ieeexplore.ieee.org/abstract/document/7726156/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Understanding the memory performance of data-mining workloads on small, medium, and large-scale cmps using hardware-software co-simulation
+     Author ['W Li', 'E Li', 'A Jaleel', 'J Shan', 'Y Chen']
+     Venue … Analysis of Systems …
+     Year 2007
+     Abstract prefetcher on an Intel射 Xeon射 machine. simulators, FPGA-based hardware simulation has been  applications including credit approval, medical diagnosis, performance prediction, and selective marketing. 2.5  FPGA-based emulation [3, 20] is now capable of emu
+     Url https://ieeexplore.ieee.org/abstract/document/4211020/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A survey of FPGA based Interference cancellation architectures for biomedical signals
+     Author ['AR Kasetwar', 'SM Gulhane']
+     Venue 2013 International Conference on …
+     Year 2013
+     Abstract automatically. All signals are changed to 16 bits fix-point data with 13 fractional bits in FPGA [5]. Fig.3. Hardware Simulation of the adaptive PLI cancelation from ECG signal This design uses Xilinx XUPV5 Development Board. After successful Simulation, the Bitstream file and
+     Url https://ieeexplore.ieee.org/abstract/document/6466312/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real-time simulation and visualization architecture with field programmable gate array (FPGA) simulator
+     Author ['M Karkee', 'M Monga', 'BL Steward']
+     Venue ASME World …
+     Year 2010
+     Abstract However, the FPGA- based simulator achieved a real-time goal taking only 2 µs to complete one integration time step  of Iowa [4] provided an operator-in- the-loop simulation system which has been used in transportation studies, virtual prototyping and medical research
+     Url https://asmedigitalcollection.asme.org/WINVR/proceedings-abstract/WINVR2010/49088/219/338975
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract is designed for a specific application, as for example in the case of bio-medical artefacts (Akay  HH) formalism, in order to address two fields of research: (i) build a hardware simulation system for  The digitized outputs of each “neural element” are directly connected to FPGA inputs
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Distributed generation communications utilizing a real-time FPGA-based channel simulator in the ISM frequency band
+     Author ['J Meng', 'S Barnes']
+     Venue International Journal of Emerging Electric Power …
+     Year 2007
+     Abstract the hardware-based channel simulator using field- programmable gate array (FPGA) technology  designed for use in the unlicensed industrial, scientific and medical (ISM) frequency  Real-time hardware simulation techniques utilize RF circuitry and digital signal processing (DSP
+     Url https://www.degruyter.com/view/journals/ijeeps/8/1/article-ijeeps.2007.8.1.1383.xml.xml
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title A high-speed Iterative Closest Point tracker on an FPGA platform
+     Author ['MS Belshaw']
+     Venue NA
+     Year 2008
+     Abstract 53 3.9 Pre-filter Uniform Sub-sampling Hardware Simulation Output  while working around physical limits of the FPGA, and the testing apparatus. Page 25  There are numerous applications for visual tracking including: video surveillance, innovative medical procedures and
+     Url https://qspace.library.queensu.ca/handle/1974/1322
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA design and implementation of digital scan converter for B-ultrasonic
+     Author ['P Yong', 'C Fei', 'D Wanli']
+     Venue Microcomputer & Its Applications
+     Year 2013
+     Abstract The digital scan converter(DSC) is an important part of the medical B-ultrasonic,coordinate transformation and interpolation  is completed by the bilinear interpolation and the CORDIC algorithm,and gives its implementation and hardware simulation in the FPGA.The results
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WXJY201312011.htm
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Usage area and speed performance analysis of booth multiplier on its FPGA implementation
+     Author ['AI Sukowati', 'HD Putra']
+     Venue … Conference on Informatics …
+     Year 2016
+     Abstract ANN's can help solve many problems in the field of pattern recognition, image processing and medical diagnostics using parallel information distribution system  Comparisons were made by implementing the algorithm of the multiplier on Field Programmable Gate Array (FPGA)
+     Url https://ieeexplore.ieee.org/abstract/document/7905700/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA logic design method based on multi resolution image real time acquisition system
+     Author ['CH Li', 'YH Shiau']
+     Venue Evolutionary Intelligence
+     Year 2019
+     Abstract 5 Hardware simulation and data analysis  Using the parallel computing of FPGA, the image acquisition of two cameras is successful by the calculation of sub  The data acquisition and storage system has been successfully applied to the display of medical devices, which lays the
+     Url https://link.springer.com/article/10.1007/s12065-018-0194-9
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware realisation of an intelligent medical image watermarking
+     Author ['S Bal', 'S Das', 'S Dutta', 'S Das']
+     Venue International Journal …
+     Year 2020
+     Abstract Proposed method by authors 61.026 0.86 FPGA realisation of medical image watermarking (Bal et al., 2018) 62.805 0.8  47.587 0.55 Secured medical image watermarking method (Basu et al., 2015) 46.923 0.043  (2013) method 45.83 0.58 5.2 Hardware simulation results
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJNP.2020.105999
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware simulation systems and methods for vision inspection systems
+     Author ['RM Wasserman']
+     Venue US Patent 7,092,860
+     Year 2006
+     Abstract Hardware simulation systems and methods for vision inspection systems. Download PDF  or other integrated circuit, a digital signal processor, a hardwired electronic or logic circuit such as a discrete element circuit, a programmable logic device such as a PLD, PLA, FPGA or PAL
+     Url https://patents.google.com/patent/US7092860B1/en
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Low-Bit Hardware Implementation of DWT for 3D Medical Images Processing
+     Author ['PA Lyakhov', 'MV Valueva', 'NN Nagornov']
+     Venue … IEEE Conference of …
+     Year 2020
+     Abstract bit-width is 13 = r (PSNR = ∞ in this case). Results of hardware simulation for various cases of coefficients bit-width are shown in Table 1 and Fig. 3  2017. [7] “Diagnostic Imaging FPGA Applications - Intel® FPGA.” [Online]  [8] “Medical Imaging with CT, MRI and PET.” [Online]
+     Url https://ieeexplore.ieee.org/abstract/document/9038946/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Synthetic aperture radar data processing on an FPGA multi-core system
+     Author ['P Schleuniger', 'A Kusk', 'J Dall', 'S Karlsson']
+     Venue International Conference on …
+     Year 2013
+     Abstract We then use MATLAB to plot the data of the hardware simulation  IEEE Journal on Transactions on Medical Imaging 18, 1049–1075 (1999) 8. Lu, Y., McCanny, J., Sezer, S.: Generic low-latency noc router architecture for FPGA computing systems
+     Url https://link.springer.com/chapter/10.1007/978-3-642-36424-2_7
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA based implementation of the exact stochastic simulation algorithm
+     Author ['PB Vanguri']
+     Venue NA
+     Year 2010
+     Abstract In order to address these issues, this work presents a hardware-accelerated version of the stochastic simulation algorithm on Field Programmable Gate Arrays (FPGA). The overall  reactions any way they want. This means the scientist could create medical breakthroughs
+     Url https://trace.tennessee.edu/utk_gradthes/837/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fpga based design and implementation of improved edge detection algorithm using log operator
+     Author ['E Dong', 'K Li', 'J Tong']
+     Venue 2018 IEEE International Conference on …
+     Year 2018
+     Abstract edge detection algorithms have been widely used for several applications in medical, industrial, mobile  Detection Module When the algorithm is designed and implemented in FPGA, this algorithm  The designed system uses Signal Tap II for hardware simulation, in which 3×3
+     Url https://ieeexplore.ieee.org/abstract/document/8484676/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Independent component analysis algorithm fpga design to perform real-time blind source separation
+     Author ['C Odom']
+     Venue NA
+     Year 2012
+     Abstract several fields of work. These fields include array processing, communications, medical signal processing, and speech processing, wireless communication, audio, acoustics and biomedical  Programmable Gate Array (FPGA). The Algebraic ICA (A-ICA), Fast ICA, and Equivariant
+     Url https://diginole.lib.fsu.edu/islandora/object/fsu%3A183045
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Co-simulation method for hardware/software evaluation using Xilinx system generator: a case study on image compression algorithms for capsule endoscopy
+     Author ['Q Al-Shebani', 'P Premaratne', 'PJ Vial']
+     Venue 2018 12th …
+     Year 2018
+     Abstract Fig. 6. The third subsystem of the hardware simulation design of the MCT method  Medical & biological engineering & computing, 2016. 54(11): p. 1779-1791  6(1): p. 40-44. [9] Khan, TH, et al., Design of a smart-device and FPGA based wireless capsule endoscopic system
+     Url https://ieeexplore.ieee.org/abstract/document/8631737/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title System and method for system level and circuit level modeling and design simulation using C++
+     Author ['S Liao', 'S Tjiang', 'R Gupta']
+     Venue US Patent 6,152,612
+     Year 2000
+     Abstract The present invention relates to the field of electronic design automation (EDA) for integrated circuits. More specifically, the present invention relates to the field of computer controlled systems and software for system and hardware simulation and circuit synthesis. (2) Prior Art
+     Url https://patents.google.com/patent/US6152612A/en
+

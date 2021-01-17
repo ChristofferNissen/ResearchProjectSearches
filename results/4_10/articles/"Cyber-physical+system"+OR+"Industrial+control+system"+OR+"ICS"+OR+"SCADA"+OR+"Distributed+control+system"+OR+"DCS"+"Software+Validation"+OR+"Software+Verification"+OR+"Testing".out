@@ -1,0 +1,91 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Test Generation for Current Testing (CMOS ICs)
+     Author ['P Nigh', 'W Maly']
+     Venue IEEE Design & Test of Computers
+     Year 1990
+     Abstract Current testing is useful for testing CMOS ICs because it can detect a large class of manufacturing defects, including defects that traditional stuck-at fault testing misses. The effectiveness of current testing can be enhanced if built-in current sensors are applied on
+     Url https://ieeexplore.ieee.org/abstract/document/46891/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing oriented analysis of CMOS ICs with opens
+     Author ['W Maly', 'PK Nag', 'P Nigh']
+     Venue 1988 IEEE International Conference on …
+     Year 1988
+     Abstract In a typical approach to VLSI testing, open faults are modeled by the transistor-stuck-open fault model or are not explicitly covered at all. It is shown that functional faults caused by opens, ie by regions with missing material, cannot be modeled well by a transistor stuck
+     Url https://www.computer.org/csdl/proceedings-article/iccad/1988/00122525/12OmNxXl5Az
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Very-low-voltage testing for weak CMOS logic ICs
+     Author ['H Hao', 'EJ McCluskey']
+     Venue Proceedings of IEEE International Test …
+     Year 1993
+     Abstract In this paper we propose a very-low-voltage (VLV) testing technique for CMOS logic ICs. Voltage dependence of CMOS logic circuit operation in the presence of resistive shorts and hot carrier damage is studied. It is shown that at certain much-lower-than-normal power
+     Url https://ieeexplore.ieee.org/abstract/document/470686/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Electrical characteristics and testing considerations for gate oxide shorts in CMOS ICs
+     Author ['CF Hawkins', 'JM Soden']
+     Venue inte
+     Year 1985
+     Abstract This paper examines the electrical characteristics and testing considerations of gate oxide shorts. Gate oxide shorts will cause increased IDD and in the majority of cases will degrade logic voltage levels and propagation delay times, but may not affect functionality. Stuck-at
+     Url https://ui.adsabs.harvard.edu/abs/1985inte.conf.....H/abstract
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing ICs: Getting to the core of the problem
+     Author ['BT Murray', 'JP Hayes']
+     Venue Computer
+     Year 1996
+     Abstract The article examines the market and technology trends affecting the testing of integrated circuits, with emphasis on the role of predesigned components-cores-and built in self test. We explain manufacturing testing, as opposed to design testing, which happens before
+     Url https://ieeexplore.ieee.org/abstract/document/544235/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing TSV-based three-dimensional stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2010 Design, Automation & Test in Europe …
+     Year 2010
+     Abstract To meet customer's product-quality expectations, each individual IC needs to be tested for manufacturing defects incurred during its many high-precision, and hence defect-prone manufacturing steps; these tests should be both effective and cost-efficient. The
+     Url https://ieeexplore.ieee.org/abstract/document/5457087/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A gated clock scheme for low power scan testing of logic ICs or embedded cores
+     Author ['Y Bonhomme', 'P Girard', 'L Guiller']
+     Venue … 10th Asian Test …
+     Year 2001
+     Abstract Test power is now a big concern in large system-on-chip designs. In this paper, we present a novel approach for minimizing power consumption during scan testing of integrated circuits or embedded cores. The proposed low power technique is based on a gated clock scheme
+     Url https://ieeexplore.ieee.org/abstract/document/990291/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Challenges in testing core-based system ICs
+     Author ['EJ Marinissen', 'Y Zorian']
+     Venue IEEE Communications Magazine
+     Year 1999
+     Abstract Advances in semiconductor design and manufacturing technology enable the design of complete systems on one IC. To develop these system ICs in a timely manner, traditional IC design in which everything is designed from scratch, is replaced by a design style based on
+     Url https://ieeexplore.ieee.org/abstract/document/769283/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Expeditious and low cost testing of RFID ICs
+     Author ['BA Kramer']
+     Venue US Patent 7,279,920
+     Year 2007
+     Abstract System and method for integrated circuit manufacturing. A preferred embodiment comprises transmitting a first set of data to integrated circuits (ICs) while they are in an on-wafer state and having each IC store the first set of data into memory, transmitting a second
+     Url https://patents.google.com/patent/US7279920B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Backside laser testing of ICs for SET sensitivity evaluation
+     Author ['D Lewis', 'V Pouget', 'F Beaudoin', 'P Perdu']
+     Venue … on Nuclear Science
+     Year 2001
+     Abstract A new experimental approach combining backside laser testing and analog mapping is presented. A new technique for integrated circuits (ICs) backside preparation by laser ablation is evaluated. The methodology is applied to the study of single-event transient
+     Url https://ieeexplore.ieee.org/abstract/document/983195/
+

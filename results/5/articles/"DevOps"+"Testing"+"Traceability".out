@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Testing"+"Traceability"
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Tool support for traceability management of software artefacts with DevOps practices
+     Author ['S Palihawadana', 'CH Wijeweera']
+     Venue 2017 Moratuwa …
+     Year 2017
+     Abstract Hence SAT Analyzer is linked with Jenkins continuous integration tool. At the same time the existing visualization of SAT Analyzer was enhanced to support DevOps related operations and testing, configuration and deployment traceability links
+     Url https://ieeexplore.ieee.org/abstract/document/7980469/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Traceability management with impact analysis in DevOps based software development
+     Author ['I Rubasinghe', 'D Meedeniya']
+     Venue … Conference on Advances …
+     Year 2018
+     Abstract design diagram and source code by considering the first few stages in software lifecycle [6][7][8]. This paper presents an extended SAT- Analyser with the capabilities to support traceability within requirements, design, source code and testing phase of the DevOps practices
+     Url https://ieeexplore.ieee.org/abstract/document/8554399/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Automated Inter-artefact Traceability Establishment for DevOps Practice
+     Author ['I Rubasinghe', 'D Meedeniya']
+     Venue 2018 IEEE/ACIS 17th …
+     Year 2018
+     Abstract This paper has addressed the traceability establishment between heterogeneous artefacts in DevOps based software development that encourages frequent software artefact updates with continuous integration, testing and deployment
+     Url https://ieeexplore.ieee.org/abstract/document/8466414/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Devops round-trip engineering: Traceability from dev to ops and back again
+     Author ['M Jiménez', 'L Castaneda', 'NM Villegas']
+     Venue … Workshop on Software …
+     Year 2018
+     Abstract and Dev Open image in new window Ops) that enables bidirectional traceability [14] of  Experimentation on production-like environments enables DevOps engineers and operators to develop new features  The state of the practice for D&C testing is based on static analysis and
+     Url https://link.springer.com/chapter/10.1007/978-3-030-06019-0_6
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Traceability Establishment and Visualization of Software Artefacts in DevOps Practice: A Survey
+     Author ['DA Meedeniya', 'ID Rubasinghe']
+     Venue International Journal of …
+     Year 2019
+     Abstract DevOps environments associate five main principles: continuous planning, continuous integration, continuous delivery, continuous testing and continuous  Thus, it is important to have software artefact traceability support for the CI process to handle changes. III
+     Url https://www.researchgate.net/profile/Indika_Perera/publication/335172099_Traceability_Establishment_and_Visualization_of_Software_Artefacts_in_DevOps_Practice_A_Survey/links/5d5440c7a6fdcc74dfa7c496/Traceability-Establishment-and-Visualization-of-Software-Artefacts-in-DevOps-Practice-A-Survey.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Tool Support for Software Artefact Traceability in DevOps Practice: SAT-Analyser
+     Author ['I Rubasinghe', 'D Meedeniya', 'I Perera']
+     Venue Tools and Techniques for …
+     Year 2020
+     Abstract of the software process including requirements, design, source code, testing, and configuration. This chapter addresses traceability management, including trace link creation, change detection  designed for continuous integration, multi-user collaboration, and DevOps tool stack
+     Url https://www.igi-global.com/chapter/tool-support-for-software-artefact-traceability-in-devops-practice/247541
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Traceability management in a devops environment with continuous integration
+     Author ['ID Rubasinghe']
+     Venue NA
+     Year 2019
+     Abstract 28 2.9.2 DevOps tools ..... 30 2.9.3 DevOps related project management tools ..... 32 Page 7. v  43 2.13.3 Traceability testing techniques
+     Url http://dl.lib.mrt.ac.lk/handle/123/16052
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract For IEC 62304, we discuss traceability and problem resolution process in detail, as  the following clauses of IEC 62304 are notable for deploying DevOps practices: • Clause  units meet ver- ification acceptance criteria before entering integration activities and integration testing
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Towards traceability management in continuous integration with SAT-analyzer
+     Author ['ID Rubasinghe', 'DA Meedeniya', 'I Perera']
+     Venue Proceedings of the 3rd …
+     Year 2017
+     Abstract continues integration service that supports building and testing open source software projects. It encourages team workings by tightly coupling to DevOps practices. Further, it performs automatic scheduled tests with GitHub repositories. 3. TRACEABILITY IN PRACTICE 3.1
+     Url https://dl.acm.org/doi/abs/10.1145/3162957.3162985
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title The software architect and DevOps
+     Author ['L Bass']
+     Venue IEEE Software
+     Year 2017
+     Abstract X Build image and perform integration tests User acceptance testing, staging, and performance tests  Dealing with Errors A final DevOps practice involving the architect is dealing with errors once the system is in production  This task depends on the system elements' traceability
+     Url https://ieeexplore.ieee.org/abstract/document/8239924/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title The factors driving testing in devops setting-a systematic literature survey
+     Author ['J Angara', 'S Prasad', 'G Sridevi']
+     Venue Indian Journal …
+     Year 2017
+     Abstract cycle, makes defect fixing cheaper, quicker, frees tester's precious time for exploratory testing and value  DevOps process has to be metric driven  complexity, test automation percentage, tester effi- ciency, collaboration/handshake index, defect density, traceability percentage, etc
+     Url https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2016/Issue-48/Article45.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps Round-Trip Engineering: Traceability from Dev to Ops and Back Again
+     Author ['G Tamura', 'HA Müller']
+     Venue … Workshop, DEVOPS 2018 …
+     Year 2019
+     Abstract Keywords: Software deployment DevOps·· Continuous Round-Trip integration Engineering· Traceability· 1 Introduction Changes in the  DevOps Round-Trip Engineering 75 be updated accordingly  The state of the practice for D&C testing is based on static analysis and functional
+     Url https://books.google.com/books?hl=da&lr=&id=EVmEDwAAQBAJ&oi=fnd&pg=PA73&dq=%22DevOps%22+%22Testing%22+%22Traceability%22&ots=18tc8zsgNp&sig=LFw9YB4TZ1UZQg2QZJZGavNTAaE
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract 1. An illustration of the traceability requirements of IEC 63204 life-cycle between requirement B  Staging environments could use real-life, potentially live data in testing, and compare it  could be improved to better relate the regulated software development with DevOps practices
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract and techniques to manage environments and infrastructure is also a key part of devops  can self-service the deployments they want • The pipeline provides complete traceability and auditing  Build binaries; Run automated tests Self-service automated deployment to testing envs
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Microservices architecture enables devops: Migration to a cloud-native architecture
+     Author ['A Balalaie', 'A Heydarnoori', 'P Jamshidi']
+     Venue Ieee Software
+     Year 2016
+     Abstract As can be seen in Figure 2(h), independent testing of services using consumer-driven  In contrast, DevOps recommends vertical dividing of project members into small cross-functional teams which  details of our patterns can be found in [4]. However, for traceability purposes, a
+     Url https://ieeexplore.ieee.org/abstract/document/7436659/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title ALM tool infrastructure with a focus on DevOps culture
+     Author ['S Akman', 'EB Aksuyek', 'O Kaynak']
+     Venue European Conference on Software …
+     Year 2018
+     Abstract 7.4 Test Case (TC) Development and FR/NFR Traceability. Software testing as a part of SDLC, is a very diverse topic—or even seen as a milestone of software  They can be written directly in Jira, which should be preferred in order to promote DevOps culture and increase
+     Url https://link.springer.com/chapter/10.1007/978-3-319-97925-0_24
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Continuous practices and devops: beyond the buzz, what does it all mean?
+     Author ['D Stahl', 'T Martensson', 'J Bosch']
+     Venue 2017 43rd Euromicro …
+     Year 2017
+     Abstract also diversified and stirred substantial interest in the research community, not least in their effect on related aspects of software engineering, such as configuration management, traceability, communication, testing and planning. As a more recent development, DevOps has risen
+     Url https://ieeexplore.ieee.org/abstract/document/8114695/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps for developers
+     Author ['M Hüttermann']
+     Venue NA
+     Year 2012
+     Abstract 102 Attributes of a Unified Approach.....104 Foster Traceability .....104 Check Nonfunctional  You'll learn that quality and testing are crucial aspects of DevOps as well as team work
+     Url https://books.google.com/books?hl=da&lr=&id=JfUAkB8AA7EC&oi=fnd&pg=PR3&dq=%22DevOps%22+%22Testing%22+%22Traceability%22&ots=wonndczsfP&sig=_Xilol8uusZz0HreNEFF1fEb_5w
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps with continuous testing architecture and its metrics model
+     Author ['J Angara', 'S Gutta', 'S Prasad']
+     Venue Recent Findings in Intelligent Computing …
+     Year 2018
+     Abstract This is possible through continuous testing function of DevOps  and functionality [4]. Communication and collaboration are critical in continuous testing process  automated, availability of infrastructure, release frequency, test efficiency, requirement traceability, test optimization
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8633-5_28
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps improvements for reduced cycle times with integrated test optimizations for continuous integration
+     Author ['D Marijan', 'M Liaaen', 'S Sen']
+     Venue 2018 IEEE 42nd Annual …
+     Year 2018
+     Abstract change impact analysis is used to detect impacted test cases from test suites, S1, ..., S10, using traceability links between  retest all impacted approach, as an industry practice, our proposed approach for reducing cycle times in DevOps by reducing CI testing time can
+     Url https://ieeexplore.ieee.org/abstract/document/8377636/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title A Testability and Observability Framework to Assure Traceability Requirements on System of Systems
+     Author ['LM Trujillo', 'MÁO González']
+     Venue Journal of Web …
+     Year 2020
+     Abstract (2012). https://itrevolution.com/devops-culture-part-1/ (accessed December 19, 2019)  Pandit, P., & Tahiliani, S. (2015). AgileUAT: A framework for user acceptance testing based on user stories and acceptance criteria  An analysis of the requirements traceability problem
+     Url https://journals.riverpublishers.com/index.php/JWE/article/view/3365
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Rethinking secure DevOps threat modeling: The need for a dual velocity approach
+     Author ['A Valani']
+     Venue 2018 IEEE Cybersecurity Development (SecDev)
+     Year 2018
+     Abstract velocity approach lends itself better to scaling threat modeling, automation, and traceability in Secure  into various Software Development Lifecycle (SDLC) domains such as coding and testing to reduce  much of the bottleneck to support a faster moving Secure DevOps pipeline
+     Url https://ieeexplore.ieee.org/abstract/document/8543404/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Performance-oriented DevOps: A research agenda
+     Author ['A Brunnert', 'A van Hoorn', 'F Willnecker', 'A Danciu']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract only compile and deploy a new EA version, CD systems also automate the testing tasks until  The main goal of performance model extraction for DevOps is to define and build an automated  Current performance modeling formalisms barely ensure the traceability between the
+     Url https://arxiv.org/abs/1508.04752
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Cloud ecosystems support for Internet of Things and DevOps using patterns
+     Author ['MH Syed', 'EB Fernandez']
+     Venue … on Internet-of-Things Design and …
+     Year 2016
+     Abstract assurance which can be achieved by practicing DevOps. However, DevOps teams need to address concerns like auditability, traceability, compatibility, interoperability, testing and quality assurance, not to mention security [26]. IV. VII
+     Url https://ieeexplore.ieee.org/abstract/document/7471379/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Application/service event root cause traceability causal and impact analyzer
+     Author ['JK Chaar', 'JP Huchel', 'TA Jobson Jr']
+     Venue US Patent …
+     Year 2013
+     Abstract US8375370B2 - Application/service event root cause traceability causal and impact analyzer - Google Patents. Application/service event root cause traceability causal and impact analyzer. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US8375370B2/en
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title An exploratory study of devops extending the dimensions of devops with practices
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue ICSEA 2016
+     Year 2016
+     Abstract processes associated with deployments and configuration settings for improved traceability and repeatable  as they constantly improve learning, helps to facilitate and embrace DevOps phenomenon amongst  reliance on detection and recovery than standard QA testing practices
+     Url https://www.academia.edu/download/49113540/icsea_2016_full.pdf#page=105
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract 1 Traceability between application and operations assets 1  7.29 1 Automated performance testing for updated applications against current baseline performance 1  15.63 1 Page 17. DevOps: Advances in Release Management and Automation (OI00127-072)
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps is the Key for Continuous Security: RMF, ATO and Beyond
+     Author ['H Yasar']
+     Venue NA
+     Year 2018
+     Abstract Deprecate Unsafe Functions • Perform Security Unit Testing • Static Code Analysis • Checking of process and procedures for secure coding & traceability Page 24. 24 DevOps is the key for Continuous Security: RMF, ATO and beyond © 2018 Carnegie Mellon University
+     Url https://apps.dtic.mil/sti/citations/AD1083882
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps for information management systems
+     Author ['AQ Gill', 'A Loumish', 'I Riyat', 'S Han']
+     Venue VINE Journal of Information and …
+     Year 2018
+     Abstract DevOps processes (Table VII) focus on continuous and frequent development and testing and deployment of working software in production. The automation of DevOps processes will ensure that the important steps are not overlooked because of human error, and teams have
+     Url https://www.emerald.com/insight/content/doi/10.1108/VJIKMS-02-2017-0007/full/html
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract Using DevOps in medical device development shares characteristics with the traditional DevOps architecture [8]: more automation, tools and testing as well as short planning cycles and  Therefore, requirements for traceability are also enforced to these types of artifacts
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Build Secure Application with DevSecOps!
+     Author ['T Longstaff', 'H Yasar']
+     Venue NA
+     Year 2019
+     Abstract Deprecate Unsafe Functions • Perform Security Unit Testing • Static Code Analysis • Checking of process and procedures for secure coding & traceability Page 25. 25 Build Secure Application with Secure DevOps! © 2018 Carnegie Mellon University
+     Url https://apps.dtic.mil/sti/citations/AD1088677
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Software artefacts consistency management towards continuous integration: A roadmap
+     Author ['DA Meedeniya', 'ID Rubasinghe']
+     Venue International Journal of …
+     Year 2019
+     Abstract Travis is another distributed CI service that supports building and testing open source software projects. It encourages teamwork by tightly coupling to DevOps practices [63]  Table II summarizes the features of the related studies in artefact traceability management in terms of
+     Url https://www.researchgate.net/profile/Indika_Perera/publication/335172232_Software_Artefacts_Consistency_Management_towards_Continuous_Integration_A_Roadmap/links/5d54423c45851530407530c3/Software-Artefacts-Consistency-Management-towards-Continuous-Integration-A-Roadmap.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title An automated framework for continuous development and testing of access control systems
+     Author ['S Daoudagh', 'F Lonetti']
+     Venue Journal of Software …
+     Year 2020
+     Abstract Automated testing in DevOps represents a key factor for providing fast release of new software features assuring quality delivery  We refer to GURU9948 for a list of the best DevOps testing tools, features, and download links
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2306
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Closing the IT development-operations gap: The devops knowledge sharing framework.
+     Author ['PA Nielsen', 'TJ Winkler', 'J Nørbjerg']
+     Venue BIR Workshops
+     Year 2017
+     Abstract the cause and solve the problem or roll back a release [4]. Automated deployment of software to different environments such as testing, system testing, staging and production is also an important element of DevOps [11]. The automation enables backwards traceability to source
+     Url https://research-api.cbs.dk/ws/files/57323384/till_j_winkler_et_al_closing_the_it_development_operations_gap_acceptedversion.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Versioning Strategy for DevOps Implementations
+     Author ['N Paez']
+     Venue 2018 Congreso Argentino de Ciencias de La …
+     Year 2018
+     Abstract Palihawadana et al. [15] have worked on traceability of artifacts for DevOps practices. They extended a tool called SAT Analyzer to cover testing, configuration and deployment artefacts, but they did not cover infrastructure code and version naming
+     Url https://ieeexplore.ieee.org/abstract/document/8584362/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Agile application lifecycle management: Using DevOps to drive process improvement
+     Author ['B Aiello', 'L Sachs']
+     Venue NA
+     Year 2016
+     Abstract 7.13 Systems and Application Design 7.14 Code Quality Instrumentation 7.15 Testing the Lifecycle  1 Gold Copies 7.19 Supporting the CMDB 7.20 Driving DevOps 7.21 Supporting  8.14 Establishing the Build and Deploy Framework 8.15 Establishing Traceability 8.16 Better
+     Url https://books.google.com/books?hl=da&lr=&id=zMY_DAAAQBAJ&oi=fnd&pg=PT26&dq=%22DevOps%22+%22Testing%22+%22Traceability%22&ots=YEEZ2yLqPb&sig=nMtWEaY4mVdNxvd1crBLd3bjxqQ
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Software Artefact Traceability Analyser: A Case-Study on POS System
+     Author ['ID Rubasinghe', 'DA Meedeniya', 'I Perera']
+     Venue Proceedings of the 6th …
+     Year 2018
+     Abstract Furthermore, the integration of continuous integration support for the tool with DevOps principles would be an important future work to cope with the agile based software  [6] Parizi, RM On the gamification of human-centric traceability tasks in software testing and coding
+     Url https://dl.acm.org/doi/abs/10.1145/3193092.3193094
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Productivity gains of DevOps adoption in an IT team: a case study
+     Author ['MA Silva', 'JP Faustino', 'R Pereira', 'M Mira da Silva']
+     Venue NA
+     Year 2018
+     Abstract CS ID Title Bibliography Focused Capability Page 5. ISD2018 SWEDEN CS.1 Tool Support for Traceability Management of Software Artefacts with DevOps Practices [8] N/A CS.2 Adopting DevOps Practices in Quality Assurance [12] Continuous testing
+     Url https://aisel.aisnet.org/isd2014/proceedings2018/ISDevelopment/8/
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Enable cloud DevOps approach for industry and higher education
+     Author ['M Airaj']
+     Venue Concurrency and Computation: Practice and …
+     Year 2017
+     Abstract Further, as the DevOps teams iterate and produce release candidates, traceability of the artifacts  thirds of the survey respondents), half of the respondents had no standard testing processes, and  In this context, how could DevOps fit in the database and help organizations have
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.3937
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title An Overview of Azure DevOps
+     Author ['J Rossberg']
+     Venue Agile Project Management with Azure DevOps
+     Year 2019
+     Abstract You don't have to deal with such a situation. Azure DevOps features can help you with traceability so you can avoid such problems: Work item tracking. TDD/unit testing. Azure Pipelines. Check-in policies. Version control system
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-4483-8_2
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps shifting software engineering strategy-value based perspective
+     Author ['SI Mohamed']
+     Venue International Journal of Computer Engineering
+     Year 2015
+     Abstract Defect tracking and touch points between testing/quality team and development teams in the  helps in transforming the software development life cycle to adapt with the DevOps strategy  the risk of downtime due to deployment errors, and better visibility and traceability to meet
+     Url http://scholar.msa.edu.eg:93/sites/default/files/dr_samer_ibrahim/files/paper_2_-_devops_shifting_software_engineering_strategy-value_based_perspective-iosr_jce.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract 4. traceability, which allows admins to track down who made which changes when and why,. 5  The next section describes the basic infrastructure we build, while Sects. 28.3 and 28.4 describe the DevOps inspired parts  They are used for testing GPU codes and FPGA designs
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps: finding room for security
+     Author ['S Mansfield-Devine']
+     Venue Network Security
+     Year 2018
+     Abstract The most significant application security testing challenges inherent in CI/CD workflows. Source: Synopsys  It runs counter to the fast-evolving pace of the DevOps principle  “Usually when we build a threat model we have something called a traceability matrix where we have all
+     Url https://www.sciencedirect.com/science/article/pii/S1353485818300709
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Build Secure Application with DevSecOps!
+     Author ['H Yasar']
+     Venue NA
+     Year 2018
+     Abstract Introducing The DevOps Factory Page 8. 8 Build Secure Application with DevSecOps  Deprecate Unsafe Functions • Perform Security Unit Testing • Static Code Analysis • Checking of process and procedures for secure coding & traceability Page 15. 15
+     Url https://apps.dtic.mil/sti/pdfs/AD1087050.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Designing Software Architecture to Support Continuous Delivery and DevOps: A Systematic Literature Review.
+     Author ['R Bolscher', 'M Daneva']
+     Venue ICSOFT
+     Year 2019
+     Abstract software without downtime and moving the software quickly between different environments (eg testing, production  Table 3: Software architecture characteristics supporting CD/DevOps  CH3 Automation Berger et al., 2017; Chen et al.2015; Bass, 2017 CH4 Traceability Berger et
+     Url https://www.scitepress.org/Papers/2019/78370/78370.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps on the Microsoft Stack
+     Author ['W De Kort']
+     Venue NA
+     Year 2016
+     Abstract 36 Achieving Traceability with Developers ..... 39  By automating deployments, testing, and infrastructure operations, new features can reach production in minutes . Figure 1-2. The different parts that make up a DevOps process Page 26
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4842-1446-6.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title DevOps: are you pushing bugs to your clients faster
+     Author ['W Ariola', 'C Dunlop']
+     Venue Thirty-Third Annual Pacific Northwest …
+     Year 2015
+     Abstract 6.3 Requirements Traceability—Defending the Business Objective  7 Conclusion Admittedly, moving from automated testing to the level of business-driven Continuous Testing outlined above is a big leap. But it is one that yields significant benefits from a DevOps perspective
+     Url http://uploads.pnsqc.org/2015/papers/t-007_Ariola_paper.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Software Configuration Management in a DevOps context
+     Author ['E Hochbergs', 'L Nilsson Sjödahl']
+     Venue LU-CS-EX
+     Year 2020
+     Abstract Testing Testing, including continuous (and especially automated) testing, is an important part of DevOps, which is used continuously during the development process to eg assure quality, correctness, get fast feedback (Daskalopoulos, ; Sharma, ; Jabbari et al., )
+     Url https://lup.lub.lu.se/student-papers/record/9024735/file/9024736.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Exploring DevOps for Data Analytical System with Essential Demands Elicitation.
+     Author ['J Zheng', 'Y Liu', 'J Lin']
+     Venue SEKE
+     Year 2016
+     Abstract Traceability of Analysis Result Quality Hard to confirm what causes the unexpected result and take too much time Implement  Babar et al.[8] thought that DevOps model are composed of produc- tion management, development, automated testing, ongoing deployment
+     Url https://pdfs.semanticscholar.org/705f/0cb37526aa0297dcc908f53e8cf7f8f8cfb3.pdf
+
+
+     Search term "DevOps"+"Testing"+"Traceability"
+     Title Optimization of Software Development Process by Plugin Integration with Jira–A Project Management Tool in Devops
+     Author ['P Mittal', 'P Mehta']
+     Venue Available at SSRN 3564436
+     Year 2020
+     Abstract This literature survey of DevOps and its tools concluded that DevOps simplifies he development work with the support of its  3.9. Requirement to Build/Deployment Traceability  so that they can get to know which all stories are deployed in QA environment and available for testing
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564436
+

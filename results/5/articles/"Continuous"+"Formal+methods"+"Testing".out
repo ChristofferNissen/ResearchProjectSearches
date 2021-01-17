@@ -1,0 +1,451 @@
+Showing papers for search query "Continuous"+"Formal+methods"+"Testing"
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Continuous reasoning: Scaling the impact of formal methods
+     Author ["PW O'Hearn"]
+     Venue Proceedings of the 33rd Annual ACM/IEEE Symposium …
+     Year 2018
+     Abstract Continuous Reasoning: Scaling the impact of formal methods  Their work is often backed by a continuous integration system (CI system) which ensures that the code  People naturally develop pro- grams in an iterative style, where coding and testing feed back on design, and so
+     Url https://dl.acm.org/doi/abs/10.1145/3209108.3209109
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Coverage-guided test generation for continuous and hybrid systems
+     Author ['T Dang', 'T Nahhal']
+     Venue Formal Methods in System Design
+     Year 2009
+     Abstract When the specification is described by a formal model, the international standard 'Formal Methods in Conformance Testing' (FMCT) [26  this work, following the spirit of FMCT, we are interested in developing a conformance testing framework for continuous and hybrid
+     Url https://link.springer.com/content/pdf/10.1007/s10703-009-0066-0.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract In this work, we use an extension of VDMUnit that enables testing of models specified using VDM-SL—an ISO standardised VDM dialect for sequential specifications, which previously was not supported by VDMUnit  Enabling continuous integration in a formal methods setting
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Continuous formal verification of Amazon s2n
+     Author ['A Chudnov', 'N Collins', 'B Cook', 'J Dodds']
+     Venue … on Computer Aided …
+     Year 2018
+     Abstract reasoning about code in [19], and describes additional instances of integration of formal methods with developer  These proofs are not run as part of continuous integration, rather, they are only  of full proof, but still provides much higher state space coverage than testing methods
+     Url https://link.springer.com/chapter/10.1007/978-3-319-96142-2_26
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods for test automation-hard real-time testing of controllers for the airbus aircraft family
+     Author ['J Peleska']
+     Venue IDPT'02
+     Year 2002
+     Abstract formalisms have been developed in the software engi- neering and formal methods communities to  In the context of testing, formalisms to specify correctness criteria are needed  specifically deadlines required for discrete SUT outputs, 5. Time-continuous properties: piecewise
+     Url http://www.cs.uni-bremen.de/agbs/jp/papers/peleska_idpt2002.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title " Continuous verification" in mission critical software development
+     Author ['T Chang', 'A Danylyzsn', 'S Norimatsu']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract “Continuous Verification” in Mission Critical Software Development  too late in development to ensure the quality of mission critical sof*lvare, the process emphasizes verification through applying formal methods, inspections in all phases, and a unique testing philosophy
+     Url https://ieeexplore.ieee.org/abstract/document/663184/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Applying formal methods to software testing
+     Author ['PA Stocks']
+     Venue NA
+     Year 1993
+     Abstract This provides a uniform platform for other applications of formal methods to testing such as analysis and rei cation of tests, and also for applications beyond testing such as  Accordingly, by far the most prominent use of formal methods in testing is for the derivation and
+     Url https://www.researchgate.net/profile/Phil_Stocks/publication/2347416_Applying_Formal_Methods_to_Software_Testing/links/55528c8708aeaaff3befeb1d.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract The added qual- ity, however, decreased the overall cost of software development because of the huge savings in testing  Formal Methods • 629  domains of automatic verification is the design of hybrid systems, which consist of both dis- crete and continuous components
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue … 1st International Workshop on Rapid Continuous …
+     Year 2014
+     Abstract is continuously ready for release and deployed to actual customers (see Neely & Stott [45]) Continuous Verification Adoption of verification activities including formal methods and inspections throughout the development process rather than relying on a testing phase towards
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Invisible formal methods for embedded control systems
+     Author ['A Tiwari', 'N Shankar', 'J Rushby']
+     Venue Proceedings of the IEEE
+     Year 2003
+     Abstract that hold for all behaviors of the model, thus replacing the tedious task of testing  of a variable-step solver, the variable-step (non- standard) semantics of the continuous dynamical system TIWARI et al.: INVISIBLE FORMAL METHODS FOR EMBEDDED CONTROL SYSTEMS
+     Url https://ieeexplore.ieee.org/abstract/document/1173184/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Search-based automated testing of continuous controllers: Framework, tool support, and case studies
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue Information and …
+     Year 2015
+     Abstract Information and Software Technology. Volume 57, January 2015, Pages 705-722. Information and Software Technology. Search-based automated testing of continuous controllers: Framework, tool support, and case studies  3.1. Testing continuous controller requirements
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914001244
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract model-based CPS design that support co-modelling, analysis, co-simulation, testing and implementation  We discuss the role of formal methods in addressing three key aspects of this  the discrete models of computing hardware and software, and the continuous-value formalisms
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Combining model checking and testing in a continuous hw/sw co-verification process
+     Author ['P Herber', 'F Friedemann', 'S Glesner']
+     Venue International Conference on Tests …
+     Year 2009
+     Abstract 3 Quality Assurance Process We obtain a continuous quality assurance process for HW/SW co-designs by a combination of model checking and testing, as shown in Fig. 1. We assume a HW/SW co-development process that
+     Url https://link.springer.com/chapter/10.1007/978-3-642-02949-3_10
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Ten commandments of formal methods... ten years later
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue Computer
+     Year 2006
+     Abstract It was for that reason that we strongly advocated both initial and continuous cost estimation—and we still do  In the UK, researchers are using the Fortest (Formal Methods and Testing) network as a framework (www.fortest.org. uk) to investigate the tradeoffs
+     Url https://ieeexplore.ieee.org/abstract/document/1580381/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Towards industrially applicable formal methods: Three small steps, and one giant leap
+     Author ['J McDermid', 'A Galloway', 'S Burton']
+     Venue … Methods (Cat. No …
+     Year 1998
+     Abstract itly stating the assumptions that a discrete requirement (or placeholder for a 'continuous' requirement) expects in its context  One strand of work is concerned with applied formal methods, and enabling sys- tems engineers to use familiar  2.3 Testing and Formal Specifications
+     Url https://ieeexplore.ieee.org/abstract/document/730572/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Application of formal methods to biological regulatory networks: extending Thomas' asynchronous logical approach with temporal logic
+     Author ['G Bernot', 'JP Comet', 'A Richard', 'J Guespin']
+     Venue Journal of theoretical biology
+     Year 2004
+     Abstract each definition introduced in the sequel and to show the interest of formal methods for biological  approach is seen as a discretization of such a class of continuous differential equation  By the way, automatic tools dedicated to software testing can generate this experiment plan
+     Url https://www.sciencedirect.com/science/article/pii/S0022519304001444
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods for the specification and design of real-time safety critical systems
+     Author ['JS Ostroff']
+     Venue Journal of Systems and Software
+     Year 1992
+     Abstract This article surveys formal methods for specifying, design- ing, and verifying real-time systems so  for correctness by mathematical methods (rather than by intractable case-by-case testing)  Time is continuous, monotonic, and divergent, whereas pro- gram variables generally do
+     Url https://www.sciencedirect.com/science/article/pii/016412129290045L
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Using formal methods to support testing
+     Author ['RM Hierons', 'K Bogdanov', 'JP Bowen', 'R Cleaveland']
+     Venue NA
+     Year 2008
+     Abstract In order to specify and verify such systems it is necessary to use a specification language that encom- passes both discrete and continuous mathematics  3. FORMAL METHODS AND TESTING 3.1 Introduction Software testing is mostly about empirically checking
+     Url https://bura.brunel.ac.uk/handle/2438/1871
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Active continuous quality control
+     Author ['S Windmüller', 'J Neubauer', 'B Steffen', 'F Howar']
+     Venue Proceedings of the 16th …
+     Year 2013
+     Abstract and Subject Descriptors D.2.4 [Software Engineering]: Software/Program Verifi- cation—Formal methods, Model checking  Keywords Active Learning, Model Checking, Testing, Validation  Modern software systems, in particular when successful, undergo continuous change and
+     Url https://dl.acm.org/doi/abs/10.1145/2465449.2465469
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract because, as noted above, we have to model discrete, rather than continuous quantities.2  Part of the explanation is that formal methods provide us with powerful tools for identifying and  In empirical testing, we examine only the external manifestations of the system, and our
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title What is formal methods?
+     Author ['RW Butler']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title A SysML formal framework to combine discrete and continuous simulation for testing
+     Author ['JM Gauthier', 'F Bouquet', 'A Hammad']
+     Venue … Conference on Formal …
+     Year 2015
+     Abstract International Conference on Formal Engineering Methods. ICFEM 2015: Formal Methods and Software Engineering pp 134-152 | Cite as. A SysML Formal Framework to Combine Discrete and Continuous Simulation for Testing
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25423-4_9
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title MiL testing of highly configurable continuous controllers: scalable search using surrogate models
+     Author ['R Matinnejad', 'S Nejati', 'L Briand']
+     Venue Proceedings of the 29th …
+     Year 2014
+     Abstract In this paper, we focus on MiL testing of continuous controllers specified as mathematical models in Simulink  In this work, we present an approach for testing continuous con- trollers while accounting for their feasible configurations
+     Url https://dl.acm.org/doi/abs/10.1145/2642937.2642978
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Automated model-in-the-loop testing of continuous controllers using search
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue … Symposium on Search …
+     Year 2013
+     Abstract Testing continuous aspects of control systems is challenging and is not yet sup- ported by existing tools and techniques [4,1,3]. There is a large body of research on testing mixed discrete- continuous behaviors of embedded software systems where the system under test is
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39742-4_12
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods for specification and analysis of communication protocols
+     Author ['F Babich', 'L Deotto']
+     Venue IEEE Communications Surveys & Tutorials
+     Year 2002
+     Abstract Performance testing: Performance measures are  Some formal methods for sequential and distributed algorithms (which are outside the scope of the present tutorial) result in a static representation of the  continuous signal, which has lower priority than input signal consumption
+     Url https://ieeexplore.ieee.org/abstract/document/5341329/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Risk-based testing via active continuous quality control
+     Author ['J Neubauer', 'S Windmüller', 'B Steffen']
+     Venue International Journal on Software …
+     Year 2014
+     Abstract October 2014 , Volume 16, Issue 5, pp 569–591 | Cite as. Risk-based testing via active continuous quality control  In this paper, we show how active continuous quality control (ACQC) [54] can be applied to drastically reduce the manual effort of risk-based regression testing
+     Url https://link.springer.com/article/10.1007/s10009-014-0321-6
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal reasoning about expectation properties for continuous random variables
+     Author ['O Hasan', 'N Abbasi', 'B Akbarpour', 'S Tahar']
+     Venue … on Formal Methods
+     Year 2009
+     Abstract Page 1. Formal Reasoning about Expectation Properties for Continuous Random Variables  Abstract. Expectation (average) properties of continuous random vari- ables are widely used to judge performance characteristics in engineer- ing and physical sciences
+     Url https://link.springer.com/chapter/10.1007/978-3-642-05089-3_28
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract from FM applications, especially in scaling FMs through adequate tool support for continuous reasoning in  Furthermore, the concolic testing technique [Godefroid et al  There, formal methods have been shown to be successful in facilitating regulatory acceptance, for example
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title The way of Z: practical programming with formal methods
+     Author ['J Jacky']
+     Venue NA
+     Year 1997
+     Abstract need not be large; a single page of code can present so many choices that trial-and-error guessing and testing might never converge to a useful solution. We don't have to throw up our hands and complain how incredibly complicated it is. We can use formal methods to derive a
+     Url https://books.google.com/books?hl=ro&lr=&id=z30YrUiBHQ8C&oi=fnd&pg=PR15&dq=%22Continuous%22+%22Formal+methods%22+%22Testing%22&ots=yyw_0kQIAn&sig=xks13j6p4fVSIV8YbRB1KYG-fCw
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Using formal methods to develop an ATC information system
+     Author ['A Hall']
+     Venue Industrial-Strength Formal Methods in Practice
+     Year 1999
+     Abstract client and covered all aspects including each functional area, all performance requirements and full resilience testing  220 Chapter JO Industrial-Strength Formal Methods in Practice  user interface changed from an "enquire and get a snapshot" style to a continuous update style
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0523-7_10
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Continuous experimentation and a/b testing: A mapping study
+     Author ['R Ros', 'P Runeson']
+     Venue … Workshop on Rapid Continuous Software …
+     Year 2018
+     Abstract The reason for wanting to stop early is to reduce opportunity cost and the reason not to is due to issues with multiple testing caused by continuous monitoring (which is not allowed in classic statistics without adjustment). Another
+     Url https://ieeexplore.ieee.org/abstract/document/8452106/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods in conformance testing: A probabilistic refinement
+     Author ['L Heerink', 'J Tretmans']
+     Venue Testing of Communicating Systems
+     Year 1996
+     Abstract Formal methods in conformance testing 267  practical cases it suffices to consider the valuation as a, possibly infinite, summation, it is more abstract and general to rewrite (12) and (13) as measure-theoretic in- tegrals, which also encompass continuous domains of
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35062-2_19
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Verification of reactive systems: formal methods and algorithms
+     Author ['K Schneider']
+     Venue NA
+     Year 2013
+     Abstract Gottfried Wilhelm Leibniz (1646-1716) 1.1 Formal Methods in System Design 1.1.1 General Remarks and Taxonomy The  But even if the system's development can be successfully completed, the time spent for debugging and testing grows rapidly with the system's size
+     Url https://books.google.com/books?hl=ro&lr=&id=1OqpCAAAQBAJ&oi=fnd&pg=PA1&dq=%22Continuous%22+%22Formal+methods%22+%22Testing%22&ots=lQhWmGE1ps&sig=hniciv7txOcITNZgM7j_rBxZfOM
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Ten commandments revisited: a ten-year perspective on the industrial application of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue … international workshop on Formal methods for …
+     Year 2005
+     Abstract In [5], we strongly advocated both initial and continuous cost estimation. We concede that in many cases, this may still be guesswork  In the UK, a nationwide network, FORTEST (Formal Methods and Testing) has been acting as a framework for investigations into the
+     Url https://dl.acm.org/doi/abs/10.1145/1081180.1081183
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Ensuring drivability of planned motions using formal methods
+     Author ['B Schürmann', 'D Heß', 'J Eilbrecht']
+     Venue 2017 IEEE 20th …
+     Year 2017
+     Abstract First works on rigorously bounding model errors for systems with continuous dynamics have been developed by the authors themselves: In [30], methods have been  V. CONFORMANCE TESTING One of the difficulties of applying formal methods to automated
+     Url https://ieeexplore.ieee.org/abstract/document/8317647/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Managerial issues for the consideration and use of formal methods
+     Author ['DC Stidolph', 'J Whitehead']
+     Venue International Symposium of Formal Methods …
+     Year 2003
+     Abstract For example, some formal methods tools support continuous refinement of design through code generation, but the requirements  with inaccurate documentation and resolving inconsistencies between the documentation and the code via testing, formal methods may actually
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_11
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Safe reinforcement learning via formal methods
+     Author ['N Fulton', 'A Platzer']
+     Venue AAAI Conference on Artificial Intelligence
+     Year 2018
+     Abstract Safe Reinforcement Learning via Formal Methods Toward Safe Control Through Proof and Learning  cases for reinforce- ment learning-based controllers is important because testing alone is an  models for analyzing the interac- tion between discrete and continuous dynamics
+     Url http://www.cs.cmu.edu/~aplatzer/pub/SafeRL.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract extent to which it causes a coiled spring to stretch, then it is reasonable to assume continuous behaviour within  WHY ARE FORMAL METHODS IMPORTANT  probability of failure is very low - below the threshold which marks the limit which is practically demonstrable by testing
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Testing High-Reliability software for continuous casting steel plants-experiences and lessons learned from siemens VAI
+     Author ['S Larndorfer', 'R Ramler', 'C Federspiel']
+     Venue 33rd EUROMICRO …
+     Year 2007
+     Abstract system's testability [4]. The whole process from software development to commissioning at a continuous casting plant  dependability [21] such as constant development and delivery, proactive management, and the use of formal methods. 3. Testing in the Development Lifecycle
+     Url https://ieeexplore.ieee.org/abstract/document/4301087/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Understanding formal methods
+     Author ['JF Monin']
+     Venue NA
+     Year 2012
+     Abstract of customer requirements through to the continuous adaptation to new environments and to new features. This revolution in the design of software systems has already been success- fully undertaken in the domain of hardware design, where formal methods are routinely used
+     Url https://books.google.com/books?hl=ro&lr=&id=7GsKBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Continuous%22+%22Formal+methods%22+%22Testing%22&ots=4GUEgsiPYh&sig=w1QgAaIG5XlWb57xRm-d7kLutyM
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract For example, social context causes a continuous evolution of requirements for large complex  The Domain Specific Formal Methods in Section 4.4 illustrate the use of formal models  by situated information, then orthodox techniques for formulating and testing hypotheses, eg
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal methods: Theory becoming practice.
+     Author ['JR Abrial']
+     Venue J. UCS
+     Year 2007
+     Abstract Although at the physical level their behavior is ultimately continuous, the systems listed above mostly operate in a  it is certainly true that people do eventually test what they are constructing, but the testing is just the  622 Abrial J.-R.: Formal Methods: Theory Becoming Practice
+     Url http://jucs.org/jucs_13_5/formal_methods_theory_becoming/jucs_13_5_0619_0628_abrial.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title The application of formal methods to the assessment of high integrity software
+     Author ['RE Bloomfield', 'PKD Froome']
+     Venue IEEE Transactions on Software …
+     Year 1986
+     Abstract of this real-time system are in a sense "snapshots" of a continuous pro- cess  the Prolog animation was an effective oracle for back-to-back testing of the  Although formal methods have overwhelming theoretical advan- tages over informal documentation and analysis, we were
+     Url https://ieeexplore.ieee.org/abstract/document/6313053/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Continuous modeling of real-time and hybrid systems: from concepts to tools
+     Author ['KG Larsen', 'B Steffen', 'C Weise']
+     Venue International Journal on Software Tools for …
+     Year 1997
+     Abstract KG Larsen et al.: Continuous modeling of real-time and hybrid systems 67  Alternative approaches, like the ones based on bisimulations [56], fail- ures [47] or testing [59] are used to  A key question in formal methods (and also in prac- tice) is: does the implementation meet its
+     Url https://link.springer.com/content/pdf/10.1007/s100090050006.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Anomaly detection in cyber-physical systems: A formal methods approach
+     Author ['A Jones', 'Z Kong', 'C Belta']
+     Venue 53rd IEEE Conference on Decision …
+     Year 2014
+     Abstract In this paper, we apply formal methods to an anomaly de- tection framework to identify  the supervised learning problem by iterating between the discrete structure search and continuous variable optimization  red), and reserved the other 100 (with 7 attacks) for testing the output
+     Url https://ieeexplore.ieee.org/abstract/document/7039487/
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal verification of cyber-physical systems: coping with continuous elements
+     Author ['MU Sanwal', 'O Hasan']
+     Venue … Conference on Computational Science and Its …
+     Year 2013
+     Abstract hardware components of a CPS are usually analyzed using computer based testing or simulation  Thus, automatic state-based formal methods, like model checking, and automatic theorem provers cannot be  the true CPS models due to their inability to model continuous systems
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39637-3_29
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract level. This will enable continuous testing of the con- trol system, as described by Oppelt and Urbas (2014). • Even when work on the VC models is ongoing (ie during preparation), work can be assisted by formal methods. An
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract The formal languages helped to assess properties like completenes, while the natural language helped in the communication with, eg, the contractor. The process of checking statically is most helped by a continuous learning organisation  4 Testing with Formal Methods
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Formal verification of analog and mixed signal designs: A survey
+     Author ['MH Zaki', 'S Tahar', 'G Bois']
+     Venue Microelectronics journal
+     Year 2008
+     Abstract analog circuits are the functionalities defined directly in terms of continuous electrical quantities  To tackle analysis and verification issues, simulation and testing techniques were developed for  The relative success of formal methods for digital design verification [6] has triggered
+     Url https://www.sciencedirect.com/science/article/pii/S0026269208002085
+
+
+     Search term "Continuous"+"Formal+methods"+"Testing"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Similarly, hybrid systems (having both continuous and discrete states) can be subjected to formal  For instance, “boundary value testing” often is effective in detecting coding errors  In general, formal methods attempt to exploit the possibility of using automatic theorem proving to
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+

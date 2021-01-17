@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title The impact of internal control system on manufacturing industries: A case study of evans medical PLC
+     Author ['OY Adebisi']
+     Venue NA
+     Year 2018
+     Abstract This study investigated the impact of internal control system on manufacturing industries using Evans Medical Plc. as a case study. Primary data were employed through structured questionnaire administered to industry selected using convenience sampling. Based on
+     Url http://www.academia.edu/download/57565208/OMOPARIOLA_YINKA_ADEBISI.pdf
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks
+     Author ['A Sanaullah', 'C Yang', 'Y Alexeev', 'K Yoshii']
+     Venue BMC …
+     Year 2018
+     Abstract December 2018 , 19:490 | Cite as. Real-time data analysis for medical diagnosis using FPGA-accelerated neural networks. Authors; Authors and affiliations. Ahmed Sanaullah; Chen Yang; Yuri Alexeev; Kazutomo Yoshii; Martin C. Herbordt Email author. Open Access
+     Url https://link.springer.com/article/10.1186/s12859-018-2505-7
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title A platform-oblivious approach for heterogeneous computing: A case study with Monte Carlo-based simulation for medical applications
+     Author ['SH Hung', 'MY Tsai', 'BY Huang', 'CH Tu']
+     Venue Proceedings of the 2016 ACM …
+     Year 2016
+     Abstract accelerators, the portability of these schemes is relatively low and raises concerns for medical ap- plications  Particularly for the case of FPGA, it can take a long time for software updates to  As a case study, we choose the high-level programming scheme, OpenCL, and apply it to
+     Url https://dl.acm.org/doi/abs/10.1145/2847263.2847335
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title Minimizing the error: a study of the implementation of an integer split-radix FFT on an FPGA for medical imaging
+     Author ['MR Mohammadnia', 'L Shannon']
+     Venue … International Conference on …
+     Year 2012
+     Abstract Keywords: Fast Fourier transforms, Error analysis, Error-free operation, FPGA, Fixed-point arithmetic  As medical imaging is an important application area for FPGAs, an FFT implementation that  For our 1024-point FFT case study, this results in a 15.5 times faster throughput than
+     Url https://ieeexplore.ieee.org/abstract/document/6412161/
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title Accelerating fluid registration algorithm on multi-FPGA platforms
+     Author ['J Cong', 'M Huang', 'Y Zou']
+     Venue 2011 21st International Conference …
+     Year 2011
+     Abstract In the clinical applications, medical image reg- istrations on the images taken from  our implementation of the fluid registration algorithm on a multi-FPGA platform Convey  The experience of this case study also identifies further automation steps needed by existing HLS
+     Url https://ieeexplore.ieee.org/abstract/document/6044784/
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fpga hpc using opencl: Case study in 3d fft
+     Author ['A Sanaullah', 'MC Herbordt']
+     Venue … of the 9th International Symposium on …
+     Year 2018
+     Abstract Page 1. FPGA HPC using OpenCL: Case Study in 3D FFT  3, no. 4, p. 23, 2010. [2] A. Sanaullah, C. Yang, Y. Alexeev, K. Yoshii, and MC Her- bordt, “Real-Time Data Analysis for Medical Diagnosis Using FPGA- Accelerated Neural Networks,” BMC Bioinformatics, 2018
+     Url https://dl.acm.org/doi/abs/10.1145/3241793.3241800
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fpga as a hardware accelerator for computation intensive maximum likelihood expectation maximization medical image reconstruction algorithm
+     Author ['M Ravi', 'A Sewa', 'TG Shashidhar']
+     Venue IEEE Access
+     Year 2019
+     Abstract REFERENCES [1] X. Xue, A. Cheryauka, and D. Tubbs, ''Acceleration of fluoro-CT recon- struction for a mobile C-Arm on GPU and FPGA hardware: A simulation study,'' in Medical Imaging: Physics of Medical Imaging, vol. 6142
+     Url https://ieeexplore.ieee.org/abstract/document/8784190/
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title A neuron library for rapid realization of artificial neural networks on FPGA: A case study of Rössler chaotic system
+     Author ['İ Koyuncu', 'İ Şahin', 'C Gloster']
+     Venue Journal of Circuits …
+     Year 2017
+     Abstract A Neuron Library for Rapid Realization of Arti¯cial Neural Networks on FPGA: A Case Study of R  Keywords: FPGA; VHDL; arti¯cial neural networks; neuron library; R€ossler system  ANNs are utilized in numerous areas such as electric motors,3 control,4 medical,5 optimization,6
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0218126617500153
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title VLIW-based FPGA computation fabric with streaming memory hierarchy for medical imaging applications
+     Author ['J Hoozemans', 'R Heij', 'J van Straten', 'Z Al-Ars']
+     Venue International Symposium on …
+     Year 2017
+     Abstract In this paper, we have introduced and evaluated an implementation of a FPGA-based computation fabric that targets medical imaging applications  1–6, March 2012Google Scholar. 7. Wang, P., McAllister, J., Wu, Y.: Soft-core stream processing on FPGA: an FFT case study
+     Url https://link.springer.com/chapter/10.1007/978-3-319-56258-2_4
+
+
+     Search term "Case+Study"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-implementation of a bio-inspired medical hearing aid based DWT-OLA
+     Author ['L Bendaouia', 'H Salhi', 'SM Karabernou']
+     Venue … on Audio, Language …
+     Year 2014
+     Abstract PYK Cheung and L. Howes “Performance comparison of graphics processors to reconfigurable logic: a case study” IEEE Transactions  Kessal, H. Salhi and F. Ykhlef, “New Design Approach of an FIR Filters Based FPGA-Implementation for a Bio-inspired Medical Hearing Aid
+     Url https://ieeexplore.ieee.org/abstract/document/7009906/
+

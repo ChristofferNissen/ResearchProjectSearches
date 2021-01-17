@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract While formal methods have long been praised by the dependable Cyber-Physical System community, continuous  This paper is a discussion about using Behaviour Driven Development, particularly Gherkin and RSpec for DepDevOps, DevOps for dependable Cyber
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title The Systems Engineering DevOps Lemniscate and Model-Based System Operations
+     Author ['JTJ Mathieson', 'T Mazzuchi', 'S Sarkani']
+     Venue IEEE Systems Journal
+     Year 2020
+     Abstract A spacecraft is a relevant example of a complex cyber-physical system  as represented in the SEDevOps life cycle model and as methodologically driven by DevOps principles on  C. MBSO Extension With Formal Methods Extending the concept of model formalism in MBSE [17
+     Url https://ieeexplore.ieee.org/abstract/document/9179780/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Self-reconfiguring microservices
+     Author ['M Gabbrielli', 'S Giallorenzo', 'C Guidi', 'J Mauro']
+     Venue … of Formal Methods
+     Year 2016
+     Abstract Theory and Practice of Formal Methods pp 194-210 | Cite as  services and two Comments services can lead to outages in case of high load or crash of one of the DCs. Hence, the DevOps wants to specify that services of the same kind should be deployed on different machines
+     Url https://link.springer.com/chapter/10.1007/978-3-319-30734-3_14
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title ABS: A high-level modeling language for cloud-aware programming
+     Author ['N Bezirgiannis', 'F de Boer']
+     Venue International Conference on Current Trends in …
+     Year 2016
+     Abstract The language is intended for DevOps engineers and (potentially) computational scientists who are responsible for  Besides the current open (peer-to-peer) topology of DCs we want to add  of ABS leads to new opportunities for furthering the application of formal methods to cloud
+     Url https://link.springer.com/chapter/10.1007/978-3-662-49192-8_35
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Work-in-Progress: A Formal Approach to Verify Fault Tolerance in Industrial Network Systems
+     Author ['A Sacco', 'G Marchetto', 'R Sisto']
+     Venue 2020 16th IEEE …
+     Year 2020
+     Abstract When configuring the network of an ICS, indeed, the administrator might need to guarantee, at the  For example, the PLC controls the flow of cooling water, while the SCADA system allows  R. Sisto, “Formal verification of virtual network function graphs in an sp-devops context,” in
+     Url https://ieeexplore.ieee.org/abstract/document/9114432/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Architecture-Centric Virtual Integration Practice with AADL
+     Author ['P Feiler']
+     Venue NA
+     Year 2018
+     Abstract Truck Result: AADL models enforced security policies and were used to auto build the system Benefit: Combined with formal methods verification, prevented security intrusion by a red team  ACVIP and DevOps are key to addressing Cyber Physical System Issues Page 23. 23
+     Url https://apps.dtic.mil/sti/pdfs/AD1084494.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Sixty years of software development life cycle models
+     Author ['R Kneuper']
+     Venue IEEE Annals of the History of Computing
+     Year 2017
+     Abstract Formal Methods and Cleanroom Software Engineering Continuing Dijkstra's theory-based approach mentioned above, formal development meth- ods were widely discussed in research in the 1980s and 1990s.55 The idea was to specify requirements in a formal language with
+     Url https://ieeexplore.ieee.org/abstract/document/8047358/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title A Formal Approach to Verify Connectivity and Optimize VNF Placement in Industrial Networks
+     Author ['G Marchetto', 'R Sisto', 'F Valenza']
+     Venue IEEE Transactions …
+     Year 2020
+     Abstract This ap- proach however only takes into consideration SCADA devices while it does not address complex service graphs, where the network consists of many network devices, as in future INSs  Scada Backup Remote Shutdown DC 2 DC 1 DC 3 RC DC 4...* Remote User
+     Url https://ieeexplore.ieee.org/abstract/document/9119174/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Predictive Detection of Known Security Criticalities in Cyber Physical Systems with Unobservable Variables
+     Author ['A Coletta']
+     Venue 11th international conference on security and its …
+     Year 2018
+     Abstract specification-based techniques, for which a human ICS expert precisely defines what is licit or  in the Security Operation Centres (SOC) of big organizations and in the DevOps sector  based Intrusion Detection and Prevention System methodology specific for SCADA systems that
+     Url https://airccj.org/CSCP/vol8/csit88105.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Predictive Detection of Known Security Criticalities in Cyber Physical Systems with Unobservable Variables
+     Author ['A Coletta']
+     Venue 11th international conference on security and its …
+     Year 2018
+     Abstract specification-based techniques, for which a human ICS expert precisely defines what is licit or  in the Security Operation Centres (SOC) of big organizations and in the DevOps sector  based Intrusion Detection and Prevention System methodology specific for SCADA systems that
+     Url https://airccj.org/CSCP/vol8/csit88105.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Formally verified latency-aware vnf placement in industrial internet of things
+     Author ['G Marchetto', 'R Sisto', 'J Yusupov']
+     Venue 2018 14th IEEE …
+     Year 2018
+     Abstract Since soundness and completeness are not provided by simulation, formal methods are the most  devices and network middleboxes, in [6] communications only involve the SCADA physical devices in  The considered use-case is based on a realistic network connecting 11 DCs
+     Url https://ieeexplore.ieee.org/abstract/document/8402355/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title A Container-Based Framework to Facilitate Reproducibility in Employing Stochastic Process Algebra for Modeling Parallel Computing Systems
+     Author ['WS Sanders', 'S Srivastava']
+     Venue 2019 IEEE International …
+     Year 2019
+     Abstract dependencies to run a single application, allowing them to facilitate DevOps principles and  the PC LAN 4 Model) were downloaded from http://www.dcs.ed.ac.uk  In Marco Bernardo, Pierpaolo Degano, and Gianluigi Zavattaro, editors, Formal Methods for Computational Systems
+     Url https://ieeexplore.ieee.org/abstract/document/8778220/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Threat analysis of software systems: A systematic literature review
+     Author ['K Tuma', 'G Çalikli', 'R Scandariato']
+     Venue Journal of Systems and Software
+     Year 2018
+     Abstract we provide insight into the adoption of the threat analysis techniques in software engineering trends (ie DevOps, Agile development, IoT  For instance, approaches that require extensive education in formal methods will be difficult to use for software engineers without  SCADA
+     Url https://www.sciencedirect.com/science/article/pii/S0164121218301304
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Introducing programmability and automation in the synthesis of virtual firewall rules
+     Author ['D Bringhenti', 'G Marchetto', 'R Sisto']
+     Venue 2020 6th IEEE …
+     Year 2020
+     Abstract Index Terms—network functions virtualization, firewall, auto- matic programmability, cloud networking, formal methods  15]'s technique has been validated only with SCADA-firewall configuration  They belong to the category of DevOps infrastructure management tools and are
+     Url https://ieeexplore.ieee.org/abstract/document/9165434/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title 50 Years of software engineering
+     Author ['H Erdogmus', 'N Medvidović', 'F Paulisch']
+     Venue IEEE Software
+     Year 2018
+     Abstract Are formal methods essential, or  Look also for complementary contributions in IEEE Software's On DevOps, Practitioners' Digest, Redirections, Reliable Code, and  His areas of specialization include the econom- ics of software engineering, value-based software engineer- ing
+     Url https://ieeexplore.ieee.org/abstract/document/8474511/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Process-Oriented Approach to the Design of Cyber-Physical Systems
+     Author ['L Knap', 'J Mączak', 'M Trojgo']
+     Venue Dynamical Systems Theory and Applications
+     Year 2017
+     Abstract Knap, L.: Design and construction of the task-oriented cyber-physical system  Guide to Industrial Control Systems (ICS) Security. Supervisory Control and Data Acquisition (SCADA) Systems, Distributed Control Systems (DCS), and Other Control System Configurations such as
+     Url https://link.springer.com/chapter/10.1007/978-3-319-96598-7_16
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Journal of Logical and Algebraic Methods in Programming
+     Author ['S de Gouw', 'J Mauro', 'G Zavattaro']
+     Venue NA
+     Year 2019
+     Abstract This is also testified by the appearance of software engineering approaches, like the DevOps approach to software development and delivery [1], that are strongly based on a closer collaboration among software developers, operations professionals, and quality assurance
+     Url https://jacopomauro.com/publication/dblp-journalsjlap-gouw-mz-19/dblp-journalsjlap-gouw-mz-19.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Specification-based Predictive Continuous Monitoring for Cyber Physical Systems with Unobservables
+     Author ['A Coletta']
+     Venue NA
+     Year 2018
+     Abstract cn Corporate Network cps Cyber Physical System dcs Distributed Control System  hmi Human Machine Interface ics Industrial Control System ict Information and Communication Technology  acronyms ix rtu Remote Terminal Unit scada Supervisory Control And Data Acquisition
+     Url http://eprints-phd.biblio.unitn.it/3435/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Proceedings of the 13th European Conference on Software Architecture,{ECSA} 2019, Companion Proceedings (Proceedings Volume 2)
+     Author ['L Duchien', 'A Koziolek', 'R Mirandola', 'EMN Martinez']
+     Venue NA
+     Year 2019
+     Abstract 132 5.2.2 To What Extent Formal Methods are Applicable for Per- formance Analysis of Smart Cyber-Physical Systems  163 5.3.1 Measuring Performance Quality Scenarios in Big Data Analytics Applications: A DevOps and Domain-Specific Model Approach
+     Url https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/22174/https:/aisberg.unibg.it/bitstream/10446/153288/4/3344948.fm.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings …
+     Author ['D Laurence', 'K Anne', 'M Raffaela', 'EMN Martínez']
+     Venue NA
+     Year 2019
+     Abstract 132 5.2.2 To What Extent Formal Methods are Applicable for Per- formance Analysis of Smart Cyber-Physical Systems  163 5.3.1 Measuring Performance Quality Scenarios in Big Data Analytics Applications: A DevOps and Domain-Specific Model Approach
+     Url https://aisberg.unibg.it/bitstream/10446/153288/4/3344948.fm.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Dynamic Networks Teaching AI and Humanity Going Serverless
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2018
+     Abstract Page 1. Dynamic Networks Teaching AI and Humanity Going Serverless COMMUNICATIONS OF THEACM CACM.ACM.ORG 02/2018 VOL.61 NO.02 Association for Computing Machinery Page 2. Dr. Jerald has recognized a great need in our community and filled it
+     Url https://dl.acm.org/doi/pdf/10.1145/3181977
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title How to deal with the complexity of future cyber-physical systems?
+     Author ['M Törngren', 'PT Grogan']
+     Venue Designs
+     Year 2018
+     Abstract These concepts are closely related to so-called DevOps (Development- Operations integration) associated with continuous software development, integration, and deployment with feedback from operational systems. At the
+     Url https://www.mdpi.com/2411-9660/2/4/40
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Legal Clouds: How to Balance Privacy with Legitimate Surveillance and Lawful Data Access
+     Author ['KKR Choo', 'R Sarre']
+     Venue NA
+     Year 2014
+     Abstract Conference in late October in San Francisco. The compa- ny also paid the entire fee for 50 female college students majoring in science, technology, engineering, or mathemat- ics (STEM). This effort exposes women to tech- nology
+     Url https://www.computer.org/csdl/api/v1/periodical/mags/cd/2014/03/download-issue/pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title CyRes--Avoiding Catastrophic Failure in Connected and Autonomous Vehicles
+     Author ['C Maple', 'P Davies', 'K Eder', 'C Hankin']
+     Venue arXiv preprint arXiv …
+     Year 2020
+     Abstract cyber threat that are inherent and exploitable in any complex cyber- physical system; in that  DevOps practices and container technologies (including orchestration) allow unprecedented rates of  it to CAVs, extended through large-scale simulation, formal methods and distributed
+     Url https://arxiv.org/abs/2006.14890
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Building situational awareness for network threats in fog/edge computing: Emerging paradigms beyond the security perimeter model
+     Author ['R Rapuzzi', 'M Repetto']
+     Venue Future Generation Computer Systems
+     Year 2018
+     Abstract to the Internet, both in everyday life (eg, home network broadband gateways, digital video recorders and smart TVs, smart appliances, implantable and wearable medical devices, connected cars) and industrial applications (eg, sensors and actuators in SCADA systems and
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X17327978
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Questions for Data Scientists in Software Engineering: A Replication
+     Author ['H Huijgens', 'A Rastogi', 'E Mulders', 'G Gousios']
+     Venue arXiv preprint arXiv …
+     Year 2020
+     Abstract DevOps teams?' from the following respondents' questions: “Would it be better to create specialized development teams instead of DevOps teams?" "What  Unlike the Microsoft study, we did not have employee database to rank responses based on demograph- ics, and privacy
+     Url https://arxiv.org/abs/2010.03165
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title COMPSAC 2016
+     Author ['D Carver', 'WK Chan', 'H Yang', 'X Liu', 'C Chang', 'H Rajan']
+     Venue NA
+     Year NA
+     Abstract Session 8: Formal Methods  A One-Class NIDS for SDN-Based SCADA Systems .....303 Eduardo  Mitigating an Oxymoron: Compliance in a DevOps Environments .....396 John R
+     Url https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/12OmNyKJikX/pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Securing the testing process for industrial automation software
+     Author ['M Eckhart', 'K Meixner', 'D Winkler', 'A Ekelhart']
+     Venue Computers & Security
+     Year 2019
+     Abstract All male interviewees are working in different departments and are filling various roles, viz., (i) Project Manager in the department Automation Engineering, (ii) Head of the department PLC Programming, (iii) Head of the department SCADA, and (iv) Head of Software Quality in
+     Url https://www.sciencedirect.com/science/article/pii/S0167404818314482
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Requirements and conceptual design of techniques and methods for
+     Author ['H Ahmed', 'N Ferry', 'S Gupta']
+     Venue NA
+     Year 2018
+     Abstract WP3 aims to develop enablers for the operational part of the DevOps process (see Figure 1). WP3 thus will provide enablers that furnish the IoT systems with capabilities to (i) monitor their status, (ii) indicate when their behaviour is not as expected, (iii) identify the origin of the
+     Url https://enact-project.eu/deliverables/D3.1_agile_operation.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Sofware engneering challenges for machine learning applications: A literature review
+     Author ['F Kumeno']
+     Venue Intelligent Decision Technologies
+     Year 2019
+     Abstract software process?” and “What new roles, artifacts, and activities come into play, and how do they tie into existing agile or DevOps processes  To identify papers related to Software Engineering Models and Methods, we focused on formal methods and domain specific languages
+     Url https://content.iospress.com/articles/intelligent-decision-technologies/idt190160
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Securing the testing process for industrial automation software
+     Author ['M Eckhart', 'K Meixner', 'D Winkler', 'A Ekelhart']
+     Venue Computers & Security
+     Year 2019
+     Abstract All male interviewees are working in different departments and are filling various roles, viz., (i) Project Manager in the department Automation Engineering, (ii) Head of the department PLC Programming, (iii) Head of the department SCADA, and (iv) Head of Software Quality in
+     Url https://www.sciencedirect.com/science/article/pii/S0167404818314482
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title The Complexity in Application of Modeling and Simulation for Cyber Physical Systems Engineering
+     Author ['S Mittal', 'A Tolk']
+     Venue Complexity Challenges in Cyber Physical …
+     Year 2019
+     Abstract Additional cyber physical system related issues of intelligence, adaptation, autonomy, and security make the problem even  2010),“ the gap between formal methods and testing needs to be bridged  This can now be achieved by current prac- tices in DevOps implemented using
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119552482#page=29
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title On the modeling of optimal and automatized cloud application deployment
+     Author ['S de Gouw', 'J Mauro', 'G Zavattaro']
+     Venue … of Logical and Algebraic Methods in …
+     Year 2019
+     Abstract This is also testified by the appearance of software engineering approaches, like the DevOps approach to software development and delivery [1], that are strongly based on a closer collaboration among software developers, operations professionals, and quality assurance
+     Url https://www.sciencedirect.com/science/article/pii/S235222081830138X
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Architecting dynamic cyber-physical spaces
+     Author ['C Tsigkanos', 'T Kehrer', 'C Ghezzi']
+     Venue Computing
+     Year 2016
+     Abstract This phenomenon is reflected by the notion of a cyber-physical system (CPS), a software-intensive system where computational elements heavily interact with physical  can target both design-time and run-time facets of the CPSp; in the same fashion that DevOps [7] principles
+     Url https://link.springer.com/article/10.1007/s00607-016-0509-6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Experiments in Context-Sensitive Incremental and Modular Static Analysis in CiaoPP
+     Author ['I Garcia-Contreras', 'JF Morales']
+     Venue Pre-proceedings for …
+     Year NA
+     Abstract We believe that formal methods can be effective in improving software quality assurance of a large number of organisations around the globe  Page 42. software model checking techniques combined with DevOps culture, particularly, continuous integration (CI)
+     Url https://staticanalysis.org/tapas2019/talks/tapas19-pre.pdf#page=39
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Challenges in the Operation and Design of Intelligent Cyber‐Physical Systems
+     Author ['S Castro', 'PJ Mosterman', 'AH Rajhans']
+     Venue … Challenges in Cyber …
+     Year 2019
+     Abstract 2013; Mosterman and Zander 2015); and (iii) formal methods to ensure conformance and be  each instance of reconfigu- ration (along the “development and operations” or DevOps paradigm (Jabbari  Bio‐inspired evolutionary sensory system for cyber‐physical system defense
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119552482#page=52
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title IoT European security and privacy projects: Integration, architectures and interoperability
+     Author ['E Ferrera', 'C Pastrone', 'PE Brun']
+     Venue … Internet of Things …
+     Year 2018
+     Abstract Page 1. 7 IoT European Security and Privacy Projects: Integration, Architectures and Interoperability Enrico Ferrera1, Claudio Pastrone1, Paul-Emmanuel Brun2, Remi De Besombes2, Konstantinos Loupos3, Gerasimos Kouloumpis3
+     Url https://sintef.brage.unit.no/sintef-xmlui/handle/11250/2575162
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Digital-physical product development: a review and research agenda
+     Author ['S Hendler', 'H Boer']
+     Venue International Journal of Technology …
+     Year 2019
+     Abstract The digital-physical output can be described as, eg, a complex product, a cyber-physical system (typically used within critical system domains with increased reliability and safety requirements (see eg, Letichevsky et al., 2017) or a product-service system, provided that the
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJTM.2019.099769
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Selected Research Articles
+     Author ['M Belcaid', 'G Poisson']
+     Venue NA
+     Year NA
+     Abstract Page 1. Dec. 2017, Vol. 17, No. 4 Page 2. Frontmatter Editors 3 SIGAPP FY'17 Quarterly Report J. Hong 4 Selected Research Articles Detecting Anomalies in the Cytochrome C Oxidase I Amplicon Sequences Using Minimum Scoring Segments M. Belcaid and G. Poisson 6
+     Url http://sigapp.org/acr/Issues/V17.4/ACR%2017-4.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title A comparative analysis of emerging approaches for securing java software with Intel SGX
+     Author ['L Coppolino', "S D'Antonio", 'G Mazzeo']
+     Venue Future Generation …
+     Year 2019
+     Abstract JVM, to develop a cloud-oriented monitoring service for a safety critical Industrial Control System (ICS)  therefore exhibit diverse resource utilization profiles, (v) cloud offerings for ICS systems are  To support the activity of Cloud DevOps developers, a number of frameworks have
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X18315942
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Research Progress on the Development of Microservices
+     Author ['W Huayao', 'D Wenjun']
+     Venue Journal of Computer Research and …
+     Year 2020
+     Abstract 有助于提升软件开发和维护的 效率． 微服务是面向服务软件开发的最新发展趋势,  其通常采用去中心化的服务管理方式,在传统面向服 务开发模式的基础上进一步降低了系统的耦合度． 微服务还充分借鉴了云计算、容器技术以及 DevOps 等新的实践方式,提高了每个服务的可伸缩性
+     Url http://crad.ict.ac.cn/EN/Y2020/V57/I3/525
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Model-driven process enactment for NFV systems with MAPLE
+     Author ['S Mustafiz', 'O Hassane', 'G Dupont', 'F Khendek']
+     Venue Software and Systems …
+     Year 2020
+     Abstract Page 1. Software and Systems Modeling https://doi.org/10.1007/s10270-020-00783-9 SPECIAL SECTION PAPER Model-driven process enactment for NFV systems with MAPLE Sadaf Mustafiz1 · Omar Hassane2 · Guillaume Dupont2 · Ferhat Khendek2 · Maria Toeroe3
+     Url https://link.springer.com/content/pdf/10.1007/s10270-020-00783-9.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Digital-physical product development: a qualitative analysis
+     Author ['S Hendler']
+     Venue European Journal of Innovation Management
+     Year 2019
+     Abstract Research on topics that may include digital-physical product development, such as complex product, product-service system, mechatronics and cyber-physical system development does uncover relevant themes such as design for product evolvement after launch, multi
+     Url https://www.emerald.com/insight/content/doi/10.1108/EJIM-01-2018-0026/full/html
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title A Conversation with Barry Boehm
+     Author ['H Erdogmus', 'N Medvidovic']
+     Venue SOFTWARE ENGINEERING'S 50TH …
+     Year 2018
+     Abstract Are formal methods essential, or even useful, or are they just an intellectual exercise that gets in the way of building real-world systems? • Should a system's architecture be designed, or does it emerge organically during development
+     Url https://www.computer.org/csdl/api/v1/periodical/mags/so/2018/05/download-issue/pdf#page=16
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Transportation Cyber-Physical Systems Security and Privacy
+     Author ['T Kenyon']
+     Venue Transportation Cyber-Physical Systems
+     Year 2018
+     Abstract [10] analyses cyber-physical system security threats and the consequences of such attacks, illustrating the differences between cyber-physical systems and traditional IT security and also dynamic security mechanisms more suited for cyber-physical deployment. 3.2
+     Url https://www.sciencedirect.com/science/article/pii/B9780128142950000058
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Verification and Configuration of Software-based Networks
+     Author ['S Spinoso']
+     Venue NA
+     Year 2017
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Flexible Composition of Robot Logic with Computer Vision Services
+     Author ['O Semeniuta']
+     Venue NA
+     Year 2018
+     Abstract design CERN The European Organization for Nuclear Research CPS Cyber-physical system CPU Central  Hardware and software implementation Analysis System verification based on formal methods Figure 2.1  as well as constituting a major force of the DevOps and DataOps
+     Url https://www.researchgate.net/profile/Oleksandr_Semeniuta/publication/335135900_Flexible_Composition_of_Robot_Logic_with_Computer_Vision_Services/links/5d52521da6fdcc370a90ed77/Flexible-Composition-of-Robot-Logic-with-Computer-Vision-Services.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Continuous Experimentation and the Cyber-Physical Systems challenge. An overview in literature and the industrial perspective
+     Author ['F Giaimo', 'H Andrade', 'C Berger']
+     Venue arXiv preprint arXiv:2003.03804
+     Year 2020
+     Abstract architecture and process required to enable Continuous Experimentation for a complex cyber-physical system. Methodology: Literature analysis and design science  DevOps Data and configuration management A,B C,D Software and hardware infrastructure B
+     Url https://arxiv.org/abs/2003.03804
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"DevOps"+"Formal+methods"
+     Title Web service composition: a survey of techniques and tools
+     Author ['AL Lemos', 'F Daniel', 'B Benatallah']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2015
+     Abstract Page 1. 33 Web Service Composition: A Survey of Techniques and Tools ANGEL LAGARES LEMOS, University of New South Wales FLORIAN DANIEL, University of Trento BOUALEM BENATALLAH, University of New South Wales
+     Url https://dl.acm.org/doi/abs/10.1145/2831270
+

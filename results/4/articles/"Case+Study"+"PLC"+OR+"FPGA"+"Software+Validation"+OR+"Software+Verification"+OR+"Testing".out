@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A development and testing instrumentation for GPS software defined radio with fast FPGA prototyping support
+     Author ['A Soghoyan', 'A Suleiman']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract This paper is organized as follows. Section II presents the development and testing setup. The case study acquisition module is described in Section III. Section IV presents the fast prototyping of the acquisition system using LabVIEW FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6750082/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An FPGA-based real-time simulator for HIL testing of modular multilevel converter controller
+     Author ['W Li', 'LA Grégoire', 'S Souvanlasy']
+     Venue 2014 IEEE Energy …
+     Year 2014
+     Abstract 2090 Page 4. Therefore, the OP7020 can be used for digital simulation, rapid control prototyping (RCP), or HIL testing  However, this method increases the communication traffic between CPU and FPGA  IV. CASE STUDY AND RESULTS
+     Url https://ieeexplore.ieee.org/abstract/document/6953678/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exciting FPGA cryptographic Trojans using combinatorial testing
+     Author ['P Kitsos', 'DE Simos', 'J Torres-Jimenez']
+     Venue 2015 IEEE 26th …
+     Year 2015
+     Abstract IV. CASE STUDY The case study comprises a hardware implementation for the AES symmetric encryption algorithm. We opted for a Verilog-HDL model offered with the Sakura-G FPGA board2  Established hardware testing practice is already able to detect any defects on them
+     Url https://ieeexplore.ieee.org/abstract/document/7381800/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title … SCADA systems in piston production manufacturing case study on the conveyor, the coolant, the hydraulic, and the alarm systems using PLC CJ1M and CJ1W …
+     Author ['S Ardi', 'A Ponco', 'RA Latief']
+     Venue 2017 4th International Conference …
+     Year 2017
+     Abstract Design of Integrated SCADA Systems in Piston Production Manufacturing Case Study on the Conveyor, the Coolant, the  the program that has been made has been corrected and can monitor the data in the PLC. Testing is done by visually to see the PLC condition with the VB
+     Url https://ieeexplore.ieee.org/abstract/document/8257700/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SPFFI: Simple portable FPGA fault injector
+     Author ['G Cieslewski', 'AD George']
+     Venue Proc. of Military and Aerospace …
+     Year 2009
+     Abstract MicroBlaze Case Study ∎ Soft-core processors are often used as computational resources on FPGA systems ❑ What error rate can we expect without FT mitigation? ∎ Experiment Setup ❑ SoC consists of one MicroBlaze with FPU ❑ Employs system-level testing methodology
+     Url https://www.researchgate.net/profile/Alan_George/publication/266036975_SPFFI_Simple_Portable_SPFFI_Simple_Portable_FPGA_Fault_Injector_FPGA_Fault_Injector/links/547e14410cf2c1e3d2dc1921.pdf
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract While some standards (eg [11]) already address the issue of hardware validation, software validation of PLC systems, ie ensuring that the PLC program meets the requirements  In the case study presented, the process is controlled by a Siemens PLC using GRAPH
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Test configuration minimization for the logic cells of SRAM-based FPGAs: a case study
+     Author ['M Renovell', 'JM Portal', 'J Figueras']
+     Venue … Test Workshop 1999 …
+     Year 1999
+     Abstract Page 1. Test Configuration Minimization for the Logic Cells of SRAM-Based FPGAs: A Case Study M. Renovell JM Portal  Abstract This paper describes an approach to minimize the number of test configurations for testing the logic cells of a RAM-based FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/804520/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based testing strategy for cryptographic chips: A case study on Elliptic Curve Processor for RFID tags
+     Author ['J Fan', 'M Knezevic', 'D Karaklajic', 'R Maes']
+     Venue … On-Line Testing …
+     Year 2009
+     Abstract Testing of cryptographic chips or components has one extra dimension: physical security. The chip designers should improve the design if it leaks too much information through side-channels, such as timing, power consumption, electric-magnetic radiation, and so on. This
+     Url https://ieeexplore.ieee.org/abstract/document/5196009/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Built-in self-test for system-on-chip: a case study
+     Author ['C Stroud', 'J Sunwoo', 'S Garimella']
+     Venue … Conferce on Test
+     Year 2004
+     Abstract Page 1. Built-In Self-Test for System-on-Chip: A Case Study Charles Stroud, John Sunwoo, Srinivas Garimella, and Jonathan Harris Dept  We found that the FPGA can provide only limited testing of the some memory cores and even less testing of the proces- sor
+     Url https://ieeexplore.ieee.org/abstract/document/1387347/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA implementation of channel emulator for testing of wireless air interface using VHDL
+     Author ['G Joshi', 'PR Prasad', 'A Singh']
+     Venue 2016 IEEE International …
+     Year 2016
+     Abstract Fig. 5: Setup of channel emulator. IV. TESTING  [4] S. Kootkar and Z. Al-Ars, "Design and implementation of reliable Wireless Sensor Networks - A case study in commuter trains," presented at the ProRISC Workshop, Veldhoven, 2007  1- 10. [7] FPGA-based Wideband Channel
+     Url https://ieeexplore.ieee.org/abstract/document/7807920/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An FPGA-based solution for testing legacy video displays
+     Author ['D Johnson']
+     Venue 2010 IEEE AUTOTESTCON
+     Year 2010
+     Abstract This paper is a case study based on the requirement for a PXI- based instrument that can  By integrating an off-the- shelf PXI FPGA card, with an intellectual property (IP) core available in  which supports the generation of both analog and digital video signals for testing CRT and
+     Url https://ieeexplore.ieee.org/abstract/document/5613582/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Bringing automated model checking to PLC program development—a CERN case study—
+     Author ['BF Adiego', 'D Darvas', 'JC Tournier', 'EB Viñuela']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract This case study has emphasized the importance of having a correct, unambiguous and complete specification  In Hardware and Software: Verification and Testing, volume 8244 of LNCS, 44–60. Springer  Model checking PLC software written in function block diagram
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015374334
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title HiL simulation workbench for testing and validating PLC programs
+     Author ['J Machado', 'E Seabra']
+     Venue 2013 11th IEEE International …
+     Year 2013
+     Abstract As the idea is to systematize procedures for testing and validating PLC programs, before being inserted on the WALC  7. CX-Supervisor ± view the simulation of PLC V. CASE STUDY This is presented a simple case study, which main purpose is to illustrate how it must be done
+     Url https://ieeexplore.ieee.org/abstract/document/6622887/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Functional testing of processor cores in FPGA-based applications
+     Author ['M Wegrzyn', 'F Novak', 'A Biasizzo', 'M Renovell']
+     Venue Computing and Informatics
+     Year 2012
+     Abstract [6] Corno, F.—Sanches, E.—Sonza Reorda, M.—Squillero, G.: Automatic Test Program Generation: A Case Study. IEEE Design and Test of Computers, Vol. 21, 2004, No  33–37. [9] Harris, I.—Menon, P.—Tessier, R.: BIST-Based Delay Path Testing in FPGA Architectures
+     Url http://www.cai.sk/ojs/index.php/cai/article/viewArticle/26
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract or a correction of an existing one is required, exhaustive validation of the PLC code is  Testing is usually done manually or automatically by developing scripts at the supervision layer  and limitations of both approaches are presented and illustrated with a case study, validating a
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Mode-aware concolic testing for PLC software
+     Author ['H Simon', 'S Kowalewski']
+     Venue International Conference on Integrated Formal …
+     Year 2018
+     Abstract Our results were compared to the PLC-tailored concolic testing approach [3] already implemented in Arcade.PLC and the  Case study comparing our approach (MAT) with CFG directed search (CFG-DS) and the merging based technique (MB)implemented in Arcade.PLC
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_21
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Laser testing methodology for diagnosing diverse soft errors in a nanoscale SRAM-Based FPGA
+     Author ['FL Kastensmidt', 'L Tambara']
+     Venue … on Nuclear Science
+     Year 2014
+     Abstract B. Analyzing Errors in Embedded Soft-core Processors A case-study soft-core 32-bit MIPS microprocessor com- posed of a five  and R. Leveugle, “Detailed analyses of single laser shot effects in the config- uration of a Virtex-II FPGA,” in Proc  On-Line Testing Symp., 2008, pp
+     Url https://ieeexplore.ieee.org/abstract/document/6969839/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing of Hybrid Real-time Systems Using FPGA Platform
+     Author ['J Krákora', 'Z Hanzálek']
+     Venue 2006 International Symposium on …
+     Year 2006
+     Abstract an industrial environment ac- tivities to react with an IUT ei programmable logic controller (called PLC)  is approximately 100 Tnsec, thus very high Moreover it does not support hybrid system testing. LabView FPGA I1] in HIL application allows an user to test IUT on-line
+     Url https://ieeexplore.ieee.org/abstract/document/4197494/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An optimum ORA BIST for multiple fault FPGA look-up table testing
+     Author ['A Alaghi', 'MS Yarandi', 'Z Navabi']
+     Venue 2006 15th Asian Test …
+     Year 2006
+     Abstract Chain Partial per LUTs LUTs faults y granularit 1000 ) 1000 / ( = In what follows we present our case study and experimental results using a FLEX10K FPGA  [3] C. Metra et al., "Novel Technique for Testing FPGA", Design, Automation and Test in Europe, pp 89-94, 1998
+     Url https://ieeexplore.ieee.org/abstract/document/4030782/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title High-speed distance relaying using least error squares method and testing with FPGA
+     Author ['S Liu', 'XS Jin', 'RR Gokaraju']
+     Venue IET Generation, Transmission & Distribution
+     Year 2019
+     Abstract [ 10 ] implemented phaselet-based protective relay on FPGA. The test network is shown in Fig. 7 . And the type of FPGA used for testing is Altera Stratix IV. The two major features for FPGA to improve speed and throughput are parallel processing and pipelining techniques
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2019.0088
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Methodology for synthesis, testing, and verification of pipelined architecture processors from behavioral-level-only HDL code and a case study example
+     Author ['JR Heath', 'S Durbha']
+     Venue Proceedings. IEEE SoutheastCon 2001 …
+     Year 2001
+     Abstract which are verijied by presentation of the results of a case study example which resulted in the correct synthesis of a FPGA protorype of a behavioral-level-only HDL described pipeline architecture processor. Correct synthesis was verified via experimental testing of the
+     Url https://ieeexplore.ieee.org/abstract/document/923104/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC-based model of reactive power flow in steam power plant for pre-commissioning validation testing of coordinated QV controller
+     Author ['J Dragosavac', 'Ž Janda']
+     Venue IEEE Transactions on …
+     Year 2011
+     Abstract Fig. 8. Case study steam power plant equivalent scheme for designing power plant reactive power flow  V. CONCLUSION This paper presents detailed, step-by-step design of PLC-based simulator intended for pre-commissioning vali- dation testing of coordinated QV
+     Url https://ieeexplore.ieee.org/abstract/document/5746556/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Heavy ion single event effects measurements of Xilinx Zynq-7000 FPGA
+     Author ['M Amrbar', 'F Irom', 'SM Guertin']
+     Venue 2015 IEEE Radiation …
+     Year 2015
+     Abstract in Xilinx FPGAs”, NEPP [3] M. Berg, “Field Programmable Gate Array (FPGA) Single Event  F. Irom, SM Guertin, “Recent Results for PowerPC Processor and Bridge Chip Testing”, IEEE Radiation  8] M. Wirthlin, D. Lee, H. Quinn, G. Swift, “A Method and Case Study on Identifying
+     Url https://ieeexplore.ieee.org/abstract/document/7336714/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The impact of modern FPGA architectures on neural hardware: A case study of the TOTEM neural processor
+     Author ['S McBader', 'P Lee', 'A Sartori']
+     Venue 2004 IEEE International Joint …
+     Year 2004
+     Abstract Using the TOTEM neural processor as a case study, this paper reports on the main advantages of implementing neural hardware on  The complete design of SoftTOTEM, including its implementation on a Xilinx FPGA as well as hardware and software verification, took an
+     Url https://ieeexplore.ieee.org/abstract/document/1381178/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title On the arithmetic precision for implementing back-propagation networks on FPGA: a case study
+     Author ['M Moussa', 'S Areibi', 'K Nichols']
+     Venue FPGA Implementations of Neural …
+     Year 2006
+     Abstract Page 1. Chapter 2 ON THE ARITHMETIC PRECISION FOR IMPLEMENTING BACK- PROPAGATION NETWORKS ON FPGA: A CASE STUDY  The purpose for creating this software simulator was to generate expected results for testing and validating FPGA-based BP
+     Url https://link.springer.com/chapter/10.1007/0-387-28487-7_2
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based testing strategy for cryptographic chips: A case study on Elliptic Curve Processor for RFID tags
+     Author ['F Junfeng', 'M Knezevic', 'D Karaklajic', 'R Maes', 'V Rozic']
+     Venue NA
+     Year 2009
+     Abstract Testing of cryptographic chips or components has one extra dimension: physical security. The chip designers should improve the design if it leaks too much information through side-channels, such as timing, power consumption, electric-magnetic radiation, and so on. This
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/127406/127406.pdf?sequence=1
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An FPGA-based testing platform for the validation of automotive powertrain ECU
+     Author ['B Du', 'L Sterpone']
+     Venue 2016 IFIP/IEEE International Conference on …
+     Year 2016
+     Abstract An FPGA-based Testing Platform for the Validation  In this paper we present a new FPGA-based platform able to supervise and validate Commercial-Off-The- Shelf timer modules  As case study two industrial Time Modules manufactured by Freescale and Bosch have been used
+     Url https://ieeexplore.ieee.org/abstract/document/7753553/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A case study of accelerating apache spark with FPGA
+     Author ['J Hou', 'Y Zhu', 'L Kong', 'Z Wang', 'S Du']
+     Venue 2018 17th IEEE …
+     Year 2018
+     Abstract Python has been quickly gained popularity over the past few years, and it is used from testing microchips to building video games with the  We use Xilinx develop- ment tool SDAccel and Python class ctypes to address the gaps between FPGA and Python call  A case study of 2D
+     Url https://ieeexplore.ieee.org/abstract/document/8455991/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Model-based testing of PLC software: test of plants' reliability by using fault injection on component level
+     Author ['S Rösch', 'D Tikhonov', 'D Schütz']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract Automated test case generation approach for PLC control software exception handling using fault injection. In IEEE Ind  Model based TTCN-3 testing of industrial automation systems - First results. In IEEE Conf  Evo- lution in industrial plant automation: A case study. In IEEE Ind
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016421488
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Selective protection analysis using a SEU emulator: Testing protocol and case study over the Leon2 processor
+     Author ['MA Aguirre', 'JN Tombs', 'F Munoz']
+     Venue … on Nuclear Science
+     Year 2007
+     Abstract Page 3. AGUIRRE et al.: SELECTIVE PROTECTION ANALYSIS USING A SEU EMULATOR: TESTING PROTOCOL AND CASE STUDY OVER THE LEON2 PROCESSOR 953 The EB is implemented for the target FPGA and downloaded into the SFPGA, to start the emulation
+     Url https://ieeexplore.ieee.org/abstract/document/4291679/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based low-cost automatic test equipment for digital integrated circuits
+     Author ['L Mostardini', 'L Bacciarelli', 'L Fanucci']
+     Venue … on Intelligent Data …
+     Year 2009
+     Abstract its testing capability is oriented and optimized towards electronic devices such as microcontrollers, specialty logic and flash memory devices. In this paper we propose a case study of a low-cost, easy-to-use and reconfigurable automatic test machine referred as FATE (FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5343031/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Migration from microcontroller to FPGA based SoPC design: Case study: LMS adaptive filter design on Xilinx Zynq FPGA with embedded ARM controller
+     Author ['S Shaikh', 'S Pujari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract Present case study deals with noise cancelation using adaptive signals processing filters  [13] covers Signal generation using MATLAB/SIMULINK models in Laboratory environment for testing LMS adaptive filter on FPGA platform to demonstrate applications for Echo
+     Url https://ieeexplore.ieee.org/abstract/document/7877565/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Circumventing a ring oscillator approach to FPGA-based hardware Trojan detection
+     Author ['J Rilling', 'D Graziano', 'J Hitchcock']
+     Venue 2011 IEEE 29th …
+     Year 2011
+     Abstract This paper presents a case study in which flaws discovered in a ring oscillator-based Trojan  lookup table, there was only 9KB of dedicated memory available on the Spartan3E-100 FPGA. Further testing led to two key observations regarding the ring oscillator frequency values
+     Url https://ieeexplore.ieee.org/abstract/document/6081411/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Field measurements of broadband PLC: A case study in the brazilian regulation
+     Author ['D Tomimura', 'VV Neto']
+     Venue IEEE GLOBECOM 2008-2008 IEEE …
+     Year 2008
+     Abstract and that CISPR 22 measurement procedures for conducted disturbance are not adequate for PLC equipment testing, CISPR/SCI is addressing new requirements for these systems  Field Measurements of Broadband PLC: A Case Study in the Brazilian Regulation
+     Url https://ieeexplore.ieee.org/abstract/document/4698825/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title The Impacts of well Planned Recruitment and Selection Process on Corporate Performance in Nigerian Banking Industry (A Case Study of First Bank Plc 2004 …
+     Author ['AM Mustapha', 'OA Ilesanmi', 'M Aremu']
+     Venue International Journal of …
+     Year 2013
+     Abstract Industry (A Case Study of First Bank Plc 2004-2011) MUSTAPHA, Adeniyi Mudashiru (Ph.D)  Letters of reference carried by the applicant are of little value; one knows what is in them. Psychological Tests - The next step in the procedure outlined above is that of testing
+     Url http://hrmars.com/hrmars_papers/The_Impacts_of_well_Planned_Recruitment_and_Selection_Process_on_Corporate_Performance_in_Nigerian_Banking_Industry.pdf
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An automated BIST architecture for testing and diagnosing FPGA interconnect faults
+     Author ['J Smith', 'T Xia', 'C Stroud']
+     Venue Journal of electronic testing
+     Year 2006
+     Abstract 1(d). These test configurations were originally developed for external testing of FPGA interconnect under the assumption that there is sufficient Input/Output (I/O) pins to control and monitor all lines associated with the switch matrices
+     Url https://link.springer.com/article/10.1007/s10836-006-9319-7
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A new approach to single event upset testing of complex FPGA designs
+     Author ['M Berg']
+     Venue Single Event Effects Symposium
+     Year 2007
+     Abstract Design-for-test (DFT) and its application to FPGA NASA/GSFC & Mentor design case study Page 4. A New Approach to Single Event Upset Testing of Complex FPGA Designs Melanie Berg: NASA/GSFC REAG Single Event Effects Symposium: Long Beach 2007 Page 4
+     Url https://radhome.gsfc.nasa.gov/radhome/papers/SEESYM07_Berg.pdf
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Model-based development of an FPGA encoder simulator for real-time testing of elevator controllers
+     Author ['CF Nicolas', 'I Ayestaran', 'I Martinez']
+     Venue 2016 IEEE 19th …
+     Year 2016
+     Abstract Model-based development of an FPGA encoder simulator for real-time testing of elevator controllers  Our contribution is a case-study on the present capabilities and limitations of two commercial MBD environ- ments to support the development of real-time test components and
+     Url https://ieeexplore.ieee.org/abstract/document/7515611/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Fault-injection testing: FIT-ability, optimal procedure and tool for FPGA-based systems SIL certification
+     Author ['V Kharchenko', 'V Sklyar']
+     Venue East-West Design & …
+     Year 2013
+     Abstract Forth section describes case study and fifths one concludes discussion. 2. FIT and FIT-ability 2.1  [2] T. Huffmire, C. Irvine, Thuy D. Nguyen, T. Levin, R. Kastner, T. Sherwood. Handbook of FPGA Design Security, Springer, New York, 2010  Design and Testing of SoC
+     Url https://ieeexplore.ieee.org/abstract/document/6673129/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Necessity of fault tolerance techniques in Xilinx Kintex 7 FPGA devices for space missions: A case study
+     Author ['L van Harten', 'R Jordans']
+     Venue … Conference on Digital …
+     Year 2017
+     Abstract This paper describes a case study on whether it would be a viable approach to implement  fraction of upsets that are critical heavily depends on the application running on the FPGA. No relevant testing has been performed to determine this fraction for the NCLE application, as it
+     Url https://ieeexplore.ieee.org/abstract/document/8049801/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking  we would like to mention Mader et al.'s study including very detailed examples on a practical case study. 6 Model checking graphical PLC programs
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A dual high-speed PMSM motor drive emulator with finite element analysis on FPGA chip with full fault testing capability
+     Author ['Y Inaba', 'S Cense', 'TO Bachir']
+     Venue Proceedings of the …
+     Year 2011
+     Abstract HIL testing using FPGA virtual motor drives is a relatively new methodology, Denso conducted many  the real-time simulation of PECs : A high-speed PMSM drive case study,” Proceedings of  Dufour, H. Blanchette, J. Bélanger, “Very-high Speed Control of an FPGA-based Finite
+     Url https://ieeexplore.ieee.org/abstract/document/6020452/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A component based architecture to improve testability, targeted FPGA-based vision systems
+     Author ['M Pordel', 'NM Khalilzad', 'F Yekeh']
+     Venue 2011 IEEE 3rd …
+     Year 2011
+     Abstract This paper is the result of a case study on vision systems for two robotics projects in which the vision team consisted of seven  While FPGA has been used for real-time image processing, some steps have been taken in order to reduce the development and testing phases
+     Url https://ieeexplore.ieee.org/abstract/document/6014162/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A built in self test scheme for automatic interconnect fault diagnosis in multiple and single FPGA systems
+     Author ['MY Niamat', 'A Sahni', 'MM Jamali']
+     Venue 2007 50th Midwest …
+     Year 2007
+     Abstract S. Wijesuriya, C. Hamilton, and M. Abramovici, “Built-In Self Test of FPGA Interconnect”, International  TA Slaughter, “BIST for Xilinx 4000 and Spartan Series FPGAs: A Case Study”, IEEE International  JM Portal, J. Figueras, and Y. Zorian, “SRAM-based FPGAs: Testing the LUT
+     Url https://ieeexplore.ieee.org/abstract/document/4488577/
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Mutation-based test generation for plc embedded software using model checking
+     Author ['EP Enoiu', 'D Sundmark', 'A Čaušević', 'R Feldt']
+     Venue … Conference on Testing …
+     Year 2016
+     Abstract An evaluation of the approach in an industrial case study. The  FIO)). The rest of the paper is organized as follows. Section 2 introduces PLC embedded software, automated test generation and mutation testing. Section
+     Url https://link.springer.com/chapter/10.1007/978-3-319-47443-4_10
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A shift-register based BIST architecture for FPGA global interconnect testing and diagnosis
+     Author ['IG Pereira', 'LA Dias', 'CP de Souza']
+     Venue Journal of Electronic Testing
+     Year 2015
+     Abstract configurations are needed to test all of the global routing resources in a case study considering Xilinx  Since, in general, the main goal of any interconnection testing is to minimize the number  presents a BIST approach in order to test global routing resources in FPGA using the
+     Url https://link.springer.com/article/10.1007/s10836-015-5515-7
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design of a plc control program for a batch plant vhs case study 1
+     Author ['A Mader', 'E Brinksma', 'H Wupper', 'N Bauer']
+     Venue European Journal of Control
+     Year 2001
+     Abstract and the PLC code derived from it. Our approach can be seen as an attempt to use the case study to assess how much of existing theory and tools for non-hybrid systems can be put to effective use in the case of plant-control type applications, rather than a testing ground for
+     Url https://www.sciencedirect.com/science/article/pii/S0947358001701811
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Formal verification of safety PLC based control software
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue International Conference on Integrated …
+     Year 2016
+     Abstract A case study was presented showing that formal verification can be applied to significantly large, real safety-critical PLC programs  Many of the problems identified using them could have not been found using the currently used testing techniques
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33693-0_32
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards a multi-perspective model of reverse knowledge transfer in multinational enterprises: A case study of Coats plc
+     Author ['M McGuinness', 'M Demirbag', 'S Bandara']
+     Venue European Management Journal
+     Year 2013
+     Abstract Constructs of this model are then operationalised within Coats plc, a UK based  This case study presents insights based upon data gathered from two of subsidiaries based in  models are most commonly created using a deductive approach which warrants hypothesis-testing
+     Url https://www.sciencedirect.com/science/article/pii/S026323731200031X
+
+
+     Search term "Case+Study"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA Fault Tolerant Arithmetic Logic: A Case Study Using Parallel-Prefix Adders.
+     Author ['DHK Hoe', 'LP Bollepalli', 'CD Martinez']
+     Venue VLSI Design
+     Year 2013
+     Abstract Research Article FPGA Fault Tolerant Arithmetic Logic: A Case Study Using Parallel-Prefix Adders  Important work in this area includes the creation of a roving self-test area (STAR) on an FPGA, allowing the effective testing of both logic and interconnect [18, 19]. Page 5
+     Url http://downloads.hindawi.com/archive/2013/382682.pdf
+

@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Medical"+"Testing"
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract Obviously, during the development life-cycle, the manufacturer may use internal continuous deployment for testing purposes  Scientific community could help in this experimenting with further analysis of medical device software and DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract 2. DevOps and regulations: Sample of two standards  IEC 62304 is also applicable for medical software used for medical treatment or diagnosis, even if  model that consists of planning, requirement gathering, design, implementation, verification, integration testing, system testing
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract example, in embed- ded-system development, testing is challenging because building and testing on the  Such tools are a major DevOps enabler, es- pecially as architecture moves from a  critical applications in which failure isn't an option—for ex- ample, medical or aerospace
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract Using DevOps in medical device development shares characteristics with the traditional DevOps architecture [8]: more automation, tools and testing as well as short planning cycles and structured requirements management
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract Page 1. 127 A Survey of DevOps Concepts and Challenges LEONARDO LEITE, University  The present survey investigates and discusses DevOps challenges from the perspective of engineers, managers, and researchers. We review the
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title A New Form of Collaboration in IT Teams-Exploring the DevOps Phenomenon.
+     Author ['A Wiedemann']
+     Venue PACIS
+     Year 2017
+     Abstract Automation Is defined as the full automated building, deployment, and testing of software to gain short lead times, rapid delivery  Case 5 Health Care Employees: 20.000-50.000 Team size: 10 people Agile method: Scrum Product: Medical device DevOps orientation since
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1206&context=pacis2017
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title The DevOps adoption playbook: a guide to adopting DevOps in a multi-speed IT enterprise
+     Author ['S Sharma']
+     Venue NA
+     Year 2017
+     Abstract 98 Establishing the Right Culture . . . . . 102 The DevOps Plays  123 Play: Continuous Delivery . . . . . 128 Play: Shift Left—Testing
+     Url https://books.google.com/books?hl=fr&lr=&id=leXWDQAAQBAJ&oi=fnd&pg=PR23&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=j1ziaz1w1i&sig=Qz6xb7QspnlsS1t-4wBECZKV384
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Building a collaborative culture: a grounded theory of well succeeded devops adoption in practice
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Proceedings of the 12th ACM/IEEE …
+     Year 2018
+     Abstract as a result of a investigation), in contrast with more tradi- tional theory-testing approaches [7  First, GT is a consolidated method in other areas of research - notably medical sociology [6  5], which is exactly the scenario here: what are the successful adoption paths for DevOps
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240299
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title A large agile organization on its journey towards DevOps
+     Author ['K Kuusinen', 'V Balakumar', 'SC Jepsen']
+     Venue 2018 44th Euromicro …
+     Year 2018
+     Abstract Developers themselves might be against DevOps as they need to learn new skills  Technical impediments include having monolithic architecture, development and testing environments not reflecting  which prohibits rapid releases, for example in the medical software domain
+     Url https://ieeexplore.ieee.org/abstract/document/8498186/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Productivity gains of DevOps adoption in an IT team: a case study
+     Author ['MA Silva', 'JP Faustino', 'R Pereira', 'M Mira da Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry [15] Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices [6
+     Url https://aisel.aisnet.org/isd2014/proceedings2018/ISDevelopment/8/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps and software quality: A systematic mapping
+     Author ['A Mishra', 'Z Otaiwi']
+     Venue Computer Science Review
+     Year 2020
+     Abstract 9]. DevOps capabilities are Continuous planning, Continuous integration and testing, Continuous release and deployment, Continuous infrastructure monitoring and optimization, Collaborative and continuous development, Continuous user behavior monitoring and feedback [9
+     Url https://www.sciencedirect.com/science/article/pii/S1574013720304081
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Adopting DevOps in the real world: A theory, a model, and a case study
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Journal of Systems and Software
+     Year 2019
+     Abstract a result of a investigation), in contrast with more traditional theory-testing approaches (Coleman  GT is a consolidated method in other areas of research — notably medical sociology (Charmaz  is exactly the scenario here (ie, what are the successful adoption paths for DevOps?)
+     Url https://www.sciencedirect.com/science/article/pii/S0164121219301517
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Dealing with security in a real DevOps environment
+     Author ['X Larrucea', 'A Berreteaga', 'I Santamaria']
+     Venue European Conference on …
+     Year 2019
+     Abstract and at certain point in time, during his stay abroad, he requires to visit a medical doctor  DevOps approach stages and supporting tools  as to support collaborative development (eg, source control management, work-item management, collaboration, unit testing, project planning
+     Url https://link.springer.com/chapter/10.1007/978-3-030-28005-5_35
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title A Systematic Literature Review on DevOps Capabilities and Areas
+     Author ['D Teixeira', 'R Pereira', 'TA Henriques', 'M Silva']
+     Venue International Journal of …
+     Year 2020
+     Abstract of﻿practices﻿for﻿software﻿development﻿(Rajkumar,﻿Pole,﻿ Adige,﻿&﻿Mahanta,﻿2016),﻿there﻿is﻿no﻿one,﻿ agreed-upon﻿definition﻿of﻿it.﻿In﻿a﻿more﻿general﻿approach,﻿ DevOps﻿integrates﻿a﻿set﻿of﻿characteristics﻿ and﻿principles﻿for﻿software﻿delivery﻿that﻿focuses﻿on:﻿speed﻿ of﻿delivery,﻿continuous﻿testing﻿in﻿an
+     Url https://www.igi-global.com/article/a-systematic-literature-review-on-devops-capabilities-and-areas/252844
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study
+     Author ['M Shahin', 'MA Babar']
+     Venue arXiv preprint arXiv:2003.06108
+     Year 2020
+     Abstract In TeamA and TeamB, this was indeed a conscious decision to manage different levels of development, testing, and deployment in DevOps transformation [3]. Table 10. How often the teams deploy to different environments Deployment Frequency to Development Env
+     Url https://arxiv.org/abs/2003.06108
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Continuous delivery and DevOps: a quickstart guide
+     Author ['P Swartout']
+     Venue NA
+     Year 2012
+     Abstract culture, default behaviors, andengineering practices of asmallsoftware housearewhat wouldbe classedas prettygood interms of CD and DevOps  which will compromise softwaredesign andelegance Engineering bestpractices will becompromised to hit deadlines Testing will not
+     Url https://books.google.com/books?hl=fr&lr=&id=L-g6Qxb_43sC&oi=fnd&pg=PT17&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=edQ7DL-SK2&sig=PhaaDEoddNJkf60BIzEcQW16GMI
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title An attempt to adopt DevOps on embedded system development: empirical evidence
+     Author ['PE Wijaya', 'I Rosyadi', 'A Taryana']
+     Venue Journal of Physics: Conference …
+     Year 2019
+     Abstract 1, pp. 55 - 67, 2005. [15] David Saff, Michael D. Ernst, "Reducing wasted development time via continuous testing," in International  [20] Teemu Laukkarinen, Kati Kuusinen, Tommi Mikkonen, "DevOps in Regulated Software Development: Case Medical Devices," in
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078/meta
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title An overview of devops
+     Author ['B Patwardhan']
+     Venue CSI Communications
+     Year 2012
+     Abstract 15 be automated, pushing released changes from Dev to QAS for testing and QAS  devops-really-does-speed-things- up-study-shows-7000020783/ [7] The DevOps Challenge, Michael A  For example medical products can have drug usage statistics, clinical samples, and
+     Url http://csi-india.org.in/communications/CSIC%20August%202014.pdf#page=14
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Proposal to Avoid Issues in the DevOps Implementation: A Systematic Literature Review
+     Author ['M Muñoz', 'M Negrete', 'J Mejía']
+     Venue World Conference on Information Systems …
+     Year 2019
+     Abstract because a DevOps approach focused only on the software implementation; a lack of knowledge of how to integrate testing environments with  A7 T. Laukkarinen, K. Kuusinen, and T. Mikkonen: DevOps in regulated software development: Case medical devices, Proc
+     Url https://link.springer.com/chapter/10.1007/978-3-030-16181-1_63
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Critical success factors of continuous practices in a DevOps context
+     Author ['M van Belzen', 'J Trienekens', 'R Kusters']
+     Venue NA
+     Year 2019
+     Abstract Shahin, Ali Babar and Zhu [35] extracted seven Critical Success Factors (CSFs) of continuous practices, in an order of importance: testing (effort and  In addition to continuous practices, recent studies show that DevOps adoption improve cycle times (and quality) as well [8, 27]
+     Url https://aisel.aisnet.org/isd2014/proceedings2019/ISDMethodologies/6/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps: are you pushing bugs to your clients faster
+     Author ['W Ariola', 'C Dunlop']
+     Venue Thirty-Third Annual Pacific Northwest …
+     Year 2015
+     Abstract cycles—driving the adoption of agile or lean development practices such as DevOps  a requirement, an application, a component, or iteration, the Development Testing Platform will  satisfying compliance mandates, such as safety-critical, automotive, or medical device standards
+     Url http://uploads.pnsqc.org/2015/papers/t-007_Ariola_paper.pdf
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract as follows: After a description of the papers reporting on the application of microservices-based implementations applying the DevOps pipeline (partially or completely), we describe the techniques related to each DevOps step: planning, coding, testing, release, deployment
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Adopting DevOps in Agile: Challenges and Solutions
+     Author ['C Wang', 'C Liu']
+     Venue NA
+     Year 2018
+     Abstract [29] studied the challenges of adopting DevOps in Agile, but the challenges were aimed at medical standards, the scope was greatly limited. Authors confirmed that DevOps is not well-suited to some standards of medical criteria, it needs to improve the process of DevOps
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1228684
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps For Dummies
+     Author ['E Freeman']
+     Venue NA
+     Year 2019
+     Abstract 78 viii Devops For Dummies 0004416104.INDD viii Trim size: 7.375 in x 9.25 in July 10, 2019 11:59 AM Page 9. CHAPTER 7: Planning Ahead  88 Testing your hypothesis
+     Url https://books.google.com/books?hl=fr&lr=&id=QNShDwAAQBAJ&oi=fnd&pg=PR17&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=kb-FtXLOTt&sig=DVnLhf_lutPUum5Fb_PWW4QHbfA
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Leading the transformation: Applying agile and devops principles at scale
+     Author ['G Gruver', 'T Mouser']
+     Venue NA
+     Year 2015
+     Abstract Page 29. Our build, integration, and testing process was driving both cost and cycle-times, so we figured that was a good place to start. When we looked in the DevOps and Agile toolbox, we picked continuous integration as one of our first objectives
+     Url https://books.google.com/books?hl=fr&lr=&id=olFECgAAQBAJ&oi=fnd&pg=PT9&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=EbgZqImji8&sig=6neNMb60iwgFB_ogHJ4xmYFcLXg
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Agile application lifecycle management: Using DevOps to drive process improvement
+     Author ['B Aiello', 'L Sachs']
+     Venue NA
+     Year 2016
+     Abstract 7.13 Systems and Application Design 7.14 Code Quality Instrumentation 7.15 Testing the Lifecycle 7.16 Test Case Management 7.17 TestDriven Development 7.18 Environment Management 7.18.1 Gold Copies 7.19 Supporting the CMDB 7.20 Driving DevOps 7.21 Supporting
+     Url https://books.google.com/books?hl=fr&lr=&id=zMY_DAAAQBAJ&oi=fnd&pg=PT26&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=YEEZ2yLqRe&sig=VZV4U7sBblm5O7C27FBSUcI12Ec
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps for AI–Challenges in Development of AI-enabled Applications
+     Author ['LE Lwakatare', 'I Crnkovic']
+     Venue … Conference on Software …
+     Year 2020
+     Abstract In many domains (eg medical diagnose), ML has demonstrated superiority in providing re- sults in comparison to traditional software  Building on agile software development method, an important tenet in DevOps is automation of build, testing, deployment and
+     Url https://ieeexplore.ieee.org/abstract/document/9238323/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Software engineer education support system ALECSS utilizing DevOps tools
+     Author ['M Ohtsuki', 'K Ohta', 'T Kakeshita']
+     Venue … of the 18th International Conference on …
+     Year 2016
+     Abstract Kazuki OHTA Graduate School of Medical Science, Saga University Nabeshima 5-1-1, Saga City Saga 849  and Ops Cooperation at Flickr，2009． [2] Len Bass, Ingo Weber, Liming Zhu, DevOps: A Software  [3] Jeff Langr, Andy Hunt, Dave Thomas, Pragmatic Unit Testing in Java
+     Url https://dl.acm.org/doi/abs/10.1145/3011141.3011200
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps: High-impact strategies-what you need to know: Definitions, adoptions, impact, benefits, maturity, vendors
+     Author ['K Roebuck']
+     Venue NA
+     Year 2012
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title The DevOps Paradigm with Cloud Data Analytics for Green Business Applications
+     Author ['MJ Pawlish', 'AS Varde']
+     Venue ACM SIGKDD Explorations Newsletter
+     Year 2018
+     Abstract and writing software while in the operations department the focus was on testing the software  DevOps teams need to take into account virtualization and related aspects while they function together  useful insights on these with respect to the use of the Medical Markup Language
+     Url https://dl.acm.org/doi/abs/10.1145/3229329.3229334
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Software Engineering using DevOps-a Silver Bullet?
+     Author ['M Eriksson']
+     Venue NA
+     Year 2019
+     Abstract Today we have technology that help us scan millions of medical databases in a glimpse of an eye and self-driving cars that are outperforming  Automation: Since DevOps strive to  done without a human, testing, installations, allocations and much more can be done at a much
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1289116
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Automation of Production Servers using DevOps (Puppet) Tools
+     Author ['S Kodali']
+     Venue NA
+     Year 2016
+     Abstract It also distributes medicines and other medical products to over 75% of the hospitals in the United States  In this context the company has chosen DevOps(Puppet) tool which they thought suits best in  designing, developing, testing and deploying and application. SDLC concept
+     Url https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1075&context=mme_etds
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title FEDERAL DEVOPS SUMMIT
+     Author ['M Casagni', 'M Lead', 'D Hanf', 'C Area', 'P Malhotra']
+     Venue NA
+     Year NA
+     Abstract environment as they code – Repeat testing over time to build confidence  of skilled staff available to implement in government DevOps. Several participants indicated that the medical researchers were experts at creating software applications. This is due to
+     Url https://atarc.org/wp-content/uploads/2019/01/2018-03-01-ATARC-Federal-DevOps-Summit-White-Paper-1.pdf
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Productivity gains of DevOps adoption: a case study
+     Author ['MÂR Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry (Soni, 2016) Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices
+     Url https://repositorio.iscte-iul.pt/handle/10071/18293
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Identification and prioritization of DevOps success factors using fuzzy-AHP approach
+     Author ['MA Akbar', 'S Mahmood', 'M Shafiq', 'A Alsanad']
+     Venue Soft Computing
+     Year 2020
+     Abstract DevOps supports cross-functional mode of software development where practitioners use different sets of tools for coding, building, testing, packaging, releasing, configuring, and monitoring aspects of development and delivery processes
+     Url https://link.springer.com/article/10.1007/s00500-020-05150-w
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps Finetuning
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue DevOps for Digital Leaders
+     Year 2016
+     Abstract counter to DevOps thinking-also known as “falling off the DevOps wagon”  are stupid, dumb and inefficient—In healthcare, accidents can occur when medical practitioners disable  Or when testing is deliberately skipped because of lengthy manual processing and provisioning
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-1842-6_10
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract in development, testing and production environments (Rajkumar et al. 2016). Furthermore, in the highly regulated software industries that require level compliance in order to meet regulatory requirements (medical, finance,food) , there is still not clear evidence that DevOps fits
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT02.pdf
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Adoption of DevOps Practices in the Finnish Software Industry: an Empirical Study
+     Author ['P Laihonen']
+     Venue NA
+     Year 2018
+     Abstract (Humble and Molesky, 2011) Automation is an important part of DevOps as it connects with almost every direction. Automating monotonous and repetitive tasks, such as manual testing or configuration, facilitates cultural collaboration and frees up people to focus on more
+     Url https://aaltodoc.aalto.fi/handle/123456789/34400
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT
+     Author ['TA Limoncelli', 'CJ Hogan', 'SR Chalup']
+     Venue NA
+     Year 2016
+     Abstract Exercises 20 Service Launch: DevOps 20.1 Continuous Integration and Deployment 20.1.1 Test Ordering 20.1.2 Launch Categorizations 20.2 Minimum Viable Product 20.3 Rapid Release with Packaged Software 20.3.1 Testing Before Deployment 20.3.2 Time to Deployment
+     Url https://books.google.com/books?hl=fr&lr=&id=10xeDQAAQBAJ&oi=fnd&pg=PT31&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=0HvEgfjXaF&sig=3c2cieLbt3DoUW7Tf9-JmG5WoNU
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Maturity model for DevOps
+     Author ['DS Teixeira']
+     Venue NA
+     Year 2019
+     Abstract Bezemer, Eismann, Ferme, & Grohmann, 2018). In a more general approach, DevOps integrates a set of characteristics and principles for software delivery that focuses on: speed of delivery, Continuous Testing in a an environment
+     Url https://repositorio.iscte-iul.pt/handle/10071/20297
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract in development, testing and production environments (Rajkumar et al. 2016). Furthermore, in the highly regulated software industries that require level compliance in order to meet regulatory requirements (medical, finance,food) , there is still not clear evidence that DevOps fits
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT03.pdf
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Devops management
+     Author ['LK Nandagopal']
+     Venue US Patent 10,127,017
+     Year 2018
+     Abstract BACKGROUND In devops, the process associated with releasing an application can include stages of building, testing, and releasing portions of the application throughout the entire lifecycle of the application. The release of
+     Url https://patents.google.com/patent/US10127017B2/en
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps practices in incident management process
+     Author ['JPC Faustino']
+     Venue NA
+     Year 2018
+     Abstract testing approach. Infrastructure as Code Allows the organisations to manage which environments need to be provisioned and configured to enable continuous delivery Stakeholder Participation The participation of stakeholders will provide more feedback to the DevOps teams
+     Url https://repositorio.iscte-iul.pt/handle/10071/18294
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title An empirical study of architecting and organizing for DevOps
+     Author ['M Shahin']
+     Venue NA
+     Year 2018
+     Abstract deployment. Most research on DevOps focuses on tooling support, improving automation in testing and deployment, improving performance and integrating security into the deployment process to initiate and implement DevOps. To
+     Url https://digital.library.adelaide.edu.au/dspace/handle/2440/116767
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title DevOps under control: development of a framework for achieving internal control and effectively managing risks in a DevOps environment
+     Author ['OH Plant']
+     Venue NA
+     Year 2019
+     Abstract 2.1.2 Automation According to Lwakatare et al. [25], increased automation of testing and deploy- ment processes is necessary to keep up with the increased pace of agile software development. Three terms that are repeatedly mentioned in combination with DevOps but are
+     Url http://essay.utwente.nl/77376/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Continuous Delivery and DevOps–A Quickstart Guide: Start your journey to successful adoption of CD and DevOps
+     Author ['P Swartout']
+     Venue NA
+     Year 2018
+     Abstract feature-flag complexity A/B testing 210 211 212 214 216 Blue-green deployments Security-patching and bacon-saving Order-out-of-chaos monkey End user self-service Thing as a service Summary 219 220 222 223 225 226 Chapter 10: CD and DevOps Beyond Traditional
+     Url https://books.google.com/books?hl=fr&lr=&id=cOh1DwAAQBAJ&oi=fnd&pg=PP1&dq=%22DevOps%22+%22Medical%22+%22Testing%22&ots=wzrbDhuPot&sig=y9khwKLJH3vbqqVjlRhOMUQh1YE
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Towards agile yet regulatory-compliant development of medical software
+     Author ['V Stirbu', 'T Mikkonen']
+     Venue 2018 IEEE International Symposium on …
+     Year 2018
+     Abstract Agile software development and DevOps create an envi- ronment in which experimentation can thrive [5]. By having the mundane tasks of testing, integrating, packaging and deploying automated, the teams can focus their attention on  3. Medical device software regulations
+     Url https://ieeexplore.ieee.org/abstract/document/8539216/
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Why are many business instilling a DevOps culture into their organization?
+     Author ['J Diaz', 'D López-Fernández', 'J Perez']
+     Venue arXiv preprint arXiv …
+     Year 2020
+     Abstract Page 7. WHY ARE MANY BUSINESS INSTILLING A DEVOPS CULTURE INTO THEIR ORGANIZATION? 7  Phase 2. Improving reliability of coding. We used Inter-Coder Agreement (ICA) analysis tech- niques for testing the reliability of the obtained codebook
+     Url https://arxiv.org/abs/2005.10388
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "DevOps"+"Medical"+"Testing"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract the﻿SDLC.﻿The﻿problem﻿is﻿critical﻿in﻿relation﻿ to﻿project﻿requesters﻿and﻿end﻿users.﻿An﻿absent﻿requester﻿ can﻿lead﻿to﻿vague﻿or﻿unverified﻿ project﻿requirements.﻿An﻿absent﻿end﻿user﻿can﻿result﻿in﻿no﻿or﻿minimal﻿ project﻿feedback﻿ which﻿is﻿imperative﻿to﻿testing﻿and﻿development﻿in﻿the﻿DevOps﻿process.﻿It
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+

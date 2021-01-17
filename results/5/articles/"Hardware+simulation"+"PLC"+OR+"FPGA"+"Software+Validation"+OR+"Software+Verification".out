@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems. The embedded processor core, peripherals, and the power converter model are all implemented into the same FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract 51, NO. 2, MARCH/APRIL 2015 FPGA-Based Detailed Real-Time Simulation of Power Converters and Electric Machines  In this paper, a field- programmable gate array (FPGA)-based RT platform for sim- ulation of power converters and electric machines is presented
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Benefits of hardware accelerated simulation
+     Author ['R Wiśniewski', 'A Bukowiec', 'M Węgrzyn']
+     Venue Proceedings of the …
+     Year 2001
+     Abstract HES boards have been built with Xilinx FPGA Virtex [11] or Altera CPLD Apex [2] devices  The following results are based on a comparison between software and hardware simulation  The software verification of this Master block takes approximately 45 minutes
+     Url http://www.iie.uz.zgora.pl/iie_archiwum/desdes01/files/ref/IV-7.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title System-level verification-a comparison of approaches
+     Author ['R Turner']
+     Venue Proceedings Tenth IEEE International Workshop on …
+     Year 1999
+     Abstract The FPGA coding might also be separately simulated  system-level verification for a project, and specifically of including software verification, is the  Bibliography [1] Software Development in a Hardware Simulation Environment, Benny Schnaider, MayaLee Consulting and Einat
+     Url https://ieeexplore.ieee.org/abstract/document/779046/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of high-speed verification platform based on emulator for ReDSP and ReMAP
+     Author ['H Wei', 'W Xinan', 'D Peng']
+     Venue 2009 IEEE 8th International …
+     Year 2009
+     Abstract In addition, Partitioning design into multiple FPGA chips and multiplexing chip IO's for  and Quattro emulator, and we propose an efficient software verification model according  REFERENCES [1] Mavroidis, I., Papaefstathiou, I.. Accelerating hardware simulation: Testbench code
+     Url https://ieeexplore.ieee.org/abstract/document/5351338/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An FPGA-based verification framework for real-time vision systems
+     Author ['G van der Wal', 'F Brehm', 'M Piacentino']
+     Venue 2006 Conference on …
+     Year 2006
+     Abstract The framework benefits from hard- ware and software verification, ease of reconfiguration for testing multiple  This FPGA testbench runs the device under test at high speed – although not  The hardware simulation loads the initial memory images at the beginning of a run and
+     Url https://ieeexplore.ieee.org/abstract/document/1640568/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Study on a mixed verification strategy for IP-based soc design
+     Author ['C Wenwei', 'Z Jinyi', 'L Jiao', 'R Xiaojun']
+     Venue 2005 Conference on …
+     Year 2005
+     Abstract and the weakness of existing EDA tools, then presents a practical verification strategy based on FPGA, which is  The existing tools could be used as software verification tool and hardware verification tool, for example Modelsim (hardware debugging  Hardware simulation kernel
+     Url https://ieeexplore.ieee.org/abstract/document/4017492/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A partially automated HiL test environment for model-based development using Simulink® and OPC technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue 2011 XXIII …
+     Year 2011
+     Abstract of an automated testing tool, developed in Matlab®/Simulink® environment, that performs software verification during runtime on a PLC (Programmable Logic  software that fulfil system requirements and to test its behaviour during real- time hardware simulation, in order
+     Url https://ieeexplore.ieee.org/abstract/document/6102112/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of high and low modulo (2/sup 16/+ 1) multiplier used in IDEA algorithm on FPGA
+     Author ['S Elagooz', 'N Hamdy', 'K Shehata']
+     Venue Proceedings of the …
+     Year 2003
+     Abstract A software verification for the High and Low modulo multiplier using the above solution for the  and Low modulo /2'6 + 1) multiplier IS presented, designed, simulated,'and Lplemented on FPGA  Hardware simulation results showed that, at the cost of a huge increase of the used
+     Url https://ieeexplore.ieee.org/abstract/document/1217343/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of fast inverse modulo (2/sup 16/+ 1) multiplier used in idea algorithm key schedule on FPGA
+     Author ['N Hamdy', 'K Shehata', 'S Elagooz']
+     Venue … Conference on Electrical …
+     Year 2004
+     Abstract Software Verification: Software verification for the fast inverse modulo multiplier using the power algorithm generates  1) multiplier unit is presented, designed, simulated, and implemented on FPGA  Hardware simulation results showed that, at the cost of doubling the number of
+     Url https://ieeexplore.ieee.org/abstract/document/1374513/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded software debug in simulation and emulation environments for interface IP
+     Author ['C Wronka', 'J Kotas']
+     Venue Embedded Software Verification and Debugging
+     Year 2017
+     Abstract Embedded Software Verification and Debugging pp 19-45 | Cite as  Diagram showing a generic hybrid hardware simulation or emulation environment with a TLM part including the CPU  allows to test the generic system use cases or replicate problems found during FPGA testing
+     Url https://link.springer.com/chapter/10.1007/978-1-4614-2266-2_2
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Collaborative verification and testing platform for NoC-based SoC
+     Author ['Y Zhang', 'N Wu', 'F Ge', 'X Chen']
+     Venue … World Congress on …
+     Year 2015
+     Abstract be transmitted to the testing platform by certain interfaces to reconstruct NoC, meanwhile the hardware simulation results can  Hardware testing platform is based on the configurability of FPGA to realize modules, structure and system  The software validation environment in Fig
+     Url https://pdfs.semanticscholar.org/7877/00f975974b1be7a19fa1825bf974bb20032b.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and implementation of IDEA algorithm key schedule on FPGA
+     Author ['K Shehata', 'N Hamdy', 'S Elagooz']
+     Venue … on Aerospace Sciences …
+     Year 2003
+     Abstract A software verification for the IDEA key schedule using the above technique for solving the  of Inverse modulo (216 + 1) multiplier is presented, designed, simulated, and implemented on FPGA  Hardware simulation results showed that, at the cost of a minor increase of the used
+     Url https://asat.journals.ekb.eg/article_24692.html
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title HW/SW Co-Simulation
+     Author ['CJ Tsai']
+     Venue National Chiao Tung University. Taiwan
+     Year 2011
+     Abstract Early access to the hardware design for software engineers ∎ Provide more “realistic”stimulus for hardware simulation (as  hardware are required ∎ For an emulated platform, an FPGA-based development  Type of software verification (eg multimedia vs. drivers)
+     Url http://caxapa.ru/thumbs/823115/soc11_08_Cosimulation.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A kind of lock according to the total amount word mutually wreath of 2 FSK solution adjust the method
+     Author ['ZJWJUNLI MENG']
+     Venue NA
+     Year 2007
+     Abstract a method to demodulate FSK signal, on the basis of FPGA chip, by applying all- digital phase locked loop. It introduces the design process in detail by presenting an instance of demodulating a FSK signal. Through software validation and hardware simulation, this circuit
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WJSJ200708076.htm
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Partitionless Multi User Support For Hardware Assisted Verification
+     Author ['K Suresh', 'CW Selvidge']
+     Venue US Patent App. 13/875,267
+     Year 2014
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  initiating a hardware assisted software verification process on a selected one of the multiple electronic design using the emulator as a resource
+     Url https://patents.google.com/patent/US20140032204A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual Platforms Driving Software Quality in Pre-Silicon
+     Author ['AD Pulla']
+     Venue NA
+     Year NA
+     Abstract models, SystemC is system-level modeling language that contain libraries and frameworks for hardware simulation that can be  There is also hybrid prototyping approach that connects virtual platform with FPGA-based prototypes for software validation and hardware
+     Url https://pdfs.semanticscholar.org/d93c/509453cb05c755a0f4a27ea7f44616b7472d.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Timed-Value Stream Based ESL Timing and Power Estimation and Simulation Framework for Heterogeneous MPSoCs
+     Author ['K Grüttner', 'PA Hartmann', 'T Fandrey', 'K Hylla']
+     Venue International Journal of …
+     Year 2020
+     Abstract In virtual plat- form, previously only used for functional software verification, our proposed timed  2. Using a Xilinx MicroBlaze FPGA many-core design with dynamic power man  proposed dynamic power and performance back-annotation for functional hardware simulation in [24
+     Url https://link.springer.com/content/pdf/10.1007/s10766-020-00656-0.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title High-speed software-based platform for embedded software of a single-chip MPEG-2 video encoder LSI with HDTV scalability
+     Author ['K Ochiai', 'H Iwasaki', 'J Naganuma']
+     Venue … , Automation and Test …
+     Year 1999
+     Abstract Figure 3. Hardware simulation model  The simulation speed reached about 1/10th the speed of an FPGA-based ASIC emulator which is the  The concurrent design enables a designer to overlap the embedded-software validation stage and the hardware block validation stage
+     Url https://ieeexplore.ieee.org/abstract/document/761138/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware implementation and validation of a traffic road sign detection and identification system
+     Author ['R Hmida', 'AB Abdelali', 'A Mtibaa']
+     Venue Journal of Real-Time Image Processing
+     Year 2018
+     Abstract will be used for the automatic hardware system generation and also for software validation throughout the  It allows software and hardware simulation simultaneously with the same design formed by XSG  It can perform one of the Simulink model subsystems on an FPGA board at
+     Url https://link.springer.com/article/10.1007/s11554-016-0579-x
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation environment software
+     Author ['S Sandhu', 'B Michaud', 'G Dick']
+     Venue US Patent App. 09/899,705
+     Year 2003
+     Abstract US20030088710A1 - Simulation environment software - Google Patents. Simulation environment software. Download PDF Info. Publication number US20030088710A1. US20030088710A1 US09/899,705 US89970501A US2003088710A1
+     Url https://patents.google.com/patent/US20030088710A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA realization of multipurpose FIR filter
+     Author ['MBI Reaz', 'MT Islam', 'MS Sulaiman']
+     Venue Proceedings of the …
+     Year 2003
+     Abstract Simulation, compilation and synthesis have been done to verify the validity of the design  FIR filter using VHDL is presented that has been implemented onto FPGA for hardware  Following the software verification of each submodule, the synthesis is then activated that performs
+     Url https://ieeexplore.ieee.org/abstract/document/1236448/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for co-verifying hardware and software for a semiconductor device
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake', 'T Kowatari']
+     Venue US Patent …
+     Year 2006
+     Abstract as C-based native code simulation is implemented, the simulation performance (number of instructions/second) improves by a factor of 10 2 to 10 3 compared with the method that uses the prior art ISS, and a speedup of simulation for hardware/software verification is thus
+     Url https://patents.google.com/patent/US7155690B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware/software co-verification method
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake']
+     Venue US Patent App. 10 …
+     Year 2005
+     Abstract US20050149897A1 - Hardware/software co-verification method - Google Patents. Hardware/software co-verification method. Download PDF Info. Publication number US20050149897A1. US20050149897A1 US10/766,955 US76695504A
+     Url https://patents.google.com/patent/US20050149897A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software executing device and co-operation method
+     Author ['M Igarashi']
+     Venue US Patent 8,036,874
+     Year 2011
+     Abstract 10 illustrates a configuration of a clock generating unit on an FPGA board;  cases are caused by an event occurring from outside without any causal relationship with operations in the software side, and a time of the event occurrence is not important in the software verification)
+     Url https://patents.google.com/patent/US8036874B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software tool to allow field programmable system level devices
+     Author ['MT Mason', 'DA McConnell', 'AV Dasari']
+     Venue US Patent 6,272,451
+     Year 2001
+     Abstract According to the present invention, as embodied and broadly described herein, a method for co-verifying a hardware simulation, programmed logic of a field-programmable-gate array (FPGA) and a software simulation, program code, of the tield-programmable-gate array, is
+     Url https://patents.google.com/patent/US6272451B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Real-time co-simulation platform for electromechanical vehicle applications
+     Author ['A Popp', 'M Sarrazin']
+     Venue … on advanced topics …
+     Year 2015
+     Abstract Finally, detailed result Model-in-the-loop (MiL) and a Hardware- simulation  m “virtual” real-time environment or this phase are the testing of algori software validation for enabling  2). The standard control modules are replaced with FPGA control boards, which integrate the input
+     Url https://ieeexplore.ieee.org/abstract/document/7133772/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title UVM-powered hardware/software co-verification
+     Author ['S Birla', 'S Sharma', 'NK Shukla']
+     Venue Journal of Information and …
+     Year 2017
+     Abstract team is working in parallel with hardware team by implementing FPGA on Xilinx  It runs on guest machine while the hardware simulation runs on host machine  Kumar, Manoj Ariyamparambath, Bashuman Deb, A new Methodology for Hardware Software Verification, Design and
+     Url https://www.tandfonline.com/doi/abs/10.1080/02522667.2017.1372141
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Re-useable hardware/software co-verification of IP blocks
+     Author ['A Bruce', 'J Goodenough']
+     Venue … ASIC/SOC Conference (IEEE Cat. No …
+     Year 2001
+     Abstract verification has had to wait for the hardware design to finish and be synthesized onto an FPGA  These have always provided good links to hardware simulation environments  were extended to access the state of the processor then a range of software validation techniques would
+     Url https://ieeexplore.ieee.org/abstract/document/954737/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Advanced concurrent design environment for multimedia system LSIs
+     Author ['H Iwasaki', 'K Ochiai', 'J Naganuma']
+     Venue … and Computers in …
+     Year 2002
+     Abstract The simulation speed reached about 1/10th the speed of an FPGA-based ASIC emulator which is the  The approach of the software-based platform promises to be an important step toward embed- ded software validation of future  A.1. Hardware simulation model for system LSIs
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/scj.10004
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbench for the validation of a device under test
+     Author ['U Heinkel', 'J Knaeblein', 'C Mayer']
+     Venue US Patent App. 10/208,607
+     Year 2004
+     Abstract G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment  testbench for the validation of a device under test, eg an integrated circuit and, in particular an ASIC or an FPGA, comprises data
+     Url https://patents.google.com/patent/US20040015739A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title C-based SoC design flow and EDA tools: An ASIC and system vendor perspective
+     Author ['K Wakabayashi', 'T Okamoto']
+     Venue IEEE Transactions on Computer …
+     Year 2000
+     Abstract Cycle-level hardware simulation models are generated by the Cyber HLS system  is that it is difficult to observe and control the registers inside the FPGA, such as  Also, this model is good for embedded software verification on SoCs because of the high simulation performance
+     Url https://ieeexplore.ieee.org/abstract/document/898829/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation based system level fault insertion using co-verification tools
+     Author ['B Eklow', 'A Hosseini', 'C Khuong']
+     Venue … Conferce on Test
+     Year 2004
+     Abstract Stuck-at faults can be injected into the hardware simulation environment by accessing the appropriate net  5 ASIC's comprising a total of more than 15 million gates, 2 complex FPGA's, a MIPS  4. Phil Wilcox, Jim Hjartamn, Robert Hum, “Software Verification by Fault Insertion”, US
+     Url https://ieeexplore.ieee.org/abstract/document/1387332/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software and hardware simulation
+     Author ['AM Nightingale', 'AC Bruce']
+     Venue US Patent 7,366,650
+     Year 2008
+     Abstract Most hardware verification is done by simulation, however, until recently, efficient software verification has had to wait  the hardware design to finish and be synthesized onto a field programmable gate array (FPGA)  These provide good links to hardware simulation environments
+     Url https://patents.google.com/patent/US7366650B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Debug environment for a multi user hardware assisted verification system
+     Author ['K Suresh', 'CW Selvidge', 'S Gupta']
+     Venue US Patent App. 15 …
+     Year 2018
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  Similar to hardware verification, software verification is often performed using an emulator as a resource
+     Url https://patents.google.com/patent/US20180032357A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Center for Embedded Systems for Critical Applications
+     Author ['IC Day']
+     Venue NA
+     Year 2009
+     Abstract techniques through prototype implementations of on- chip fingerprints in FPGA and ASIC  Michael Hsiao), “Exploring Hybrid Dynamic and Static Techniques for Software Verification,” Ph  Mahesh Nanjundappa (Advisor: S. Shukla), “Accelerating Hardware Simulation on Multi
+     Url https://vtechworks.lib.vt.edu/handle/10919/77463
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title SimSoC: A SystemC TLM integrated ISS for full system simulation
+     Author ['C Helmstetter', 'V Joloboff']
+     Venue APCCAS 2008-2008 IEEE Asia …
+     Year 2008
+     Abstract the simulation must be fast enough for interactive testing and fast software verification cycles  is developing a framework geared towards full system simulation, mixing hardware simulation and one  simulation at reasonable speed for the software develop- ers FPGA solutions can
+     Url https://ieeexplore.ieee.org/abstract/document/4746381/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Fast hardware implementation of an hadamard transform using RVC-CAL dataflow programming
+     Author ['K Jerbi', 'M Wipliez', 'M Raulet', 'O Déforges']
+     Venue … on Embedded and …
+     Year 2010
+     Abstract 7. Software validation  C. Results The HDL project manager environment used is Xilinx ISE Foundation 11.1 and the hardware simulation tool is ISE  After compilation, simulation, RTL synthesis and place and route on an FPGA: family=virtex4; device=xc4vsx35; Package=FF668
+     Url https://ieeexplore.ieee.org/abstract/document/5575731/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual laboratory for educational environments
+     Author ['F Dias', 'PM Matutino', 'M Barata']
+     Venue 2014 11th International …
+     Year 2014
+     Abstract that is able to communicate with both development tracks, hardware and software, the software validation has to  software tool for FPGA development, schematic or VDHL description, that are used for  is the one of the best solutions when a realistic hardware simulation is required
+     Url https://ieeexplore.ieee.org/abstract/document/6784252/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Debug environment for a multi user hardware assisted verification system
+     Author ['K Suresh', 'CW Selvidge', 'S Gupta', 'A Jain']
+     Venue US Patent 9,703,579
+     Year 2017
+     Abstract Technologies for debugging hardware errors discovered during hardware assisted software verification processes are provided  Similar to hardware verification, software verification is often performed using an emulator as a resource
+     Url https://patents.google.com/patent/US9703579B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of Wireless Sensor Network Using Microblaze and Picoblaze Processors
+     Author ['SM Borawake', 'PG Chilveri']
+     Venue 2014 Fourth International …
+     Year 2014
+     Abstract The functionality verification of the hardware simulation is done with the help of  platform verification (simulation), software platform creation, software application creation, and software verification  Project also includes FPGA architecture family and the device type which is to be
+     Url https://ieeexplore.ieee.org/abstract/document/6821561/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and apparatus for test generation during circuit design
+     Author ['Y Hollander']
+     Venue US Patent 6,182,258
+     Year 2001
+     Abstract 318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an  of, for example, hardware modelers, commercial bus-functional models, simulator accelerators, and Field Programmable Gate Array (FPGA)-based Application
+     Url https://patents.google.com/patent/US6182258B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Strategies for the integration of hardware and software IP components in embedded systems-on-chip
+     Author ['FR Wagner', 'WO Cesário', 'L Carro', 'AA Jerraya']
+     Venue Integration
+     Year 2004
+     Abstract After the user specifies his/her application in Java, a compiler eliminates classes used only for simulation purposes, and analyses the remaining code. Critical parts may be moved to a dedicated ASIC, implemented in the same platform with an FPGA, for example
+     Url https://www.sciencedirect.com/science/article/pii/S0167926003001093
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Observability in multiprocessor real-time systems with hardware/software co-simulation
+     Author ['M El Shobaki']
+     Venue SNART'99-Swedish National Real-Time …
+     Year 1999
+     Abstract 2. 1 Software verification techniques  Today a fast prototype is implemented either in a FPGA (Field Programmable Gate Array [3, 9]) or in a hardware  The latter, is used to enhance speed of the hardware simulation tools on a workstation, thus enabling faster execution of
+     Url https://pdfs.semanticscholar.org/902f/84f7f7e702f20671b6138b21a24072dcab35.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and apparatus for test generation during circuit design
+     Author ['Y Hollander']
+     Venue US Patent 6,347,388
+     Year 2002
+     Abstract 318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an  of, for example, hardware modelers, commercial bus-functional models, simulator accelerators, and Field Programmable Gate Array (FPGA)-based Application
+     Url https://patents.google.com/patent/US6347388B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Matlab/Simulink Simulation Approach for Early Field-Programmable Gate Array Hardware Evaluation
+     Author ['CC Barbante', 'JR De Oliveira']
+     Venue NA
+     Year NA
+     Abstract The final step in the design flow is the real hardware simulation  The result provided in Figure 5 was found before first FPGA synthesis, directly in Matlab  D. Kroening, and G. Weissenbacher, “A survey of automated techniques for formal software verification”, IEEE Transaction on
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.680.5080&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and apparatus for test generation during circuit design
+     Author ['Y Hollander']
+     Venue US Patent 6,530,054
+     Year 2003
+     Abstract eg test vectors, patterns or sequences as a result of hardware simulation, eg in an  bus-functional models, simulator accelerators, and Field Programmable Gate Array (FPGA)-based Application  One implication of this structure is that software verification is treated in the context of
+     Url https://patents.google.com/patent/US6530054B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Smalltalk debug lives in the matrix
+     Author ['L Lagadec', 'D Picard']
+     Venue International Workshop on Smalltalk Technologies
+     Year 2010
+     Abstract 1.3 There is only one real truth: causality Software validation mainly covers two activities  methods for hardware design validation are based on software or hardware simulation with RTL  an insight to understand the behavior of the reconfigurable circuit (eg FPGA standing for
+     Url https://dl.acm.org/doi/abs/10.1145/1942790.1942792
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title XSG for hardware implementation of a robust watermarking system
+     Author ['M Gafsi', 'S Ajili', 'MA Hajjaji']
+     Venue 2016 17th International …
+     Year 2016
+     Abstract After software verification of the system ''DWT HAAR'', cosimulation hardware is realized on the ''ML507 VSX50T'' Xilinx FPGA board  In this section, we have realized the hardware simulation for 'lena.tif' image, size 256*256, with different visibility factor
+     Url https://ieeexplore.ieee.org/abstract/document/7952031/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design for automobile external lighting systems
+     Author ['JH Neme', 'MMD Santos', 'ELS Teixeira']
+     Venue NA
+     Year 2015
+     Abstract Furthermore, it also improves software validation and verification boosting embedded system development  encompasses flexible simulation and low cost procedure once compared to hardware simulation  on four components: a processor, a reconfigurable FPGA, inputs and
+     Url https://www.sae.org/publications/technical-papers/content/2015-36-0374/
+

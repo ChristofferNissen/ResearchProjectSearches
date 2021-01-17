@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Formal+methods"+"Testing"
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract From an integration perspective, the trustworthiness of the external component can be ensured by testing, ie using unit and integration testing that specifically target this sys- tem component  3 DevOps and formal methods
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title A systematic mapping study on microservices architecture in devops
+     Author ['M Waseem', 'P Liang', 'M Shahin']
+     Venue Journal of Systems and Software
+     Year 2020
+     Abstract DevOps is a set of practices for developing, testing, and deploying software quickly and reliably by promoting collaboration between the developers, testers, and operators (Yousif, 2016). DevOps practices aim “to decrease the
+     Url https://www.sciencedirect.com/science/article/pii/S0164121220302053
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract as follows: After a description of the papers reporting on the application of microservices-based implementations applying the DevOps pipeline (partially or completely), we describe the techniques related to each DevOps step: planning, coding, testing, release, deployment
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Performance-oriented DevOps: A research agenda
+     Author ['A Brunnert', 'A van Hoorn', 'F Willnecker', 'A Danciu']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract Whereas CI systems often only compile and deploy a new EA version, CD systems also automate the testing tasks until an EA version  In order to support the technical and organizational changes under the DevOps umbrella driven by the need to realize more frequent release
+     Url https://arxiv.org/abs/1508.04752
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Formal verification of developer tests: a research agenda inspired by mutation testing
+     Author ['S Demeyer', 'A Parsai', 'S Vercammen']
+     Venue … of Formal Methods
+     Year 2020
+     Abstract The key to the DevOps approach is a series of increasingly powerful automated  2, provides the necessary background information on formal verification and mutation testing  and formal specification are two complementary steps, used when adopting formal methods in software
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61470-6_2
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title The Systems Engineering DevOps Lemniscate and Model-Based System Operations
+     Author ['JTJ Mathieson', 'T Mazzuchi', 'S Sarkani']
+     Venue IEEE Systems Journal
+     Year 2020
+     Abstract of the left-hand side of the SEDevOps life cycle while LIAD testing facilitates the  in the SEDevOps life cycle model and as methodologically driven by DevOps principles on  C. MBSO Extension With Formal Methods Extending the concept of model formalism in MBSE [17], MBSO
+     Url https://ieeexplore.ieee.org/abstract/document/9179780/
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Testing in DevOps
+     Author ['F Faber']
+     Venue The Future of Software Quality Assurance
+     Year 2020
+     Abstract The Independent (1991, September 17) 7. Kim, G., Behr, K., Spafford, G.: The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win  Aichernig, BK: Contract-based testing. In: Formal Methods at the Crossroads. From Panacea to Foundational Support, pp
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/22847/1007314.pdf?sequence=1#page=47
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Leveraging Semi-formal Approaches for DepDevOps
+     Author ['W Zaeske', 'U Durak']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2020
+     Abstract Eventually Behaviour-Driven Development (BDD) enhanced TDD with specification and continuous acceptance testing  integrating formal methods and agile practices, such as [4, 9, 21], this paper brings the semi-formal methods that are being practiced in DevOps world to
+     Url https://link.springer.com/chapter/10.1007/978-3-030-55583-2_16
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Audition: a DevOps-oriented quality control and testing framework for cloud environments
+     Author ['G Borgenholt']
+     Venue NA
+     Year 2013
+     Abstract 2.4 Learningfromdifferentfields . . . . . 11 2.5 DevOps . . . . . 12 2.6 Softwaretesting . . . . . 12 2.6.1 Performancetesting . . . . . 12 2.6.2 System testing . . . . . 13 2.7 Related work
+     Url https://www.duo.uio.no/handle/10852/38243
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Formal methods and agile development: towards a happy marriage
+     Author ['C Ghezzi']
+     Venue The Essence of Software Engineering
+     Year 2018
+     Abstract Testing has been effectively integrated into agile development life cycles, leading to what is often called test- driven development  This leads to a unified software development and operation approach (DevOps) that is rooted on formal methods
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/27814/1002191.pdf?sequence=1#page=39
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title DevOps and its Philosophy: Education Matters!
+     Author ['E Bobrov', 'A Bucchiarone', 'A Capozucca', 'N Guelfi']
+     Venue Microservices
+     Year 2020
+     Abstract reconfigurations – a process algebra perspective, in Web Services and Formal Methods – 8th International  A. Balalaie, A. Heydarnoori, P. Jamshidi, Microservices architecture enables DevOps: migration to a  M. Polo, J. Fernández-Alemán, A. Toval, M. Piattini, Mutation testing
+     Url https://link.springer.com/chapter/10.1007/978-3-030-31646-4_14
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Towards a benefits dependency network for DevOps based on a systematic literature review
+     Author ['R Jabbari', 'N bin Ali', 'K Petersen']
+     Venue Journal of Software …
+     Year 2018
+     Abstract Towards a benefits dependency network for DevOps based on a systematic literature review. Ramtin Jabbari Corresponding Author  2.1 Existing systematic literature reviews on DevOps. Few systematic studies have been conducted on the topic of DevOps
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1957
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title DevOps Quality Engineering
+     Author ['DA Tamburri', 'D Perez-Palacin']
+     Venue NA
+     Year 2018
+     Abstract utilisation of automations along its creation toolchain, passing through testing, packaging, release  of software with special interest in Software Performance Engineering, formal methods, self-adaptive  a new Scientific Track on “Quality Aspects in DevOps Development Processes
+     Url https://onlinelibrary.wiley.com/pb-assets/assets/20477481/sep_proposal-1521738117003.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title System Verification, Processes and Testing
+     Author ['T Perez', 'A Morozov', 'B Rokseth']
+     Venue Proceedings of the …
+     Year 2019
+     Abstract Even without these types of method, using formal methods during the requirements and design phases can  Six main challenges and four distinct opportunities related to verification and testing of autonomous  is necessary to either replace it or adapt it into a DevOps-like model
+     Url https://sintef.brage.unit.no/sintef-xmlui/bitstream/handle/11250/2639825/Proceedings+of+the+1st+International+Workshop+on+Autonomous+Systems+Safety32803.pdf?sequence=2
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title How Formal Methods Can Contribute to 5G Networks
+     Author ['F Luque-Schempp', 'P Merino-Gómez']
+     Venue … to Formal Methods and …
+     Year 2019
+     Abstract VNF chains prior to service deployment that can be part of a DevOps methodology  3 test cases that can be manually or automatically generated using model-based testing techniques  Formal methods have been also used to verify VNFs and VNF chains against reachability and
+     Url https://link.springer.com/chapter/10.1007/978-3-030-30985-5_32
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Multi-objective Optimisation of Online Distributed Software Update for DevOps in Clouds
+     Author ['D Sun', 'S Chen', 'G Li', 'Y Zhang', 'M Atif']
+     Venue ACM Transactions on Internet …
+     Year 2019
+     Abstract (2014). Note that, whenever a failure happens, the recovered instances must beV1 for two reasons: (1) The spirit of DevOps requests continuous software development, deployment, and testing, which are performed completely online without the breaking running service
+     Url https://dl.acm.org/doi/abs/10.1145/3338851
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Reflections on teaching formal methods for software development in higher education
+     Author ['M Khazeev', 'H Aslam', 'D de Carvalho']
+     Venue … Workshop on Frontiers …
+     Year 2019
+     Abstract lightweight formal techniques such as Design-by-contract, especially when integrated with testing, leads to  verification [17] and in the design and delivery of courses related to DevOps [2, 3  In addition to this, we have identified the prerequisites for the course of formal methods
+     Url https://link.springer.com/chapter/10.1007/978-3-030-57663-9_3
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Continuous Architecting With Microservices and DevOps: a Systematic Mapping Study
+     Author ['C Pahl']
+     Venue NA
+     Year NA
+     Abstract as follows: After a description of the papers reporting on the application of microservices-based implementations applying the DevOps pipeline (partially or completely), we de- scribe the techniques related to each DevOps step: planning, coding, testing, release, deployment
+     Url https://www.researchgate.net/profile/Valentina_Lenarduzzi/publication/334633866_Continuous_Architecting_With_Microservices_and_DevOps_a_Systematic_Mapping_Study/links/5d36fdcfa6fdcc370a57aba7/Continuous-Architecting-With-Microservices-and-DevOps-a-Systematic-Mapping-Study.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection
+     Author ['OF THEACM']
+     Venue Communications of the ACM
+     Year 2020
+     Abstract What Do Agile, Lean, and ITIL Mean in DevOps? In Memoriam: Fran Allen A Decade of Social Bot Detection  Contributed Articles 48 What Do Agile, Lean, and ITIL Mean to DevOps? The value of learning skillsets within a trio of disciplines and the role each plays in DevOps
+     Url https://dl.acm.org/doi/pdf/10.1145/3426225
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Final service provider devops concept and evaluation
+     Author ['G Marchetto', 'R Sisto', 'W John', 'P Sköldström']
+     Venue arXiv preprint arXiv …
+     Year 2016
+     Abstract Page 1. D4.3 Updated concept and evaluation results for SP-DevOps Dissemination level PU Version 1.2 Due date 30.04.2016  5 2.3 Summary of Universal Node development and benchmarking 6 3 Final SP-DevOps concept 8 3.1 UNIFY SP-DevOps concept 9
+     Url https://arxiv.org/abs/1610.02387
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title DevOps, DBAs, and DBaaS: Managing Data Platforms to Support Continuous Integration
+     Author ['MS Cuppett']
+     Venue NA
+     Year 2016
+     Abstract Addressing operational challenges earlier in the process leads to better-performing and resilient production systems. As DevOps expounds continuous testing across the SDLC, all environments must match the planned end-point state
+     Url https://books.google.com/books?hl=da&lr=&id=xme3DQAAQBAJ&oi=fnd&pg=PP6&dq=%22DevOps%22+%22Formal+methods%22+%22Testing%22&ots=936Fv29v0P&sig=eA_3wkpLXucvxx4QWhWmmkWg0iE
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Exploring and Enabling DevOps for Data Analytical System with Essential Demands Elicitation
+     Author ['J Zheng', 'Y Liu', 'J Lin']
+     Venue International Journal of Software Engineering …
+     Year 2016
+     Abstract envi- ronment-centric artifacts. Babar et al. [12] thought that DevOps model is composed of production management, development, automated testing, ongoing deployment and operational support. But Wettinger's solution was
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021819401640012X
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Service Provider DevOps network capabilities and tools
+     Author ['R Steinert', 'W John', 'P Sköldström', 'B Pechenot']
+     Venue arXiv preprint arXiv …
+     Year 2015
+     Abstract They are effectively dealing with three out of four crucial principles of the general DevOps concept (ie, monitoring and validation of the operational quality, development and testing against production-like systems, and reliable and repeatable deployment)
+     Url https://arxiv.org/abs/1510.02818
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Towards a taxonomy of microservices architectures
+     Author ['M Garriga']
+     Venue … on Software Engineering and Formal Methods
+     Year 2017
+     Abstract 4. Balalaie, A., Heydarnoori, A., Jamshidi, P.: Microservices architecture enables devops: migration to a  In: Ábrahám, E., Bonsangue, M., Johnsen, EB (eds.) Theory and Practice of Formal Methods  H., Reiter, MK, Sekar, V.: Gremlin: systematic resilience testing of microservices
+     Url https://link.springer.com/chapter/10.1007/978-3-319-74781-1_15
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Boost the Impact of Continuous Formal Verification in Industry
+     Author ['FR Monteiro', 'MR Gadelha', 'LC Cordeiro']
+     Venue arXiv preprint arXiv:1904.06152
+     Year 2019
+     Abstract We believe that formal methods can be effective in improving software quality assurance of a  a feasible inte- gration of software model checking into DevOps practices, thus  of the activities related to continuous software engineering, which includes continuous testing and verifica
+     Url https://arxiv.org/abs/1904.06152
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Formal Verification of Developer Tests: a Research Agenda Inspired by Mutation Testing
+     Author ['S Vercammen', 'B van Bladel', 'M Abdi']
+     Venue NA
+     Year NA
+     Abstract https://doi.org/10.1109/TSE.2014.2342227 6. Bass, L., Weber, I., Zhu, L.: DevOps: A Software Architect's  In: Bobaru, M., Havelund, K., Holzmann, GJ, Joshi, R. (eds.) NASA Formal Methods. pp  Jia, Y., Harman, M.: An analysis and survey of the development of mutation testing
+     Url https://parsai.net/files/research/Formal%20Verification%20of%20Developer%20Tests-%20a%20Research%20Agenda%20Inspired%20by%20Mutation%20Testing%20(pre-print).pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Towards Automated Deployment of Self-adaptive Applications on Hybrid Clouds (Short Paper)
+     Author ['LM Hillah', 'R Assad', 'A Bertolino', 'M Delamaro']
+     Venue … and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 388-393 | Cite as  To adopt DevOps effectively, cloud application developers have yet to find solutions to tough  iii) how to combine the advantages of agile, flexible, and continuous integration, testing, delivery, and
+     Url https://link.springer.com/chapter/10.1007/978-3-319-66197-1_26
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Track Introduction–Doctoral Symposium 2018
+     Author ['AL Lamprecht']
+     Venue … on Leveraging Applications of Formal Methods
+     Year 2018
+     Abstract aim of this work is to integrate learning-based testing methods into DevOps toolchains for  the web-based ALEX tool [21], which makes learning-based testing technologies available  1. Lamprecht, A.-L. (ed.): Leveraging Applications of Formal Methods, Verification, and Validation
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_28
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Integración y entregas continuas con herramientas open source basado en DevOps: Una revisión sistemática de la literatura
+     Author ['BD Juárez Avila', 'KJ Mogollón Calle']
+     Venue NA
+     Year 2020
+     Abstract Nivel de calidad 1 Enabling continuous integration in a formal methods setting  3 Building lean continuous integration and delivery pipelines by applying devops principles: A case study at varidesk  5 Towards combined process {\&} tool variability management in software testing
+     Url https://repositorio.upeu.edu.pe/handle/UPEU/3442
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Abstracting the geniuses away from failure testing
+     Author ['P Alvaro', 'S Tymon']
+     Venue Queue
+     Year 2017
+     Abstract Until quite recently, many of us (academics in particular) looked to formal methods such as model checking16,20,29  Making the case for resilience testing John Allspaw, Etsy http://queue.acm.org/ detail.cfm?id=2353017  DevOps.com; http://devops.com/2014/06/03/ inject-failure
+     Url https://dl.acm.org/doi/abs/10.1145/3155112.3155114
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title PhD and Engineer in Computer Science and Applied Mathematics
+     Author ['S Mondet']
+     Venue NA
+     Year NA
+     Abstract with focus on safety and security of implementations through meta-programming and formal methods (see Sec  Developed for Airbus (EYT) avionic networks testing soft- ware  DevOps / Resource Deployment > Secotrec: A family of tools (ie a library and pre-assembled example
+     Url https://seb.mondet.org/CV_SebastienMONDET.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Cloud standards and the spectrum of development
+     Author ['A Sill']
+     Venue IEEE Cloud Computing
+     Year 2014
+     Abstract To alleviate this shortcoming, we need to take a DevOps approach to bridge the gaps  One way to mitigate these problems is to encourage rapid testing against major implementations  References 1. C. Newcombe et al., “Use of Formal Methods at Amazon Web Services,” online
+     Url https://ieeexplore.ieee.org/abstract/document/7036257/
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Continuous Formal Verification of Microservice-Based Process Flows
+     Author ['M Camilli']
+     Venue European Conference on Software Architecture
+     Year 2020
+     Abstract Moreover, the polyglot nature associated with microservices potentially requires multiple verification/testing tools because of different  the integration of the approach in modern software development practices, such as DevOps [12], in order to adopt formal methods in agile
+     Url https://link.springer.com/chapter/10.1007/978-3-030-59155-7_31
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Of software and change
+     Author ['C Ghezzi']
+     Venue Journal of Software: Evolution and Process
+     Year 2017
+     Abstract The evolved system is then verified, typically via some kind of regression testing  By following the currently widely advocated DevOps culture, agility extends in a seamless manner to  In this paper, we embrace this holistic view and discuss the role that formal methods can play to
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1888
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Automation and intelligent scheduling of distributed system functional testing
+     Author ['LM Hillah', 'AP Maesano', 'F De Rosa', 'F Kordon']
+     Venue International Journal on …
+     Year 2017
+     Abstract utilise formal models (structural, functional and behavioural) of the service architecture under test to undertake the automation of the testing tasks [42]. The “first-generation” of MBT research is essentially focused on test input generation. It uses formal methods, especially SAT
+     Url https://link.springer.com/article/10.1007/s10009-016-0440-3
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title D4. 1 WATERMED Benchmarking and Testing Environment 5.0
+     Author ['AS UMU']
+     Venue NA
+     Year NA
+     Abstract The Auto DevOps takes care of it internally  Take care of the functional properties specifically Unit, integration and system testing, as mentioned in the beginning of this document, and understand the necessary properties  6.1 Formal methods as tool for verification and validation
+     Url https://www.watermed-project.eu/docs/WATERMED_pu_d_4_1_v5_0.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Proceedings of the 1st International Workshop on …
+     Year 2014
+     Abstract ment and operations and is thus very relevant to the DevOps phenomenon [16]  & Stott [45]) Continuous Verification Adoption of verification activities including formal methods and inspections throughout the development process rather than relying on a testing phase towards
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Towards automated deployment of self-adaptive applications on hybrid clouds
+     Author ['LM Hillah', 'R Assad', 'A Bertolino']
+     Venue … Formal Methods  …
+     Year 2017
+     Abstract 15th International Conference on Software Engineering and Formal Methods (SEFM 2017), Sep 2017  To adopt DevOps effectively, cloud application developers have yet to find solutions  combine the advantages of agile, flexible, and continuous integration, testing, delivery, and
+     Url https://hal.sorbonne-universite.fr/hal-01538157
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Introducing complexity to formal testing
+     Author ['I Rodríguez', 'F Rosa-Velardo', 'F Rubio']
+     Venue … of Logical and Algebraic Methods in …
+     Year 2020
+     Abstract Although the application of formal methods to testing is a mature field [2], [3], [4], [5], [6] and formal testing frameworks have been proposed for many different kinds of underlying models [4], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17], [18], [19], little efforts have been made
+     Url https://www.sciencedirect.com/science/article/pii/S2352220819301476
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Towards Methods of Blockchain Applications Testing
+     Author ['R Galkin', 'S Staroletov']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title The AIQ Meta-Testbed: Pragmatically Bridging Academic AI Testing and Industrial Q Needs
+     Author ['M Borg']
+     Venue arXiv preprint arXiv:2009.05260
+     Year 2020
+     Abstract 2020. Applying DevOps Practices of Continuous Automation for Machine Learning. Information 11, 7 (2020), 363  2012. A Survey of Formal Methods in Self-Adaptive Sys- tems. In Proc. of the 5th Int'l C* Conf  2020. Machine Learning Testing: Survey, Landscapes and Horizons
+     Url https://arxiv.org/abs/2009.05260
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title A formal model of the kubernetes container framework
+     Author ['G Turin', 'A Borgarelli', 'S Donetti', 'EB Johnsen']
+     Venue … of Formal Methods
+     Year 2020
+     Abstract Leveraging Applications of Formal Methods, Verification and Validation: Verification Principles. Download book
+     Url https://link.springer.com/chapter/10.1007/978-3-030-61362-4_32
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Synergising Event-B and Scrum-Experimentation on a Formal Development in an Agile Setting
+     Author ['M Olszewska', 'S Ostroumov']
+     Venue Abo Akademi University …
+     Year 2016
+     Abstract The methodology for conducting formal experiments in the field of the agile formal methods is presented in [16  principles and recognises certain practices, in order to assist in many areas of development, like requirements, design, modelling, coding, testing, project management
+     Url https://www.researchgate.net/profile/Marta_Olszewska_Plaska/publication/299974978_Synergising_Event-B_and_Scrum_-_Experimentation_on_a_Formal_Development_in_an_Agile_Setting/links/574e829308ae061b33038f84/Synergising-Event-B-and-Scrum-Experimentation-on-a-Formal-Development-in-an-Agile-Setting.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Introducing development features for virtualized network services
+     Author ['S Van Rossem', 'W Tavernier', 'D Colle']
+     Venue IEEE …
+     Year 2018
+     Abstract CI/CD merges development with testing, making it possible to build code collabo- ratively and  of SDN/NFV-based services makes them a good fit for DevOps processes, a well  Practically, formal methods can be integrated into editors for generating network service descriptions
+     Url https://ieeexplore.ieee.org/abstract/document/8284055/
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Quality in Requirements Engineering
+     Author ['J Araújo', 'JL de la Vara']
+     Venue NA
+     Year NA
+     Abstract utilisation of automations along its creation toolchain, passing through testing, packaging, release  Hence, DevOps quality assurance techniques are far from being mature, and are  interest in Software Performance Engineering, model-based evaluation, formal methods and self
+     Url https://ieeexplore.ieee.org/abstract/document/8590163/
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title ALEX: mixed-mode learning of web applications at ease
+     Author ['A Bainczyk', 'A Schieweck', 'M Isberner']
+     Venue … of Formal Methods
+     Year 2016
+     Abstract The frequency of updates increases as well, driven by market demands as well as by the increasing adoption of a DevOps approach, where rapid and incremental development is coupled to frequent and  Brinksma, E.: Formal methods for conformance testing: theory can be
+     Url https://link.springer.com/chapter/10.1007/978-3-319-47169-3_51
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Dependability of adaptable and evolvable distributed systems
+     Author ['C Ghezzi']
+     Venue International School on Formal Methods for the Design …
+     Year 2016
+     Abstract The evolved system is then verified, typically via some kind of regression testing  By following the currently widely advocated DevOps culture, agility extends in a seamless manner to  In this paper we embrace this holistic view and discuss the role that formal methods can play to
+     Url https://link.springer.com/chapter/10.1007/978-3-319-34096-8_2
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Agile Secure Software Development in a Large Software Development Organisation Security Testing
+     Author ['AD Brucker']
+     Venue NA
+     Year 2015
+     Abstract Expert/Architect Working for the central software security team • Background: Security, Formal Methods, Software Engineering  Security testing tools for developers, need to • Be applicable from the start of  SCRUM, Continuous Delivery, DevOps, SCRUM, Cloud development
+     Url https://www.brucker.ch/bibliography/download/2015/talk-brucker-assd-2015.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title Using the Event-B formal method for disciplined agile delivery of safety-critical systems
+     Author ['A Edmunds', 'M Olszewska', 'M Waldén']
+     Venue NA
+     Year 2016
+     Abstract We believe that this may be of interest to others in the formal methods community, since the questions we raise, and seek to answer, may apply to other methods  Whether or not the code generator is certified, it can be desirable to perform testing
+     Url https://eprints.soton.ac.uk/397196/1/inpEdOlWa16a.full.pdf
+
+
+     Search term "DevOps"+"Formal+methods"+"Testing"
+     Title OCCIware-A formal and tooled framework for managing everything as a service
+     Author ['J Parpaillon', 'P Merle', 'O Barais', 'M Dutoo', 'F Paraiso']
+     Venue NA
+     Year 2020
+     Abstract It also provides an Eclipse engineering framework for designing, testing and simulating  technological and scientific tools usually promoted in separated communities: formal methods, model-driven  meta-models, Models@run.time, REST architecture style, devops prac- tices
+     Url https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/25449/https:/hal.archives-ouvertes.fr/hal-01188826/document?sequence=1
+

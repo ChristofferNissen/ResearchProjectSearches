@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Multi-FPGA digital hardware design for detailed large-scale real-time electromagnetic transient simulation of power systems
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IET Generation, Transmission & Distribution
+     Year 2013
+     Abstract 3.1 Case study I: 3-FPGA hardware design This case study shows the design details of a 3-FPGA functionally decomposed real-time EMT simulator. As can be seen in Fig  6b, which shows the offline EMTP-RV simulation. 3.2 Case study II: 10-FPGA hardware design
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2012.0374
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-assisted simulation and evaluation of IP cores using FPGA-based rapid prototyping boards
+     Author ['R Siripokarpirom']
+     Venue Proceedings. 15th IEEE …
+     Year 2004
+     Abstract software/hardware implementation of the proposed approach and present a case study to demonstrate  level netlists or they are very complex, the software- based hardware simulation process usually  emulate those IP cores in hardware using a low-cost FPGA prototyping board
+     Url https://ieeexplore.ieee.org/abstract/document/1311102/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract 51, NO. 2, MARCH/APRIL 2015 FPGA-Based Detailed Real-Time Simulation of Power Converters and Electric Machines  In this paper, a field- programmable gate array (FPGA)-based RT platform for sim- ulation of power converters and electric machines is presented
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time simulation of high-power electronic system with nonlinear IGBT characteristics
+     Author ['C Liu', 'R Ma', 'H Bai', 'Z Li', 'F Gechter']
+     Venue IEEE Journal of …
+     Year 2018
+     Abstract electronic system. Finally, a case study about emulation of traction system of high-speed train is also presented. Implementations are made on an FPGA Kintex-7 embedded in National Instruments FlexRIO PXIe-7975. The obtained
+     Url https://ieeexplore.ieee.org/abstract/document/8478384/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An evaluation of a high-level synthesis approach to the FPGA-based submicrosecond real-time simulation of power converters
+     Author ['F Montano', 'T Ould-Bachir']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract 10. Case study: NPC converter connected to an RLE load  [6] T. Ould-Bachir, HF Blanchette, and K. Al-Haddad , “A network tearing technique for FPGA-based real  7] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power electronics and drives,” IEEE Trans
+     Url https://ieeexplore.ieee.org/abstract/document/7950991/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital hardware emulation of universal machine and universal line models for real-time electromagnetic transient simulation
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on industrial …
+     Year 2011
+     Abstract pipelined arithmetic processing. The hardware is based on advanced Field Programmable Gate Array (FPGA) using VHDL. A power system transient case study is simulated in real-time to validate the design. On a 130MHz
+     Url https://ieeexplore.ieee.org/abstract/document/5771995/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An iterative real-time nonlinear electromagnetic transient solver on FPGA
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2010
+     Abstract 1 An Iterative Real-Time Nonlinear Electromagnetic Transient Solver on FPGA Yuan Chen, Student Member, IEEE, and Venkata Dinavahi, Senior Member, IEEE  This paper proposes an iterative nonlinear tran- sient solver on a field programmable gate array (FPGA)
+     Url https://ieeexplore.ieee.org/abstract/document/5518422/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Modeling and cosimulation of FPGA-based SVPWM control for PMSM
+     Author ['S Jiang', 'J Liang', 'Y Liu', 'K Yamazaki']
+     Venue … Annual Conference of …
+     Year 2005
+     Abstract In this paper, the case study shows that the design efficiency can be improved greatly by using  the testbench VHDL, then a simulator, for example, Modelsim which is a hardware simulation platform from  and the components will be placed in the CLBs and IOBs of FPGA device
+     Url https://ieeexplore.ieee.org/abstract/document/1569133/
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware/Software Co-design Methodology and DSP/FPGA Partitioning: A Case Study for Meeting Real-Time Processing Deadlines in 3.5 G Mobile Receivers
+     Author ['M Brogioli', 'P Radosavljevic']
+     Venue … Midwest Symposium on …
+     Year 2006
+     Abstract set of criteria for hardware/software partitioning between DSP and FPGA, in conjunc- tion with iterative DSP/FPGA hardware simulation, strict real time deadlines in the mobile wireless communications arena are met and exceeded. As a motivating case study indicative of many
+     Url http://scholarship.rice.edu/handle/1911/64269
+
+
+     Search term "Case+Study"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An FPGA platform for real-time simulation of spiking neuronal networks
+     Author ['D Pani', 'P Meloni', 'G Tuveri', 'F Palumbo']
+     Venue Frontiers in …
+     Year 2017
+     Abstract An FPGA Platform for Real-Time Simulation of Spiking Neuronal Networks  In this paper, this possibility is explored presenting a modular and efficient FPGA design of an in silico spiking neural network exploiting the Izhikevich model
+     Url https://www.frontiersin.org/articles/10.3389/fnins.2017.00090/full
+

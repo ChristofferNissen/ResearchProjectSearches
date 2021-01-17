@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Application of WAMS and SCADA data to online modeling of series-compensated transmission lines
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract 8, NO. 4, JULY 2017 Application of WAMS and SCADA Data to Online Modeling of Series-Compensated Transmission Lines  Case studies through software and hardware simulation efforts demonstrate validity of the modeling approach
+     Url https://ieeexplore.ieee.org/abstract/document/7401091/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract block of the HIL simula- tion of either such a sophisticated, cyber-physical system like a  The paper reported the development of a case study for creating a HIL simulation environment for  approach of power elec- tronics controls,” IEEE Transactions on Industrial Electron- ics, vol
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Parameter estimation of multiterminal transmission lines using joint PMU and SCADA data
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract This section performs case studies for parameter estimation of the two-terminal transmission line shown in Fig  that is, 2%, to reflect this fact that the accuracy of SCADA data is  However, the values associated with the hardware simulation inherently have some extent of errors
+     Url https://ieeexplore.ieee.org/abstract/document/6966756/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract We apply the same concept towards transparent hardware simulation envi- ronment  OF AN ELEVATOR CIRCUIT CONTROLLER System specification The goal of this case study is to design  To implement the controller, the following Integrated Circuits (ICs) are used: • 74169: A
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract Moreover, to verify the proposed platform, a case study of wide area load control was  simulation speed, and close practicality; (2) the application of a hardware simulation into the  system (WAMS) security, and supervisory control and data acquisition (SCADA) security analysis
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Scheduling of a Cyber-Physical System Simulation
+     Author ['H Deschamps']
+     Venue NA
+     Year 2019
+     Abstract Finally, we tested and verified our method and tools in academic and industrial case studies. Keywords: Scheduling, Simulation, Cyber-Physical System, Real-Time, Allocation, Heuris- tics. ix Page 10  Coincidence Problem in CPS Simulations: the R-ROSACE Case Study
+     Url https://oatao.univ-toulouse.fr/24393/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  Results of simulation case studies that represent real-world power distribution networks  control systems based on Phase Measurement Units and SCADA systems can
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title GPU-accelerated evaluation platform for high fidelity network modeling
+     Author ['Z Xu', 'R Bagrodia']
+     Venue 21st International Workshop on Principles of …
+     Year 2007
+     Abstract to the fact that the computation capability of specialized hardware, eg graph- ics processing units  use of GPUs can speed up network simulations, we present two case studies that respectively  In this case study, the TCP module will be singled out for performance evaluation and
+     Url https://ieeexplore.ieee.org/abstract/document/4262799/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design Considerations for Building Credible Security Testbeds: A Systematic Study of Industrial Control System Use Cases
+     Author ['UD Ani', 'JM Watson', 'B Green', 'B Craggs']
+     Venue arXiv preprint arXiv …
+     Year 2019
+     Abstract for Building Credible Security Testbeds A Systematic Study of Industrial Control System Use Cases  Candell et al 2 detail three design/case study ICS testbeds with security scenario  Keywords used involved Boolean combinations of `ICS' OR `SCADA' AND `Security Testbeds
+     Url https://arxiv.org/abs/1911.01471
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cyber-Physical Systems: A New Paradigm for Energy Technology Development
+     Author ['D Tucker', 'P Pezzini', 'KM Bryden']
+     Venue ASME Power …
+     Year 2018
+     Abstract In this regard, SCADA systems are used for implementing or advising multi-objective  CASE STUDY: FUEL CELL TURBINE HYBRIDS Fuel cell turbine hybrid power systems serve as an  The cyber-physical system hardware was physically coupled to a gas turbine, exhaust gas
+     Url https://asmedigitalcollection.asme.org/POWER/proceedings-abstract/POWER2018/51395/V001T04A001/277478
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Simulation platform for multi agent based manufacturing control system based on the hybrid agent
+     Author ['A Shaygan', 'RV Barenji']
+     Venue arXiv preprint arXiv:1603.07766
+     Year 2016
+     Abstract The hardware simulation platform (HSP), as mentioned before, defines the tangible actions taking place in the  The results of the simulation platform for the case study show that MASs for FMS create more re  [12] AV Barenji, "An RFID-based distributed control system for flexible
+     Url https://arxiv.org/abs/1603.07766
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Multi-agent systems in a distributed smart grid: Design and implementation
+     Author ['M Pipattanasomporn', 'H Feroze']
+     Venue 2009 IEEE/PES Power …
+     Year 2009
+     Abstract systems, this is accomplished by Supervisory Control and Data Acquisition (SCADA) systems [4  The simulation setup, the case study description and results are discussed below  4. Microgrid hardware simulation in Matlab, consisting of a 50kW distributed generator, grid interface
+     Url https://ieeexplore.ieee.org/abstract/document/4840087/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-Time Simulation Tools for Transient Stability and Electromagnetic Transients in Power Grids
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Grid RT Tools ICMPES …
+     Year NA
+     Abstract It can also be used to test new local and wide-area control, SCADA monitoring and control procedures  Two case studies [15, 16] are presented to demonstrate applications of Hypersim  The final case study of this section focuses on the use of the latest FPGA-based technology for
+     Url https://www.academia.edu/download/31945055/Grid_RT_Tools_ICMPES_2013.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Emerging solutions for challenges in real time simulation of power grids
+     Author ['R Venugopal', 'V Lapointe', 'C Dufour']
+     Venue Power Engineer …
+     Year 2013
+     Abstract It can also be used to test new local and wide-area control, SCADA monitoring and control procedures  Two case studies [15, 16] are presented to demonstrate applications of Hypersim  The final case study of this section focuses on the use of the latest FPGA-based technology for
+     Url http://www.indianjournals.com/ijor.aspx?target=ijor:pej&volume=15&issue=2&article=001
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time device-level transient electrothermal model for modular multilevel converter on FPGA
+     Author ['Z Shen', 'V Dinavahi']
+     Venue IEEE Transactions on Power Electronics
+     Year 2015
+     Abstract of the SM; Sec- tion III presents the model for the entire MMC system and the hardware emulation; Section IV shows the real-time emu- lation results of the case study MMC systems  The dynam- ics of the other linear passive elements can also be discretized by Trapezoidal rule
+     Url https://ieeexplore.ieee.org/abstract/document/7336536/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title GSM based SCADA monitoring and control system substation equipment
+     Author ['A Sachan']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A Functional Testing Toolset and Its Application to Development of Dependable Avionics Software
+     Author ['V Balashov', 'A Baranov', 'M Chistolinov', 'D Gribov']
+     Venue Complex Systems and …
+     Year 2013
+     Abstract 6 Industrial Case Study  on- board channel; 2. Simulation of a fault (also known as fault injection): – Software: delivery of corrupted data; – Hardware: simulation of noise  for injec- tion of “bit inversion” or “noise on channel” faults into onboard channels con- nected to DCS devices
+     Url https://link.springer.com/chapter/10.1007/978-3-642-30662-4_2
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Thermo-electric co-simulation on geographically distributed real-time simulators
+     Author ['MO Faruque', 'M Sloderbeck', 'M Steurer']
+     Venue 2009 IEEE Power & …
+     Year 2009
+     Abstract researchers performed off-line thermal simulations of power electronic devices/ICs, switchgear or  an intermediate gateway computer, but could also support a utility SCADA system  CASE STUDY: THERMO-ELECTRIC CO-SIMULATION A thermo-electric test system was chosen
+     Url https://ieeexplore.ieee.org/abstract/document/5275631/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Microcontroller based substation monitoring and control system with gsm modem
+     Author ['A Sachan']
+     Venue IOSR Journal of Electrical and Electronics Engineering
+     Year 2012
+     Abstract Section 4 details the three case studies analyzed in the paper and section 5 presents the  be set by AT COMMAND, and default band is EGSM 900 and DCS 1800  Javier Lagunas, "The impact of photovoltaic systems on distribution transformer: A case study", Energy Conversion
+     Url https://www.academia.edu/download/62405185/Microcontroller_Based_Substation_Monitor20200318-27356-wmhv4r.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cloud-based manufacturing execution system: case study FMS
+     Author ['AV Barenji']
+     Venue International Journal of Industrial and Systems …
+     Year 2018
+     Abstract The hardware simulation simulates the station level and device level of a system, such as  process modelling framework derive and implement IT goals: a case study', International Journal  and Hashemipour, M. (2014b) 'A multi-agent RFID-enabled distributed control system for a
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJISE.2018.096161
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cooperative, Trusted Software Repair for Cyber Physical System Resiliency
+     Author ['W Weimer', 'S Forrest', 'CL Goues', 'M Kim']
+     Venue NA
+     Year 2018
+     Abstract COOPERATIVE, TRUSTED SOFTWARE REPAIR FOR CYBER PHYSICAL SYSTEM RESILIENCY  In these case studies, the invariant that describes the repair was found in 100% of the  In the sqrt_lcm case study, while all of the alternate repairs shared the same “repair the bug
+     Url https://apps.dtic.mil/sti/citations/AD1056764
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract Algorithmic breakthroughs and groundbreaking case studies, as well as promotion by CAD  To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous dialects  hardware, and middleware for automotive and avion- ics applications already
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design and Development of a Programmable Logic Controller Using Atmel Controller and MATLAB Simulink
+     Author ['P Parikh', 'H Singh', 'SK Nadar']
+     Venue 3rd International Conference on …
+     Year 2016
+     Abstract The core modules of an industrial-control system are examined: the analog input function, analog output  The following figure shows the image of the real hardware simulation of a PWM controlled  of Automation Strategy and Its effect on Assembly Cost: A Case Study on Ball Pen
+     Url https://www.academia.edu/download/51127148/74-78.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …
+     Year 2016
+     Abstract The simulation test platform is described in the fourth section, which is followed by the details and results of a related case study  Hardware simulation agent module: This belongs to the CPN model of the system and is used to analyze the FAL behavior. (b)
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Combined operations of renewable energy systems and responsive demand in a smart grid
+     Author ['C Cecati', 'C Citro', 'P Siano']
+     Venue IEEE transactions on sustainable …
+     Year 2011
+     Abstract the active control of a SG, Section III and IV present and analyse the proposed method and different case studies, respectively  1. The main elements of this system are: - Energy Management System (EMS); - Supervisory Control and Data Acquisition (SCADA); - Remote Terminal
+     Url https://ieeexplore.ieee.org/abstract/document/5951797/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title S2sim: Smart grid swarm simulator
+     Author ['AS Akyurek', 'B Aksanli']
+     Venue 2015 Sixth International …
+     Year 2015
+     Abstract Furthermore, our case studies show that control algorithms can't be justified without being tested within the grid  This multi agent system is shifting the physical electrical grid into a Cyber Physical System (CPS)  We used this property to perform a US-wide case study. II
+     Url https://ieeexplore.ieee.org/abstract/document/7393713/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Structured algorithmic programming language approach to system design
+     Author ['SJ Waters', 'PP Gutberlet', 'AR Takach']
+     Venue US Patent 6,701,501
+     Year 2004
+     Abstract US6701501B2 - Structured algorithmic programming language approach to system design - Google Patents. Structured algorithmic programming language approach to system design. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US6701501B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DesignCon 2005
+     Author ['MGHS Links']
+     Venue NA
+     Year NA
+     Abstract 2.1 Determine the ISP The four steps to determine an ISP through pre-hardware simulation are as follows  automatically create lossy frequency-dependent models of the PCB traces, and SPICE (including HSpice) models of connectors and ICs can be  4. PCI Express Case Study
+     Url http://siguys.com/wp-content/uploads/2016/01/2005_DesignCon_New_MGH_Techniques_ISP_CA_PCIe_SATA.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cyber-Physical Testbed for Power System Wide-Area Measurement-Based Control Using Open-Source Software
+     Author ['H Cui', 'F Li', 'K Tomsovic', 'S Wang', 'R Azim', 'Y Lu']
+     Venue arXiv preprint arXiv …
+     Year 2018
+     Abstract A modern electric power system is intrinsically a cyber-physical system (CPS), which consists  physical- layer simulation engines based on network emulation, where case studies on cyber  wide- area measurement and control schemes by showing a case study on communication
+     Url https://arxiv.org/abs/1803.02337
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design Disjunction for Resilient Reconfigurable Hardware
+     Author ['A Alzahrani']
+     Venue NA
+     Year 2015
+     Abstract 46 4.9 Case Studies  56 4.9.4 Case Study 3: 2D-DCT Image Processing Core  Continued scaling of transistor feature size has exacerbated reliability issues, eg aging ef- fects, latent faults, and temporary failures in integrated circuits (ICs). Consequently, the
+     Url https://stars.library.ucf.edu/etd/5147/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Case study: Bio-inspired self-adaptive strategy for spike-based PID controller
+     Author ['J Liu', 'J Harkin', 'M McElholm', 'L McDaid']
+     Venue … on Circuits and …
+     Year 2015
+     Abstract strategy, and section III discusses the proposed fault detection and self-correcting case study for the  connected to a motor H-bridge driver circuit using CNY74-4 optocouplers and L298 ICs  A hardware simulation of the fault detection/self-correcting strategy for a single motor is
+     Url https://ieeexplore.ieee.org/abstract/document/7169243/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Model-driven toolset for embedded reconfigurable cores: Flexible prototyping and software-like debugging
+     Author ['L Lagadec', 'C Teodorov', 'JC Le Lann', 'D Picard']
+     Venue Science of Computer …
+     Year 2014
+     Abstract These advancements are illustrated through a case-study focused on the design-space exploration of  system that contains both hardware execution (through application-specific ICs 1 ) and  for hardware design verification are based on software or hardware simulation with RTL
+     Url https://www.sciencedirect.com/science/article/pii/S0167642314000823
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Automated testing of industrial automation software: practical receipts and lessons learned
+     Author ['R Ramler', 'W Putschögl', 'D Winkler']
+     Venue … of the 1st International Workshop on …
+     Year 2014
+     Abstract testing is a cornerstone in their strategy for developing high-quality software systems [1]. A prominent industry example is provided in the case study by Larndorfer et al  17] on automated unit testing for SCADA control software  Machine (Hardware) Simulation (Hardware/Software
+     Url https://dl.acm.org/doi/abs/10.1145/2593783.2593788
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Structured algorithmic programming language approach to system design
+     Author ['SJ Waters', 'PP Gutberlet', 'AR Takach']
+     Venue US Patent 8,205,175
+     Year 2012
+     Abstract US8205175B2 - Structured algorithmic programming language approach to system design - Google Patents. Structured algorithmic programming language approach to system design. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US8205175B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Modeling standard for distributed control systems: IEC 61499 from industrial automation to aerospace
+     Author ['CC Insaurralde']
+     Venue 2016 IEEE/AIAA 35th Digital Avionics …
+     Year 2016
+     Abstract the IEC 61499 standard [1] and a toolset for Supervisory Control And Data Acquisition (SCADA) [6] are  A case study on a distributed aircraft fuel control system (FMMS of the Airbus A380-800  Simulation results from the DTCS modelled by means of the IEC 61499 have been also
+     Url https://ieeexplore.ieee.org/abstract/document/7777980/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title How to Own Commodore's Best New Calculator Possibly for Free...... or for Fun and Profit
+     Author ['NEW CALCULATOR']
+     Venue IEEE spectrum
+     Year 1976
+     Abstract CAD for LSI: Production's Interest Is in Its Econom- ics, JGM Klomp, Í  J. Sherman, IBM Petri Nets as a Common Tool for Design Verification and Hardware Simulation, G. Azema  Technique for Router Comparison, D. Wilson, R J. Smith, Lawrence Livermore Lab A Case Study of an
+     Url https://ieeexplore.ieee.org/abstract/document/6369212/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Architecture-Centric Modeling, Analysis, and Verification of Cyber-Physical Systems
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue NA
+     Year 2016
+     Abstract The term cyber-physical system (CPS) was introduced by Helen Gill at the NSF referring to the  We also report on industrial case studies that have been carried out in the context of  This presentation shows a case study that model checking is applied to a commercial OS, that is
+     Url https://shonan.nii.ac.jp/docs/5296fabd2d5262bb0fd4870004bc2ac0e46b3015.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Chilled Water System Automation
+     Author ['R Automation']
+     Venue NA
+     Year 2005
+     Abstract Both a software simulation environment (using Matlab) and a small-scale hardware simulation environment were created for testing purposes  In Proceedings of the IEEE International Conference on Systems, Men and Cybernet- ics, Hawaii, USA, pp  AGENTLINK|Case Study
+     Url http://grasia.fdi.ucm.es/aose08/specialtracks/assets/rockwell1.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title An entirely model-based framework for hardware design and simulation
+     Author ['S Taha', 'A Radermacher', 'S Gérard']
+     Venue Distributed, Parallel and Biologically …
+     Year 2010
+     Abstract Where the last section depicts the whole design process on a case study  our simula- tion engine is to use HRM/UML as a common interface to hardware simulation tools  To parametrize the Sim- ics components, we have developed indeed a method that checks whether a
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15234-4_5
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Trends in Functional Programming
+     Author ['Z Horvath', 'V Zsok', 'P Achten', 'P Koopman']
+     Venue NA
+     Year 2010
+     Abstract graphical languages, applications of functional programming in pure mathemat- ics, type theory  16 Konrad Anton and Peter Thiemann An Expression Processor: A Case Study in Refactoring  Kimmell, and Andy Gill Types and Type Families for Hardware Simulation and Synthesis
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-22941-1.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Non-invasive timing analysis of IBM G6 microprocessor L1 cache using backside time-resolved hot electron luminescence
+     Author ['S Polonsky', 'D Knebel', 'P Sanda']
+     Venue … Solid-State Circuits …
+     Year 2000
+     Abstract demon- strated to be a practical measurement technique of internal timing of ICs [1,2  This analysis was fed back to hardware simulation for model tuning and contributed to timely implementation of  [4] Huott, W. et al, “The Attack of the 'Holey Schmoos' A Case Study of Advanced
+     Url https://ieeexplore.ieee.org/abstract/document/839758/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Runtime-monitoring for industrial control systems
+     Author ['H Janicke', 'A Nicholson', 'S Webber', 'A Cau']
+     Venue Electronics
+     Year 2015
+     Abstract on an earlier position paper presented at the International Symposium for Industrial Control System and SCADA  In Section 4.2 we provide the detailed implementation of a case study that is used  As ICS are today relying on general purpose operating systems, such as Windows
+     Url https://www.mdpi.com/2079-9292/4/4/995
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Parallel simulation of mixed-abstraction SystemC models on GPUs and multicore CPUs
+     Author ['R Sinha', 'A Prakash', 'HD Patel']
+     Venue 17th Asia and South Pacific …
+     Year 2012
+     Abstract Notice that these efforts do not identify nor leverage graph- ics processing units (GPUs) as a potential platform for paral- lel computation  co-simulation of RTL and TLM SystemC models on CPUs and GPUs.We experiment with synthetic benchmarks, and a case study that shows
+     Url https://ieeexplore.ieee.org/abstract/document/6164991/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A Review of CIGRE'2008 on Protection and Automation [J]
+     Author ['X ZHAO', 'D CAO', 'X ZHU', 'L XU']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Intelligent hardware-enabled sensor and software safety and health management for autonomous UAS
+     Author ['KY Rozier', 'J Schumann', 'C Ippolito']
+     Venue NA
+     Year 2015
+     Abstract 42 3.6 Case Study: Fluxgate Magnetometer Buffer Overflow  two chapters describe in detail the temporal processing (Chapter 2) and the Bayesian diag- nostic reasoning (Chapter 3). Theoretical background, related work, implementation, and results of case studies on existing
+     Url https://ntrs.nasa.gov/search.jsp?R=20150021506
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title An iot concept of the small virtual power plant based on arduino platform and mqtt protocol
+     Author ['D Zubov']
+     Venue Proc. 2016 International Conference on Applied …
+     Year 2016
+     Abstract The hardware simulation of the proposed concept is realized using the solar panel (12.5 V, 180  for the Supervisory Control and Data Acquisition Using MQTT protocol The SCADA software has  Power Plant as A Remedy to The Power Crisis of Bangladesh: A Case Study-CUET
+     Url https://www.academia.edu/download/46462899/AIIT_2016_-_Bitola_3-4_June.pdf#page=107
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title In-vehicle network verification from application to physical layer
+     Author ['G Pelz', 'J Schaefer', 'D Metzner', 'M Hell', 'A Opielka']
+     Venue SAE transactions
+     Year 2004
+     Abstract on the other that the overall simulation runtime is virtually just determined by the hardware simulation  Chihao Xu: "Mixed Signal, Multi Domain Behavior Models of Smart Power ICs for Design  und G. Zimmer: "Virtual Prototyping for a Camera Winder: a Case Study", IEEEA/IUF
+     Url https://www.jstor.org/stable/44699514
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Fast online diagnosis and recovery of reconfigurable logic fabrics using design disjunction
+     Author ['A Alzahrani', 'RF DeMara']
+     Venue IEEE Transactions on Computers
+     Year 2016
+     Abstract varia- tion, aging degradations, latent faults, and temporary fail- ures in integrated circuits (ICs)  explicit fine-grained approach to determine the op- timal number of DCs at design  Evaluation results for several case studies are provided and discussed in Section 6. A comparison
+     Url https://ieeexplore.ieee.org/abstract/document/7370779/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Structured algorithmic programming language approach to system design
+     Author ['SJ Waters', 'PP Gutberlet', 'AR Takach']
+     Venue US Patent 7,308,672
+     Year 2007
+     Abstract US7308672B2 - Structured algorithmic programming language approach to system design - Google Patents. Structured algorithmic programming language approach to system design. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US7308672B2/en
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Grey model based traffic analysis on car-hailing platforms
+     Author ['B Chen', 'Y Li', 'Y Kou']
+     Venue Proceedings of the 2019 International Conference …
+     Year 2019
+     Abstract CCS CONCEPTS • Hardware ~ Wireless devices • Hardware ~ Simulation and emulation  Cyber- physical system enabled nearby traffic flow modelling for autonomous vehicles  Protection Motivation Influences on Residents' Recycled Water Reuse Behaviors: A Case Study in Xi
+     Url https://dl.acm.org/doi/abs/10.1145/3349341.3349507
+

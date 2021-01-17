@@ -1,0 +1,451 @@
+Showing papers for search query "PLC"+OR+"FPGA"+"Testing"
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based network device testing equipment for high load testing
+     Author ['K Toda', 'T Katashita', 'K Sakamaki', 'T Inui']
+     Venue US Patent …
+     Year 2011
+     Abstract Network device testing equipment capable of testing network devices using small size packets and for a transferring ability and a filtering ability at a media speed is described. A configuration is adopted in which a Field Programmable Gate Array (FPGA) included in a
+     Url https://patents.google.com/patent/US7953014B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Integrated testing of serializer/deserializer in FPGA
+     Author ['AH Lesea']
+     Venue US Patent 6,874,107
+     Year 2005
+     Abstract A field programmable gate array (FPGA) device includes a high-speed serializer/deserializer (SERDES). The field programmable gate array allows programmable built-in testing of the SERDES at operating speeds. A digital clock manager circuit allows
+     Url https://patents.google.com/patent/US6874107B2/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Application-dependent testing of FPGA delay faults
+     Author ['A Krasniewski']
+     Venue … . Informatics: Theory and Practice for the New …
+     Year 1999
+     Abstract To ensure correct operation of an FPGA based system with regard to timing characteristics, an application-dependent FPGA testing, ie testing of an FPGA programmed to implement a user-defined function, must be performed. We propose a procedure for application
+     Url https://ieeexplore.ieee.org/abstract/document/794478/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Interconnect testing in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue Proceedings of the 37th Annual Design Automation …
+     Year 2000
+     Abstract As IC densities are increasing, cluster-based FPGA architectures are becoming the architecture of choice for major FPGA manufacturers. A cluster-based architecture is one in which several logic blocks are grouped together into a coarse-grained logic block. While the
+     Url https://dl.acm.org/doi/abs/10.1145/337292.337310
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title FPGA Interconnect Delay Fault Testing.
+     Author ['E Chmelar']
+     Venue ITC
+     Year 2003
+     Abstract The interconnection network consumes the majority of die area in an FPGA. Presented is a scalable manufacturing test method for all SRAM-based FPGAs, able to detect multiple interconnect delay faults, multiple bridging faults, or both. An adjustable maximum sensitivity
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.8410&rep=rep1&type=pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title BIST-based delay path testing in FPGA architectures
+     Author ['IG Harris', 'PR Menon', 'R Tessier']
+     Venue … International Test Conference …
+     Year 2001
+     Abstract The widespread use of field programmable gate arrays (FPGAs) as components in high-performance systems has increased the significance of path delay faults in FPGAs. We present a technique for FPGA path delay fault detection which integrates test insertion with
+     Url https://ieeexplore.ieee.org/abstract/document/966717/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Application-independent testing of FPGA interconnects
+     Author ['MB Tahoori', 'S Mitra']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2005
+     Abstract We present a new automatic test-configuration-generation technique for application-independent manufacturing testing of the interconnection network of static-random-access-memory-based field programmable gate arrays (FPGAs). This technique targets detection of
+     Url https://ieeexplore.ieee.org/abstract/document/1522443/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Application dependent FPGA testing method
+     Author ['M Rozkovec', 'J Jenicek', 'O Novak']
+     Venue 2010 13th Euromicro …
+     Year 2010
+     Abstract Application dependent FPGA testing can reduce time and memory requirements comparing with the tests that exercise complete FPGA structure. This paper describes a methodology of FPGA testing that does not require reconfiguration of the tested hardware and thus it
+     Url https://ieeexplore.ieee.org/abstract/document/5615554/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Automatic configuration generation for FPGA interconnect testing
+     Author ['MB Tahoori', 'S Mitra']
+     Venue Proceedings. 21st VLSI Test Symposium …
+     Year 2003
+     Abstract We present a new automatic test configuration generation technique for manufacturing testing of interconnect network of SRAM-based FPGA architectures. The technique guarantees detection of open and bridging faults in all wiring channels and programmable
+     Url https://ieeexplore.ieee.org/abstract/document/1197644/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Testing and diagnosis of interconnect faults in cluster-based FPGA architectures
+     Author ['IG Harris', 'R Tessier']
+     Venue … on Computer-Aided Design of Integrated …
+     Year 2002
+     Abstract As IC densities are increasing, cluster-based field programmable gate arrays (FPGA) architectures are becoming the architecture of choice for major FPGA manufacturers. A cluster-base architecture is one in which several logic blocks are grouped together into a
+     Url https://ieeexplore.ieee.org/abstract/document/1047052/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Proton testing of SEU mitigation methods for the Virtex FPGA
+     Author ['C Carmichael', 'E Fuller', 'J Fabula']
+     Venue Proc. of Military and …
+     Year 2001
+     Abstract Total ionizing dose (TID), heavy ion and proton characterization have previously been performed on Virtex FPGAs, fabricated on epitaxial silicon, to evaluate the onorbit radiation performance expected for this technology. The dominant risk is Single Event Upset (SEU)
+     Url https://www.researchgate.net/profile/Carl_Carmichael/publication/238685441_Proton_testing_of_seu_mitigation_methods_for_the_virtex_fpga/links/544548f40cf2d62c304d7bb5/Proton-testing-of-seu-mitigation-methods-for-the-virtex-fpga.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Radiation testing update, SEU mitigation, and availability analysis of the Virtex FPGA for space reconfigurable computing.
+     Author ['E Fuller', 'M Caffrey']
+     Venue NA
+     Year 2000
+     Abstract Orbital remote sensing instruments and systems can benefit from high performance, adaptable components. Field programmable SRAM-based gate arrays (FPGAs) are usually the chosen platform for real-time reconfigurable computing. This technology is driven by the
+     Url https://www.osti.gov/servlets/purl/766418
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title An automated BIST architecture for testing and diagnosing FPGA interconnect faults
+     Author ['J Smith', 'T Xia', 'C Stroud']
+     Venue Journal of electronic testing
+     Year 2006
+     Abstract We present an efficient built-in self-test (BIST) architecture for testing and diagnosing stuck-at faults, delay faults, and bridging faults in FPGA interconnect resources. The BIST structure contains self-enabling test pattern generators, self-configurable switch matrices, and
+     Url https://link.springer.com/article/10.1007/s10836-006-9319-7
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Exciting FPGA cryptographic Trojans using combinatorial testing
+     Author ['P Kitsos', 'DE Simos', 'J Torres-Jimenez']
+     Venue 2015 IEEE 26th …
+     Year 2015
+     Abstract Contemporary hardware design shares many similarities with software development. The injection of malicious functionality (Trojans) in FPGA designs is a realistic threat. Established techniques for testing correctness do not cope well with Trojans, since Trojans are not
+     Url https://ieeexplore.ieee.org/abstract/document/7381800/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Scalable and parallel processing methods and structures for testing configurable interconnect network in FPGA device
+     Author ['RT Cote', 'B Nguyen', 'XD Pham']
+     Venue US Patent …
+     Year 2004
+     Abstract Configurable interconnect resources of field programmable gate arrays (FPGA's) are tested by configuring at least some of the lookup tables (LUT's), registers and input signal acquirers to implement one or more sequential state machines that feed back their current states via at
+     Url https://patents.google.com/patent/US6725442B1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Built-in self-test of FPGA interconnect
+     Author ['C Stroud', 'S Wijesuriya', 'C Hamilton']
+     Venue … 1998 (IEEE Cat. No …
+     Year 1998
+     Abstract In addition to testing PLBs, complete FPGA testing also requires testing of its programmable interconnect network  As a result, we decided to ignore the routing faults detected during PLB test and to treat testing the FPGA interconnect as a separate problem
+     Url https://ieeexplore.ieee.org/abstract/document/743180/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Dynamic testing of Xilinx Virtex-II field programmable gate array (FPGA) input/output blocks (IOBs)
+     Author ['GM Swift', 'S Rezgui', 'J George']
+     Venue … on Nuclear Science
+     Year 2004
+     Abstract Heavy-ion irradiation and fault injection experiments were conducted to evaluate the upset sensitivity of the Xilinx Virtex-II field programmable gate arrays (FPGAs) input/output block (IOB). Full triple module redundancy (TMR) of the IOBs, in combination with regular
+     Url https://ieeexplore.ieee.org/abstract/document/1369512/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title SEU simulation framework for Xilinx FPGA: First step towards testing fault tolerant systems
+     Author ['M Straka', 'J Kastil', 'Z Kotasek']
+     Venue 2011 14th Euromicro …
+     Year 2011
+     Abstract In the paper, the SEU simulation framework for testing fault tolerant system designs implemented into FPGA is presented. The framework is based on SEU generation outside FPGA (in personal computer) and the transport of modified bit stream through the JTAG
+     Url https://ieeexplore.ieee.org/abstract/document/6037413/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Single event upset susceptibility testing of the Xilinx Virtex II FPGA
+     Author ['C Yui', 'G Swift', 'C Carmichael']
+     Venue NA
+     Year 2002
+     Abstract Heavy ion testing of the Xilinx Virtex IZ was conducted on the configuration, block RAM and user flip flop cells to determine their single event upset susceptibility using LETs of 1.2 to 60 MeVcm^ 2/mg. A software program specifically designed to count errors in the FPGA is used
+     Url https://trs.jpl.nasa.gov/handle/2014/10381
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Experimental testing of the gigabit IPSec-Compliant implementations of Rijndael and triple DES using SLAAC-1V FPGA accelerator board
+     Author ['P Chodowiec', 'K Gaj', 'P Bellows', 'B Schott']
+     Venue International Conference on …
+     Year 2001
+     Abstract In this paper, we present the results of the first phase of a project aimed at implementing a full suite of IPSec cryptographic transformations in reconfigurable hardware. Full implementations of the new Advanced Encryption Standard, Rijndael, and the older
+     Url https://link.springer.com/chapter/10.1007/3-540-45439-X_15
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Testing FPGA based digital system using XILINX ChipScope logic analyzer
+     Author ['K Arshak', 'E Jafer', 'C Ibala']
+     Venue 2006 29th International Spring …
+     Year 2006
+     Abstract This paper presents the use of Xilinx ChipScopetrade Pro integrated logic analyzer for Field programmable gate arrays (FPGA) as a board-and system-level diagnostic tool. FPGA designs have become increasingly dense and complex. They are difficult to debug because
+     Url https://ieeexplore.ieee.org/abstract/document/4216059/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Using roving STARs for on-line testing and diagnosis of FPGAs in fault-tolerant applications
+     Author ['M Abramovici', 'C Strond', 'C Hamilton']
+     Venue … (IEEE Cat. No …
+     Year 1999
+     Abstract In this paper we present a novel integrated approach to on-line FPGA testing, diagnosis, and fault-toler- ance, to be used in high-reliability and high-availability hardware  While FPGA testing has been the focus of many recent
+     Url https://ieeexplore.ieee.org/abstract/document/805830/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title A new functional fault model for FPGA application-oriented testing
+     Author ['M Rebaudengo', 'MS Reorda']
+     Venue 17th IEEE International …
+     Year 2002
+     Abstract The objective of this paper is to propose a new fault model suitable for test pattern generation for an FPGA configured to implement a given application. The paper demonstrates that the faults affecting the bit cells of the look-up tables (LUTs) are not
+     Url https://ieeexplore.ieee.org/abstract/document/1173534/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Testing the interconnect of RAM-based FPGAs
+     Author ['M Renovell', 'JM Portal', 'J Figueras']
+     Venue IEEE Design & Test of …
+     Year 1998
+     Abstract FPGA testing methodology Our FPGA testing approach distinguishes two types of inputs: operation and configu- ration. One uses operation inputs during normal circuit operation to apply input vec- tors IV1 IVn  Page 2. FPGA INTERCONNECT TESTING 46
+     Url https://ieeexplore.ieee.org/abstract/document/655182/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Testing FPGA devices using JBits
+     Author ['P Sundararajan', 'S McMillan', 'SA Guccione']
+     Venue Military and Aerospace …
+     Year 2001
+     Abstract Unlike other integrated circuits, SRAM-based FPGA devices present a unique problem for testing. Because of their high level of configurability, it is often difficult to isolate and test device resources. This high level of configurability of FPGA devices, while a drawback for
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8758&rep=rep1&type=pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title New techniques and tools for application-dependent testing of FPGA-based components
+     Author ['A Cilardo']
+     Venue IEEE Transactions on Industrial Informatics
+     Year 2014
+     Abstract Field programmable gate array (FPGA) devices are increasingly being deployed in industrial environments, making reconfigurable hardware testing and reliability an active area of investigation. While FPGA devices can be tested exhaustively, the so-called application
+     Url https://ieeexplore.ieee.org/abstract/document/6955816/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title FPGA implementation of BASK-BFSK-BPSK digital modulators [testing ourselves]
+     Author ['C Erdoğan', 'I Myderrizi', 'S Minaei']
+     Venue IEEE Antennas and …
+     Year 2012
+     Abstract Field-programmable gate-array (FPGA) implementations of binary amplitude-shift keying (BASK), binary frequency-shift keying (BFSK), and binary phase-shift keying (BPSK) digital modulators are presented. The proposed designs are aimed at educational purposes in a
+     Url https://ieeexplore.ieee.org/abstract/document/6230771/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title A novel heuristic method for application-dependent testing of a SRAM-based FPGA interconnect
+     Author ['TN Kumar', 'F Lombardi']
+     Venue IEEE Transactions on Computers
+     Year 2011
+     Abstract This paper presents a new method for generating configurations for application-dependent testing of a SRAM-based FPGA interconnect. This method connects an activating input to multiple nets, thus generating activating test vectors for detecting stuck-at, open, and
+     Url https://ieeexplore.ieee.org/abstract/document/6109247/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title FPGA test time reduction through a novel interconnect testing scheme
+     Author ['S McCracken', 'Z Zilic']
+     Venue Proceedings of the 2002 ACM/SIGDA tenth …
+     Year 2002
+     Abstract As device densities increase, testing cost is becoming a larger portion of the overall FPGA manufacturing cost. We present an approach to speed up testing FPGA interconnect by reconfiguring it during the test. Simple additions are made to create feedback shift register
+     Url https://dl.acm.org/doi/abs/10.1145/503048.503069
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Active replication: Towards a truly sram-based fpga on-line concurrent testing
+     Author ['MG Gericota', 'GR Alves', 'ML Silva']
+     Venue … On-Line Testing …
+     Year 2002
+     Abstract The reusing of the same hardware resources to implement speed-critical algorithms, without interrupting system operation, is one of the main reasons for the increasing use of reconfigurable computing platforms, employing complex SRAM-based FPGAs. However
+     Url https://ieeexplore.ieee.org/abstract/document/1030201/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title BIST-based diagnosis of FPGA interconnect
+     Author ['C Stroud', 'J Nall', 'M Lashinsky']
+     Venue Proceedings …
+     Year 2002
+     Abstract 3. Roving STARs Overview The roving STARS approach [I] proposed new techniques for on-line FPGA testing, diagnosis, and fault-tolerance, applicable to any FPGA supporting incremental RTR via its Boundary Scan interface [16]
+     Url https://ieeexplore.ieee.org/abstract/document/1041813/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title An FPGA-based real-time simulator for HIL testing of modular multilevel converter controller
+     Author ['W Li', 'LA Grégoire', 'S Souvanlasy']
+     Venue 2014 IEEE Energy …
+     Year 2014
+     Abstract Recently, two Modular Multilevel Converter (MMC) projects are under construction in China. Since these are the first two multi-terminal MMC projects in the world and the controllers are sophisticated, a real time simulation platform becomes critical to enable hardware-in-the
+     Url https://ieeexplore.ieee.org/abstract/document/6953678/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based ultra-low latency HIL fault testing of a permanent magnet motor drive using RT-LAB-XSG
+     Author ['C Dufour', 'J Belanger', 'V Lapointe']
+     Venue Simulation
+     Year 2008
+     Abstract Presented is a real-time simulator of a permanent magnet synchronous motor (PMSM) drive implemented on an FPGA card. Real-time simulation of PMSM drives enables thorough testing of control strategies and software protection routines and therefore allows rapid
+     Url https://journals.sagepub.com/doi/abs/10.1177/0037549708091537
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title A BIST architecture for FPGA look-up table testing reduces reconfigurations
+     Author ['E Atoofian', 'Z Navabi']
+     Venue null
+     Year 2003
+     Abstract This paper describes a test architecture for minimum number of test configurations for test of FPGA (field programmable gate array) LUTs (look up tables). Our test architecture includes a TPG (test pattern generator) that is tested while it is generating test data for LE (logic
+     Url https://ieeexplore.ieee.org/abstract/document/1250788/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Automated plc software testing using adapted uml sequence diagrams
+     Author ['B Kormann', 'D Tikhonov', 'B Vogel-Heuser']
+     Venue IFAC Proceedings Volumes
+     Year 2012
+     Abstract Current production plants are highly customizable and flexible in their processes. This flexibility is mainly realized by software. It causes an increasing complexity of control software components and the need of new methods for comprehensive and automated
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016333821
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title High-speed FPGA configuration and testing through JTAG
+     Author ['A Gruwell', 'P Zabriskie', 'M Wirthlin']
+     Venue 2016 IEEE AUTOTESTCON
+     Year 2016
+     Abstract Since most FPGAs use the universal JTAG port to support configuration memory access, hardware and software tools are needed to maximize the speed of FPGA configuration management over JTAG. This paper introduces a tool called the JTAG Configuration
+     Url https://ieeexplore.ieee.org/abstract/document/7589601/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title An approach for testing programmable/configurable field programmable gate arrays
+     Author ['WK Huang', 'F Lombardi']
+     Venue proceedings of 14th VLSI Test …
+     Year 1996
+     Abstract The total number of required IOBs for testing the FPGA is therefore, given by nhz +n, x nho+n, x n,a= g+na)p,i + nc x nuz ( as nhz = nho for a one- imensional array and each vertical input line can be common to all arrays and all horizontal input lines from the IOBs to the arrays
+     Url https://ieeexplore.ieee.org/abstract/document/510892/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Laser testing methodology for diagnosing diverse soft errors in a nanoscale SRAM-Based FPGA
+     Author ['FL Kastensmidt', 'L Tambara']
+     Venue … on Nuclear Science
+     Year 2014
+     Abstract In this paper, we propose a method that combines dedicated test designs, readback and bitstream comparisons to investigate soft errors in a nanoscale SRAM-based FPGA under photoelectric stimulation. Static test is performed to analyze the SEU dependency to voltage
+     Url https://ieeexplore.ieee.org/abstract/document/6969839/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Using satisfiability in application-dependent testing of FPGA interconnects
+     Author ['MB Tahoori']
+     Venue … 2003. Design Automation Conference (IEEE Cat …
+     Year 2003
+     Abstract In this paper, a new technique for testing the interconnects of an arbitrary design mapped into an FPGA is presented. In this technique, only the configuration of logic blocks used in the design is changed. The test vector and configuration generation problem is
+     Url https://ieeexplore.ieee.org/abstract/document/1219104/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title A dual high-speed PMSM motor drive emulator with finite element analysis on FPGA chip with full fault testing capability
+     Author ['Y Inaba', 'S Cense', 'TO Bachir']
+     Venue Proceedings of the …
+     Year 2011
+     Abstract This paper presents a FPGA-based virtual motor drive system featuring two Permanent Magnet Synchronous Machine (PMSM) drives made with two-level IGBT/GTO inverters model with full fault capability. The inverters are implemented on the FPGA with a nodal
+     Url https://ieeexplore.ieee.org/abstract/document/6020452/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Online BIST and BIST-based diagnosis of FPGA logic blocks
+     Author ['M Abramovici', 'CE Stroud']
+     Venue IEEE Transactions on Very …
+     Year 2004
+     Abstract However, most previous methods for FPGA testing address only offline testing using either externally applied vectors [1]–[9] or built-in self-test (BIST) [10]–[17]. Online FPGA testing methods based on coding techniques [18], [19] do not diagnose the detected faults
+     Url https://ieeexplore.ieee.org/abstract/document/1407948/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Radiation test results of the Virtex FPGA and ZBT SRAM for space based reconfigurable computing
+     Author ['E Fuller', 'M Caffrey', 'P Blain', 'C Carmichael']
+     Venue MAPLD …
+     Year 1999
+     Abstract C. FPGA Testing Xilinx provided a very flexible silicon verification system called AFX (Advanced FPGA Development System)  The motivation for testing the FPGA in a dynamic environment is to estimate its performance in an operational scenario
+     Url http://ebook.pldworld.com/_Semiconductors/XILINX/DataSource%20CD-ROM/Rev.3%20(Q1-2001)/documents/www.xilinx.com/appnotes/VtxTest.pdf
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Test of RAM-based FPGA: Methodology and application to the interconnect
+     Author ['M Renovell', 'J Figueras', 'Y Zorian']
+     Venue Proceedings. 15th IEEE …
+     Year 1997
+     Abstract A very simple approach consists in considering the FPGA as a classical digital ASIC making the problem of testing the FPGA equivalent to the problem of testing a classical ASIC. Such a classical test approach fails when applied on FPGA  2. The FPGA Testing Problem
+     Url https://ieeexplore.ieee.org/abstract/document/600278/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title SAT-ATPG for application-oriented FPGA testing
+     Author ['R Hülle', 'P Fišer', 'J Schmidt']
+     Venue 2016 15th Biennial Baltic …
+     Year 2016
+     Abstract In this paper we propose a SAT-based ATPG algorithm for application-oriented FPGA testing. For this purpose, a novel fault model is introduced which combines the stuck-at fault model for interconnects testing with the bit-flip model for LUT testing. The concept of SAT
+     Url https://ieeexplore.ieee.org/abstract/document/7743734/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Evaluation of FPGA resources for built-in self-test of programmable logic blocks
+     Author ['C Stroud', 'P Chen', 'S Konala']
+     Venue … ACM Symposium on …
+     Year 1996
+     Abstract Page 1. Abstract We present a new approach for FPGA testing that exploits the reprogrammability of FPGAs to create Built-In Self-Test (BIST) logic only during off-line test  Table 2: Differences in FPGA testing levels Testing Level Wafer/Package Board/System
+     Url https://ieeexplore.ieee.org/abstract/document/1377294/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Real-time FPGA control of a hexapod robot for 6-DOF biomechanical testing
+     Author ['B Ding', 'RM Stanley', 'BS Cazzolato']
+     Venue IECON 2011-37th …
+     Year 2011
+     Abstract A hexapod robotic test system has been developed to enable complex six degree of freedom (6-DOF) testing of bones, joints, soft tissues, artificial joints and other medical and surgical devices. The device employs six permanent-magnet servomotor driven ballscrews
+     Url https://ieeexplore.ieee.org/abstract/document/6119320/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title A development and testing instrumentation for GPS software defined radio with fast FPGA prototyping support
+     Author ['A Soghoyan', 'A Suleiman']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract The modernization of global positioning systems (GPS) boosts the development of civil and military applications as accuracy and coverage of receivers continually improve. Recently, software defined radio (SDR) approach for GPS receivers (GPS-SDR) gained attention
+     Url https://ieeexplore.ieee.org/abstract/document/6750082/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Test circuits for testing inter-device FPGA links including a shift register configured from FPGA elements to form a shift block through said inter-device FPGA links
+     Author ['FH Fischer']
+     Venue US Patent 6,347,387
+     Year 2002
+     Abstract A test device for testing inter-device connections of field programmable gate arrays (FPGAS) by using the FPGAs themselves during testing to form a shift register. Particularly, the shift register comprises flip-flops and buffers interconnected by the actual FPGA inter-device or
+     Url https://patents.google.com/patent/US6347387B1/en
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title Testing FPGA delay faults in the system environment is very different from" ordinary" delay fault testing
+     Author ['A Krasniewski']
+     Venue … Seventh International On-Line Testing …
+     Year 2001
+     Abstract Explains differences between testing delay faults in FPGAs and testing delay faults in circuits whose combinational sections can be represented as gate networks. Formulates-in a form suitable for analysis of LUT-based FPGAs-conditions that allow one to check whether or not
+     Url https://ieeexplore.ieee.org/abstract/document/937815/
+
+
+     Search term "PLC"+OR+"FPGA"+"Testing"
+     Title An optimum ORA BIST for multiple fault FPGA look-up table testing
+     Author ['A Alaghi', 'MS Yarandi', 'Z Navabi']
+     Venue 2006 15th Asian Test …
+     Year 2006
+     Abstract This paper presents BIST architecture for FPGA look-up table testing using a minimum number of logic elements for its ORA. The propagation of faults in the TPGs and CUTs is formulated so that the ORA can detect multiple faults by monitoring a single signal. At the
+     Url https://ieeexplore.ieee.org/abstract/document/4030782/
+

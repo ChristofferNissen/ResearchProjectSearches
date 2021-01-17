@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Automation"
+
+     Search term "Formal+methods"+"Automation"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract The growth of manufacturing control software from simple NC and PLC-based systems to concurrent networked systems incorporating PCs, PLCs, CNCs, and enterprise databases has created new challenges to the design, implementation, and maintenance of safe and
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods for test automation-hard real-time testing of controllers for the airbus aircraft family
+     Author ['J Peleska']
+     Venue IDPT'02
+     Year 2002
+     Abstract In this article, a collection of major problems to be solved for automated testing of embedded hard real-time systems is discussed. It is indicated which solutions are available. Architectural aspects of test automation systems and approaches for automated on-the-fly
+     Url http://www.cs.uni-bremen.de/agbs/jp/papers/peleska_idpt2002.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract Virtual commissioning–the development and validation of industrial control systems against a simulation model–is attracting interest in the automotive industry. The main motivation for its use is that control systems can start to be integrated and tested before the construction of
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Comparing simulative and formal methods for the analysis of response times in networked automation systems
+     Author ['J Greifeneder', 'L Liu', 'G Frey']
+     Venue IFAC Proceedings Volumes
+     Year 2008
+     Abstract Networked Automation Systems (NAS) result from the increasing decentralization of automation systems using new network structures. Those structures are less expensive and more flexible than traditional ones. However, they introduce stochastic and coupled
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016397543
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Analyzing cockpit interfaces using formal methods
+     Author ['J Rushby']
+     Venue Electronic Notes in Theoretical Computer Science
+     Year 2001
+     Abstract I will illustrate these points with an example that applies formal methods to the “automation surprises” that have become a matter of concern in the cockpit au- tomation of advanced aircraft (pilot error accounts for the majority of “hull loss” accidents in civil aviation [9]). This topic
+     Url https://www.sciencedirect.com/science/article/pii/S1571066104808910
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Models and mechanized methods that integrate human factors into automation design
+     Author ['J Crow', 'D Javaux', 'J Rushby']
+     Venue International Conference on Human …
+     Year 2000
+     Abstract derived, minimal mental models of autopilot behavior. KEYWORDS Human factors, formal methods, finite-state machines, automation, design MODELS, METHODS, AND MECHANIZATION Research in aviation psychology
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.9461&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Industrial automation systems (IAS) need to be highly dependable; they should not merely function as expected but also do so in a reliable, safe, and secure manner. Formal methods are mathematical techniques that can greatly aid in developing dependable systems and
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title A formal methods-based Rule Verification Framework for end-user programming in campus Building Automation Systems
+     Author ['H Ibrhim', 'S Khattab', 'K Elsayed', 'A Badr', 'E Nabil']
+     Venue Building and Environment
+     Year 2020
+     Abstract Building Automation Systems have recently exposed programming interfaces for occupants to dynamically control and personalize indoor workplace environments. To this end, the If-This-Then-That paradigm has been proposed as a user-friendly programming
+     Url https://www.sciencedirect.com/science/article/pii/S0360132320303632
+
+
+     Search term "Formal+methods"+"Automation"
+     Title … task analytic behavior modeling, erroneous human behavior generation, and formal methods to evaluate the role of human-automation interaction in system …
+     Author ['ML Bolton']
+     Venue NA
+     Year 2010
+     Abstract Failures in complex, safety-critical systems often arise as a result of interactions between the elements of the system, including its human operator. Two sub-disciplines, humanautomation interaction (from human factors engineering) and formal methods (from
+     Url http://fhsl.eng.buffalo.edu/publications/BoltonDissertation2010.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title A formal methods approach to the analysis of mode confusion
+     Author ['RW Butler', 'SP Miller', 'JN Potts']
+     Venue 17th DASC. AIAA/IEEE …
+     Year 1998
+     Abstract It seems that further progress in human factors must come through a deeper scrutiny of the in- ternals of the automation. It is in this arena that formal methods can contribute. Formal methods refers to the use of techniques from
+     Url https://ieeexplore.ieee.org/abstract/document/741497/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Using formal methods to construct a software component library
+     Author ['JJ Jeng', 'BHC Cheng']
+     Venue European Software Engineering Conference
+     Year 1993
+     Abstract facilitates the deter- mination of reusable software because they more precisely characterize the functionality of the software, and the well-defined syntax makes process- ing amenable to automation. Tills paper presents an approach, based on formal methods, to the
+     Url https://link.springer.com/chapter/10.1007/3-540-57209-0_27
+
+
+     Search term "Formal+methods"+"Automation"
+     Title FORMS/FORMAT 2010: Formal Methods for Automation and Safety in Railway and Automotive Systems
+     Author ['E Schnieder', 'G Tarnai']
+     Venue NA
+     Year 2011
+     Abstract Coping with the complexity of advanced automation-and safety systems both in railway and automotive applications will be more and more dominated by the use of formal means of description, formal methods, and tools. Altogether named Formal Techniques they provide
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-14261-1.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract Industrial safety-related standards strongly recommend the use of formal methods to control the complexity of software-intensive automation  There is a growing interest in formal methods and tools that facilitate the validation of software-intensive automation systems
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods in PLC programming
+     Author ['G Frey', 'L Litz']
+     Venue Smc 2000 conference proceedings. 2000 ieee …
+     Year 2000
+     Abstract Some works from the multitude of V&V research are presented and catego- rized using this new system. Index terms-PLC, logic control, verification, validation, formal methods. I. INTRODUCTION Since the 1970s PLC has been the primary workhorse of industrial automation
+     Url https://ieeexplore.ieee.org/abstract/document/884356/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract advances, this has had a major impact on the scale of problem that can be addressed by automated techniques, such as model checking, and would seem to indicate a continuing increase in the level of automation and move towards formal methods disappearing “under the
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formally verifying human–automation interaction as part of a system model: limitations and tradeoffs
+     Author ['ML Bolton', 'EJ Bass']
+     Venue Innovations in systems and software engineering
+     Year 2010
+     Abstract and technological developments are necessary for model checking to become a more usable technique for HFE. Keywords Human–automation interaction · Task analysis · Formal methods · Model checking · Safety critical systems · PCA pump 1 Introduction
+     Url https://link.springer.com/article/10.1007/s11334-010-0129-9
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Improving automation software dependability: a role for formal methods?
+     Author ['TL Johnson']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The growth of manufacturing control software from simple NC and PLC-based systems to concurrent networked systems incorporating PC's, PLC's, CNC's, and enterprise databases has created new challenges to the design, implementation, and maintenance of safe and
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361128
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract Moreover, formal methods allow to formally simulate, validate and reason about system models, ie, to prove with mathematical precision the  is that specifications expressed in a formal language are much easier processable by tools, hence allowing more automation in the
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal test automation: The conference protocol with phact
+     Author ['L Heerink', 'J Feenstra', 'J Tretmans']
+     Venue Testing of Communicating Systems
+     Year 2000
+     Abstract Page 2. 212 TESTING OF COMMUNICATING SYSTEMS 1. INTRODUCTION In this note we describe a case study of automatic test generation and ex- ecution based on formal methods  Page 3. Formal Test Automation: The Conference Protocol with PHACT 213
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35516-0_13
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Tutorial: Automated formal methods with PVS, SAL, and Yices
+     Author ['J Rushby']
+     Venue … on Software Engineering and Formal Methods  …
+     Year 2006
+     Abstract This full-day tutorial provides an introduction to automated formal methods using modern tools and methods  The PVS theorem prover provides powerful automation including rewriting and decision procedures for real and integer arithmetic, and is scriptable
+     Url https://ieeexplore.ieee.org/abstract/document/1698746/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract SAT solvers form only the most basic level of automation in formal-methods tools. SMT (Satisfiability Modulo Theories) solvers [24] add the ability to automatically reason about higher level structures such as integers, vectors and arrays
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Model checking and other ways of automating formal methods
+     Author ['JM Rushby']
+     Venue Position paper for panel on Model Checking for …
+     Year 1995
+     Abstract Page 7. sizes for the data buses and register le. In contrast, symbolic model checking re- quires concrete representations for all of these, and CPU time running into tens of minutes when the register le has more than about 16 registers. 2 Integrated Automation of Formal Methods
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.6771&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Classification of safety requirements for formal verification of software models of industrial automation systems
+     Author ['F Bitsch']
+     Venue Proc. Intl. Conf. on SW and Sys. Engineering and their …
+     Year 2000
+     Abstract But the use of formal methods in practical software development is rare. One of the reasons is difficulties arising from formal specification of safety requirements. In this paper characteristics of safety requirements of software models of industrial automation systems are analysed
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.5500&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal test automation: A simple experiment
+     Author ['A Belinfante', 'J Feenstra', 'RG de Vries']
+     Venue Testing of …
+     Year 1999
+     Abstract assess the feasibility of the FMCT model. One of the major conclusions was that FMCT provides a sound basis for conformance testing based on formal methods, but automation is necessary. In this paper, we study this automation
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35567-2_12
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods in factory automation
+     Author ['C Popescu', 'JLM Lastra']
+     Venue NA
+     Year 2010
+     Abstract The world market share for European industries targeting capital intensive products and equipment for manufacturing is only 22%(Manufuture, 2004). This position need not only be secured, but improved–to have the world standards of manufacturing made and approved in
+     Url https://www.researchgate.net/profile/Jose_Luis_Martinez_Lastra/publication/221908293_Formal_Methods_in_Factory_Automation/links/09e4150dc9eaf06c87000000/Formal-Methods-in-Factory-Automation.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title The Al4FM approach for proof automation within formal methods
+     Author ['G Grov', 'A Bundy', 'CB Jones', 'A Ireland']
+     Venue Submission to Grand Challenges …
+     Year 2010
+     Abstract We are about to embark on a project (AI4FM) that will use Artificial Intelligence (AI) to tackle a core issue for GC6 (Dependable Systems Evolution). Achieving verified software has been a dream since the birth of computer science and the importance of this objective has
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.866.2628&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Using formal verification to evaluate human-automation interaction: A review
+     Author ['ML Bolton', 'EJ Bass']
+     Venue IEEE Transactions on …
+     Year 2013
+     Abstract avoid this limitation. Index Terms—Cognitive task analysis, formal methods, human performance modeling, human-automation interaction (HAI), mode confusion, model checking, theorem proving, verification. I. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/6472094/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Wireless communication in automation
+     Author ['Z Bradac', 'P Fiedler', 'P Cach']
+     Venue 10th IEEE International …
+     Year 2003
+     Abstract Moreover the paper discusses some specific challenges associated with utilization of wireless communication techniques (focused to Bluetooth) in automation. Finally the paper presents ideas (formal methods) that could he used to analyze, and improve reliability of such
+     Url https://ieeexplore.ieee.org/abstract/document/1301871/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Test automation for safety-critical systems: Industrial application and future developments
+     Author ['J Peleska']
+     Venue International Symposium of Formal Methods Europe
+     Year 1996
+     Abstract Design, execution and evaluation of tests for safety-critical systems require considerable effort and skill and consume a large part of today's development costs. Due to the growing complexity of control systems, it has to be expected that their trustworthy test will
+     Url https://link.springer.com/chapter/10.1007/3-540-60973-3_79
+
+
+     Search term "Formal+methods"+"Automation"
+     Title On the need for practical formal methods
+     Author ['C Heitmeyer']
+     Venue International Symposium on Formal Techniques in …
+     Year 1998
+     Abstract Proc. Design Automation Conference, June 1997. 18. D. Lending and NL Chervany  19. C. Loiseaux, S. Graf, J. Sifakis, A. Bouajjani, and S. Bensalem. "Property pre- serving abstractions for the verification of concurrent systems." Formal Methods in System Design 6, 1-35, 1995
+     Url https://link.springer.com/chapter/10.1007/BFb0055332
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods for higher reliability of the industrial automation
+     Author ['F Zezulka', 'Z Bradac', 'P Kucera']
+     Venue IEEE International Conference …
+     Year 2003
+     Abstract Industrial communication plays an important role in industrial measurement and control and particularly in process automation due to trend of decentralization of control systems. Process automation generally includes many areas of engineering (HW, SW, mechanical
+     Url https://ieeexplore.ieee.org/abstract/document/1290777/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods for semi-autonomous driving
+     Author ['SA Seshia', 'D Sadigh', 'SS Sastry']
+     Venue … /IEEE Design Automation …
+     Year 2015
+     Abstract We give an overview of the main challenges in the specification, design, and verification of human cyber-physical systems, with a special focus on semi-autonomous vehicles. We identify unique characteristics of formal modeling, specification, verification and synthesis in
+     Url https://ieeexplore.ieee.org/abstract/document/7167334/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Automation Petri net based railway interlocking and signalization design
+     Author ['MS Durmuş', 'MT Söylemez']
+     Venue Int. Symposium on Innovations in …
+     Year 2009
+     Abstract Several formal methods that can be used in this perspective exist in the literature including automata theory and Petri Nets (PNs). In this study, it is shown that railway track interlocking and signalization operations can be modeled by Automation Petri Nets (APNs) which is an
+     Url https://www.researchgate.net/profile/Mehmet_Soeylemez/publication/228950910_Automation_Petri_Net_Based_Railway_Interlocking_and_Signalization_Design/links/0deec520206651ab9c000000/Automation-Petri-Net-Based-Railway-Interlocking-and-Signalization-Design.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Learning from experts to aid the automation of proof search
+     Author ['A Bundy', 'G Grov', 'CB Jones']
+     Venue AVoCS
+     Year 2009
+     Abstract Learning from experts to aid the automation of proof search Learning from experts to aid the automation of proof search Alan Bundy1, Gudmund Grov2 and Cliff B. Jones3 1 University of Edinburgh 2 Heriot-Watt University 3 University of Newcastle Most formal methods give rise
+     Url http://www.academia.edu/download/30935391/10.1.1.157.2132.pdf#page=229
+
+
+     Search term "Formal+methods"+"Automation"
+     Title NPP Safety Automation Systems Analysis--State of the Art
+     Author ['J Valkonen', 'I Karanta', 'M Koskimies', 'K Heljanko']
+     Venue NA
+     Year 1994
+     Abstract and Matti Koskimies and Keijo Heljanko and Ilkka Niemelä and Dan Sheridan and Robin E. Bloomfield}, title = {NPP Safety Automation Systems Analysis -- State of the Art}, year = {1994} }  OpenURL. Abstract. This report describes the state of the art of formal methods and models
+     Url http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.144.6557
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract It also includes iterated design, refinement, and synthesis, with comparable and compatible automation. Unfortunately, tool support for constructive formal methods lags far behind the support for model checking and theorem proving, and this gap is another impediment to
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title A lightweight approach to formal methods
+     Author ['S Agerholm', 'PG Larsen']
+     Venue … on Current Trends in Applied Formal Methods
+     Year 1998
+     Abstract expressing requirements, which makes inspections more effective and reli- able, and allow different sorts of checking to be performed by automation tools. However, the lack of proper tools has often been claimed to be a main obstacle to the industrial take-up of formal methods
+     Url https://link.springer.com/chapter/10.1007/3-540-48257-1_10
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Mechanized formal methods: where next?
+     Author ['J Rushby']
+     Venue International Symposium on Formal Methods
+     Year 1999
+     Abstract for mechanized formal methods were based on interactive theorem proving. As the role of automated deduction in this activity came to be recognized as more closely resembling calculation in engineering than proof in mathematics, so more powerful automation such as
+     Url https://link.springer.com/chapter/10.1007/3-540-48119-2_3
+
+
+     Search term "Formal+methods"+"Automation"
+     Title On abstractions and simplifications in the design of human-automation interfaces
+     Author ['M Heymann', 'A Degani', 'D Clancy']
+     Venue NA
+     Year 2002
+     Abstract This report addresses the design of human- automation interaction from a formal perspective that focuses on the information content of the interface, rather than the design of the graphical  The report discusses the underlying concepts and the formal methods for this approach
+     Url https://ntrs.nasa.gov/search.jsp?R=20020068136
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Patterns for refinement automation
+     Author ['A Iliasov', 'E Troubitsyna', 'L Laibinis']
+     Venue … on Formal Methods for …
+     Year 2009
+     Abstract Formal modelling is indispensable for engineering highly dependable systems. However, a wider acceptance of formal methods is hindered by their insufficient usability and scalability. In this paper, we aim at assisting developers in rigorous modelling and design by increasing
+     Url https://link.springer.com/chapter/10.1007/978-3-642-17071-3_4
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Automated deduction and formal methods
+     Author ['J Rushby']
+     Venue International Conference on Computer Aided …
+     Year 1996
+     Abstract logic. 3 Theories Automated deduction must not only support the rich linguistic capabilities de- sired in formal methods, but must also provide very effective automation for theories that are commonly encountered. For illustration
+     Url https://link.springer.com/chapter/10.1007/3-540-61474-5_67
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Integrating formal methods with model-driven engineering
+     Author ['A Gargantini', 'E Riccobene']
+     Venue 2009 Fourth International …
+     Year 2009
+     Abstract We also propose an in-the-loop integration which allows the development of a general framework for software engineering where rigorousness and preciseness of formal methods are combined with flexibility and automation of the MDE
+     Url https://ieeexplore.ieee.org/abstract/document/5298478/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Design automation: Making formal methods relevant
+     Author ['L Walton', 'J Hook']
+     Venue ICSE-17 Workshop on Formal Methods …
+     Year 1995
+     Abstract Formal methods are easily dismissed as heavy weight and irrelevant. People legitimately ask to see what impact formal methods have had on software development practices outside of those areas where governments or regulatory agencies have mandated their use. We
+     Url https://www.researchgate.net/profile/Lisa_Walton5/publication/2660657_Design_Automation_Making_Formal_Methods_Relevant/links/00b495336fff6d570a000000.pdf
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Safety patterns—the key to formal specification of safety requirements
+     Author ['F Bitsch']
+     Venue … Conference on Computer Safety, Reliability, and …
+     Year 2001
+     Abstract much man power. Therefore the use of formal verification is only reasonable for safety critical parts of industrial automation systems. ”But the use of formal methods in practical software development is rare. A significant barrier
+     Url https://link.springer.com/chapter/10.1007/3-540-45416-0_18
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Teaching formal methods: Lessons to learn
+     Author ['P Gibson', 'D Méry']
+     Venue 2nd Irish Workshop on Formal Methods 2
+     Year 1998
+     Abstract We formalise to structure complex problems in such a way as they can be solved through highly repetitive automation. Formal methods application depends on the tools for performing such automation. The spectrum of tools ranges from: • Fully automated
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/FM1998.4
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Use of formal methods in medical decision making: A survey and analysis
+     Author ['U Böckenholt', 'EU Weber']
+     Venue Medical Decision Making
+     Year 1992
+     Abstract To categorize the formal methods used in medical decision making, we followed the classification of Pau- ker and Kassirer,25 who  problem structuring with the help of decision trees; 3) sensitivity analysis; 4) utility assessment; and 5) de- cision automation (including flowcharts
+     Url https://journals.sagepub.com/doi/abs/10.1177/0272989X9201200409
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods in communication protocol design
+     Author ['G Bochmann', 'C Sunshine']
+     Venue IEEE Transactions on …
+     Year 1980
+     Abstract correctly implemented. Formal methods for accomplishing these tasks are tions and informal walk-throu&s are invaluable elements of  Only modest progress has been made to date in the automation of this process. As with specification, a hybrid approach promises to
+     Url https://ieeexplore.ieee.org/abstract/document/1094685/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Mode confusion analysis of a flight guidance system using formal methods
+     Author ['A Joshi', 'SP Miller']
+     Venue Digital Avionics Systems …
+     Year 2003
+     Abstract Page 1. MODE CONFUSION ANALYSIS OF A FLIGHT GUIDANCE SYSTEM USING FORMAL METHODS  To fly commercial flights today, pilots must master several complex, dynamically interacting systems, often operating at different levels of automation
+     Url https://ieeexplore.ieee.org/abstract/document/5731065/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Software mythbusters explore formal methods
+     Author ['C Jaspan', 'M Keeling', 'L Maccherone']
+     Venue IEEE …
+     Year 2009
+     Abstract Contact him at larry@maccherone.com. Gabriel L. Zenarosa is a graduate student in the industrial engineering PhD program at the University of Pittsburgh. His research interests include software test automation, formal methods, and software process improvement
+     Url https://ieeexplore.ieee.org/abstract/document/5287011/
+
+
+     Search term "Formal+methods"+"Automation"
+     Title Formal methods for integration of automotive software
+     Author ['M Jersak', 'K Richter', 'R Ernst', 'JC Braam']
+     Venue … Design, Automation …
+     Year 2003
+     Abstract Novel functionality, configurability and higher efficiency in automotive systems require sophisticated embedded software as well as distributed software development between manufacturers and control unit suppliers. However, at least for engine control units (ECU)
+     Url https://ieeexplore.ieee.org/abstract/document/1186670/
+

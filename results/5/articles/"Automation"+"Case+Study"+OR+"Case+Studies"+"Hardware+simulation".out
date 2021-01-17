@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Speeding Up Simulation by Emulation-A Case Study
+     Author ['C Fritsch', 'J Haufe', 'T Berndt']
+     Venue Proceedings User's Forum
+     Year 1999
+     Abstract 127 Design, Automation and Test in Europe Conference DATE'99, Munich, Germany, 9.-12  This paper describes as a case study how parts of the ASIC design can be  In order to combine hardware simulation and emulation within a common cosimulation environment, we need a
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2466&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Model-based design automation of hardware/software co-designs for Xilinx Zynq PSoCs
+     Author ['FJ Streit', 'M Letras', 'S Wildermann']
+     Venue 2018 International …
+     Year 2018
+     Abstract design cycles in FPGA-based Programmable System-on-Chips (PSoCs) development require a higher level of design automation, which has  As a case study, we present a JPEG decoder application and investigate design objectives like resource costs and throughput to show
+     Url https://ieeexplore.ieee.org/abstract/document/8641736/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A framework for fast hardware-software co-simulation
+     Author ['A Hoffmann', 'T Kogel', 'H Meyr']
+     Venue … Design, Automation and Test in …
+     Year 2001
+     Abstract 4.1 Hardware Simulation with SystemC The SystemC class library provides a synthesizable C" subset in order to establish a unitary implementation lan  5 A case study In a case study we successfully applied the proposed methodology to the port-processor of an ATM switch de
+     Url https://ieeexplore.ieee.org/abstract/document/915114/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Parallel simulation of loosely timed SystemC/TLM programs: Challenges raised by an industrial case study
+     Author ['D Becker', 'M Moy', 'J Cornet']
+     Venue Electronics
+     Year 2016
+     Abstract It also contains material presented at DUHDe 2016 (Workshop on Design Automation for Understanding  tools are not publicly available, hence a fair comparison on case studies is not  claim, we need to provide measurements performed on a case study from STMicroelectronics
+     Url https://www.mdpi.com/2079-9292/5/2/22
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Dynamic modeling and simulation of leukocyte integrin activation through an electronic design automation framework
+     Author ['N Bombieri', 'R Distefano', 'G Scardoni', 'F Fummi']
+     Venue … Methods in Systems …
+     Year 2014
+     Abstract largely ad- dressed in the past decades in the electronic design automation (EDA) field  behavior, such as the periodic oscillations of ITGB2 in the leukocyte integrin activation case study  J., Simon, BP, Ravi, D.: Parallelizing SystemC kernel for fast hardware simulation on SMP
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12982-2_11
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title RTOS-centric hardware/software cosimulator for embedded system design
+     Author ['S Honda', 'T Wakabayashi', 'H Tomiyama']
+     Venue … of the 2nd IEEE/ACM/IFIP …
+     Year 2004
+     Abstract Our cosimulator supports two types of hardware simulation  We have also shown a case study using a JPEG decoder example to demonstrate the effectiveness of the cosimulator  of Design Automation Conference (DAC), 2000
+     Url https://dl.acm.org/doi/abs/10.1145/1016720.1016760
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Chilled Water System Automation
+     Author ['R Automation']
+     Venue NA
+     Year 2005
+     Abstract This document presents a case study based on the development of a control application using agent technology developed in Rockwell Automation, the Autonomous Cooperative System (ACS) agent platform [1]. The application presented involves intelligent distributed
+     Url http://grasia.fdi.ucm.es/aose08/specialtracks/assets/rockwell1.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Fast hardware-software co-simulation using VHDL models
+     Author ['B Tabbara', 'M Sgroi']
+     Venue Design, Automation …
+     Year 1999
+     Abstract hiding events such as instruction fetches or some memory accesses from the hardware simulation  has been used to validate the design of an industrial case study from the  Software Programs from CFSM Specifications” Proceedings of the Design Automation Conference, June
+     Url https://ieeexplore.ieee.org/abstract/document/761139/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Modeling standard for distributed control systems: IEC 61499 from industrial automation to aerospace
+     Author ['CC Insaurralde']
+     Venue 2016 IEEE/AIAA 35th Digital Avionics …
+     Year 2016
+     Abstract The rest of the paper is organized as follows. Section II recaps main concepts from DTCSs (automation and aerospace). Section III introduces the IEC 61499 Standard. Section IV describes details of the modeling and simulation scenario for the case study
+     Url https://ieeexplore.ieee.org/abstract/document/7777980/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Parallel simulation of mixed-abstraction SystemC models on GPUs and multicore CPUs
+     Author ['R Sinha', 'A Prakash', 'HD Patel']
+     Venue … Pacific Design Automation …
+     Year 2012
+     Abstract simulation. We exper- iment with synthetic benchmarks and a set-top box case study. I. INTRODUCTION SystemC  This helps in efficient partitioning of the SystemC designs. VI. CASE STUDY: MULTI-CHANNEL SET-TOP BOX We implement
+     Url https://ieeexplore.ieee.org/abstract/document/6164991/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title ProxSim: GPU-based simulation framework for cross-layer approximate DNN optimization
+     Author ['C De la Parra', 'A Guntoro']
+     Venue … , Automation & Test in …
+     Year 2020
+     Abstract using ProxSim, we report up to 11× savings in execution time, compared to a multi-thread CPU-based framework, and an accuracy recovery of up to 30% for three case studies of image  Stochastic hardware simulation  1194 Design, Automation And Test in Europe (DATE 2020
+     Url https://ieeexplore.ieee.org/abstract/document/9116476/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Genetic folding/programming toolbox: Analogue circuit design case study
+     Author ['OJ Ushie', 'MF Abbod', 'BE Usibe']
+     Venue NA
+     Year 2016
+     Abstract In the work, many constraints are introduced to the VHDL-AMS instructions and case studies are illustrated  Ogri J. Ushie et al.: Genetic Folding/Programming Toolbox: Analogue Circuit Design Case Study 51  Page 13. J. Automation & Systems Engineering 10-1 (2016): 40-64 52
+     Url https://bura.brunel.ac.uk/handle/2438/12573
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Direct system integration of hardware models–a case study
+     Author ['J Hiltscher', 'W Rehm']
+     Venue Sixth York Doctoral Symposium on Computer …
+     Year 2013
+     Abstract Our novel approach aims at limiting the overhead of hardware simulation  pp. 230–235. DATE'06, European Design and Automation Association, 3001 Leuven, Belgium, Belgium (2006) 13  pp. 73–76 (Nov 2010) Direct system integration of hardware models a case study 45
+     Url https://www.cs.york.ac.uk/yds/yds2013Proceedings/YDS_2013_Proceddings.pdf#page=48
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … on Energy, Automation …
+     Year 2011
+     Abstract TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  Results of simulation case studies that represent real-world power distribution  International Symposium on Power Electronics Electrical Drives Automation and Motion
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Co-simulation method for hardware/software evaluation using Xilinx system generator: a case study on image compression algorithms for capsule endoscopy
+     Author ['Q Al-Shebani', 'P Premaratne', 'PJ Vial']
+     Venue 2018 12th …
+     Year 2018
+     Abstract 6. The third subsystem of the hardware simulation design of the MCT method  As a case study, our evaluation method compares the hardware utilization, and the processing time resulting from utilizing  in Automation and Logistics (ICAL), 2010 IEEE International Conference on
+     Url https://ieeexplore.ieee.org/abstract/document/8631737/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title FPGA design methodology for DSP industrial applications-A case study of a three-phase positive-sequence detector
+     Author ['PSB Nascimento', 'FAS Neves']
+     Venue … 25th Symposium on …
+     Year 2012
+     Abstract detection of the fundamental- frequency positive-sequence (FFPS) component in three-phase electric signals is used, in this work, as a case study  PGA VHDL code with this code is compiled for hardware simulation and ementation are used for the ribed in the Section II and
+     Url https://ieeexplore.ieee.org/abstract/document/6344430/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Codesign of embedded systems: Status and trends
+     Author ['R Ernst']
+     Venue IEEE Design & Test of Computers
+     Year 1998
+     Abstract The cosimulation problem1 lies in coupling the different mod- els to make the hardware simulation sufficiently accurate  The main issue is the availability of a library containing processor and memory models provided by the electronics design automation (EDA) vendor or the
+     Url https://ieeexplore.ieee.org/abstract/document/679207/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Towards an Automatic Co-generator for Manycores' Architecture and Runtime: STHORM case-study
+     Author ['C Bechara', 'KB Chehida', 'F Thabet']
+     Venue Procedia Computer Science
+     Year 2015
+     Abstract step will be the generation of the RTL netlist for the overall manycore architecture from the IP-XACT model, and then follow the traditional hardware simulation and emulation flow with the corresponding EDA (Electronic Design Automation) tools  STHORM case-study
+     Url https://cyberleninka.org/article/n/1158803.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Interactive hardware-software partitioning and memory allocation based on data transfer profiling
+     Author ["M O'Nils", 'A Jantsch', 'A Hemani']
+     Venue … conference on Recent …
+     Year 1995
+     Abstract Net Based Self Organizing Scheduling Algorithm”, European Design Automation Conference, pp  Peeter Ellervee, Johnny “Oberg, and Ahmed Hemani, “A Case Study on Hardware  Validation Environment by Means of Software Execution, Hardware Simulation, and Emulation
+     Url https://www.researchgate.net/profile/Hannu_Tenhunen/publication/2395027_Interactive_Hardware-Software_Partitioning_and_Memory_Allocation_Based_on_Data_Transfer_Profiling/links/53e8a26c0cf2fb748724429f.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Software performance estimation in MPSoC design
+     Author ['M Oyamada', 'FR Wagner', 'M Bonaciu']
+     Venue … Design Automation …
+     Year 2007
+     Abstract They are integrated to the hardware simulation models, resulting in a single global simulation model  In this section, an MPEG4 encoder platform is used as case study to show the application of the proposed methodology  In: Design, Automation and Test in Europe, March 2001
+     Url https://ieeexplore.ieee.org/abstract/document/4195993/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A toolchain for UML-based modeling and simulation of networked embedded systems
+     Author ['E Ebeid', 'F Fummi', 'D Quaglia']
+     Venue 2013 UKSim 15th International …
+     Year 2013
+     Abstract The framework is explained on two different case studies related to wired/wireless network applications, one for  technology due to the wide range of applications from home automation, to safety  Regarding to the generation of hardware simulation mod- els from UML description
+     Url https://ieeexplore.ieee.org/abstract/document/6527446/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A case study of automated testing implementation in the automotive industry
+     Author ['D Ganea', 'R Bogdan', 'V Ancusa']
+     Venue 2013 IEEE 14th …
+     Year 2013
+     Abstract It replaces XML files manual programming, by offering an automation approach at this stage  Although the hardware simulation will have a lower accuracy than real testing on an embedded system  The present case study focuses on the module testing phase, part of a SiL testing
+     Url https://ieeexplore.ieee.org/abstract/document/6705243/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title PHEVs charging stations, communications, and control simulation in real time
+     Author ['L Herrera', 'R Murawski', 'F Guo', 'E Inoa']
+     Venue 2011 IEEE Vehicle …
+     Year 2011
+     Abstract power grid in order to further improve it in terms of efficiency, reliability, and automation  In section V, a case study is shown to demonstrate the capabilities of the current system  with OPNET that can bridge the OPNET network simulation with the hardware simulation described in
+     Url https://ieeexplore.ieee.org/abstract/document/6043167/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Space: a hardware/software systemc modeling platform including an rtos
+     Author ['J Chevalier', 'O Benny', 'M Rondonneau', 'G Bois']
+     Venue Languages for system …
+     Year 2004
+     Abstract 2.0 scheduler uses the same behavior for software simulation as for hardware simulation  to a hardware platform through automated code generation targeting a RTOS: A design case study. In Proceeding of Design, Automation and Test in Europe Conference and Exhibition
+     Url https://link.springer.com/chapter/10.1007/1-4020-7991-5_6
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Hardware-Software Co-Simulation
+     Author ['K Choi']
+     Venue NA
+     Year NA
+     Abstract Implemented using Unix socket • Hardware simulation process – VHDL simulator (Inspire) exercising a model of HW – Use foreign attribute (VHDL-93) • HW in VHDL + IPC in C • Enables simulation of HW communicating with SW Page 17. 3. Case Study (cont'd)
+     Url https://pdfs.semanticscholar.org/9bc3/aae0bba5e15e490f51fac08a3d8c919bfc7d.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Multi-core parallel simulation of system-level description languages
+     Author ['R Dömer', 'W Chen', 'X Han']
+     Venue … Design Automation …
+     Year 2011
+     Abstract Using two case studies on H.264 video decoding and JPEG encoding we have demonstrated the effectiveness  Distributed Simulation: A Case Study in Design and Verification of Distributed Programs  Parallelizing SystemC Kernel for Fast Hardware Simulation on SMP Machines
+     Url https://ieeexplore.ieee.org/abstract/document/5722205/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title An Industrial Case Study: Using CACC to Test Real-time Embedded Software1
+     Author ['J Guan', 'J Offutt']
+     Venue NA
+     Year 2003
+     Abstract a case study of CACC applied to safety-critical embedded software. Tests to satisfy the CACC criterion coverage found several significant faults that were not found by functional testing. It is unlikely that some of these faults could be detected with weaker test criteria. Automation
+     Url https://www.academia.edu/download/30711992/144-FA-2003.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Hardware Modeling in VHDL for Mixed Hardware Software System Level Co-simulation of Embedded Systems
+     Author ['B Tabbara', 'E Filippi', 'L Lavagno']
+     Venue NA
+     Year 1998
+     Abstract by hiding events such as instruction fetches or some memory accesses from the hardware simulation  Re-use in Embed- ded System Co-design: an Industrial Case Study" ISSS, Dec  9 |, Fast Hardware-Software Co-simulation Using VHDL Models" Design, Automation and Test
+     Url http://www.academia.edu/download/30711381/10.1.1.22.4984.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Validation in a component-based design flow for multicore SoCs
+     Author ['G Nicolescu', 'S Yoo', 'A Bouchhima']
+     Venue Proceedings of the 15th …
+     Year 2002
+     Abstract Section 5 gives a case study of applying our method to the design of an industrial SoC  4.2 Hardware Simulation with Software at Different Abstraction Levels We apply the wrapper architecture to all the possible combinations of different abstraction levels presented in Figure
+     Url https://dl.acm.org/doi/abs/10.1145/581199.581236
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A new approach for interfacing SystemC-AMS models with hardware-emulated platforms
+     Author ['H Tawfik', 'M Safar', 'M AbdelSalam']
+     Venue … & Systems (ICCES)
+     Year 2015
+     Abstract Those numbers has been collected while running the case study on a hardware emulator [11  verification of large ASICS”, in the proceedings of the Design Automation Conference, San  4] B. Schnaider, E. Yogev, “Software development in a hardware simulation environment” in
+     Url https://ieeexplore.ieee.org/abstract/document/7393025/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Collaborative Modeling and Simulation for Cyber-Physical Systems
+     Author ['PG Larsen', 'J Fitzgerald', 'J Woodcock']
+     Venue Trustworthy Cyber …
+     Year 2016
+     Abstract The case studies will be used to drive the production of the tools and  Membership of the association will allow future case study owners access to information, training  and Simulation for Cyber-Physical Systems■ 185 Design space exploration test automation Requirements HiL
+     Url https://books.google.com/books?hl=en&lr=&id=eScNDgAAQBAJ&oi=fnd&pg=PA177&dq=%22Automation%22+%22Case+Study%22+OR+%22Case+Studies%22+%22Hardware+simulation%22&ots=iGI54VHiQT&sig=6_3OhDnzeRVDboCnRKwH89zBQV8
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Device and method for the simulation of a development system
+     Author ['M Walenta', 'M Klöckl', 'M Krainz']
+     Venue US Patent 8,825,460
+     Year 2014
+     Abstract 26 may supply hardware simulation data 27 to the development system 1 via the interface 8. For this purpose the hardware simulator 26 may also be supplied with data from the test models 20, if necessary. In addition to the simulation data 22 for the automation device 4, the
+     Url https://patents.google.com/patent/US8825460B2/en
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title An industrial case study of structural testing applied to safety-critical embedded software
+     Author ['J Guan', 'J Offutt', 'P Ammann']
+     Venue Proceedings of the 2006 ACM/IEEE …
+     Year 2006
+     Abstract applied. More automation was employed and simulation was used to reduce human effort. Section  the tests. Section 4 presents the results from our case study and Sec- tion 5 summarizes our conclusions and suggests future work
+     Url https://dl.acm.org/doi/abs/10.1145/1159733.1159774
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Evaluation of trade-offs in the design of embedded systems via co-simulation
+     Author ['C Passerone', 'M Chiodo', 'W Gosti', 'L Lavagno']
+     Venue NA
+     Year 1996
+     Abstract One of the problems with this approach is that the relative clocks of software and hardware simulation are not synchronized, thus requiring the use of  In Proceedings of the Design Automation Conference, June 1992  Hardware/software co-design using Ptolemy – a case study
+     Url http://www.academia.edu/download/30711127/10.1.1.50.980.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Flexible energy-aware simulation of heterogenous wireless sensor networks
+     Author ['F Fummi', 'G Perbellini', 'D Quaglia']
+     Venue … , Automation & Test in …
+     Year 2009
+     Abstract In the case study of Section V the dynamic control of clock frequency will be the core of a power-saving policy  ISS; when an mterrupt amves, the value of program counter IS changed accordmgly to execute the correspondmg serVIce fOlltme Hardware simulation is implemented
+     Url https://ieeexplore.ieee.org/abstract/document/5090926/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Model-based automated validation techniques for automotive embedded systems
+     Author ['D Kum', 'J Son', 'S Lee', 'I Wilson', 'W Lee']
+     Venue NA
+     Year 2007
+     Abstract has been presented [9]. However, research on seamless test automation process based  Test Execution System, namely Target-Practice, which comprises target hardware, simulation command transmission  of the proposed process and techniques, a case study on automotive
+     Url https://www.sae.org/publications/technical-papers/content/2007-01-0503/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Simulation driven insertion of data prefetching instructions for early software-on-SoC optimization
+     Author ['PN Ntafam', 'E Paire', 'A Clouard']
+     Venue … Symposium on Rapid …
+     Year 2016
+     Abstract Finally, on our simple case study, we obtained an improvement of the overall performance of more than 25  of the 15th Asia South Pacific Design Automation Conference, ASP-DAC 2010, Taipei, Taiwan, January 18-21, 2010
+     Url https://ieeexplore.ieee.org/abstract/document/7909130/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title An Approach to Emulate and Validate the Effects of Single Event Upsets using the PREDICT FUTRE Hardware Integrated Framework.
+     Author ['S Moorthi']
+     Venue Defence Science Journal
+     Year 2020
+     Abstract Due to the advances in electronics design automation industry, worldwide, the integrated approach  A case study is carried out to evaluate the frameworks capability to emulate the  Fault is injected in the design at various levels ie, hardware, simulation and emulation
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=0011748X&AN=143446744&h=Uj4m6L2T47GODXZhZ2LrIAwsxN4bVFL9eRBcnPQDOZWCEfIfHUtdA36m00FGsZ7L4ZOD%2F1qduFkRR4c2AUiXZQ%3D%3D&crl=c
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A performance evaluation method for optimizing embedded applications
+     Author ['M Grunewald', 'JC Niemann']
+     Venue The 3rd IEEE …
+     Year 2003
+     Abstract The use of emulation compensates the time disadvantage of a complete hardware simulation  3. Case studies  Architecture-Level Power Esti- mation and Design Experiments. ACM Transactions on De- sign Automation of Electronics Systems, 6(1):50–66, 2001
+     Url https://ieeexplore.ieee.org/abstract/document/1212997/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Hardware-assisted simulation and evaluation of IP cores using FPGA-based rapid prototyping boards
+     Author ['R Siripokarpirom']
+     Venue Proceedings. 15th IEEE …
+     Year 2004
+     Abstract Preparing IP Cores for Hardware Simulation  We have demon- strated the functionality of a prototype implementation of our approach using a case study for which an AES encryp- tion core was  In Proceedings of Design Automation and Test in Europe, Paris 1998, pages 183-189
+     Url https://ieeexplore.ieee.org/abstract/document/1311102/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Virtual prototyping of heterogeneous automotive applications: matlab, SystemC, or both?
+     Author ['X Pan', 'C Zivkovic', 'C Grimm']
+     Venue … Asia and South Pacific Design Automation …
+     Year 2019
+     Abstract The case study compares the Matlab/Simulink and SystemC based approaches by an e  CCS CONCEPTS • Hardware → Simulation and emulation; • Software and its engineering → System modeling  19: 24th Asia and South Pacific Design Automation Conference (ASPDAC '19
+     Url https://dl.acm.org/doi/abs/10.1145/3287624.3287629
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Co-simulation and communication synthesis approach for intellectual properties based SoCs
+     Author ['M Marzougui', 'M Abid', 'A Baganne', 'R Tourki']
+     Venue Computers & Electrical …
+     Year 2004
+     Abstract The approach has been experimented and validated through a detailed case study concerning the verification and the integration of the discrete and direct wavelet transform (DDWT) IP in a mixed hardware/software architecture
+     Url https://www.sciencedirect.com/science/article/pii/S0045790604000199
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Approximating checkers for simulation acceleration
+     Author ['B Mammo', 'D Chatterjee', 'D Pidan']
+     Venue … Automation & Test in …
+     Year 2012
+     Abstract Among these, hardware simulation accelerators consist of large ar- rays of customized ASIC  VI. CASE STUDIES We conducted cases studies on two experimental de- signs used for  The state reduction, sampling, and signature techniques were investigated for this case study
+     Url https://ieeexplore.ieee.org/abstract/document/6176449/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Design and Development of a Programmable Logic Controller Using Atmel Controller and MATLAB Simulink
+     Author ['P Parikh', 'H Singh', 'SK Nadar']
+     Venue 3rd International Conference on …
+     Year 2016
+     Abstract The following figure shows the image of the real hardware simulation of a PWM controlled servo motor with a simple dual axis potentiometer as an analog sensor  2]. Gajjar B, Sheth S. Investigation of Automation Strategy and Its effect on Assembly Cost: A Case Study on Ball
+     Url https://www.academia.edu/download/51127148/74-78.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Modeling and dynamic control of compliant framed wheeled modular mobile robots
+     Author ['S Park', 'MA Minor']
+     Venue … Conference on Robotics and Automation …
+     Year 2004
+     Abstract Page 1. Pmdingr ~4th. 2004 IEEE Intemdonal C onhnnu on Robotics L Automation New Orloans. U - Aprll2004 Modeling and Dynamic Control of Compliant  These results are applied to a two-axle scont case study in order to demonstrate their implementation and performance
+     Url https://ieeexplore.ieee.org/abstract/document/1308884/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Sesame: Simulation of embedded system architectures for multi-level exploration
+     Author ['AW van Halderen', 'S Polstra', 'AD Pimentel']
+     Venue Proc. of the conference …
+     Year 2001
+     Abstract A major drawback of this type of co-simulation is its inflexibility: because an explicit distinction is made between software and hardware simulation, it must  In [17], some initial results from this case study are presented  of the Design Automation Conference, pages 439–440, 1994
+     Url https://www.academia.edu/download/45745050/Sesame_Simulation_of_Embedded_System_Arc20160518-25391-osn8tg.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title A methodology and tooling enabling application specific processor design
+     Author ['A Hoffmann', 'F Fiedler', 'A Nohl']
+     Venue … Conference on VLSI …
+     Year 2005
+     Abstract for the target processor. A case study demonstrates the design approach discussing the ap- plication specific instruction-set processor (ASIP) design for a Fast Fourier Transformation (FFT) algorithm. Several processor types
+     Url https://ieeexplore.ieee.org/abstract/document/1383308/
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Pyverilog: A python-based hardware design processing toolkit for verilog hdl
+     Author ['S Takamaeda-Yamazaki']
+     Venue International Symposium on Applied …
+     Year 2015
+     Abstract We showed a case study that uses Pyverilog as the fundamental back-end library. We have developed a frame- work for rapid prototyping by using Pyverilog  In: Proceedings of the 49th Annual Design Automation Conference, DAC 2012, pp. 1216- 1225
+     Url https://link.springer.com/chapter/10.1007/978-3-319-16214-0_42
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Codesign of a parallel architecture and an optimizing compiler backend: SIN rete processing as a case study
+     Author ['K ten Hagen', 'D Steinberg', 'H Meyr']
+     Venue … Automation for Embedded Systems
+     Year 1996
+     Abstract Design Automation for Embedded Systems, 1,147-176 (1996) 9 1996 Kluwer Academic Publishers, Boston  Nevertheless, it is a particular characteristic of this case study, that it belongs as well to  It has been implemented and used in several case studies eg [3], [9]. Cosimulation
+     Url https://link.springer.com/content/pdf/10.1007/BF00134686.pdf
+
+
+     Search term "Automation"+"Case+Study"+OR+"Case+Studies"+"Hardware+simulation"
+     Title Junior soccer simulation: providing all primary and secondary students access to educational robotics
+     Author ['FN Martins', 'IS Gomes']
+     Venue 2015 12th Latin American …
+     Year 2015
+     Abstract "NERA-A Center for Research on Educational Robotics and Automation." WEROB 2012-Workshop on Educational Robotics, 16th RoboCup International Symposium, Mexico City  "Learning Team Strategies: Soccer Case Studies." Machine Learning  "A case study on improving
+     Url https://ieeexplore.ieee.org/abstract/document/7402142/
+

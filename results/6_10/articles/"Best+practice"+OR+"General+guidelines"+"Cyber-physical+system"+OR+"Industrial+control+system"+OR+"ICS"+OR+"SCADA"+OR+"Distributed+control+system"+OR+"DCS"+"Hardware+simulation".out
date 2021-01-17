@@ -1,0 +1,91 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Realization of class–A chopper using dSPACE
+     Author ['A Jain', 'D Joshi']
+     Venue Procedia computer science
+     Year 2018
+     Abstract This paper aims to put up the results based on software as well as hardware simulation  Instead of using such a tedious circuit, best practice is to use a single switch instead  dSPACE output, bistable or monostable operation of 555 IC, PWM generation ICs (LM5045, SG3525
+     Url https://www.sciencedirect.com/science/article/pii/S1877050918307427
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Data centre infrastructure monitoring
+     Author ['N Meyer']
+     Venue NA
+     Year 2016
+     Abstract The best practice information was presented at the “7th European Workshop on HPC Centre  UGM 2040 • Desigo Inside • Johnson Controls Metasys • Siemens WinCC • SCADA PANORAMA • victor  To support the monitoring platform most DCs use additional IT systems: one up
+     Url https://prace-ri.eu/wp-content/uploads/WP226.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Best practice for caching of single-path code
+     Author ['M Schoeberl', 'B Cilku', 'D Prokesch']
+     Venue … Workshop on Worst …
+     Year 2017
+     Abstract For practical reasons, we did not use the long running benchmarks, as cycle accurate hardware simulation is time  2:10 Best Practice for Caching of Single-Path Code  Case Execution Time Analysis (WCET 2016), volume 55 of OpenAccess Series in Informat- ics (OASIcs), pages
+     Url https://drops.dagstuhl.de/opus/volltexte/2017/7305/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title System on Chip
+     Author ['W Badawy']
+     Venue System-on-chip for real-time applications
+     Year 2003
+     Abstract integration [8]. These guidelines provide the underlying methodology to establish a best practice IP reuse  and packaging address only digital logic while many of the new ICs have analog  is not sufficient due to deficient processor models and slow hardware simulation speeds
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-0351-4_1
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Integrating the HERMES spectrograph for the AAT
+     Author ['J Heijmans', 'M Asplund', 'S Barden']
+     Venue Ground-based and …
+     Year 2012
+     Abstract the ISO standard (ISO/IEC 15288 systems and software engineering – system life cycle processes) and the best practice INCOSE systems  The instrument control electronics is based on a distributed control system that uses the CANopen protocol running on the Controller Area
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8446/84460W/Integrating-the-HERMES-spectrograph-for-the-AAT/10.1117/12.925806.short
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Architecture-Centric Modeling, Analysis, and Verification of Cyber-Physical Systems
+     Author ['S Nakajima', 'JP Talpin', 'M Toyoshima', 'H Yu']
+     Venue NA
+     Year 2016
+     Abstract The term cyber-physical system (CPS) was introduced by Helen Gill at the NSF referring  Current best practice of building and then testing software-reliant mission and safety critical  The cornerstone of SimSoC is a library of hardware simulation modules, that include Instruction
+     Url https://shonan.nii.ac.jp/docs/5296fabd2d5262bb0fd4870004bc2ac0e46b3015.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Assessing Diagnostics for Fault Tolerant Software
+     Author ['J Napier']
+     Venue NA
+     Year 2001
+     Abstract Page 1. Assessing Diagnostics for Fault Tolerant Software John Napier A dissertation submitted to the University of Bristol in accordance with the requirements for the degree of Doctor of Philosophy in the Faculty of Engineering, Department of Computer Science. August 2001
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.5418&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Digital archaeology: Rescuing neglected and damaged data resources. A JISC/NPO study within the Electronic Libraries (eLib) Programme on the Preservation of …
+     Author ['S Ross', 'A Gow']
+     Venue NA
+     Year 1999
+     Abstract Page 1. Ross, S., and Gow, A. (1999) Digital archaeology: rescuing neglected and damaged data resources. A JISC/NPO study within the Electronic Libraries (eLib) Programme on the preservation of electronic materials. Project Report
+     Url https://eprints.gla.ac.uk/100304
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design Considerations for Building Credible Security Testbeds: A Systematic Study of Industrial Control System Use Cases
+     Author ['UD Ani', 'JM Watson', 'B Green', 'B Craggs']
+     Venue arXiv preprint arXiv …
+     Year 2019
+     Abstract Page 1. 1 Design Considerations for Building Credible Security Testbeds A Systematic Study of Industrial Control System Use Cases  Keywords used involved Boolean combinations of `ICS' OR `SCADA' AND `Security Testbeds' OR `Testbeds'
+     Url https://arxiv.org/abs/1911.01471
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title European white book on grid-connected storage
+     Author ['E Lemaire', 'N Martin', 'P Nørgård', 'E de Jong']
+     Venue … , Institution CEA INES …
+     Year 2011
+     Abstract t [s] 0.480 0.490 0.500 0.510 0.520 0.530 0.540 -0.40 -0.20 0.00 0.20 0.40 od bio ru iAo iBo iCo -0.20 -0.10 0.00 0.10 0.20 sie c i iAs iBs iCs Figure 1.12: Load and network currents - storage system used for load unbalance compensation Change in set active power in 0.5 s
+     Url http://bibing.us.es/proyectos/abreproy/70370/fichero/34.+European+White+Book+on+Grid-Connected+Storage.pdf
+

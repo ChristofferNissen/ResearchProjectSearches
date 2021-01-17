@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design of integrated SCADA systems in piston production manufacturing case study on the conveyor, the coolant, the hydraulic, and the alarm systems using PLC …
+     Author ['S Ardi', 'A Ponco', 'RA Latief']
+     Venue 2017 4th International Conference …
+     Year 2017
+     Abstract In the SCADA system there are 2 pieces of programming, namely programming for monitoring the state of the PLC which is connected  to control the PLC, where VB can directly control the output PLC and schedule can also enter the data into the PLC  TESTING AND ANALYSIS
+     Url https://ieeexplore.ieee.org/abstract/document/8257700/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Cybersecurity for industrial control systems: SCADA, DCS, PLC, HMI, and SIS
+     Author ['T Macaulay', 'BL Singer']
+     Venue NA
+     Year 2011
+     Abstract This book aspires to contribute to those discussions about ICS security  What Is an Industrial Control System? Process control system (PCS), distributed control system (DCS), and supervisory control and data acquisition (SCADA) are names frequently applied to the systems that
+     Url https://books.google.com/books?hl=en&lr=&id=pbRfsYWGNuwC&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22+OR+%22Testing%22&ots=tUcrNXLlNZ&sig=rQvTX0ScaopAJqqbjI4OkuVPcLM
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Experimental validation of PID based cascade control system through SCADA-PLC-OPC interface
+     Author ['A Lakshmi', 'B Sangeetha']
+     Venue 2012 International …
+     Year 2012
+     Abstract digital controller based cascade control system and its experimental validation through three different testing scenarios namely, control action through Supervisory Control and Data Acquisition (SCADA), control action using Programmable Logic Controller (PLC) and interfacing
+     Url https://ieeexplore.ieee.org/abstract/document/6158893/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Control of boiler operation using PLC–SCADA
+     Author ['KG Shankar']
+     Venue Proceedings of the International MultiConference of …
+     Year 2008
+     Abstract In this, water should be maintained at least at 50%. For sensing water level we use PID controller in AB PLC  [7]. Hillebrand, Cary, Expert Three, Technical expert specializing in the planning and design of SCADA based and Distributed control system
+     Url https://www.idc-online.com/technical_references/pdfs/electrical_engineering/Control_of_Boiler_Operation_using_PLC%20-%20SCADA.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploring the use of plc debugging tools for digital forensic investigations on scada systems
+     Author ['T Wu', 'JRC Nurse']
+     Venue Journal of Digital Forensics, Security and …
+     Year 2015
+     Abstract The purpose of testing forensic tools is to measure validity of the results, to under- stand the tool's  number of fully developed forensic tools for SCADA and crucially no specific framework to test a SCADA forensic tools. The aim of our ex- periment is to test PLC debuggers, in this
+     Url http://commons.erau.edu/cgi/viewcontent.cgi?article=1213&context=jdfsl
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract cybersecurity standards for control systems [35] and the NIST Guide to Industrial Control System (ICS) Security [46] to improve SCADA security. Cardenas et al  data optimally. To the second point, although all industrial control system users and  2.1 SCADA and PLC Overview
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC or DCS: selection and trends
+     Author ['J La Fauci']
+     Venue ISA transactions
+     Year 1997
+     Abstract AGV CPU DCS GM i/o ISA KT LIMS MES MRPII OEM OLE PC PLC QAP SCADA Automatic guided vehicle Central processing unit Distributed control system General motors Input/output instrument Society of America Kepner-Tregoe Laboratory information management sys
+     Url https://www.sciencedirect.com/science/article/pii/S0019057897000050
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Distinguishing internet-facing ICS devices using PLC programming information
+     Author ['PM Williams']
+     Venue NA
+     Year 2014
+     Abstract CIP Common Industry Protocol ICS-CERT Industrial Control System - Computer Emergency Response Team  2.1.2 ICS Components. ICSs are typically categorized as SCADA or Distributed Control Systems (DCS) based on their topology and purpose
+     Url https://scholar.afit.edu/etd/524/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SCADA system for oil refinery control
+     Author ['I Morsi', 'LM El-Din']
+     Venue Measurement
+     Year 2014
+     Abstract Oil and gas refineries generally rely on a Distributed Control System (DCS) to provide all process  The SCADA screens are more realistic than the DCS screens for the  Google Scholar. [3] B. HumoreanuWastewater treatment plant SCADA application. IEEE Automation Quality and
+     Url https://www.sciencedirect.com/science/article/pii/S0263224113003916
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automation of tank level using Plc and establishment of Hmi by Scada
+     Author ['R Das', 'S Dutta', 'A Sarkar']
+     Venue IOSR Journal of Electrical …
+     Year 2013
+     Abstract Reference Manual, (edition-December 2012) [9]. Axel Daniels & Wayne Salter, What is SCADA, (CERN-CNL-2000-003 Vol. XXXV, issue no 3.) Journal Papers: [3]. JCChan, HLTDy, AHFernando, RLTiu, PJGViernes, “Design, Fabrication, and Testing of a PLC Training Module
+     Url https://www.researchgate.net/profile/Rishabh_Das2/publication/271258009_Automation_of_Tank_Level_Using_Plc_and_Establishment_of_Hmi_by_Scada/links/59304042a6fdcc89e78439e9/Automation-of-Tank-Level-Using-Plc-and-Establishment-of-Hmi-by-Scada.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Migration of a PLC controller to an IEC 61499 compliant distributed control system: Hands-on experiences
+     Author ['T Hussain', 'G Frey']
+     Venue Proceedings of the 2005 IEEE International …
+     Year 2005
+     Abstract B. Development of the SIFBs The distributed control system for controlling the didactic plant needed a number of communicating  of the Control Algorithm The most advantageous aspect of the migration from SIPN-based PLC program to an IEC 61499 compliant DCS was that
+     Url https://ieeexplore.ieee.org/abstract/document/1570730/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract based on PLCs (Programmable Logic Controllers) using the UNICOS (UNified Industrial COntrol System) framework [8  (2) Automatic generation: UNICOS automatically generates all the PLC structure with the links between objects and the communication with SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract mechanisms for testing PLC programs developed within the UNICOS (UNified Industrial COntrol System) framework  PLC software development lacks of modern software engineering best practices such as  Automated testing via SCADA is feasible and in certain cases allows to
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SCADA–A critical situation
+     Author ['K Munro']
+     Venue Network Security
+     Year 2008
+     Abstract such as using separate PCs to perform office and PLC-related admin. Ensure you review procedures and policies on a regular basis and check they are being adhered to. And gain advice from specialists in mitigating security risks who are truly experienced at SCADA testing
+     Url https://www.sciencedirect.com/science/article/pii/S1353485808700059
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hybrid method for automatically filling of the chemical liquid into bottles using PLC & SCADA
+     Author ['J Dhiman', 'D Kumar']
+     Venue … Journal of Engineering Research and General …
+     Year 2014
+     Abstract The objective of this paper is to design, develop and testing of the “Real time implementation of PLC, SCADA system for ratio control based bottle filling plant”  The advantages of the PLC / DCS SCADA system are: • The computer can record and store a very large amount of data
+     Url http://akgec.ac.in/wp-content/uploads/2019/06/AKG_Int_Journal_Tech_Vol_6_no_1_3.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA-based applications for software radio
+     Author ['A Rudra']
+     Venue RF Design Magazine
+     Year 2004
+     Abstract Other than the obvious use in signal intelligence (SIGINT) and EW scenarios, this functionality has widespread use in RF testing and spectrum analysis applications. A COTS module like the ICS-554 with high-speed ADC and large user FPGA is an ideal platform for a real time
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.421.5123&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Configurable PLC and SCADA-based control system
+     Author ['MW Hylden', 'BA Alexander', 'CA Wichman']
+     Venue US Patent …
+     Year 2004
+     Abstract G05B2219/32—Operator till task planning; G05B2219/32404—Scada supervisory control and  G05B2219/32413—Pc generates control strategy, download in plc to monitor  FUNCTIONAL ELEMENTS OF SUCH SYSTEMS; MONITORING OR TESTING ARRANGEMENTS FOR
+     Url https://patents.google.com/patent/US6799080B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title ICS/SCADA security analysis of a beckhoff CX5020 PLC
+     Author ['G Bonney', 'H Höfken', 'B Paffen']
+     Venue … on Information Systems …
+     Year 2015
+     Abstract CX5020 PLC and shows ways to achieve rights to control the PLC program and  they demonstrate that switching to standard platforms brings hidden features and encapsulating SCADA protocols into  IP might not always be a good idea – underlining that securing ICS systems is
+     Url https://ieeexplore.ieee.org/abstract/document/7509940/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Three-layer PLC/SCADA system architecture in process automation and data monitoring
+     Author ['M Endi', 'YZ Elhalwagy']
+     Venue 2010 the 2nd international …
+     Year 2010
+     Abstract Keywords- SCADA; DCS; RTU; LabView; SCADA architecture; Multilayer SCADA Network  [4] Lian Chen, “A framework of a web-based distributed control system”, The university  Wright, GordonClarke, Deon Reynders, Steve Mackay , “Practical Modern SCADA Protocols: DNP3
+     Url https://ieeexplore.ieee.org/abstract/document/5451799/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards a low-cost SCADA test bed: An open-source platform for hardware-in-the-loop simulation
+     Author ['N Wertzberger', 'C Glatter', 'W Mahoney']
+     Venue Proceedings of the …
+     Year 2011
+     Abstract We expect our research and development outcomes to be offered as a fully open-source option for HIL simulation. Index Terms -- Hardware in the Loop, PLC Testing, Open Source, Critical Infrastructure, SCADA Simulation 1. Introduction
+     Url http://world-comp.org/p2011/SAM5112.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Peach improvement on profinet-DCP for industrial control system vulnerability detection
+     Author ['D Zhang', 'J Wang', 'H Zhang']
+     Venue 2015 2nd International Conference …
+     Year 2015
+     Abstract Regarding the importance of industrial control system (ICS), the absence of security vulnerability  novel Peach improvement on Profinet-DCP for industrial control system vulnerability detection  Karnouskos, Stuxnet worm impact on industrial cyber-physical system security, Annual
+     Url https://www.atlantis-press.com/proceedings/icecee-15/24790
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Development of an automatic subsea blowout preventer stack control system using PLC based SCADA
+     Author ['B Cai', 'Y Liu', 'Z Liu', 'F Wang', 'X Tian', 'Y Zhang']
+     Venue ISA transactions
+     Year 2012
+     Abstract However, most of the SCADA systems described above are non-redundant, which cannot provide high reliability  based on the chip-level processors, such as Field Programmable Gate Array (FPGA) [23], [24  SCM) [25], [26], but not the system-level processors, such as PLC or PC
+     Url https://www.sciencedirect.com/science/article/pii/S0019057811000863
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Online testing approach for very deep-submicron ICs
+     Author ['M Favalli', 'C Metra']
+     Venue IEEE Design & Test of Computers
+     Year 2002
+     Abstract 1998, pp. 7-20. 4. M. Favalli et al., “Novel Design for Testability Schemes for CMOS ICs,” IEEE J. Solid State Cir- cuit, vol. 25, no. 5, Oct  Her research interests include fault tolerance, online testing, self-check- ing circuit design, fault diagnosis, fault modeling, and FPGA testing
+     Url https://ieeexplore.ieee.org/abstract/document/990438/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Applying in education an FPGA-based methodology to prototype ASIC soft cores and test ICs
+     Author ['CRW Reinbrecht', 'JL Da Silva']
+     Venue 2012 VIII Southern …
+     Year 2012
+     Abstract uses a thorough verification process of an ASIC flow and allows testing manufactured ICs in the same environment in which they have been designed, without any changes to this environment. III. METHODOLOGY A Traditional design methodology to develop an FPGA design is
+     Url https://ieeexplore.ieee.org/abstract/document/6211803/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC Based Real Time Process Control Using SCADA and MATLAB
+     Author ['KN Bagal', 'CB Kadu', 'BJ Parvat']
+     Venue … Control and Automation …
+     Year 2018
+     Abstract like Proportional Integral Derivative (PID) controllers, Programmable Logic Controllers (PLCs), Distributed Control system (DCS), Supervisory Control and  The industrial automation equipment such as PLC, SCADA, DCS or PAS does not allow online testing of changes
+     Url https://ieeexplore.ieee.org/abstract/document/8697491/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Micro-granular delay testing of configurable ICs
+     Author ['B Fox']
+     Venue US Patent 8,072,234
+     Year 2011
+     Abstract US8072234B2 - Micro-granular delay testing of configurable ICs - Google Patents. Micro-granular delay testing of configurable ICs. Download PDF Info. Publication number US8072234B2. US8072234B2 US12/785,484 US78548410A
+     Url https://patents.google.com/patent/US8072234B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title … control and data acquisition (scada) systems, distributed control systems (dcs), and other control system configurations such as programmable logic controllers (plc)
+     Author ['KA Stouffer', 'JA Falco', 'KA Scarfone']
+     Venue NA
+     Year 2011
+     Abstract 2. Overview of Industrial Control Systems Industrial control system (ICS) is a general term that encompasses several types of control systems, including supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and other
+     Url https://dl.acm.org/doi/pdf/10.5555/2206293
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Supervision of control valve characteristics using PLC and creation of HMI by SCADA
+     Author ['S Dutta', 'A Sarkar', 'K Samanta', 'R Das']
+     Venue 2014 First International …
+     Year 2014
+     Abstract [3] JC Chan, HLT Dy, AH Fernando, RL Tiu, PJG Viernes, “Design, Fabrication, and Testing of a  Application of Centralized PLC Automation Control in Painting Line of Steel Plant  [18] Axel Daniels & Wayne Salter, What is SCADA, CERN-CNL-2000-003 Vol. XXXV, issue no
+     Url https://ieeexplore.ieee.org/abstract/document/6808025/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Configurable load emulation using FPGA and power amplifiers for automotive power ICs
+     Author ['M Harrant', 'T Nirmaier', 'C Grimm', 'G Pelz']
+     Venue Models, Methods, and Tools for …
+     Year 2014
+     Abstract in-the-Loop simulation platforms [3, 4]. These platforms are almost used for testing integration of  Hardware concept for closed-loop load emulation for automotive power ICs  7.1) is running on the FPGA and calculating instantly the corresponding current values according to the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-01418-0_7
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Development of a novel SCADA system for laboratory testing
+     Author ['M Patel', 'GR Cole', 'TL Pryor', 'NA Wilmot']
+     Venue ISA transactions
+     Year 2004
+     Abstract Page 1. Development of a novel SCADA system for laboratory testing M. Patel, a,* GR Cole, b TL Pryor, b NA Wilmot a  Keywords: SCADA; RESLab; LabVIEW DSC module; Renewable energy systems testing 1. Introduction 1.1. The SCADA system
+     Url https://www.sciencedirect.com/science/article/pii/S0019057807601621
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SCADA-SST: a SCADA security testbed
+     Author ['A Ghaleb', 'S Zhioua', 'A Almulhem']
+     Venue 2016 World Congress on …
+     Year 2016
+     Abstract simulation environment is to allow external 2Data stores and registers are commonly used in industrial control system devices to  Any delay in sending and/or processing information from/to the sensors and the PLC may lead to serious disturbance in all the SCADA system
+     Url https://ieeexplore.ieee.org/abstract/document/7882610/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Challenges and emerging solutions in testing TSV-based 2 1 over 2D-and 3D-stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2012 Design, Automation & Test in Europe …
+     Year 2012
+     Abstract 21 2 D- and 3D-SICs, a disintegrated production flow is much more likely than it was for conventional (2D) ICs, especially for  ogy Delivers Breakthrough FPGA Capacity, Bandwidth, and  Post-Bond Testing of 2.5D-SICs and 3D-SICs Containing a Pas- sive Silicon Interposer Base
+     Url https://ieeexplore.ieee.org/abstract/document/6176689/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Detecting anomalous behavior of PLC using semi-supervised machine learning
+     Author ['K Yau', 'KP Chow', 'SM Yiu']
+     Venue 2017 IEEE Conference on …
+     Year 2017
+     Abstract I. INTRODUCTION Industrial Control System (ICS) system is used to monitor and control industrial and  behavior by applying semi-supervised algorithm on various PLC applications in ICS  Obermeier and Martin Naedele, Golen G. Richard III: SCADA System: Challenges for
+     Url https://ieeexplore.ieee.org/abstract/document/8228713/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SCADA & PLC vulnerabilities in correctional facilities
+     Author ['T Newman', 'T Rad', 'LLC ELCnetworks']
+     Venue white …
+     Year 2011
+     Abstract practical for an ICS network  and SCADA vulnerabilities in correctional facilities, but in any high-security location that  INDUSTRIAL CONTROL SYSTEM CYBER SECURITY: QUESTIONS AND ANSWERS RELEVANT TO NUCLEAR FACILITIES, SAFEGUARDS AND SECURITY
+     Url https://wiki.securityweekly.com/images/PLC-White-Paper_Newman_Rad_Strauchs_July22_2011.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FPGA implementation of an LFSR based pseudorandom pattern generator for mems testing
+     Author ['MF Islam', 'MAM Ali', 'BY Majlis']
+     Venue International Journal of Computer …
+     Year 2013
+     Abstract Linear feedback shift resister (LFSR) has become one of the central elements used in testing and self testing of contemporary complex electronic systems like processors, controllers and integrated circuits (ICs). This paper presents the FPGA implementation of an LFSR based
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.5413&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Monitoring and control of PLC based motion control systems via device-net
+     Author ['M Fatih', 'MR Haboğlu', 'H Yanmaz']
+     Venue 2014 16th International …
+     Year 2014
+     Abstract The connection between SCADA and PLC is obtained by using Device-Net web protocol. The velocity and position of the motion control system are monitored with real time animation on the screen. It is observed after the testing of the designed system that the position and
+     Url https://ieeexplore.ieee.org/abstract/document/6980632/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design of High Speed, Reconfigurable Multiple ICs Tester using FPGA Platform
+     Author ['B Rabakavi', 'S Siddamal']
+     Venue 2018 International Conference on …
+     Year 2018
+     Abstract By considering the advantage of FPGA features, there is need for tester or ATE for testing ICs in small scale and medium scale applications which provide testing of variety ICs with high speed, low cost and low power and multiple IC testing
+     Url https://ieeexplore.ieee.org/abstract/document/9001588/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An efficient FPGA random number generator using LFSRs and cellular automata
+     Author ['JC Cerda', 'CD Martinez', 'JM Comer']
+     Venue 2012 IEEE 55th …
+     Year 2012
+     Abstract physical layout, CA can be compactly implemented on both Field Programmable Gate Arrays (FPGAs) and ICs  The associated FPGA resource utilization was provided  Further testing of configurations that produce 1, 2, 4, and 8 bit outputs per clock cycle revealed designs that
+     Url https://ieeexplore.ieee.org/abstract/document/6292169/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Local laser irradiation technique for SEE testing of ICs
+     Author ['AI Chumakov', 'AA Pechenkin']
+     Venue 2011 12th European …
+     Year 2011
+     Abstract laser spot diameter in two typical areas of IC XC1765 (configuration PROM for FPGA) are shown in Fig. 2. The value Jo is determined from the model for d = 0. Local Laser Irradiation Technique for SEE Testing of ICs Alexander
+     Url https://ieeexplore.ieee.org/abstract/document/6131420/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Plc monitoring and protection for scada framework
+     Author ['A AlShemeili', 'CY Yeun', 'J Baek']
+     Venue Advanced Multimedia and Ubiquitous …
+     Year 2016
+     Abstract Also we don't have a complete SCADA architecture to conduct a full PLC analysis within an operating SCADA environment. The following will be used to assess the security of Siemens PLC: Wireshark. Metasploit [15]: Open source penetration testing and security assessment
+     Url https://link.springer.com/chapter/10.1007/978-3-662-47895-0_33
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Micro-granular delay testing of configurable ICs
+     Author ['B Fox']
+     Venue US Patent 8,847,622
+     Year 2014
+     Abstract US8847622B2 - Micro-granular delay testing of configurable ICs - Google Patents. Micro-granular delay testing of configurable ICs. Download PDF Info. Publication number US8847622B2. US8847622B2 US13/291,095 US201113291095A
+     Url https://patents.google.com/patent/US8847622B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Accurate modeling of Modbus/TCP for intrusion detection in SCADA systems
+     Author ['N Goldenberg', 'A Wool']
+     Venue International Journal of Critical Infrastructure …
+     Year 2013
+     Abstract The testing used more than 120 h of live traffic collected in two sessions several months apart  Moreover, the system helped identify a PLC that was configured incorrectly  as Stuxnet [3] has emphasized the need for strong and reliable security mechanisms for SCADA systems
+     Url https://www.sciencedirect.com/science/article/pii/S1874548213000243
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Network security analysis SCADA system automation on industrial process
+     Author ['H Hilal', 'A Nangim']
+     Venue 2017 International Conference on …
+     Year 2017
+     Abstract The Trojan software includes the distribution of original software or updates from the vendor's Industrial Control System (ICS) website  The research design outline uses a PLC, router and computer connected to a SCADA control network
+     Url https://ieeexplore.ieee.org/abstract/document/8272569/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Stuxnet worm impact on industrial cyber-physical system security
+     Author ['S Karnouskos']
+     Venue IECON 2011-37th Annual Conference of the …
+     Year 2011
+     Abstract on the security as a process [29] by looking holistically the emergent cyber-physical system of systems  Z. Vale, H. Morais, M. Silva, and C. Ramos, “Towards a future scada,” in Power  Stouffer, J. Falco, and K. Scarfone, “Guide to industrial control systems (ics) security,” National
+     Url https://ieeexplore.ieee.org/abstract/document/6120048/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Guide to industrial control systems (ICS) security
+     Author ['K Stouffer', 'J Falco', 'K Scarfone']
+     Venue NIST special publication
+     Year 2011
+     Abstract Department of Homeland Security, the Department of Homeland Security Industrial Control System Joint Working  is to provide guidance for securing industrial control systems (ICS), including supervisory control and data acquisition (SCADA) systems, distributed
+     Url http://www.gocs.com.de/pages/fachberichte/archiv/164-sp800_82_r2_draft.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Design of SCADA for Protection System of Uncoiled DC Motor's Temperature using PLC ABB AC 800PEC Based on Wonderware Intouch
+     Author ['JT Putra', 'A Diantoro', 'UY Oktiawati']
+     Venue IOP Conference …
+     Year 2020
+     Abstract Fast Stop Signal will be forwarded to DC Drive ABB DCS 800 through AA11 controller  SCADA is an industrial control system that help operator and engineer to monitoring and control the  4.4. Data Acquisition Program Data acquisition is a part of SCADA that have been playing
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/722/1/012031/meta
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Validation of ICS Vulnerability Related to TCP/IP Protocol Implementation in Allen-Bradley Compact Logix PLC Controller
+     Author ['J Pavesi', 'T Villegas', 'A Perepechko', 'E Aguirre']
+     Venue … Congress of Telematics …
+     Year 2019
+     Abstract Keywords: ICS 4 PLC 4 TCP/IP 4 Security 4 Vulnerability 4 Exploit 1 Introduction  [12]. Automation components of ICS include sensors, actuators, PLCs and SCADA systems, among others components [8]. New ICS vulnerabilities are discovered every
+     Url https://link.springer.com/chapter/10.1007/978-3-030-33229-7_30
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Case study: Revised engineering and testing practices resulting from migration to IEC 61850
+     Author ['H Fischer', 'J Gilbert', 'G Morton']
+     Venue Proceedings of the …
+     Year 2008
+     Abstract Maintain “look and feel” of operator interfaces and testing facilities (minimize impact to field personnel) ● Identify and mitigate risks Page 3  Windows PC Backup HMI PLC-Based Tap Changer Under Load (TCUL) PLC-Based SCADA To Other Bay PLCs Same as A
+     Url http://www.zonaeletrica.com.br/downloads/ctee/simpase2009/minicurso1/Part%2007%20PP&L%20Revised%20Engineering_For%20Test.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title OPC-driven Data Exchange between MATLAB and PLC-controlled System
+     Author ['S Persin', 'B Tovornik', 'N Muskinja']
+     Venue International Journal of Engineering …
+     Year 2003
+     Abstract PLC and SCADA, is unsuitable for performing such data processing. Instead, Matlab would provide much better results [6] if only it were possible to feed it with real-time data from the manufacturing process. By applying this technology a wide spectrum of possibilities for testing
+     Url https://www.ijee.ie/articles/Vol19-4/IJEE1352.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title On the comparision of various wind-turbine load control systems for maximum power tracking using PLC—SCADA
+     Author ['ZS Al Shattle']
+     Venue … Conference on Intelligent …
+     Year 2017
+     Abstract There are many papers that discuss different techniques to maximize the efficiency even further, for example using the PLC with a SCADA system using  However, our initial testing has showed the method being feasible and easier to maintain and fix compared to the other
+     Url https://ieeexplore.ieee.org/abstract/document/8389322/
+

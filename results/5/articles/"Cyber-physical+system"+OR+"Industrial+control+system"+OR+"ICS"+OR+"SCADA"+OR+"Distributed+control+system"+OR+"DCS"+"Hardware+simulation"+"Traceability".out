@@ -1,0 +1,361 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title An entirely model-based framework for hardware design and simulation
+     Author ['S Taha', 'A Radermacher', 'S Gérard']
+     Venue Distributed, Parallel and Biologically …
+     Year 2010
+     Abstract and communicate intents, but because of the manual implementation, there were no traceability and no  engine is to use HRM/UML as a common interface to hardware simulation tools  To parametrize the Sim- ics components, we have developed indeed a method that checks
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15234-4_5
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Challenges from research to deployment of industrial distributed control systems
+     Author ['N Ericsson', 'T Lennvall', 'J Åkerberg']
+     Venue 2016 IEEE 14th …
+     Year 2016
+     Abstract All in all, debugging distributed time sensitive industrial DCS is extremely complicated  Distributed control system consist of many different parts collaborating on different levels over  Hardware simulation could aid in selecting pro- cessing architecture and communication medium
+     Url https://ieeexplore.ieee.org/abstract/document/7819136/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract Inadequate and non-automated traceability. • Lack of automatic testing  PLDs have particular advantages over microprocessor-based systems in terms of processing power, I/O capacity, reduced footprint and a reduction in number of ICs on the circuit board. •
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Systems and methods for generating hardware description code
+     Author ['SH Tiong', 'ASH Lim']
+     Venue US Patent 6,539,520
+     Year 2003
+     Abstract test vectors, patterns or sequences; G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment. G—PHYSICS; G06—COMPUTING; CALCULATING
+     Url https://patents.google.com/patent/US6539520B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Hardware description interface for a high-level modeling system
+     Author ['H Ma', 'J Ou']
+     Venue US Patent 8,079,013
+     Year 2011
+     Abstract FIELD OF THE INVENTION The embodiments disclosed herein relate to high-level modeling systems for development of circuit designs on integrated circuit devices (ICs)  Some IP cores include an optimally floorplanned layout targeted to a specific family of ICs
+     Url https://patents.google.com/patent/US8079013B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Graphical development and deployment of parallel floating-point math functionality on a system with heterogeneous hardware components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2016
+     Abstract In particular, graphical programming tools are being used for test and measurement, data acquisition, process control, man machine interface (MMI), and supervisory control and data acquisition (SCADA) applications, among others
+     Url https://patents.google.com/patent/US9235395B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with  This research is done in collaboration with STMicroelectron- ics, and is centered on the SystemC/TLM technology for System
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Model-driven toolset for embedded reconfigurable cores: Flexible prototyping and software-like debugging
+     Author ['L Lagadec', 'C Teodorov', 'JC Le Lann', 'D Picard']
+     Venue Science of Computer …
+     Year 2014
+     Abstract embedded system that contains both hardware execution (through application-specific ICs 1 ) and  To prevent performance degradation the traceability is only activated on-demand  methods for hardware design verification are based on software or hardware simulation with RTL
+     Url https://www.sciencedirect.com/science/article/pii/S0167642314000823
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Simulators and emulators for WSNs
+     Author ['HMA Fahmy']
+     Venue Wireless sensor networks
+     Year 2016
+     Abstract In this chapter an in depth study of simulators and emulators has been presented, with care accorded to their features, implementation and use. Since emulators are hardware dependent, selecting one...
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0412-4_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract 184 Baseline Traceability  our utmost gratitude to all those people who have taken the time to help us further our understanding and application of design assurance in the realm of safety critical system and electron- ics development
+     Url https://books.google.com/books?hl=en&lr=&id=ZQMvDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Traceability%22&ots=Dqra5ICfMJ&sig=kZTfWMlrXUkAXgW3xGFOWUhIbXg
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Agile Systems Integration Process
+     Author ['JD Winningham', 'DJ Coe']
+     Venue Proceedings of the …
+     Year 2015
+     Abstract Thus complex missile systems may have started with some legacy hardware, simulation models of  first present a description of the senior software studio course, the cyber-physical system utilized during  to retain some elements of a Waterfall process such as traceability and test
+     Url http://search.proquest.com/openview/f4c2a3fdd27bff8cc92d2df637055dd0/1?pq-origsite=gscholar&cbl=1976352
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Development and Deployment of Parallel Floating-Point Math Functionality on a System with Heterogeneous Hardware Components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom']
+     Venue US Patent App. 14 …
+     Year 2014
+     Abstract In particular, graphical programming tools are being used for test and measurement, data acquisition, process control, man machine interface (MMI), and supervisory control and data acquisition (SCADA) applications, among others
+     Url https://patents.google.com/patent/US20140359590A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title ARM processor modeling at a cycle accurate level in systemC
+     Author ['H Sun']
+     Venue NA
+     Year 2003
+     Abstract concurrent processes and offer constructs to describe inter-process signal transfer. Iwo hardware simulation languages have become standard design entry tools for simulation and synthesis-Verilog [34] and VHDL [33]. While the results are very accurate the speed
+     Url https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/14505/Sun_Hongmei_2003_memoire.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Simulation and VLSI implementation of digital circuits
+     Author ['A Kansal']
+     Venue NA
+     Year 2011
+     Abstract decades, mainly due to the rapid advances in large-scale integration technologies. With the advancement in VLSI [1], the use of integrated circuits (ICs) [2] has increased in almost every sphere of life. As the IT sector is the fastest
+     Url http://search.proquest.com/openview/be4dee719e365434dc85b9ab9cdce887/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Capturing assertions from natural language descriptions
+     Author ['IG Harris']
+     Venue 2013 1st International Workshop on Natural …
+     Year 2013
+     Abstract of Computer Science University of California Irvine, USA harris@ics.uci.edu  An assertion is a program invariant which is evaluated during hardware simulation to perform  have been addressed include concern location, aspect mining [10], traceability, artifact summarization [2
+     Url https://ieeexplore.ieee.org/abstract/document/6611716/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Digital data processing system dynamic loading analysis
+     Author ['JJ Lagas', 'JJ Peterka', 'AE Tucker']
+     Venue NA
+     Year 1976
+     Abstract 5-39 5.2.3 Test Design . . . . . 5-40 5.2.3.1 Model Generation . . . . . 5-40 -^i 5.2.3.2 Hardware Simulation . . . . . 5-40 Processors . . . . . 5-41 Memories
+     Url https://ntrs.nasa.gov/search.jsp?R=19760016771
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA DISSERTATION Approved for public release; distribution is unlimited A SYSTEMATIC SOFTWARE, FIRMWARE, AND HARDWARE CODESIGN METHODOLOGY FOR DIGITAL SIGNAL PROCESSING by
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Graphical development and deployment of parallel floating-point math functionality on a system with heterogeneous hardware components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2018
+     Abstract In particular, graphical programming tools are being used for test and measurement, data acquisition, process control, man machine interface (MMI), and supervisory control and data acquisition (SCADA) applications, among others
+     Url https://patents.google.com/patent/US9904523B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Cryogenic current comparators for larger beamlines
+     Author ['P Seidel', 'V Tympel', 'R Neubert', 'J Golm']
+     Venue IEEE Transactions …
+     Year 2018
+     Abstract Germany, and also with the Institute of Optics and Quantum Electron- ics, Friedrich Schiller  moreover include the possibility to calibrate the electrical cur- rent with traceability to national  In a hardware simulation - a measurement performed on a core with reduced diameter but
+     Url https://ieeexplore.ieee.org/abstract/document/8315482/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Initial flight qualification and operational maintenance of X-29A flight software
+     Author ['M EARLS', 'J SITZ']
+     Venue Guidance, Navigation and Control Conference
+     Year 1989
+     Abstract Operational maintenance top- ics included changes in organizational responsibility, software development, configuration management and other software assurance topics, time-saving parallel development and test activities, and the importance of a high-fidelity simulation at
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1989-3596
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Problems of instrumental support for the development of distributed embedded real-time systems
+     Author ['AG Bakhmurov', 'RL Smelyansky']
+     Venue Programming and Computer Software
+     Year 2013
+     Abstract of an important and widespread class of Auto mated CSs for technological processes (SCADA sys tems [3  The SCADE envi ronment has no tools for hardware simulation  in the Laboratory of Computing Systems of the Faculty of Computational Mathemat ics and Cybernetics of
+     Url https://link.springer.com/article/10.1134/S0361768813050022
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Generation of Verification Artifacts from Natural Language Descriptions
+     Author ['IG Harris', 'CB Harris']
+     Venue Natural Language Processing for Electronic Design …
+     Year 2020
+     Abstract small number of components to the automated design of ICs containing billions  is a program invariant which is evaluated automatically during hardware simulation to perform  have been addressed include concern location, aspect mining [15], traceability, artifact summarization
+     Url https://link.springer.com/chapter/10.1007/978-3-030-52273-5_3
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Semiconductor development in Ireland: reducing'development stress' caused by digital hardware and embedded software team interaction
+     Author ['IJ Griffin']
+     Venue NA
+     Year 2010
+     Abstract Fab Silicon wafer fabrication facility Hardware Simulation Modelling of the hardware at different levels of abstraction (functional, gate level, etc.) for the purposes of hardware verification  160 7.5.1 Automate FPGA Design Traceability through Version Tracking
+     Url http://193.1.102.107/handle/10344/386
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line
+     Author ['AV Barenji', 'RV Barenji', 'M Hashemipour']
+     Venue Advances in Engineering …
+     Year 2016
+     Abstract Furthermore, the visibility and traceability of manufacturing items such as works in progress (WIPs) are so weak that high WIP inventory levels are common  Hardware simulation agent module: This belongs to the CPN model of the system and is used to analyze the FAL behavior
+     Url https://www.sciencedirect.com/science/article/pii/S0965997815001349
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Chromatographic data systems: a critical review
+     Author ['AN Papas']
+     Venue Critical Reviews in Analytical Chemistry
+     Year 1989
+     Abstract Page 1. Volume 20, Issue 6 (1 989) 359 CHROMATOGRAPHIC DATA SYSTEMS: A CRITICAL REVIEW Author: Andrew N. Papas Analytical Branch US Food and Drug Administration Winchester, Massachusetts Refem: Stephen
+     Url https://www.tandfonline.com/doi/abs/10.1080/10408348908050072
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Glossary, Acronyms, Abbreviations: Space transportation system and associated payloads
+     Author ['AM Koller Jr']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract programs to operate the hardware of a medical cyclotron beamline controlled from a PC using the Experimental Physics and Industrial Control System (EPICS), which is  the Signal Label from the signal list (see Table 1) into defined tag names to ensure easy traceability of signal
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Customizable Multipurpose Nodes Based on Internet of Things for Various Applications
+     Author ['S Tiwana', 'V Mathur', 'S Choudhury']
+     Venue … of Research on the Internet of …
+     Year 2020
+     Abstract In USA, in the last few decades, with the help of such sensor and SCADA based system, the authorities have proper analysis of data  Simulation: Before fabricating the actual hardware, simulation on the computer is mandatory
+     Url https://www.igi-global.com/chapter/customizable-multipurpose-nodes-based-on-internet-of-things-for-various-applications/237280
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Introduction to VHDL
+     Author ['RD Hunter', 'TT Johnson']
+     Venue NA
+     Year 1996
+     Abstract 12 2.3 Geometry-based Interchange Formats 17 2.4 Schematic Circuit Capture 19 2.5 Hardware Description Languages 19 2.6 Hardware Simulation 20 2.7  All of the foregoing presents a problem for traceability in the design process where purchaser of a system has a special
+     Url https://books.google.com/books?hl=en&lr=&id=jEuK71f0ouMC&oi=fnd&pg=PR13&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Traceability%22&ots=giBLrKj-WK&sig=UdifJ1m0jPVQgLVmH7OaiRV7Zcc
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Design principles for the development of space technology maturation laboratories aboard the international space station
+     Author ['A Saenz-Otero']
+     Venue Massachusetts Institute of Technology, Department of …
+     Year 2005
+     Abstract Page 1. Design Principles for the Development of Space Technology Maturation Laboratories Aboard the International Space Station by Alvar Saenz-Otero SB, Aeronautics and Astronautics, MIT, 1998 SB, Electrical Engineering
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.4437&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title COURSE STRUCTURE FOR B. TECH DEGREE IN INSTRUMENTATION AND CONTROL ENGINEERING 3 RD SEMESTER [2 ND YEAR 1 ST SEMESTER] …
+     Author ['PER WEEK']
+     Venue NA
+     Year NA
+     Abstract 2 HU 701 Financial Management & Accounts 3 0 0 3 3 3 IC 702 Logic and Distributed control system 3 0 0 3 3 4 IC 703 Elective I 3 0 0 3 3  1 IC 791 DSP Lab 0 0 3 3 2 2 IC 792 Logic and Distributed control system Lab 0 0 3 3 2 3 IC 794 Assigned Project - - 6 6 4
+     Url https://makautwb.ac.in/syllabus/Instrumentation_&_Control_Engineering_Syllabus_2007.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Spacelab software development and integration concepts study report, volume 1
+     Author ['PL Rose', 'BG Willis']
+     Venue NA
+     Year 1973
+     Abstract Page 1. Prepared for the - ' 31 October 1973 GEORGE C. MARSHALL SPACE FLIGHT CENTER Contract No.: NAS8-30376 Huntsville, Alabama MSFC No.: MSFC-DR L-389, Line Item No. 2 IBM No.: 73W-00326 SPACE LAB
+     Url https://ntrs.nasa.gov/search.jsp?R=19740025199
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title From build-to-order to customize-to-order
+     Author ['R Ericsson', 'R Becker', 'A Döring']
+     Venue … . Consortium of the …
+     Year 2010
+     Abstract Additionally, late customization demands the implementation of a backward-oriented informa- tion flow to integrate the monitoring data of the flashing station into the overall quality manage- ment system. This enables the traceability of the product, its elements, and features
+     Url https://wiki.iao.fraunhofer.de/images/studien/advancing-the-automotive-industry-by-collaboration-and-modularity.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title PhD Projects at Northumbria University
+     Author ['A Hossain']
+     Venue NA
+     Year NA
+     Abstract D. Choinski, M. Metzger and W. Nocon, „Hybrid multiagent system for knowledge management in distributed control system”, Journal of hybrid artificial intelligent systems, pages 124-131, 2011, Springer. Page 13. PhD Subject Proposal Erasmus Mundus cLINK Programme
+     Url http://clink-edu.eu/resources/PhD_All_05_06_13.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Putting the pieces together: The systematic development of a software defined radio toolflow for the rhino project
+     Author ['GE Inggs']
+     Venue NA
+     Year 2011
+     Abstract 63 5.4 Hardware Simulation and Implementation  Under the theme of Systems Engineering Development, the concepts of systematic develop- ment, the systems modelling language (SysML) and Traceability will be introduced. The pur
+     Url https://open.uct.ac.za/handle/11427/11681
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Avionics technology beyond 2000
+     Author ['L Mcfawn', 'DR Morgan']
+     Venue The Conflicting Forces Driving Future Avionics …
+     Year 1991
+     Abstract Page 157. 13-1 AVIONICS TECHNOLOGY BEYOND 2000 by L. McFawn and DR Morgan Wright Laboratory Avionics Directorate, WL/AA Wright-Patterson AFB OH 45433-6543 USA SUMMARY impact future avionics systems and the implications of these factors
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a244244.pdf#page=157
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Computing Systems: Research Challenges Ahead: The HiPEAC Vision 2011/2012
+     Author ['M Duranton', 'D Black-Schaffer', 'S Yehia']
+     Venue NA
+     Year 2011
+     Abstract Page 1. High Performance and Embedded Architecture and Compilation Computing Systems: Research Challenges Ahead The HiPEAC Vision 2011/2012 M. Duranton, D. Black-Schaffer, S. Yehia, K. De Bosschere Page 2
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:548319
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Application of New Automation Software Design and Integration Technologies in Teaching
+     Author ['P Alho']
+     Venue NA
+     Year 2009
+     Abstract devices to programmable logic controller (PLC) and distributed control system (DCS) based automation  of automation software development applications, including PLC and DCS programming  concepts and engineering process and help maintain traceability of requirements
+     Url https://trepo.tuni.fi/handle/123456789/6086
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Reviews of Human Factors and
+     Author ['A Bisantz', 'E Roth']
+     Venue Ann Bisantz and Emilie Roth
+     Year 2007
+     Abstract Page 1. http://rev.sagepub.com/ Ergonomics Reviews of Human Factors and http://rev.sagepub.com/content/3/1/1 The online version of this article can be found at: DOI: 10.1518/155723408X299825 2007 3: 1 Reviews of Human
+     Url http://www.realtechsupport.org/UB/I2C/Bisantz_ReviewsofHumanFactorsErgonomics-2007.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Traceability"
+     Title Machine vision in manufacturing
+     Author ['P Waskewitz']
+     Venue Handbook of Machine Vision
+     Year 2007
+     Abstract increasing. Tolerances are getting tighter, cost pressures are rising, traceability has to be ensured across world- wide production setups–many production processes are hardly possible any- more without machine vision technology
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527610136#page=710
+

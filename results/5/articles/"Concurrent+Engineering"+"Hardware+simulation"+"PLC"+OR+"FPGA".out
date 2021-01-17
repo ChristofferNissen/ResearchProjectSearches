@@ -1,0 +1,154 @@
+Showing papers for search query "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Advanced methods for SOC concurrent engineering‏
+     Author ['C Chevallaz', 'N Mareau', 'F Ghenassia', 'A Gonier']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Cycle-accurate performance modelling in an ultra-fast just-in-time dynamic binary translation instruction set simulator‏
+     Author ['I Böhm', 'B Franke', 'N Topham']
+     Venue 2010 International Conference …, 2010‏
+     Year NA
+     Abstract to reduce the overall development time for new microprocessors by allowing concurrent engineering during the  The processor is fully synthesisable onto an FPGA and fully working ASIP  Co-simulation mode working in lock-step with standard hardware simulation tools used for   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5642102/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Engineering Systems on a Chip: The Bloody Revolution in Tools, Methodologies and Power‏
+     Author ['GR Hellestrand\u200f']
+     Venue NA
+     Year NA
+     Abstract A proper framework for concurrent engineering requires supporting higher level languages than assembly and  is large and includes: in-circuit emulation, hardware emulation (usually FPGA based), melanges of CPU models, software and hardware simulation models   ‏
+     Url https://www.essetek.com/tl_files/techlibrary/MPI_RevInSystemsEngineering_19990916.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title On the automatic synthesis of parallel SW from RTL models of hardware IPs‏
+     Author ['A Acquaviva', 'N Bombieri', 'F Fummi']
+     Venue Proceedings of the great …, 2012‏
+     Year NA
+     Abstract FPGA/ ASIC  method- ologies to allow parallel execution of SystemC descriptions are proposed in [7,8]. Nevertheless, such methodologies aim at speeding up the hardware simulation but they do  Using RTL-to-C++ translation for large SoC concurrent engineering: A case study   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2206781.2206800
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method and system for verifying modules destined for generating circuits‏
+     Author ['G Bollano', 'D Ettorre', 'M Turolla']
+     Venue US Patent App. 10 …, 2003‏
+     Year NA
+     Abstract [0003]. The response to this demand began with the concepts of concurrent engineering and design  synthesizable (translatable into logic with automatic tools) [0071]. independent of technology (ASIC, FPGA) [0072]. re-configurable for various requirements (performance or costs   ‏
+     Url https://patents.google.com/patent/US20030154465A1/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Improvement of control software for automatic logistic systems using executable environment models‏
+     Author ['C Kreiner', 'C Steger', 'R Weiss']
+     Venue … . 24th EUROMICRO Conference …, 1998‏
+     Year NA
+     Abstract Honka [7] uses hardware simulation for testing of em- bedded software in concurrent engineering process for hard  Prinz and Liebe [14] couple the control system for a flexible production system to the corresponding simulation model covering mechanics and PLC layers   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/708122/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title TLM: An overview and brief history‏
+     Author ['F Ghenassia', 'A Clouard']
+     Venue Transaction Level Modeling with SystemC, 2005‏
+     Year NA
+     Abstract In 2004, we reached several hundreds kHz execution of a SoC half on workstation TLM simulation and half on an FPGA board (much less costly than an emulator), thanks to  First, it debugs and validates low-level embedded software in the real hardware simulation environment   ‏
+     Url https://link.springer.com/chapter/10.1007/0-387-26233-4_1
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method and system for virtual prototyping‏
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …, 2009‏
+     Year NA
+     Abstract US7613599B2 - Method and system for virtual prototyping - Google Patents. Method and system for virtual prototyping. Download PDF Info. Publication number US7613599B2. US7613599B2 US09/872,435 US87243501A US7613599B2   ‏
+     Url https://patents.google.com/patent/US7613599B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method and system for virtual prototyping‏
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …, 2011‏
+     Year NA
+     Abstract US56661609A US7970596B2 US 7970596 B2 US7970596 B2 US 7970596B2 US 56661609 A US56661609 A US 56661609A US 7970596 B2 US7970596 B2 US 7970596B2 Authority US United States Prior art keywords design hardware simulation virtual embedded   ‏
+     Url https://patents.google.com/patent/US7970596B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title THE NONCONVENTIONAL MECHATRONIC SYSTEM.‏
+     Author ['LM Sima', 'M Zapciu']
+     Venue Nonconventional Technologies Review …, 2020‏
+     Year NA
+     Abstract simulation of the dynamic computer-aided system; - virtual instrumentation; - prototyping with fast control; - loop hardware simulation; - computer-based  logic circuits - sequencing and timing - microcontroller - logic and arithmetic - SBC - control algorithms - PLC - communication   ‏
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=23598646&AN=145102470&h=t8D2ueMRxtsIl4ddUvTkiGiBU44bxUU9ejUk%2F14aq623s9PEofB9x0qYJNtKHfVtLJpQ9606ir%2BQhgGXEyZj1g%3D%3D&crl=c
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A VHDL Simulator in a Co-verification Environment‏
+     Author ['K Melakari']
+     Venue 1998‏
+     Year NA
+     Abstract FPGA Field Programmable Gate-Array, programmable logic device  It is, however, possible to speed up hardware simulation by using hardware accelerators, which are specialised computers, allowing the gate-level HDL description to be executed faster than it would be with an   ‏
+     Url https://www.vttresearch.com/sites/default/files/pdf/publications/1998/P355.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Harchtvare/Software Codesign‏
+     Author ['A Roundtable\u200f']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title COURSE STRUCTURE FOR B. TECH DEGREE IN INSTRUMENTATION AND CONTROL ENGINEERING 3 RD SEMESTER [2 ND YEAR 1 ST SEMESTER] …‏
+     Author ['PER WEEK\u200f']
+     Venue NA
+     Year NA
+     Abstract Page 1. West Bengal University of Technology BF-142, Salt Lake City, Kolkata-700064 Instrumentation & Control Engineering Syllabus upto 7 th Semester Other Syllabi to be Published 1 COURSE STRUCTURE FOR B.TECH   ‏
+     Url https://makautwb.ac.in/syllabus/Instrumentation_&_Control_Engineering_Syllabus_2007.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A Novel Multi-Agent Based Agile Manufacturing Planning and Control System‏
+     Author ['AV Barenji']
+     Venue 2017‏
+     Year NA
+     Abstract Page 1. i A Novel Multi-Agent Based Agile Manufacturing Planning and Control System Ali Vatankhah Barenji Submitted to the Institute of Graduate Studies and Research in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Mechanical Engineering   ‏
+     Url http://i-rep.emu.edu.tr:8080/xmlui/handle/11129/4274
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method and system for creating and validating low level description of electronic design‏
+     Author ['C Dangelo', 'V Nagasamy', 'V Ponukumati']
+     Venue US Patent 5,572,436, 1996‏
+     Year NA
+     Abstract US5572436A - Method and system for creating and validating low level description of electronic design - Google Patents. Method and system for creating and validating low level description of electronic design. Download PDF Info   ‏
+     Url https://patents.google.com/patent/US5572436A/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Rapid prototyping of microelectronic systems‏
+     Author ['A Dollas', 'JDS Babcock']
+     Venue Advances in Computers, 1995‏
+     Year NA
+     Abstract The reduction of the design cycle has been facilitated by new capabilities in state-of-the-art computer-aided design (CAD) tools, the exploitation of new technologies such as field programmable gate arrays (FPGA) (Freeman, 1988), and new methodologies such as hardware   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0065245808605458
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Avionics technology beyond 2000‏
+     Author ['L Mcfawn', 'DR Morgan']
+     Venue The Conflicting Forces Driving Future Avionics …, 1991‏
+     Year NA
+     Abstract Page 157. 13-1 AVIONICS TECHNOLOGY BEYOND 2000 by L. McFawn and DR Morgan Wright Laboratory Avionics Directorate, WL/AA Wright-Patterson AFB OH 45433-6543 USA SUMMARY impact future avionics systems and the implications of these factors   ‏
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a244244.pdf#page=157
+

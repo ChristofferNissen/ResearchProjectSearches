@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"DevOps"+"Testing"
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title The factors driving testing in devops setting-a systematic literature survey
+     Author ['J Angara', 'S Prasad', 'G Sridevi']
+     Venue Indian Journal …
+     Year 2017
+     Abstract We observed that DevOps in testing is closely associated with automation of test cases  We observed that DevOps in testing is closely associated with automation of test cases and at it advanced stage, auto generation of test cases through model driven frameworks
+     Url https://sciresol.s3.us-east-2.amazonaws.com/IJST/Articles/2016/Issue-48/Article45.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract everything." DevOps automation commences from the coding on the developer machine until the code is run and then the application and system are controlled in production. The whole DevOps pipeline includes continuous integration, ongoing testing, and continuous
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Streamlining DevOps automation for Cloud applications
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2018
+     Abstract It improves the collaboration and quality of the software product. DevOps always continuously makes testing in combination with automation. Tools such as Cucumber, Selenium, JMeter, etc. are some of the examples of testing tools [17]
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655574
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Improve Software Quality through practicing DevOps Automation
+     Author ['SM Mohammad']
+     Venue … DEVOPS AUTOMATION", International Journal of …
+     Year 2018
+     Abstract improve software quality. The findings of this research will allow companies to conduct DevOps and systems design teams to agree to enhance testing. Study results have clearly shown that the quality of goods is influenced by society, automation, measuring, and sharing
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681565
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Improve software quality through practicing DevOps
+     Author ['P Perera', 'R Silva', 'I Perera']
+     Venue … Conference on Advances in ICT for …
+     Year 2017
+     Abstract Automation is a key enabler for DevOps adoption. The right people, process and tools are needed to create an automation framework for DevOps [7]. Operations and testing teams usually have a good understanding about application performance
+     Url https://ieeexplore.ieee.org/abstract/document/8257807/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Testing in a DevOps Era: Perceptions of Testers in Norwegian Organisations
+     Author ['DS Cruzes', 'K Melsnes', 'S Marczak']
+     Venue International Conference on …
+     Year 2019
+     Abstract Testing is brought to another level of automation in DevOps but there is still need for manual tests, that have to be much more risk-based than before  The authors observed that testing in DevOps is closely associated with the automation of test cases
+     Url https://link.springer.com/chapter/10.1007/978-3-030-24305-0_33
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Dimensions of devops
+     Author ['LE Lwakatare', 'P Kuvaja', 'M Oivo']
+     Venue International conference on agile …
+     Year 2015
+     Abstract Bang et al. [5] identified the DevOps per- spectives to include: collaboration; automation of build deployment; testing; meas- urement of the process value, cost and technical metrics; and sharing of knowledge and tools. Page 2. Dimensions of DevOps 213
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_19
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Devops, A New Approach To Cloud Development & Testing
+     Author ['P Agrawal', 'N Rawat']
+     Venue … Conference on Issues and Challenges in …
+     Year 2019
+     Abstract Figure 5: DevOps As A Service Linkage between DevOps and Cloud Computing can be defined as to combine the centralization ability of Cloud Computing that may provide automation of DevOps as testing, production and deployment in centralized platform
+     Url https://ieeexplore.ieee.org/abstract/document/8977662/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract In addition IBM and HP, with their wide solution portfolios, are taking DevOps automation one step further. They are addressing performance testing and management and QA activities in one end- to-end lifecycle activity, with feedback from production back into development
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps automation and Agile methodology
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2017
+     Abstract Agile Teams are focused on automated design, test automation, Continuous Integration (CI  across other departments, because developers and operators need to coordinate [4]. DevOps works regularly with ITOps to maintain secure and stable testing environments so it
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655581
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Testing in DevOps
+     Author ['F Faber']
+     Venue The Future of Software Quality Assurance
+     Year 2020
+     Abstract engineer. Keywords Software testing· Software quality· Test automation· Test engineer· DevOps· Agile testing 1 Introduction In many IT organizations there is a “Wall of Confusion”[1] between development and operations. On
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/22847/1007314.pdf?sequence=1#page=47
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract When developers embrace Dev- Ops, testing is a critical part of development, and the development team  The quality assurance team must en- sure automation of all test cases and full code coverage. From an operations perspective, DevOps greatly affects culture and discipline
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Feasibility predictability model for software test automation projects in DevOps setting
+     Author ['J Angara', 'S Prasad', 'S Gutta']
+     Venue International Journal of …
+     Year 2020
+     Abstract Survey found 175 articles. Out of them, 29 articles are having a close relationship with the testing function of DevOps. Around 18 articles stressed the need for automation and auto-generation of test cases. Another literature review was conducted by Wiklund et al
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJFSE.2020.110588
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Why enterprises must adopt devops to enable continuous delivery
+     Author ['J Humble', 'J Molesky']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract Technical management is also involved in the design, testing, release, and improvement of IT  have the ability to provision suitable test and production environments on demand using automation. DEVOPS AT AMAZON: IF IT'SA TRENDY BUZZWORD, THEY'VE BEEN DOING IT
+     Url http://twinkfed.homedns.org/TechDocs/itj1108.pdf#page=6
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Evaluating the Performance and Capabilities of Popular Android Mobile Application Testing Automation Frameworks in Agile/DevOps Environment
+     Author ['K Baktha']
+     Venue NA
+     Year 2020
+     Abstract The number of mobile applications has increased tremendously over the last decade, thereby also having increased the importance of mobile application testing. Testing is a very crucial process in the development of a mobile application to ensure reliability and proper
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1471376
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Testing idempotence for infrastructure as code
+     Author ['W Hummer', 'F Rosenberg', 'F Oliveira']
+     Venue ACM/IFIP/USENIX …
+     Year 2013
+     Abstract and Puppet [6], provide developers with several abstractions to express automation steps as  however, despite (1) their importance as key elements of DevOps automations and  role of automations to enable frequent deployment of complex infrastructures, testing of idempotence
+     Url https://link.springer.com/chapter/10.1007/978-3-642-45065-5_19
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Fast Delivery, Continuously Build, Testing and Deployment with DevOps Pipeline Techniques on Cloud
+     Author ['MO Khan', 'AK Jumani', 'WA Farhan']
+     Venue INDIAN JOURNAL OF …
+     Year 2020
+     Abstract Legacy knowledge of DevOps Pipeline on cloud – The people do not have knowledge that how can implement DevOps pipeline on cloud. Automated testing Issues – The tester don't know how can write automate test script and test the process based on automation
+     Url https://www.researchgate.net/profile/Awais_Jumani/publication/339135798_Fast_Delivery_Continuously_Build_Testing_and_Deployment_with_DevOps_Pipeline_Techniques_on_Cloud/links/5e401ae0458515072d8b8fb7/Fast-Delivery-Continuously-Build-Testing-and-Deployment-with-DevOps-Pipeline-Techniques-on-Cloud.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Modeling DevOps deployment choices using process architecture design dimensions
+     Author ['Z Babar', 'A Lapouchnian', 'E Yu']
+     Venue IFIP Working Conference on The Practice …
+     Year 2015
+     Abstract The test scripts can be developed once and reused for subsequent CI activities or they can be developed every time to serve specific testing needs based on the product feature being tested. 4. Tool Usage for Automation: DevOps is characterized by the usage of third-party tools
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25897-3_21
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps with continuous testing architecture and its metrics model
+     Author ['J Angara', 'S Gutta', 'S Prasad']
+     Venue Recent Findings in Intelligent Computing …
+     Year 2018
+     Abstract there is a critical need to strategize testing process and align it to continuous planning, continuous integration, continuous deployment and continuous monitoring, and feedback goals of DevOps practice. There is a vital difference between test automation and continuous testing
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8633-5_28
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract Our goals for this were: 1. high degree of automation, to keep the total workload low, despite maintaining a steadily increasing number of servers,. 2  28.3 and 28.4 describe the DevOps inspired parts  They are used for testing GPU codes and FPGA designs
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Security practices in DevOps
+     Author ['AA Ur Rahman', 'L Williams']
+     Venue … of the Symposium and Bootcamp on the …
+     Year 2016
+     Abstract From our analysis of Internet artifacts and survey we make the following observations: • From Table 1 we observe that common DevOps activities such as automation of monitoring, automation of testing, and automation of code review are used to integrate security in DevOps
+     Url https://dl.acm.org/doi/abs/10.1145/2898375.2898383
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps with continuous testing architecture and its metrics model
+     Author ['J Angara', 'S Gutta', 'S Prasad']
+     Venue Recent Findings in Intelligent Computing …
+     Year 2018
+     Abstract there is a critical need to strategize testing process and align it to continuous planning, continuous integration, continuous deployment and continuous monitoring, and feedback goals of DevOps practice. There is a vital difference between test automation and continuous testing
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8633-5_28
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Practical DevOps: Implement DevOps in your organization by effectively building, deploying, testing, and monitoring code
+     Author ['J Verona']
+     Venue NA
+     Year 2018
+     Abstract Chapter 6, Testing the Code, shows you that if you are going to release your code early and often, you must be confident of its quality. Therefore, you need automated regression testing  Another core goal of DevOps is automation and Continuous Delivery (CD)
+     Url https://books.google.com/books?hl=fr&lr=&id=enteDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22DevOps%22+%22Testing%22&ots=l_RaWlYBsH&sig=NzrrFFgO8ME5ALDkHWfhjzg2Yrg
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Towards continuous software reliability testing in DevOps
+     Author ['R Pietrantuono', 'A Bertolino']
+     Venue … on Automation of …
+     Year 2019
+     Abstract We introduce the DevOpRET approach for continuous reliability testing in DevOps. It leverages information monitored in operation to guide operational-profile based testing, which is conceived as part of the acceptance testing stage before each next release to
+     Url https://ieeexplore.ieee.org/abstract/document/8822025/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Defining TestOps: Collaborative Behaviors and Technology-Driven Workflows Seen as Enablers of Effective Software Testing in DevOps
+     Author ['M Doležel']
+     Venue International Conference on Agile Software …
+     Year 2020
+     Abstract in the field of software testing, which was previously dominated by manual testing [8]. Using  This perspective binds TestOps with the Culture and Sharing dimensions in DevOps  concerned with new tools, workflows and processes for effective test automation supporting DevOps
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58858-8_26
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract field. DevOps approach proposes  meet that goal. Manual testing process must be evaluated for possibilities of automation and in majority of cases there will be ways to automate the same. Software delivery process
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title An exploratory study of DevOps and it's future in the United States
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract DevOps in the US has big potential projections. AI and automation will transform the development process of applications in the coming years  The AI, data, and machine learning will determine tasks such as integration, stability, testing, and deployment in all-new AI Ops
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668439
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps adoption benefits and challenges in practice: a case study
+     Author ['L Riungu-Kalliosaari', 'S Mäkinen', 'LE Lwakatare']
+     Venue … Conference on Product …
+     Year 2016
+     Abstract Powered by automated build, testing and deployment processes, one of the main advantages of DevOps is that organizations are able to channel more features into the production and delivery pipelines as noted by an interviewed Lead Architect. Automation also reduces the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-49094-6_44
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps and the cost of downtime: Fortune 1000 best practice metrics quantified
+     Author ['S Elliot']
+     Venue International Data Corporation (IDC)
+     Year 2014
+     Abstract TABLE 4 Initiatives to Implement DevOps Projects Q. What specific initiatives are you looking to implement as part of DevOps? % of Respondents Automation 60.0 Continuous delivery 50.0 Continuous integration 43.3 Automated testing 43.3 Application monitoring/management
+     Url http://www.smallake.kr/wp-content/uploads/2013/07/DevOps-metrics-Fortune1K.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title An exploratory study of DevOps and it's future in the United States
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract DevOps in the US has big potential projections. AI and automation will transform the development process of applications in the coming years  The AI, data, and machine learning will determine tasks such as integration, stability, testing, and deployment in all-new AI Ops
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3668439
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous Testing in the Development of IoT Applications
+     Author ['LG Guşeilă', 'DV Bratu', 'SA Moraru']
+     Venue … International Conference on …
+     Year 2019
+     Abstract The paper presented the process, methods and tools for introducing automation for continuous integration, deployment and continuous testing in the agile software development process of IoT applications. The research proposes a DevOps architecture and agile tools, based
+     Url https://ieeexplore.ieee.org/abstract/document/9043692/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps and the cost of downtime: Fortune 1000 best practice metrics quantified
+     Author ['S Elliot']
+     Venue International Data Corporation (IDC)
+     Year 2014
+     Abstract TABLE 4 Initiatives to Implement DevOps Projects Q. What specific initiatives are you looking to implement as part of DevOps? % of Respondents Automation 60.0 Continuous delivery 50.0 Continuous integration 43.3 Automated testing 43.3 Application monitoring/management
+     Url http://www.smallake.kr/wp-content/uploads/2013/07/DevOps-metrics-Fortune1K.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Towards DevOps in the embedded systems domain: Why is it so hard?
+     Author ['LE Lwakatare', 'T Karvonen', 'T Sauvola']
+     Venue 2016 49th hawaii …
+     Year 2016
+     Abstract shorten feedback loops and the development cycle through collaboration, automation and frequent  Collaboration in DevOps seeks to bridge the silos of software development  an activity involving requirement definition, design, implementation and system integration and testing
+     Url https://ieeexplore.ieee.org/abstract/document/7427859/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous and Integrated Software Development using DevOps
+     Author ['A Agarwal', 'S Gupta']
+     Venue … Conference on Advances …
+     Year 2018
+     Abstract Since Devops incorporates various automation tools at  3. Lack of fully automated acceptance test – According to some surveys, many organizations resist undertaking automated testing because of various factors like unavailability of tools, low gain with much overhead
+     Url https://ieeexplore.ieee.org/abstract/document/8458052/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Towards Utilization of Lean Canvas in the DevOps Software
+     Author ['P Nidagundi', 'L Novickis']
+     Venue … of the 11th International Scientific and …
+     Year 2017
+     Abstract and Validation Workshops (ICSTW), 2015 IEEE Eighth International Conference on, 2015, pp 1-2. [4] Soni M. End to End Automation on Cloud with Build Pipeline: The Case for DevOps in Insurance Industry, Continuous Integration, Continuous Testing, and Continuous Delivery
+     Url http://journals.rta.lv/index.php/ETR/article/view/2522
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Secdevops: Is it a marketing buzzword?-mapping research on security in devops
+     Author ['V Mohan', 'LB Othmane']
+     Venue 2016 11th International Conference on …
+     Year 2016
+     Abstract security into DevOps. Use of automation activities like automated code review, automated monitoring, automated testing are popular automation activities for security integration in DevOps envir- onments. Storms [7] explains
+     Url https://ieeexplore.ieee.org/abstract/document/7784617/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Applying DevOps Practices of Continuous Automation for Machine Learning
+     Author ['I Karamitsos', 'S Albarhami', 'C Apostolopoulos']
+     Venue Information
+     Year 2020
+     Abstract means that we advocate for automation and monitoring at all steps of ML system construction, including integration, testing, releasing, deployment, and infrastructure management. This specific operation of ML complex systems incorporates two important DevOps principles [1
+     Url https://www.mdpi.com/2078-2489/11/7/363
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Start to Finish Automation Achieve on Cloud with Build Channel: By DevOps Method
+     Author ['V Arulkumar', 'R Lathamanju']
+     Venue Procedia Computer Science
+     Year 2019
+     Abstract 1. Introduction Automate everything is the key principle of DevOps.Automation implies, Continuous Combination, Continuous Testing, Continuous Deployment and Continuous Conveyance. With the disposal of manual advances
+     Url https://www.sciencedirect.com/science/article/pii/S1877050920300405
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Strategy for continuous testing in iDevOps
+     Author ['P Zimmerer']
+     Venue Proceedings of the 40th International Conference on …
+     Year 2018
+     Abstract Continuous testing defined Specifics of industrial-grade DevOps (iDevOps) Testing areas – What's new and different in  figure 1): x Testing over the whole lifecycle by shift left and shift right, ie testing continuously from begin to end x Strategic test automation, ie continuously
+     Url https://dl.acm.org/doi/abs/10.1145/3183440.3183465
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Orchestrating automation and sharing in DevOps teams: a revelatory case of job satisfaction factors, risk and work conditions
+     Author ['A Hemon-Hildgen', 'F Rowe']
+     Venue European Journal of …
+     Year 2020
+     Abstract tools such as GitLab or Jenkins, and that allows the build automation and the  because operations and quality assurance engineers have implemented automated code testing solutions like  At Agile-to-DevOps maturity level 3 or Full DevOps, Continuous Delivery/Deployment
+     Url https://www.tandfonline.com/doi/abs/10.1080/0960085X.2020.1782276
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Speedroid: A Novel Automation Testing Tool for Mobile Apps
+     Author ['S Kapoor', 'K Sagar', 'BVR Reddy']
+     Venue International Conference on Innovative …
+     Year 2019
+     Abstract business expectations. Automation plays an imperative role in the adoption of digital transformation in the IT industry. Agile and DevOps endorse four weeks sprint [2]. Regression testing is performed at the end of each sprint. This
+     Url https://link.springer.com/chapter/10.1007/978-981-13-2354-6_29
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps capabilities, practices, and challenges: Insights from a case study
+     Author ['M Senapathi', 'J Buchan', 'H Osman']
+     Venue Proceedings of the 22nd …
+     Year 2018
+     Abstract automation Recovery automation Infrastructure automation Configuration management for code and infrastructure Metrics automation The DevOps capability enablers incorporate the basic activities of software development (ie planning, development, testing, and deployment
+     Url https://dl.acm.org/doi/abs/10.1145/3210459.3210465
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title DevOps Concepts
+     Author ['R Makosi']
+     Venue Вестник Хакасского государственного университета …
+     Year 2017
+     Abstract Test Automation Test automation has been around for a long time. DevOps testing focuses on automated testing within your build pipeline to ensure that by the time that you have a deployable build, you are confident it is ready to be deployed
+     Url https://elibrary.ru/item.asp?id=32277519
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous A/B testing in containers
+     Author ['Á Révész', 'N Pataki']
+     Venue Proceedings of the 2019 2nd International …
+     Year 2019
+     Abstract 11 Page 2. different kinds of testing [8]. Unit testing, component testing, integration testing, end-to-end testing, performance testing, etc  The DevOps culture argues for the deployment automation at the level of the application [10]
+     Url https://dl.acm.org/doi/abs/10.1145/3318236.3318254
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Software security in devops: Synthesizing practitioners' perceptions and practices
+     Author ['AAU Rahman', 'L Williams']
+     Venue 2016 IEEE/ACM International …
+     Year 2016
+     Abstract nine DevOps organizations. From Table 6, we observe automation of monitoring, and automation of testing are the two most frequently used automation activities amongst the nine DevOps organizations. None of DevOps organization
+     Url https://ieeexplore.ieee.org/abstract/document/7809439/
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Automated testing of React Native applications
+     Author ['M Salohonka']
+     Venue NA
+     Year 2020
+     Abstract Associate Professor Ari Happonen Keywords: React Native, Azure DevOps, testing, test automation Testing is an important part of quality assurance  Keywords: React Native, Azure DevOps, testing, test automation Testaus on tärkeä osa laadunvarmistusta
+     Url https://lutpub.lut.fi/handle/10024/160734
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Simplifying the DevOps Adoption Process.
+     Author ['I Bucena', 'M Kirikova']
+     Venue BIR Workshops
+     Year 2017
+     Abstract Table 2. DevOps practices relevant to Maturity Model Technology area  T3 Collaborative development Integrated Deployment planning Continuous testing Continuous monitoring DB management practices  T4 Build automation Continuous integration Continuous deployment
+     Url http://ceur-ws.org/Vol-1898/paper14.pdf
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Continuous delivery: reliable software releases through build, test, and deployment automation
+     Author ['J Humble', 'D Farley']
+     Venue NA
+     Year 2010
+     Abstract in this book rest upon bringing these teams together—a harbinger of the nascent but growing DevOps movement. This process also involves testers, as testing is a key element of ensuring errorfree releases. Threading through all this is a high degree of automation, so things
+     Url https://books.google.com/books?hl=fr&lr=&id=6ADDuzere-YC&oi=fnd&pg=PT30&dq=%22Automation%22+%22DevOps%22+%22Testing%22&ots=-wosNRNdk9&sig=R0oWhxLVuV21tikuDMsnemJW4vI
+
+
+     Search term "Automation"+"DevOps"+"Testing"
+     Title Toward unified DevOps model
+     Author ['A Wahaballa', 'O Wahballa', 'M Abdellatief']
+     Venue 2015 6th IEEE …
+     Year 2015
+     Abstract On the other side, a DevOps advocates the automation to minimize cycle time, monitoring environment, and ultimately address errors by enabling testing more often, as automating incomplete or incorrect processes can be as disastrous as not automating at all
+     Url https://ieeexplore.ieee.org/abstract/document/7339039/
+

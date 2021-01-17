@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification/Validation Methods and Tools... or Practical Formal Methods
+     Author ['J Rushby']
+     Venue NA
+     Year NA
+     Abstract Page 1. Practical Formal Methods: Presentation for GM, 1 June 2004 Page 2. Software Verification/Validation Methods and Tools  model checking proving theorem Assurance Effort ICS SAL PVS John Rushby, SR I Practical Formal Methods: 5 Page 7. Our Tools
+     Url http://www.csl.sri.com/users/rushby/slides/gm04.ps
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract Formal software verification involves automated model extraction to elimi- nate extraneous detail from target implementations and  certifiably fault-tolerant networks, hardware, and middleware for automotive and avion- ics applications already entails formal methods use
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety conditions verification of communication in distributed control system
+     Author ['W Mikluszka']
+     Venue 3rd International Conference on Human System …
+     Year 2010
+     Abstract Specifications established by means of formal methods are characterized by transparency, consistency and completeness  Fig. 3. Distributed control system  3 shows an example of a system consisting of SCADA workstation, sensors, actuators, touch panels and PID controllers
+     Url https://ieeexplore.ieee.org/abstract/document/5514477/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Verified software: A grand challenge
+     Author ['C Jones', "P O'Hearn", 'J Woodcock']
+     Venue Computer
+     Year 2006
+     Abstract and combined decision procedures, the time now seems ripe for a concerted push for software verification  the 2005 International Federation for Information Processing working conference in Zurich, verification and formal methods experts, tools  Contact him at ohearn@dcs.qmul
+     Url https://ieeexplore.ieee.org/abstract/document/1621009/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Formal methods as a correctness proof may be applied both for ready SW and at early  Automation of nuclear power plants – the experience of the ICS RAS, Proceedings of the XII  Cyber Security Risk Assessment Meth- od for SCADA of Industrial Control Systems, Proceed- ings
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formath: Higher-order logic revised
+     Author ['A Hoogewijs', 'P Audenaert']
+     Venue Logic colloquium 2004-ASL European …
+     Year 2004
+     Abstract been deployed in both industry and academia to support formal reasoning in many areas, including hardware and software verification  the result directly depends on the correctness of the proof system that supports the application of the formal methods  [3] http://www.dcs.gla.ac
+     Url https://biblio.ugent.be/publication/302130/file/451760
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of proofs for the B formal development process
+     Author ['B Dehbonei', 'F Mejia']
+     Venue ACM SIGPLAN Notices
+     Year 1993
+     Abstract on Partial Evaluation and Semantics-based Program Manipulation, San-Francisco, June 1992, also Yale Report, YALEU/DCS/RR-909, 1992  Digital Library Digital Library; {10} Gerhart, S., Craigen, D., Ralston, T., Observations On Industrial Practice Using Formal Methods, in the
+     Url https://dl.acm.org/doi/abs/10.1145/165564.165568
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract Automated Verification in Railways. In Industrial-Strength Formal Methods in Practice, Hinchey, MG and Bowen, JP, Editors  http://www.dcs.gla.ac.uk/prosper/.]]Google Scholar Google Scholar; {11} GORDON, MJC 1996. The Semantic Challenge of Verilog HDL
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Recent Advancements in Hardware Verification—How to Make Theorem Proving Fit for an Industrial Usage
+     Author ['T Kropf']
+     Venue International Conference on Theorem Proving in …
+     Year 1999
+     Abstract One of the predominant applications of formal methods including theorem prov- ing is the verification of  This contrasts to the fact that software verification has been an ongoing research topic for a  formal specification and verification to system designers 1 http://www.dcs.gla.ac.uk
+     Url https://link.springer.com/chapter/10.1007/3-540-48256-3_1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Applied formal methods for hardware Trojan detection
+     Author ['M Rathmair', 'F Schupfer', 'C Krieg']
+     Venue 2014 IEEE International …
+     Year 2014
+     Abstract This work investigates detection techniques concentrating on formal methods deduced from software verification, applied on pre  formal analysis and testing strategies, destructive methods for Trojan detection use reverse engineering to analyze prototype ICs or random
+     Url https://ieeexplore.ieee.org/abstract/document/6865092/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The Approach: Integrating Object Oriented Design and Formal Verification
+     Author ['W Ahrendt', 'T Baar', 'B Beckert', 'M Giese']
+     Venue European Workshop on …
+     Year 2000
+     Abstract given here, see [5]. DL is successfully used in the KIV software verification system [27  There are many projects dealing with formal methods in software engineering including several ones aimed  formal specification and verification to system designers in industry (www.dcs.gla.ac
+     Url https://link.springer.com/chapter/10.1007/3-540-40006-0_3
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE THE UNIVERSITY OF QUEENSLAND
+     Author ['H Vіlzer', 'B Atchison', 'P Lindsay', 'A MacDonald']
+     Venue NA
+     Year 2002
+     Abstract Pre- vious Software Verification Research Centre research ex- plored management of fine-grained development artefacts and links between  The design of the framework and tool was devel- oped in collaboration with Invensys SCADA Development as a  of Formal Methods Eu-
+     Url https://espace.library.uq.edu.au/view/UQ:10548/svrc_02_07.ps?dsi_version=d4286e393e6b1efa5cefea4ec51ebb24
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification of PLC programs
+     Author ['S Ferro']
+     Venue NA
+     Year 2020
+     Abstract Being a crucial device in an Industrial Control System (ICS) and being often highly  PLCs are commonly found in Supervisory Control and Data Acquisition (SCADA) systems as field devices  program can be verified against ICS specifications, but the types of payload
+     Url http://dspace.unive.it/handle/10579/17637
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title CoFI–Conformance and Fault Injection–a testing process including test and fault cases derivation for space application software validation
+     Author ['AM Ambrosio', 'E Martins', 'NL Vijaykumar']
+     Venue NA
+     Year 2004
+     Abstract a testing process including test and fault cases derivation for space application software validation Ana Maria Ambrosio (INPE) Dra  FSM Finite State Machine ICS Implementation Conformance Statement IXIT Implementation extra Information for Testing
+     Url http://150.163.34.248/col/sid.inpe.br/marciana/2004/11.17.16.40/doc/PUBLICACAO.PDF
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Trends and challenges in algorithmic software verification
+     Author ['R Alur']
+     Venue Working Conference on Verified Software: Theories …
+     Year 2005
+     Abstract using algorithms for learning finite automata and symbolic model checking for branching-time log- ics  Trends and Challenges in Algorithmic Software Verification  Research in formal methods has typically focussed on questions such as “what is the most expressive temporal
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69149-5_26
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Towards Proving Runtime Properties of Data-Driven Systems Using Safety
+     Author ['S Breese']
+     Venue NA
+     Year NA
+     Abstract Techniques from formal methods, and in particular formal software verification techniques, can be used to al- leviate the burden this complexity places upon  “ModelPlex: Verified runtime validation of verified cyber- physical system models,” Formal Methods in System
+     Url http://wcl.cs.rpi.edu/papers/IWSHM19_brees.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Information systems and the engineering paradigm: integrating the formal methods into the development process
+     Author ['H Saiedian']
+     Venue Journal of computing and information technology
+     Year 1994
+     Abstract of the appli- cation of mathematics.) Although space does not permit detailed discussion of Koen's thesis and its implications, the overall theme, ie, the emphasis on the role of science and mathemat- ics, provides a framework for judging the place of formal methods, which in our
+     Url https://hrcak.srce.hr/150445
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Mathematical reasoning in software engineering education
+     Author ['PB Henderson']
+     Venue Communications of the ACM
+     Year 2003
+     Abstract should learn to use foundational discrete mathemat- ics concepts and logical reasoning at all times  oriented software engineering courses today cover formal specifications, formal methods, mathematically rigorous software design, software verification and validation
+     Url https://dl.acm.org/doi/pdf/10.1145/903893.903919
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification by abstract interpretation
+     Author ['P Cousot']
+     Venue NASA Formal Methods Symposium
+     Year 2012
+     Abstract Keywords: Abstract interpretation, Abstraction, Aerospace, Certifica- tion, Cyber-physical system, Formal Method, Mission-critical system  Miné, A., Putot, S., Rival, X., Turin, M.: Space software validation using abstract  Formal Methods in System Design 35(3), 229–264 (2009) 26
+     Url https://link.springer.com/chapter/10.1007/978-3-642-28891-3_3
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The UCLID Decision Procedure
+     Author ['SK Lahiri', 'SA Seshia']
+     Venue International Conference on Computer Aided …
+     Year 2004
+     Abstract Integer interpretation: Most queries in hardware and software verification require using an integer interpretation of symbols  ICS: Integrated Canonizer and Solver  In Formal Methods in Computer-Aided Design (FMCAD '02), LNCS 2517, pages 142–159, 2002. 10
+     Url https://link.springer.com/chapter/10.1007/978-3-540-27813-9_40
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods pilot project
+     Author ['T Hart', 'F Linn', 'R Morello', 'G Royle']
+     Venue … 1996 Asia-Pacific …
+     Year 1996
+     Abstract Peter Kearney, Peter Lindsay, Kelvin Ross, Owen Traynor Software Verification Research Centre, Dept of  The principal CSC developer had only two weeks prior experience of formal mathemat- ics  Effort involved: Certainly there is work involved in apply- ing formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/566758/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title 06081 Abstracts Collection--Software Verification: Infinite-State Model Checking and Static Program Analysis
+     Author ['PA Abdulla', 'A Bouajjani']
+     Venue Dagstuhl Seminar …
+     Year 2006
+     Abstract Keywords: Infinite-state systems, model checking, program analysis, software verification Joint work of: Abdulla  approximation of all graphs that may occur during any DCS run  Robust Interpretation of Metric-Time Properties: Continuous Reasoning Meets Formal Methods
+     Url https://drops.dagstuhl.de/opus/volltexte/2006/799/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of attribute grammar specifications
+     Author ['S Goldrei']
+     Venue NA
+     Year 2003
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The Approach: Integrating Design and Formal Verification of Java Card Programs
+     Author ['W Ahrendt', 'T Baar', 'B Beckert', 'M Giese', 'E Habermalz']
+     Venue NA
+     Year 2000
+     Abstract DL is successfully used in the KIV software verification system [17] for a programming language that is not object- oriented; and Poetzsch-Heffter and Müller's definition  Part of: Hossein Saiedian (ed.). An Invitation to Formal Methods  6See www.dcs.gla.ac.uk/prosper/index.html
+     Url https://www.researchgate.net/profile/Wolfgang_Ahrendt/publication/2454558_The_KEY_Approach_Integrating_Design_and_Formal_Verification_of_Java_Card_Programs/links/53ecee0b0cf26b9b7dbfff43.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Managing Change in Formal Software Analysis: Two Research Challenges
+     Author ['R Hähnle']
+     Venue NA
+     Year NA
+     Abstract sensing, computing, and networking capabilities in just any kind of technical artifact (“cyber-physical system”)  Status report on software verification - (competition summary sv-comp 2014  Mar- garia and B. Steffen, editors, Leveraging Applications of Formal Methods, Verifi- cation
+     Url http://envisage-project.eu/wp-content/uploads/2013/09/ManagingChangeInFormalSoftwareAnalysis_Preprint.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbed for Model-based Verification of Cyber-physical Production Systems.
+     Author ['CJ Budnik', 'S Eckl', 'M Gario']
+     Venue ARCH@ CPSWeek
+     Year 2017
+     Abstract makes PLC software verification as difficult as more traditional (eg, C) software verification problems  a more detailed discussion on how the testbed will allow us to use formal methods  Physical and virtual operating control units are both based on SCADA (Supervisory Control
+     Url https://wvvw.easychair.org/publications/download/cssx
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Modeling and simulation verification and validation challenges
+     Author ['DK Pace']
+     Venue Johns Hopkins APL Technical Digest
+     Year 2004
+     Abstract UML)7 and other descriptive paradigms facilitating formal consistency in model development, especially those using formal methods.8 Unfortunately  the American Society of Mechanical Engineers (ASME) committee develop a V&V guide for computational solid mechan- ics
+     Url https://www.jhuapl.edu/Content/techdigest/pdf/V25-N02/25-02-Pace.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Reactive control of adaptive embedded systems: a position paper
+     Author ['E Rutten']
+     Venue Proceedings of the 7th workshop on Reflective and …
+     Year 2008
+     Abstract 1. CONTEXT Embedded systems are proliferating, in a great variety of environments. Their design involves techniques ranging from application expertise, to software validation, and to System on Chip design  DCS is an opportunity to introduce formal methods in industrial
+     Url https://dl.acm.org/doi/abs/10.1145/1462716.1462724
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Techniques for Distributed Systems
+     Author ['E Zucca']
+     Venue NA
+     Year 2010
+     Abstract Gerard Holzmann (Jet Propulsion Laboratory, USA) discussed the question “Formal Software Verification: How Close  was organized as the joint activity of two conferences: FMOODS (Formal Methods for Open  constituted a strong program of stimulating and timely top- ics in the
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-13464-7.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Software debugging, testing, and verification
+     Author ['B Hailpern', 'P Santhanam']
+     Venue IBM Systems Journal
+     Year 2002
+     Abstract temporal logic, algebraic systems, finite state specifications, model checking, and interval log- ics  Historically, software verification has had little im- pact on the real world of software  This is primarily because no other approach based on more formal methods comes close to
+     Url https://ieeexplore.ieee.org/abstract/document/5386906/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title The guide to the software engineering body of knowledge
+     Author ['P Bourque', 'R Dupuis', 'A Abran', 'JW Moore']
+     Venue IEEE …
+     Year 1999
+     Abstract main topics: heuristic methods dealing with informal approaches, formal methods dealing with  The measurement subarea addresses four top- ics: measurement program goals, measurement se  re- lated to software quality assurance and software verification and validation
+     Url https://ieeexplore.ieee.org/abstract/document/805471/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Verification of Object-Oriented Software: International Conference, FoVeOO 2011, Turin, Italy, October 5-7, 2011, Revised Selected Papers
+     Author ['B Beckert', 'F Damiani', 'D Gurov']
+     Venue NA
+     Year 2012
+     Abstract Preface Formal software verification has outgrown the area of academic case studies, and  Universiteit Leiden (LIACS), The Netherlands University of Oslo, Norway ICS, Romanian Academy  Tschannen, and Mattias Ulbrich The Practical Application of Formal Methods: Where Is
+     Url https://books.google.com/books?hl=de&lr=&id=k-65BQAAQBAJ&oi=fnd&pg=PP2&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=9otKeIGhhk&sig=aplxMAm6OZ_xIDB8lln7DikPf68
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Production of Reliable Flight Crucial Software: Validation Methods Research for Fault Tolerant Avionics and Control Systems Sub-Working Group Meeting
+     Author ['JR Dunham', 'JC Knight']
+     Venue NA
+     Year 1982
+     Abstract Are they adequate for building crucial software assuming a composite set of quality metrics was defined? 3. Are the more modern formal methods of building software sufficiently mature  ware system. Some formal methods are approaching feasibility for production use. Technical
+     Url https://ntrs.nasa.gov/search.jsp?R=19820016969
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title AJITHA RAJAN
+     Author ['P Doctorate']
+     Venue NA
+     Year NA
+     Abstract high-level requirements that provide objective ade- quacy measures for software validation testing  Lecturer (UK term for Assistant Professor), School of Informat- ics, University of  In proceedings of the 16th International Workshop on Formal Methods for Industrial Critical Systems
+     Url http://homepages.inf.ed.ac.uk/arajan/Aji-CV.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Techniques for Distributed Systems: Joint 12th IFIP WG 6.1 International Conference, FMOODS 2010 and 30th IFIP WG 6.1 International Conference …
+     Author ['J Hatcliff', 'E Zucca']
+     Venue NA
+     Year 2010
+     Abstract Gerard Holzmann (Jet Propulsion Laboratory, USA) discussed the question “Formal Software Veriﬁcation: How Close  was organized as the joint activity of two conferences: FMOODS (Formal Methods for Open  constituted a strong program of stimulating and timely top- ics in the
+     Url https://books.google.com/books?hl=de&lr=&id=SGLj3ANw--cC&oi=fnd&pg=PR2&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=lgv9JM3pFV&sig=ZQ8exub6LIYflTj2u0Og-tABFBk
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title A proof system for correct program development
+     Author ['MP Fourman', 'JD Fleuriot', 'JR Longley']
+     Venue Case for support for EPSRC …
+     Year 2000
+     Abstract A slightly fuller explanation of the more theoretical aspects of our proposal [Lon00] is available online at www.dcs.ed.ac.uk/home/jrl/ml-logic.ps  In the short term, our project will benefit workers in the formal methods and software verification communities
+     Url https://www.academia.edu/download/30736939/10.1.1.22.2289.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer-aided verification
+     Author ['EM Clarke', 'RP Kurshan']
+     Venue IEEE Spectrum
+     Year 1996
+     Abstract Since temporal log- ics are most useful for describing require- ments placed on simple causal relation  The SPIN software verification system, developed by Gerard J. Holzmann at Bell Labs in 1989, is based upon an interleaving model of concurrency, in which, unlike with
+     Url https://ieeexplore.ieee.org/abstract/document/499951/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Comments on adaptive cruise control: hybrid, distributed, and now formally verified
+     Author ['TP Pavlic', 'PAG Sivilotti', 'AD Weide']
+     Venue OSU CSE Dept TR22
+     Year 2011
+     Abstract Figure 1 shows how one formally reasons about a cyber-physical system (CPS), where  as important as ever, but it increases the importance of software verification: the resulting  Now Formally Verified”, Proceedings 17th International Symposium on Formal Methods, LNCS 6664
+     Url http://www.academia.edu/download/30535576/tr22.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title HACMS: high assurance cyber military systems
+     Author ['K Fisher']
+     Venue ACM SIGAda Ada Letters
+     Year 2012
+     Abstract Such systems range from large supervisory control and data acquisition (SCADA) systems that manage physical infrastructure to medical devices such as pace-makers and insulin pumps, to computer peripherals such as printers and routers, to communication devices such as
+     Url https://dl.acm.org/doi/abs/10.1145/2402709.2402695
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title haRVey: a theorem prover for software verification
+     Author ['S Ranise']
+     Venue NA
+     Year NA
+     Abstract Page 1. haRVey: a theorem prover for software verification Silvio Ranise INRIA-Lorraine  proc.'s ; need of user-interaction (either by manual instantiation or hints) • the systems MathSat, CVC, ICS, DPLL(T), ... are based on a combination of SAT solving and decision procedures
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.6193&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Aws Albarghouthi
+     Author ['A Albarghouthi', 'A Gurfinkel', 'Y Li', 'S Chaki', 'MC Ufo']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Methods for Aspect-Oriented Specification of Cyber Physical Systems
+     Author ['L Zhang']
+     Venue International Conference on Computer Science …
+     Year 2011
+     Abstract Object- Z. Each method can describe certain aspects of a cyber physical system: CSP can  for cyber physical systems, we present a combination of the formal methods Timed-CSP  Software Verification Research Centre University of Queensland (2000) 3. Reed, GM, Roseoe, AW
+     Url https://link.springer.com/chapter/10.1007/978-3-642-23324-1_51
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Availability assessment of information and control systems with online software update and verification
+     Author ['V Kharchenko', 'Y Ponochovnyi', 'A Boyarchuk']
+     Venue International Conference on …
+     Year 2014
+     Abstract during a flight. The features related to software verification of spacecraft ICS are the following [3, 5, 18]  Thus, there is a need to improve existing and to develop new methods of software verification of spacecraft ICS. We shall call
+     Url https://link.springer.com/chapter/10.1007/978-3-319-13206-8_15
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Q&A Talking model-checking technology
+     Author ['L Hoffman']
+     Venue Communications of the ACM
+     Year 2008
+     Abstract emc Software verification is a Grand Challenge  eae Formal methods are being taught with some frequency [in the US], but they are not broadly incor- porated into the  Another thing I want to do is focus on embedded soft- ware systems in automotive and avion- ics applications
+     Url https://dl.acm.org/doi/pdf/10.1145/1364782.1364805
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Special Section VCPSS'09
+     Author ['G Fainekos', 'E Goubault', 'F Ivančić']
+     Venue NA
+     Year 2012
+     Abstract time this editorial was written, the International Workshop on Numerical Software Verification (NSV) had  Finally, NSV-I spurred a special issue on Formal Methods in System Design  article argues that the energy-related interaction of the distributed cyber-physical system with the
+     Url https://dl.acm.org/doi/pdf/10.1145/2331147.2331162
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Secure and resilient industrial control systems
+     Author ['D Serpanos']
+     Venue IEEE Design & Test
+     Year 2017
+     Abstract patterns and response requirements are different at the PLC- to-SCADA networks relatively to  In regard to ICS specifi- cally, there exist FDI attacks on critical infrastructure  Recently, the computational formal methods have been introduced to analyze systems, identify vulnerabili
+     Url https://ieeexplore.ieee.org/abstract/document/8172043/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in industrial practice-Bridging the gap (track summary)
+     Author ['M Felderer', 'D Gurov', 'M Huisman', 'B Lisper']
+     Venue … of Formal Methods
+     Year 2018
+     Abstract but also to the security of more traditional critical infrastructures or SCADA systems that  The authors implemented the suggested method within the software verification framework Klever and evaluated  2.4 Session 4: A Repository of Formal Methods Examples and Experiments
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03427-6_10
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Verification of Object-Oriented Software
+     Author ['B Beckert', 'C Marché']
+     Venue … Conference, Karlsruhe Reports in Informatics, Paris …
+     Year 2010
+     Abstract Formal software verification has outgrown the area of academic case studies, and industry is showing  Einar Broch Johnsen University of Oslo, Norway Gabriel Ciobanu ICS, Romanian Academy  1 Alan Mycroft The Practical Application of Formal Methods: Where is the Benefit for
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.8419&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying Autonomous Robots: Challenges and Reflections (Invited Talk)
+     Author ['C Dixon']
+     Venue … on Temporal Representation and Reasoning (TIME …
+     Year 2020
+     Abstract 1 www.robosafe.org 2 www.dcs.gla.ac.uk/research/S4/ 3 www.fairspacehub.org 4  In N. Piterman, editor, Hardware and Software: Verification and Testing - 11th International Haifa Verification Conference, HVC 2015  In Proceedings of the NASA Formal Methods Symposium
+     Url https://drops.dagstuhl.de/opus/volltexte/2020/12969/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Software+Validation"+OR+"Software+Verification"
+     Title Vulnerabilities and safety assurance methods in Cyber-Physical Systems: A comprehensive review
+     Author ['V Bolbot', 'G Theotokatos', 'LM Bujorianu']
+     Venue Reliability Engineering & …
+     Year 2019
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0951832018302709
+

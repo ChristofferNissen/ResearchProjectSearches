@@ -1,0 +1,104 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Case+Study"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domains"+OR+"Regulated+Domain"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Case+Study"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous"+"Regulated+Environments"+OR+"Regulated+Environment"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"FDA+Requirements"+OR+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Continuous"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Environments"+OR+"Regulated+Environment"+"Regulated+Domains"+OR+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirements"+OR+"FDA+Requirement"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"FDA+Requirements"+OR+"FDA+Requirement" 4
+         "DevOps"+"Software+Validation" 110
+         "DevOps"+"Regulated+Domains"+OR+"Regulated+Domain" 41
+         "DevOps"+"Regulated+Environments"+OR+"Regulated+Environment" 144
+         "DevOps"+"Case+Study" 998
+         "DevOps"+"Continuous" 999
+
+     Combinations with "Continuous"
+         "Continuous"+"Regulated+Domains"+OR+"Regulated+Domain" 785
+         "Continuous"+"Case+Study" 999
+         "Continuous"+"DevOps" 999
+         "Continuous"+"Regulated+Environments"+OR+"Regulated+Environment" 999
+         "Continuous"+"Software+Validation" 995
+         "Continuous"+"FDA+Requirements"+OR+"FDA+Requirement" 996
+
+     Combinations with "Regulated+Domains"+OR+"Regulated+Domain"
+         "Regulated+Domains"+OR+"Regulated+Domain"+"FDA+Requirements"+OR+"FDA+Requirement" 6
+         "Regulated+Domains"+OR+"Regulated+Domain"+"Software+Validation" 17
+         "Regulated+Domains"+OR+"Regulated+Domain"+"DevOps" 41
+         "Regulated+Domains"+OR+"Regulated+Domain"+"Regulated+Environments"+OR+"Regulated+Environment" 88
+         "Regulated+Domains"+OR+"Regulated+Domain"+"Case+Study" 507
+         "Regulated+Domains"+OR+"Regulated+Domain"+"Continuous" 785
+
+     Combinations with "Regulated+Environments"+OR+"Regulated+Environment"
+         "Regulated+Environments"+OR+"Regulated+Environment"+"Regulated+Domains"+OR+"Regulated+Domain" 88
+         "Regulated+Environments"+OR+"Regulated+Environment"+"FDA+Requirements"+OR+"FDA+Requirement" 103
+         "Regulated+Environments"+OR+"Regulated+Environment"+"DevOps" 144
+         "Regulated+Environments"+OR+"Regulated+Environment"+"Software+Validation" 176
+         "Regulated+Environments"+OR+"Regulated+Environment"+"Case+Study" 1000
+         "Regulated+Environments"+OR+"Regulated+Environment"+"Continuous" 999
+
+     Combinations with "FDA+Requirements"+OR+"FDA+Requirement"
+         "FDA+Requirements"+OR+"FDA+Requirement"+"Regulated+Domains"+OR+"Regulated+Domain" 6
+         "FDA+Requirements"+OR+"FDA+Requirement"+"DevOps" 4
+         "FDA+Requirements"+OR+"FDA+Requirement"+"Regulated+Environments"+OR+"Regulated+Environment" 103
+         "FDA+Requirements"+OR+"FDA+Requirement"+"Software+Validation" 162
+         "FDA+Requirements"+OR+"FDA+Requirement"+"Case+Study" 1000
+         "FDA+Requirements"+OR+"FDA+Requirement"+"Continuous" 994
+
+     Combinations with "Software+Validation"
+         "Software+Validation"+"Regulated+Domains"+OR+"Regulated+Domain" 17
+         "Software+Validation"+"DevOps" 110
+         "Software+Validation"+"Regulated+Environments"+OR+"Regulated+Environment" 176
+         "Software+Validation"+"FDA+Requirements"+OR+"FDA+Requirement" 162
+         "Software+Validation"+"Continuous" 995
+         "Software+Validation"+"Case+Study" 998
+
+     Combinations with "Case+Study"
+         "Case+Study"+"Regulated+Domains"+OR+"Regulated+Domain" 507
+         "Case+Study"+"Regulated+Environments"+OR+"Regulated+Environment" 1000
+         "Case+Study"+"Software+Validation" 998
+         "Case+Study"+"FDA+Requirements"+OR+"FDA+Requirement" 1000
+         "Case+Study"+"DevOps" 998
+         "Case+Study"+"Continuous" 998
+
+

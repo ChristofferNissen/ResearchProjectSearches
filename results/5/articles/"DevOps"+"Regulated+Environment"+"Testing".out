@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Regulated+Environment"+"Testing"
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Implementing DevOps practices in highly regulated environments
+     Author ['JA Morales', 'H Yasar', 'A Volkman']
+     Venue Proceedings of the 19th International …
+     Year 2018
+     Abstract 1 INTRODUCTION A highly regulated environment [8, 10, 13, 14, 18] (HRE) is typically characterized by  Implementing DevOps Practices in Highly Regulated Environments  Obstacle 4 Description: The operational testing environment is air gapped from the development team
+     Url https://dl.acm.org/doi/abs/10.1145/3234152.3234188
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract Page 7. DevOps in an ISO 13485 Regulated Environment  The analysis notes specific contradictions between IEC 62304 and DevOps [ID46]: 1. Clause 5.5.3: All software units must meet verification acceptance criteria before entering integration activities and integration testing
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Implementing Secure DevOps assessment for highly regulated environments
+     Author ['H Yasar']
+     Venue Proceedings of the 12th International Conference on …
+     Year 2017
+     Abstract A highly-regulated environment(HRE) is  In spite of the challenges an HRE poses to implementing Secure DevOps[4], there are some practices that can be implemented and used in the daily work life  These technologies can also be used to assure the developer testing
+     Url https://dl.acm.org/doi/abs/10.1145/3098954.3105819
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Weaving Security into DevOps Practices in Highly Regulated Environments
+     Author ['JA Morales', 'H Yasar', 'A Volkmann']
+     Venue International Journal of Systems …
+     Year 2018
+     Abstract 1.﻿﻿ Security﻿requirements 2.﻿﻿ Secure﻿coding 3.﻿﻿ Testing﻿for﻿vulnerabilities 4.﻿﻿ Testing﻿for﻿unexpected﻿behaviors 5.﻿﻿ Misuse﻿cases  1.﻿﻿ Detail﻿ the﻿ process﻿ of﻿ conducting﻿ a﻿ DevOps﻿ assessment﻿ for﻿ a﻿ highly﻿ regulated﻿ environment﻿(HRE)
+     Url https://www.igi-global.com/article/weaving-security-into-devops-practices-in-highly-regulated-environments/221157
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Next-generation process integration: CMMI and ITIL do devops
+     Author ['B Phifer']
+     Venue Cutter IT Journal
+     Year 2011
+     Abstract wisely... .. results in devops balance. Requirements  principles. Use engineering best practices from CMMI for Development V1. 3 (which now includes agile support) for technical design, testing, and product integration. Follow
+     Url http://twinkie.homedns.org/TechDocs/itj1108.pdf#page=28
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE
+     Author ['D Shepard']
+     Venue NA
+     Year 2018
+     Abstract Automation: Deployment, testing, provisioning, any manual process Monitoring  Not Started, Starting, Fundamental, Managed and Optimizing DevOps • And others like  What is HRE? • Highly-Regulated Environment (DoD, Health, Finance, etc) • Air-gapped computer system
+     Url https://apps.dtic.mil/sti/citations/AD1086793
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Metrics to Meet Security & Privacy Requirements with Agile Software Development Methods in a Regulated Environment
+     Author ['TJ Wagner', 'TC Ford']
+     Venue 2020 International Conference on …
+     Year 2020
+     Abstract For both metrics, DevOps has a strong ability to meet software regulated environment attributes, as it seeks to  The ability of DevOps to satisfy these metrics is increased because of two DevOps practices: collaborative development and continuous testing [44]
+     Url https://ieeexplore.ieee.org/abstract/document/9049681/
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Security impacts of sub-optimal DevSecOps implementations in a highly regulated environment
+     Author ['JA Morales', 'TP Scanlon', 'A Volkmann']
+     Venue Proceedings of the 15th …
+     Year 2020
+     Abstract Security Impacts of Sub-Optimal DevSecOps Implementations in a Highly Regulated Environment  temporary fixes allowed to run in production, insufficient configuration management, lack of static and dynamic analysis of code, development and testing platform incompatibilities
+     Url https://dl.acm.org/doi/abs/10.1145/3407023.3409186
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Component Analysis of DevOps and DevSecOps
+     Author ['JK Hong']
+     Venue Journal of the Korea Convergence Society
+     Year 2019
+     Abstract Management elements include image, logging/ monitoring, patches, platform governance, change, development and testing, distribution, authority and credentials  Establishing the preassessment DevOps Posture of an SDLC in a highly regulated environment: Third in a
+     Url https://www.koreascience.or.kr/article/JAKO201928862523841.page
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Agile application lifecycle management: Using DevOps to drive process improvement
+     Author ['B Aiello', 'L Sachs']
+     Venue NA
+     Year 2016
+     Abstract 7.13 Systems and Application Design 7.14 Code Quality Instrumentation 7.15 Testing the Lifecycle 7.16 Test Case Management 7.17 TestDriven Development 7.18 Environment Management 7.18.1 Gold Copies 7.19 Supporting the CMDB 7.20 Driving DevOps 7.21 Supporting
+     Url https://books.google.com/books?hl=en&lr=&id=zMY_DAAAQBAJ&oi=fnd&pg=PT26&dq=%22DevOps%22+%22Regulated+Environment%22+%22Testing%22&ots=YEEZ2yLkNc&sig=bEoznvZ5RFJK__aZE5KBKeQgO0A
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Ovum Decision Matrix: Selecting an Application Lifecycle Management Solution, 2016–17
+     Author ['M Azoff']
+     Venue NA
+     Year 2016
+     Abstract examines in depth the role of ALM in systems of systems and engineered product manufacturing, as well as in traditional enterprise IT and regulated environment software development  DevOps adopters are therefore aware of and considering MSA  Manage combinatorial testing
+     Url https://intland.com/wp-content/uploads/2016/03/Intland_SWOT_Selecting-an-Application-Lifecycle-Management-Solution_2016%E2%80%9317.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Proceedings of the 1st International Workshop on …
+     Year 2014
+     Abstract DevOps BizDev  This suggests that continuous testing can be an effective tool to reduce one of the types of wastes, namely that of waiting time. 5 Page 6  Fitzgerald et al. [22] discuss the tailoring of the Scrum method for a regulated environment, R-Scrum as it is termed
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title System and method for tracking and authenticating code transition during phases of development and deployment
+     Author ['R Chandrasekaran', 'K Vedagiri']
+     Venue US Patent App. 16/114,395
+     Year 2020
+     Abstract To meet the aforementioned requirements of quickly designing, building, testing, deploying, and maintaining software applications, enterprises are adopting Development Operations (or DevOps) practices  Moreover, implementing DevOps in regulated environment to ensure
+     Url https://patents.google.com/patent/US20200012779A1/en
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Continuous delivery sounds great, but will it work here?
+     Author ['J Humble']
+     Venue Queue
+     Year 2017
+     Abstract platform-as-a-service (PaaS) can also provide significant benefits in a highly regulated environment  Much of this work is implementing, documenting, and testing the controls required by  this case study, see Leading the Transformation: Applying Agile and DevOps Principles at
+     Url https://dl.acm.org/doi/pdf/10.1145/3178368.3190610
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Understanding the Benefits of Agile Software Development in Regulated Environments
+     Author ['J Karrenbauer', 'M Wiesche', 'H Krcmar']
+     Venue NA
+     Year 2019
+     Abstract Table 2: Typical examples of requirements in a regulated environment [2]  The impact of these requirements leads to different problems, for instance during the overall process implementation, during the transition to the testing phase, or within the documentation
+     Url https://aisel.aisnet.org/wi2019/track07/papers/5/
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Scrum at Scale in a COBIT Compliant Environment: The Case of Turkiye Finans IT
+     Author ['N Ozkan', 'A Tarhan', 'C Kucuk']
+     Venue City
+     Year 2017
+     Abstract The transformation had also to take place in a highly regulated environment driven by COBIT (Control  scripted tests and interactive user testing this iterative, incremental and continuous testing can be hard  And, for the time being, we have started work on “devops” to fasten and
+     Url https://www.researchgate.net/profile/Necmettin_Ozkan/publication/316826906_SCRUM_at_a_Scale_in_a_COBIT_Compliant_Environment_The_Case_of_Turkiye_Finans_IT/links/5954f8920f7e9b2da1b3bd74/SCRUM-at-a-Scale-in-a-COBIT-Compliant-Environment-The-Case-of-Turkiye-Finans-IT.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Guide to Implementing DevSecOps for a System of Systems in Highly Regulated Environments
+     Author ['J Morales', 'R Turner', 'S Miller', 'P Capell', 'P Place']
+     Venue NA
+     Year NA
+     Abstract to support systems develop- ment in HREs and is based on Implementing DevOps Practices in Highly Regulated Environments [Morales 2018]. An HRE is enforced when some system software or hardware is of a sensitive na- ture, requiring development and testing in closed
+     Url https://kilthub.cmu.edu/articles/journal%20contribution/Guide_to_Implementing_DevSecOps_for_a_System_of_Systems_in_Highly_Regulated_Environments/12363770/1
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract This means that code no longer can be “thrown over the wall” to operations. • Automation— DevOps relies on full automation of the build, deployment and testing in order to achieve short lead times, and consequently rapid delivery and feedback from end-users. •
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Magic Quadrant for Enterprise Agile Planning Tools
+     Author ['KJ Mann', 'TE Murphy', 'M West']
+     Venue Gartner, Inc
+     Year 2018
+     Abstract Unlike the majority of solutions, ALM Octane integrates testing capabilities  well with ServiceNow's DevOps product and brings excellent visibility to stories through the DevOps toolchain  Siemens if you are creating systems in a quality- sensitive, regulated environment using agile
+     Url https://aptasolutions.com/wp-content/uploads/2020/06/Rally-Software-Gartner-2020.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title The future of software development methods
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue The Routledge Companion to Management …
+     Year 2017
+     Abstract A case in point is the current focus on DevOps and continuous deployment  to be independent of the software development function in a regulated environment, senior management  has to do with requirements, architecture and system design, documentation, testing, and other
+     Url https://cora.ucc.ie/handle/10468/6770
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Case Study of Agile Security Engineering: Building Identity Management for a Government Agency
+     Author ['K Rindell', 'S Hyrynsalmi', 'V Leppänen']
+     Venue International Journal of …
+     Year 2017
+     Abstract This study reports the experiences in agile development in a security regulated environment  audit were performed based on the documentation and included physical testing of implementation  the roles of developers and maintenance effectively prevents the `DevOps' type of
+     Url https://www.igi-global.com/article/case-study-of-agile-security-engineering/179643
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Automated evaluation and reporting of microservice regulatory compliance
+     Author ['M Alagappan', 'MR Wojcik']
+     Venue US Patent 10,713,664
+     Year 2020
+     Abstract US10713664B1 - Automated evaluation and reporting of microservice regulatory compliance - Google Patents. Automated evaluation and reporting of microservice regulatory compliance. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US10713664B1/en
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Talking About Quality
+     Author ['K Iberle']
+     Venue NA
+     Year 2018
+     Abstract Do we have enough regression testing to notice this?” Sam: “What if we pulled together all the tests for response times and put them in one big test  Herman, Neal. 2016. “Implementing Agile in an FDA Regulated Environment”. Agile Dev/Better Software DevOps West 2016
+     Url https://www.pnsqc.org/wp-content/uploads/2018/09/13-Iberle-Talking-About-Quality.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Případová studie a protypová implementace aplikace strojového učení v ALM Polarion
+     Author ['M Sláma']
+     Venue NA
+     Year 2018
+     Abstract This demand leads to a new level of management for software development, where tools, pro- cesses, implementation, testing and reporting are organized in a single place with continuously improving traceability and productivity
+     Url https://dspace.cvut.cz/handle/10467/76166
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title The amorphous nature of agile: no one size fits all
+     Author ['JF George', 'K Scheibe', 'AM Townsend']
+     Venue Journal of Systems and …
+     Year 2018
+     Abstract to software development has now been replaced with newer approaches to development, such as DevOps and Bimodal IT  Most documentation efforts were related to testing  of the differences is the need for documentation in Company C, due to its highly regulated environment
+     Url https://www.emerald.com/insight/content/doi/10.1108/JSIT-11-2017-0118/full/html
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Building in Quality–Ten Years Later
+     Author ['K Iberle']
+     Venue NA
+     Year 2017
+     Abstract 2000. Extreme Programming Explained. New York: Addison-Wesley. Black, Rex. 2004. Critical Testing Processes. New York: Addison-Wesley. Herman, Neal. 2016. “Implementing Agile in an FDA Regulated Environment”. Agile Dev/Better Software DevOps West 2016
+     Url http://kiberle.com/wp-content/uploads/2016/01/Building-in-Quality-Paper-v19.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Tool Support for Software Processes
+     Author ['R Kneuper']
+     Venue Software Processes and Life Cycle Models
+     Year 2018
+     Abstract For example, without tools and an environment that supports frequent testing etc., agile processes are  to change the process assets, while an individual project in a non-regulated environment will tend  an important topic over the last few years, mainly in the context of DevOps (cf
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98845-0_7
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title A hybrid assessment approach for medical device software development companies
+     Author ['Ö Özcan‐Top', 'F McCaffery']
+     Venue Journal of Software: Evolution and …
+     Year 2018
+     Abstract for Creating Knowledge/Amplifying Learning; User Story, Release Schedule, Unit Testing and Zero  successful implementation of a tailored Scrum approach in a regulated environment and mention  We selected eXtreme programming,50 Scrum,51 DevOps,52 Lean,53 Kanban
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1929
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Software Engineering Education in the New World: What Needs to Change?
+     Author ['M Bass']
+     Venue 2016 IEEE 29th International Conference on Software …
+     Year 2016
+     Abstract the business model, the domain, who the customers were, if it was a regulated environment, and so  This doesn't mean that there is little pre-deployment testing, just that there is an explicit  Movements such as devops [4, 5, 10, 17] and chaos engineering [19] embody this idea
+     Url https://ieeexplore.ieee.org/abstract/document/7474486/
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Exploring the Encounter of ContinuousDeployment and the Financial Industry
+     Author ['F FRIE', 'G HAMMMARLUND']
+     Venue NA
+     Year 2016
+     Abstract Page 11. 5.3 Organising Software Development . . . . . 41 5.4 Innovation in Regulated Environment . . . . . 43 5.5 Summary . . . . . 46 6 Analysis 47 6.1 Automation . . . . . 48 6.1.1 Testing
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:948740
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Adopting Cloud at Liberty Global
+     Author ['V Choudhary']
+     Venue NA
+     Year 2016
+     Abstract Page 1. 1 Adopting Cloud at Liberty Global Reader: Professor Gary Akehurst Vijay Choudhary vchoudhary@emba16.rsm.nl August 2016 Rotterdam School of Management (RSM), Erasmus University Burgemeester Oudlaan
+     Url https://www.researchgate.net/profile/Vijay_Choudhary7/project/Adopting-Cloud/attachment/58905989934940fcce40e1ed/AS:456523588608010@1485855113849/download/AdoptingCloud.pdf?context=ProjectUpdatesLog
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Enable more frequent integration of software in industry projects
+     Author ['T Mårtensson', 'D Ståhl', 'J Bosch']
+     Venue Journal of Systems and Software
+     Year 2018
+     Abstract The papers discuss problems and (in some cases) solutions related to system thinking, reducing the integration time, testing to secure quality and stability and activity planning and execution  suggest integrating scalability testing into the continuous integration process
+     Url https://www.sciencedirect.com/science/article/pii/S0164121218300906
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title An empirical study of architecting for continuous delivery and deployment
+     Author ['M Shahin', 'M Zahedi', 'MA Babar', 'L Zhu']
+     Venue Empirical Software Engineering
+     Year 2019
+     Abstract practices to fully realize the promises of DevOps without compromising quality (Bass et al. 2015). Continuous Integration (CI) is the practice of integrating code changes constantly (ie, at least daily) into the main branch and entails automated build and testing (Fowler 2015a
+     Url https://link.springer.com/article/10.1007/s10664-018-9651-4
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title NFV security: Emerging technologies and standards
+     Author ['I Faynberg', 'S Goeringer']
+     Venue Guide to Security in SDN and NFV
+     Year 2017
+     Abstract One limitation of the regulated environment is that network operators have much less control of  Moreover, concurrent changes in other IT technologies (such as DevOps) introduce further  used to create a more structured approach for authorizing whether testing and monitoring
+     Url https://link.springer.com/chapter/10.1007/978-3-319-64653-4_2
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Advances in Streamlining Software Delivery on the Web and its Relations to Embedded Systems
+     Author ['K Hirvikoski']
+     Venue NA
+     Year 2015
+     Abstract Producing hardware takes up front design and time. Experimentation is more expensive. Many stringent contexts require processes with assurances and transparency — usually provided by documentation and long-testing phases
+     Url https://helda.helsinki.fi/handle/10138/156665
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Banking in the cloud: Part 1–banks' use of cloud services
+     Author ['WK Hon', 'C Millard']
+     Venue Computer law & security review
+     Year 2018
+     Abstract There is also an issue regarding the right types of skills, particularly in security, as banks' developers move increasingly from a “waterfall” to an agile, “devops” world; a “massive change”  More generally, a problem is evolving “devops for cloud”, not just cloud security. 3.3.4.3
+     Url https://www.sciencedirect.com/science/article/pii/S0267364917303722
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Development of Generic Communication Middleware for Embedded Sensor Systems Transmitting Health Parameters
+     Author ['S Kailayanathan', 'S Kamdod']
+     Venue NA
+     Year 2020
+     Abstract EU's current directives for Medical Devices Directives (MDD) and active implantable medical devices [7]. MDR requests increased post-market surveillance authority by the Notified Body with unannounced audits, along with product sample checks and product testing that will
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1445042
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Cours d'Anglais Gratuit
+     Author ['A NOW']
+     Venue NA
+     Year 2000
+     Abstract into timescales, scopes and resource requirements Work closely with clients and various stakeholders Work closely with UX designers on Wireframes and storyboards Aid with recruitment and lead the digital teams Oversee design, development, production and testing of digital
+     Url https://dial.uclouvain.be/memoire/ucl/fr/object/thesis%3A11856/datastream/PDF_04/view
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title " Soft Skills in Online Job Advertisements: an Analysis of British Online Job Ads for Project Managers and System Engineers
+     Author ['N Grandjean', 'S De Cock']
+     Venue NA
+     Year 2000
+     Abstract into timescales, scopes and resource requirements Work closely with clients and various stakeholders Work closely with UX designers on Wireframes and storyboards Aid with recruitment and lead the digital teams Oversee design, development, production and testing of digital
+     Url https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A11856&datastream=PDF_04
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Key supply chain integration factors for success of medical device startups
+     Author ['S Gupta']
+     Venue NA
+     Year 2018
+     Abstract Both of 9 Page 11. these industries are subject to a variety of laws and regulations that govern the patenting, testing, safety, efficacy and marketing of drugs  medical devices. The FDA governs the laws and regulations relating to the development, testing
+     Url https://dspace.mit.edu/handle/1721.1/117921
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title SELECTING PERFORMANCE MEASUREMENT INDICATORS FOR IT RISK MANAGEMENT PROCESS
+     Author ['I Tirić Podoreški']
+     Venue NA
+     Year 2019
+     Abstract In other types of organizations, if not supporting strongly regulated environment, IT risk is often not  context of customer experience, value stream and digital transformation, as well as embracing new ways of working such as Lean, Agile and DevOps.[1]
+     Url https://zir.nsk.hr/islandora/object/algebra%3A469
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Factors influencing the adoption of external web API's: an examination of the uptake of external web API's by Absa Bank (a case study of Absa Bank South Africa).
+     Author ['TT Ndlovu']
+     Venue NA
+     Year 2017
+     Abstract APIs include data transmission, data exchange, data access, and web API design (Newcomer & Lomow, 2005). As they operate in a strictly regulated environment the banking industry has a need to apply controls and standardization beyond technology
+     Url http://ukzn-dspace.ukzn.ac.za/handle/10413/17974
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Companion to manuscript: Do Scaling Agile Frameworks Address Risk in Global Software Development? An Empirical Study
+     Author ['S Beecham', 'T Clear', 'R Lal', 'J Noll']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Scaling Agile Frameworks and Global Software Development Risk: Supplementary Data Companion to manuscript: Do Scaling Agile Frameworks Address Risk in Global Software Development? An Empirical Study 5th May, 2020 Lero Technical Report No. TR_2020_03
+     Url https://lero.ie/sites/default/files/Beecham_2020_TR003.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Use by banks of cloud computing: An empirical study
+     Author ['WK Hon', 'C Millard']
+     Venue Queen Mary School of Law Legal Studies …
+     Year 2016
+     Abstract 56 8.3.5.1 Contractual security obligations 57 8.3.5.2 Security risk assessments 58 8.3.5.3 Encryption etc 59 8.3.5.4 Data location 60 8.3.5.5 Penetration testing 61 8.3.5.6 Banks' security responsibilities 61 8.3.5.7 Breach notification 61
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2856431
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Best Agile Articles of 2017
+     Author ['M de la Maza', 'C Silas']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Best Agile Articles of 2017 Editors: Michael de la Maza, CEC & Cherie Silas, CEC Page 2. ii BEST AGILE ARTICLES OF 2017 Edited By: Michael de la Maza, CEC & Cherie Silas, CEC Copyright ©2018 by Michael de la Maza All rights reserved
+     Url https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Best-Agile-Articles-2017.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Technical Report No: 2019-TR-05 GAME: Global Agile Model for Enterprises–Appendix
+     Author ['MA Razzak']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Technical Report No: 2019-TR-05 GAME: Global Agile Model for Enterprises–Appendix Mohammad Abdur Razzak Lero–the Science Foundation Ireland Research Centre for Software Faculty of Science and Engineering Computer Science and Information System
+     Url https://www.lero.ie/sites/default/files/GAME__Global_Agile_Model_for_Enterprises__Appendices_-2.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Continuous integration and delivery applied to large-scale software-intensive embedded systems
+     Author ['T Martensson']
+     Venue NA
+     Year 2019
+     Abstract (2016) propose a continuous integration workflow with two main steps: exploratory testing and “fine-grained  The study also included an analysis of how the terms continuous integration, continuous delivery, continuous deployment and DevOps are used in literature. Page 18. 15
+     Url https://www.rug.nl/research/portal/files/77217524/Complete_thesis.pdf
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Persistent {SRE} Antipatterns: Pitfalls On the Road to Creating a Successful {SRE} Program Like Netflix and Google
+     Author ['J Horowitz', 'B Bisset', 'L Carey']
+     Venue NA
+     Year 2017
+     Abstract [Not Found]
+     Url https://www.usenix.org/conference/srecon17europe/program
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title AWS Certified SysOps Administrator
+     Author ['S PERROTT', 'BEN PIPER']
+     Venue NA
+     Year NA
+     Abstract You're almost there! Registering and Taking the Exam When you register for the exam, you have your choice of either PSI or Pearson Vue for your testing center  You have a total of 130 minutes to finish the exam. You should arrive at the testing center early
+     Url https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119622857
+
+
+     Search term "DevOps"+"Regulated+Environment"+"Testing"
+     Title Online Coaching Help Explore Tagged Posts Last Seen Blogs
+     Author ['MO Day']
+     Venue NA
+     Year NA
+     Abstract Explore coachingreviewsite Tumblr blog with no restrictions, modern design and the best experience | Tumgir.
+     Url https://www.tumgir.com/coachingreviewsite
+

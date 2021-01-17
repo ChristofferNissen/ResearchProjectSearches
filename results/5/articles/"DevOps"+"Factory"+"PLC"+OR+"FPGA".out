@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title PLC Virtualization and Software Defined Architectures in Industrial Control Systems
+     Author ['M Peltonen']
+     Venue NA
+     Year 2017
+     Abstract New concepts, such as cyber-physical systems, mi- croservices and Smart Factory are introduced  24 5.2 PLC virtualization advantages and question marks  DCS Distributed control system DevOps Software development & information technology operations
+     Url https://www.theseus.fi/handle/10024/134029
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Software development process improvements-Case QPR Software Plc
+     Author ['L Zalevskaya']
+     Venue NA
+     Year 2019
+     Abstract The study began by summarizing previously identified problems in the software development process at QPR Software Plc and formulating  for the DevApps team, the team members' practical experience of working with Git and with the Azure DevOps developer services
+     Url https://www.theseus.fi/handle/10024/265364
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Towards safe dynamic updates of distributed embedded applications in factory automation
+     Author ['K Telschig', 'A Knapp']
+     Venue … on Emerging Technologies and Factory …
+     Year 2017
+     Abstract Usually, an additional gateway device needs to be placed into the factory that reads the data from the Programmable Logic Controllers (PLC), eg using  to op- timize the plant according to the gained analytical insights [5], as also propagated by the DevOps movement [6
+     Url https://ieeexplore.ieee.org/abstract/document/8247735/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Effect of cooperation on manufacturing it project development and test bed for successful industry 4.0 project: Safety management for security
+     Author ['S Park', 'JH Huh']
+     Venue Processes
+     Year 2018
+     Abstract This study attempts to study the influence of the DevOps project on the existing System Integration (SI) project in manufacturing IT under the environment created by smart factory and Industry 4.0. This study also responds to recent safety concerns in manufacturing facilities
+     Url https://www.mdpi.com/2227-9717/6/7/88
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Towards the Digital Factory: A Microservices-Based Middleware for Real-to-Digital Synchronization
+     Author ['M Ciavotta', 'G Dal Maso', 'D Rovere', 'R Tsvetanov']
+     Venue Microservices
+     Year 2020
+     Abstract Towards the Digital Factory: A  This work presents the architecture and discusses the applications through a real-life case study, of a microservices-based middleware supporting the next generation of smart- factory applications with particular attention paid to simulation tools
+     Url https://link.springer.com/chapter/10.1007/978-3-030-31646-4_11
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Microservice-oriented master control for AGV in the automotive factory of the future
+     Author ['T Tasci', 'C Ellwein', 'MM Strljic', 'O Riedel']
+     Venue 17. Internationales Stuttgarter …
+     Year 2017
+     Abstract is not fulfilled for software-based systems, but is partly fulfilled for the PLC-based systems  Microservice-oriented master control for AGV in the automotive factory of the future 13  T. Schneider and A. Wolfsmantel, Achieving Cloud Scalability with Microservices and DevOps in the
+     Url https://link.springer.com/chapter/10.1007/978-3-658-16988-6_63
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title A Learning Factory Case Study: Industry 4.0 Digital Foundation
+     Author ['M Aly']
+     Venue NA
+     Year 2018
+     Abstract Cyber-Physical Production Systems (CPPS) (Gräßler, Taplick, et al.; Gräßler, Pöhler, et al.). First, the PCP Learning Factory is based on a Product Lifecycle (PLC) approach with more focus and interaction between education and research. PCP deploys various
+     Url https://macsphere.mcmaster.ca/handle/11375/23756
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Curriculum Development for Smart Factory Information Security Awareness Training
+     Author ['I Jeon', 'B Yi', 'D Kim', 'J Choi']
+     Venue Journal of the Korea Institute of …
+     Year 2016
+     Abstract Page 6. 1340 스마트공장 정보보호 인식교육을 위한 커리큘럼 개발 Fig. 5. Smart factory level  중간수준은 설비, 생산정보를 활용한 품질분석 및 실시간 생산관리를 하며 센서, PLC, 등을 활용한 실시간 생산정보를 자 동으로 수집하고 설비제어를 하는 수준이다
+     Url https://www.koreascience.or.kr/article/JAKO201632747975326.page
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Cloud-based automated test execution factory
+     Author ['A Patel', 'A Arkadyev', 'R Sharma']
+     Venue US Patent 10,261,892
+     Year 2019
+     Abstract US10261892B2 - Cloud-based automated test execution factory - Google Patents. Cloud-based automated test execution factory. Download PDF Info. Publication number US10261892B2. US10261892B2 US15/603,687 US201715603687A
+     Url https://patents.google.com/patent/US10261892B2/en
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Stabilizing the industrial system: Managed security services' contribution to cyber-peace
+     Author ['C Jansen']
+     Venue IFAC-PapersOnLine
+     Year 2017
+     Abstract security-related data and monitor/ analyse security features remotely DevOps Method integrating  that are used for an industrial production process PLC = Programmable Logic  Control system architecture for factory-wide industrial process management, using peripheral
+     Url https://www.sciencedirect.com/science/article/pii/S2405896317312351
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title The Development of Smart Manufacturing and Cases Study in Taiwan
+     Author ['TC Chan']
+     Venue 2018 IEEE International Conference on Advanced …
+     Year 2018
+     Abstract Device Management ( Condor ) Metering DB Services AFS Management Center Knowledge Center Security DevOps SSO Prognostic &  PLC Industrial Computer Switching board CNC Controller  CNC Machine Tool Factory Machine Electronic process equipment Peripherals
+     Url https://ieeexplore.ieee.org/abstract/document/8614926/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title 제조 산업에서의 인공지능 서비스 플랫폼 활용 모습 제안
+     Author ['이준열']
+     Venue 한국경영과학회 학술대회논문집
+     Year 2019
+     Abstract Deep Learning Libraries TensorFlow KERAS Scikit-Learn PyTorch DevOps IDE in GitLab Cloud AI Models for Smart Factory LSTM Grid LSTM CNN R-CNN  VAE-GAN InfoGAN DCGAN DDQN SmartEquipment (PLC and/or IoT) Big-Data Platform for AI Service Operations
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08011134
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Edge-Enabled Autonomous Navigation and Computer Vision as a Service: A Study on Mobile Robot's Onboard Energy Consumption and Computing Requirements
+     Author ['J Lambrecht', 'E Funk']
+     Venue Iberian Robotics conference
+     Year 2019
+     Abstract This project mainly focused a factory cloud scenario, ie edge computing  microservices are encapsulated in Docker containers that are integrated in a DevOps pipeline orchestrated  highly time-sensitive functions are realized by a Programmable Logic Controller (PLC) which is
+     Url https://link.springer.com/chapter/10.1007/978-3-030-36150-1_24
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Sensors, Devices, and Gateways
+     Author ['B Familiar', 'J Barnes']
+     Venue Business in Real-Time Using Azure IoT and Cortana …
+     Year 2017
+     Abstract an IoT and advanced analytics digital transformation journey, namely DevOps and Device  RS485, or RS422 serial port to connect to a PLC that provides  var cadence = Convert.ToInt32(. _deviceManifest.Extensions["heartbeat"]); _heartbeatTask = Task.Factory.StartNew(async
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-2650-6_4
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Object Interconnections: Dynamic CORBA, Part 2-Dynamic Any
+     Author ['DC Schmidt', 'S Vinoski']
+     Venue NA
+     Year NA
+     Abstract Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726  You first retrieve a reference to such a factory from the ORB using ORB::resolve_initial_references, as shown below
+     Url https://www.drdobbs.com/object-interconnections-dynamic-corba-pa/184403840?queryText=
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Implementing Reliable Embedded Ethernet Connectivity
+     Author ['N Rajbharti']
+     Venue NA
+     Year NA
+     Abstract Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales  A home automation system may use a combination of Web-server, e-mail, and SMS interfaces, while a factory automation floor may use an SNMP interface
+     Url http://www.drdobbs.com/embedded-systems/implementing-reliable-embedded-ethernet/197002462
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Zero Defect Assurance of Three-Wheeler Product Using IoT Systems
+     Author ['MA Hussain', 'UM Iqbal']
+     Venue IOP Conference Series: Materials …
+     Year 2020
+     Abstract 25 1101 [4] Zhong RY, Xu X and Wang L 2017 IoT-enabled smart factory visibility and  A, Zwierzyna J and Koziorek J 2018 Possibilities of transfer process data from PLC to Cloud  Systems and Signal Processing 135 106382 [8] Truong HL and Klein P 2020 DevOps Contract for
+     Url https://iopscience.iop.org/article/10.1088/1757-899X/912/3/032025/meta
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Towards a Correspondence Model for the Reuse of Software in Multiple Domains
+     Author ['S Koch', 'F Reiche']
+     Venue NA
+     Year NA
+     Abstract Task Lists of PLC Pro- grams for Factory Automation”. In: IECON'18. IEEE, Oct. 2018, pp. 2949–2954. [8] R. Heinrich et al. “Software Architecture for Big Data and the Cloud”. In: Elsevier, 2017. Chap. An Architectural Model-Based Approach to Quality- aware DevOps in Cloud
+     Url https://sdqweb.ipd.kit.edu/publications/pdfs/koch2019a.pdf
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Real-time CORBA, Part 2: Applications and Priorities
+     Author ['DC Schmidt']
+     Venue NA
+     Year NA
+     Abstract Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales  It's a Controller factory (ie, drones use this interface to create their controllers during power up); End-user operators use this interface to set their high-level mobility targets
+     Url http://www.drdobbs.com/real-time-corba-part-2-applications-and/184403812?pgno=6
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title University-Industry: a successful collaboration experience
+     Author ['GS Benítez', 'RM Hernandez']
+     Venue … Conference on Intelligent …
+     Year 2020
+     Abstract The interconnected and launched the PLC, drive, and HMI  Education 4.0," 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA  K. Kuusinen and S. Albertsen, "Industry-Academy Collaboration in Teaching DevOps and Continuous
+     Url https://ieeexplore.ieee.org/abstract/document/9160302/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Integrated and intelligent manufacturing: perspectives and enablers
+     Author ['Y Chen']
+     Venue Engineering
+     Year 2017
+     Abstract CNC: computer numerical controller; PLC: programmable logic controller; ICT: information and communications  evolution of the technology and equipment on most factory floors, the  Using its modern development-and-operations (DevOps) environment, third-party developers
+     Url https://www.sciencedirect.com/science/article/pii/S2095809917307105
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Gazes to Traces: Tracing Developers' Eyes to Automate Traceability Link Recovery
+     Author ['B Sharif']
+     Venue NA
+     Year NA
+     Abstract SE community. The topics discussed in this issue included software requirements and testing, DevOps, gamification, and software architecture. The feature topic in this issue of IEEE Software was software testing. This issue
+     Url http://blog.ieeesoftware.org/2017/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title The corba component model part 4: Implementing components with ccm
+     Author ['B Natarajan', 'DC Schmidt', 'S Vinoski']
+     Venue … Portal URL http://www. ddj. com …
+     Year 2004
+     Abstract Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726  This design is essentially the Factory Method pattern [GoF], which localizes the creation of an object in a subclass
+     Url http://www.drdobbs.com/the-corba-component-model-part-4-impleme/184403889
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Essentials of Subfile Programming and Advanced Topics in RPG IV
+     Author ['IV RPG']
+     Venue NA
+     Year NA
+     Abstract Beginning Facebook Game Apps Development Beginning Fedora Desktop: Fedora 20 Edition Beginning FPGA: Programming Metal: Your  for SharePoint 2013 Beginning PowerShell for SharePoint 2016: A Guide for Administrators; Developers; and DevOps Engineers; Second
+     Url http://cbtcampus.com/pdfs/2018-10%20IT%20Pro%20PDF.pdf
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title The Best Computer Jobs in America: Twenty Minutes from Home
+     Author ['IV RPG']
+     Venue NA
+     Year NA
+     Abstract Learn HTML5 and JavaScript for Android Pro Website Development and Operations: Streamlining DevOps for Large-Scale Websites Learn Objective-C on the Mac: For iOS and OS X, Second Edition  Beginning WebGL for HTML5 Android Apps Security DevOps for Developers
+     Url http://www.cbtcampus.com/pdfs/NEW%20ITPRO.pdf
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title IoT Edge Devices and Microsoft
+     Author ['R Stackowiak']
+     Venue Azure Internet of Things Revealed
+     Year 2019
+     Abstract For example, OPC UA is the industrial protocol in Microsoft's Connected Factory solution accelerator  A PLC sometimes used in measuring liquid levels in tanks and for similar  integration and continuous delivery (CI/CD) process familiar in modern DevOps scenarios when
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-5470-7_3
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Intelligent network services enabling industrial IoT systems for flexible smart manufacturing
+     Author ['D Behnke', 'M Müller', 'PB Bök']
+     Venue 2018 14th International …
+     Year 2018
+     Abstract 4) An adapted DevOps methodology and associated tools that will help connect stakeholders to a modern  As a result, the requirements to factory networks increase dramatically  The machine is controlled by a programmable logic controller (PLC) which reads sensor input data
+     Url https://ieeexplore.ieee.org/abstract/document/8589088/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title An extensible edge computing architecture: Definition, requirements and enablers
+     Author ['V Gezer', 'J Um', 'M Ruskowski']
+     Venue Proceedings of the UBICOMM
+     Year 2017
+     Abstract tasks, such as reading e-mails, watching videos to the factory automation and  2) PLC protocols: Object Linking and Embedding for Process Control Unified Architecture (OPC-UA  Available: https://www.ibm.com/ devops/method/content/architecture/iotArchitecture/industrie 40 [10
+     Url https://www.researchgate.net/profile/Volkan_Gezer/publication/321134141_An_Extensible_Edge_Computing_Architecture_Definition_Requirements_and_Enablers/links/5a0ee4b40f7e9bdf9111b628/An-Extensible-Edge-Computing-Architecture-Definition-Requirements-and-Enablers.pdf
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Work-in-Progress: A Formal Approach to Verify Fault Tolerance in Industrial Network Systems
+     Author ['A Sacco', 'G Marchetto', 'R Sisto']
+     Venue … Conference on Factory …
+     Year 2020
+     Abstract vehicles and intelligent highways, defense systems, robotic systems, process control, factory automation, building  to make the supervisory decisions of overriding or adjusting normal PLC (RTU) controls  verification of virtual network function graphs in an sp-devops context,” in
+     Url https://ieeexplore.ieee.org/abstract/document/9114432/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Design for future: managed software evolution
+     Author ['U Goltz', 'RH Reussner', 'M Goedicke']
+     Venue … Science-Research and …
+     Year 2015
+     Abstract In DevOps development and operations are working together in order to avoid too much  on run-time verification of production systems on basis of PLC signal traces, with  In: Proceedings of the 18th international conference on emerging technologies & factory automationGoogle
+     Url https://link.springer.com/article/10.1007/s00450-014-0273-9
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title TEST AUTOMATION FOR CONTROL APPLICATIONS ON DISTRIBUTED CONTROL SYSTEM
+     Author ['L Juurinen']
+     Venue Feedback
+     Year 2020
+     Abstract DDC Direct digital control DevOps Development and operations DNA Dynamic network of applications  ERP Enterprise resource planning FAT Factory acceptance testing  PIDC proportional–integral–derivative controller PLC Programmable logic controller
+     Url https://trepo.tuni.fi/bitstream/handle/10024/120707/JuurinenLeo.pdf?sequence=2
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Modeling languages in Industry 4.0: an extended systematic mapping study
+     Author ['A Wortmann', 'O Barais', 'B Combemale']
+     Venue Software and Systems …
+     Year 2020
+     Abstract 5 reports insights into modeling in Industry 4.0 and discusses a vision of model-based DevOps for Industry 4.0 in the presence of our  Industry 4.0, at its core, focuses on manufacturing, production processes, and ultimately the “factory of the future” [54, 140] or the “smart factory
+     Url https://link.springer.com/article/10.1007/s10270-019-00757-6
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Establishing a User-Centered Design Process for Human-Machine Interfaces: Threats to Success
+     Author ['M Winterer', 'C Salomon', 'G Buchgeher']
+     Venue … Conference on Product …
+     Year 2019
+     Abstract by a wide range of technicians from well-trained maintenance engineers to novice factory attendants  The grouping and ordering of these parameters are defined by the PLC and customer  to the typical software development roles 'Software Architect', 'Tester' or 'DevOps Engineer
+     Url https://link.springer.com/chapter/10.1007/978-3-030-35333-9_6
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Sähkön pörssihintojen liittäminen IoT-TICKET-tuotteeseen
+     Author ['M Ojala']
+     Venue NA
+     Year 2019
+     Abstract 35 Kuva 27. Esimerkki SFTP session factory -asetuksesta ..... 36 Kuva 28  Page 17. 16(41) Kuva 6. DevOps (Kornilova 28.4.2017). 2.3 Spring ja Spring Boot  Foxboro I/A (Object Manager) FoxSCADA GCOM ABB GE CIMPLICITY GE Fanuc PLC GE Harris
+     Url https://www.theseus.fi/bitstream/handle/10024/261161/Ojala_Mikko.pdf?sequence=2
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Cybersecurity for Industry 4.0 in the current literature: A reference framework
+     Author ['M Lezzi', 'M Lazoi', 'A Corallo']
+     Venue Computers in Industry
+     Year 2018
+     Abstract System is a general term that encompasses several types of control systems, including Supervisory Control and Data Acquisition (SCADA) systems and Distributed Control Systems (DCS); while, ICS core components are Programmable Logic Controller (PLC), Remote Terminal
+     Url https://www.sciencedirect.com/science/article/pii/S0166361518303658
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Establishing a User-Centered Design Process for Human-Machine Interfaces: Threats to Success
+     Author ['M Zehethofer', 'A Derntl']
+     Venue Product-Focused Software Process …
+     Year 2019
+     Abstract a wide range of technicians from well-trained maintenance engineers to novice factory atten- dants  group- ing and ordering of these parameters are defined by the PLC and customer  similar to the typical software development roles 'Software Architect','Tester'or 'DevOps Engineer
+     Url https://books.google.com/books?hl=ru&lr=&id=XMy-DwAAQBAJ&oi=fnd&pg=PA89&dq=%22DevOps%22+%22Factory%22+%22PLC%22+OR+%22FPGA%22&ots=DmuMvzkjq3&sig=8MVe_SumufQUj9_UL-BJhuCw6Rw
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Continuous Deployment for Complex Software Intensive Industrial Systems
+     Author ['Z Haider']
+     Venue NA
+     Year 2017
+     Abstract Another multiple case study which is focused on adoption of DevOps has been carried out in  environments are often less transparent and very costly to re-produce at factory for testing  depicts two different hardware platform that is a Field-Programmable Gate Array (FPGA) and a
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1145127
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Applicability of the IEC 62443 standard in Industry 4.0/IIoT
+     Author ['B Leander', 'A Čaušević', 'H Hansson']
+     Venue Proceedings of the 14th …
+     Year 2019
+     Abstract Support for novel business models, such as Factory as a Service  Appl. PLC Sensor Sensor Actuator Actuator DCS Controller  There is an ongoing trend in software development towards DevOps [5], that most likely will affect the release cycles of some components in an IACS
+     Url https://dl.acm.org/doi/abs/10.1145/3339252.3341481
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title iIoT ecosystem development through boundary resources: a Siemens MindSphere case study
+     Author ['D Petrik', 'G Herzwurm']
+     Venue Proceedings of the 2nd ACM SIGSOFT …
+     Year 2019
+     Abstract Official Siemens Press Releases 128 Official MindSphere Blog 48 https://digital-factory-journal. de  monitoring solutions, connecting their machines with the platform, regardless of the used PLC  MindSphere offers DevOps metrics to measure the API usage, the failure rates or the
+     Url https://dl.acm.org/doi/abs/10.1145/3340481.3342730
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Engineering of next generation cyber-physical automation system architectures
+     Author ['M Foehr', 'J Vollmar', 'A Calà', 'P Leitão']
+     Venue … Engineering for Cyber …
+     Year 2017
+     Abstract diverse heterogeneous hardware devices eg, robotic cells and Programmable Logic Controllers (PLC), and software  have adequate automation system architectures to tackle the scenario of “Factory of the  part of the day-to-day business, transitioning towards a DevOps culture
+     Url https://link.springer.com/chapter/10.1007/978-3-319-56345-9_8
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title 스마트공장 정보보호 인식교육을 위한 커리큘럼 개발
+     Author ['전인석， 이병권， 김동원， 최진영']
+     Venue 정보보호학회논문지
+     Year 2016
+     Abstract Page 6. 1340 스마트공장 정보보호 인식교육을 위한 커리큘럼 개발 Fig. 5. Smart factory level  중간수준은 설비, 생산정보를 활용한 품질분석 및 실시간 생산관리를 하며 센서, PLC, 등을 활용한 실시간 생산정보를 자 동으로 수집하고 설비제어를 하는 수준이다
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07047491
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Loosely Coupled Environmental Iot Architecture and Application
+     Author ['Z Zhao', 'L Li', 'X Han', 'S Zhang']
+     Venue E&ES
+     Year 2020
+     Abstract main data communication interfaces are RS-232, RS-422, RS-423, RS-485, PLC, HFC, CAN  the factory, and then compare the air quality level released by the factory area to  Syed and EB Fernandez, "Cloud Ecosystems Support for Internet of Things and DevOps Using Patterns
+     Url https://iopscience.iop.org/article/10.1088/1755-1315/440/4/042092/meta
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Business Strategy of Top Indian Company: L&T InfoTech
+     Author ['R Revathi', 'PS Aithal']
+     Venue International Journal of Case Studies in …
+     Year 2018
+     Abstract Infrastructure Management, Testing Engineering, Integrated Services, IT consulting : Application & Infrastructure Optimization, DevOps, Information Strategy &  development, innovative platforms like MADP and EMM Platform implementation, mobile App factory, front- end
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3207346
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Abstraction layers for automation applications
+     Author ['H Ludwig', 'KD Bettenhausen', 'H Friedrich']
+     Venue US Patent …
+     Year 2020
+     Abstract G05B19/4186—Total factory control, ie centrally controlling a plurality of machines, eg direct or distributed numerical control [DNC], flexible manufacturing  Each automation function is agnostic to, for example, the actual automation equipment hardware (eg, a PLC or an IPC); the
+     Url https://patents.google.com/patent/US10705511B2/en
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Foundations of modern networking: SDN, NFV, QoE, IoT, and Cloud
+     Author ['W Stallings']
+     Venue NA
+     Year 2015
+     Abstract Framework Conclusion 16.6 Key Terms 16.7 References Chapter 17: The Impact of the New Networking on IT Careers 17.1 The Changing Role of Network Professionals Changing Responsibilities Impact on Job Positions Bottom Line 17.2 DevOps DevOps Fundamentals The
+     Url https://books.google.com/books?hl=ru&lr=&id=nL_QCgAAQBAJ&oi=fnd&pg=PT31&dq=%22DevOps%22+%22Factory%22+%22PLC%22+OR+%22FPGA%22&ots=E2BWUUqZhA&sig=WdFKysPXRwuoI_lMX1CABfLz3_U
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title An introduction to edge computing and a real-time capable server architecture
+     Author ['V Gezer', 'J Um', 'M Ruskowski']
+     Venue Int. J. Adv. Intell. Syst.(IARIA)
+     Year 2018
+     Abstract Volkan Gezer, Jumyung Um, and Martin Ruskowski Innovative Factory Systems (IFS) German Research Center for Artificial Intelligence (DFKI) Kaiserslautern  Instead of using hardware programmable logic controllers (PLC) on site, they use a computer with multi-core processor
+     Url https://www.researchgate.net/profile/Volkan_Gezer/publication/326441179_An_Introduction_to_Edge_Computing_and_A_Real-Time_Capable_Server_Architecture/links/5b4dd1ff45851507a7a6da8c/An-Introduction-to-Edge-Computing-and-A-Real-Time-Capable-Server-Architecture.pdf
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Towards Transforming an Industrial Automation System from Monolithic to Microservices
+     Author ['S Sarkar', 'G Vashi', 'PP Abdulla']
+     Venue … Technologies and Factory …
+     Year 2018
+     Abstract The work by [3], [4] are close to ours where the authors have considered industrial PLC applications and shared the experience of containerizing such systems with the objective  Container and Microservice Driven Design for Cloud Infrastructure DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/8502567/
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Design of Marketplaces for Smart Manufacturing Services
+     Author ['M Moghaddam', 'A Jones', 'T Wuest']
+     Venue Procedia Manufacturing
+     Year 2019
+     Abstract in real time to meet changing demands and conditions in the factory, in the  of services include analytics, security, visualization, life cycle, security, knowledge, DevOps, network configuration  Execution System Process Control Control (PLC) Field Devices Real-Time Critical
+     Url https://www.sciencedirect.com/science/article/pii/S2351978920303796
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Diagnóstico de vulnerabilidades de seguridad en un prototipo de red OT
+     Author ['LF Miranda Ordoñez']
+     Venue NA
+     Year 2019
+     Abstract se utilizan en el control de equipos y procesos industriales, teniendo como su principal área de interés los sistemas de control supervisorio y adquisición de datos (SCADA), de control distribuido (DCS), controladores lógicos programables (PLC), unidades terminales remotas
+     Url http://repositorio.unicauca.edu.co:8080/handle/123456789/1802
+
+
+     Search term "DevOps"+"Factory"+"PLC"+OR+"FPGA"
+     Title Programming Microsoft Azure Service Fabric
+     Author ['H Bai']
+     Venue NA
+     Year 2018
+     Abstract Using Elasticsearch, Kibana, and EventFlow Azure Operations Management Suite Troubleshooting on Service Fabric Nodes Monitoring Service Fabric Explorer Application Insights Chapter 11 Continuous Delivery CI, CD, and DevOps Continuous Integration Continuous
+     Url https://books.google.com/books?hl=ru&lr=&id=uYtcDwAAQBAJ&oi=fnd&pg=PT20&dq=%22DevOps%22+%22Factory%22+%22PLC%22+OR+%22FPGA%22&ots=fDTD011r_j&sig=iTM-rDgQFEJGVDbglc3rZX8y_Q4
+

@@ -1,0 +1,160 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Product+Lines"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="FDA+Requirement"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Delivery"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Integration"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Software+Validation"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Automation+Systems"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Software+Validation"+"Continuous+Software+Engineering"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Software+Product+Lines"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"FDA+Requirement"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Continuous+Delivery"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Continuous+Integration"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Automation+Systems"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Continuous+Software+Engineering"+"Software+Validation"
+
+Results for combined keywords
+
+     Combinations with "DevOps"
+         "DevOps"+"FDA+Requirement" 0
+         "DevOps"+"Regulated+Domain" 8
+         "DevOps"+"Software+Validation" 110
+         "DevOps"+"Automation+Systems" 282
+         "DevOps"+"Software+Product+Lines" 308
+         "DevOps"+"Continuous+Software+Engineering" 509
+         "DevOps"+"Continuous+Integration" 990
+         "DevOps"+"Continuous+Delivery" 1000
+     Combinations with "Software+Product+Lines"
+         "Software+Product+Lines"+"Regulated+Domain" 12
+         "Software+Product+Lines"+"FDA+Requirement" 0
+         "Software+Product+Lines"+"Continuous+Delivery" 253
+         "Software+Product+Lines"+"Software+Validation" 180
+         "Software+Product+Lines"+"DevOps" 308
+         "Software+Product+Lines"+"Continuous+Software+Engineering" 103
+         "Software+Product+Lines"+"Automation+Systems" 424
+         "Software+Product+Lines"+"Continuous+Integration" 694
+     Combinations with "Regulated+Domain"
+         "Regulated+Domain"+"DevOps" 8
+         "Regulated+Domain"+"FDA+Requirement" 0
+         "Regulated+Domain"+"Continuous+Delivery" 8
+         "Regulated+Domain"+"Software+Product+Lines" 12
+         "Regulated+Domain"+"Automation+Systems" 8
+         "Regulated+Domain"+"Software+Validation" 6
+         "Regulated+Domain"+"Continuous+Integration" 17
+         "Regulated+Domain"+"Continuous+Software+Engineering" 2
+     Combinations with "FDA+Requirement"
+         "FDA+Requirement"+"DevOps" 0
+         "FDA+Requirement"+"Continuous+Delivery" 3
+         "FDA+Requirement"+"Regulated+Domain" 0
+         "FDA+Requirement"+"Software+Product+Lines" 0
+         "FDA+Requirement"+"Continuous+Integration" 1
+         "FDA+Requirement"+"Automation+Systems" 3
+         "FDA+Requirement"+"Continuous+Software+Engineering" 0
+         "FDA+Requirement"+"Software+Validation" 24
+     Combinations with "Continuous+Delivery"
+         "Continuous+Delivery"+"Regulated+Domain" 8
+         "Continuous+Delivery"+"FDA+Requirement" 3
+         "Continuous+Delivery"+"Software+Validation" 115
+         "Continuous+Delivery"+"Software+Product+Lines" 253
+         "Continuous+Delivery"+"Automation+Systems" 234
+         "Continuous+Delivery"+"Continuous+Software+Engineering" 523
+         "Continuous+Delivery"+"DevOps" 1000
+         "Continuous+Delivery"+"Continuous+Integration" 999
+     Combinations with "Continuous+Integration"
+         "Continuous+Integration"+"Regulated+Domain" 17
+         "Continuous+Integration"+"FDA+Requirement" 1
+         "Continuous+Integration"+"Automation+Systems" 473
+         "Continuous+Integration"+"Software+Validation" 352
+         "Continuous+Integration"+"Software+Product+Lines" 694
+         "Continuous+Integration"+"DevOps" 999
+         "Continuous+Integration"+"Continuous+Software+Engineering" 606
+         "Continuous+Integration"+"Continuous+Delivery" 999
+     Combinations with "Automation+Systems"
+         "Automation+Systems"+"Regulated+Domain" 8
+         "Automation+Systems"+"FDA+Requirement" 3
+         "Automation+Systems"+"DevOps" 282
+         "Automation+Systems"+"Continuous+Software+Engineering" 19
+         "Automation+Systems"+"Continuous+Delivery" 234
+         "Automation+Systems"+"Software+Product+Lines" 424
+         "Automation+Systems"+"Software+Validation" 255
+         "Automation+Systems"+"Continuous+Integration" 473
+     Combinations with "Software+Validation"
+         "Software+Validation"+"DevOps" 110
+         "Software+Validation"+"Regulated+Domain" 6
+         "Software+Validation"+"FDA+Requirement" 24
+         "Software+Validation"+"Continuous+Software+Engineering" 11
+         "Software+Validation"+"Software+Product+Lines" 180
+         "Software+Validation"+"Continuous+Delivery" 115
+         "Software+Validation"+"Automation+Systems" 255
+         "Software+Validation"+"Continuous+Integration" 352
+     Combinations with "Continuous+Software+Engineering"
+         "Continuous+Software+Engineering"+"Regulated+Domain" 2
+         "Continuous+Software+Engineering"+"FDA+Requirement" 0
+         "Continuous+Software+Engineering"+"Automation+Systems" 19
+         "Continuous+Software+Engineering"+"Software+Product+Lines" 103
+         "Continuous+Software+Engineering"+"Software+Validation" 11
+         "Continuous+Software+Engineering"+"DevOps" 509
+         "Continuous+Software+Engineering"+"Continuous+Delivery" 523
+         "Continuous+Software+Engineering"+"Continuous+Integration" 606
+
+

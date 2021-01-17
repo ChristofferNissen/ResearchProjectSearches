@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Technologies for hardware simulation and verification
+     Author ['V Hahanov', 'A Hahanova', 'V Obrizan']
+     Venue … on" Modern Problems …
+     Year 2008
+     Abstract it is very urgent question to combine all advantages with hardware implementation, it will give high-performance hardware simulation and new  Implementation to the FPGA  The last one may be represented as transition graph, and it is needed verify traceability of all states and
+     Url https://ieeexplore.ieee.org/abstract/document/5423439/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Can your software engineer program your PLC?
+     Author ['AJ Borrowman', 'P Taylor']
+     Venue Software and Cyberinfrastructure for …
+     Year 2016
+     Abstract Therefore to fully define a PLC tag the ICD must include the following information: • Tag name — this project incorporated the Signal Label from the signal list (see Table 1) into defined tag names to ensure easy traceability of signal from electronics diagram to PLC to PC
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9913/99131S/Can-your-software-engineer-program-your-PLC/10.1117/12.2232590.short
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract Automatic documentation is generated and traceability is assured back to the design requirements. It is interesting to note that Aldec FPGA chips, as being used in safety-critical applications, have undergone some significant scrutiny
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Raspberry Pi based Surveillance System with FPGA based Hardware Accelerator for Video Enhancement
+     Author ['S Pandit']
+     Venue NA
+     Year 2018
+     Abstract IR Transmitter and Receiver 19 17. Simulink Model for Video Sharpening using 2-D Filter 21 18. Hardware deployable Simulink model 22 19. Software Simulation 24 20. Loading bit file into FPGA (top); Output of Hardware simulation (bottom) 24 Page 9. 1 Chapter-1: Introduction
+     Url https://www.researchgate.net/profile/Sujay_Pandit/publication/330358936_Raspberry_Pi_based_Surveillance_System_with_FPGA_based_Hardware_Accelerator_for_Video_Enhancement/links/5c3c3a95458515a4c724861a/Raspberry-Pi-based-Surveillance-System-with-FPGA-based-Hardware-Accelerator-for-Video-Enhancement.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title DSP hardware surrogate for the HLA
+     Author ['L Li']
+     Venue NA
+     Year 2003
+     Abstract API CCS COTS DCB DFT DoD DSP EVM FedExec FFT FOM GTIé HLA HWIL LibRTl MFC MOM OMT PLC RTDX List of  are becoming more complex [3]. Products often incorporate pre—developed, complex, application-speciﬁc blocks, eg DSP, ASIC and FPGA, together with
+     Url https://curve.carleton.ca/system/files/etd/b46f9adb-dc40-4d5a-b0cb-7bb7cf853bc5/etd_pdf/f8d5c408b801ad359e85bb1224e9c116/li-dsphardwaresurrogateforthehla.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Unified Simulation and Test Platform for Control Systems of Unmanned Vehicles
+     Author ['X Dai', 'C Ke', 'Q Quan', 'KY Cai']
+     Venue arXiv preprint arXiv:1908.02704
+     Year 2019
+     Abstract In this paper, a unified simulation and test platform is proposed for control systems of unmanned vehicles based on FPGA-based HIL simulation and MBD methods, aiming to significantly improve the test efficiency and safety level of control  4 Product Hardware Simulation Model
+     Url https://arxiv.org/abs/1908.02704
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Reconfigurable measurement system utilizing a programmable hardware element and fixed hardware resources
+     Author ['BK Odom', 'JE Peck', 'HA Andrade', 'CP Butler']
+     Venue US Patent …
+     Year 2006
+     Abstract As mentioned above, the RIO unit includes a programmable hardware element, such as a field programmable gate array (FPGA)  During execution of the hardware configuration program by the FPGA, the FPGA may invoke or use one or more of the fixed hardware resources
+     Url https://patents.google.com/patent/US7085670B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title OpenRISC System-on-Chip Design Emulation
+     Author ['K Cong', 'L Lei', 'Z Yang', 'F Xie']
+     Venue arXiv preprint arXiv:1602.03095
+     Year 2016
+     Abstract ORPSoC emulation with Veloce has more than ten times faster than hardware simulation  Veloce not only provides the designers full traceability over entire software stacks and hardware systems, but  of Instructions # cycles ModelSim Simulation Veloce Emulation FPGA (50MHz
+     Url https://arxiv.org/abs/1602.03095
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title software/FPGA co-design for Edge-computing: Promoting object-oriented design
+     Author ['XS Le']
+     Venue NA
+     Year 2017
+     Abstract software/FPGA co-design for Edge-computing: Promoting object-oriented design Xuan Sang Le To cite this version  École Doctoral Santé, Information, Communication, Mathématique, Matière Software/FPGA Co‡design for Edge‡computing: Promoting Object‡oriented Design
+     Url https://tel.archives-ouvertes.fr/tel-01661569/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title 5G wireless systems
+     Author ['Y Yang', 'J Xu', 'G Shi', 'CX Wang']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Wireless Networks Yang Yang Jing Xu Guang Shi Cheng-Xiang Wang 5G Wireless Systems Simulation and Evaluation Techniques Page 2. Wireless Networks Series editor Xuemin Sherman Shen University of Waterloo, Waterloo, Ontario, Canada Page 3
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-61869-2.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Systems and methods for generating hardware description code
+     Author ['SH Tiong', 'ASH Lim']
+     Venue US Patent 6,539,520
+     Year 2003
+     Abstract test vectors, patterns or sequences; G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment. G—PHYSICS; G06—COMPUTING; CALCULATING
+     Url https://patents.google.com/patent/US6539520B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title EcoEagles Hybrid Vehicle Control Architecture
+     Author ['RS Stansbury', 'M Towhidnejad']
+     Venue Energy …
+     Year 2009
+     Abstract Any failed tests can be traced back to assert their requirements using NI Requirements Gateway, which assists in generating the traceability matrix, which  The primary real-time interface for hardware simulation will be the Field Programmable Gate Array (FPGA) module, NI
+     Url https://asmedigitalcollection.asme.org/ES/proceedings-abstract/ES2009/48890/737/356261
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A VHDL Simulator in a Co-verification Environment
+     Author ['K Melakari']
+     Venue NA
+     Year 1998
+     Abstract FPGA Field Programmable Gate-Array, programmable logic device  It is, however, possible to speed up hardware simulation by using hardware accelerators, which are specialised computers, allowing the gate-level HDL description to be executed faster than it would be with an
+     Url https://www.vttresearch.com/sites/default/files/pdf/publications/1998/P355.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Simulation and VLSI implementation of digital circuits
+     Author ['A Kansal']
+     Venue NA
+     Year 2011
+     Abstract Page 6. v CHAPTER 4 FPGA IMPLEMENTATION 4.1 Introduction49 4.2 Examples of FPGA implementation of HDL 50
+     Url http://search.proquest.com/openview/be4dee719e365434dc85b9ab9cdce887/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Graphical development and deployment of parallel floating-point math functionality on a system with heterogeneous hardware components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2016
+     Abstract In contrast, the LabVIEW FPGA™ (field programmable gate array) development environment, provided by National Instruments Corporation, provides the user with the ability to develop user level software which operates at the hardware level
+     Url https://patents.google.com/patent/US9235395B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Rapid System Prototyping with FPGAs: Accelerating the Design Process
+     Author ['RC Cofer', 'BF Harding']
+     Venue NA
+     Year 2006
+     Abstract Page 9. Contents Chapter 1: Introduction .....1 1.1 FPGA Rapid Design Implementation Potential .....2 1.2 Rapidly Evolving Technology Field .....4 1.3 Design Skill Set Crossover
+     Url https://books.google.com/books?hl=fi&lr=&id=-_oyEosVf9YC&oi=fnd&pg=PR1&dq=%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=MVZVXSANTe&sig=SETGgr2nIpR7NhTvXrazvIQWf7k
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with XtremLogic on HLS, and  Optimizing remote accesses for offloaded kernels: Application to high-level synthesis for FPGA
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title CASH: Compilation and Analysis, Software and Hardware December 10, 2018
+     Author ['C Alias', 'J Braine', 'L Gonnord', 'L Henrio', 'P Iannetta']
+     Venue NA
+     Year 2018
+     Abstract The problem is even stronger for FPGA accelerators, where programmers are expected to design a circuit for their application  Similarly, the hardware simulation community usually considers compilers as black-boxes and do not interact with researchers in compilation
+     Url http://www.ens-lyon.fr/LIP/CASH/wp-content/uploads/2018/01/projet-equipe-CASH.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Reconfigurable test system
+     Author ['HA Andrade', 'BK Odom', 'A Ryan']
+     Venue US Patent 7,152,027
+     Year 2006
+     Abstract US7152027B2 - Reconfigurable test system - Google Patents. Reconfigurable test system. Download PDF Info. Publication number US7152027B2. US7152027B2 US10/034,565 US3456501A US7152027B2 US 7152027 B2
+     Url https://patents.google.com/patent/US7152027B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A real-time harmonic detector design to improve power quality in power systems
+     Author ['AY Omishat']
+     Venue NA
+     Year 2017
+     Abstract theoretical values of the harmonics. The digital hardware simulation results of the proposed  the programming of Altera® FPGA. HDL architectures and implementation can  estimates. HDL Coder offers traceability between your Simulink model and the
+     Url https://digital.maag.ysu.edu:8443/xmlui/bitstream/handle/1989/12343/b22354645.pdf?sequence=2
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Model-driven toolset for embedded reconfigurable cores: Flexible prototyping and software-like debugging
+     Author ['L Lagadec', 'C Teodorov', 'JC Le Lann', 'D Picard']
+     Venue Science of Computer …
+     Year 2014
+     Abstract common methods for hardware design verification are based on software or hardware simulation with RTL  pieces of the observability designers missed for years by reflecting the FPGA internal state  In RedPill we address this issue by using on-demand traceability which links the
+     Url https://www.sciencedirect.com/science/article/pii/S0167642314000823
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Systems and methods for generating optimized hardware descriptions for models
+     Author ['Y Gu', 'G Venkataramani', 'R Kokku']
+     Venue US Patent 9,817,931
+     Year 2017
+     Abstract US9817931B1 - Systems and methods for generating optimized hardware descriptions for models - Google Patents. Systems and methods for generating optimized hardware descriptions for models. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US9817931B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract SUBJECT TERMS A*, AND/OR graph, AO*, codesign, concurrent design, data alignment, digital signal processing, design pattern, embedded systems, firmware/software/hardware codesign, FPGA, OR tree, hidden Markov model, polyphase DFT filter banks, post-deserialization
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Model level power consumption optimization in hardware description generation
+     Author ['P Biswas', 'Z Zhao', 'W Chen', 'Y Gu']
+     Venue US Patent 9,355,000
+     Year 2016
+     Abstract US9355000B1 - Model level power consumption optimization in hardware description generation - Google Patents. Model level power consumption optimization in hardware description generation. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US9355000B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Onboard software
+     Author ['SI Cofán', 'A Formella']
+     Venue Cubesat Handbook
+     Year NA
+     Abstract In this stage of the project, it should be noted that traceability is a relevant aspect to be considered, because tracing the fulfillment of requirements provides quality to the overall process  An FPGA implementing a soft 32-bit microblaze microprocessor. •
+     Url https://www.sciencedirect.com/science/article/pii/B9780128178843000126
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Development and Deployment of Parallel Floating-Point Math Functionality on a System with Heterogeneous Hardware Components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom']
+     Venue US Patent App. 14 …
+     Year 2014
+     Abstract In contrast, the LabVIEW FPGA™ (field programmable gate array) development environment, provided by National Instruments Corporation, provides the user with the ability to develop user level software which operates at the hardware level
+     Url https://patents.google.com/patent/US20140359590A1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Systems and methods for tracing performance information from hardware realizations to models
+     Author ['Y Gu']
+     Venue US Patent 10,261,760
+     Year 2019
+     Abstract US10261760B1 - Systems and methods for tracing performance information from hardware realizations to models - Google Patents. Systems and methods for tracing performance information from hardware realizations to models. Download PDF Info
+     Url https://patents.google.com/patent/US10261760B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Candidate Technologies and Evaluation Challenges for 5G
+     Author ['Y Yang', 'J Xu', 'G Shi', 'CX Wang']
+     Venue 5G Wireless Systems
+     Year 2018
+     Abstract intelligent firefighting, environmental monitoring, lighting control, health care, food traceability, floriculture, water  to be simulated in the hardware (such as FPGA, channel simulator  calculation, and thus improving the calculation accuracy through hardware simulation; in addition
+     Url https://link.springer.com/chapter/10.1007/978-3-319-61869-2_1
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Graphical development and deployment of parallel floating-point math functionality on a system with heterogeneous hardware components
+     Author ['JL Kodosky', 'HA Andrade', 'BK Odom', 'CP Butler']
+     Venue US Patent …
+     Year 2018
+     Abstract In contrast, the LabVIEW FPGA™ (field programmable gate array) development environment, provided by National Instruments Corporation, provides the user with the ability to develop user level software which operates at the hardware level
+     Url https://patents.google.com/patent/US9904523B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Systems and methods for estimating performance characteristics of hardware implementations of executable models
+     Author ['G Venkataramani', 'Y Gu', 'R Kokku']
+     Venue US Patent 10,078,717
+     Year 2018
+     Abstract 108. The target hardware element 108 may be an Application Specific Integrated Circuit (ASIC), a Field Programmable Gate Array (FPGA), a Complex Programmable Logic Device (CPLD), a Systems on a Chip (SoC), etc. The
+     Url https://patents.google.com/patent/US10078717B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Semiconductor development in Ireland: reducing'development stress' caused by digital hardware and embedded software team interaction
+     Author ['IJ Griffin']
+     Venue NA
+     Year 2010
+     Abstract Fab Silicon wafer fabrication facility Hardware Simulation Modelling of the hardware at different levels of abstraction (functional, gate level, etc.) for the purposes of hardware verification  160 7.5.1 Automate FPGA Design Traceability through Version Tracking
+     Url http://193.1.102.107/handle/10344/386
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Shared Variable Analyser For Hardware Descriptions
+     Author ['J Sharp']
+     Venue NA
+     Year 2013
+     Abstract 2.3.4 and 2.3.5 respectively.78 Chapter 2. Languages2.1 VHD LHardware systems are becoming ever more complex, with the increasing number of gates and registers within a single Application Specific Integrated Circuit (ASIC) or a Field Programmable Gate Array (FPGA)
+     Url http://search.proquest.com/openview/779aecb3e035273688c49dc9e9816ee4/1?pq-origsite=gscholar&cbl=51922&diss=y
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping
+     Author ['T De Schutter']
+     Venue NA
+     Year 2014
+     Abstract “ARM” is used to represent ARM Holdings plc.; its operating  to mandate augmented lifecycle management practices and to require higher levels of traceability for compliance  Faster!” book, which, like our previous successful Methodology Manuals (eg, “FPGA-Based Prototyping
+     Url https://books.google.com/books?hl=fi&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=cw6VuaMwjZ&sig=azPRI3TeC-zhGR3eRBLwCtTUW2E
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Measuring contextual similarity
+     Author ['JP Schneider']
+     Venue US Patent 8,386,511
+     Year 2013
+     Abstract 07—Indexing scheme relating to G06F21/10, protecting distributed programs or content; G06F2221/0722—Content; G06F2221/0737—Traceability;  programmable logic, microcode, etc.), software (eg, instructions run on a processing device to perform hardware simulation), or a
+     Url https://patents.google.com/patent/US8386511B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Co-conception Logiciel/FPGA pour Edge-computing: promotion de la conception orientée objet
+     Author ['XS Le']
+     Venue NA
+     Year 2017
+     Abstract École Doctoral Santé, Information, Communication, Mathématique, Matière Software/FPGA Co‡design for Edge‡computing: Promoting Object‡oriented Design présentée par  1 Introduction 1 1•1 Context: Internet of Thing† Edge computing and FPGA • • • • • 1
+     Url https://www.theses.fr/2017BRES0041
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Tendencies of technologies and platforms in smart cities: A state-of-the-art review
+     Author ['P Chamoso', 'A González-Briones']
+     Venue … and Mobile Computing
+     Year 2018
+     Abstract Distribution -Digital signage -Card readers -Traceability (RFID) -GPS  in [59] and a summary can be seen in Figure 1. Among the technologies that can be part of an M2M system, forming heterogeneous sensor networks are ZigBee, Bluetooth, Wi-Fi, WiMax, PLC, GSM/GPRS
+     Url https://www.hindawi.com/journals/wcmc/2018/3086854/abs/
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Message-based modeling
+     Author ['HT Simsek', 'V Raghavan', 'R Mani']
+     Venue US Patent 9,594,608
+     Year 2017
+     Abstract US9594608B2 - Message-based modeling - Google Patents. Message-based modeling. Download PDF Info. Publication number US9594608B2. US9594608B2 US14/335,159 US201414335159A US9594608B2 US 9594608
+     Url https://patents.google.com/patent/US9594608B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Techniques for performance analysis of processor instruction execution
+     Author ['K Levit-Gurevich', 'M Berezalsky', 'N Itzhaki']
+     Venue US Patent …
+     Year 2019
+     Abstract an executable, a thread of execution, a program, a computer, hardware circuitry, integrated circuits, a controller, application specific integrated circuits (ASIC), programmable logic devices (PLD), digital signal processors (DSP), field programmable gate array (FPGA), a system-on
+     Url https://patents.google.com/patent/US10467118B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title System and method for a hierarchical database management system for educational training and competency testing simulations
+     Author ['K Chen-Wright', 'NH Garner', 'NM Maxwell']
+     Venue US Patent 7,523,127
+     Year 2009
+     Abstract US7523127B2 - System and method for a hierarchical database management system for educational training and competency testing simulations - Google Patents. System and method for a hierarchical database management
+     Url https://patents.google.com/patent/US7523127B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Test Technology for Launcher Electrical Systems
+     Author ['Z Song']
+     Venue The Test and Launch Control Technology for Launch …
+     Year 2018
+     Abstract Single module functionality will also continue to increase, promoting competition for different bus systems. For example, PLC, which is also the architecture with chassis-backplane-module, may incorporate PXI and VXI system functionalities
+     Url https://link.springer.com/chapter/10.1007/978-981-10-8712-7_2
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Introduction to VHDL
+     Author ['RD Hunter', 'TT Johnson']
+     Venue NA
+     Year 1996
+     Abstract and TT Johnson Printed in Great Britain by Clays Ltd, St Ives plc ISBN 0  17 2.4 Schematic Circuit Capture 19 2.5 Hardware Description Languages 19 2.6 Hardware Simulation 20 2.7  All of the foregoing presents a problem for traceability in the design process where purchaser
+     Url https://books.google.com/books?hl=fi&lr=&id=jEuK71f0ouMC&oi=fnd&pg=PR13&dq=%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22+%22Traceability%22&ots=giBLrIn31K&sig=WfuDtjeRS3yUkg7a1FAN9erQtX4
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title The Test and Launch Control Technology for Launch Vehicles
+     Author ['Z Song']
+     Venue NA
+     Year 2018
+     Abstract Page 1. The Test and Launch Control Technology for Launch Vehicles Zhengyu Song Page 2. The Test and Launch Control Technology for Launch Vehicles Page 3. Zhengyu Song The Test and Launch Control Technology for Launch Vehicles 123 Page 4
+     Url https://link.springer.com/content/pdf/10.1007/978-981-10-8712-7.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Design principles for the development of space technology maturation laboratories aboard the international space station
+     Author ['A Saenz-Otero']
+     Venue Massachusetts Institute of Technology, Department of …
+     Year 2005
+     Abstract 439 Figure F.6 SMT375 functional block diagram . . . . . 447 Figure F.7 Metrology sub-system functional block diagram . . . . . 449 Figure F.8 FPGA firmware design . . . . . 454 Figure F.9 US/IR boards functional block diagram
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.456.4437&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Computer aided inspection machine
+     Author ['BS Buckley', 'J Chen', 'DS Yang', 'HC Zhou']
+     Venue US Patent 6,064,759
+     Year 2000
+     Abstract US6064759A - Computer aided inspection machine - Google Patents. Computer aided inspection machine. Download PDF Info. Publication number US6064759A. US6064759A US08/965,542 US96554297A US6064759A US
+     Url https://patents.google.com/patent/US6064759A/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Putting the pieces together: The systematic development of a software defined radio toolflow for the rhino project
+     Author ['GE Inggs']
+     Venue NA
+     Year 2011
+     Abstract 63 5.4 Hardware Simulation and Implementation  67 5.11 Plot of output data from FPGA Low Pass Filter Experiment . . . . . 67  ment, the systems modelling language (SysML) and Traceability will be introduced. The pur
+     Url https://open.uct.ac.za/handle/11427/11681
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title System and method for analyzing and modeling content
+     Author ['SV Pemmaraju', 'JH Zheng', 'BS Arnason']
+     Venue US Patent …
+     Year 2019
+     Abstract US10509813B1 - System and method for analyzing and modeling content - Google Patents. System and method for analyzing and modeling content. Download PDF Info. Publication number US10509813B1. US10509813B1
+     Url https://patents.google.com/patent/US10509813B1/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title System and method for using execution contexts in block diagram modeling
+     Author ['JE Ciolfi', 'R Mani', 'DP Orofino', 'M Shakeri']
+     Venue US Patent …
+     Year 2010
+     Abstract US7809545B2 - System and method for using execution contexts in block diagram modeling - Google Patents. System and method for using execution contexts in block diagram modeling. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US7809545B2/en
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title COURSE STRUCTURE FOR B. TECH DEGREE IN INSTRUMENTATION AND CONTROL ENGINEERING 3 RD SEMESTER [2 ND YEAR 1 ST SEMESTER] …
+     Author ['PER WEEK']
+     Venue NA
+     Year NA
+     Abstract Page 1. West Bengal University of Technology BF-142, Salt Lake City, Kolkata-700064 Instrumentation & Control Engineering Syllabus upto 7 th Semester Other Syllabi to be Published 1 COURSE STRUCTURE FOR B.TECH
+     Url https://makautwb.ac.in/syllabus/Instrumentation_&_Control_Engineering_Syllabus_2007.pdf
+
+
+     Search term "Hardware+simulation"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Avionics technology beyond 2000
+     Author ['L Mcfawn', 'DR Morgan']
+     Venue The Conflicting Forces Driving Future Avionics …
+     Year 1991
+     Abstract Page 157. 13-1 AVIONICS TECHNOLOGY BEYOND 2000 by L. McFawn and DR Morgan Wright Laboratory Avionics Directorate, WL/AA Wright-Patterson AFB OH 45433-6543 USA SUMMARY impact future avionics systems and the implications of these factors
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a244244.pdf#page=157
+

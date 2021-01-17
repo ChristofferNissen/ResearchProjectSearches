@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Formal+methods"+"Traceability"
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Ladder programs validation through model-code traceability
+     Author ['LR Sampaio', 'A Perkusich']
+     Venue 2011 IEEE International …
+     Year 2011
+     Abstract [9] L. Guo and A. Roychoudhury, “Debugging statecharts via model- code traceability,” in ISoLA, ser  [16] A. Sulflow and R. Drechsler, “Verification of PLC programs using formal proof techniques,” Formal Methods for Automation and Safety in Railway and Automotive
+     Url https://ieeexplore.ieee.org/abstract/document/5754386/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract Third, effective traceability of the complex design set that arises in model-based CPS  evaluate the framework using applications in railways, agriculture, automotive systems and building automation. There are ample opportunities for formal methods to play a key role in enabling
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Using formal methods and testability concepts in the avionics systems validation and verification (v&v) process
+     Author ['O Laurent']
+     Venue 2010 Third International Conference on Software …
+     Year 2010
+     Abstract Then, we focus on innovative methods based on testing strategies for traceability purposes, testing  Automation of part of this V&V process is thus a crucial industrial challenge, but  Airbus has used formal methods for several years to specify avionics systems and automatically
+     Url https://ieeexplore.ieee.org/abstract/document/5477108/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract Their tools can provide automated sup- port needed for checking completeness, traceability, verifiability, and reusability, and for  checking, and would seem to indicate a continuing increase in the level of automation and move towards formal methods disappearing “under
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract In particular, the higher level SIL 4 recommends the use of formal methods to control the  of formal system engineering and taking into account the need for traceability of safety  are taken into account when modelling, • to enlarge software engineering to automation and system
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract Section 5.1 describes a technique for traceability called hyper-requirements. We distinguish between formal methods and formal models, in that formal methods try to handle  tools to produce software faster, cheaper, and more reliably, by increasing automation and decreasing
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal requirements and model-checking for v&v automation of a rpas mission management system
+     Author ['C Torens', 'FM Adolf']
+     Venue AIAA Infotech@ Aerospace
+     Year 2015
+     Abstract trust in such software products and the overall quality is achieved by traceability to requirements  On the other hand, the use of formal methods for software, which is now standardized by the  Titel: Formal Requirements and Model-Checking for V&V Automation of a RPAS Mission
+     Url https://elib.dlr.de/94840/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Re- quirements traceability is useful as it allows linking require- ments as they evolve [30  Formal methods can help find con- sistencies between requirements  An approach based on SysML to depict and analyze change influences in indus- trial automation systems is presented
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Towards industrially applicable formal methods: Three small steps, and one giant leap
+     Author ['J McDermid', 'A Galloway', 'S Burton']
+     Venue … Methods (Cat. No …
+     Year 1998
+     Abstract The use of formalisms in support of test automation. We then discuss the “gap” we see between the needs of industry and the current focus of the formal methods re- search community by pointing out important facets of in- dustrially applicable formal methods which are not
+     Url https://ieeexplore.ieee.org/abstract/document/730572/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title An analysis of the requirements traceability problem
+     Author ['OCZ Gotel', 'CW Finkelstein']
+     Venue Proceedings of IEEE International …
+     Year 1994
+     Abstract entity-relationship models [24]; the Planning and Design Methodology [42]; formal methods [SI; and  between ideas and requirements (561; and the T tool provides traceability between requirements  Support is implicit in tool use, by automation of any mundane tasks needed to
+     Url https://ieeexplore.ieee.org/abstract/document/292398/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Design of signal control structures using formal methods for railway interlocking systems
+     Author ['O Eriş', 'I Mutlu']
+     Venue … International Conference on Control Automation …
+     Year 2010
+     Abstract Control, Automation, Robotics and Vision Singapore, 7-10th December 2010  In this case, acquisition of state transition matrices allows for a better traceability of the Petri  is decided to be the most suitable method for railway signalization systems among other formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/5707824/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title On the industrial uptake of formal methods in the railway domain
+     Author ['D Basile', 'MH ter Beek', 'A Fantechi', 'S Gnesi']
+     Venue … Formal Methods
+     Year 2018
+     Abstract in the context of the ASTRail EU project 1 (SAtellite-based Signalling and Automation SysTems on  is needed for a quick check of the behaviour of a model; traceability between the  These are also the phases in which formal methods cannot be substituted by any other means
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_2
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Automated V&V for high integrity systems, a targeted formal methods approach
+     Author ['S Burton', 'J Clark', 'A Galloway']
+     Venue NASA …
+     Year 2000
+     Abstract text is automatically included in the AdaTEST test results file and provides the traceability between any  Future Work In this paper we described our experiences in inte- grating formal methods into an  The high level of automation was made possible by restricting the work to a
+     Url https://books.google.com/books?hl=no&lr=&id=XaAmAQAAIAAJ&oi=fnd&pg=PA129&dq=%22Automation%22+%22Formal+methods%22+%22Traceability%22&ots=lb9VGemEXp&sig=6HRRYLIvxpKbqBqQ2Gor8yz7EEA
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods: Promises and problems
+     Author ['JA Goguen']
+     Venue IEEE Software
+     Year 1997
+     Abstract Given the inevitability of change and iteration, formal methods should be more useful in supporting evolution than in their traditional role of  on an earlier version of this model, provides algorithms using the information in the graph to support several different kinds of automation
+     Url https://ieeexplore.ieee.org/abstract/document/566430/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Guidance for using formal methods in a certification context
+     Author ['D Brown', 'H Delseny', 'K Hayhurst', 'V Wiels']
+     Venue NA
+     Year 2010
+     Abstract Traceability from the outputs of a process to its inputs can be demonstrated by verifying  Formal notations also reduce cost by enabling the automation of verification activities  A primary motivation for developing guidance for using formal methods in a certification context was to
+     Url https://hal.archives-ouvertes.fr/hal-02267708/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Collaborative Model‐based Systems Engineering for Cyber‐Physical Systems, with a Building Automation Case Study
+     Author ['J Fitzgerald', 'C Gamble', 'R Payne']
+     Venue INCOSE …
+     Year 2016
+     Abstract life-cycle SE tool chains and work flows, semantic integration of diverse models, and assisted creation and maintenance of traceability structures  Foundations and Trends in Electronic Design Automation, 1(1/2  FormaliSE: Formal Methods in Software Engineering, Florence, Italy
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.2016.00195.x
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Academia and industry meet: Some experiences of formal methods in practice
+     Author ['GH Broadfoot', 'PJ Broadfoot']
+     Venue Tenth Asia-Pacific Software …
+     Year 2003
+     Abstract if one was given formal verification tools that overcame the com- mon problems of scalability and automation, but lacked  we present an overview of the Cleanroom Method, the first of the two formal methods in question  complete traceability with the original informal specifica- tion
+     Url https://ieeexplore.ieee.org/abstract/document/1254357/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods in safety-critical railway systems
+     Author ['T Lecomte', 'T Servat', 'G Pouzancre']
+     Venue … on formal methods
+     Year 2007
+     Abstract Formal Methods in Safety-Critical Railway Systems  decided to set up a development method aimed at reaching targeted reliability, and also ensuring traceability between the  In the context of the "Paris Subway Line 1 Automation" project, the SIL4 DOF1 safety system, which is
+     Url https://tools.clearsy.com/wp-content/uploads/sites/8/resources/Fm_sc_rs_v2.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Using traceability to support model-based regression testing
+     Author ['L Naslavsky', 'DJ Richardson']
+     Venue Proceedings of the twenty-second IEEE …
+     Year 2007
+     Abstract 4. IMPLEMENTATION PLAN Automation of the presented approach is in progress  Cases from Model-Based Specifications, 1st International Symposium of Formal Methods Europe on Industrial-Strength Formal Methods, 1993  10] Jouault, F., Loosely Coupled Traceability for ATL
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321744
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title An industrial technology of test automation based on verified behavioral models of requirement specifications for telecommunication applications
+     Author ['S Baranov', 'V Kotlyarov', 'A Letichevsky']
+     Venue IEEE EUROCON …
+     Year 2009
+     Abstract BPs are used to further populate the TRM matrix: their names are put into column 12 “Traceability” as steps of  Petersburg Institute for Informatics and Automation. He works in software engineering, application of formal methods in industrial programming of mobile devices and
+     Url https://ieeexplore.ieee.org/abstract/document/5167801/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Towards rigorously defined model-to-model traceability
+     Author ['N Drivalos', 'RF Paige', 'KJ Fernandes']
+     Venue ECMDA Traceability …
+     Year 2008
+     Abstract To enhance automation, consistency and coherency, establishing and maintaining semantically rich  of Third International Conference on Integrated Formal Methods (IFM 2002), volume 2335 of  In ECMDA-TW: Traceability Workshop, at European Conference on Model Driven
+     Url https://www.researchgate.net/profile/Joao_Araujo3/publication/232179892_A_Model-Driven_Traceability_Framework_to_Software_Product_Line_Development/links/0912f50b633770961c000000/A-Model-Driven-Traceability-Framework-to-Software-Product-Line-Development.pdf#page=17
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Recovery of traceability links between software documentation and source code
+     Author ['A Marcus', 'JI Maletic', 'A Sergeyev']
+     Venue International Journal of Software …
+     Year 2005
+     Abstract Most approaches use formal methods to encode software documents and require that software artifacts share a  Recovery of Traceability Links 817  This makes automation drastically easier and directly supports programmer defined variable names having implied meanings but
+     Url https://www.worldscientific.com/doi/abs/10.1142/S0218194005002543
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Synthesis and traceability of scenario-based executable models
+     Author ['A Goel', 'A Roychoudhury']
+     Venue … Applications of Formal Methods …
+     Year 2006
+     Abstract Second International Symposium on Leveraging Applications of Formal Methods, Verification and Validation  tightly linked to the requirements and hence will allow better traceability of models  being the weather- update controller from Center TRACON automation system (CTAS
+     Url https://ieeexplore.ieee.org/abstract/document/4463735/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Modeling functional requirements to support traceability analysis
+     Author ['N Kececi', 'J Garbajosa']
+     Venue 2006 IEEE International …
+     Year 2006
+     Abstract Semi-formal methods are less difficult to apply than formal methods  discussed a modeling method to supportsoftware requirements verification and to facilitate traceability analysis of  A future research opportunity to be investigated regarding automation of the GRA method is the
+     Url https://ieeexplore.ieee.org/abstract/document/4078923/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Product-driven automation issues for B2M-control systems integration
+     Author ['D Gouyon', 'JM Simao', 'K Alkassem', 'G Morel']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract the HMS paradigm as a pertinent system engineering approach mainly for products traceability purposes  Others works outline the lack of formal methods for controlling large-scale discrete  techniques emphasizes the lack of formal constructs to assemble automation objects over
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361505
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Model-based development and formal methods in the railway industry
+     Author ['A Ferrari', 'A Fantechi', 'S Gnesi', 'G Magnani']
+     Venue IEEE software
+     Year 2013
+     Abstract ago, given the rising interest of safety-critical industries in formal methods [1], the company decided to start experimenting with formal modelling and  The generated code has a repetitive structure, which facilitates the automation of the verification activities  E. Traceability
+     Url https://ieeexplore.ieee.org/abstract/document/6475930/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Event-based traceability for managing evolutionary change
+     Author ['J Cleland-Huang', 'CK Chang']
+     Venue IEEE Transactions on …
+     Year 2003
+     Abstract 21], [19], hypertext links [24], [25], graph-based approaches [26], formal methods [27], [28  The major advantage of implementing an event-based approach to support traceability is that  the TRAM engine is currently implemented within SLATE (System Level Automation Tool for En
+     Url https://ieeexplore.ieee.org/abstract/document/1232285/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Use of semi-formal and formal methods in requirement engineering of ILMS
+     Author ['S Sengupta', 'R Dasgupta']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2015
+     Abstract model for each of the abstraction levels is constructed by a combined use of graphical, semiformal and formal methods, chosen in  trace-flags (UCTf and ACTf) and the flag values for the requirements are compared for checking traceability between them  4.3 Scope for Automation
+     Url https://dl.acm.org/doi/abs/10.1145/2693208.2693235
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Using formal methods and agent-oriented software engineering for modeling NASA swarm-based systems
+     Author ['CA Rouff', 'MG Hinchey', 'J Pena']
+     Venue 2007 IEEE Swarm …
+     Year 2007
+     Abstract erties hold, and prove that they hold automatically or semi- automatically, thus applying the automation principle  Based on the results of the survey, four formal methods were selected to be used for a  c) Traceability view: shows how models in different ab- straction layers relate
+     Url https://ieeexplore.ieee.org/abstract/document/4223195/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods in testing software architectures
+     Author ['A Bertolino', 'P Inverardi', 'H Muccini']
+     Venue … on Formal Methods for the Design of …
+     Year 2003
+     Abstract the Page 4. Formal Methods in Testing Software Architectures 125 tight  behavior. After the test cases are derived from the specifications, two major problems remain to be solved: traceability and test execution. – Traceability
+     Url https://link.springer.com/chapter/10.1007/978-3-540-39800-4_7
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Development of Software Requirement Analysis Tool for NPP Software Fields Based on Software Inspection and Formal Method
+     Author ['SR Koo', 'S HS', 'PH Seong', 'JB Yoo']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract Stepwise refinement of the requirements into the architecture produces a natural set of mappings from which to derive the requirement traceability. For large systems, automation is desirable. Though formal methods, such as Statechart [1], CPN [2], RSML [3], and SCR [4], are
+     Url http://dslab.konkuk.ac.kr/Publication/Old/ISOFIC2002.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title The industrialization of formal methods
+     Author ['JS Fitzgerald', 'S Gnesi', 'D Mandrioli']
+     Venue International Journal on Software …
+     Year 2006
+     Abstract diversity of approach, the papers share some themes, notably the levels of automation that are  note the need of tools to help manage module decomposition and traceability of requirements  is not enough simply to say that such tools are orthogonal to formal methods tools, since
+     Url https://link.springer.com/article/10.1007/s10009-005-0208-7
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Isabelle/SACM: Computer-Assisted Assurance Cases with Integrated Formal Methods
+     Author ['Y Nemouchi', 'S Foster', 'M Gleirscher', 'T Kelly']
+     Venue … Integrated Formal Methods
+     Year 2019
+     Abstract The use of integrated formal methods (FMs) in assurance can improve automation, increase confidence  The framework guarantees well-formedness, consistency, and traceability of ACs, and allows a tight integration of formal and informal evidence of various provenance
+     Url https://link.springer.com/chapter/10.1007/978-3-030-34968-4_21
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract The techniques are increasingly practically applicable through greater automation  method” that aimed at integration of several formal and semi-formal methods using notational  all the different aspects of FM integration, including semantic integration, traceability, tool integration
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods applied to complex systems: implementation of the B method
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2014
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal specification of safe manufacturing machines using the B method: application to a mechanical press
+     Author ['D Evrot', 'JF Petin', 'M Dominique']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract Improving automation software dependability: a role for formal methods? In proc. of 11th IFAC/INCOM, Salvador-Bahia, Brazil,4-7/04/04 Laleau R., Pollack F., (2002) Coming and going from UML to B: a proposal to support traceability in rigorous IS development
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015358754
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Evaluating the suitability of state‐based formal methods for industrial deployment
+     Author ['A Mashkoor', 'F Kossak', 'A Egyed']
+     Venue Software: Practice and …
+     Year 2018
+     Abstract and contrasting them with one another, they focused on analysis (static analysis, dynamic analysis, performance, etc), refinement, traceability, and design process  and on the method TRIO.47 Toward the end, it also offers a comparison of different formal methods, including VDM
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2634
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title More Automated Formal Methods?! If so, why, where & how?
+     Author ['AC Rao']
+     Venue AFM@ NFM
+     Year 2017
+     Abstract 3 Automation with formal methods as well as systems engineering will benefit from improvements and/or new developments in the following areas: 1. Systems Engineering i) Traceability between different model elements, for example a set of requirements in an informal
+     Url http://fm.csl.sri.com/AFM17/AFM17_paper_1.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Spacecraft early design validation using formal methods
+     Author ['M Bozzano', 'A Cimatti', 'JP Katoen', 'P Katsaros']
+     Venue Reliability engineering & …
+     Year 2014
+     Abstract Elsevier. Reliability Engineering & System Safety. Volume 132, December 2014, Pages 20-35. Reliability Engineering & System Safety. Spacecraft early design validation using formal methods  We improve upon this by adopting a model-based approach using formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S0951832014001586
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods: industrial use from model to the code
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2013
+     Abstract Page 1. Formal Methods Industrial Use from Model to the Code Edited by Jean-Louis Boulanger ESIE @WILEY Page 2. Table of Contents Introduction Chapter 1. From Classic Languages to Formal Methods 1.1. Introduction 1.2. Classic development 1.3
+     Url https://books.google.com/books?hl=no&lr=&id=cCXN7qkYgGQC&oi=fnd&pg=PP8&dq=%22Automation%22+%22Formal+methods%22+%22Traceability%22&ots=jHgkwy9n4l&sig=Ji-748jAPDuOIsG0H5YySbwxYOc
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Evidence arguments for using formal methods in software certification
+     Author ['E Denney', 'G Pai']
+     Venue 2013 IEEE International Symposium on …
+     Year 2013
+     Abstract Assurance Case Automation Toolset (AdvoCATE  be mapped to some of the objectives in DO-333 [3]: the pres- criptive guidance for using formal methods with DO  C44, C47, upwards to goal node G7, via goal node G53), which maps to objective 5 (source code traceability to low
+     Url https://ieeexplore.ieee.org/abstract/document/6688924/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title A scenario-driven approach to traceability
+     Author ['A Egyed']
+     Venue Proceedings of the 23rd International Conference on …
+     Year 2001
+     Abstract Most trace capture methods, however, require exten- sive manual intervention [7,9] (eg, via naming dictionaries or traceability matrices); only rare cases have (semi) auto- mated support [2,12] (eg, via formal methods). Despite
+     Url https://ieeexplore.ieee.org/abstract/document/919087/
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Formal methods in requirements phase of SDLC
+     Author ['SK Pandey', 'M Batra']
+     Venue International Journal of Computer Applications
+     Year 2013
+     Abstract Literature reveals that formal methods can be applied at various points through the development process. Their tools can provide automated support, needed for checking completeness, traceability, verifiability, reusability and inconsistency management of requirement
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.478.2438&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Supporting traceability and inconsistency management between software artifacts
+     Author ['T Olsson', 'J Grundy']
+     Venue Proceedings of the 2002 IASTED International …
+     Year 2002
+     Abstract of this research is, however, usually focused on either low-level abstractions or on formal methods to encode  Supporting Traceability and Inconsistency Management between Software Artifacts  There is a need to explicitly create relations since a full automation is far away or
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.194.7136&rep=rep1&type=pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Industrial use of formal methods: formal verification
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2013
+     Abstract Page 1. Industrial Use of Formal Methods Formal Verification Edited by Jean-Louis Boulanger {STE @WILEY Page 2  Future Work 5.13. Glossary 5.14. Bibliography Chapter 6. Partial Applications of Formal Methods Aryldo G. Russo Jr. 6.1. History 6.2. Case studies 6.3
+     Url https://books.google.com/books?hl=no&lr=&id=E5sdDs00MuwC&oi=fnd&pg=PP8&dq=%22Automation%22+%22Formal+methods%22+%22Traceability%22&ots=QQwOsU_ips&sig=sVQgIcBeBJvfpUyJsubSUeSn54s
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Virtual Design and Verification of CyberYPhysical Systems: Industrial Process Plant Design
+     Author ['MN BlacNburnak', 'P Dennob']
+     Venue Procedia Computer Science
+     Year 2014
+     Abstract to support many of these roles and address these requirementYtoYtest traceability challenges  design, and safety properties to support systems V&V using formal method automation  methodology and prototype that demonstrate how some types of formal methods (ie, satisfiability
+     Url https://cyberleninka.org/article/n/149195.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Power and limitations of formal methods for software fabrication: Thirty years later
+     Author ['E Serna', 'A Serna']
+     Venue Informatica
+     Year 2017
+     Abstract Keywords: formalization, automation, formal languages, software lifecycle, software quality Received: February 16, 2017  Meanwhile, for Mayo et al. [40], the limitations of formal methods lay in semantics and traceability, as software and hardware are formally tested during the
+     Url http://www.informatica.si/index.php/informatica/article/view/1534
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Tool support for implementation and analysis of traceability structures
+     Author ['S Riddle', 'A Saeed']
+     Venue INCOSE International Symposium
+     Year 1999
+     Abstract The method engineer has essentially to implement the automation of the relevant  In MG Hinchey, J. Bowen, eds, Applications of Formal Methods pp 307—332  Integrated Chipware, Requirements Traceability Management, User Documentation, Integrated Chipware 1997
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.1999.tb00339.x
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Industrial deployment of formal methods: Trends and challenges
+     Author ['J Fitzgerald', 'J Bicarregui', 'PG Larsen']
+     Venue Industrial Deployment of …
+     Year 2013
+     Abstract Requirements traceability is another important aspect of project management, and the team experienced the  Indeed, a high degree of automation was an essential objective of the MCM  based testing work, in order to achieve a “non-intrusive” introduction of formal methods
+     Url https://link.springer.com/chapter/10.1007/978-3-642-33170-1_10
+
+
+     Search term "Automation"+"Formal+methods"+"Traceability"
+     Title Applied formal methods for hardware Trojan detection
+     Author ['M Rathmair', 'F Schupfer', 'C Krieg']
+     Venue 2014 IEEE International …
+     Year 2014
+     Abstract For integrated third party IP blocks described at netlist level this traceability is not  free trusted ICs: Problem analysis and detection scheme,” in Design, Automation and Test in  ability analysis via automated dynamic netlist-based hint generation,” in Formal Methods in Computer
+     Url https://ieeexplore.ieee.org/abstract/document/6865092/
+

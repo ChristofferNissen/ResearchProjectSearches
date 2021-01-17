@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Noise-induced error rate as limiting factory for energy per operation in digital ICs
+     Author ['KU Stein']
+     Venue IEEE Journal of Solid-State Circuits
+     Year 1977
+     Abstract Due to the steady progress in computer technologies over the past years, the physical limits of the energy required per logical operation are assuming increased practical significance. Whereas earlier studies have considered only the elementary energies (eg, kT, hv) or the
+     Url https://ieeexplore.ieee.org/abstract/document/1050947/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Rapid thermal multiprocessing for a programmable factory for adaptable manufacturing of ICs
+     Author ['KC Saraswat', 'PP Apte', 'L Booth', 'Y Chen']
+     Venue IEEE transactions on …
+     Year 1994
+     Abstract This paper presents an overview of research at Stanford University on the development of concepts of a programmable factory, based on a new generation of flexible multifunctional equipment implemented in a smaller flexible factory. This approach is demonstrated through
+     Url https://ieeexplore.ieee.org/abstract/document/286852/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cyber-physical system based factory monitoring and fault diagnosis framework with plant-wide performance optimization
+     Author ['Y Jiang', 'K Li', 'S Yin']
+     Venue 2018 IEEE Industrial Cyber-Physical …
+     Year 2018
+     Abstract The next generation of industrial revolution aims to achieve flexible and intelligent operation and manufacturing oriented to the customers. In recent years, it has been a core subject to study the large-scale integrated design and implementation of plant equipment based on
+     Url https://ieeexplore.ieee.org/abstract/document/8387666/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The framework design of smart factory in discrete manufacturing industry based on cyber-physical system
+     Author ['G Chen', 'P Wang', 'B Feng', 'Y Li', 'D Liu']
+     Venue International Journal of …
+     Year 2020
+     Abstract A cyber-physical system (CPS) is a new trend in smart manufacturing-related research, where the physical system acts as a data access role with sensors and communication systems to collect real-world information and communicate to computation
+     Url https://www.tandfonline.com/doi/abs/10.1080/0951192X.2019.1699254
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The application of DCS to waste heat power generation of cement factory
+     Author ['J Wu', 'Q Meng', 'B Xing', 'S Wang']
+     Venue 2008 IEEE Pacific-Asia …
+     Year 2008
+     Abstract According to the production process and the control requirement of pure low temperature waste heat power generation plant, we design a set of distributed control system in waste heat power generation plant. The whole structure, task assignment and important control
+     Url https://ieeexplore.ieee.org/abstract/document/4756675/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Design of the distributed control system for beam lines at the Photon Factory
+     Author ['N Kanaya']
+     Venue IEEE Transactions on Nuclear Science
+     Year 1984
+     Abstract A distributed control system has been designed to control all beam lines around the 2.5 GeV storage ring at the Photon Factory. It is a local area network composed of outlying nodes and a central node which are interconnected in a star configuration via optical fiber links, with a
+     Url https://ieeexplore.ieee.org/abstract/document/4333412/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Security issues in SCADA networks
+     Author ['VM Igure', 'SA Laughter', 'RD Williams']
+     Venue computers & security
+     Year 2006
+     Abstract The gateways provide the interface between IP-based networks on the outside and the fieldbus protocol-based SCADA networks on the factory floor. The gateway provides the protocol conversion mechanisms to enable communication between the two different networks
+     Url https://www.sciencedirect.com/science/article/pii/S0167404806000514
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Social factory as a production node of social manufacturing
+     Author ['C Liu', 'P Jiang']
+     Venue Proceedings of the Institution of Mechanical …
+     Year 2019
+     Abstract Download article citation data for: Social factory as a production node of social manufacturing. Chao Liu and Pingyu Jiang. Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science 2019 233:14, 5144-5160. Download Citation
+     Url https://journals.sagepub.com/doi/abs/10.1177/0954406219840680
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Operational Experience Of The Distributed Control System For synchrotron radiation Beam Lines At The Photon Factory
+     Author ['N Kanaya', 'S Sato', 'S Asaoka', 'H Maezawa', 'T Koide']
+     Venue Part. Accel.
+     Year 1990
+     Abstract ABSTR ACT A distributed control system has been used for controlling 20 synchrotron radiation beam lines at the 2.5-GeV Photon Factory storage ring. The system is a local-area network comprising 20 outlying nodes with a Z80A for each, and a central node (JlVAX-II);
+     Url https://cds.cern.ch/record/1108164/files/p227.pdf
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Convergence-based smart factory security threats and response trends
+     Author ['J Hoh', 'CY Jung']
+     Venue Journal of the Korea Convergence Society
+     Year 2017
+     Abstract 산업인터넷에서 설명하는 내 용을 살펴보면, 공장자동화(FA, Factory Automation)가  하여 발전된 형태로서, IoT, 빅데이터, 클라우드, 사이버물리시스템(Cyber Physical System, CPS), 스마트센서  통제하는 역할을 하고 있기에 산업 통제시스템(Industrial Control System, ICS)라 표현하는
+     Url https://www.koreascience.or.kr/article/JAKO201734964190855.page
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cloud Based Cyber Physical System for Factory Automation
+     Author ['A Ossamah', 'A Meshari', 'A Yazed']
+     Venue 2020 IEEE 6th World …
+     Year 2020
+     Abstract Cloud Based Cyber Physical System in a manufacturing Reference to various manufacturing processes, which entails blueprint, simulation, control and check. For purposes of data analysis, the conception of Cloud Based Cyber Physical System is somewhat novel and a
+     Url https://ieeexplore.ieee.org/abstract/document/9221312/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Systematic development of smart factory using CONSENS
+     Author ['U Mohammad', 'CY Low', 'R Abd Rahman', 'L Asmar']
+     Venue Procedia …
+     Year 2018
+     Abstract Published by Elsevier Ltd. Intelligence. Keywords: Systems Engineering; CONSENS; Industry 4.0; Integrated factory; SCADA * Corresponding author  Therefore, an integrated smart factory system that uses SCADA technology to acquire and monitor data has been developed
+     Url https://www.sciencedirect.com/science/article/pii/S2351978918305444
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Factory management and transport automation
+     Author ['MC Mora', 'V Suesta', 'L Armesto']
+     Venue … and Factory Automation …
+     Year 2003
+     Abstract sensors. An ERF' system, as information system, has been installed in order to handlc the whole factory management process. A SCADA application has also been implemented for monitoring the industrial vehicles in the plant
+     Url https://ieeexplore.ieee.org/abstract/document/1248741/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Measuring D0–D0 mixing and relative strong phases at a charm factory
+     Author ['M Gronau', 'Y Grossman', 'JL Rosner']
+     Venue Physics Letters B
+     Year 2001
+     Abstract We propose a set of measurements at a charm factory to determine the D 0 – D ̄ 0 mixing parameters ΔM and ΔΓ and the strong phase difference δ between doubly-Cabibbo- suppressed (DCS) and Cabibbo-favored (CF) neutral D decays into K − π +
+     Url https://www.sciencedirect.com/science/article/pii/S0370269301004269
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Smart Factory Reference Model for Training on Industry 4.0
+     Author ['U Mohammad', 'CY Low', 'RA Rahman']
+     Venue Journal of …
+     Year 2019
+     Abstract Keywords: Industry 4.0, Smart Factory, SCADA, Industry IoT, Systems Engineering  Industry 4.0 also can be interpreted as a cyber-physical system in which advanced manufacturing, automation and  to the Internet [3]–[6]. Among the applications of Industry 4.0 is a smart factory
+     Url https://jmeche.uitm.edu.my/wp-content/uploads/2019/08/10%20ID212%20Final.pdf
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Agent and cyber-physical system based self-organizing and self-adaptive intelligent shopfloor
+     Author ['Y Zhang', 'C Qian', 'J Lv', 'Y Liu']
+     Venue IEEE Transactions on Industrial …
+     Year 2016
+     Abstract A cyber-physical system for manufacturing shopfloor based on the multiagent technology is developed to realize the above function models  This research provides a feasible method for designing an autonomous factory with exception-handling capabilities
+     Url https://ieeexplore.ieee.org/abstract/document/7593295/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Towards smart factory for industry 4.0: a self-organized multi-agent system with big data based feedback and coordination
+     Author ['S Wang', 'J Wan', 'D Zhang', 'D Li', 'C Zhang']
+     Venue Computer Networks
+     Year 2016
+     Abstract deadlock prevention strategies. Previous article in issue; Next article in issue. Keywords. Industry 4.0. Smart factory. Cyber-physical system. Multi-agent system. Deadlock prevention. 1. Introduction. The application of automation
+     Url https://www.sciencedirect.com/science/article/pii/S1389128615005046
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Agile factory-an example of an industry 4.0 manufacturing process
+     Author ['C Scheuermann', 'S Verclas']
+     Venue 2015 IEEE 3rd …
+     Year 2015
+     Abstract about ongoing research, we have exam- ined different data sources (compare Figure 1). As shown in Figure 1a the aggregated amount of publications concerning the terms Smart Factory, Cyber-Physical System, Human in the Loop and Digital Factory are shown over time
+     Url https://ieeexplore.ieee.org/abstract/document/7272683/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Development of innovative strategies for the Korean manufacturing industry by use of the Connected Smart Factory (CSF)
+     Author ['S Park']
+     Venue Procedia Computer Science
+     Year 2016
+     Abstract Keywords: Smart factory, Connected factory, Cyber physical system  The CSF realizes customized production through the vertically integrated factory value chain (sensor ↔ PLC control ↔ SCADA ↔ MES ↔ ERP), using the CPPS and can substitute a dynamic production
+     Url https://www.sciencedirect.com/science/article/pii/S1877050916312509
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Modelling the impact of factory gate pricing on transport and logistics
+     Author ['A Potter', 'C Lalwani', 'S Disney', 'H Velho']
+     Venue Developments in Logistics and …
+     Year 2016
+     Abstract The latest development is for retailers to take control of the delivery of goods into their DCs. This movement has gained momentum recently and is known as factory gate pricing (FGP). The evolution of grocery distribution is shown in Figure 7.2.1. 7.2 Modelling the Impact of
+     Url https://link.springer.com/chapter/10.1057/9781137541253_20
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title CPS (Cyber Physical System) & Research Opportunities for MIS
+     Author ['MJ Choi', 'JP Park']
+     Venue The Journal of Information Systems
+     Year 2017
+     Abstract 오늘날 제조 프로세스 전반에 대한 원격․자 동․통제시스템의 개발을 향한 엔지니어의 꿈 은 스마트팩토리(smart factory)라는 모습으로 새롭게 나타나고 있다  다양한 연구 및 교육적 기회들을 탐색하였다. Page 3. CPS(Cyber Physical System)와 MIS의 연구기회 탐색 - 65
+     Url https://www.koreascience.or.kr/article/JAKO201708260281074.page
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Distributed Control System Based on RS485 Bus for Flour Factory
+     Author ['GUO Fangrui']
+     Venue Modern Electronic Technique
+     Year 2003
+     Abstract Presents the basic status and technical request of flour fac tory, and it describes control strategy and design of the control system for flo ur factory in detail The paper also introduces hardware configuration and soft w are design of DCS of the control system based on RS485
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-XDDJ200313026.htm
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Impact of an Energy Monitoring System on the Energy Efficiency of an Automobile Factory: A Case Study
+     Author ['T Akhtar', 'AU Rehman', 'M Jamil', 'SO Gilani']
+     Venue Energies
+     Year 2020
+     Abstract A supervisory control and data acquisition (SCADA) software was designed and installed in a centralized server for logging and monitoring the data from all over the factory. SCADA was the main important part of this project
+     Url https://www.mdpi.com/1996-1073/13/10/2577
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges and requirements for the application of industry 4.0: a special insight with the usage of cyber-physical system
+     Author ['E Mueller', 'XL Chen', 'R Riedel']
+     Venue Chinese Journal of …
+     Year 2017
+     Abstract implementation of Industrie 4.0 in companies. They are Internet of Thing (IoT), Cyber-Physical System and Smart Factory [7]. In general, these three are not independent, but overlapping with each other. According to TECHOPEDI [9], IoT
+     Url https://cjme.springeropen.com/articles/10.1007/s10033-017-0164-7
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Rapid thermal multiprocessing for a programmable factory for manufacturing of ICs
+     Author ['KC Saraswat']
+     Venue Advances in Rapid Thermal and Integrated Processing
+     Year 1996
+     Abstract At Stanford University we have developed concepts of a programmable factory, an alternative Adaptable Manufacturing Systems (AMS) approach to IC fabrication, which may offer more economical small or large scale production, higher flexibility to accommodate
+     Url https://link.springer.com/chapter/10.1007/978-94-015-8711-2_13
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Virtual engineering factory: Creating experience base for industry 4.0
+     Author ['SI Shafiq', 'C Sanin', 'E Szczerbicki']
+     Venue Cybernetics and Systems
+     Year 2016
+     Abstract The concept of virtual engineering object (VEO), virtual engineering process (VEP), and virtual engineering factory (VEF) is experienced-based knowledge  2015a. Virtual engineering object/virtual engineering process: A specialized form of cyber physical system for Industrie 4.0
+     Url https://www.tandfonline.com/doi/abs/10.1080/01969722.2016.1128762
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Engineering insights from an anthropocentric cyber-physical system: A case study for an assembly station
+     Author ['BC Pirvu', 'CB Zamfirescu', 'D Gorecky']
+     Venue Mechatronics
+     Year 2016
+     Abstract For that reason, in [59] we defined the anthropocentric cyber-physical system (ACPS) as a reference model for factory automation that integrates the physical component (PC), the computational/cyber component (CC) and the human component (HC)
+     Url https://www.sciencedirect.com/science/article/pii/S095741581500152X
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title SEPT learning factory for industry 4.0 education and applied research
+     Author ['M Elbestawi', 'D Centea', 'I Singh', 'T Wanyama']
+     Venue Procedia manufacturing
+     Year 2018
+     Abstract and assembly, as well as digital environments [2]. In particular, they allow learning and training of the key aspects of industry 4.0 such as CPS, collaborative robot- ics, and IoT  The SEPT Learning Factory includes several cyber physical system stations, collaborative
+     Url https://www.sciencedirect.com/science/article/pii/S2351978918304979
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A testbed for SCADA control system cybersecurity research and pedagogy
+     Author ['T Morris', 'R Vaughn', 'YS Dandass']
+     Venue … of the Seventh Annual Workshop on …
+     Year 2011
+     Abstract Keywords Testbed, industrial control system, SCADA, cybersecurity  The testbed includes laboratory scale control systems from multiple critical industries including, petrochemical manufacturing, gas pipeline operation, electricity transmission, factory systems, steel manufacturing
+     Url https://dl.acm.org/doi/pdf/10.1145/2179298.2179327
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Trend of process automation and factory automation
+     Author ['S Shin']
+     Venue 2006 SICE-ICASE International Joint Conference
+     Year 2006
+     Abstract One is PA (Process Automation) and another is FA (Factory Automation). The former is continuous process for industries of steel, chemical, petroleum, and so on. The controller used for PA is DCS (Distributed Control System), which treats analog signals mainly and an origin of
+     Url https://ieeexplore.ieee.org/abstract/document/4108815/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Vulnerability assessment of cybersecurity for SCADA systems using attack trees
+     Author ['CW Ten', 'CC Liu', 'M Govindarasu']
+     Venue 2007 IEEE Power …
+     Year 2007
+     Abstract the existence of factory default password and insufficient security improvement [16]. The attack leaves include countermeasures to improve the system vulnerability. An attack tree illustrated in Fig. 4 consists of disruptions through a power plant, substation, or web-based SCADA
+     Url https://ieeexplore.ieee.org/abstract/document/4275642/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title System for programming a factory automation device using a web browser
+     Author ['RA Baker']
+     Venue US Patent 7,035,898
+     Year 2006
+     Abstract Internet. Another object of the present invention is to provide remote access through a web browser to operating program information and data contained in an industrial control system having a factory automation device. Other
+     Url https://patents.google.com/patent/US7035898B1/en
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A practical example of a software factory: building a custom application for analysing EU Cyber Physical System (CPS) projects using Open Source software …
+     Author ['PJ Palmer', 'MA Sinclair', 'CE Siemieniuch']
+     Venue INCOSE …
+     Year 2016
+     Abstract This paper is a retrospective analysis describing the development of a custom tool to organise data snippets derived from a substantial body of information, and a summary of the insights that this means of analysis provided in a very short time scale. The creation of data
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.2016.00164.x
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title The evolution of factory and building automation
+     Author ['T Sauter', 'S Soucek', 'W Kastner']
+     Venue IEEE Industrial …
+     Year 2011
+     Abstract Systems found in the management level are building management systems, SCADA, or in- terfaces to facility management systems. The treatment of SCADA functions is a notable difference to factory automation. There, SCADA is found at the intermediate levels (in
+     Url https://ieeexplore.ieee.org/abstract/document/6042563/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Technology and issue on embodiment of smart factory in small-medium manufacturing business
+     Author ['J Park']
+     Venue The Journal of Korean Institute of Communications and …
+     Year 2015
+     Abstract 이러한 스마트공장화의 지향점은 핵심 기술인 IIoT( Industrial IoT)와 CPS(Cyber Physical System)기술을 기반으로 제조단계의 자동화  4. 3 Layers for Smart Factory Components  한 통신 플랫폼 통합구조(OPC-UA)는 프로그램 로직 제어기(PLC)와 분산제어시스템(DCS), 고수준 웹서비
+     Url https://www.koreascience.or.kr/article/JAKO201503340570995.page
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Digital factory-simulation enhancing the product and production engineering process
+     Author ['W Kuhn']
+     Venue Proceedings of the 2006 winter simulation …
+     Year 2006
+     Abstract Human resource simulation improves workplace ergonom- ics, optimized assembly cycle times, improve communica  data, model structure and model parameter with the actual situation from the factory  systems (MES) to real-time process monitoring and control (SCADA/HMI)
+     Url https://ieeexplore.ieee.org/abstract/document/4117830/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Software factory techniques applied to Process Control at CERN
+     Author ['MD Dutour']
+     Venue NA
+     Year 2007
+     Abstract the development of these applications, we migrated our existing UNICOS tooling suite toward a software factory in charge of assembling project, domain and technical information seamlessly into deployable PLC (Programmable logic Controller) – SCADA (Supervisory Control
+     Url https://cds.cern.ch/record/1067152
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Practical SCADA for industry
+     Author ['D Bailey', 'E Wright']
+     Venue NA
+     Year 2003
+     Abstract 11 2.2 Comparison of the terms SCADA, DCS, PLC and smart instrument 12 2.2.1 SCADA system 12 2.2.2 Distributed control system (DCS) 15 2.2  For example, if you are installing a process control system for an industrial plant or factory you will understand SCADA to mean
+     Url https://books.google.com/books?hl=no&lr=&id=jLthOQfK-UAC&oi=fnd&pg=PR5&dq=%22Factory%22+%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22&ots=Qp3op-C3Bc&sig=ydlaE9lWllUDR8bhqTQx5ec2hTc
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Unique identification of entities of an industrial control system
+     Author ['JC Wilkinson Jr', 'KH Hall', 'TJ Jasper']
+     Venue US Patent 8,327,130
+     Year 2012
+     Abstract Moreover, information related to a plant or factory or production line is necessary for  system, in a site of a manufacturer/vendor of the industrial control system, or a  to decentralized control systems (eg, supervisory control and data acquisition system (SCADA)) with dispersed
+     Url https://patents.google.com/patent/US8327130B2/en
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Research on the technical architecture for building CPS and its application on a mobile phone factory
+     Author ['Z Chen', 'X Zhang', 'K He']
+     Venue 2017 5th International Conference on …
+     Year 2017
+     Abstract CPS concept. A technical architecture for implementing a cyber- physical system and smart factory is introduced, together with the data model of the manufacturing process and prototype model of the factory. The practice presented
+     Url https://ieeexplore.ieee.org/abstract/document/8119371/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cryptographic key management for SCADA systems-issues and perspectives
+     Author ['L Piètre-Cambacédès', 'P Sitbon']
+     Venue … International Conference on …
+     Year 2008
+     Abstract International IEEE Conference Emerging Technologies and Factory Automation 2003 (ETFA'03), vol. 2, pp. 607–613, 2003  of the IEEE S&P Symp., IEEE CS, 2000. [36] Y. Wang, B. Chu, “sSCADA: Securing SCADA Infrastructure Communications”, IACR Eprint, 2004
+     Url https://ieeexplore.ieee.org/abstract/document/4511554/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Architecting the next generation of service-based SCADA/DCS system of systems
+     Author ['S Karnouskos', 'AW Colombo']
+     Venue IECON 2011-37th Annual …
+     Year 2011
+     Abstract DCS Services Se S Next Generation SCADA/DCS Systems Serv ces  Services Serv HM Servic SCADA n Page 5  Management and Visualization: The next generation factory systems will be composed of thousands of devices with differ ent hardware and software configurations
+     Url https://ieeexplore.ieee.org/abstract/document/6119279/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Implementation and Simulation of Cyber Physical System for Robotic Arm Control in Smart Factory
+     Author ['S Saif', 'F Rahmadani', 'H Lee']
+     Venue 한국지능시스템학회 논문지
+     Year 2019
+     Abstract As the age of the fourth industrial revolution has begun, processes inside manufacturing and production lines have been checked using Internet of Things (IoT) and the related embedded systems, and the overall processes' lifecycle can be monitored in real time. One
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE08765177
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Security aspects of scada and corporate network interconnection: An overview
+     Author ['PSM Pires', 'LAHG Oliveira']
+     Venue 2006 International Conference on …
+     Year 2006
+     Abstract IEEE International Conference on Emerging Technologies and Factory Automation, ETFA, Vol. 1, pp. 27-31, October, 1999. [10] J. Pollet, Safety Considerations for SCADA/DCS Cyber Attacks, available on http: //www.isa.org/InTechTemplate.cfm?Section
+     Url https://ieeexplore.ieee.org/abstract/document/4024041/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title IoT, IIoT and Cyber-Physical Systems Integration in the SEPT Learning Factory
+     Author ['I Singh', 'D Centea', 'M Elbestawi']
+     Venue Procedia manufacturing
+     Year 2019
+     Abstract 4.7 Cyber-Physical System Control Stations  5. Learning Factory WebHMI  The application being developed is platform ``agnostic” from the devices (Microcontrollers, SBCs, PLCs, DCS, etc.) perspective, highly extensible, and easily maintainable
+     Url https://www.sciencedirect.com/science/article/pii/S2351978919303828
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Embedded service oriented monitoring, diagnostics and control: Towards the asset-aware and self-recovery factory
+     Author ['AV Ramos', 'IM Delamer']
+     Venue 2011 9th IEEE International …
+     Year 2011
+     Abstract high-level systems, such as Supervisory Control And Data Acquisition (SCADA), Maintenance, Enterprise Resource Planning (ERP), Distributed Control System (DCS), as WSDs  The box is a portable demo factory which is communicated to a SCADA system, contained on a
+     Url https://ieeexplore.ieee.org/abstract/document/6034930/
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Intelligent Manufacturing Control Systems: The Core of Smart Factory
+     Author ['YJ Lin', 'SH Wei', 'CY Huang']
+     Venue Procedia Manufacturing
+     Year 2019
+     Abstract as it is being processed, assembled, moved, and inspected in the factory [1]. Manufacturing  1). “Today Industrial Control System (ICS) products are mostly based on standard embedded systems platforms  The largest subgroup of ICS is SCADA” [2]. SCADA applications are made
+     Url https://www.sciencedirect.com/science/article/pii/S2351978920304534
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title SCADA security in the light of Cyber-Warfare
+     Author ['A Nicholson', 'S Webber', 'S Dyer', 'T Patel', 'H Janicke']
+     Venue Computers & Security
+     Year 2012
+     Abstract 2. Background. SCADA systems are used widely, for example in utility companies managing electrical grids, railways and power generation, whilst manufacturers use SCADA to manage factory floors. Typical SCADA functionalities
+     Url https://www.sciencedirect.com/science/article/pii/S0167404812000429
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Data driven die casting smart factory solution
+     Author ['Y Zhao', 'F Qian', 'Y Gao']
+     Venue Recent Advances in Intelligent Manufacturing
+     Year 2018
+     Abstract Many researchers studied on key technology in smart factory. Robert et al. [4] described the smart factory as a cyber-physical system, which monitors the factory's production process, builds factory virtual simulation system and makes discrete decision. Zhong et al
+     Url https://link.springer.com/chapter/10.1007/978-981-13-2396-6_2
+
+
+     Search term "Factory"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title SCADA/HMI systems in advanced educational courses
+     Author ['F Adamo', 'F Attivissimo', 'G Cavone']
+     Venue IEEE Transactions on …
+     Year 2007
+     Abstract INTRODUCTION TO SCADA/HMI SYSTEMS  etc., require the use of sophisticated automation schemes that must be able to grant access to production data and field variables at great distances (even in the order of kilometers) and from various levels of factory automation (field
+     Url https://ieeexplore.ieee.org/abstract/document/4061068/
+

@@ -1,0 +1,415 @@
+Showing papers for search query "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title An engineering environment for hardware/software co-simulation‏
+     Author ['D Becker', 'RK Singh', 'SG Tell']
+     Venue DAC, 1992‏
+     Year NA
+     Abstract Cadence Verilog-XL simulator to enable soft- ware debugging and testing using hardware  Systems, the software components can control and react to events within the hardware simulation  of the NIU system is presented in section 2. The concurrent engineering environment is   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.57.5633&rep=rep1&type=pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Concurrent Engineering in OpenGL's Product Development‏
+     Author ['RJ Casey', 'LL Lindstone']
+     Venue HEWLETT PACKARD JOURNAL, 1998‏
+     Year NA
+     Abstract Hardware Simulation One key factor in our concurrent engineering process is hardware simulation  Briefly, we use three levels of hardware simulation: H A behavioral model (written in C)  By doing so, we were able to begin nightly regression testing simultaneous with the code   ‏
+     Url https://www.hpl.hp.com/hpjournal/98may/may98a6.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Software development in a hardware simulation environment‏
+     Author ['B Schnaider', 'E Yogev']
+     Venue 33rd Design Automation Conference …, 1996‏
+     Year NA
+     Abstract described above, we are still using the Hardware modeler for “final” testing and for  further to allow multiple VCPU processes running concurrently with one hardware simulation model  8 Conclusions The Virtual CPU approach provides a framework for concurrent engineering   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/545661/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Concurrent Engineering of Robot Manipulators‏
+     Author ['MR Emami', 'R Chhabra']
+     Venue Robot Manipulators: New Achievements, 2010‏
+     Year NA
+     Abstract is developed in the primary phase of design; secondly, a software and/or hardware simulation of the  Concurrent Engineering of Robot Manipulators 225 teq (X)= Inf {t0:∀ t> t0 Qq irr (t, X) ε<}.(34  increase in the use of HIL simulation as a tool for system design, testing, and training   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=xgmhDwAAQBAJ&oi=fnd&pg=PA211&dq=%22Concurrent+Engineering%22+%22Hardware+simulation%22+%22Testing%22&ots=y724MIpdbt&sig=xqghRUCj0ApQM4cUic3j1DnBBB4
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Visualisation of real-time software in host-based simulation environment‏
+     Author ['J Leskela', 'M Salmela', 'M Heikkinen']
+     Venue … Workshop on Real …, 1995‏
+     Year NA
+     Abstract Support for Concurrent Engineering: In- creased visibility enhances communication be- tween development teams and incremental in- tegration enables better coordination between  0 testing through hardware interfaces and flexible target hardware simulation should be   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/514290/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Simulation tools ease and speed assembly cell development‏
+     Author ['R Stringham']
+     Venue Assembly Automation, 1999‏
+     Year NA
+     Abstract However, when an entirely new machine is being developed, very little application testing is possible until the real machine becomes  Simulation allows the assembly cell to be visualized on the computer display, including interactions between the moving robotic arms and the   ‏
+     Url https://www.emerald.com/insight/content/doi/10.1108/01445159910265134/full/html
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Hardware-accelerated concurrent fault simulation: eventflow computing versus dataflow computing‏
+     Author ['W Hahn', 'A Hagerer']
+     Venue Proceedings of the Fourth …, 1995‏
+     Year NA
+     Abstract 1-58. Cheng, K.-T. and VD Agrawal: Unified Methods for VLSI Simulation and Test Generation, Kluwer Academic Publishers, 1989 Hahn, W., H. Anger, A. Hagerer, and B. Schuster: A Multi-Transputer-Net as a Hardware Simulation Envi- ronment   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/485324/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Architectural concepts for a system simulator for concurrent prototyping of equipment and controls‏
+     Author ['KP White', 'R Fritz', 'S Horvath', 'C Orellana']
+     Venue Proceedings of the …, 2002‏
+     Year NA
+     Abstract This architecture supports concurrent engineering of controls and hardware prototypes  engineer can more thoroughly debug and optimize the controller design inter- acting with the hardware simulation  Step two involved testing the IP addresses of the TS- 4 ports and their   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/1166365/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title System and method for control and simulation‏
+     Author ['JA Tenney', 'WM Ruark', 'GJ Orelind']
+     Venue US Patent 6,944,584, 2005‏
+     Year NA
+     Abstract simulation systems have been developed that allow some simulated testing of the  Existing robotic hardware simulation systems require users to write a robotic simulation program in  control software, and the integrated simulation capability enables concurrent engineering of the   ‏
+     Url https://patents.google.com/patent/US6944584B1/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Manufacturing modeling architectures: architectural concepts for a system simulator for concurrent prototypng of equipment and controls‏
+     Author ['KP White', 'R Fritz', 'S Horvath', 'C Orellana']
+     Venue Proceedings of the 34th …, 2002‏
+     Year NA
+     Abstract This architecture supports concurrent engineering of controls and hardware prototypes  engineer can more thoroughly debug and optimize the controller design inter- acting with the hardware simulation  Step two involved testing the IP addresses of the TS- 4 ports and their   ‏
+     Url https://dl.acm.org/doi/abs/10.5555/1030453.1030614
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Virtual reality prototyping-a framework for the development of electronics and telecommunication products‏
+     Author ['M Kerttula', 'M Salmela']
+     Venue Proceedings 8th IEEE …, 1997‏
+     Year NA
+     Abstract as a comprehensive design framework, including software and hardware simulation features, are  for implementing and special environments for compil- ing, debugging and testing  This improves communication between disciplines in concurrent engineering projects of multi   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/618812/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Virtual prototypes in developing mobile software applications and devices‏
+     Author ['K Liukkunen', 'M Eteläperä', 'M Oivo', 'JP Soininen']
+     Venue … Conference on Product …, 2008‏
+     Year NA
+     Abstract The first is to increase the abstraction level of the hardware simulation by, for example  with virtual platforms and they provide an intuitive way of developing and testing software for  7. Haug, EJ, Kuhl, JG, Tsai, FF: Virtual Prototyping for Mechanical System Concurrent Engineering   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69566-0_16
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title A Holistic Approach to Systems Development‏
+     Author ['DT Wong']
+     Venue 2008‏
+     Year NA
+     Abstract Emulate (higher fidelity simulation w/ hardware simulation w/ hardware emulation)  Approach – Factor 5: Concurrent Engineering g g • Key: Frequent Quality Communication Among y q Q y g  Design for Reusability and Disposal • Subsystems Testing • Integrated Testing 29   ‏
+     Url https://ntrs.nasa.gov/search.jsp?R=20080042400
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title chLs EUROPE '96‏
+     Author ['GI Nerteidigong', 'U Kingﬂom\u200f']
+     Venue NA
+     Year NA
+     Abstract 2 CONCURRENT ENGINEERING CE-based methodologies and related tools are becoming more widely  Co—Testing Graphtcal Antmatton 0 Computer-Aided Veriﬁcation Figure 2. A concurrent  We are currently integrating our existing software/hardware simulation tools to the   ‏
+     Url https://www.researchgate.net/profile/Jouni_Similae/publication/263925902_All-Digital_Virtual_Prototyping_of_Telecommunication_Products_and_Services/links/53f5b0ab0cf22be01c3f9102.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title A Rapid Prototyping Tool for Hardware/Software Cosimulation of Embedded Control Systems‏
+     Author ['J Bruns', 'Z Scherber']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Modelling and simulation method‏
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …, 2011‏
+     Year NA
+     Abstract Such testing is usually carried out at RTL  Furthermore, testing a complex system in its entirety when all its component units are described at RTL is likely to be very time consuming both in the creation of test data (known as a testbench) and in simulation   ‏
+     Url https://patents.google.com/patent/US8082141B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Improvement of control software for automatic logistic systems using executable environment models‏
+     Author ['C Kreiner', 'C Steger', 'R Weiss']
+     Venue … . 24th EUROMICRO Conference …, 1998‏
+     Year NA
+     Abstract 0 better insight to system behavior through visualization and animation. 3.1. Related Work Honka [7] uses hardware simulation for testing of em- bedded software in concurrent engineering process for hard- ware and software of a GSM cellular phone   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/708122/
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Method of co-simulating a digital circuit‏
+     Author ['V Zammit', 'A Kay']
+     Venue US Patent 7,146,300, 2006‏
+     Year NA
+     Abstract 2 of the accompanying drawings, and then co-simulate the low-level description using the hardware simulation tool  The simulation engine described in David A. Burgoon. A mixed-language simulator for concurrent engineering   ‏
+     Url https://patents.google.com/patent/US7146300B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Distributed simulation‏
+     Author ['O Wasynczuk', 'CE Lucas', 'EA Walters']
+     Venue US Patent …, 2009‏
+     Year NA
+     Abstract 20—Design optimisation, verification or simulation. G—PHYSICS; G05—CONTROLLING; REGULATING; G05B—CONTROL OR REGULATING SYSTEMS IN GENERAL; FUNCTIONAL ELEMENTS OF SUCH SYSTEMS; MONITORING OR TESTING ARRANGEMENTS FOR   ‏
+     Url https://patents.google.com/patent/US7490029B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Modelling and simulation method‏
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …, 2019‏
+     Year NA
+     Abstract US10409937B2 - Modelling and simulation method - Google Patents. Modelling and simulation method. Download PDF Info. Publication number US10409937B2. US10409937B2 US15/073,980 US201615073980A US10409937B2   ‏
+     Url https://patents.google.com/patent/US10409937B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Empirical studies of embedded software development using agile methods: a systematic review‏
+     Author ['M Xie', 'M Shen', 'G Rong', 'D Shao']
+     Venue … of the 2nd international workshop on …, 2012‏
+     Year NA
+     Abstract Concurrent engineering, which is core to Agile, is carried out under the help of abstractions to refine the boundary. Unit testing is considered to be effective for this issue in [P18]  Hardware simulation makes it possible to build an effective testing environment   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2372233.2372240
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Modelling and simulation method‏
+     Author ['S Hodgson', 'JS Polychronopoulos', 'C Jones']
+     Venue US Patent …, 2016‏
+     Year NA
+     Abstract Such testing is usually carried out at RTL  Furthermore, testing a complex system in its entirety when all its component units are described at RTL is likely to be very time consuming both in the creation of test data (known as a testbench) and in simulation   ‏
+     Url https://patents.google.com/patent/US9323873B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Prototyping a Robotic M anipulator and Controller‏
+     Author ['TM Sobh', 'M Dekhil', 'TC Henderson']
+     Venue 1993‏
+     Year NA
+     Abstract Building a robot and its environment control, software, hardware, simulation, etc is a complex task that requires the  3.3 Prototyping and testing phase  groups are jointly developing the Palo Alto Collaborative Testbed PACT 3 , which is a concurrent engineering infrastructure that   ‏
+     Url https://www.researchgate.net/profile/Tarek_Sobh3/publication/2878479_Prototyping_a_Robotic_Manipulator_and_Controller_Tarek_M_Sobh_Mohamed_Dekhil_and_Thomas_C_Henderson/links/0046351fd50516505d000000.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title TLM: An overview and brief history‏
+     Author ['F Ghenassia', 'A Clouard']
+     Venue Transaction Level Modeling with SystemC, 2005‏
+     Year NA
+     Abstract First, it debugs and validates low-level embedded software in the real hardware simulation environment  SystemC TLM has so far been deployed for functional testing of embedded software and hardware RTL, as well as for hardware architecture studies   ‏
+     Url https://link.springer.com/chapter/10.1007/0-387-26233-4_1
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Design for test in automotive electronics‏
+     Author ['S Stoica']
+     Venue Proceedings of 3rd International Workshop on the …, 1994‏
+     Year NA
+     Abstract Hence, ,only ,in a ,concurrent ,engineering environment, ,where  Testing ,represents ,20-40% ,of the ,total ,product ,domain ,of the manufkturer, ,with ,the ,cost ,being ,passed ,cost, expressed ,as ,both ,cost ,of ,tooling and ,manufac  In ,addition to ,hardware ,simulation ,tools ,we   ‏
+     Url https://www.computer.org/csdl/proceedings-article/icedtm/1994/00496090/12OmNzZmZo2
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title System on Chip‏
+     Author ['W Badawy']
+     Venue System-on-chip for real-time applications, 2003‏
+     Year NA
+     Abstract Design methodologies will evolve and Concurrent Engineering, Intellectual Properties (IP) reuse, HW ISW co  is not sufficient due to deficient processor models and slow hardware simulation speeds  designs since the core user is responsible for manufacturing and testing the core   ‏
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-0351-4_1
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Method and system for virtual prototyping‏
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …, 2009‏
+     Year NA
+     Abstract US7613599B2 - Method and system for virtual prototyping - Google Patents. Method and system for virtual prototyping. Download PDF Info. Publication number US7613599B2. US7613599B2 US09/872,435 US87243501A US7613599B2   ‏
+     Url https://patents.google.com/patent/US7613599B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Managing industrial service co-design: identifying challenges from technology firms‏
+     Author ['C Durugbo']
+     Venue The Service Industries Journal, 2014‏
+     Year NA
+     Abstract These tasks include machine checkups and system testing  Discussions with participants from CorpMicro revealed that concurrency was also applied during hardware–software-based activities (such as hardware simulation and software synthesis as well as high-level and logic   ‏
+     Url https://www.tandfonline.com/doi/abs/10.1080/02642069.2013.778976
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title The Design of Modern Networks: Hardware, Software, Operations and Lifecycle Sustenance‏
+     Author ['DN Chorafas']
+     Venue High-Performance Networks, Personal …, 1997‏
+     Year NA
+     Abstract modelling, has become widespread. Now the trend is towards concurrent engineering, which poses very significant com- munications requirement because of the need to interconnect remote laboratories. Frequently, a single   ‏
+     Url https://link.springer.com/chapter/10.1007/978-1-349-14175-3_7
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title A VHDL Simulator in a Co-verification Environment‏
+     Author ['K Melakari']
+     Venue 1998‏
+     Year NA
+     Abstract This speed is enough for executing small portions of the software part of the system under design, like hardware drivers, but rules out the testing the whole software partitioning of the system [7, 8, 9]. Page 17. 17 It is, however, possible to speed up hardware simulation by using   ‏
+     Url https://www.vttresearch.com/sites/default/files/pdf/publications/1998/P355.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title The 5ESS‐2000 Switch: Exceeding Customer Expectations‏
+     Author ['HG Holland', 'CP Huang', 'CE Jeschke']
+     Venue AT&T Technical …, 1994‏
+     Year NA
+     Abstract Improved Hardware Simulation  Refined Robustness Testing  initiatives were introduced for the hardware-component selection process for the 5ESS-2000 switch project, which provided for increased concurrent engineering, as well as enhancement of design for reliability   ‏
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1994.tb00617.x
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Using matlab for mixed-signal verification of a software radio ASIC‏
+     Author ['PM Overs']
+     Venue IEE Colloquium on DSP enabled Radio, 2003‏
+     Year NA
+     Abstract The concurrent engineering approach allowed full cross verification of the following things  so that we had in all environments (Matlab simulation, software simulation, hardware simulation and hardware  This allows complete testing of the software before any attempt is made to   ‏
+     Url https://digital-library.theiet.org/content/conferences/10.1049/ic.2003.0320
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Method and system for virtual prototyping‏
+     Author ['SL Bade', 'S Ben-Chorin', 'P Caamano']
+     Venue US Patent …, 2011‏
+     Year NA
+     Abstract US56661609A US7970596B2 US 7970596 B2 US7970596 B2 US 7970596B2 US 56661609 A US56661609 A US 56661609A US 7970596 B2 US7970596 B2 US 7970596B2 Authority US United States Prior art keywords design hardware simulation virtual embedded   ‏
+     Url https://patents.google.com/patent/US7970596B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title VIRTUAL PROTOTYPING METHODOLOGY FOR MOBILE PLATFORMS.‏
+     Author ['G Stehr', 'J Eckmüller', 'O Bell', 'T Wilde']
+     Venue Intel Technology …, 2014‏
+     Year NA
+     Abstract concurrent engineering for chip and software it would not be possible to meet such  through their instantiation in virtual prototype test benches (see the section “Fast Hardware Simulation”)  steps of the TLM workflow like code generation, component testing, code analysis, and   ‏
+     Url http://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1535864X&AN=96222289&h=z%2BKMrlYoNjY6uzm8iZwoheCeUwJtoOhYcJ9v1%2F1fudBfQhCyoCm7zSm3piZqiOSK0Wjv4ONRlJankFYdc5Yv7w%3D%3D&crl=c
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Apparatus and method for performing event processing in a mixed-language simulator‏
+     Author ['EW Powell']
+     Venue US Patent 7,058,562, 2006‏
+     Year NA
+     Abstract herein by reference in their entireties, provide information relating to hardware simulation, including mixed-language hardware simulation, and it is  David A., Powell, Edward W., Sorensen, Lief J., Waitz, John A. Sundragon, “Next Generation Concurrent Engineering for Complex   ‏
+     Url https://patents.google.com/patent/US7058562B2/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Virtualization Based Development‏
+     Author ['J Yantchev', 'A Parashkevov']
+     Venue Concurrency, Security, and Puzzles, 2017‏
+     Year NA
+     Abstract use an interface stub, a function emulation model, a detailed specification accurate hardware simulation model, a  Testing starts late, which means issues accumulate over a long period of and any  one or more at a time in each sprint, in a concurrent engineering process where   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-319-51046-0_15
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Principles of functional verification‏
+     Author ['A Meyer']
+     Venue 2003‏
+     Year NA
+     Abstract 81 Chapter 5: Random Testing. . . . . 83 Achieving Randomization  90 Mixing Directed Random and Random Directed Testing . . . . . 91 Why Is Randomization Effective   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=qaIiX3hYWL4C&oi=fnd&pg=PP1&dq=%22Concurrent+Engineering%22+%22Hardware+simulation%22+%22Testing%22&ots=Bs6sw8Plpw&sig=2LSGxjoO0uDNZxVw1Bpk6ROlrkk
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Embedded Software Development‏
+     Author ['E Paire']
+     Venue Transaction Level Modeling with SystemC, 2005‏
+     Year NA
+     Abstract As a result, sound and solid concurrent engineering is achieved through the unique reference  RTL is the slowest for performance and construction, its vital hardware simulation capabilities make it  platforms are the most compelling models for running and testing software before   ‏
+     Url https://link.springer.com/chapter/10.1007/0-387-26233-4_4
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Low-power HF microelectronics: a unified approach‏
+     Author ['GAS Machado']
+     Venue 1996‏
+     Year NA
+     Abstract Introduction 13.2. State-of-the-art 13.3. Introduction to DSP-based testing 13.3. 1. Conventional and analog automated test equipment 13.3. 2. DSP-based testing 13.4. The hybrid built-in self-test (HBIST) 13.4. 1. Structures of hybrid ICs 13.4   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=Pm50i9q2hXMC&oi=fnd&pg=PR25&dq=%22Concurrent+Engineering%22+%22Hardware+simulation%22+%22Testing%22&ots=1cb-TyhEH8&sig=scROCAXKKxFNF4k1dLP_F5dguBo
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Method and system for creating and validating low level description of electronic design‏
+     Author ['C Dangelo', 'V Nagasamy', 'V Ponukumati']
+     Venue US Patent 5,572,436, 1996‏
+     Year NA
+     Abstract US5572436A - Method and system for creating and validating low level description of electronic design - Google Patents. Method and system for creating and validating low level description of electronic design. Download PDF Info   ‏
+     Url https://patents.google.com/patent/US5572436A/en
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title A Novel Multi-Agent Based Agile Manufacturing Planning and Control System‏
+     Author ['AV Barenji']
+     Venue 2017‏
+     Year NA
+     Abstract VDE, 2013. Page 25. 10 Chapter 3 4. Barenji, Ali Vatankhah, Reza Vatankhah Barenji, and Majid Hashemipour. "Flexible testing platform for employment of RFID-enabled multi-agent system on flexible assembly line." Advances in Engineering Software 91 (2016): 1-11   ‏
+     Url http://i-rep.emu.edu.tr:8080/xmlui/handle/11129/4274
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title COURSE STRUCTURE FOR B. TECH DEGREE IN INSTRUMENTATION AND CONTROL ENGINEERING 3 RD SEMESTER [2 ND YEAR 1 ST SEMESTER] …‏
+     Author ['PER WEEK\u200f']
+     Venue NA
+     Year NA
+     Abstract Page 1. West Bengal University of Technology BF-142, Salt Lake City, Kolkata-700064 Instrumentation & Control Engineering Syllabus upto 7 th Semester Other Syllabi to be Published 1 COURSE STRUCTURE FOR B.TECH   ‏
+     Url https://makautwb.ac.in/syllabus/Instrumentation_&_Control_Engineering_Syllabus_2007.pdf
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Lean management applied to new business development: experts' analysis and examples of hardware companies‏
+     Author ['AP Palma Santos Gomes']
+     Venue 2013‏
+     Year NA
+     Abstract Page 1. MASTER THESIS TITLE: Lean management applied to new business development: experts' analysis and examples of hardware companies MASTER DEGREE: Master in Science in Telecommunication Engineering & Management   ‏
+     Url https://upcommons.upc.edu/handle/2099.1/17492
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title A study on software risk management strategies and mapping with SDLC‏
+     Author ['B Roy', 'R Dasgupta', 'N Chaki']
+     Venue Advanced Computing and Systems for …, 2016‏
+     Year NA
+     Abstract Hardware. Little or no knowledge of hardware constraints. Incorrect hardware simulation or interface. Table 7 Technical risks at coding phase  Difficult project modules integration. Testing. Inaccurate or unrealistic development. Wrong integration of modules developed. Availability   ‏
+     Url https://link.springer.com/chapter/10.1007/978-81-322-2653-6_9
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Rapid prototyping of microelectronic systems‏
+     Author ['A Dollas', 'JDS Babcock']
+     Venue Advances in Computers, 1995‏
+     Year NA
+     Abstract In addition, existing design problems (eg, testing of integrated circuits) have taken entire new forms because of the quantitative changes in complexity (eg, the number of devices in the chips to be tested)  Reliability Heimann er al., 1990 Testing Reghbati   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0065245808605458
+
+
+     Search term "Concurrent+Engineering"+"Hardware+simulation"+"Testing"
+     Title Avionics technology beyond 2000‏
+     Author ['L Mcfawn', 'DR Morgan']
+     Venue The Conflicting Forces Driving Future Avionics …, 1991‏
+     Year NA
+     Abstract Are there Testing/Maintenance backplane bus which evolutionary steps which must be taken? Are we supports testing on a noninterference basis. High clever enough to overcome software complexity speed dig; tized sensor data enters the processing problems   ‏
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a244244.pdf#page=157
+

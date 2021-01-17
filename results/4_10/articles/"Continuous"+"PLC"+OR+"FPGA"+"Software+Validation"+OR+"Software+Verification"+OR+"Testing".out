@@ -1,0 +1,91 @@
+Showing papers for search query "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous testing as a strategy of improving the PLC software development cycles
+     Author ['U Kramer']
+     Venue 2001 IEEE/ASME International Conference on …
+     Year 2001
+     Abstract An appropriate simulation environment for testing real-time software applications, especially PLC (programmable logic controller) programs, is in demand for many reasons. One of the them might be found in the altered conditions of cooperation (teamwork, teleworking, etc.)
+     Url https://ieeexplore.ieee.org/abstract/document/936765/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An FPGA-based quench detection and continuous logging system for testing superconducting magnets
+     Author ['R Pilipenko', 'RH Carcagno', 'A Makulski']
+     Venue IEEE transactions on …
+     Year 2013
+     Abstract A quench detection system for testing superconducting magnets with two concurrent data logging modes was developed at Fermilab. This system consists of two functional components: An active quench detection component, which is based on a reconfigurable
+     Url https://ieeexplore.ieee.org/abstract/document/6413182/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Implementing a simple continuous speech recognition system on an FPGA
+     Author ['SJ Melnikoff', 'SF Quigley']
+     Venue Proceedings. 10th Annual …
+     Year 2002
+     Abstract The speech waveforms used for the testing and training of both implementations were taken from the TIMIT database [6], a collection of speech data designed for the development of speech  Table 1. Results from continuous HMM implementation FPGA resources Correct
+     Url https://ieeexplore.ieee.org/abstract/document/1106682/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An FPGA based decimation filter processor design for real-time continuous-time Σ− Δ modulator performance measurement and evaluation
+     Author ['S Cetinsel', 'RCS Morling', 'I Kale']
+     Venue 2011 20th European …
+     Year 2011
+     Abstract reports on a Field Programmable Gate Array (FPGA) implementation as well as prototyping for real-time testing of a low complexity high efficiency decimation filter processor which is deployed in conjunction with a custom built low-power jitter insensitive Continuous Time (CT
+     Url https://ieeexplore.ieee.org/abstract/document/6043370/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title On the characteristics of Portevin–Le Chatelier bands in aluminum alloy 5182 under stress-controlled and strain-controlled tensile testing
+     Author ['M Abbadi', 'P Hähner', 'A Zeghloul']
+     Venue Materials Science and Engineering: A
+     Year 2002
+     Abstract This is another reason why we decided to polish the samples prior to systematic tensile testing  6 reveal that serrations of Type A (continuous PLC band propagation) and Type C (stochastic PLC band nucleation without propagation) are confined, respectively, to the regimes
+     Url https://www.sciencedirect.com/science/article/pii/S0921509302000369
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Integrated testing of serializer/deserializer in FPGA
+     Author ['AH Lesea']
+     Venue US Patent 6,874,107
+     Year 2005
+     Abstract US20050071730A1 (en) *, 2003-09-30, 2005-03-31, Lattice Semiconductor Corporation, Continuous self-verify of configuration memory in  FPGA emulation system  en), 2007-06-08, 2011-11-22, Lattice Semiconductor Corporation, Soft error detection logic testing systems and
+     Url https://patents.google.com/patent/US6874107B2/en
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title PLC-based model of reactive power flow in steam power plant for pre-commissioning validation testing of coordinated QV controller
+     Author ['J Dragosavac', 'Ž Janda']
+     Venue IEEE Transactions on …
+     Year 2011
+     Abstract power output. Standard PLC hardware, as industrial grade equipment appropriate for on site testing, is used for practical QFM implementation after discretiza- tion of the continuous mathematical model. The developed QFM
+     Url https://ieeexplore.ieee.org/abstract/document/5746556/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing of Hybrid Real-time Systems Using FPGA Platform
+     Author ['J Krákora', 'Z Hanzálek']
+     Venue 2006 International Symposium on …
+     Year 2006
+     Abstract an industrial environment ac- tivities to react with an IUT ei programmable logic controller (called PLC)  LabView FPGA I1] in HIL application allows an user to test IUT on-line  design its own HIL using LabView environment supportinl both dis- crete event and continuous systems
+     Url https://ieeexplore.ieee.org/abstract/document/4197494/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Proton testing of SEU mitigation methods for the Virtex FPGA
+     Author ['C Carmichael', 'E Fuller', 'J Fabula']
+     Venue Proc. of Military and …
+     Year 2001
+     Abstract Continuous readback in conjunction with a detection algorithm (bit compare, CRC, etc) provides data on upsets encountered, time, and frequency  The other consideration for dynamic testing is that the test probes an FPGA design, not the device
+     Url https://www.researchgate.net/profile/Carl_Carmichael/publication/238685441_Proton_testing_of_seu_mitigation_methods_for_the_virtex_fpga/links/544548f40cf2d62c304d7bb5/Proton-testing-of-seu-mitigation-methods-for-the-virtex-fpga.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Radiation testing update, SEU mitigation, and availability analysis of the Virtex FPGA for space reconfigurable computing.
+     Author ['E Fuller', 'M Caffrey']
+     Venue NA
+     Year 2000
+     Abstract Two features of the Virtex architecture can help overcome upset problems. The fwst is that the configuration bitstream can be read back from the part while in operation, allowing continuous monitoring for an upset in the configuration  Testing of the FPGA was performe~ with
+     Url https://www.osti.gov/servlets/purl/766418
+

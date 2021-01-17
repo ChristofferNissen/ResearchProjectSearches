@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Formal+methods"+"Medical"
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Use of formal methods in medical decision making: A survey and analysis
+     Author ['U Böckenholt', 'EU Weber']
+     Venue Medical Decision Making
+     Year 1992
+     Abstract To categorize the formal methods used in medical decision making  mation (including Bayes' theorem and ROC analysis); 2) problem structuring with the help of decision trees; 3) sensitivity analysis; 4) utility assessment; and 5) de- cision automation (including flowcharts
+     Url https://journals.sagepub.com/doi/abs/10.1177/0272989X9201200409
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal Methods, Artificial Intelligence, Big-Data Analytics, and Knowledge Engineering in Medical Care to Reduce Disease Burden and Health Disparities
+     Author ['S Ganesh', 'AK Talukder']
+     Venue International Conference on Big Data Analytics
+     Year 2018
+     Abstract through formal methods. A formal model is tested (proved) and the target system is generated through automation with the removal of error prone programming or construction phase. Inspired by similar ideas, we created DocDx, a novel formal method driven medical care
+     Url https://link.springer.com/chapter/10.1007/978-3-030-04780-1_21
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Improving medical protocols by formal methods
+     Author ['A Ten Teije', 'M Marcos', 'M Balser']
+     Venue Artificial intelligence in …
+     Year 2006
+     Abstract the quality problem of medical guidelines and protocols relies on the use of formal methods  ambiguity is that it leaves space for wrong interpretations by the medical practitioner, and  prover with strong proof support for higher-order logic and elaborate heuristics for automation
+     Url https://www.sciencedirect.com/science/article/pii/S0933365705001211
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods for semi-autonomous driving
+     Author ['SA Seshia', 'D Sadigh', 'SS Sastry']
+     Venue … /IEEE Design Automation …
+     Year 2015
+     Abstract with a driver), remote-controlled drones (interacting with a ground operator), and medical devices (interacting  2. MODELING A first step in applying formal methods is to build mathemati- cal models  both the safety issues and the potential benefits of vehicle automation, in 2013
+     Url https://ieeexplore.ieee.org/abstract/document/7167334/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract 4. HIGHLIGHTED PROJECTS We present a series of industrial formal methods projects, chosen to  can verify arbitrary conjectures in a given logic with varying degrees of automation  in a wide range of applications, from verifying protocols for medical procedures [Hommersom
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title The KORSO case study for software engineering with formal methods: A medical information system
+     Author ['F Cornelius', 'H Hußmann', 'M Löwe']
+     Venue … , and Tools for the Construction of …
+     Year 1995
+     Abstract Page 1. The KORSO Case Study for Software Engineering with Formal Methods: A Medical Information System  The particular application context "medical system" with its numerous safety and security relevant aspects justifies the parallel modelling with formal methods
+     Url https://link.springer.com/chapter/10.1007/BFb0015474
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract (Also see Section 2.2.2.) —Medical. The Clinical Neutron Ther- apy System at the University of Washington (cyclotron controller) [Jacky 1995]  Formal Methods • 633  Fol- lowing are some well-known theorem provers, categorized roughly by their degree of automation
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Software mythbusters explore formal methods
+     Author ['C Jaspan', 'M Keeling', 'L Maccherone']
+     Venue IEEE …
+     Year 2009
+     Abstract Participants' backgrounds included embedded real-time systems, medical informatics, enterprise applications, development tools, military systems, business process  His research interests include software test automation, formal methods, and software process improvement
+     Url https://ieeexplore.ieee.org/abstract/document/5287011/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Novel developments in formal methods for human factors engineering
+     Author ['ML Bolton']
+     Venue Proceedings of the human factors and …
+     Year 2017
+     Abstract IEEE Transactions on Automation Science and Engineering, 13(2), 450–462. Fields, RE (2001)  In M. Bernardo & V. Issarny (Eds.), Formal methods for eternal networked software systems (sfm'11) (Vol  Using model checking to detect simultaneous masking in medical alarms
+     Url https://journals.sagepub.com/doi/abs/10.1177/1541931213601664
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title The HACMS program: using formal methods to eliminate exploitable bugs
+     Author ['K Fisher', 'J Launchbury']
+     Venue … Transactions of the …
+     Year 2017
+     Abstract the security of many seemingly mundane objects: everything from SCADA systems that control industrial infrastructure like sewage treatment plants and prison doors, to medical devices like  SAT solvers form only the most basic level of automation in formal-methods tools
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2015.0401
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Use of Formal Methods in Medical Decision Making
+     Author ['U Böckenholt', 'EU Weber']
+     Venue Available at SSRN 1323465
+     Year 2009
+     Abstract Keywords: decision analysis, decision automation, decision trees, Bayes' theorem, sensitivity analysis, ROC analysis, formal modeling. Suggested Citation: Suggested Citation. Böckenholt, Ulf and Weber, Elke U., Use of Formal Methods in Medical Decision Making (January 5
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1323465
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Using formal methods to enable more secure vehicles: DARPA's HACMS program
+     Author ['K Fisher']
+     Venue Proceedings of the 19th ACM SIGPLAN international …
+     Year 2014
+     Abstract High Assurance Software; Formal Methods; Cyber- Physical Systems; HACMS References [1] W. Burleson, SS Clark, B. Ransford, and K. Fu. Design challenges for secure implantable medical devices. In Proceedings of the 49th Annual Design Automation Conference, DAC'12
+     Url https://dl.acm.org/doi/abs/10.1145/2628136.2628165
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Using formal verification to evaluate human-automation interaction: A review
+     Author ['ML Bolton', 'EJ Bass']
+     Venue IEEE Transactions on …
+     Year 2013
+     Abstract Index Terms—Cognitive task analysis, formal methods, human performance modeling, human-automation interaction (HAI  THE DESIGN of human-automation interaction (HAI) has contributed to failures in domains  at Three Mile Island [10]; and the death of medical patients with
+     Url https://ieeexplore.ieee.org/abstract/document/6472094/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Medical protocol diagnosis using formal methods
+     Author ['D Méry', 'NK Singh']
+     Venue International Symposium on Foundations of Health …
+     Year 2011
+     Abstract Page 1. Medical Protocol Diagnosis Using Formal Methods Dominique Méry and Neeraj Kumar Singh  We advocate a different approach: the quality improvement of medical protocols through formal methods. In this paper, we propose an approach for formalization and
+     Url https://link.springer.com/chapter/10.1007/978-3-642-32355-3_1
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title … task analytic behavior modeling, erroneous human behavior generation, and formal methods to evaluate the role of human-automation interaction in system …
+     Author ['ML Bolton']
+     Venue NA
+     Year 2010
+     Abstract [126] and China Air 140 [168]; the grounding of the Royal Majesty cruise ship [144]; the disaster at Three Mile Island [158]; and the death of medical patients with the Therac-25 [130]  Formal methods encompass one such set of technologies. Both human-automation in
+     Url http://fhsl.eng.buffalo.edu/publications/BoltonDissertation2010.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract Similarly, much of the software in the Therac 25 medical electron accelerator, which led to massive overdoses of radiation and the subsequent  In the next section, I introduce formal methods, which provide a way to move the construction and validation of software away from
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title A systematic literature review of the use of formal methods in medical software systems
+     Author ['S Bonfanti', 'A Gargantini']
+     Venue Journal of Software …
+     Year 2018
+     Abstract A systematic literature review of the use of formal methods in medical software systems. Silvia Bonfanti  As shown in Figure 2, until 2004, only 5 publications have been published. Starting from 2004, the interest on application of formal methods to medical devices increases
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1943
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Using formal methods to predict human error and system failures
+     Author ['ML Bolton', 'EJ Bass']
+     Venue Proceedings of the 2nd …
+     Year 2008
+     Abstract Future work will apply these methods to applications in the medical and aerospace  of SAL, In CM Holloway, editor, 2000, Fifth NASA Langley Formal Methods Workshop, 187  Models and mechanized methods that integrate human factors into automation design, International
+     Url http://fhsl.eng.buffalo.edu/publications/Bolton2008AHFEIConf.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal verification of the AAMP5 microprocessor: A case study in the industrial use of formal methods
+     Author ['SP Miller', 'M Srivas']
+     Venue Proceedings of 1995 IEEE Workshop on …
+     Year 1995
+     Abstract life threatening, such as aircraft, nuclear power plants, weapon systems, and medical instrumentation. Several authors have demon- strated the infeasibility of showing that such systems meet ulua-high reliability requirements through testing alone [8,18]. Formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/515475/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Trustable formal specification for software certification
+     Author ['D Méry', 'NK Singh']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2010
+     Abstract the earlier in the de- velopment lifecycle they are detected in high confidence medical devices  That is, when formal methods are used early in the lifecycle, they can reduce the overall cost of the  Formal notations also reduce cost by enabling the automation of verification activities
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16561-0_31
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title High-assurance separation kernels: a survey on formal methods
+     Author ['Y Zhao', 'D Sanán', 'F Zhang', 'Y Liu']
+     Venue arXiv preprint arXiv:1701.01535
+     Year 2017
+     Abstract in critical domains, eg, avionics/aerospace, military/defense, and medical devices  analytical framework, a taxonomy is designed according to formal methods application, functionalities  are identified, eg specification bottleneck, multicore and concurrency, and automation of full
+     Url https://arxiv.org/abs/1701.01535
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Understanding formal methods
+     Author ['JF Monin']
+     Venue NA
+     Year 2012
+     Abstract Page 1. Understanding Formal Methods Written and translated by: Jean-François Monin Translation editor: º, Michael G. Hinchey {5} Springer Page 2. Understanding Formal Methods Page 3. Springer-Verlag London Ltd. Page 4
+     Url https://books.google.com/books?hl=en&lr=&id=7GsKBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Automation%22+%22Formal+methods%22+%22Medical%22&ots=4GUEgthSRi&sig=amG1VQFjE-ZCZTwiVEJh1lIzSAY
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title FME'96: Industrial Benefit and Advances in Formal Methods: Third International Symposium of Formal Methods Europe Co-Sponsored by IFIP WG 14.3 …
+     Author ['MC Gaudel', 'J Woodcock', 'J Woodcock']
+     Venue NA
+     Year 1996
+     Abstract the Formal Development of a Reactor Safety System 18 Terje Sivertsen Test Automation for Safety  Jan Peleska Session 1: B Quantitative Analysis of an Application of Formal Methods 60 J  Walddn and K. Sere Integrating Action Systems and Z in a Medical System Specification
+     Url https://books.google.com/books?hl=en&lr=&id=h2tfI17gUbYC&oi=fnd&pg=PA1&dq=%22Automation%22+%22Formal+methods%22+%22Medical%22&ots=0NOaA6xVlh&sig=ojhfcFivLQcwCHJlVERqyiGNhuI
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Quality checking of medical guidelines through logical abduction
+     Author ['P Lucas']
+     Venue … on Innovative Techniques and Applications of Artificial …
+     Year 2003
+     Abstract One way to use formal methods in the context of guidelines is to automat- ically verify  abstract fashion, and thus compared to the detailed specification of a medical guideline required  be represented in a language offered by standard theorem provers, partial automation of the
+     Url https://link.springer.com/chapter/10.1007/978-0-85729-412-8_23
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Ten commandments revisited: a ten-year perspective on the industrial application of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue … international workshop on Formal methods for …
+     Year 2005
+     Abstract A formal specification can aid in the automation of generating test cases  Moreover, formal methods generally result in a cleaner architecture [26], making a system more efficient and  of, arguably, the most significant failure of software assurance in the medical/biological field [38
+     Url https://dl.acm.org/doi/abs/10.1145/1081180.1081183
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Medicine-by-wire: Practical considerations on formal techniques for dependable medical systems
+     Author ['L Freitas', 'WE Scott III', 'P Degenaar']
+     Venue Science of Computer Programming
+     Year 2020
+     Abstract Given the high-priority assigned to documenting quality and presence of limitations requiring automation, embedded medical devices are promising candidates for the development and application of formal methods to govern medical processes automation
+     Url https://www.sciencedirect.com/science/article/pii/S0167642320301532
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formally verifying human–automation interaction as part of a system model: limitations and tradeoffs
+     Author ['ML Bolton', 'EJ Bass']
+     Venue Innovations in systems and software engineering
+     Year 2010
+     Abstract has contributed to between 44,000 and 98,000 deaths nationwide every year in medical practice [18  By leveraging the knowledge of both HFE and formal methods, researchers have identified the cognitive precon- ditions for mode confusion and automation surprise [7
+     Url https://link.springer.com/article/10.1007/s11334-010-0129-9
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Modern formal methods and applications
+     Author ['HA Gabbar']
+     Venue NA
+     Year 2006
+     Abstract techniques and methods are widely used in different disciplines such as medical, engineering, social  our pleasure to produce such useful scientific communication in the area of formal methods, which we  in re- search centers in the areas of marine supply automation and coast
+     Url https://books.google.com/books?hl=en&lr=&id=mc9HAAAAQBAJ&oi=fnd&pg=PR11&dq=%22Automation%22+%22Formal+methods%22+%22Medical%22&ots=WC-wgJ8oex&sig=6Vh0JzA6aL8Z1458h9B8itZZrCE
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods for developing high assurance computer systems: Working group report
+     Author ['MPE Heimdahl', 'CL Heitmeyer']
+     Venue Proceedings. 2nd IEEE …
+     Year 1998
+     Abstract Examples of high assurance systems include flight control systems, medical systems, and con- trol systems for nuclear plants  [12] NG Leveson, JD Reese, and MPE Heimdahl. Spectrm: A cad system for digital automation  On the need for \practical" formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/766298/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Using formal methods for content validation of medical procedure documents
+     Author ['É Cota', 'L Ribeiro', 'JS Bezerra', 'A Costa']
+     Venue … Journal of Medical …
+     Year 2017
+     Abstract Some authors argue that automation could improve adherence levels [4] and there are several examples  Section 3 describes the development of a medical SOP, presented as case study in  informal approach used to perform this step can benefit from the use of formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S1386505617300916
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title A formal task-analytic approach to medical device alarm troubleshooting instructions
+     Author ['AJ Abbate', 'AL Throckmorton']
+     Venue IEEE Transactions on …
+     Year 2015
+     Abstract Index Terms—Formal methods, model checking, task analysis, troubleshooting, user manuals. I. INTRODUCTION DESPITE everyday use by caregivers and patients, medical devices can be complicated to employ, maintain, and trou- bleshoot when operational or maintenance
+     Url https://ieeexplore.ieee.org/abstract/document/7322250/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Academia and industry meet: Some experiences of formal methods in practice
+     Author ['GH Broadfoot', 'PJ Broadfoot']
+     Venue Tenth Asia-Pacific Software …
+     Year 2003
+     Abstract and its customers; (iii) in safety critical domains, such as aerospace and medical systems, software  tools that overcame the com- mon problems of scalability and automation, but lacked ac  In the remainder of this paper, we consider two com- plimentary formal methods that, when
+     Url https://ieeexplore.ieee.org/abstract/document/1254357/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title A formal methods approach to semiotic engineering
+     Author ['AJ Abbate', 'EJ Bass']
+     Venue International Journal of Human-Computer Studies
+     Year 2018
+     Abstract Bolton et al. (2014) develop a set of human-automation interaction specifications  (2013) show that the process of modeling medical device displays  Encoding tools facilitate the application of a particular formal methods approach by reducing the need for mathematical syntax
+     Url https://www.sciencedirect.com/science/article/pii/S1071581918300594
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Experiences in quality checking medical guidelines using formal methods
+     Author ['PJ Groot', 'AJ Hommersom', 'P Lucas', 'M Balser', 'J Schmitt']
+     Venue NA
+     Year 2007
+     Abstract In the Protocure project the objective has been to assess the improvement of medical guidelines using formal methods  A solid foundation for the application of formal methods to the quality checking of medical guidelines can already be found in liter ature
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/34812/34812.pdf
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Talos: no more ransomware victims with formal methods
+     Author ['A Cimitile', 'F Mercaldo', 'V Nardone', 'A Santone']
+     Venue International Journal of …
+     Year 2018
+     Abstract November 2018 , Volume 17, Issue 6, pp 719–738 | Cite as. Talos: no more ransomware victims with formal methods  2.3 Malware detection using formal methods. We now review related literature about malware detection which relies on formal methods
+     Url https://link.springer.com/article/10.1007/s10207-017-0398-5
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods into practice: case studies in the application of the B method
+     Author ['JC Bicarregui', 'DL Clutterbuck', 'G Finnie', 'H Haughton']
+     Venue IEE Proceedings …
+     Year 1997
+     Abstract A number of case studies are discussed that apply formal techniques to different tasks in the software development lifecycle within a particular development environment, which is a commercial product supporting formal methods  4 Prototyping a medical system
+     Url https://digital-library.theiet.org/content/journals/10.1049/ip-sen_19970974
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods in pattern recognition: a review
+     Author ['L Nieddu', 'G Patrizi']
+     Venue European Journal of Operational Research
+     Year 2000
+     Abstract Invited Review. Formal methods in pattern recognition: A review  After the introduction a historical sketch of the field will be presented. Then in Section 3, the need for formal methods will be argued and various results on formal requirements as convergence etc. will be derived
+     Url https://www.sciencedirect.com/science/article/pii/S0377221798003683
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Whatever happened to formal methods for security?
+     Author ['J Voas', 'K Schaffer']
+     Venue Computer
+     Year 2016
+     Abstract for the Advancement of Medical Instrumentation), concerned about the safety of software-intensive medical devices such  A driving vehicle for automation is the mainstream adoption of tooling that, unbeknownst to the developer, is using formal methods; examples include
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5120363/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Use of tabular expressions for refinement automation
+     Author ['NK Singh', 'M Lawford', 'TSE Maibaum']
+     Venue … Conference on Model and …
+     Year 2017
+     Abstract hand, formal methods have been applied successfully to design and develop critical systems, such as avionics, medical and automotive [2, 3]. In particular, formal methods have been  Our work highlights how automation is feasible to guide the refinement process
+     Url https://link.springer.com/chapter/10.1007/978-3-319-66854-3_13
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract 2017], particularly relating to certification of commercial medical devices [Bowen and Reeves 2017  There, formal methods have been shown to be successful in facilitating regulatory acceptance  The techniques are increasingly practically applicable through greater automation
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Parallel Healthcare: Robotic Medical and Health Process Automation for Secured and Smart Social Healthcares
+     Author ['FY Wang']
+     Venue IEEE Transactions on Computational Social …
+     Year 2020
+     Abstract the topics on developing computational social agents and computational social organizations to achieve robotic medical and health process automation for delivering  Social Phenomena Modeling H. Khalil and G. Wainer Motivated by the need for formal methods as well
+     Url https://ieeexplore.ieee.org/abstract/document/9114349/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Building a formal model of a human-interactive system: Insights into the integration of formal methods and human factors engineering
+     Author ['ML Bolton', 'EJ Bass']
+     Venue NA
+     Year 2009
+     Abstract Formal methods have proven themselves useful for finding problems in safety-critical systems that could  of formal meth- ods has been to find problems in a system's automation under different  to between 44,000 and 98,000 deaths nationwide every year in medical practice [12
+     Url https://ntrs.nasa.gov/search.jsp?R=20100024467
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Formal methods applied to complex systems: implementation of the B method
+     Author ['JL Boulanger']
+     Venue NA
+     Year 2014
+     Abstract Page 1. COMPUTER ENGINEERING SERIES Formal Methods Applied to Complex Systems Implementation of the B Method Edited by Jean-Louis Boulanger Page 2. Page 3. Formal Methods Applied to Complex Systems Page 4. Page 5
+     Url https://books.google.com/books?hl=en&lr=&id=JDYWBAAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation%22+%22Formal+methods%22+%22Medical%22&ots=ROeC7Sk_q0&sig=kv4zdtlhG65iUwbcXeYrLzoW_b8
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Using Formal Methods in Component Based Software Development
+     Author ['S Shirali-Shahreza', 'M Shirali-Shahreza']
+     Venue Innovations and Advances in …
+     Year 2010
+     Abstract For example formal methods are used in medical or aviation systems because the security and  of the performance of the system or incapability to meet the requirements, the formal methods will be  In view of the achieved advances in the field of automation of process of retrieval
+     Url https://link.springer.com/chapter/10.1007/978-90-481-3658-2_75
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Technical report on interpretation of the electrocardiogram (ECG) signal using formal methods
+     Author ['D Méry', 'NK Singh']
+     Venue NA
+     Year 2011
+     Abstract We are concerned with a different approach, namely the quality improvement of medical protocols through formal methods  Main objective of this project is for improving medical protocol through integration of formal methods
+     Url https://hal.inria.fr/inria-00584177/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Modeling, analysis, and verification-the formal methods manifesto 2010 (dagstuhl perspectives workshop 10482)
+     Author ['J Kreiker', 'A Tarlecki', 'MY Vardi', 'R Wilhelm']
+     Venue Dagstuhl Manifestos
+     Year 2011
+     Abstract Similarly, several failures in medical instruments have cost the producers high liability costs and led to the introduction of formal methods  Disciplined, well-structured code will increase the applicability of formal methods and will allow for a higher degree of automation
+     Url https://drops.dagstuhl.de/opus/volltexte/2011/3212/
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Interactive verification of medical guidelines
+     Author ['J Schmitt', 'A Hoffmann', 'M Balser', 'W Reif']
+     Venue … on Formal Methods
+     Year 2006
+     Abstract Again, an automation grade between 95 and 99% is achieved  details such as time annotations, it is promising to provide automatic methods to effectively apply formal methods in practice  In [5], we have used the SMV model checker [15] to verify properties of medical guidelines
+     Url https://link.springer.com/chapter/10.1007/11813040_3
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Leveraging Applications of Formal Methods, Verification, and Validation: 4th International Symposium on Leveraging Applications, ISoLA 2010, Heraklion …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2010
+     Abstract systems—an “aero- motive” perspective • Web science • Leveraging formal methods through collaboration  analysis for industrial scale validation • Certification of software-driven medical devices • Formal  Document Routing as a First Step towards Workflow Automation: A Case
+     Url https://books.google.com/books?hl=en&lr=&id=_aBuCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Automation%22+%22Formal+methods%22+%22Medical%22&ots=ZLxg9BSQ2T&sig=n4NkSxmbJjCGhudswtz3Zm6X3ls
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title An engineering approach to formal methods
+     Author ['KJ Turner']
+     Venue IFIP TC6/WG6. 1 Thirteenth International Symposium …
+     Year 1993
+     Abstract Formal methods are particularly desirable in safety-critical applications such as process control, aviation, medical systems, railway signalling  Formal methods in hardware engineering are well-advanced (eg hardware description languages, design automation systems and
+     Url http://www.storre.stir.ac.uk/handle/1893/1004
+
+
+     Search term "Automation"+"Formal+methods"+"Medical"
+     Title Verification and validation of behavior models using lightweight formal methods
+     Author ['K Giammarco', 'K Giles']
+     Venue Disciplinary convergence in systems engineering …
+     Year 2018
+     Abstract in predicting overdose scenarios could be beneficial to determining advantages to the medical field” [2]  Agerholm S, Larsen PG (1999) A lightweight approach to formal methods  Program behavior model based on event grammar and its application for debugging automation
+     Url https://link.springer.com/chapter/10.1007/978-3-319-62217-0_31
+

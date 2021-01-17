@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Deriving an efficient FPGA implementation of a low density parity check forward error corrector‏
+     Author ['A Gill', 'A Farmer']
+     Venue ACM SIGPLAN Notices, 2011‏
+     Year NA
+     Abstract Though there is much talk of using formal and semi-formal methods to develop designs and im- plementations, in practice most implementations are  example, an efficient Low-Density Parity Check forward error correcting code, which has been implemented on a Virtex-5 FPGA   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2034574.2034804
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FASED: FPGA-accelerated simulation and evaluation of DRAM‏
+     Author ['D Biancolin', 'S Karandikar', 'D Kim', 'J Koenig']
+     Venue Proceedings of the …, 2019‏
+     Year NA
+     Abstract on cloud-hosted FPGAs. CCS CONCEPTS • Hardware → Simulation and emulation; Dynamic memory; Reconfigurable logic applications. KEYWORDS emulation; FPGA prototyping; memory systems ACM Reference Format   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/3289602.3293894
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Some recent advances in software and hardware logic simulation‏
+     Author ['R Murgai', 'M Fujita']
+     Venue Proceedings Tenth International …, 1997‏
+     Year NA
+     Abstract Significant advances have been made in both software and hardware simulation  reprogrammable field-programmable gate array (FPGA) chips [I]. The design is mapped, placed, and routed onto these FPGAs and then test inputs are applied to check for functional correctness   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/568081/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and implementation of LTE physical layer on FPGA‏
+     Author ['V Venkataramanan', 'S Lakshmi']
+     Venue … Journal of Computer …, 2019‏
+     Year NA
+     Abstract There can be many reasons as to why the software and hardware simulation do not  power, performance, and design productivity with three new 28 nm FPGA families: Virtex-7  in Giannakopoulou, D. and Salaun, G. (Eds): Software Engineering and Formal Methods (SEFM'   ‏
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2019.102111
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-Based Stochastic Activity Networks for Online Reliability Monitoring‏
+     Author ['U Garro', 'E Muxika', 'JI Aizpurua']
+     Venue IEEE Transactions on …, 2019‏
+     Year NA
+     Abstract The proposed solution performs parallel hardware simulation of SAN models by distributing SAN place, gate and activity blocks into separate FPGA process blocks. Additionally, the FPGA simulation time and resource usage is reduced by an ef- ficient scheduler design   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/8765588/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Cycle-accurate replay and debugging of running FPGA systems‏
+     Author ['D Foisy', 'SK Shukla']
+     Venue US Patent 9,217,774, 2015‏
+     Year NA
+     Abstract Use the trace to replay the sequence of events in a hardware simulation on a host machine for debug and/or performance analysis purposes  In another specific example, the trace can be collected from the FPGA remotely over an Ethernet channel as a UDP/TCP service. FIG   ‏
+     Url https://patents.google.com/patent/US9217774B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FOrmal Methods for Embedded Systems‏
+     Author ['T FORMES\u200f']
+     Venue NA
+     Year NA
+     Abstract Enhance the hardware simulation technologies with  the existing technologies and tools, relies in the application itself: to combine simulation technologies with formal methods in order to  with an HDL simulator which can be implemented by software or by using an FPGA [36]   ‏
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.4099&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Declarative FPGA circuit synthesis using Kansas Lava‏
+     Author ['A Gill']
+     Venue Proceedings of the International Conference on …, 2011‏
+     Year NA
+     Abstract Page 1. Declarative FPGA Circuit Synthesis  For highly customized parallel computations, well designed FPGA fabrics can perform at breathtaking scale, unmatched even by modern multi-cores. Yet tool support for migrating highly-computational tasks to IP cores on FPGAs   ‏
+     Url http://world-comp.org/p2011/ERS6032.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform‏
+     Author ['M Baleani', 'F Gennari', 'Y Jiang', 'Y Patel']
+     Venue Proceedings of the …, 2002‏
+     Year NA
+     Abstract is the mnemonic name of the FPGA instruction; opcode is the instruction code used in hardware simulation, which is not  Future work also includes sequential EFSM partitioning, which produces sequential FPGA operations that may have internal states  Formal Methods, 1999   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/774789.774820
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Types and associated type families for hardware simulation and synthesis‏
+     Author ['A Gill', 'T Bull', 'A Farmer', 'G Kimmell', 'E Komp']
+     Venue Higher-Order and Symbolic …, 2012‏
+     Year NA
+     Abstract Types and associated type families for hardware simulation and synthesis  Open image in new window. In FPGA block RAMs and block ROMs, there are two ways of reading memory, synchronously (data is returned on the cycle following the address request) or asynchronously   ‏
+     Url https://link.springer.com/article/10.1007/s10990-013-9098-7
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Enhancing hardware design flows with MyHDL‏
+     Author ['K Jaic', 'MC Smith']
+     Venue Proceedings of the 2015 ACM/SIGDA International …, 2015‏
+     Year NA
+     Abstract Genesis2[9] extends SystemVerilog capabilities for connecting HDL to hardware simulation  In such cases, the Host software could monitor status registers on the FPGA and write to  Second ACM and IEEE International Conference on Formal Methods and Models for Co-Design   ‏
+     Url https://dl.acm.org/doi/abs/10.1145/2684746.2689092
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Impact of Hardware/Software Partitioning and MicroBlaze FPGA Configurations on the Embedded Systems Performances‏
+     Author ['I Mhadhbi', 'N Litayem', 'SB Othman']
+     Venue Complex System Modelling …, 2015‏
+     Year NA
+     Abstract The efficient implementation of complex algorithms (such as a lightweight cryptographic application) in a hardware circuits (FPGA) allows a faster processing speed (parallelism) and more functionalities to support  Discrete Event modeling is often used for hardware simulation   ‏
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12883-2_25
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title UVM-powered hardware/software co-verification‏
+     Author ['S Birla', 'S Sharma', 'NK Shukla']
+     Venue Journal of Information and …, 2017‏
+     Year NA
+     Abstract where software team is working in parallel with hardware team by implementing FPGA on Xilinx  It runs on guest machine while the hardware simulation runs on host machine  In the Proceedings of Fourth ACM and IEEE International Conference on Formal Methods and Models   ‏
+     Url https://www.tandfonline.com/doi/abs/10.1080/02522667.2017.1372141
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware certification for real-time safety-critical systems: State of the art‏
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control, 2010‏
+     Year NA
+     Abstract Thus, it seems like the “bits” loaded into the microprocessor's memory is as much software as the “bits” loaded into an FPGA  For the purpose of this discussion, we follow the definition of a formal method as given by the NASA Langley Formal Methods Group (NASA Lagley   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Efficient automata-based assertion-checker synthesis of PSL properties‏
+     Author ['M Boulé', 'Z Zilic']
+     Venue 2006 IEEE International High Level Design …, 2006‏
+     Year NA
+     Abstract Verification (ABV) is emerging as a pow- erful methodology for design verification [1]. Using temporal logic, a precise description of the expected behavior of a design is modeled, and any deviation from this expected behavior is captured by simulation or by formal methods   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/4110065/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title 2018-00436-Formal Verification of Process Networks as Compiler Intermediate Representation-ROMA-PHD Campaign-Campagne Doctorants Grenoble Rhône …‏
+     Author ['M Moy\u200f']
+     Venue NA
+     Year NA
+     Abstract includes automatic parallelization, polyhedral compilation and high-level synthesis for FPGA circuits  Moy (https://matthieu-moy.fr)'s main research area is hardware simulation (using SystemC) and  Compilation, model-checking, formal methods, parallelism, high-level synthesis   ‏
+     Url https://pdfs.semanticscholar.org/b75d/7b37c203c71f5efb0e32e171bec02b5dc857.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Research on Hardware Design Verification Methods‏
+     Author ['J Zhang', 'J Qi', 'Y Guan']
+     Venue Advanced Materials Research, 2012‏
+     Year NA
+     Abstract to map the design to the field programmable gate array (FPGA) or specialized  Hardware simulation is expensive, therefore software and hardware co-simulation is an important  2.2 Formal Methods-based Verification Formal Methods-based verification uses a mathematical way   ‏
+     Url https://www.scientific.net/AMR.588-589.1208
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design of embedded systems: Formal models, validation, and synthesis‏
+     Author ['S Edwards', 'L Lavagno', 'EA Lee']
+     Venue Proceedings of the …, 1997‏
+     Year NA
+     Abstract In addition to microcontrollers, embedded systems may consist of application-specific integrated circuits (ASIC's) and/or field programmable gate arrays (FPGA's) as well as other programmable computing units such as digital signal processors (DSP's)   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/558710/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method for co-verifying hardware and software for a semiconductor device‏
+     Author ['H Yamashita', 'T Shinsha', 'H Fujikake', 'T Kowatari']
+     Venue US Patent …, 2006‏
+     Year NA
+     Abstract US7155690B2 - Method for co-verifying hardware and software for a semiconductor device - Google Patents. Method for co-verifying hardware and software for a semiconductor device. Download PDF Info. Publication number   ‏
+     Url https://patents.google.com/patent/US7155690B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-software codesign of embedded systems‏
+     Author ['CJN Coelho', 'DCD Silva']
+     Venue Proceedings. XI Brazilian …, 1998‏
+     Year NA
+     Abstract This IP module can be integrated in a larger design, ASIC or FPGA, in a “mix-and-match  validation mathematical formal methods are being developed and employed  Hardware simulation is being used since the advent of integrated circuits, since a single run is very expensive   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/715400/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Some Recent Advances in Software and Hardware Logic Simulation‏
+     Author ['R Murgai', 'M Fujita']
+     Venue VLSI Design, International Conference on, 1997‏
+     Year NA
+     Abstract Each ,time ,a ,change ,is ,made, ,the ,design ,has ,to ,be ,re-mapped, ,placed, ,and ,routed ,on ,the ,FPGA ,chips, ,which, ,as ,explained ,above, ,is ,time-consuming  s ,Hardware ,simulation: ,Logic ,simulation ,of ,a  In ,Formal ,Methods ,in ,System ,Design, ,volume ,Vol ,1, ,No   ‏
+     Url https://www.computer.org/csdl/proceedings-article/vlsid/1997/77550232/12OmNCbU2W3
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware/software codesign: The past, the present, and predicting the future‏
+     Author ['J Teich']
+     Venue Proceedings of the IEEE, 2012‏
+     Year NA
+     Abstract the system design. The reason for doing so is the complexity of the system design when performing a pure gate level or register transfer level (RTL) hardware simulation, which is typically much too slow. Therefore, the processors   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/6172642/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Implementation of Assertions Checkers in Software and Hardware Verification Environments‏
+     Author ['M Forczek', 'K Hrynkiewicz']
+     Venue IFAC Proceedings Volumes, 2003‏
+     Year NA
+     Abstract both cases the checker is loaded into simulation engine or FPGA chip respectively  OV AlSugar) can be realized as RTL code (and thus accelerated with hardware simulation)  Sugar Formal Specification Language Reference Manual, Version 0.8, In: Formal Methods Home: http   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017337333
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware coprocessor synthesis from an ansi c specification‏
+     Author ['S Ahuja', 'ST Gurumani', 'C Spackman']
+     Venue IEEE Design & Test of …, 2009‏
+     Year NA
+     Abstract the development and improvement of test suites, which can later be used during hardware simulation  performance throughput with a reasonably small area (in terms of FPGA slices and  His research inter- ests focus on formal methods and their applications to system design   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/5209963/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital systems architectures based on on-line checkers‏
+     Author ['M Straka', 'Z Kotasek', 'J Winter']
+     Venue 2008 11th EUROMICRO …, 2008‏
+     Year NA
+     Abstract expected behavior is captured by simulation or by formal methods  the impact on the number of slices needed to implement the design into FPGA is evaluated  They generate checker VHDL code which is primarily supposed to be used for hardware simulation of conditions to be   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/4669222/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Towards a provably correct hardware implementation of Occam‏
+     Author ['H Jifeng', 'I Page', 'J Bowen']
+     Venue … Conference on Correct Hardware Design and …, 1993‏
+     Year NA
+     Abstract We have been using Xilinx FPGA chips to implement globally synchronous circuits which directly mimic the  It is possible to develop a hardware simulation program for the netlist inter- pretation of  4. JP Bowen and V. Stavridou, Formal methods and software safety, in H. Frey (ed   ‏
+     Url https://link.springer.com/chapter/10.1007/BFb0021726
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Distributed systems, hardware-in-the-loop simulation, and applications in control systems‏
+     Author ['P Handrigan']
+     Venue 2004‏
+     Year NA
+     Abstract One way to tune a PLC is to create possible signals that model the process, connect the signals to the PLC under test, and debug the PLC according to the given signals. This method is often called hardware-to-hardware simulation. As mentioned   ‏
+     Url https://research.library.mun.ca/10611/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Method for generating compiler, simulation, synthesis and test suite from a common processor specification‏
+     Author ['J Willis']
+     Venue US Patent 7,805,690, 2010‏
+     Year NA
+     Abstract inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in  physical design processes such as is required to target a FPGA, ASIC, system  instances and connecting nets), and post compilation analysis/optimization using simulation and formal methods   ‏
+     Url https://patents.google.com/patent/US7805690B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A Golden Age of Hardware Description Languages: Applying Programming Language Techniques to Improve Design Productivity‏
+     Author ['L Truong', 'P Hanrahan']
+     Venue 3rd Summit on Advances in …, 2019‏
+     Year NA
+     Abstract the semantics of the language are defined in terms of a hardware simulation being executed  concerns of HDL research into three intellectual domains: language design, compiler infrastructure, and formal methods  On the other hand, if the target platform is an FPGA, a one-hot   ‏
+     Url https://drops.dagstuhl.de/opus/volltexte/2019/10550/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title On minimising the maximum expected verification time‏
+     Author ['T Mancini', 'F Mari', 'A Massini', 'I Melatti', 'I Salvo']
+     Venue Information Processing …, 2017‏
+     Year NA
+     Abstract Formal verification. Explicit model checking. System-level formal verification. Formal methods. Software engineering  are tools providing modelling and simulation software along with FPGA-based hardware to  This is in contrast with, eg, digital hardware simulation, where the time   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0020019017300170
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title From microkernels to compartmentalisation‏
+     Author ['VFS Net']
+     Venue 2012‏
+     Year NA
+     Abstract security not assured, but at least possible • Pressing security motivation for fine-grained software compartmentalisation • New opportunities for hardware-software research created by FPGA soft cores, open source software and mobile computing platforms 5 Page 9. CTSRD 6   ‏
+     Url https://svr-www-00.cl.cam.ac.uk/research/security/ctsrd/pdfs/20120303-resolve-cheri.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Direct system integration of hardware models–a case study‏
+     Author ['J Hiltscher', 'W Rehm']
+     Venue Sixth York Doctoral Symposium on Computer …, 2013‏
+     Year NA
+     Abstract More complex test patterns can be generated with low ef- fort, either using formal methods if applicable or real  Our novel approach aims at limiting the overhead of hardware simulation  a detailed RTL hardware description as the goal was to synthesise it for an FPGA (Field Pro   ‏
+     Url https://www.cs.york.ac.uk/yds/yds2013Proceedings/YDS_2013_Proceddings.pdf#page=48
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Complex mathematical models simulation on mixed HDL-simulink platform‏
+     Author ['A Milik', 'A Pulka']
+     Venue 2008 Conference on Human System …, 2008‏
+     Year NA
+     Abstract Hardware simulation  environment, but this idea requires an extension to the simulation process so that co-simulation with real hardware can be used (with FPGA fast prototyping  Third ACM and IEEE International Conference on Formal Methods and Models for Co- Design, 2005   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/4581468/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Digital Simulation‏
+     Author ['J Sanguinetti']
+     Venue Electronic Design Automation for IC System …, 2017‏
+     Year NA
+     Abstract the general software world where proving programs correct has proven intractable, formal methods for verifying  Verilog, VHDL, and SystemC, are the primary languages used for hardware simulation today  enough in that it is relatively easy to program an FPGA-based hardware   ‏
+     Url https://books.google.com/books?hl=ar&lr=&id=UeobDAAAQBAJ&oi=fnd&pg=PA401&dq=%22Formal+methods%22+%22Hardware+simulation%22+%22PLC%22+OR+%22FPGA%22&ots=VdQ-0nj6ey&sig=_SZcdzxl419RHl0IHKzvT4yZhWg
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Formal verification driven power modeling and design verification‏
+     Author ['A Haridass', 'A Joseph', 'PK Nalla', 'RM Rao']
+     Venue US Patent 9,460,251, 2016‏
+     Year NA
+     Abstract of a system with respect to a certain formal specification or property of one or more underlying algorithms, using formal methods of mathematics  modeling program 101 may receive a unit 102 for a digital IC (eg, microprocessor, field-programmable gate array (FPGA), memory (eg   ‏
+     Url https://patents.google.com/patent/US9460251B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Simulation-Based Hardware Verification with High-Level Decision Diagrams‏
+     Author ['M Jenihhin']
+     Venue 2008‏
+     Year NA
+     Abstract FoCs Formal Checkers FPGA Field Programmable Gate Array  They are, first, formal, which assumes theorem proving and other formal methods of mathematics and, second, simulation-based, which relies on design simulation with the provided set of test vectors (aka   ‏
+     Url https://digikogu.taltech.ee/en/Download/adfa3660-806a-41ac-a6d8-4c03ac3e9912/SimulationBasedHardwareVerificationwithHighL.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Formal verification driven power modeling and design verification‏
+     Author ['A Haridass', 'A Joseph', 'PK Nalla', 'RM Rao']
+     Venue US Patent 9,697,306, 2017‏
+     Year NA
+     Abstract of a system with respect to a certain formal specification or property of one or more underlying algorithms, using formal methods of mathematics  modeling program 101 may receive a unit 102 for a digital IC (eg, microprocessor, field-programmable gate array (FPGA), memory (eg   ‏
+     Url https://patents.google.com/patent/US9697306B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Implementation of Process Simulation for Marine Automation System‏
+     Author ['M Mononen']
+     Venue 2020‏
+     Year NA
+     Abstract Based on a literature review on marine regulations, PLC simulations in industry and interviews with the industry practitioners at ABB Marine, the main threats are evaluated to be difficulty of use, unclear user interface and faulty behavior of the simulation   ‏
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Automatic generation of properties to assist hardware emulation‏
+     Author ['Y Lu', 'L Vivolo', 'N Mhaske']
+     Venue US Patent 9,760,663, 2017‏
+     Year NA
+     Abstract or model checking using simulation with hardware acceleration, eg by using field programmable gate array [FPGA] or emulation  simulation or model checking; G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence   ‏
+     Url https://patents.google.com/patent/US9760663B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Strategies for the integration of hardware and software IP components in embedded systems-on-chip‏
+     Author ['FR Wagner', 'WO Cesário', 'L Carro', 'AA Jerraya']
+     Venue Integration, 2004‏
+     Year NA
+     Abstract After the user specifies his/her application in Java, a compiler eliminates classes used only for simulation purposes, and analyses the remaining code. Critical parts may be moved to a dedicated ASIC, implemented in the same platform with an FPGA, for example   ‏
+     Url https://www.sciencedirect.com/science/article/pii/S0167926003001093
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Driving pervasive commands using breakpoints in a hardware-accelerated simulation environment‏
+     Author ['D Chatterjee', 'S Kapoor', 'JA Schumann']
+     Venue US Patent 10,228,422, 2019‏
+     Year NA
+     Abstract or model checking using simulation with hardware acceleration, eg by using field programmable gate array [FPGA] or emulation  G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking   ‏
+     Url https://patents.google.com/patent/US10228422B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Configurable hardware system implementing Boolean Satisfiability and method thereof‏
+     Author ['P Ashar', 'S Malik', 'M Martonosi', 'P Zhong']
+     Venue US Patent 6,247,164, 2001‏
+     Year NA
+     Abstract 3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence  C-SAT States reports the number of states visited in the hardware simulation algorithm  second column, labeled C-SAT Cycles gives the number of FPGA cycles required   ‏
+     Url https://patents.google.com/patent/US6247164B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Driving pervasive commands using breakpoints in a hardware-accelerated simulation environment‏
+     Author ['D Chatterjee', 'S Kapoor', 'JA Schumann']
+     Venue US Patent 9,747,396, 2017‏
+     Year NA
+     Abstract G06F17/5027—Logic emulation using reprogrammable logic devices, eg field programmable gate arrays [FPGA]. G—PHYSICS; G06  G06F17/50—Computer-aided design; G06F17/5009— Computer-aided design using simulation; G06F17/504—Formal methods. G—PHYSICS;   ‏
+     Url https://patents.google.com/patent/US9747396B1/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Appendix A: A functional programming approach to hardware acceleration of algorithms‏
+     Author ['M Sheeran\u200f']
+     Venue NA
+     Year NA
+     Abstract 5. F. de Dinechin, HD Nguyen, and B. Pasca. Pipelined FPGA Adders  Types and type families for hardware simulation and synthesis: The internals and externals of kansas lava  In Formal Methods in Computer-Aided Design, FMCAD, volume 3312 of LNCS. Springer, 2004. 19   ‏
+     Url https://wiki.portal.chalmers.se/cse/uploads/Research/MSVR11.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.‏
+     Author ['T Grimm']
+     Venue 2019‏
+     Year NA
+     Abstract are researched in many different directions based on current verification engines: simulation, emulation, virtual and FPGA prototyping, and formal verification. Nev  virtuelles und Field-Programmable Gate Array (FPGA)-Prototyping sowie formale Verifikationsverfahren   ‏
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Modelling SAMIPS: A synthesisable asynchronous MIPS processor‏
+     Author ['Q Zhang', 'G Theodoropoulos']
+     Venue 37th Annual Simulation …, 2004‏
+     Year NA
+     Abstract to the fab- ricable layout. Three commercial CAD systems are cur- rently supported: Compass Design Automation tools from Avant, Xilinx Alliance FPGA design tools and Cadence De- sign Framework II. Balsa uses one-to-one   ‏
+     Url https://ieeexplore.ieee.org/abstract/document/1299484/
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Interval temporal logic‏
+     Author ['A Cau', 'B Moszkowski', 'H Zedan']
+     Venue URL: http://www. cms. dmu. ac …, 2006‏
+     Year NA
+     Abstract In addition, Tempura has been applied to hardware simulation and other areas where timing is important. 1 Page 2. Contents 1 Finite Interval Temporal Logic 3 1.1 Syntax . . . . . 3 1.2 Semantics   ‏
+     Url http://antonio-cau.co.uk/ITL/itlhomepage.pdf
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Deadlock detection in hardware design using assertion based verification‏
+     Author ['A Darbari', 'C McKellar']
+     Venue US Patent 9,767,236, 2017‏
+     Year NA
+     Abstract analysis for verifying properties of programs; G06F11/3608—Software analysis for verifying properties of programs using formal methods, eg model checking, abstract interpretation. G06F17/504—. G06F17/5045—. G—PHYSICS; G06   ‏
+     Url https://patents.google.com/patent/US9767236B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Formal verification driven power modeling and design verification‏
+     Author ['A Haridass', 'A Joseph', 'PK Nalla', 'RM Rao']
+     Venue US Patent 10,354,028, 2019‏
+     Year NA
+     Abstract of a system with respect to a certain formal specification or property of one or more underlying algorithms, using formal methods of mathematics  modeling program 101 may receive a unit 102 for a digital IC (eg, microprocessor, field-programmable gate array (FPGA), memory (eg   ‏
+     Url https://patents.google.com/patent/US10354028B2/en
+
+
+     Search term "Formal+methods"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Device and method for refactoring hardware code‏
+     Author ['PPH Faes', 'HRP Eeckhaut']
+     Venue US Patent 8,881,074, 2014‏
+     Year NA
+     Abstract into a reconfigurable standard component, such as a Field Programmable Gate Array (FPGA)  Case Study” (Haynal et al., ACM/IEEE Intl Conference on Formal Methods and Models  these programming errors has a direct impact on the correctness of hardware simulation and on   ‏
+     Url https://patents.google.com/patent/US8881074B2/en
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Hardware/software co-design using Ptolemy–a case study
+     Author ['A Kalavade', 'EA Lee']
+     Venue … of the International Workshop on Hardware …
+     Year 1992
+     Abstract programmable DSP chips. The Thor domain could be replaced by a VHDL domain that could support hardware simulation and synthesis. Page 7. Hardware/Software Codesign Using Ptolemy- A Case Study The Ptolemy Simulation Environment 7
+     Url http://algos.inesc-id.pt/projectos/projects/civet/Kalavade92.pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Hardware-in-the-loop simulation of power electronic systems using adaptive discretization
+     Author ['MOO Faruque', 'V Dinavahi']
+     Venue IEEE transactions on industrial …
+     Year 2009
+     Abstract The voltage source converter (VSC) based HVDC sys- tem is used as a case study  Case studies show that type of input plays an important role in the accuracy of simulation results using Z-transforms based discretization (a)
+     Url https://ieeexplore.ieee.org/abstract/document/5340670/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Digital hardware emulation of universal machine and universal line models for real-time electromagnetic transient simulation
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on industrial …
+     Year 2011
+     Abstract A power system transient case study is simulated in real-time to validate the design  A real-time transient simulation case study is presented in Section V. The real-time simulation results have been validated using off-line simulation results from the EMTP- RV ® software
+     Url https://ieeexplore.ieee.org/abstract/document/5771995/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Multi-FPGA digital hardware design for detailed large-scale real-time electromagnetic transient simulation of power systems
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IET Generation, Transmission & Distribution
+     Year 2013
+     Abstract Section 3 provides the details of multi-FPGA-based hardware design using functional decomposition for real-time EMT simulation with two case studies. The real-time simulation results are validated using the offline EMTP software  3.1 Case study I: 3-FPGA hardware design
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2012.0374
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A flexible platform for hardware-aware network experiments and a case study on wireless network coding
+     Author ['X Deng', 'Y Yang', 'S Hong']
+     Venue IEEE/ACM Transactions on …
+     Year 2012
+     Abstract The script is interpreted directly by NS-2, and accordingly, NS-2 and SystemC will perform the network and hardware simulation cooperatively  As will be seen in our case study later, multiple processes executed in a single processor can affect the comple- tion time of each
+     Url https://ieeexplore.ieee.org/abstract/document/6179351/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Examination of ambient pressure effects on hybrid solid oxide fuel cell turbine system operation using hardware simulation
+     Author ['D Tucker', 'L Lawson', 'J VanOsdol']
+     Venue … Expo: Power for …
+     Year 2006
+     Abstract a solid oxide fuel cell gas turbine hybrid system.6 A simplified process flow diagram of the experimental hardware simulation facility is shown  Results for the system model case studies are also shown for predictions of turbine inlet temperature with experimental data in Figure 9
+     Url https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2006/42398/449/315369
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Speeding Up Simulation by Emulation-A Case Study
+     Author ['C Fritsch', 'J Haufe', 'T Berndt']
+     Venue Proceedings User's Forum
+     Year 1999
+     Abstract This paper describes as a case study how parts of the ASIC design can be executed on an ASIC emulator from Quickturn to  In order to combine hardware simulation and emulation within a common cosimulation environment, we need a hardware link between the simulator host
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.2466&rep=rep1&type=pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  Results of simulation case studies that represent real-world power distribution networks  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A methodology and toolset to enable SystemC and VHDL co-simulation
+     Author ['R Maciel', 'B Albertini', 'S Rigo', 'G Araujo']
+     Venue … Symposium on VLSI …
+     Year 2007
+     Abstract All experiments described below were run over the same size for the input vector. Figure 3. Platform Case Study  We also compared our platform simulation infrastructure to a well known hardware simulation tool: Mentor's Model- sim
+     Url https://ieeexplore.ieee.org/abstract/document/4208939/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A framework for fast hardware-software co-simulation
+     Author ['A Hoffmann', 'T Kogel', 'H Meyr']
+     Venue … Design, Automation and Test in …
+     Year 2001
+     Abstract 4.1 Hardware Simulation with SystemC The SystemC class library provides a synthesizable C" subset in order to establish a unitary implementation lan  5 A case study In a case study we successfully applied the proposed methodology to the port-processor of an ATM switch de
+     Url https://ieeexplore.ieee.org/abstract/document/915114/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Hardware/Software Co-design Methodology and DSP/FPGA Partitioning: A Case Study for Meeting Real-Time Processing Deadlines in 3.5 G Mobile Receivers
+     Author ['M Brogioli', 'P Radosavljevic']
+     Venue … Midwest Symposium on …
+     Year 2006
+     Abstract set of criteria for hardware/software partitioning between DSP and FPGA, in conjunc- tion with iterative DSP/FPGA hardware simulation, strict real time deadlines in the mobile wireless communications arena are met and exceeded. As a motivating case study indicative of many
+     Url http://scholarship.rice.edu/handle/1911/64269
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Case study of gate-level logic simulation on an extremely fine-grained chip multiprocessor
+     Author ['P Gu', 'U Vishkin']
+     Venue Journal of Embedded Computing
+     Year 2006
+     Abstract Case study of gate-level logic simulation on  In [15], V. Krishnaswamy and P. Banerjee opined that “the use of parallel machines for executing hardware simulation is an answer to the dual problems of speed and memory scalability.” In fact, many studies [6,8–10] have focused
+     Url https://content.iospress.com/articles/journal-of-embedded-computing/jec00031
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A comparative study of modelling at different levels of abstraction in system on chip designs: a case study
+     Author ['S Jayadevappa', 'R Shankar']
+     Venue IEEE Computer society …
+     Year 2004
+     Abstract A Comparative Study of Modeling at Different Levels of Abstraction in System on Chip Designs: A Case Study  the hardware (HW) design point of view, hardware description languages (HDLs) such as Verilog and VHDL, in conjunction with hardware simulation and synthesis
+     Url https://ieeexplore.ieee.org/abstract/document/1339508/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Hardware-assisted simulation and evaluation of IP cores using FPGA-based rapid prototyping boards
+     Author ['R Siripokarpirom']
+     Venue Proceedings. 15th IEEE …
+     Year 2004
+     Abstract We also de- scribe a prototype software/hardware implementation of the proposed approach and present a case study to demonstrate the  where IP cores are available as gate-level netlists or they are very complex, the software- based hardware simulation process usually takes
+     Url https://ieeexplore.ieee.org/abstract/document/1311102/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Parallel simulation of loosely timed SystemC/TLM programs: Challenges raised by an industrial case study
+     Author ['D Becker', 'M Moy', 'J Cornet']
+     Venue Electronics
+     Year 2016
+     Abstract size of models, the simulation time is the major bottleneck of complex hardware simulation  research tools are not publicly available, hence a fair comparison on case studies is not  this claim, we need to provide measurements performed on a case study from STMicroelectronics
+     Url https://www.mdpi.com/2079-9292/5/2/22
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Co-simulation method for hardware/software evaluation using Xilinx system generator: a case study on image compression algorithms for capsule endoscopy
+     Author ['Q Al-Shebani', 'P Premaratne', 'PJ Vial']
+     Venue 2018 12th …
+     Year 2018
+     Abstract which constrains the power source and the complexity of the hardware utilization are the main reasons for selecting the capsule endoscopy compression system for this case study  Keywords—image compression, hardware simulation, Xilinx design, capsule endoscopy
+     Url https://ieeexplore.ieee.org/abstract/document/8631737/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Volume rendering multivariate data to visualize meteorological simulations: a case study.
+     Author ['J Kniss', 'CD Hansen', 'M Grenier', 'T Robinson']
+     Venue VisSym
+     Year 2002
+     Abstract Meteorological Simulations: A Case Study Joe Kniss and Charles Hansen  This case study applies the ideas and techniques from multi-dimensional transfer function based volume rendering to the multivariate weather simulations
+     Url https://www.researchgate.net/profile/Joe_Kniss/publication/262237652_Volume_rendering_multivariate_data_to_visualize_meteorological_simulations_a_case_study/links/552c55b10cf21acb0920c793/Volume-rendering-multivariate-data-to-visualize-meteorological-simulations-a-case-study.pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title An industrial case study of structural testing applied to safety-critical embedded software
+     Author ['J Guan', 'J Offutt', 'P Ammann']
+     Venue Proceedings of the 2006 ACM/IEEE …
+     Year 2006
+     Abstract Page 1. An Industrial Case Study of Structural Testing Applied to  Keywords Software testing, embedded software, industrial case study 1 To protect its confidentiality, the company is not allowing publication of any details that could identify the product or company
+     Url https://dl.acm.org/doi/abs/10.1145/1159733.1159774
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract The paper reported the development of a case study for creating a HIL simulation environment for power elec- tronic systems  [4] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power electronics and drives,” IEEE Transac- tions on Power Delivery, vol
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A case study of a versatile generator of repeatable non-Poisson sequences of pseudorandom pulses
+     Author ['DG Maritsas', 'MG Hartley']
+     Venue IEEE Transactions on Computers
+     Year 1970
+     Abstract This paper is a case study of a general method for de- signing generators of repeatable non-Poisson sequences of pseudo- random  Applications of the proposed system may be found in the field of hardware simulation techniques and in more efficient arrange- ments of
+     Url https://ieeexplore.ieee.org/abstract/document/1671393/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Native simulation of MPSoC using hardware-assisted virtualization
+     Author ['H Shen', 'MM Hamayun', 'F Petrot']
+     Venue IEEE Transactions on …
+     Year 2012
+     Abstract Section VI presents a real-world case study to validate a video decoding application and an audio filter  Our first case study demonstrates the feasibility of providing an abstract model for such a platform, namely TI OMAP L138, as shown in Fig
+     Url https://ieeexplore.ieee.org/abstract/document/6218234/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Using power measurements to diagnose degradations in motor drivepower systems: a case study of oilfield pump jacks
+     Author ['JE McInroy', 'SR Legowski']
+     Venue IEEE Transactions on Industry …
+     Year 2001
+     Abstract Systems: A Case Study of  power (not current) is exam- ined to make the diagnosis [1]. 2) A dynamically rich application (oil-field pumping) has been studied to lend insight into a number of possible system degradations 3) Computer simulation, hardware simulation, and empir
+     Url https://ieeexplore.ieee.org/abstract/document/968163/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Virtual development on mixed abstraction levels: an agricultural vehicle case study
+     Author ['M Jung', 'S Piao', 'T Purusothaman', 'X Pan']
+     Venue Synopsys Usergroup …
+     Year 2015
+     Abstract Page 1. Virtual Development on Mixed Abstraction Levels: an Agricultural Vehicle Case Study Matthias Jung​1​, Songlin Piao​2​, Thiyagarajan Purusothaman​3​, Xiao Pan​3​  processes (design space exploration). Virtual hardware simulation models, which enable
+     Url https://www.researchgate.net/profile/Matthias_Jung2/publication/306355998_Virtual_Development_on_Mixed_Abstraction_Levels_an_Agricultural_Vehicle_Case_Study/links/57ba135e08aedfe0ec96eb7f.pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Cloud-based manufacturing execution system: case study FMS
+     Author ['AV Barenji']
+     Venue International Journal of Industrial and Systems …
+     Year 2018
+     Abstract 3 Case Study CbMES for flexible manufacturing system  This platform contains two main modules: 1 Hardware simulation module: This belongs to the CPN model of the system, and it is used to analyse the behaviour of the company
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJISE.2018.096161
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Direct system integration of hardware models–a case study
+     Author ['J Hiltscher', 'W Rehm']
+     Venue Sixth York Doctoral Symposium on Computer …
+     Year 2013
+     Abstract integration of hardware models a case study 37 Page 50. 2.2 Partial System Model Partial system models simulate the device under test and some auxiliary compo- nents to interface with it, keeping simulation overhead low. System software and hardware simulation are run
+     Url https://www.cs.york.ac.uk/yds/yds2013Proceedings/YDS_2013_Proceddings.pdf#page=48
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Automatic method for efficient hardware implementation from rvc-cal dataflow: a lar coder baseline case study
+     Author ['K Jerbi', 'M Wipliez', 'M Raulet', 'O Déforges', 'M Babel']
+     Venue NA
+     Year 2010
+     Abstract Page 2. Automatic Method For Efficient Hardware Implementation From RVC-CAL Dataflow: A LAR Coder baseline Case Study  B. Results The HDL project manager environment used is Xilinx ISE Foundation 11.1 and the hardware simulation tool is ISE simulator (Full version)
+     Url https://hal.archives-ouvertes.fr/hal-00546742/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title On error injection for NoC platforms: A UVM-based practical case study
+     Author ['S El-Ashry', 'H Ibrahim', 'MA Ibrahem', 'M Khamis']
+     Venue Proceedings of the 10th …
+     Year 2017
+     Abstract and negative test scenarios, are applied to two example NoC components: a base router, which is a simple case study to prove proposed schemes and a configurable router, which is a complex open-source case study that provides the  Section 3 shows the used case studies
+     Url https://dl.acm.org/doi/abs/10.1145/3139540.3139544
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Equivalence of Hardware and Software: A case study for solving polynomial functions
+     Author ['KP Yang', 'T Beaubouef']
+     Venue 2010 42nd Southeastern Symposium …
+     Year 2010
+     Abstract Figure 5. Hardware Simulation Result (f(x) = x3 + x2 - 3x - 4)  V. CONCLUSION In this research, the problem of computing a root of a polynomial using Newton's method with Horner's rule was presented as a case study for illustrating the Principle of Equivalence of Hardware and
+     Url https://ieeexplore.ieee.org/abstract/document/5442817/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title RTOS-centric hardware/software cosimulator for embedded system design
+     Author ['S Honda', 'T Wakabayashi', 'H Tomiyama']
+     Venue … of the 2nd IEEE/ACM/IFIP …
+     Year 2004
+     Abstract A case study with a JPEG decoder application demonstrates the effectiveness of our cosimulator  Our cosimulator supports two types of hardware simulation. One is cosimulation with functional hardware models written in C or C++
+     Url https://dl.acm.org/doi/abs/10.1145/1016720.1016760
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Parallel simulation of mixed-abstraction SystemC models on GPUs and multicore CPUs
+     Author ['R Sinha', 'A Prakash', 'HD Patel']
+     Venue 17th Asia and South Pacific …
+     Year 2012
+     Abstract simulation. We exper- iment with synthetic benchmarks and a set-top box case study. I. INTRODUCTION SystemC  This helps in efficient partitioning of the SystemC designs. VI. CASE STUDY: MULTI-CHANNEL SET-TOP BOX We implement
+     Url https://ieeexplore.ieee.org/abstract/document/6164991/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Design of a VLIW architecture constructed from standard RISC chips: a case study of hardware/software codesign
+     Author ['P Pfahler', 'C Nagel', 'FJ Rammig', 'U Kastens']
+     Venue Microprocessing and …
+     Year 1993
+     Abstract 61 North-Holland Design of a VLIW Architecture Constructed from Standard RISC Chips: A Case Study of Hardware/Software Codesign Peter Pfahler, Christof Nagel, Franz-Josef Rammig, Uwe Kastens  The function- ality of the processor was validated by hardware simulation
+     Url https://www.sciencedirect.com/science/article/pii/0165607493901266
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Multi-core parallel simulation of system-level description languages
+     Author ['R Dömer', 'W Chen', 'X Han']
+     Venue 16th Asia and South …
+     Year 2011
+     Abstract Using two case studies on H.264 video decoding and JPEG encoding we have demonstrated the effectiveness  Distributed Simulation: A Case Study in Design and Verification of Distributed Programs  Parallelizing SystemC Kernel for Fast Hardware Simulation on SMP Machines
+     Url https://ieeexplore.ieee.org/abstract/document/5722205/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Hybrid modeling of power electronic system for hardware-in-the-loop application
+     Author ['C Liu', 'R Ma', 'H Bai', 'Z Li', 'F Gechter', 'F Gao']
+     Venue Electric Power Systems …
+     Year 2018
+     Abstract At last, a comparative case study of traction system in the electrical locomotive train is also presented. For this case study, implementations are made on a Field Programmable Gate Arrays (FPGA) Kintex-7 embedded in National Instruments FlexRIO PXIe-7975
+     Url https://www.sciencedirect.com/science/article/pii/S0378779618301913
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract It also discusses stability issues for PHIL simulation. Section IV describes two exemplary case studies for PHIL simulation/testing and discusses the test results of a low voltage network with multiple distributed generation units and a 500 kW photovoltaic (PV) inverter
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Taguchi methods in electronics: A case study
+     Author ['R Kissel']
+     Venue NA
+     Year 1992
+     Abstract J /o TAGUCHI METHODS IN ELECTRONICS--A CASE STUDY By R. Kissel Information and Electronic Systems Laboratory Science and Engineering Directorate May 1992 (NASA-TM-IO35BO) TAGUCHI ELECIRONICS: A CASE STUDY METHOr)s IN (NASA) 22 p N?Z-ZBt,56
+     Url https://ntrs.nasa.gov/search.jsp?R=19920019213
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Toward low LDPC-code floors: A case study
+     Author ['Y Zhang', 'WE Ryan']
+     Venue IEEE Transactions on Communications
+     Year 2009
+     Abstract Page 4. ZHANG and RYAN: TOWARD LOW LDPC-CODE FLOORS: A CASE STUDY 1569  From our hardware simulation results, we catalog the trap- ping sets dominating the error floor region of this S-IRA(4544, 4096) code by three classes: (5, 5), (5, 7), and (6, 2) trapping sets
+     Url https://ieeexplore.ieee.org/abstract/document/5089487/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title An iterative real-time nonlinear electromagnetic transient solver on FPGA
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2010
+     Abstract To validate the new solver, two case studies are simulated in real-time: surge arrester transients in a series compensated line and ferroresonance transients in a transformer, with time-steps of 5µs and 3µs respectively  Two real-time transient simulation case studies are Page 2
+     Url https://ieeexplore.ieee.org/abstract/document/5518422/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title StateCharts to systemc: a high level hardware simulation approach
+     Author ['M Mura', 'M Paolieri', 'L Negri', 'MG Sami']
+     Venue … of the 17th ACM Great Lakes …
+     Year 2007
+     Abstract Page 1. StateCharts to SystemC: a High Level Hardware Simulation Approach  As a case study we present here a model of the IBM PowerPC 750 Cache system and the re- spective SystemC simulator automatically generated by our tool
+     Url https://dl.acm.org/doi/abs/10.1145/1228784.1228904
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Comprehensive real-time simulation of the smart grid
+     Author ['F Guo', 'L Herrera', 'R Murawski', 'E Inoa']
+     Venue IEEE Transactions …
+     Year 2013
+     Abstract Section IV describes a case study, and Section V illustrates the simulation results  A system- in-the-loop (SITL) package is available for use with OPNET that bridges the OPNET network simulation with the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6413207/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Case study: Bio-inspired self-adaptive strategy for spike-based PID controller
+     Author ['J Liu', 'J Harkin', 'M McElholm', 'L McDaid']
+     Venue … on Circuits and …
+     Year 2015
+     Abstract II outlines the spike-based PID controller and bio-inspired fault detection strategy, and section III discusses the proposed fault detection and self-correcting case study for the  A hardware simulation of the fault detection/self-correcting strategy for a single motor is shown in Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7169243/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Design of Distributed Discrete-Event Simulation Systems Using Deep Belief Networks
+     Author ['E Cortes', 'L Rabelo', 'AT Sarmiento', 'E Gutierrez']
+     Venue Information
+     Year 2020
+     Abstract Section 5 introduced programming in WarpIV using a case study and speedup (with its relationship to wall-clock time for these preliminary studies—other performance measures are possible, but this study just places emphasis on wall-clock time)
+     Url https://www.mdpi.com/2078-2489/11/10/467
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Using the SimOS machine simulator to study complex computer systems
+     Author ['M Rosenblum', 'E Bugnion', 'S Devine']
+     Venue ACM Transactions on …
+     Year 1997
+     Abstract the hardware simulation models to control data recording and classifica- tion  This section presents two case studies to illustrate how the different features of SimOS can be  5.1 Case Study: Operating System Characterization We used SimOS to characterize the IRIX operating
+     Url https://dl.acm.org/doi/abs/10.1145/244804.244807
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Faster-Than-Real-Time Dynamic Simulation of AC/DC Grids on Reconfigurable Hardware
+     Author ['S Cao', 'N Lin', 'V Dinavahi']
+     Venue IEEE Transactions on Power …
+     Year 2019
+     Abstract Two case studies are used to illustrate the efficacy of the proposed algorithm and demonstrated a closed-loop prediction scenario for improving grid stability  Two case studies are emulated to provide insight into the performance of the proposed algorithm
+     Url https://ieeexplore.ieee.org/abstract/document/8854219/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract Moreover, to verify the proposed platform, a case study of wide area load control was performed  analog simulation to achieve great modeling convenience, low development cost, high simulation speed, and close practicality; (2) the application of a hardware simulation into the
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title PHEVs charging stations, communications, and control simulation in real time
+     Author ['L Herrera', 'R Murawski', 'F Guo', 'E Inoa']
+     Venue 2011 IEEE Vehicle …
+     Year 2011
+     Abstract In section V, a case study is shown to demonstrate the capabilities of the current system  A SITL package is available for use with OPNET that can bridge the OPNET network simulation with the hardware simulation described in section II
+     Url https://ieeexplore.ieee.org/abstract/document/6043167/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Simulation blocks for TOSSIM-T2
+     Author ['TV Prabhakar', 'S Venkatesh', 'MS Sujay']
+     Venue … and Middleware and …
+     Year 2008
+     Abstract While the hardware simulation elements comprise of radio and external flash memory, the software blocks include an environ- ment noise model, packet delivery  To study the effectiveness of this work, we take a case study of a paper presented in [1]. We obtain three sets of
+     Url https://ieeexplore.ieee.org/abstract/document/4554371/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Real-time simulation of power electronic systems based on predictive behavior
+     Author ['C Liu', 'H Bai', 'S Zhuo', 'X Zhang', 'R Ma']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract The numerical accuracy of the solution, the architec- ture design, and the issue of the parallel computation are discussed in detail. An ac–dc–ac topology is presented as a case study  Section VI illustrates the solver with an ac–dc–ac case study. Section VII concludes this article
+     Url https://ieeexplore.ieee.org/abstract/document/8844298/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title Methodology and technique to improve throughput of fpga-based cal dataflow programs: Case study of the rvc mpeg-4 sp intra decoder
+     Author ['H Amer', 'AAH Ab Rahman', 'I Amer']
+     Venue … IEEE Workshop on …
+     Year 2011
+     Abstract The tool was reported in [8], with a case study of the RVC MPEG-4 SP implemented on multicore processors  The timeline of action execution (ie number of clock cycles) can be obtained from hardware simulation tool such as Modelsim. n clock cycles ... Action-1 Action-2
+     Url https://ieeexplore.ieee.org/abstract/document/6088972/
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A framework for exploration of parallel SystemC simulation on the single-chip cloud computer
+     Author ['C Roth', 'S Reder', 'O Sander']
+     Venue Proceedings of the …
+     Year 2012
+     Abstract As a case study, a synchronous parallelization scheme is pre- liminarily evaluated by means of several simulation models of different accuracy  By means of a case study we demonstrate applicability of the developed framework
+     Url https://pdfs.semanticscholar.org/0e2c/b7cf6bb21c7e92d554580464bfb1c06c7f84.pdf
+
+
+     Search term "Hardware+simulation"+"Case+Study"+OR+"Case+Studies"
+     Title A Framework of Transaction-Based HW/SW Co-Simulation for IC Verification
+     Author ['XP Chen', 'Z Tian']
+     Venue 2009 IEEE Circuits and Systems …
+     Year 2009
+     Abstract IV.CASE STUDY  In the co-simulation system, software simulation module produces lots of inspiriting packets into the packet switch module of the hardware simulation module, and messages are put out  The case studies on packet switch sytem have shown that our approach
+     Url https://ieeexplore.ieee.org/abstract/document/4960743/
+

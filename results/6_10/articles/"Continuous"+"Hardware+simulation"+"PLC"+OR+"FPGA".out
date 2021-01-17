@@ -1,0 +1,91 @@
+Showing papers for search query "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract are connected to MicroBlaze core through the on-chip bus, the synthesizable plant model is connected to the DPWM peripheral, and the whole architecture is implemented into the FPGA  Each network configuration is described by a continuous time state- space equation
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract To implement into an FPGA the HIL platform, the customized peripherals and the power converter must be modeled in synthesizable VHDL. Fig  The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title An iterative real-time nonlinear electromagnetic transient solver on FPGA
+     Author ['Y Chen', 'V Dinavahi']
+     Venue IEEE Transactions on Industrial …
+     Year 2010
+     Abstract This paper proposes an iterative nonlinear tran- sient solver on a field programmable gate array (FPGA). The parallel solver, based on the compensation method and the Newton-Raphson algorithm (continuous and piece-wise), is en- tirely implemented in VHDL
+     Url https://ieeexplore.ieee.org/abstract/document/5518422/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative. This will ensure that at the point |imc|, Lm(|imc|) = Ly(|imc|). For the FPGA implementation, (19
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Processor-in-the-loop and hardware-in-the-loop simulation of electric systems based in FPGA
+     Author ['J Mina', 'Z Flores', 'E López', 'A Pérez']
+     Venue … Conference on Power …
+     Year 2016
+     Abstract The continuous time model of the dc motor is given by the following equations ௗ௜೑ ௗ௧ ൌ െ ோ೑ ௅೑ ݅௙ ൅ ଵ ௅೑ ݒ௙  [9] S. Karimi, A. Gaillard, P. Poure, and S. Saadate, “FPGA-Based Real  [10] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/7530751/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title FPGA-based real-time simulation of fault tolerant current controllers for power electronics
+     Author ['I Bahri', 'I Slama-Belkhodja']
+     Venue 2009 IEEE International …
+     Year 2009
+     Abstract Actually, using the computed K, (i=a,b,c) at the beginning of the digital current controller computation process, the a and ~ components of the current vector are computed without using the failed current sensor providing the proper continuous working. TABLE II FPGA Time/Area
+     Url https://ieeexplore.ieee.org/abstract/document/5222730/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Fpga-accelerated simulation technologies (fast): Fast, full-system, cycle-accurate simulators
+     Author ['D Chiou', 'D Sunwoo', 'J Kim', 'NA Patil']
+     Venue 40th Annual IEEE …
+     Year 2007
+     Abstract Page 1. FPGA-Accelerated Simulation Technologies (FAST)  The speculative func- tional model enables the simulator to be parallelized, im- plementing the timing model in FPGA hardware for speed and the functional model using a modified full-system simu- lators
+     Url https://ieeexplore.ieee.org/abstract/document/4408260/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA-based hardware-in-the-loop development test-bench for multiple output power converters
+     Author ['O Lucia', 'O Jimenez', 'LA Barragan']
+     Venue 2010 Twenty-Fifth …
+     Year 2010
+     Abstract LOOP APPLICATION To achieve the aim of this paper, HIL at power converter level is applied, including the power converter model in the FPGA implementation  Provided that the inverter operates in continuous mode, the loads are parallel-connected to a voltage source inverter
+     Url https://ieeexplore.ieee.org/abstract/document/5433653/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design and FPGA Implementation of a new hyperchaotic system
+     Author ['W Guang-Yi', 'B Xu-Lei', 'W Zhong-Lin']
+     Venue Chinese physics B
+     Year 2008
+     Abstract The Hardware in Loop (HIL), which is supplied by DSP-Builder, can do well in hardware simulation  The simulated results for the established HIL model of the designed digital circuit have shown that the continuous system (1) can be car- ried out by FPGA in hardware
+     Url https://iopscience.iop.org/article/10.1088/1674-1056/17/10/011/meta
+
+
+     Search term "Continuous"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time FPGA implementation of Lorenz's chaotic generator for ciphering telecommunications
+     Author ['MS Azzaz', 'C Tanougast', 'S Sadoudi']
+     Venue 2009 Joint IEEE North …
+     Year 2009
+     Abstract However, it should be noted that the continuous chaotic signals are real  It can be seen that the functional hardware simulation results are very similar those of the RK-4  for a digital hardware implementation of the proposed Lorenz's chaotic system using Virtex-II Xilinx FPGA [8] is
+     Url https://ieeexplore.ieee.org/abstract/document/5290495/
+

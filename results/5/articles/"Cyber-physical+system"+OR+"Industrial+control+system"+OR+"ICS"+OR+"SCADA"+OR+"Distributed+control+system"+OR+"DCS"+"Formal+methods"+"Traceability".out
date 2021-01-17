@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Cyber-physical systems design: formal foundations, methods and integrated tool chains
+     Author ['J Fitzgerald', 'C Gamble', 'PG Larsen']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract Woodcock, “Engineering UToPiA - Formal Semantics for CML,” in FM 2014: Formal Methods, ser  Kaltschmidt, P. Sauer, and T. Vörtler, “Design space exploration for cyber physical system design using  33] P. Mäder, Rule-based Maintenance of Post-requirements Traceability, ser
+     Url https://ieeexplore.ieee.org/abstract/document/7166696/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract Their tools can provide automated sup- port needed for checking completeness, traceability, verifiability, and reusability, and for supporting requirements evolution, diverse viewpoints, and inconsistency manage- ment [Ghose 2000]. Formal methods are used in specifying
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title New opportunities for integrated formal methods
+     Author ['M Gleirscher', 'S Foster', 'J Woodcock']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2019
+     Abstract that aimed at integration of several formal and semi-formal methods using notational  all the different aspects of FM integration, including semantic integration, traceability, tool integration  time, hybrid computation with differential equations, probability, and rigid body dynam- ics
+     Url https://dl.acm.org/doi/abs/10.1145/3357231
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Applied formal methods for hardware Trojan detection
+     Author ['M Rathmair', 'F Schupfer', 'C Krieg']
+     Venue 2014 IEEE International …
+     Year 2014
+     Abstract integrated third party IP blocks described at netlist level this traceability is not  Papachristou, S. Bhunia, and R. Chakraborty, “Towards trojan-free trusted ICs: Problem analysis  ability analysis via automated dynamic netlist-based hint generation,” in Formal Methods in Computer
+     Url https://ieeexplore.ieee.org/abstract/document/6865092/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Using traceability to support model-based regression testing
+     Author ['L Naslavsky', 'DJ Richardson']
+     Venue Proceedings of the twenty-second IEEE …
+     Year 2007
+     Abstract Computer Sciences University of California, Irvine Irvine, CA 92697-3425 USA lnaslavs@ics. uci.edu  Based Specifications, 1st International Symposium of Formal Methods Europe on Industrial-Strength Formal Methods, 1993  10] Jouault, F., Loosely Coupled Traceability for ATL
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321744
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Dronology: An Incubator for Cyber-Physical System Research
+     Author ['J Cleland-Huang', 'M Vierhauser', 'S Bayley']
+     Venue arXiv preprint arXiv …
+     Year 2018
+     Abstract Challenges are diverse and include goal modeling [4], formal methods, require- ments completeness [13], runtime adaptation, [2], design-time evo- lution  Similarly, datasets provided by PROMISE [18], the Center of Excellence for Software Traceability [6], and the SIRS testing
+     Url https://arxiv.org/abs/1804.02423
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title A tool integration language to formalize co-simulation tool-chains for cyber-physical system (CPS)
+     Author ['J Lu', 'M Törngren', 'DJ Chen', 'J Wang']
+     Venue … Engineering and Formal Methods
+     Year 2017
+     Abstract SEFM 2017: Software Engineering and Formal Methods pp 391-405 | Cite as. A Tool Integration Language to Formalize Co-simulation Tool-Chains for Cyber-Physical System (CPS)  and verification & validation activities results in more requirements, such as traceability [2] and
+     Url https://link.springer.com/chapter/10.1007/978-3-319-74781-1_27
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Requirements, Traceability and Formal Software Development or a Further Analysis of Requirements Traceability
+     Author ['JK Pearson']
+     Venue … Science Department Royal Holloway University of …
+     Year 1996
+     Abstract e mail: justin@dcs.rhbnc.ac.uk  A historical example, the Principia Mathematica of Russell and Whitehead 12], which attempted to formalize the whole of mathemat- ics, in terms of rst order logic, this work took over 500 pages to assert  5 Use and Abuse of Formal Methods and Re
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.5488&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title DO-178C Compliance of Verisoft Formal Methods
+     Author ['H Blasum', 'F Dordowsky', 'B Langenstein', 'A Nonnengart']
+     Venue NA
+     Year 2011
+     Abstract One of the work packages of the Verisoft XT avion- ics subproject was to establish DO-178B conformant development and verification  Certification authorities and applicants must agree on a coarser interpretation of traceability that is suitable to formal methods such as VSE
+     Url http://web1.see.asso.fr/erts2012/Site/0P2RUC89/2D-2.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Applying formal methods and object-oriented analysis to existing flight software
+     Author ['BHC Cheng', 'B Auernheimer']
+     Venue NA
+     Year 1993
+     Abstract a]v]ro?cllcs for IIlallltallllllg safety-c.ritical systc~m. '1'lIls l,tiImr dcscrilws a ~)rc,jcct Lllat a])p]ics forvnal II IC(lIOCIS to a  2 . 1 Formal Methods Forlnal ~ilctllods ill software dcvc]oplnc]lt ]Jrovidc lnal)y hcncfil,s in the forward cngince.rilt  'J'}lcsc J~roofs l)rovidc traceability frolu the i~l
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/36591/93-2066.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Learning by doing: Practical courses in lightweight formal methods using vdm+
+     Author ['PG Larsen', 'J Fitzgerald', 'S Riddle']
+     Venue NA
+     Year 2006
+     Abstract His research interests are in models of complex systems, traceability and refinement  When they encounter their first formal methods course, Newcastle students have at least what Boute  func- tions, recursive structures and induction, in addition to some continuous mathemat- ics
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.1551&rep=rep1&type=pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Combining semi-formal and formal methods for the development of distributed reconfigurable control systems
+     Author ['R Oueslati', 'O Mosbahi', 'M Khalgui', 'Z Li', 'T Qu']
+     Venue IEEE Access
+     Year 2018
+     Abstract DCS Distributed control system  R. Oueslati et al.: Combining Semi-formal and Formal Methods for the Development of Distributed Reconfigurable Control  greater flexibility and the possibility to evolve the specification while maintaining consistency and traceability between the
+     Url https://ieeexplore.ieee.org/abstract/document/8540386/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title DO-178C Compliance of Verisoft Formal Methods
+     Author ['B Holger', 'F Dordowsky', 'B Langenstein', 'A Nonnengart']
+     Venue NA
+     Year 2012
+     Abstract One of the work packages of the Verisoft XT avion- ics subproject was to establish DO-178B conformant development and verification  Certification authorities and applicants must agree on a coarser interpretation of traceability that is suitable to formal methods such as VSE
+     Url https://hal.archives-ouvertes.fr/hal-02189912/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Formal Methods Specification and Analysis Guidebook for the Verification of Software and Computer Systems Volume II: A Practitioner's Companion
+     Author ['JC Kelly']
+     Venue NA
+     Year 1997
+     Abstract 3.1.1.4 Traceability of Recluirements  Furthermore, the guidebook assumes that, the reader is aware of the potential lmnefits alld fallibility ics of formal met nods: it does not dwell on the very real benefits of the appropriate application of formal methods or the
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/22415/97-0902.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title High-assurance separation kernels: a survey on formal methods
+     Author ['Y Zhao', 'D Sanán', 'F Zhang', 'Y Liu']
+     Venue arXiv preprint arXiv:1701.01535
+     Year 2017
+     Abstract Page 1. 1 High-Assurance Separation Kernels: A Survey on Formal Methods  2009]. Traditionally, certified security is achieved by CC evaluation [National Se- curity Agency 2012], in which formal methods are mandated for highest assurance levels
+     Url https://arxiv.org/abs/1701.01535
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Trustworthy spacecraft design using formal methods
+     Author ['VY Nguyen']
+     Venue NA
+     Year 2013
+     Abstract Furthermore, significant practical exper- ience of using formal methods in an engineering process was gained. It showed the need for conscious documentation and characterisation of abstraction levels and maintenance of traceability between the SLIM model and the
+     Url http://ftp.informatik.rwth-aachen.de/Publications/AIB/2012/2012-17.ps.gz
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title A Model-based Development, Execution, and Evolution Platform for Dependable Cyber-Physical System-of-Systems
+     Author ['DJ Chen']
+     Venue NA
+     Year 2016
+     Abstract Platform for Dependable Cyber-Physical System-of  A SoS can become cyber-physical (CP) system by having both physical dynam- ics or energy flows under  In particular based on EAST-ADL, such a process combines formal methods and tools for development-time quality
+     Url https://www.researchgate.net/profile/De-Jiu_Chen/publication/308079278_A_Model-based_Development_Execution_and_Evolution_Platform_for_Dependable_Cyber-Physical_System-of-Systems/links/57fb6ae308ae91deaa685017/A-Model-based-Development-Execution-and-Evolution-Platform-for-Dependable-Cyber-Physical-System-of-Systems.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title A survey on theorem provers in Formal methods
+     Author ['MS Nawaz', 'M Malik', 'Y Li', 'M Sun', 'M Lali']
+     Venue arXiv preprint arXiv:1912.03028
+     Year 2019
+     Abstract On the other hand, formal methods formally verify the system correctness. Formal methods are “mathematical-based techniques that are used in the modeling, analysis and verification of both the software and hardware systems” [275]
+     Url https://arxiv.org/abs/1912.03028
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Lightweight formal methods
+     Author ['D Robertson']
+     Venue … of the Monterey Workshop on Formal Methods …
+     Year 1995
+     Abstract Page 89. Lightweight Formal Methods Dave Robertson Department of Artiﬁcial Intelligence, University of Edinburgh, Scotland Email: drQa. isb. ed. ac. uk Abstract Formal methods are frequently presented as “heavyweight” solutions to the problem of high level speciﬁcation
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a308336.pdf#page=89
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Survey on Formal Methods and Tools in Railways: The ASTRail Approach
+     Author ['A Piattino', 'D Trentini']
+     Venue NA
+     Year NA
+     Abstract have been in use for quite some time now in the avion- ics and automotive  Less frequent are features such as code generation, model-based testing, and traceability  in terms of learnability, the tools mainly require medium to advanced competences in formal methods, and, in
+     Url https://openportal.isti.cnr.it/data/2019/403121/2019_403121_postprint.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title BISE–Call for PapersIssue 3/2010High-Impact Requirements Engineering
+     Author ['Prof. Dr. Jarke jarke@ dbis. rwth-aachen. de']
+     Venue NA
+     Year 2009
+     Abstract In critical sys- tems, growing usage of formal methods can be observed, provided they are sup  traceability and runtime requirements monitoring j Change management and traceability j Goal  for requirements model- ing j Management of complexity and dynam- ics of requirements
+     Url https://link.springer.com/content/pdf/10.1007/s12599-008-0013-4.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title BISE–Call for Papers Issue 3/2010
+     Author ['M Jarke', 'K Lyytinen']
+     Venue NA
+     Year 2010
+     Abstract In critical sys- tems, growing usage of formal methods can be observed, provided they are sup  traceability and runtime requirements monitoring j Change management and traceability j Goal  for requirements model- ing j Management of complexity and dynam- ics of requirements
+     Url http://search.proquest.com/openview/a44b8f923deb26384a83dcd4b26a8716/1?pq-origsite=gscholar&cbl=816386
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Application of Formal Methods in The ITASAT project
+     Author ['DR Quinta']
+     Venue NA
+     Year 2013
+     Abstract making use of the pre-stablish rules in the guidelines in phase 1. Finally, in the third phase, a Formal Methods approach with  PAYLOAD The satellite payload has four experiments: the digital data collection sys- tem (DCS), an acetone-aluminium heat pipe, an attitude estimator
+     Url https://repositorium.sdum.uminho.pt/handle/1822/27877
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Tarski: A platform for automated analysis of dynamically configurable traceability semantics
+     Author ['F Erata', 'M Challenger', 'B Tekinerdogan']
+     Venue Proceedings of the …
+     Year 2017
+     Abstract CCS Concepts •Software and its engineering → Consistency; Trace- ability; Specification languages; Formal methods;  conversion is practical to achieve a solid approach for au- tomated analysis of traceability  and OCL4) that are based on set-theoretic log- ics, Alloy's relational
+     Url https://dl.acm.org/doi/abs/10.1145/3019612.3019747
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title UML to B: Formal verification of object-oriented models
+     Author ['K Lano', 'D Clark', 'K Androutsopoulos']
+     Venue … on Integrated Formal Methods
+     Year 2004
+     Abstract K. Lano, D. Clark, and K. Androutsopoulos Dept. of Computer Science, King's College London, Strand, London, WC2R 2LS, UK. {kcl, david, kelly}@dcs.kcl.ac.uk Phone: 0207 848 2832, Fax: 0207 848 2851 Abstract. The integration of UML and formal methods such as B and
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24756-2_11
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Leveraging Applications of Formal Methods, Verification and Validation. Modeling: 8th International Symposium, ISoLA 2018, Limassol, Cyprus, November 5 …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2018
+     Abstract In: Industrial Control System Security Workshop (ICSS'16), pp  A tighter integration between specification and verification log- ics, graphical modeling notations, and programming  structure on this work, we will distinguish between three lines of work: formal methods, model-based
+     Url https://books.google.com/books?hl=bg&lr=&id=VVB1DwAAQBAJ&oi=fnd&pg=PR5&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Traceability%22&ots=71H8i_-UXO&sig=35qV33vUH0-GM1X_titvUcrwwQw
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title A tool integration language to formalize co-simulation tool-chains for Cyber-Physical System (CPS)
+     Author ['L Jinzhi', 'M Törngren', 'DJ Chen', 'J Wang']
+     Venue … and Formal Methods
+     Year 2017
+     Abstract A satellite event of SEFM2017- 15th International conference on Software Engineering and Formal Methods  Integration Language to Formalize Co-simulation Tool-chains for Cyber-physical System (CPS  idation activities results in more requirements, such as traceability [2] and
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1128746
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Formal refinement patterns for goal-driven requirements elaboration
+     Author ['R Darimont', 'A Van Lamsweerde']
+     Venue ACM SIGSOFT Software Engineering …
+     Year 1996
+     Abstract is aimed at providing construc- tive formal support while hiding the underlying mathemat- ics  systems; due to the scarcity of such expertise the use of formal methods in industrial  specification, the outer declaration layer is much useful for requirements traceability (through seman
+     Url https://dl.acm.org/doi/abs/10.1145/250707.239131
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Model-based documentation of dynamicity constraints for collaborative cyber-physical system architectures: Findings from an industrial case study
+     Author ['J Brings', 'M Daun', 'T Bandyszak', 'V Stricker']
+     Venue Journal of Systems …
+     Year 2019
+     Abstract Model-based documentation of dynamicity constraints for collaborative cyber-physical system architectures: Findings  they are applicable to in order to ensure traceability and comprehensibility  specification of complex constraint relations and can be verified by formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S1383762118303527
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Features of integrated model-based co-modelling and co-simulation technology
+     Author ['PG Larsen', 'J Fitzgerald', 'J Woodcock', 'C Gamble']
+     Venue … and Formal Methods
+     Year 2017
+     Abstract DeCPS Workshop on Challenges and New Approaches for Dependable and Cyber-Physical System Engineering Focus  In: FormaliSE: FME Workshop on Formal Methods in Software Engineering  Gotel, OC, Finkelstein, AC: An analysis of the requirements traceability problem
+     Url https://link.springer.com/chapter/10.1007/978-3-319-74781-1_26
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Cyber physical system (CPS)-based industry 4.0: A survey
+     Author ['Y Lu']
+     Venue Journal of Industrial Integration and Management
+     Year 2017
+     Abstract 03, 1750014 (2017) No Access. Cyber Physical System (CPS)-Based Industry 4.0: A Survey  Crossref, Google Scholar; Ahmad, A, A Paul, MM Rathore and HB Chang [2016] Smart cyber society: Integration of capillary devices with high usability based on cyber-physical system
+     Url https://www.worldscientific.com/doi/abs/10.1142/S2424862217500142
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Small satellite systems design methodology: A formal and agile design process
+     Author ['W Edmonson', 'J Chenou', 'N Neogi']
+     Venue 2014 IEEE …
+     Year 2014
+     Abstract which tools such as PVS [2] can perform consistency and traceability throughout the  engineering, and finally pro- viding a short tutorial on formal methods in Section 2  BACKGROUND A. PNSats as Cyber-Physical System n developing a modern systems engineering process for
+     Url https://ieeexplore.ieee.org/abstract/document/6819305/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Analysis of Intent Specification and SystemUpgrade Traceability
+     Author ['J Elmqvist']
+     Venue NA
+     Year 2003
+     Abstract How do Intent Specification improve the dependability of a sys- tem? • Does an adequate support for traceability of user requirements exist and how does it support the upgrade process? • How can formal methods be used to make the testing more effi- cient
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:19437
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Rule Extraction as a Formal Method
+     Author ['M Darrah', 'BJ Taylor']
+     Venue Methods and Procedures for the Verification and …
+     Year 2006
+     Abstract Other formal methods, such as model checking, do not apply in the case of neural networks  The rules are viewed as a descriptive representation of how the DCS handles data  The usefulness in requirements traceability and the overall usefulness of rule extraction to the IV&V
+     Url https://link.springer.com/content/pdf/10.1007/0-387-29485-6_8.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title π-Method: a model-driven formal method for architecture-centric software engineering
+     Author ['F Oquendo']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2006
+     Abstract Keywords: Formal Methods, Model-Driven Development, Archi- tecture-Centric Software Engineering, Component-Based Software Engineering  taking into account product and process descriptions, relationships between activities, and execution traceability (product transforma
+     Url https://dl.acm.org/doi/abs/10.1145/1127878.1127885
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Applying the SCR requirements method to a weapons control panel: An experience report
+     Author ['C Heitmeyer', 'J Kirby', 'B Labaw']
+     Venue … second workshop on Formal methods in …
+     Year 1998
+     Abstract associated with most formal methods and to adopt a notation, such as graph- ics or tables  and a summary of the characteristics that dis- tinguish the SCR method from other formal methods  Now that it is complete, we use the SCR specification, which has traceability links to the
+     Url https://dl.acm.org/doi/pdf/10.1145/298595.298863
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Towards leveraging model transformation to support model-based testing
+     Author ['L Naslavsky', 'H Ziv', 'DJ Richardson']
+     Venue … of the twenty-second IEEE/ACM …
+     Year 2007
+     Abstract J. Richardson Donald Bren School of Information and Computer Sciences University of California, Irvine Irvine, CA 92697-3425 USA djr@ics.uci.edu  of Formal Methods Europe on Industrial-Strength Formal Methods, 1993. [6] Jouault, F., Loosely Coupled Traceability for ATL
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321721
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Model checking: cleared for take off
+     Author ['D Cofer']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 2010
+     Abstract ICS Symbolic Model Checker Bounded Model Checker Infinite Model Checker  Specific guidance is provided to describe how formal methods can be used to satisfy  ity with the target computer, verifiability of requirements, conformance to standards, traceability between lifecycle
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16164-3_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title EPIC: Ending piracy of integrated circuits
+     Author ['JA Roy', 'F Koushanfar', 'IL Markov']
+     Venue … on Design, automation and test in …
+     Year 2008
+     Abstract selection of CK in Section 6 ensures a limited number of good key combinations, and defeats brute-force and formal-methods attacks  Proposition 5 Different ICs nearly always have different RCKs  Additionally, better traceability to fab will en- courage better physical security
+     Url https://dl.acm.org/doi/abs/10.1145/1403375.1403631
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Modeling and Simulation of Attacks on Cyber-physical Systems.
+     Author ['C Bernardeschi', 'A Domenici', 'M Palmieri']
+     Venue ICISSP
+     Year 2019
+     Abstract Model Descriptions Traceability Daemon RT-Tester  simulation • We have provided an easy way to include attacks in PVS model • Encouraging the use of formal methods in model-based design  Reducing the effort required to formally specify a Cyber-Physical System
+     Url https://project.inria.fr/metrid/files/2019/04/metrid2019-CBernardeschi.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Formal Aspects of Component Software: 13th International Conference, FACS 2016, Besançon, France, October 19-21, 2016, Revised Selected Papers
+     Author ['O Kouchnarenko', 'R Khosravi']
+     Venue NA
+     Year 2017
+     Abstract Buenos Aires, Argentina Halmstad University, Sweden University of Oslo, Norway ICS PAS and  both test coverage in comparison with manual approaches and traceability with implemented  In that project, a methodology based on formal methods has been proposed for security
+     Url https://books.google.com/books?hl=bg&lr=&id=cqmoDgAAQBAJ&oi=fnd&pg=PP6&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Formal+methods%22+%22Traceability%22&ots=nEqputlsTN&sig=awgZBWHZap5YvD0y_mmzQMZIYa4
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Investigating requirements models completeness in a unified process for safety and security
+     Author ['V Katta', 'C Raspotnig', 'P Karpati']
+     Venue C&ESAR 2013
+     Year 2013
+     Abstract Snapshot shows parts of the graph documenting the traceability information of the cyber-physical system  We have argued why requirements completeness is important while developing SCADA systems which have  In: 3rd Workshop on Formal Methods in Software Practice, pp
+     Url https://www.cesar-conference.org/wp-content/uploads/2017/06/Actes_CESAR_2013.pdf#page=90
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Using model transformation to support model-based test coverage measurement
+     Author ['L Naslavsky', 'H Ziv', 'DJ Richardson']
+     Venue … of the 3rd international workshop on …
+     Year 2008
+     Abstract University of California, Irvine Irvine, CA 92697-3425 USA djr@ics.uci.edu  based test case generation/selective regression testing approach and traceability infrastructure with  Cases from Model-Based Specifications, First International Symposium of Formal Methods Europe on
+     Url https://dl.acm.org/doi/abs/10.1145/1370042.1370044
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title SysML as a common integration platform for co-simulations: example of a cyber physical system design methodology in green heating ventilation and air conditioning …
+     Author ['A Sadovykh', 'A Bagnato', 'I Quadri', 'AED Mady']
+     Venue Proceedings of the 12th …
+     Year 2016
+     Abstract In Cyber-Physical System (CPS) modelling, one possible approach to design is to use domain- specific  be presented either in graphical or tabular form and help with model traceability  Distributed Embedded Real-Time Systems with VDM++," in FM 2006: Formal Methods, ser
+     Url https://dl.acm.org/doi/abs/10.1145/3022211.3022212
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Proving the shalls
+     Author ['SP Miller', 'AC Tribble', 'MW Whalen']
+     Venue International Journal on …
+     Year 2006
+     Abstract SPECIAL SECTION ON THE INDUSTRIALIZATION OF FORMAL METHODS: A VIEW FROM FORMAL METHODS 2003 Steven P. Miller · Alan C. Tribble · Michael W. Whalen · Mats PE Heimdahl Proving the shalls Early validation of requirements through formal methods
+     Url https://link.springer.com/article/10.1007/s10009-004-0173-6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Enterprise systems: state-of-the-art and future trends
+     Author ['L Da Xu']
+     Venue IEEE Transactions on Industrial Informatics
+     Year 2011
+     Abstract In particular, formal methods and systems methods are crucial for modeling complex enterprise systems, which poses unique challenges  Bechini et al. indicate the role played by interorganizational information systems in developing an industrial traceability system [31]
+     Url https://ieeexplore.ieee.org/abstract/document/6011699/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Assessment and certification of safety critical software
+     Author ['EM El Koursi', 'G Mariano']
+     Venue Proceedings of the 5th Biannual …
+     Year 2002
+     Abstract assessment, the verification of internal and external consistency and the detection of traceability problems [ 13  These meti-ics are related to size, structuration, proof, complexity and quality of the  The Formal methods is a good alternative to improve the quality of software and it
+     Url https://ieeexplore.ieee.org/abstract/document/1049420/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Software product lines traceability: A systematic mapping study
+     Author ['R de Lima']
+     Venue NA
+     Year 2016
+     Abstract this systematic mapping study aims to synthesize existing research related to systematic traceability in the SPL field, which we refer to as SPL traceability. In particular, we identify common practices, research trends, open issues, and research top- ics for improvement
+     Url http://homepages.uc.edu/~niunn/papers/IST17.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Software requirements and acceptance testing
+     Author ['P Hsia', 'D Kung', 'C Sell']
+     Venue Annals of software Engineering
+     Year 1997
+     Abstract Traceability methods work by creating a cross reference between requirements and acceptance test cases, fabricating relationships between test cases and require- ments  Formal methods apply mathematical modeling to test case generation
+     Url https://link.springer.com/article/10.1023/A:1018938021528
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Formal+methods"+"Traceability"
+     Title Integrating semi-formal and formal software specification techniques
+     Author ['R Wleringa', 'E Dubois']
+     Venue Information Systems
+     Year 1998
+     Abstract Finally, within the project, traceability links were established among the various documents (SRD, unstructured sources of information, semi-formal and formal models) and also among different versions of these documents  3.3. The Magic Square and Traceability
+     Url https://www.sciencedirect.com/science/article/pii/S0306437998000076
+

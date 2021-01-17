@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"Testing"+"Traceability"
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Designing blockchain-based applications a case study for imported product traceability
+     Author ['X Xu', 'Q Lu', 'Y Liu', 'L Zhu', 'H Yao', 'AV Vasilakos']
+     Venue Future Generation …
+     Year 2019
+     Abstract The traceability company offer various traceability services including factory examination, sample testing, product checking, on-site loading supervision or sealing. The traceability company uses Sample Test Management module to manage the results of the sample testing
+     Url https://www.sciencedirect.com/science/article/pii/S0167739X18314298
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Application/service event root cause traceability causal and impact analyzer
+     Author ['JK Chaar', 'JP Huchel', 'TA Jobson Jr']
+     Venue US Patent …
+     Year 2013
+     Abstract Application/service event root cause traceability causal and impact analyzer. Download PDF  8375370B2 US 17818508 A US17818508 A US 17818508A US 8375370 B2 US8375370 B2 US 8375370B2 Authority US United States Prior art keywords software factory work work
+     Url https://patents.google.com/patent/US8375370B2/en
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Adaptable blockchain-based systems: A case study for product traceability
+     Author ['Q Lu', 'X Xu']
+     Venue IEEE Software
+     Year 2017
+     Abstract information stored in the block- chain. It can't directly access the states of external systems (for ex- ample, testing results and product geolocations)  The factory contract contains code fragments representing differ- ent traceability services
+     Url https://ieeexplore.ieee.org/abstract/document/8106871/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Recovering traceability links between code and documentation
+     Author ['G Antoniol', 'G Canfora', 'G Casazza']
+     Venue IEEE transactions on …
+     Year 2002
+     Abstract This is helpful to assess the completeness of an implementation with respect to stated requirements, to devise complete and comprehensive test cases, and to infer requirement coverage from structure coverage during testing. Traceability links between requirements and
+     Url https://ieeexplore.ieee.org/abstract/document/1041053/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Traceability of food products: General framework and experimental evidence
+     Author ['A Regattieri', 'M Gamberi', 'R Manzini']
+     Venue Journal of food engineering
+     Year 2007
+     Abstract was no real international agreement on either the principles of GMO or the testing methods and  So a project to develop systematic traceability was set up and sponsored by CFPR (Consorzio di  the whole cheese is transferred to the last actor in the chain, the packaging factory
+     Url https://www.sciencedirect.com/science/article/pii/S0260877406006893
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Recovering traceability links between unit tests and classes under test: An improved method
+     Author ['A Qusef', 'R Oliveto', 'A De Lucia']
+     Venue 2010 IEEE International …
+     Year 2010
+     Abstract totalNoOfRows, list.size()); assertEquals(lengthOfRowWithBitKey, detailedRow.length); assertEquals(BitKey.Factory.makeBitKey(0  asked to three PhD students to manually recover the traceability links  a good background on development techniques and unit testing, they were
+     Url https://ieeexplore.ieee.org/abstract/document/5609581/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Perspectives on traceability in food manufacture
+     Author ['T Moe']
+     Venue Trends in Food Science & Technology
+     Year 1998
+     Abstract Engineer 66, 22-25 Google Scholar. 4 KG AndersonRegulations and Factory Enforcement Arising  Efficiency and Quality by Coupling Quality Assurance/Quality Control Testing and Process  D., DeVries, G. and Edwards, M. (1995) 'Towards Requirements Traceability Models' in
+     Url https://www.sciencedirect.com/science/article/pii/S0924224498000375
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Alignment of requirements specification and testing: A systematic mapping study
+     Author ['ZA Barmi', 'AH Ebrahimi', 'R Feldt']
+     Venue … on Software Testing …
+     Year 2011
+     Abstract on functional requirements. The map summarizes the 35 relevant papers found and discuss them within six major sub categories with model-based testing and traceability being the ones with most prior results.. 1. Introduction
+     Url https://ieeexplore.ieee.org/abstract/document/5954452/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title A RFID-enabled traceability system for the supply chain of live fish
+     Author ['YC Hsu', 'AP Chen', 'CH Wang']
+     Venue 2008 IEEE International …
+     Year 2008
+     Abstract Some fish are sent to the process factory to be processed as fresh fish product on the  These records in the aquaculture farms would be fed forward to the traceability system. 2) The inspectors record the testing report: The third party inspection company performs the testing the
+     Url https://ieeexplore.ieee.org/abstract/document/4636124/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Towards industrial internet of things: Crankshaft monitoring, traceability and tracking using RFID
+     Author ['DMS Velandia', 'N Kaur', 'WG Whittow']
+     Venue Robotics and Computer …
+     Year 2016
+     Abstract This action may help prevent damage caused to factory equipment hence improving tool life and  This paper presents results of testing on-metal RFID tags that have been proposed  For the monitoring, traceability and tracking of crankshafts throughout the relevant machining and
+     Url https://www.sciencedirect.com/science/article/pii/S0736584516300576
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Review of Traceability Models for Software Testing Processes
+     Author ['M Gills']
+     Venue _669
+     Year 2003
+     Abstract Page 82. Marlins Gills. Review of Traceability Models for Software Testing Processes 81 every test level-some may have very specific ones  For example, a unit test may be called a component test, but acceptance testing may be subdivided as factory acceptance testing and
+     Url http://dspace.lu.lv/dspace/bitstream/handle/7/5298/Zinatniskie_raksti_669_sej_Datorzinatne_un_informacijas_2004_sn263377.pdf?sequence=1&isAllowed=y#page=81
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Best practices for automated traceability
+     Author ['J Cleland-Huang', 'B Berenbach', 'S Clark', 'R Settimi']
+     Venue Computer
+     Year 2007
+     Abstract classes.6 The second data set represents an event-based traceability (EBT) system that includes 54 requirements and 60 classes.5 The third data set, provided by Siemens Logistics and Automation, represents a system for automating the layout of product lines in a factory
+     Url https://ieeexplore.ieee.org/abstract/document/4249808/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Guided semi-automatic system testing in factory automation
+     Author ['S Ulewicz', 'B Vogel-Heuser']
+     Venue 2016 IEEE 14th International …
+     Year 2016
+     Abstract applicable in this domain, manual testing currently is the prevalent approach for testing factory automation systems. Due to this and scarce resources during testing, this results in varying test quality as well as minimal documentation. Reproducibility and traceability of performed
+     Url https://ieeexplore.ieee.org/abstract/document/7819148/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Traceability from a European perspective
+     Author ['F Schwägele']
+     Venue Meat science
+     Year 2005
+     Abstract whole consignment of products being recalled unnecessarily or even lead to a factory shutdown  One of the most important but widely unresolved issues in food traceability is to  used for fermented, Hungarian style salami, where possible tracer techniques include testing for lipid
+     Url https://www.sciencedirect.com/science/article/pii/S0309174005000938
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Developing WSN-based traceability system for recirculation aquaculture
+     Author ['L Qi', 'J Zhang', 'M Xu', 'Z Fu', 'W Chen', 'X Zhang']
+     Venue Mathematical and Computer …
+     Year 2011
+     Abstract Traceability labels attached on packages should be exactly the same with the virtual one  With the support of the project partner: TAU, the aquaculture factory located in Binhai District, Tianjin is selected for the system testing and evaluation, the factory has three main
+     Url https://www.sciencedirect.com/science/article/pii/S0895717710004231
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Goal-centric traceability: Using virtual plumblines to maintain critical systemic qualities
+     Author ['J Cleland-Huang', 'W Marrero']
+     Venue IEEE Transactions on …
+     Year 2008
+     Abstract environmental changes are introduced, existing regression testing techniques are primarily designed to test the impact of change upon system functionality rather than to evaluate how it might affect more global qualities. The concept of using goal-centric traceability to establish
+     Url https://ieeexplore.ieee.org/abstract/document/4553719/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Modelling New Zealand Dairy Production: The Impact of Traceability Between the Farm and the Factory
+     Author ['M Welsh']
+     Venue NA
+     Year 2017
+     Abstract At most one tanker can deliver to the factory in a given time step, so the value of milk in the tanker stage will reduce by CT , the average tanker capacity. Costs associated with testing and traceability are taken out at the factory reception stage 4.4.4 Transporting
+     Url https://ageconsearch.umn.edu/record/269525/files/Melissa%20Welsh%20-%20Traceability.pdf
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Item-level radio-frequency identification for the traceability of food products: application on a dairy product
+     Author ['P Barge', 'P Gay', 'V Merlino', 'C Tortia']
+     Venue Journal of Food Engineering
+     Year 2014
+     Abstract Testing of LF, HF and UHF technologies  In this paper, a complete item-level radio-frequency (RF) traceability system is presented for a high-value, pressed  to the cheese and solutions for automatic identification adapted to handling procedures as implemented in a dairy factory
+     Url https://www.sciencedirect.com/science/article/pii/S0260877413005281
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Using tool integration for improving traceability management testing processes: An automotive industrial experience
+     Author ['D Amalfitano', 'V De Simone', 'RR Maietta']
+     Venue Journal of Software …
+     Year 2019
+     Abstract This section describes how we applied the approach presented in Section 3 for improving the traceability management of the MIL/SIL software testing process performed by the FCA EMEA (Europe, Middle East, and Africa) Software Factory
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2171
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title A structured approach to the design and simulation-based testing of factory automation systems
+     Author ['E Carpanzano', 'A Ballarino']
+     Venue Proceedings of the IEEE …
+     Year 2002
+     Abstract context, the definition of development methodologies that support the structured design and testing of the  fact, because of the involved complexity in the design of a factory automation system  complex automation systems in an easy and safe way, to maintain traceability along the
+     Url https://ieeexplore.ieee.org/abstract/document/1026062/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Indian perspective in food traceability: A review
+     Author ['K Dandage', 'R Badia-Melis', 'L Ruiz-García']
+     Venue Food Control
+     Year 2017
+     Abstract Trustea and Rain Forest Alliance (RFA) certifications, which are mandatory for all tea manufacturers in order to set up the transparency, reliable supplier of tea and traceability in both domestic as well as overseas market, but nevertheless only one tea factory has obtained all
+     Url https://www.sciencedirect.com/science/article/pii/S0956713516303668
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Traceability and risk analysis strategies for addressing counterfeit electronics in supply chains for complex systems
+     Author ['D DiMase', 'ZA Collier', 'J Carlson', 'RB Gray Jr']
+     Venue Risk …
+     Year 2016
+     Abstract Capital equipment changes may be necessary on the factory floor to automate recording of lot/date  material is acquired from brokers and independent distributors in critical applications, the forward traceability may need to link the risk analysis and testing performed to
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12536
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Improving traceability management through tool integration: an experience in the automotive domain
+     Author ['D Amalfitano', 'V De Simone', 'AR Fasolino']
+     Venue Proceedings of the 2017 …
+     Year 2017
+     Abstract we focused on the Model In the Loop (MIL) testing pro- cess performed by FCA EMEA SW Factory, the unit  The ALM stores all the artifacts neces- sary for and produced by the testing process, manages their lifecy- cle and the traceability relationships between artifacts
+     Url https://dl.acm.org/doi/abs/10.1145/3084100.3084101
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Food traceability: New trends and recent advances. A review
+     Author ['R Badia-Melis', 'P Mishra', 'L Ruiz-García']
+     Venue Food control
+     Year 2015
+     Abstract in their paper the concept farm-to-fork traceability with the use of GS1-128 barcode. Since the animal is slaughtered and divided in quarters a barcode is printed and attached to each quarter with information such as carcass number, ear tag number, origin, factory of slaughter
+     Url https://www.sciencedirect.com/science/article/pii/S0956713515002698
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Development of an RFID‐based traceability system: Experiences and lessons learned from an aircraft engineering company
+     Author ['EWT Ngai', 'TCE Cheng', 'K Lai', 'PYF Chai']
+     Venue Production and …
+     Year 2007
+     Abstract In this case, we used Class-0 tags (read only; factory programmed), and readers that  varies and a lot of efforts need to be devoted to hardware evaluation and testing  5. Critical Success Factors of Developing the RFID-based Traceability System The successful implementation
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1937-5956.2007.tb00280.x
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Validity of method for analysing critical traceability points
+     Author ['KM Karlsen', 'P Olsen']
+     Venue Food Control
+     Year 2011
+     Abstract When studying a phenomenon, it is important to choose the appropriate method for testing the research question (Näslund, 2002)  1. Critical Traceability Point Analysis (CTPA  A fish feed factory, three suppliers of ingredients for fish feed (hereafter referred to as suppliers), and a
+     Url https://www.sciencedirect.com/science/article/pii/S0956713511000387
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Development of HW and SW solutions for milk traceability
+     Author ['FM Tangorra', 'M Zaninelli']
+     Venue Computers in Agriculture …
+     Year 2006
+     Abstract Preliminary results showed a fairly good effectiveness of the system in tracing milk production from the stable to the dairy factory nailing the traceability system implemented by Fontina Consortium. Keywords  Testing of the milk traceability system
+     Url https://elibrary.asabe.org/abstract.asp?aid=21920
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Test-to-code traceability: Why and how?
+     Author ['A Qusef']
+     Venue 2013 IEEE Jordan Conference on Applied Electrical …
+     Year 2013
+     Abstract 1) ConnectedGraphFactory factory = ConnectedGraphFactory.newFactory(); (2) ConnectedGraph graph = factory.newGraph(); (3  engineering of test cases for selective regression testing,” in Proceedings  [8] BV Rompaey and S. Demeyer, “Establishing traceability links between
+     Url https://ieeexplore.ieee.org/abstract/document/6716450/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title TIRT: A traceability information retrieval tool for software product lines projects
+     Author ['WB Santos', 'ES de Almeida']
+     Venue 2012 38th Euromicro …
+     Year 2012
+     Abstract core assets traceability. H0: μ effort(time saved) with TIRT <= 1 H1: μ precision TIRT >= 50% H2: μ recall TIRT >= 50% 5http://www.pitang.com/ - Pitang is the Software Factory of CESAR, offering system development, consulting, software factory, testing factory, legacy migration
+     Url https://ieeexplore.ieee.org/abstract/document/6328134/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title RFID-enabled track and traceability in job-shop scheduling environment
+     Author ['J Chongwatpol', 'R Sharda']
+     Venue European Journal of Operational Research
+     Year 2013
+     Abstract in the study focuses on a four-echelon supply chain including a factory, a warehouse  In the next section, we propose a scheduling rule improving track and traceability of WIPs  facilitate scheduling tasks in this shop-floor operation, improve bottlenecks at testing workstation, and
+     Url https://www.sciencedirect.com/science/article/pii/S0377221713000362
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title RFID and WSNs for traceability of agricultural goods from farm to fork: electromagnetic and deployment aspects on wine test-cases
+     Author ['L Catarinucci', 'I Cuinas', 'I Exposito']
+     Venue SoftCOM 2011, 19th …
+     Year 2011
+     Abstract The RFID Farm to Fork project was born with the aim of testing the ability of  In Section 4, the block diagram of the whole traceability system is sketched and concisely  to the final consumer at supermarkets, including all intermediate stages: transports, factory processes, storage
+     Url https://ieeexplore.ieee.org/abstract/document/6064437/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Maintaining traceability at remote sites with process metrology
+     Author ['R Kletke', 'W Wong']
+     Venue IMTC/99. Proceedings of the 16th IEEE …
+     Year 1999
+     Abstract Establishing traceability on the factory floor or other remote sites can be a challenge  In 1988, Fluke implemented a quality method called Process Metrology which provides the traceability for these test consoles at the factory annex
+     Url https://ieeexplore.ieee.org/abstract/document/777029/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title A study to support agile methods more effectively through traceability
+     Author ['A Espinoza', 'J Garbajosa']
+     Venue Innovations in Systems and Software …
+     Year 2011
+     Abstract Traceability types must be featured by a strong semantics; this way, testing techniques may become more accurate, reliable and faster. To be both useful and usable, a traceability system relies, to a great extent, on a methodical trace acquisition and main- tenance process
+     Url https://link.springer.com/content/pdf/10.1007/s11334-011-0144-5.pdf
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Integration of RFID, wireless sensor networks, and data mining in an e-pedigree food traceability system
+     Author ['G Alfian', 'J Rhee', 'H Ahn', 'J Lee', 'U Farooq']
+     Venue Journal of Food …
+     Year 2017
+     Abstract 9900 + RFID Reader, and installed it in the entry/exit gate of the factory cold storage  to predict the missing sensor data, ensuring the proposed e-pedigree food traceability system contains  was split into two parts, with approximately 60% for training and the remainder for testing
+     Url https://www.sciencedirect.com/science/article/pii/S0260877417302066
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Reconstructing requirements coverage views from design and test using traceability recovery via LSI
+     Author ['M Lormans', 'A Van Deursen']
+     Venue … 3rd international workshop on Traceability …
+     Year 2005
+     Abstract Test pass coverage; A system test is an internal test, often called factory test, to  set that can be used to monitor the progress in requirements development, design, and testing  1. Defining the underlying traceability model; 2. Identifying the concepts from the traceability model in
+     Url https://dl.acm.org/doi/abs/10.1145/1107656.1107665
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Granularity and its role in implementation of seafood traceability
+     Author ['KM Karlsen', 'B Dreyer', 'P Olsen', 'EO Elvevoll']
+     Venue Journal of Food Engineering
+     Year 2012
+     Abstract A fish feed factory (FeedCo), three suppliers of ingredients for fish feed (IngredCo), and a sea-based salmon  LandCo, DistriCo, and SuperMa, and applying the net-centric solution; and (2) implementing internal traceability: developing and testing practical solutions
+     Url https://www.sciencedirect.com/science/article/pii/S0260877412001677
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title An innovative and low-cost gapless traceability system of fresh vegetable products using RF technologies and EPCglobal standard
+     Author ['L Mainetti', 'L Patrono', 'ML Stefanizzi']
+     Venue Computers and electronics …
+     Year 2013
+     Abstract The agronomist reads the NFC tag assigned to the soil portion, and the UHF RFID tag assigned to the pallet, then he save the coupling into the EPCIS. At this time, the pallet is ready to be moved to the transformation factory. 3.5. Traceability in the transformation factory
+     Url https://www.sciencedirect.com/science/article/pii/S0168169913001658
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title A readability analysis for QR code application in a traceability system
+     Author ['L Tarjan', 'I Šenk', 'S Tegeltija', 'S Stankovski']
+     Venue … and Electronics in …
+     Year 2014
+     Abstract In the development of a food product traceability system for processing QR codes, the ZXing software library was used (ZXing, 2013a)  The model for readability testing of QR codes is set so that the codes are read by smartphones with a general application for barcode reading
+     Url https://www.sciencedirect.com/science/article/pii/S0168169914002142
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Tracking and traceability solution using a novel material handling system
+     Author ['A Mousavi', 'M Sarhadi', 'S Fawcett', 'S Bowles']
+     Venue Innovative Food Science …
+     Year 2005
+     Abstract A typical boning hall factory with annual production rate of over 10 million kg and average yield of 76  6. Control equipment mounting and testing  the shopfloor to the higher levels of information system where data analysis and user interfaces provide traceability and operational
+     Url https://www.sciencedirect.com/science/article/pii/S1466856404001055
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Buyer–supplier relationship's influence on traceability implementation in the vegetable industry
+     Author ['LA Rábade', 'JA Alfaro']
+     Venue Journal of Purchasing and Supply Management
+     Year 2006
+     Abstract and observations, and can be used to accomplish descriptions, theory development and hypotheses testing  Apart from the fact that traceability is indispensable for food safety, the firm uses it as a  the safety period, and the best moment for delivery of the product to the factory
+     Url https://www.sciencedirect.com/science/article/pii/S1478409206000240
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Maintaining In-Situ Traceability on the Factory Floor with Process Metrology
+     Author ['N Mason']
+     Venue Measurement Science Conference
+     Year 2008
+     Abstract MAINTAINING IN-SITU TRACEABILITY ON THE FACTORY FLOOR WITH PROCESS METROLOGY  to add the proper correction value to the raw measured value when testing an instrument  idea to solve the problem of calibrating high accuracy references on the factory floor
+     Url https://cal.equipment/doc/Fluke/8846A/9010156_ENG_A_W.PDF
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Design and realization of vegetable traceability system based on web
+     Author ['H LI', 'Z FU', 'X FU', 'L ZHANG']
+     Venue Jiangsu Journal of Agricultural …
+     Year 2008
+     Abstract ZHANG Bing,WANG Rui(Shenzhen Agricultural Products Supervision and Testing Station,Shenzhen  CAS,Beijing 100101,China);Design and Implementation of Produce Traceability System Based on  Completion of Digital Tracing System for the Safety of Factory Pork Production
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JSNB200805032.htm
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title An agile approach to capturing requirements and traceability
+     Author ['C Lee', 'L Guadagno', 'X Jia']
+     Venue … International Workshop on Traceability …
+     Year 2003
+     Abstract mechanisms as a means to support traceability recording in other areas of development (eg design, coding, and testing.) Finally, the  [25] Macfarlane, I., and Reilly, I., “Requirements Traceability in an  55-64. [28] Herzum, P. and Sims, O., Business Component Factory, Wiley and
+     Url https://www.researchgate.net/profile/Xiaoping_Jia2/publication/228776123_An_Agile_Approach_to_Capturing_Requirements_and_Traceability/links/02e7e522e1b9f79dfc000000/An-Agile-Approach-to-Capturing-Requirements-and-Traceability.pdf
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title A RFID web-based infotracing system for the artisanal Italian cheese quality traceability
+     Author ['P Papetti', 'C Costa', 'F Antonucci', 'S Figorilli', 'S Solaini']
+     Venue Food Control
+     Year 2012
+     Abstract The information on quality parameters can be associated with the electronic traceability, as in the  The aim of the present work was the experimental testing of a system which  wheels of “Caciottina massaggiata di Amaseno” were produced in the cheese factory “San Lorenzo in
+     Url https://www.sciencedirect.com/science/article/pii/S0956713512001557
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Software testing process in a test factory-from ad hoc activities to an organizational standard
+     Author ['RM de Castro Andrade', 'I de Sousa Santos']
+     Venue International …
+     Year 2017
+     Abstract With this belief in mind, we have been working in the software testing process definition in a test  and competencies should be clearly de- fined in both parties: the test factory and the  the control and tracking of the correction of bugs detected should be made to ensure traceability
+     Url https://www.scitepress.org/papers/2017/63333/63333.pdf
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Realising the potential of traceability: a case study research on usage and impacts of product traceability
+     Author ['I Töyrylä']
+     Venue NA
+     Year 1999
+     Abstract In his example at Nippondenso Australia, a traceability system has become a factory management system where daily production can be planned, machine/line utilisation analysed and internal or external parts shortages notified. Page 16. 16 2.1.1.6 Security applications
+     Url https://aaltodoc.aalto.fi/handle/123456789/2506
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Activity-based software traceability management method and apparatus
+     Author ['GM Clemm', 'AR Tate']
+     Venue US Patent 7,716,649
+     Year 2010
+     Abstract 07-23, 2013-02-12, International Business Machines Corporation, Application/service event root cause traceability causal and impact analyzer. US8418126B2 (en), 2008-07-23, 2013-04-09, International Business Machines Corporation, Software factory semantic reconciliation of
+     Url https://patents.google.com/patent/US7716649B2/en
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Designing for health: a methodology for integrated diagnostics/prognostics
+     Author ['R Beshears', 'L Butler']
+     Venue IEEE Autotestcon, 2005.
+     Year 2005
+     Abstract methodology, proposed in this paper, connects functionality, failure modes and diagnostics/ prognostics under one umbrella providing a conduit for tight traceability from requirements through design, analysis, integration, verification and validation, factory testing, and fielding
+     Url https://ieeexplore.ieee.org/abstract/document/1609108/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Consistency verification and quality assurance (CVQA) traceability framework for SaaS
+     Author ['S Singh', 'I Chana']
+     Venue 2013 3rd IEEE International Advance …
+     Year 2013
+     Abstract Testing and new changes did not adversely affect other parts of the system with Regression Testing  [15] Nicolas Anquetil et al., A model-driven traceability framework for  [26] Fitzgerald, A., Enterprise resource planning (ERP)-breakthrough or buzzword, Factory 2000, 1992
+     Url https://ieeexplore.ieee.org/abstract/document/6506805/
+
+
+     Search term "Factory"+"Testing"+"Traceability"
+     Title Scotch: Test-to-code traceability using slicing and conceptual coupling
+     Author ['A Qusef', 'G Bavota', 'R Oliveto']
+     Venue 2011 27th IEEE …
+     Year 2011
+     Abstract 1) ConnectedGraphFactory factory = ConnectedGraphFactory.newFactory(); (2) ConnectedGraph graph = factory.newGraph(); (3  eXVantage eXtreme Visual-Aid Novel Testing and Generation tools  However, an explicit and complete traceability matrix for this system is not
+     Url https://ieeexplore.ieee.org/abstract/document/6080773/
+

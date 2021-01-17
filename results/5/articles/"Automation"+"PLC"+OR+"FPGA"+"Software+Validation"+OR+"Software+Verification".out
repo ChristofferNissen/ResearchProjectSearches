@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract This situation makes PLCs a key artifact in real-time automation and control processes like railway interlocking systems [30, 89], nuclear  These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking practices in this
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification for System on a Chip using a C/C++ Simulator and FPGA Emulator
+     Author ['Y Nakamura']
+     Venue … Symposium on VLSI Design, Automation and …
+     Year 2006
+     Abstract System-on-a-chip (SoC) refers to a system designed by integrating IP (intellectual property) cores such as CPUs, DSPs, and various types of function. Recently, since a complex SoC has more than 10 CPU cores, the software development term of such complex SoCs is
+     Url https://ieeexplore.ieee.org/abstract/document/4027514/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The methods of FPGA software verification
+     Author ['D Zheng', 'Y Wang', 'Z Xueyi']
+     Venue … Computer Science and Automation …
+     Year 2011
+     Abstract With the FPGA widely applied in embedded system, more and more quality problems related to FPGA began to expose. The verification efficiency of FPGA software needs to be improved urgently. This paper started with the concept of FPGA software, proposing two methods
+     Url https://ieeexplore.ieee.org/abstract/document/5952639/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for programmable logic controllers
+     Author ['R Huuck']
+     Venue NA
+     Year 2003
+     Abstract Nowadays, PLCs are extensively used in the field of automation and they are integrated into much larger environments, requiring communication  the subsequent Chap- ter 2. It includes and extensive overview of publications in the area of PLC (software) verification and points
+     Url https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00000726/d726.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant [J]
+     Author ['Y XIANG', 'D WANG', 'S LIN']
+     Venue Computer Knowledge and Technology
+     Year 2012
+     Abstract Research on Human-machine Interface (HMI) Software Verification and Validation for Nuclear Power Plant  Normal University,Mianyang 621000,China);Measure and Control System of Pressure Tester Based on PLC[J];Ordnance Industry Automation;2008-07
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DNZS201218092.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test Automation in Complex Control Law Level a Software Verification and Validation
+     Author ['KM Taranatha', 'D Shetty', 'NA Kumar', 'SC Nadavali']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract A PLC- based automation represents a replacement for the hardware relay and timer logic found in traditional control panels  II. PLC SOFTWARE VERIFICATION METHODS A. Using formal approaches in verification of PLC software
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A toolset for model checking of PLC software
+     Author ['A Pakonen', 'T Mätäsniemi', 'J Lahtinen']
+     Venue … & Factory Automation …
+     Year 2013
+     Abstract 8] J. Yoo, S. Cha, E. Jee, “Verification of PLC Programs Written  9] R. Huuck, Software Verification for Programmable  Formal Modeling of Timed Function Blocks for the Automatic Verification of Ladder Diagram Programs”, The 4th International Conference on Automation of Mixed
+     Url https://ieeexplore.ieee.org/abstract/document/6648065/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An automated software verification tool for model-based development of embedded systems with simulink®
+     Author ['J Börcsök', 'W Chaaban', 'M Schwarz']
+     Venue … and Automation …
+     Year 2009
+     Abstract in-the-loop (SiL), Model-in-the-Loop (MiL), Hardware-in-the-Loop (HiL), Software Verification, Programmable Logical  the behaviour of C-code on the final target that might be a controller or a PLC  of such a test tool has been a part of an Matlab®/Simulink® automation project at
+     Url https://ieeexplore.ieee.org/abstract/document/5348445/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling and verification of PLC-based systems programmed with ladder diagrams
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko', 'V Vyatkin']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The work (Heiner and Menzel, 1998) describes general steps for PLC software verification and validation that is depicted I This work was supported by National Technology Agency of Finland (TEKES) and industrial partners (FlexLink Automation Oy, Metso Panelboard, Omron
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361165
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Implementation of PLC Based Industrial Application Prototypes
+     Author ['KA Gupta', 'N Armani', 'TC Manjunath']
+     Venue Indian Journal of Science …
+     Year 2017
+     Abstract Software validation and hardware implementation used for demonstrating the ease of operation with this control along with tuning of the entire system for the three applications are presented  Keywords: automatic control / Industrial Automation / Ladder Logic / Plc. / Prototypes
+     Url https://www.scilit.net/article/eff7812405cbe7d23408f6795014b7ca
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbed for Model-based Verification of Cyber-physical Production Systems.
+     Author ['CJ Budnik', 'S Eckl', 'M Gario']
+     Venue ARCH@ CPSWeek
+     Year 2017
+     Abstract Future industrial automation is enabling new production processes where products will drive their production by cyber-physical production systems (CPPS) without the need  This makes PLC software verification as difficult as more traditional (eg, C) software verification problems
+     Url https://wvvw.easychair.org/publications/download/cssx
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling and verification of PLC-based systems programmed with ladder diagrams
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko', 'V Vyatkin']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The work (Heiner and Menzel, 1998) describes general steps for PLC software verification and validation that is depicted I This work was supported by National Technology Agency of Finland (TEKES) and industrial partners (FlexLink Automation Oy, Metso Panelboard, Omron
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361165
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Development of virtual simulator for visual validation of PLC program
+     Author ['CM Park', 'SM Bajimaya', 'SC Park']
+     Venue … and Automation and …
+     Year 2006
+     Abstract [5] SWCheon, JSLee, KCKwon, DHKim, and H.Kim, “The Software Verification and Validation  [6] D.Thapa, S.Dangol, CMPark and GNWang, “Verification of PLC Program using  IML)”, Proceedings of the International Conference on Sensing, Computing and Automation, 2006
+     Url https://ieeexplore.ieee.org/abstract/document/4052679/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Practical Application of NUREG/CR-6430 Software Safety Hazard Analysis to FPGA Software
+     Author ['S Jung', 'J Yoo', 'YJ Lee']
+     Venue Reliability Engineering & System Safety
+     Year 2020
+     Abstract is fully automated by the FPGA logic synthesis tools and commercial electronic design automation (EDAs) tools  to each requirement element differ slightly from the one against the PLC-based software requirements specifications because FPGA software requirement
+     Url https://www.sciencedirect.com/science/article/pii/S0951832020305305
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A model-based method to develop PLC software for machine tools
+     Author ['MF Zaeh', 'C Poernbacher', 'J Milberg']
+     Venue CIRP annals
+     Year 2005
+     Abstract Unlike existing approaches to developing automation systems, modeling strictly distinguishes between machine hardware and  5 SOFTWARE VALIDATION AND OPTIMIZATION Until now, implemented PLC programs have usually been verified and optimized using an actual
+     Url https://www.sciencedirect.com/science/article/pii/S0007850607601255
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing: 7th International Haifa Verification Conference, HVC 2011, Haifa, Israel, December 6-8, 2011, Revised …
+     Author ['K Eder', 'J Lourenҫo', 'O Shehory']
+     Venue NA
+     Year 2012
+     Abstract CBMC promotes the industrial adoption of formal software verification more than any other tool  our sponsors, IBM, Cadence, Mentor Graph- ics, and Jasper Design Automation, for their  NN Hung, and Xiaoyu Song HAVEN: An Open Framework for FPGA-Accelerated Functional
+     Url https://books.google.com/books?hl=en&lr=&id=ASC6BQAAQBAJ&oi=fnd&pg=PR2&dq=%22Automation%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=K4PKge1faw&sig=z2CPuS0qtQ0YrVq2uzmHxIRCRd4
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The Role of Modular Programming in Industrial Control System
+     Author ['RT Varun']
+     Venue NA
+     Year 2015
+     Abstract In future the stress is put on the PLC software verification which further extends the understanding of the control system reliability, verification and testing. REFERENCES [1] Groove, MP , Automation, production systems and computer-integrated manufacturing, Prentice Hall
+     Url https://www.academia.edu/download/54836201/IRJET-V2I9195.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract of FPGA) is fully automated by FPGA logic synthesis tools and commercial Electronic Design Automation (EDA) tools  The FPGA EDAs such as Xilinx ISE Design Suit, Altera Quartus 2, and Microsemi Libero SoC  Fig. 1. A typical software development life-cycle for PLC platforms
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Menhir: Generic High-Speed FPGA Model-Checker
+     Author ['E Fournier', 'C Teodorov']
+     Venue 2020 23rd Euromicro …
+     Year 2020
+     Abstract Among formal methods, model-checking offers a high-level of automation and can  Two preliminary studies on FPGA model-checking show a high-performance increase, thanks to  modular hardware model-checker, inspired by the architecture of software verification frameworks
+     Url https://ieeexplore.ieee.org/abstract/document/9217803/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Verification of Restart-Robust Industrial Control Software
+     Author ['D Bohlender', 'S Kowalewski']
+     Venue International Conference on Integrated …
+     Year 2018
+     Abstract we formalise the restart behaviour for delayed and immediate write semantics, and sketch its integration with established approaches for PLC software verification,. 2  Due to the safety critical nature of industrial automation, the use of formal verification is advisable and many
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_4
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Plc based desfas in nuclear power plant
+     Author ['S Kim', 'JB Han']
+     Venue … IEEE Conference on Industrial Automation …
+     Year 1995
+     Abstract The application of the programmable logic controller(PLC) in DESFAS requires faultless hardware and software  In addition, the evaluation and simulation of programmed function logic was accomplished for software verification and validation(S/W V&V)
+     Url https://ieeexplore.ieee.org/abstract/document/527642/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract 17 2.3 Secure Software Verification Methods and Software Code Review Tools 20 2.4 Limitations of SCADA/PLC Security Research  and output cards. Section 2.1.3 gives an overview of SCADA systems and their relation to PLC's and the automation process. 9
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Compositional verification of PLC software using horn clauses and mode abstraction
+     Author ['D Bohlender', 'S Kowalewski']
+     Venue IFAC-PapersOnLine
+     Year 2018
+     Abstract Since PLCs are tailored to industrial automation, they often operate in environments which  To approach these requirements, formal verification of the PLC software is desired and  verification, which is why hardware-in-the-loop testing is complementary to software verification
+     Url https://www.sciencedirect.com/science/article/pii/S2405896318306669
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A hierarchy framework on compositional verification for PLC software
+     Author ['L Xiao', 'M Li', 'M Gu', 'J Sun']
+     Venue 2014 IEEE 5th International …
+     Year 2014
+     Abstract RELATED WORK ON SOFTWARE VERIFICATION To ensure software correctness, testing, formal or mathematic and  These methods don't have high automation degree and require a lot of  D. Verification Technology on PLC Program The above-mentioned technologies can be
+     Url https://ieeexplore.ieee.org/abstract/document/6933545/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation framework for the verification of PLC programs in automobile industries
+     Author ['LJ Koo', 'CM Park', 'CH Lee', 'SC Park']
+     Venue International Journal of …
+     Year 2011
+     Abstract In modern manufacturing, especially in the automobile industry, programmable logic controllers (PLCs) are well-adapted to a range of automation tasks as the core of sequence control. A PLC is an industrial computer that is controlled by a program with input and output units
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207543.2010.492404
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Generic ILP versus specialized 0-1 ILP: An update
+     Author ['FA Aloul', 'A Ramani', 'IL Markov']
+     Venue Proceedings of the 2002 …
+     Year 2002
+     Abstract solvers for the Boolean Satisfiability (SAT) prob- lem have many applications in areas such as hardware and software verification, FPGA routing, planning  aspect of our comparison is evaluation on 0-1 ILP benchmarks that originate in Electronic Design Automation (EDA), but
+     Url https://dl.acm.org/doi/abs/10.1145/774572.774638
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An integrated software testing framework for FPGA-based controllers in nuclear power plants
+     Author ['J Kim', 'ES Kim', 'J Yoo', 'YJ Lee', 'JG Choi']
+     Venue Nuclear Engineering and …
+     Year 2016
+     Abstract FPGAs) [3]. The nuclear industry is now eagerly researching FPGA-based digital I&Cs [4], [5], [6] to replace PLC-based systems  This is a manual verification performed by experienced engineers and often constitutes a large part of the entire FPGA software verification process
+     Url https://www.sciencedirect.com/science/article/pii/S1738573316000048
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for embedded systems
+     Author ['R Huuck']
+     Venue MMAR
+     Year 2002
+     Abstract SOFTWARE VERIFICATION FOR EMBEDDED SYSTEMS  Nowadays, PLCs are extensively used in the Łeld of automation, and they are integrated into much larger  The programming languages for PLC software are deŁned in the IEC 61131-3 standard [7]. These languages
+     Url https://www.researchgate.net/profile/Ralf_Huuck/publication/2892315_Software_Verification_for_Embedded_Systems/links/0c9605271ca70057c4000000.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Static analysis techniques for robotics software verification
+     Author ['A Cortesi', 'P Ferrara', 'N Chaki']
+     Venue IEEE ISR 2013
+     Year 2013
+     Abstract 2000. "Automatic Formal Verification of DSP Software." Proceedings of the 37th Design Automation Conference , pp. 130-135  2008. “Automatic Software Verification for Robotics”  2001. "Formal Verification of PLC-Programs Generated from Signal Interpreted Petri Nets"
+     Url https://ieeexplore.ieee.org/abstract/document/6739742/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title ODA software verification
+     Author ['P SU', 'K CHEN', 'Z CAO']
+     Venue Electronic Product Reliability and …
+     Year 2005
+     Abstract ODA software verification  3, Li Rong Su Pengyi;New Generation FPGA Logic Device ispXPGA and Its Application[J];International Electronic  Electronic and Information Engineering , SCUFN, Wuhan 430074, China;Selection Form Analysis of Electronic Design Automation Tools[J
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DZKH200502018.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An Architecture for Soft-Commissioning
+     Author ['M Vorderwinkler', 'T Eder']
+     Venue Modelling and …
+     Year 1999
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Stimuli generator for testing processes in VHDL
+     Author ['V Jusas', 'T Neverdauskas']
+     Venue 2014 NORCHIP
+     Year 2014
+     Abstract Control, vol. 37, no. 4, pp. 265–274, 2008. [2] Ding Zheng, Wang Yichen, and Zou Xueyi, “The methods of FPGA software verification,” presented at the Computer Science and Automation Engineering (CSAE), 2011 IEEE International Conference on, 2011, vol. 3, pp. 86–89
+     Url https://ieeexplore.ieee.org/abstract/document/7004744/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC BASED WASTE WATER TREATMENT AND FIRE ALARM SYSTEM
+     Author ['MN Shruthi', 'DS Suresh', 'CJ Rajendra']
+     Venue NA
+     Year NA
+     Abstract [6] Raj Shah, Aditya Vadalkar, Omkar Bengrut, Prof.Mrs.MPSardey, Automation of Water  [11] M.Aarthi, L.DhivyaBharathi, S.Giridharan, E.Jayasri, P.Brindha, PLC Based Water Recycling In  SWCheon, JSLee, KCKwon, DHKim, and H.Kim, The Software Verification and Validation
+     Url http://pnrsolution.org/Datacenter/Vol4/Issue5/21.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Towards Quality Assurance under Developing Safety Important Systems Software for Nuclear Power Plants
+     Author ['EP Jharko']
+     Venue 2018 International Russian Automation Conference …
+     Year 2018
+     Abstract on Control, Instrumentation, and Automation, pp. 78–83, 2017. [3] Restu Maeran, Joyce Kemunto Mayaka, and Jae Cheon Jung, “Software verification process and methodology for the development of FPGA- based engineered safety features system Author links open overlay
+     Url https://ieeexplore.ieee.org/abstract/document/8501777/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A verification framework for FBD based software in nuclear power plants
+     Author ['J Yoo', 'S Cha', 'E Jee']
+     Venue 2008 15th Asia-Pacific Software …
+     Year 2008
+     Abstract Section 3 shows the software verification framework for FBD software in nuclear power plants  2 The FBD in Fig. 2 was developed using Concept ver. 2.2 XL SR2, a PLC programming assistant tool marketed by Schneider Automation GmbH. 386 Page 3
+     Url https://ieeexplore.ieee.org/abstract/document/4724570/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A fast hardware/software co-verification method for system-on-a-chip by using a C/C++ simulator and FPGA emulator with shared register communication
+     Author ['Y Nakamura', 'K Hosokawa', 'I Kuroda']
+     Venue … Design Automation …
+     Year 2004
+     Abstract be used for hardware verification, and cannot be used for embedded software verification  Architecture for Functional Verification", Proceedings of ACM/IEEE Design Automation Conference (DAC  C/C++ Simulator FPGA Emulator FPGA Size System Speed Conventional Method
+     Url https://dl.acm.org/doi/abs/10.1145/996566.996655
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Implementation of a Real-FPGA-device-oriented SEU Soft Error Assessment Tool
+     Author ['Z Jiacheng']
+     Venue Electronics & Packaging
+     Year 2014
+     Abstract The paper provided a software verification environment that precedes the hardware implementations, which is  Beijing 100083,China;Use of VPR in Design of FPGA Architecture[J  Zhou Yongbin,Yang Jun(School of Mechatronics Engineering and Automation,National University
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DYFZ201406006.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiple Scenario Approach for Pre-Silicon Hardware/Software Co-Verification
+     Author ['M Katona', 'D Djukaric']
+     Venue 2009 First IEEE Eastern …
+     Year 2009
+     Abstract One more approach of ASIC prototyping based on mixed hardware/software verification environment is Hardware  on-a-chip by using a C/C++ simulator and FPGA emulator with shared register communication; Annual ACM IEEE Design Automation Conference, 2004
+     Url https://ieeexplore.ieee.org/abstract/document/5290982/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software V ampersand V methods for digital plant protection system
+     Author ['HJ Kim', 'JB Han', 'CS Chun', 'S Kim']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract To evaluate the software verification and validation methods as well as to verify its system performance capabilities for the upgrade  future nuclear power plants, the prototype Digital Plant, Protection System (DPPS) based on the Programmable Logic Controller (PLC) has been
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:29021555
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Implementation of a Real-FPGA-device-oriented SEU Soft Error Assessment Tool
+     Author ['Z Jiacheng']
+     Venue Electronics & Packaging
+     Year 2014
+     Abstract The paper provided a software verification environment that precedes the hardware implementations, which is  Beijing 100083,China;Use of VPR in Design of FPGA Architecture[J  Zhou Yongbin,Yang Jun(School of Mechatronics Engineering and Automation,National University
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DYFZ201406006.htm
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract article. Formal verification of the FPGA cores. Share on. Authors: Carl Johan Lillieroth profile image Carl Johan Lillieroth  http://www.synplicity.com.]]Google Scholar Google Scholar; {26} VERYSYS DESIGN AUTOMATION. http
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Multiple Scenario Approach for Pre-Silicon Hardware/Software Co-Verification
+     Author ['M Katona', 'D Djukaric']
+     Venue 2009 First IEEE Eastern …
+     Year 2009
+     Abstract One more approach of ASIC prototyping based on mixed hardware/software verification environment is Hardware  on-a-chip by using a C/C++ simulator and FPGA emulator with shared register communication; Annual ACM IEEE Design Automation Conference, 2004
+     Url https://ieeexplore.ieee.org/abstract/document/5290982/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Towards Quality Assurance under Developing Safety Important Systems Software for Nuclear Power Plants
+     Author ['EP Jharko']
+     Venue 2018 International Russian Automation Conference …
+     Year 2018
+     Abstract on Control, Instrumentation, and Automation, pp. 78–83, 2017. [3] Restu Maeran, Joyce Kemunto Mayaka, and Jae Cheon Jung, “Software verification process and methodology for the development of FPGA- based engineered safety features system Author links open overlay
+     Url https://ieeexplore.ieee.org/abstract/document/8501777/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software V ampersand V methods for digital plant protection system
+     Author ['HJ Kim', 'JB Han', 'CS Chun', 'S Kim']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract To evaluate the software verification and validation methods as well as to verify its system performance capabilities for the upgrade  future nuclear power plants, the prototype Digital Plant, Protection System (DPPS) based on the Programmable Logic Controller (PLC) has been
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:29021555
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Mapping multi-million gate SoCs on FPGAs: industrial methodology and experience
+     Author ['H Krupnova']
+     Venue Proceedings Design, Automation and Test in …
+     Year 2004
+     Abstract is working and stable, the mapping on the FPGA platform targeted for the software validation ([3]) can start  From the other side, the FPGA prototype has to be ready as early as Proceedings of the Design, Automation and Test in Europe Conference and Exhibition (DATE'04) 1530
+     Url https://ieeexplore.ieee.org/abstract/document/1269065/
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software V & V methods for digital plant protection system
+     Author ['HJ Kim', 'JB Han', 'CS Chun', 'S Kim', 'KJ Kim']
+     Venue NA
+     Year 1997
+     Abstract DPPS) based on the Programmable Logic Controller (PLC) has been  are briefly presented, and the software design and software verification and validation  REACTORS AND ASSOCIATED PLANTS; REACTOR PROTECTION SYSTEMS; AUTOMATION; COMPUTER CODES
+     Url https://www.osti.gov/biblio/552114
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation based control program verification in an automobile industry
+     Author ['CM Park', 'KY Seong', 'SC Park', 'GN Wang']
+     Venue … Conference on Modeling …
+     Year 2008
+     Abstract The DELMIA Automation V5 enables control engineers to validate their PLC program in the virtual world  [5] SWCheon, JSLee, KCKwon, DHKim, and H.Kim The Software Verification and Validation Process for a PLC-based Engineered Safety Features-Component
+     Url http://www.actapress.com/Abstract.aspx?paperId=32385
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Exploring Real-Time Applications in Hands-On Automation Courses
+     Author ['N He', 'G Allen', 'SS Cameron Johnson']
+     Venue NA
+     Year NA
+     Abstract and modeling techniques in complex real-time automation systems with traditional PLC, PC-based PLC equipment and  Moreover, in order to be compatible with the instruction approach of existing automation courses in which active  Software verification & system integration
+     Url http://www.whavenlabs.com/ASEEConference/html/papers/ASEE-NMWSC2013-0019.pdf
+
+
+     Search term "Automation"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Software verification process and methodology for the develop- ment of FPGA-based engineered safety features  Automation of nuclear power plants – the experience of the ICS RAS, Proceedings of the XII All-Russian Congress on Control Sciences, pp. 4219-4236
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
