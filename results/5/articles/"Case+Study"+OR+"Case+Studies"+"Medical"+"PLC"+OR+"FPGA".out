@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A platform-oblivious approach for heterogeneous computing: A case study with Monte Carlo-based simulation for medical applications
+     Author ['SH Hung', 'MY Tsai', 'BY Huang', 'CH Tu']
+     Venue Proceedings of the 2016 ACM …
+     Year 2016
+     Abstract accelerators, the portability of these schemes is relatively low and raises concerns for medical ap- plications  Particularly for the case of FPGA, it can take a long time for software updates to  As a case study, we choose the high-level programming scheme, OpenCL, and apply it to
+     Url https://dl.acm.org/doi/abs/10.1145/2847263.2847335
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Accelerating fluid registration algorithm on multi-FPGA platforms
+     Author ['J Cong', 'M Huang', 'Y Zou']
+     Venue 2011 21st International Conference …
+     Year 2011
+     Abstract In the clinical applications, medical image reg- istrations on the images taken from  our implementation of the fluid registration algorithm on a multi-FPGA platform Convey  The experience of this case study also identifies further automation steps needed by existing HLS
+     Url https://ieeexplore.ieee.org/abstract/document/6044784/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Parallel FPGA-based all pairs shortest paths for sparse networks: A human brain connectome case study
+     Author ['B Betkaoui', 'Y Wang', 'DB Thomas']
+     Venue … Conference on Field …
+     Year 2012
+     Abstract Page 1. PARALLEL FPGA-BASED ALL PAIRS SHORTEST PATHS FOR SPARSE NETWORKS: A HUMAN BRAIN CONNECTOME CASE STUDY Brahim Betkaoui1, Yu Wang2, David B. Thomas3, Wayne Luk4 1,4Department
+     Url https://ieeexplore.ieee.org/abstract/document/6339247/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Adaptive architecture for medical application case study: evoked Potential detection using matching poursuit consensus
+     Author ['T Frikha', 'A Hadriche', 'R Khemakhem']
+     Venue … Systems Design and …
+     Year 2015
+     Abstract Case study: evoked potential detection using matching poursuit consensus  In this paper we will implement the described application on FPGA  The first part is talking about the adapted architecture and the need of dynamically partial reconfiguration in this medical application
+     Url https://ieeexplore.ieee.org/abstract/document/7489181/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Big biomedical image processing hardware acceleration: A case study for K-means and image filtering
+     Author ['K Neshatpour', 'A Koohi', 'F Farahmand']
+     Venue … on Circuits and …
+     Year 2016
+     Abstract Acceleration: A Case Study for K-means and Image  they generate and store petabytes of patient records most of which in form of medical imaging, such  implementation of big data image processing and machine learning applications in a heterogeneous CPU+FPGA architecture
+     Url https://ieeexplore.ieee.org/abstract/document/7527445/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Efficient reconfigurable architectures for 3D medical image compression
+     Author ['A Ahmad', 'A Amira']
+     Venue 2009 International Conference on Field …
+     Year 2009
+     Abstract and power modelling of the architectures developed will be carried out on different FPGA platforms. The ultimate aim of this research is to examine the most efficient reconfigurable architectures for 3D medical image compression. In this paper, a case study addresses the per
+     Url https://ieeexplore.ieee.org/abstract/document/5377682/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title How to reliably integrate medical devices over wireless
+     Author ['C Kim', 'M Sun', 'M Rahmaniheris']
+     Venue 2012 9th Annual IEEE …
+     Year 2012
+     Abstract Our prototype implements the case study with a medical oximeter, a laser that we assembled to simulate medical a laser scalpel, medical ventilator and an  3. The figure shows all three components of a device: NASS interface in software, the NASS engine in FPGA, and the
+     Url https://ieeexplore.ieee.org/abstract/document/6276355/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A light-weight fault injection approach to test automated production system PLC software in industrial practice
+     Author ['S Rösch', 'B Vogel-Heuser']
+     Venue Control Engineering Practice
+     Year 2017
+     Abstract Table 1. Industry-based case studies within the aPS domain. Case study – Area (M: Machine, P: Plant Unit) – Type of aPS, PLC type and supplier, No. of POUs, IEC 61131-3 languages, State machine per module, Fault handling. Case study A: M – Medical and automotive
+     Url https://www.sciencedirect.com/science/article/pii/S0967066116302143
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Distributed execution of transmural electrophysiological imaging with cpu, gpu, and fpga
+     Author ['S Skalicky', 'S Lopez', 'M Lukowiak']
+     Venue … International Conference on …
+     Year 2013
+     Abstract benefits of using different hardware platforms to accelerate the execution of a transmural electrophysiological imaging algorithm, targeting a standard CPU with GPU and FPGA accelerators. Using this cutting edge medical imaging application as a case study, we demonstrate
+     Url https://ieeexplore.ieee.org/abstract/document/6732278/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA low-power implementation of QRS detectors
+     Author ['J Kovačević', 'R Stojanović', 'D Karadaglić']
+     Venue 2014 3rd …
+     Year 2014
+     Abstract We used cases of Balda and Pan-Tompkins algorithms for the case study  III. LOW-POWER OPTIMISATION IN QRS DETECTION In this section, two case studies of FPGA low power  of low-power design in FPGA technology for the purpose of medical measurements”, Infoteh
+     Url https://ieeexplore.ieee.org/abstract/document/6862667/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Case study: Utility of a microcomputer as an external memory aid for a memory-impaired head injury patient during in-patient rehabilitation
+     Author ['HJ Kim', 'DT Burke', 'MM Dowds', 'J George']
+     Venue Brain injury
+     Year 1999
+     Abstract This case study demon- strates the usefulness of a microcomputer as an external memory aid for a  After 4 weeks of acute medical management, the patient was transferred to Spaulding  A palmtop computer (PSION Series 3a, PSION, Psion PLC, London) was then introduced as
+     Url https://www.tandfonline.com/doi/abs/10.1080/026990599121818
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A formal verification methodology for FPGA-based stepper motor control
+     Author ['S Jabeen', 'SK Srinivasan', 'S Shuja']
+     Venue IEEE Embedded …
+     Year 2015
+     Abstract In our case studies, automatic and efficient verification of FPGA controllers with millions of  and the total time, respectively, required to check all the WEB refinement proof obligations for each case study  [3] “Micromo,” http://www.micromo.com/applications/medical-lab- automation
+     Url https://ieeexplore.ieee.org/abstract/document/7138565/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A case study of fault-tolerant biological systems with MRI images
+     Author ['V Elamaran', 'K Narasimhan', 'VS Balaji']
+     Venue NA
+     Year 2017
+     Abstract Biological systems which store medical images should have high reliability in real time  This is a kind of case study demonstrates with producing high frequency content even  These biological systems are implemented on Altera EP4CE115F29C7 FPGA device using Quartus II
+     Url https://www.biomedres.info/biomedical-research/a-case-study-of-faulttolerant-biological-systems-with-mri-images.html
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fast radiation monitoring in FPGA-based designs
+     Author ['C Leong', 'J Semião', 'MB Santos']
+     Venue 2015 Conference on …
+     Year 2015
+     Abstract From Xilinx's ISE (Integrated Synthesis Environment) and by design of the two case studies, 648 of the  h) is depicted, for the Virtex 6 (case study 1) and Spartan 6 (case study 2), as  Design and Test Issues of an FPGA Based Data Acquisition System for Medical Imaging using
+     Url https://ieeexplore.ieee.org/abstract/document/7388590/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Remotely configurable fault-tolerant FPGA-based pacemaker
+     Author ['GI Alkady', 'HH Amer', 'RM Daoud']
+     Venue 2017 12th International …
+     Year 2017
+     Abstract Following are two case studies to demonstrate the use of the models  This results from the increase in the failure rate in Case Study 2 due to the harsher environment  [1] WM Demmer, “Techniques for Minimizing Current Drain in an Implantable Medical Device,” United States
+     Url https://ieeexplore.ieee.org/abstract/document/8275270/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Mitigation of Soft and Hard Errors in FPGA-Based Pacemakers
+     Author ['GI Alkady', 'I Adly', 'HH Amer']
+     Venue 2018 13th International …
+     Year 2018
+     Abstract Nowadays, there is a great improvement in Implantable Medical Devices (IMD) manufacturing  FPGA-based pacemakers are prone to both SEUs and permanent faults  A case study shows that the Sift-Out architecture is the optimum technique for the system
+     Url https://ieeexplore.ieee.org/abstract/document/8639480/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA based architecture for fall-risk assessment during gait monitoring by synchronous EEG/EMG
+     Author ['VF Annese', 'D De Venuto']
+     Venue 2015 6th International Workshop on …
+     Year 2015
+     Abstract The results present a fall-risk assessment case study on healthy subjects walking showing detectable fall  Additionally, most of the medical methods quantify the falling risk by a constant value  EMG and EEG synchronized measurements that are real-time processed on an FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/7184953/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A custom FPGA processor for physical model ordinary differential equation solving
+     Author ['C Huang', 'F Vahid', 'T Givargis']
+     Venue IEEE Embedded Systems …
+     Year 2011
+     Abstract a heart-lung system in real-time for the purpose of testing medical devices  Those case studies mostly used manual circuit design and optimization, which required significant human effort for design  the processor size determines the number of processors that can fit on an FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/6031900/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Delivering biotherapeutics–technical opportunities and strategic trends
+     Author ['S Shohet', 'G Wood']
+     Venue Journal of commercial biotechnology
+     Year 2002
+     Abstract Case studies of companies in each segment are presented  JOURNAL OF COMMERCIAL BIOTECHNOLOGY. VOL 9. NO 1. 59–66. SEPTEMBER 2002 61 Delivering biotherapeutics Page 4. CASE STUDY 1 – WESTON MEDICAL PLC Weston Medical, founded in
+     Url https://link.springer.com/article/10.1057/palgrave.jcb.3040008
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Optimized hardware accelerators for data mining applications on embedded platforms: Case study principal component analysis
+     Author ['SN Shahrouzi', 'DG Perera']
+     Venue Microprocessors and Microsystems
+     Year 2019
+     Abstract Optimized hardware accelerators for data mining applications on embedded platforms: Case study principal component analysis  In [8], a Computer Tomography based 3D reconstruction algorithm for medical imaging was implemented on FPGA
+     Url https://www.sciencedirect.com/science/article/pii/S0141933118302394
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Interactive simulation-based-training tools for manufacturing systems operators: an industrial case study
+     Author ['A Vergnano', 'G Berselli', 'M Pellicciari']
+     Venue International Journal on Interactive …
+     Year 2017
+     Abstract Similar to its usage in medical, aerospace, naval and military fields, SBT for manufacturing  Owing to this consideration, this paper reports a successful industrial case study, concerning a novel  is employed, where a virtual process model is coupled with physical PLC and Human
+     Url https://link.springer.com/article/10.1007/s12008-016-0367-7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Parallel backprojection: A case study in high-performance reconfigurable computing
+     Author ['B Cordes', 'M Leeser']
+     Venue EURASIP Journal on Embedded Systems
+     Year 2009
+     Abstract Parallel Backprojection: A Case Study in High-Performance Reconfigurable Computing  the LVDS interconnect involves writing communication modules for the FPGA manually  focused on implementing backprojection for computed tomography (CT) medical imaging applications
+     Url https://link.springer.com/article/10.1155/2009/727965
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title The Wellcome Trust Medical Photographic Library digitization project: a case study
+     Author ['C Draycott']
+     Venue Journal of Audiovisual Media in Medicine
+     Year 2000
+     Abstract Library Digitization Project: a case study CATHERINE DRAYCOTT  A feasibility study In 1997, The Wellcome Trust commissioned a feasibility study into the digitization of the Medical Photographic Library's collections from Logica plc
+     Url https://www.tandfonline.com/doi/abs/10.1080/01405110050198627
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title PMU112 HOW TO OPERATIONALISE A FULLY ANONYMISED RETROSPECTIVE CHART REVIEW. A CASE STUDY FOR THE DEVOLVED NATIONS OF THE …
+     Author ['K Bonar', 'R Takundwa', 'R Sambrook']
+     Venue Value in Health
+     Year 2019
+     Abstract A CASE STUDY FOR THE DEVOLVED NATIONS OF THE UNITED KINGDOM Bonar K  United Kingdom, 2ICON plc, Abingdon, United Kingdom, 3ICON plc, Vancouver, BC  PMU113 THE COST OF MEDICAL TELECONSULTATIONS OF A BRAZILIAN GOVERNMENT EHEALTH
+     Url https://www.valueinhealthjournal.com/article/S1098-3015(19)31464-0/pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Laterality of motor response in visuo-spatial neglect: A case study
+     Author ['PW Halligan', 'JC Marshall']
+     Venue Neuropsychologia
+     Year 1989
+     Abstract 0028-3932,89 53.00+000 c~' 1989 Pergamon Press plc NOTE LATERALITY OF MOTOR RESPONSE IN VISUO-SPATIAL NEGLECT: A CASE STUDY  This work was supported by the Chest, Heart, and Stroke Association (PWH) and by the Medical Research Council (JCM)
+     Url https://www.sciencedirect.com/science/article/pii/0028393289900420
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical forensic photography of the sexually abused child
+     Author ['LR Ricci']
+     Venue Child abuse & neglect
+     Year 1988
+     Abstract 014S-~I34/88S3.~ + .oO Copyright 0 1988 Pergamon Press plc  in reports of sexual abuse has resulted in increasing referrals to physicians for medical evaluation and  Case studies and discussion are used to review colposcopic and close-up 35mm camera techniques available
+     Url https://www.sciencedirect.com/science/article/pii/0145213488900439
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Interrater reliability of identifying indicators of posterior ligamentous complex disruption when plain films are indeterminate in thoracolumbar injuries
+     Author ['KM Schweitzer', 'AR Vaccaro', 'JS Harrop']
+     Venue Journal of Orthopaedic …
+     Year 2007
+     Abstract were present, absent, or indeterminate in the 13 traumatic thoracolumbar injury case studies: (1) diastasis of  The distribution of responses for each criterion in each case study was tabulated for  accepted standards exist for defining PLC disruption in the current medical literature
+     Url https://link.springer.com/content/pdf/10.1007/s00776-007-1155-9.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Application of the experience curve to price trends in medical devices: implications for product development and marketing strategies
+     Author ['A Brown', 'BJ Meenan', 'D Dixon']
+     Venue Journal of Medical …
+     Year 2008
+     Abstract Data sources Experience Curve data have been obtained for a total of 20 case studies from a  Two data sets have been provided by a major medical device manufacturer and a further  The Experience Curve for each case study was plotted as the Log (Average Selling Price) on
+     Url https://journals.sagepub.com/doi/abs/10.1057/jmm.2008.7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Implementing ABC: A case study of organizational and behavioural consequences
+     Author ['A Bhimani', 'D Pigott']
+     Venue Management Accounting Research
+     Year 1992
+     Abstract Implementing ABC: a case study of  the study are drawn from the above sources and pharmaceutical products referred to have been renamed to obscure their identity.' The pharmaceuticals company Evans Medical (hereafter Evans) is a subsidiary of Medeva PLC which
+     Url https://www.sciencedirect.com/science/article/pii/S1044500592700079
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A model for programming data-intensive applications on fpgas: A genomics case study
+     Author ['E Brossard', 'D Richmond', 'J Green']
+     Venue 2012 Symposium on …
+     Year 2012
+     Abstract A Model for Programming Data-Intensive Applications on FPGAs: A Genomics Case Study  savings for computation- ally challenging tasks in signal processing, medical diagnostic imaging  for example, has long been computed efficiently on special-purpose FPGA platforms
+     Url https://ieeexplore.ieee.org/abstract/document/6319194/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Medical disability assessment of the back pain patient for the Social Security Administration: The weighting of presenting clinical features
+     Author ['TS Carey', 'NM Hadler', 'D Gillings', 'S Stinnett']
+     Venue Journal of Clinical …
+     Year 1988
+     Abstract 2. Increment added to certainty of disability by addition of the explanatory variable to the case study  to participate in the study, however, only a minority completed the full set of case studies  Age and medical specialties of respondents were similar to the non-respondents
+     Url https://www.sciencedirect.com/science/article/pii/0895435688901217
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title An exploration framework for efficient high-level synthesis of support vector machines: Case study on ecg arrhythmia detection for xilinx zynq soc
+     Author ['V Tsoutsouras', 'K Koliogeorgi', 'S Xydis']
+     Venue Journal of Signal …
+     Year 2017
+     Abstract In this work, we use as a case study arrhythmia detection based on ECG signal analysis  48 fully annotated half-hour two-lead ECG signals, featuring patients with different medical files and  paradigm is used, to instantiate the ECG analysis flow in a combined CPU-FPGA system
+     Url https://link.springer.com/article/10.1007/s11265-017-1230-1
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Leadership training for undergraduate medical students
+     Author ['V Maddalena']
+     Venue Leadership in Health Services
+     Year 2016
+     Abstract The PLC is comprised of eight, fully online, asynchronous modules offered over 4 years of the MD program. The new medical curriculum at MUN is divided into four phases  The PLC modules include the following: introduction to leadership concepts;  case studies in leadership
+     Url https://www.emerald.com/insight/content/doi/10.1108/LHS-05-2016-0019/full/html
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Smart grid implementation in India–A case study of Puducherry pilot project
+     Author ['R Kappagantu', 'S Senn', 'M Mahesh', 'DS Arul']
+     Venue International Journal of …
+     Year 2015
+     Abstract Smart grid implementation in India – A case study of Puducherry pilot  Service SCADA Supervisory Control and Data Acquisition EV Electrical Vehicle LPR Low Power Radio ISM Industrial, Scientific and Medical MDAS Meter Data  Advanced AMR Benefits – Utility Case Studies
+     Url https://www.ajol.info/index.php/ijest/article/view/147125
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Internet of Things for e-Health: An approach to medical applications
+     Author ['I Chiuchisan', 'I Chiuchisan']
+     Venue … International Workshop on …
+     Year 2015
+     Abstract In this paper, a survey of Internet of Things (IoT) and its applications to e-Health has been presented along with a case study using the K53 Tower System platform for e  [15] I. Chiuchisan, “A New FPGA-based Real-Time Configurable System for Medical Image Processing
+     Url https://ieeexplore.ieee.org/abstract/document/7347091/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Web-enabled platform for distributed and dynamic decision-making systems
+     Author ['A Ali', 'Z Chen', 'J Lee']
+     Venue The International Journal of Advanced …
+     Year 2008
+     Abstract Case studies are presented to determine how effectively web-enabled industrial system can be  The case study addresses the followings: (a) no interference with existing protocols, products or  Fig. 8 Overall architecture of the web enabled platform for medical equipment test cell
+     Url https://link.springer.com/article/10.1007/s00170-007-1172-z
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title The 'Hungry Forties' and the New Poor Law: a Case Study1
+     Author ['P Dunkley']
+     Venue The Historical Journal
+     Year 1974
+     Abstract 329-346. 329 Printed in Great Britain THE 'HUNGRY FORTIES' AND THE NEW POOR LAW: A CASE STUDY 1 By PETER DUNKLEY Stanford University  » Sunderland Union: J. Walsham/PLC, 6 Dec. 1837, MH J2/3268 (PRO). 1° See Durham Chronicle, 6 July 1838
+     Url https://www.cambridge.org/core/journals/historical-journal/article/hungry-forties-and-the-new-poor-law-a-case-study1/C34D908CA25A45873668485E142F7E68
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Synchronizing an x-ray and anesthesia machine ventilator: A medical device interoperability case study
+     Author ['D Arney', 'JM Goldman']
+     Venue Departmental Papers …
+     Year 2009
+     Abstract The rest of the paper is organized as follows. Sec- tion 2 describes the clinical use case which motivated this case study  SOAP / Ethernet MediBus / Serial PLC Light Button Webcam  Medical devices are not generally developed with the intention of interconnection
+     Url https://repository.upenn.edu/cgi/viewcontent.cgi?article=1421&context=cis_papers
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Customizable domain-specific computing
+     Author ['J Cong', 'V Sarkar', 'G Reinman']
+     Venue IEEE Design & Test of …
+     Year 2010
+     Abstract languages or extensive rewriting of existing soft- ware for the FPGA implementation  potential of customizable domain-specific computing, we have analyzed the medical image processing  A case study: medical image processing domain Imaging is now a routine clinical tool in
+     Url https://ieeexplore.ieee.org/abstract/document/5661750/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Cryogenic machining of polymeric biomaterials: An intraocular lens case study
+     Author ['R Ghosh', 'JA Knopf', 'DJ Gibson']
+     Venue Medical Device …
+     Year 2008
+     Abstract 10.1361/cp2007mpmd054 Cryogenic Machining of Polymeric Biomaterials: An Intraocular Lens Case Study Ranajit Ghosh  polymers from a medical standpoint relates to smaller incision during implanting as  The ICEFLY coolant system is a PLC-controlled unit that can interface
+     Url https://books.google.com/books?hl=en&lr=&id=eT6IFaoJzd0C&oi=fnd&pg=PA54&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Medical%22+%22PLC%22+OR+%22FPGA%22&ots=cj1nCOmS8i&sig=u-4IhOtPAHKuNYZ9gQ5HwhCFYPY
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title An overview of advanced FPGA architectures for optimized hardware realization of computation intensive algorithms
+     Author ['SM Qasim', 'SA Abbasi']
+     Venue … , Signal Processing and …
+     Year 2009
+     Abstract CASE STUDY OF XILINX FPGA ARCHITECTURES This section presents a case study of state  It is excellent for applications such as blade servers, medical devices, automotive infotainment  Extended Spartan-3A FPGA includes non-volatile Spartan-3AN devices, which combine
+     Url https://ieeexplore.ieee.org/abstract/document/5164235/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title A strategic service vision in the hotel industry: some conclusions from case studies.
+     Author ['K Figueiredo', 'J Rivera Latas', 'D Gomes']
+     Venue … : new directions, new …
+     Year 1995
+     Abstract An analysis of four case studies of management strategies of five star hotels in Rio de Janeiro, Brazil, leads to the development of a strategic model which is characterized by four basic elements: targeting a market segment, conceptualizing how the service will be perceived by consumers
+     Url https://www.cabdirect.org/cabdirect/abstract/19961803014
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Chemogenomics knowledgebase and systems pharmacology for hallucinogen target identification—Salvinorin A as a case study
+     Author ['X Xu', 'S Ma', 'Z Feng', 'G Hu', 'L Wang', 'XQ Xie']
+     Venue Journal of Molecular Graphics …
+     Year 2016
+     Abstract of bufotenin of mice with great protection from burn, tourniquet and endotoxin shock [8], [9]. Several case studies reported that  Salvinorin A was chosen as a case study for demonstration  list of Schedule I drugs with high potential of drug abuse and no acceptable medical use (Fig
+     Url https://www.sciencedirect.com/science/article/pii/S1093326316301322
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Complementary medicine: new approaches to good practice
+     Author ['British Medical Association']
+     Venue NA
+     Year 1993
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Fully-migratable TDC architecture for FPGA devices
+     Author ['N Lusardi', 'A Palmucci', 'A Geraci']
+     Venue … Science Symposium, Medical …
+     Year 2016
+     Abstract availability of having an architecture that can be implemented in different FPGA devices with minimal re-design overhead. This allows to exploit more easily innovation in device generations and software releases. The architecture of a TDC is taNen as case study for highlighting
+     Url https://ieeexplore.ieee.org/abstract/document/8069666/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Improving patient safety with X-ray and anesthesia machine ventilator synchronization: a medical device interoperability case study
+     Author ['D Arney', 'JM Goldman', 'SF Whitehead', 'I Lee']
+     Venue … Joint Conference on …
+     Year 2009
+     Abstract The rest of the paper is organized as follows. Section 2 describes the clinical use case which motivated this case study  SOAP / Ethernet MediBus / Serial PLC Light Button Webcam  LiveData Fig. 2. Overview of the System to integrate medical devices for common display data
+     Url https://link.springer.com/chapter/10.1007/978-3-642-11721-3_7
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Incorporation of stochastic engineering models as prior information in Bayesian medical device trials
+     Author ['T Haddad', 'A Himes', 'L Thompson', 'T Irony']
+     Venue Journal of …
+     Year 2017
+     Abstract ABSTRACT. Evaluation of medical devices via clinical trial is often a necessary step in the process of bringing a new product to market. In recent  data. This method is illustrated by a case study of cardiac lead fracture. Different
+     Url https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1300907
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Impact of Job Satisfaction on Employees Performance: A Study of Nigerian Breweries Plc Kaduna State Branch, Nigeria
+     Author ['TI Ndulue', 'HC Ekechukwu']
+     Venue Kuwait Chapter of Arabian …
+     Year 2016
+     Abstract satisfaction on employees performance, with Nigerian Breweries Plc Kaduna as a case study  satisfaction on employees' performance, a study of Nigerian Breweries Plc Kakuri, Kaduna  impact of job satisfaction on employee performance in autonomous Medical Institutions of
+     Url https://platform.almanhal.com/GoogleScholar/Details/?ID=2-94498
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title The Royal Infirmary of Edinburgh: a case study on the workings of the Private Finance Initiative
+     Author ['M Cuthbert', 'J Cuthbert']
+     Venue Public Money & Management
+     Year 2010
+     Abstract is part of a complex project which also includes University of Edinburgh medical teaching and  for the NRIE project was won by Consort Healthcare: Consort comprised BICC plc, Morrison Construction  The Royal Infirmary of Edinburgh: a case study on the workings of the Private
+     Url https://www.tandfonline.com/doi/abs/10.1080/09540962.2010.525007
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Medical"+"PLC"+OR+"FPGA"
+     Title Dietetic Internship at Nawaloka hospital PLC, Colombo 2
+     Author ['K De Silva']
+     Venue NA
+     Year 2016
+     Abstract That was very important to collect case details 4 Page 12. and identify clinical and nutritional requirement needs in medical nutrition therapy of the patients  Case studies on weight management • Case study on patient with AML leukemia (undergone chemotherapy treatments)
+     Url http://dl.nsf.ac.lk/pdfs/WUSL/DAN/NUT-IN-074-2016/NUT-IN-074-2016-FULL.pdf
+

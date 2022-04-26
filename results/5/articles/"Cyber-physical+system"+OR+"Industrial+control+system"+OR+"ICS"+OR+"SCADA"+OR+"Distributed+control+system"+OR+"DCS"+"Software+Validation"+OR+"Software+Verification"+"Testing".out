@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software validation using power station simulators
+     Author ['MR Cunliffe']
+     Venue IEE Colloquium on Simulation of Power Systems
+     Year 1992
+     Abstract SOFTWARE VALIDATION USING POWER STATION SIMULATORS  Introduction Control software was written for the distributed control system (DCS) installed in a coal fired power station in  The DCS is programmed by linking into the local processor units with an IBM PC via a
+     Url https://ieeexplore.ieee.org/abstract/document/211818/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The CANDU 9 distributed control system design process
+     Author ['JE Harber', 'MK Kattan', 'MJ Macbeth']
+     Venue NA
+     Year 1997
+     Abstract 3), will be used to perform the dynamic testing portion of the software validation activity  For qualification purposes, this firmware is regarded as part of the DCS hardware. Summary The CANDU 9 plant design will use a distributed control system to perform plant monitoring and
+     Url https://www.osti.gov/etdeweb/servlets/purl/340652#page=59
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Application of DCS for protection system in nuclear power plant
+     Author ['W Zheng']
+     Venue Nuclear Electronics and Detection Technology
+     Year 2012
+     Abstract In order to ensure the reliability of the DCS technology design, by analyzed the requirements of relevant codes and standards, summed up the qualification test items and software verification and validation process shall be performed for safety DCS design, and combining
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:46041487
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software Verification for a Custom Instrument using VectorCAST and CodeSonar
+     Author ['CD Ward']
+     Venue NA
+     Year 2011
+     Abstract testing were extremely rare and it is possible that other rare problems may still exist, only to be discovered at a later date. In an effort to assess the potential value of commercially available software verification tools, an  Lastly, a Distributed Control System (DCS)
+     Url https://trace.tennessee.edu/utk_gradthes/918/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Effective Software Verification and Validation Approach for Nuclear Power Plant Digital Instrumentation and Control Systems
+     Author ['S Yang', 'J Ding', 'H Miao']
+     Venue International …
+     Year 2010
+     Abstract As part of high- quality engineering assurance, rigorous software Verification and Validation (V&V) life-cycle methodologies are necessary  This is especially effective in managing testing activities-like test designing from the beginning of the  Stakeholder Requirements DCS FAT
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE18/49293/659/347327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Research on Safety Level DCS Automated Test Method Based on Symbolic Execution
+     Author ['Y Dai', 'Z Wu', 'J Liu', 'Z Chen', 'A Xiao']
+     Venue 2019 3rd International …
+     Year 2019
+     Abstract As an important part of the digital instrument and control system, the DCS (Distributed Control System) software system must be guaranteed  The reliability of nuclear safety-level DCS is guaranteed by testing. The paper [1] gives the DCS software verification
+     Url https://ieeexplore.ieee.org/abstract/document/8935614/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Development of requirements tracking and verification system for the software design of distributed control system
+     Author ['CH Jung', 'JY Kim', 'JT Kim', 'JS Lee']
+     Venue Proceedings of the …
+     Year 1998
+     Abstract control system for a nuclear power plant is being designed using distributed control system(DCS)  To design the DCS software, the sofware requirement specification(SRS) which come from  the requirements from the generation of requirements to the software validation stage
+     Url https://www.koreascience.or.kr/article/CFKO199811921639441.page
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing
+     Author ['O Strichman', 'R Tzoref-Brill']
+     Venue 13th International Haifa Verification Conference …
+     Year NA
+     Abstract on. As ICs continue to grow in size and complexity, the cost and effort required to validate them are growing at an unsustainable rate  Programs..... 83 Martin Sulzmann and Kai Stadtmüller Software Verification: Testing vs
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-70389-3.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Model-Based Testing of Software-Based System Functions
+     Author ['I Drave', 'S Hillemacher', 'T Greifenberg']
+     Venue 2018 44th Euromicro …
+     Year 2018
+     Abstract to fix. Consequently, facilitating a priori software validation and verification is of crucial importance for cyber-physical system development. We hence  been mastered. Keywords–Model-Based Testing, Test Case Creation
+     Url https://ieeexplore.ieee.org/abstract/document/8498199/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Digital integrated circuit testing from a quality perspective
+     Author ['ER Hnatek']
+     Venue NA
+     Year 1993
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A Pervasive Approach to Software Validation in Adaptive Cyber-Physical Systems
+     Author ['MB Dwyer', 'S Elbaum', 'S Goddard', 'G Rothermel']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software: Verification and Testing: 13th International Haifa Verification Conference, HVC 2017, Haifa, Israel, November 13-15, 2017 …
+     Author ['O Strichman', 'R Tzoref-Brill']
+     Venue NA
+     Year 2017
+     Abstract on. As ICs continue to grow in size and complexity, the cost and effort required to validate them are growing at an unsustainable rate  Programs..... 83 Martin Sulzmann and Kai Stadtmüller Software Verification: Testing vs
+     Url https://books.google.com/books?hl=ru&lr=&id=Dyg-DwAAQBAJ&oi=fnd&pg=PR5&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Testing%22&ots=FlCES77gO2&sig=-HNPBL0q4FNA26U4dSJcON2nEJg
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title CaveMan Enterprise version 1.0 Software Validation and Verification
+     Author ['DB Hart']
+     Venue NA
+     Year 2014
+     Abstract 2 Page 3. SAND2014-18621 Unlimited Release Printed October 2014 CaveMan Enterprise version 1.0 Software Validation and Verification  15 4 Model Validation Testing 17 4.1 Testoverview .  DB database DCS distributed control system DOE US Department of Energy
+     Url https://prod-ng.sandia.gov/techlib-noauth/access-control.cgi/2014/1418621.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title INTEGRAL-An integrated framework for distributed software validation and verification
+     Author ['CK Chang', 'CC Song', 'YF Chang']
+     Venue … . Workshop on the Future Trends of …
+     Year 1988
+     Abstract An ,Integrated ,Framework ,INTEGRAL ,- ,for ,Distributed Software ,Validation ,and ,Verification* ,Carl ,K. ,Chang, ,Cheng-Chung ,Song ,and ,Young-Fu  1) ,COM (COMmunieation event) Testing ,This ,criterion  Figure 4.1.1 Concurrency Sets ,(2) ,ICs ,(Interprocess Communication
+     Url https://www.computer.org/csdl/proceedings-article/ftdcs/1988/00026711/12OmNC3FG9y
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title 2008 IEEE International Conference on Technologies for Homeland Security Conference Committees
+     Author ['L Long', 'T Kochanksi', 'F Molinet', 'K Krause', 'B Alongi']
+     Venue NA
+     Year NA
+     Abstract devices detection; operational interoperability; field communication technology; access screening document authentication; biometrics; network security; SCADA; sensor nets; video detection; anomaly detection; software testing; software verification; and software validation
+     Url https://ieeexplore.ieee.org/abstract/document/4534408/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Project Experience of MMIS for Shin-Hanul units 1&2 (Component Design, Manufacturing and Testing)
+     Author ['S Koo', 'K Kim']
+     Venue NA
+     Year 2015
+     Abstract Doosan MMIS manufacturing is based on PLC and DCS platform  3. Testing According to the industrial code & standards and Doosan quality process, MMIS testing consists of hardware equipment qualification, software verification and validation, and system testing. 3.1
+     Url https://www.kns.org/files/pre_paper/34/15A-%EA%B5%AC%EC%84%9C%EB%A3%A1I.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Towards traceability of model-based testing artifacts
+     Author ['L Naslavsky', 'H Ziv', 'DJ Richardson']
+     Venue … Advances in model-based testing
+     Year 2007
+     Abstract of Information and Computer Sciences University of California, Irvine Irvine, CA 92697-3425 USA djr@ics.uci.edu  in a number of different software engineering activities such as software change impact analysis and software validation, verification and testing [34]
+     Url https://dl.acm.org/doi/abs/10.1145/1291535.1291546
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title An expert system for fault diagnosis integrated in existing SCADA systems
+     Author ['JP Bernard', 'D Durocher']
+     Venue Conference Proceedings Power …
+     Year 1993
+     Abstract 'Ihis window mimics the SCADA alarm message display. 2. Diagnoses summary window: the last 100 one-line long summaries of every diagnosis produced  Software Validation and Testing LANGAGE includes some tools to help with validation and testing
+     Url https://ieeexplore.ieee.org/abstract/document/291001/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Component-Based Software Engineering
+     Author ['GALI Poernomo', 'C Hofmeister']
+     Venue NA
+     Year NA
+     Abstract kcl. ac. uk http://palab. dcs. kcl. ac. uk  speculation. Component-based development necessarily involves elements of software ar- chitecture, modular software design, software verification, testing, configuration and deployment
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-02414-6.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE THE UNIVERSITY OF QUEENSLAND
+     Author ['H Vіlzer', 'B Atchison', 'P Lindsay', 'A MacDonald']
+     Venue NA
+     Year 2002
+     Abstract SOFTWARE VERIFICATION RESEARCH CENTRE  Invensys SCADA Development cur- rently employs a range of software configuration manage- ment tools and processes  practices may apply to differ- ent types of artefact (eg software development and system testing may be
+     Url https://espace.library.uq.edu.au/view/UQ:10548/svrc_02_07.ps?dsi_version=d4286e393e6b1efa5cefea4ec51ebb24
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Titan flight software quality enhancement
+     Author ['P RAO']
+     Venue 1st National Total Quality Management Symposium
+     Year 1989
+     Abstract structured programming principles. Software verification activities ensure that the coding meets the specifications of Software  comparison with other test bed simulation results. The Interpretive Computer Simulation (ICS) is  validation testing. The computer image of the actual
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1989-3654
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Documenting control system functionality for digital control implementations
+     Author ['J Harber', 'M Borairi', 'S Tikku']
+     Venue Atomic Energy of …
+     Year 2010
+     Abstract Start with Process System Design Requirements Distributed Control System (DCS) Design Requirements Distributed Control System Design Description  DCS I/O & Alarm Requirements & Database Software Validation Testing Functional Validation Testing
+     Url https://pdfs.semanticscholar.org/dfde/d37014cdd153fcdeb79fbb05168183871b02.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Prediction and Sensibility Analysis for Nuclear Safety-Critical Software Reliability of DCS
+     Author ['L Ying', 'W Ya-feng', 'P Bo', 'T Lei']
+     Venue International …
+     Year 2018
+     Abstract After testing, the degree of compliance with software standards at different stages  After the investigation of nuclear safety-critical DCS design standards, the software  assurance and configuration management part, software development part, software verification and validation
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE26/51432/V001T04A011/274671
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Protecting infrastructure from cyber attack
+     Author ['N Boughton']
+     Venue Network Security
+     Year 2019
+     Abstract Hackers appeared to be testing a highly evolved variety of grid-penetrating malware, which represents a dangerous advance in critical  At the heart of every critical infrastructure is the industrial control system (ICS), which monitors processes and controls flows of information
+     Url https://www.sciencedirect.com/science/article/pii/S1353485819300510
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Under Pressure: Testing Before Deployment is Integral fo Success at Sea
+     Author ['J Sanderson']
+     Venue NA
+     Year NA
+     Abstract full systems test that includes electron ics and software validation. This article w ill summarize current pressure testing paradigms and proto cols used with pressure testing facilities, based on the experience of operating, the DeepSea Power & Light high-pres sure chambers
+     Url http://www.vliz.be/imisdocs/publications/146682.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Component-Based Software Engineering: 12th International Symposium, CBSE 2009 East Stroudsburg, PA, USA, June 24-26, 2009 Proceedings
+     Author ['GA Lewis', 'I Poernomo', 'C Hofmeister']
+     Venue NA
+     Year 2009
+     Abstract kcl. ac. uk http://palab. dcs. kcl. ac. uk  speculation. Component-based development necessarily involves elements of software ar- chitecture, modular software design, software verification, testing, configuration and deployment
+     Url https://books.google.com/books?hl=ru&lr=&id=ksdqCQAAQBAJ&oi=fnd&pg=PP2&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Software+Validation%22+OR+%22Software+Verification%22+%22Testing%22&ots=G07AtivXN8&sig=r04JFsQ7RKGh9gEjRsxt5H4B9iE
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title First Pass Yield Metric Implementation for Validation Documents
+     Author ['E Armbruster Santiago']
+     Venue Manufacturing Engineering;
+     Year 2015
+     Abstract on the modifications made to the Distributive Control System (DCS) software  Drug Administration (FDA) has shaped Information Technology (IT) testing and analysis  XYZ has structured its Distributed Control System Software validation strategy according to the Industry Standard
+     Url http://prcrepository.org:8080/xmlui/bitstream/handle/20.500.12475/613/Articulo%20Final_Eric%20Armbruster.pdf?sequence=1
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Under pressure: Testing before deployment is integral to success at sea
+     Author ['K Hardy', 'S Watson', 'J Sanderson']
+     Venue Sea Technology
+     Year 2009
+     Abstract Ideally, pressure test— ing sh0uld simulate the actual condi- tions of operation and complement a full systems test that includes electron— ics and software validation This article will summarize current pressure testing paradigms and proto- cols used with pressure testing
+     Url http://www.globaloceandesign.com/uploads/3/0/7/4/30747513/2009_pressure_testing_fundamentals.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Use of automated testing in circuit switching system technical analysis
+     Author ['RN Fu', 'WB Perkinson']
+     Venue … Technology for the 1990s and Beyond'
+     Year 1989
+     Abstract Also, switches commonly have 12 or more connecting ICs. In addition, line types, carrier presubscription, and different call types need to be considered  JD Musa, A. Frank Ackerman, "Quantifying Software Validation: When to Stop Testing," IEEE Software, May 1989
+     Url https://ieeexplore.ieee.org/abstract/document/64050/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Conditional dynamic partial order reduction and optimality results
+     Author ['M Isabel']
+     Venue … SIGSOFT International Symposium on Software Testing …
+     Year 2019
+     Abstract KEYWORDS Testing, Software Verification, Partial-Order Reduction  Therefore, software validation techniques urge especially in the context of concurrent programming  space by relying on whether conditions likex > 0 above, called independence constraints (ICs), are satisfiable
+     Url https://dl.acm.org/doi/abs/10.1145/3293882.3338987
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automated Testing of SCADA Protocols
+     Author ['N Kube', 'D Hoffman']
+     Venue … of SCADA Security Scientific Symposium
+     Year 2007
+     Abstract term SCADA is used in this document to represent any industrial control system including Distributed  automated generation of test data for the purposes of software validation and verification  his PhD work on vulnerability testing protocol implementations in SCADA/DCS devices
+     Url https://s4xevents.com/wp-content/uploads/2020/04/4Wurldtech.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A study about safety I&C system software V&V in nuclear power plant
+     Author ['P Gu', 'S Wang', 'W Chen', 'S Yu']
+     Venue International …
+     Year 2016
+     Abstract Security testing ✧ Performance testing ✧ Function testing ✧ Boundary testing ✧ Reliability testing With the constant  standards of safety I&C system software emphasize that safety DCS products need  IEEE 1012 IEEE Standard for Software Verification and Validation[S]. New York
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE24/50015/V001T04A005/251469
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title A bibliography of object-oriented testing, with a short general survey of the area
+     Author ['M Stannett']
+     Venue Research Memorandum, http://www. dcs. shef. ac. uk …
+     Year 2002
+     Abstract PhD Thesis, Dept of Computer Science, Sheffield University. [MOTIVE] EPSRC GR/M56777 MOTIVE: Method for Object Testing, Integration and Verification. Archives accessible via http://www.dcs.shef.ac.uk/~ajhs/motive/. [MPW91] Milner R, Parrow J, Walker D. 1991
+     Url http://www.dcs.shef.ac.uk/intranet/research/public/resmes/CS0202.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title The Realization of Verification and Validation for Safety I&C System in The Third Generation Nuclear Power Plant [J]
+     Author ['W Ping']
+     Venue Science & Technology Vision
+     Year 2012
+     Abstract 1, ;The Application of P320 Distribution Control System (DCS) In LingAo Nuclear Power Station[J];Guangxi Electric  of Nuclear and New Energy Technology,Tsinghua University,Beijing 100084,China);Technique for Unit Testing of Safety Software Verification and Validation[J
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-KJSJ201224145.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Scenario-based and State Machine-based Testing: An evaluation of automated approaches
+     Author ['L Naslavsky', 'DJ Richardson', 'H Ziv']
+     Venue and Object-Oriented Systems
+     Year 2006
+     Abstract Bren School of Information and Computer Sciences University of California, Irvine Irvine, CA 92697-3425 USA djr@ ics  a number of different software engineering activities such as software change impact analysis and software validation, verification and testing [31]
+     Url https://www.researchgate.net/profile/Wolfgang_Grieskamp/publication/239917393_Proceedings_of_the_Workshop_on_Model-Based_Testing_and_Object-Oriented_Systems/links/548688510cf268d28f0453e9.pdf#page=36
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Interpretive computer simulator for the NASA Standard Spacecraft Computer-2 (NSSC-2)
+     Author ['RS Smith', 'MS Noland']
+     Venue NA
+     Year 1979
+     Abstract The ICS has been used for preliminary verification and testing of NSSC-II flight software for the Annular Suspension and Pointing System (ASPS) project  18 Distribution Statement NSSC-1I 1CS ASPS PASCAL CYBER S/360 Software Verification and Testing
+     Url https://ntrs.nasa.gov/search.jsp?R=19790013628
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title SENG 637 Dependability Reliability & Dependability, Reliability & Testing of Software Systems
+     Author ['D SRE']
+     Venue NA
+     Year NA
+     Abstract the required levels of assurance about the end products, and the scheduling of all testing measuring and demonstration the scheduling of all testing, measuring and demonstration activities  4.2.2 Software Design Description ∎ 4.2.3 Software Verification and Validation Plan
+     Url https://people.ucalgary.ca/~far/Lectures/SENG637/PDF/SENG637-10.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Software development and validation for refurbishment of nuclear instruments
+     Author ['A Karim', 'R Qamar', 'MI Khattak']
+     Venue … of Software Applied …
+     Year 2007
+     Abstract Software validation for each case is performed by comprehensive software testing, inspection, analysis, and  A microprocessor called, Instrument Control System (ICS)[1] is interfaced by parallel and a serial link (RS 232) to the control electronics of the spectrometer
+     Url https://www-pub.iaea.org/mtcd/publications/pdf/te_1565_web.pdf#page=150
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Automatic testcase generation for flight software
+     Author ['DH Bushnell', 'C Pasareanu', 'RM Mackey']
+     Venue NA
+     Year 2008
+     Abstract Model checking is an automated technique for software verification. Unlike simulation and testing which check only some of the system executions and therefore may miss errors, model checking exhaustively  ICS's in-house coverage tools will be run to measure code coverage
+     Url https://ntrs.nasa.gov/search.jsp?R=20090026335
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Ordered mutation testing
+     Author ['IMM Duncan', 'DJ Robson']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 1990
+     Abstract Mutation Analysis . Technical Report GIT-ICS-79/08, School of Information and Computer Science, Georgia Institute of Technology, Atlanta GA, September 1979.Google Scholar Google Scholar Cross Ref Cross Ref;  The design of a prototype mutation system for program testing
+     Url https://dl.acm.org/doi/abs/10.1145/382296.382699
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Enabling and enhancing collaborations between software development organizations and independent test agencies
+     Author ['JA Jones', 'M Grechanik']
+     Venue 2009 ICSE Workshop on …
+     Year 2009
+     Abstract André van der Hoek University of California, Irvine Department of Informatics andre@ics.uci.edu Abstract  These agencies offer independent ver- ification of software, skilled testing experts, and economic advantages that arise from differential global labor rates
+     Url https://ieeexplore.ieee.org/abstract/document/5071411/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract on PLCs (Programmable Logic Controllers) using the UNICOS (UNified Industrial COntrol System) framework [8  eg [11]) already address the issue of hardware validation, software validation of PLC  monitored by the operator of the system through SCADA (Supervisory Control
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware devices security, their vulnerabilities and solutions
+     Author ['S Qayyum', 'S Ashraf', 'M Shafique']
+     Venue 2018 15th International …
+     Year 2018
+     Abstract or by changing the logic in such a manner that will remain undetectable during the testing and verification process. Therefore, it is necessary for the device user to ensure that device being used is trustable. Any Hardware device, especially integrated circuits (ICs), was initially
+     Url https://ieeexplore.ieee.org/abstract/document/8312261/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title CoFI–Conformance and Fault Injection–a testing process including test and fault cases derivation for space application software validation
+     Author ['AM Ambrosio', 'E Martins', 'NL Vijaykumar']
+     Venue NA
+     Year 2004
+     Abstract FSM Finite State Machine ICS Implementation Conformance Statement IXIT Implementation extra Information for Testing  Lack of proper software validation FONTE: Mazza, (2000). In this report we present a testing process focussed on the validation of the PUS
+     Url http://150.163.34.248/col/sid.inpe.br/marciana/2004/11.17.16.40/doc/PUBLICACAO.PDF
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Verifying Autonomous Robots: Challenges and Reflections (Invited Talk)
+     Author ['C Dixon']
+     Venue … on Temporal Representation and Reasoning (TIME …
+     Year 2020
+     Abstract 1 www.robosafe.org 2 www.dcs.gla.ac.uk/research/S4/ 3 www.fairspacehub.org 4 rainhub.org.uk  In N. Piterman, editor, Hardware and Software: Verification and Testing - 11th International Haifa Verification Conference, HVC 2015, Haifa, Israel, November 17-19, 2015
+     Url https://drops.dagstuhl.de/opus/volltexte/2020/12969/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Deploying constraint programming for testing abb's painting robots
+     Author ['M Mossige', 'A Gotlieb', 'H Meling']
+     Venue AI Magazine
+     Year 2017
+     Abstract Despite the strong technical culture of ABB Robot- ics and the availability of excellent textbooks, deploying CP was not easy, as there are  They were corrected and the generated test scenarios were added to the testing process  Deploying CP in Industrial Software Validation
+     Url https://www.aaai.org/ojs/index.php/aimagazine/article/view/2723
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Guest editorial: Papers selected from 8th International Conference on Model and Data Engineering (MEDI 2018)
+     Author ['D Benslimane', 'S Jean', 'L Bellatreche']
+     Venue Computer Science and …
+     Year 2020
+     Abstract It then addresses the safety-critical software verification and testing issue and proposes to integrate model- based verification and model-based testing within a single  in the context of the landing gear case study which is a typical cyber-physical system involving the
+     Url http://www.doiserbia.nb.rs/ft.aspx?id=1820-02142001002B
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Verified software: A grand challenge
+     Author ['C Jones', "P O'Hearn", 'J Woodcock']
+     Venue Computer
+     Year 2006
+     Abstract as SAT solvers and combined decision procedures, the time now seems ripe for a concerted push for software verification  Hoare conceived the Challenge in a broad sense, which would include testing and resolving the problems of getting the  Contact him at ohearn@dcs.qmul
+     Url https://ieeexplore.ieee.org/abstract/document/1621009/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Hardware and Software Verification and Testing
+     Author ['EB Shmuel Ur', 'Y Wolfsthal']
+     Venue … Verification Conference, Haifa, Israel, November 13 …
+     Year NA
+     Abstract uni-sb. de) IIan Harris, University of California, Irvine (harris@ ics. uci  Page 11. XII Table of Contents Software Testing Track ExpliSAT: Guiding SAT-Based Software Verification with Explicit States
+     Url https://link.springer.com/content/pdf/10.1007/978-3-540-70889-6.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Software+Validation"+OR+"Software+Verification"+"Testing"
+     Title Method and apparatus for securing integrated circuits from unauthorized copying and use
+     Author ['FS Ozdemir', 'RL Seliger', 'GB Rosenberg']
+     Venue US Patent 4,766,516
+     Year 1988
+     Abstract US4766516A - Method and apparatus for securing integrated circuits from unauthorized copying and use - Google Patents. Method and apparatus for securing integrated circuits from unauthorized copying and use. Download PDF Info
+     Url https://patents.google.com/patent/US4766516A/en
+

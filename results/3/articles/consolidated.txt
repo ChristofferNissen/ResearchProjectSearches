@@ -1,0 +1,2877 @@
+Continuous delivery sounds great, but will it work here? (count 42)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Domains"', '"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"Regulated+Domains"+"DevOps"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Domains"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Continuous"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review (count 34)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Domains"', '"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"Regulated+Domains"+"DevOps"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"DevOps"+"Regulated+Domains"', '"Software+Validation"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Domains"+"Software+Validation"', '"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"', '"DevOps"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Environments"+"Case+Study"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"', '"DevOps"+"Regulated+Domains"+"Software+Validation"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+A systematic approach to agile development in highly regulated environments (count 22)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Continuous"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Understanding the Benefits of Agile Software Development in Regulated Environments (count 20)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"Continuous"', '"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"FDA+Requirements"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"DevOps"+"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"DevOps"+"FDA+Requirements"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"FDA+Requirements"', '"FDA+Requirements"+"DevOps"']
+
+To what extent the medical device software regulations can be achieved with agile software development methods? XP—DSDM—Scrum (count 19)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"DevOps"', '"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"FDA+Requirements"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"DevOps"+"FDA+Requirements"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"Software+Validation"', '"DevOps"+"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"DevOps"+"FDA+Requirements"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"DevOps"+"FDA+Requirements"', '"FDA+Requirements"+"DevOps"', '"DevOps"+"FDA+Requirements"+"Software+Validation"']
+
+The future of software development methods (count 15)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Agile practices in regulated railway software development (count 15)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Domains"+"Software+Validation"', '"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Environments"+"Software+Validation"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"', '"Software+Validation"+"Continuous"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Integrating agile practices with a medical device software development lifecycle (count 14)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"FDA+Requirements"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Scaling agile methods to regulated environments: An industry case study (count 14)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Environments"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Teaching testing to programmers. What sticks, and what slides off? A journey from Teflon to Velcro. (count 13)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"Software+Validation"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"DevOps"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Microservices: Architecting for continuous delivery and devops (count 10)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Agile software development (count 10)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Computer validation and ethical security measures for pharmaceutical data processing (count 10)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"FDA+Requirements"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Agile–Is it Suitable for Medical Device Software Development? (count 10)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Trials and Tribulations of the Global Software Engineering Process: Evolving with Your Organisation (count 10)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Systematic agile development in regulated environments (count 9)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Successful collaborative software projects for medical devices in an FDA regulated environment: myth or reality? (count 9)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"Continuous"+"FDA+Requirements"', '"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"', '"FDA+Requirements"+"Software+Validation"']
+
+Stepwise formal modelling and reasoning of insulin infusion pump requirements (count 9)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"Continuous"+"FDA+Requirements"', '"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"', '"FDA+Requirements"+"Software+Validation"']
+
+How is agile development currently being used in regulated embedded domains? (count 9)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Regulated software development–an onerous transformation (count 9)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Managing software process evolution: traditional, agile and beyond–how to handle process change (count 9)
+['"Regulated+Domains"+"DevOps"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Agile Software Development (count 9)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+The journeys (count 9)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"+"Regulated+Environments"', '"DevOps"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Weaving Security into DevOps Practices in Highly Regulated Environments (count 8)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Continuous software engineering and beyond: trends and challenges (count 8)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Good Electronic Records Management (GERM) Using IBM Rational ClearCase® and IBM Rational ClearQuest® (count 8)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"']
+
+A hybrid assessment approach for medical device software development companies (count 8)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"DevOps"+"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Innovative Practices for Knowledge Sharing in Large-Scale DevOps (count 8)
+['"Regulated+Domains"+"DevOps"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Case Study of Agile Security Engineering: Building Identity Management for a Government Agency (count 7)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Metrics to Meet Security & Privacy Requirements with Agile Software Development Methods in a Regulated Environment (count 7)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Implementing continuous integration in a small company: A case study (count 7)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Summary of the International Conference on Software and System Processes (ICSSP 2016) [Co-located with ICSE 2016] (count 7)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Researching cooperation and communication in continuous software engineering (count 7)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"Continuous"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+ICSSP 2016–Special Issue Introduction (count 7)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Enabling continuous software engineering for embedded systems architectures with virtual prototypes (count 7)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+SafeScrum®-Agile Development of Safety-Critical Software (count 7)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"DevOps"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+DevOps: A software architect's perspective (count 7)
+['"Regulated+Domains"+"DevOps"', '"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+DevOps in regulated software development: case medical devices (count 7)
+['"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"Continuous"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Lean/agile software development methodologies in regulated environments–state of the art (count 7)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Towards a Risk Management Framework for Quality, Environmental and Health & Safety Management Systems in Regulated Environments (count 7)
+['"Regulated+Environments"+"Continuous"', '"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"']
+
+Continuous software engineering: A roadmap and agenda (count 6)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Handbook of investigation and effective CAPA systems (count 6)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"']
+
+Software risk management: an exploration of software life cycle methodologies, best practices and tools for their application to medical device software risk … (count 6)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"FDA+Requirements"+"Regulated+Environments"+"Software+Validation"']
+
+The first year: the role of a modern lender of last resort (count 6)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Continuous"']
+
+Software reuse in the era of opportunistic design (count 6)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Adapting Agile in Regulated (Pharmaceutical) Environment (count 6)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Safety-critical systems and agile development: a mapping study (count 6)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Method and apparatus for producing regulatory-compliant software (count 6)
+['"Software+Validation"+"DevOps"', '"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Implementing Secure DevOps assessment for highly regulated environments (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Implementing DevOps practices in highly regulated environments (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Accelerating Software Delivery in the context of Requirements Analysis and Breakdown for DevOps: A multiple-case study (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Agile Methods as a Risk Management Strategy Toolâ€“A Fintech Case Study (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+A survey of DevOps concepts and challenges (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Usage, costs, and benefits of continuous integration in open-source projects (count 5)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+A review of US EPA and FDA requirements for electronic records, electronic signatures, and electronic submissions (count 5)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+A compliance office for heavily regulated enterprises—a best practice approach to meeting US FDA requirements (count 5)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+MES reduces FDA compliance costs (count 5)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Investigating the capability of agile processes to support life-science regulations: the case of XP and FDA regulations with a focus on human factor requirements (count 5)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Stepwise Formal Modelling and Reasoning of Insulin Infusion Pump Requirements (count 5)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"Continuous"+"FDA+Requirements"', '"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Real-Life challenges in automotive release planning (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+FairXGBoost: Fairness-aware Classification in XGBoost (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+An agile implementation within a medical device software organisation (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Proposing regulatory-driven automated test suites for electronic health record systems (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Practitioners' eye on continuous software engineering: an interview study (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Adopting Agile Practices when Developing Medical Device Software (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Proposing Regulatory-Driven Automated Test Suites (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Mind the gap: assessing the conformance of software traceability to relevant guidelines (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"']
+
+Discovering, analyzing, and managing safety stories in agile projects (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+An assessment of avionics software development practice: Justifications for an agile development process (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Architectural refactoring as a strategic tool in the evolution of a web-based SaaS product (count 5)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Model‐Based Systems Engineering as an Enabler for Regulatory Design Compliance (count 5)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+Continuous validation for data analytics systems (count 5)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Continuous integration in validation of modern, complex, embedded systems (count 5)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Software analytics in continuous delivery: a case study on success factors (count 5)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Software+Validation"+"Continuous"']
+
+Security challenges in IoT development: a software engineering perspective (count 5)
+['"Regulated+Domains"+"DevOps"', '"Continuous"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Software and System Processes (ICSSP 2016) (count 5)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Charting collective knowledge: supporting self‐regulated learning in the workplace (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+The agile transformation in traditional organisations in regulated environments: A case study in the automotive and aerospace industries (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+ARES: An Agile Requirements Specification Process for Regulated Environments (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+Institutional legitimacy of non-profit innovation facilitators: Strategic postures in regulated environments (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+Managing high-risk, technology-intensive companies in heavily regulated environments: two case studies in the nuclear industry (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+Agile challenges within regulated healthcare environments (count 5)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"', '"Continuous"+"Regulated+Environments"']
+
+Regulated software meets DevOps (count 5)
+['"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Guide to Implementing DevSecOps for a System of Systems in Highly Regulated Environments (count 5)
+['"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Implementing Secure DevOps Assessment for Highly Regulated Environments-HRE (count 5)
+['"Regulated+Environments"+"Continuous"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Understanding DevOps & bridging the gap from continuous integration to continuous delivery (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Including performance benchmarks into continuous integration to enable DevOps (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Building lean continuous integration and delivery pipelines by applying DevOps principles: a case study at Varidesk (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Architecting for devops and continuous deployment (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+DevOps (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Relationship of DevOps to agile, lean and continuous deployment (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Exploiting devops practices for dependable and secure continuous delivery pipelines (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Dimensions of devops (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Towards DevOps in the embedded systems domain: Why is it so hard? (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+DevOps automation and Agile methodology (count 5)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+Microservices validation: Mjolnirr platform case study (count 5)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Caveat: A tool for software validation (count 5)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Improving validation activities in a global software development (count 5)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Inception of software validation and verification practices within CMMI Level 2 (count 5)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Embedded systems and software validation (count 5)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+A framework for assessing the use of third-party software quality assurance standards to meet FDA medical device software process control guideline's (count 5)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"', '"FDA+Requirements"+"Software+Validation"']
+
+Management decisions for sustainable development: medical software case study (count 5)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"', '"FDA+Requirements"+"Software+Validation"']
+
+Validation ROI: An HPT case study from the medical device industry (count 5)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"', '"FDA+Requirements"+"Software+Validation"']
+
+Gene expression profiling of amniotic fluid mesenchymal stem cells of monozygotic twins discordant for trisomy 21 (count 5)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Identifying and classifying ambiguity for regulatory requirements (count 5)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Lifecycle business process compliance management: a semantically-enabled framework (count 5)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+A DevOps Capability-The IVI DevOps Effectiveness Assessment (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+A case study of agile software development for safety-Critical systems projects (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+The EMFIS Model—Enable More Frequent Integration of Software (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Message from the general co-chairs (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Development and Operation of Trustworthy Smart IoT Systems: The ENACT Framework (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Current and future requirements to industrial analytical infrastructure—part 2: smart sensors (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Software Processes and Life Cycle Models (count 4)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+A management approach to software validation requirements (count 4)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"Continuous"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+SPI is Dead, isn't it? Clear the Stage for Continuous Learning! (count 4)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Regulated+Domains"+"Continuous"']
+
+FDA Jurisdiction: A Matter of Definitions in Food & Drug Law: Cases and Materials, 3rd ed. (count 4)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Scenarios in the loop: integrated requirements analysis and automotive system validation (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Introduction to lean canvas transformation models and metrics in software testing (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Risk-based software validation and change control (count 4)
+['"Software+Validation"+"DevOps"', '"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+What do software engineers care about? gaps between research and practice (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+An Introduction to the DevOps Tool Related Challenges (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Software release planning (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Audition: a DevOps-oriented quality control and testing framework for cloud environments (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Closing the gap—Enacting knowledge transfer between engineering and use of healthcare software (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Agile development model for certifiable medical device software (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Assessing and evaluating functional suitability of software (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Systems and Software Interface Survey (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+A Machine to Machine framework for the charging of Electric Autonomous Vehicles (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Automation tools in software development and production (count 4)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Towards a Secure devops Approach for Cyber-Physical Systems: An Industrial Perspective (count 4)
+['"Regulated+Domains"+"DevOps"', '"Continuous"+"Regulated+Domains"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Understanding DevOps: From its Enablers to Impact on IT Performance (count 4)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+How has SPI changed in times of agile development? Results from a multi‐method study (count 4)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Continuous User Understanding in Software Evolution (count 4)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+Innovation: case study among wood, energy and medical firms (count 4)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+A conceptual model of agile software development in a safety-critical context: A systematic literature review (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+Quality assurance for delivering mobile applications that enable healthier and more productive lives (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+Engineering automated systems for pharmaceutical manufacturing: quality, regulations and business performance (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+The application of a lean software development methodology within the regulated domain of medical device software (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+Towards a Risk Management Framework for Quality (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+A Conceptual Model of Agile Software Development in a Safety-Critical Context: A Systematic Literature (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+A conceptual model of agile software development in a safety-critical (count 4)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"', '"Case+Study"+"FDA+Requirements"+"Regulated+Environments"']
+
+Continuous architecting with microservices and DevOps: a systematic mapping study (count 4)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+A large agile organization on its journey towards DevOps (count 4)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"']
+
+From agile to DevOps: Smart skills and collaborations (count 4)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Continuous"', '"DevOps"+"Case+Study"']
+
+Automatic test generation for the analysis of a real-time system: Case study (count 4)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"']
+
+ECSS standard compliant agile software development: an industrial case study (count 4)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"']
+
+How to assure correctness and safety of medical software: the hemodialysis machine case study (count 4)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Software+Validation"']
+
+Demonstrating that medical devices satisfy user related safety requirements (count 4)
+['"Software+Validation"+"FDA+Requirements"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+The quest for ubiquity: A roadmap for software and systems traceability research (count 4)
+['"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"']
+
+The grand challenge of traceability (v1. 0) (count 4)
+['"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"']
+
+Probabilistic worst-case timing analysis: Taxonomy and comprehensive survey (count 4)
+['"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"']
+
+The Development and Validation of a Roadmap for Traceability (count 4)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"']
+
+What are the most important competencies for computer and software validation projects? (count 4)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Medical device software development-A perspective from a lean manufacturing plant (count 4)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Method æ, the agile software development method tailored for the pharmaceutical industry (count 4)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Agile Medical Device Software Development: Introducing Agile Practices into MDevSPICE® (count 4)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Application of an Agile Development Process for EN50128/railway con-formant Software (count 4)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Agile software development requires an agile approach for computer system validation of clinical trials software products (count 4)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Problematizing agile in the large: alternative assumptions for large-scale agile development (count 4)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Flexible software process lines in practice: A metamodel-based approach to effectively construct and manage families of software process models (count 4)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+A Framework for a Standard Compliance Architecture (count 4)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Key supply chain integration factors for success of medical device startups (count 4)
+['"DevOps"+"FDA+Requirements"', '"Continuous"+"DevOps"+"FDA+Requirements"', '"Case+Study"+"DevOps"+"FDA+Requirements"', '"FDA+Requirements"+"DevOps"']
+
+Software validation via model animation (count 4)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Agile at Scale: A Summary of the 8th International Workshop on Large-Scale Agile Development (count 3)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+An empirical study of architecting for continuous delivery and deployment (count 3)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+DevOps em sistemas de informação: implementação em operações de tecnologias de informação (count 3)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Understanding CAPA Requirements in a Software Context (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Testing medical devices: explore the extensive testing policies one manufacturer uses to ensure the safest and most effective products reach the medical market (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Practical Process Validation (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Requirements analysis for user interfaces in mobile ehealth applications (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+How gamma radiation processing systems are benefiting from the latest advances in information technology (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Biotechnology: Quality Assurance and Validation (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Updates are Not Available: FDA Regulations Deter Manufacturers from Quickly and Effectively Responding to Software Problems Rendering Medical Devices … (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Development of a generic tool condition monitoring validation methodology (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+A multidisciplinary approach to meeting regulatory requirements through use of process informatics in regulated manufacturing (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Validation of Computerized Systems (count 3)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Impalpable constraints: Framing requirements for formal methods (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+A domain-aware framework for integrated model-based system analysis and design (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Managing security debt across PLC phases in a VSE context (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Investigating the Perception of Technological Incidents: A case study in the application of psychometric techniques to understand risk perceptions toward … (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+RE4CH: Requirements Engineering for Connected Health (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Release Planning in a Hybrid Project Environment (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Building regulatory-driven automated test suites (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+The genome of Streptococcus pneumoniae is organized in topology-reacting gene clusters (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Using Bayes Factors to Control for Fairness Case Study on Learning To Rank (count 3)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Introducing agile practices in a documentation-driven software development practice: a case study (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+The impacts of a formal quality management system: a case study of implementing ISO 9000 at Farmers Cooperative Co., Iowa (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Army Antimalarial Drug Development: An Advanced Development Case Study for Tafenoquine (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Development of a validation and qualification process for the manufacturing of medical devices: a case study based on cross-sector benchmarking (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Noncompliance within the pharmaceutical industry: A phenomenological case study (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Developing an effective post-market quality assurance program that ensures patient and user safety, FDA compliance, and continuous product improvement (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Review of the current state of whole slide imaging in pathology (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Learning from Prozac: A Case Study on Reforming the FDA Drug Approval Process (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Case study: formula safe foods—canned pasteurized processed cheese (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Using RFID to track and trace high value products: the case of city healthcare (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Batch control system project for a pharmaceutical plant (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Alignment of new product development and product innovation strategies: a case study of Thai food and beverage SMEs (count 3)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Towards Utilization of Lean Canvas in the DevOps Software (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+DevOps: are you pushing bugs to your clients faster (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Comparing DevOps procedures from the context of a systems engineer (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+System for distributed software quality improvement (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Current and Future Challenges of Software Engineering for Services and Applications. (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Agile Requirements Validation in Brazilian Software Development Companies: A Survey (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Virtual Platforms Driving Software Quality in Pre-Silicon (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Software Quality Assurance in INDIGO-DataCloud Project: a Converging Evolution of Software Engineering Practices to Support European Research e-Infrastructures (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+The Way Forward (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Software Quality Assurance in INDIGO-DataCloud project: a converging evolution of software engineering practices to support European Research e-Infrastructures (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Evaluating gates for software in pipeline delivery (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Emerging software testing technologies (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware (count 3)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings (count 3)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+The First 50 Years of Software Reliability Engineering: A History of SRE with First Person Accounts (count 3)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Investigation of the use of test automation in software quality assurance in Norwegian companies and organisations (count 3)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Continuous Quantitative Risk Management in Smart Grids Using Attack Defense Trees (count 3)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Monitoring modern distributed software applications: challenges and solutions (count 3)
+['"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Modernization of software delivery operations: engineering quality into software (count 3)
+['"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Software Engineering: Practical Approach Driven (count 3)
+['"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+VNF Performance modelling: From stand-alone to chained topologies (count 3)
+['"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Variability and complexity in software design: Towards a research agenda (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+On the use of hybrid development approaches in software and systems development: construction and test of the HELENA survey (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Plan-driven approaches are alive and kicking in agile global software development (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Case+Study"+"DevOps"+"Regulated+Domains"']
+
+RESEARCH OUTPUTS/RÉSULTATS DE RECHERCHE (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+HELENA stage 2 results (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Software development practices in Costa Rica: a survey (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Hybrid software and system development in practice: waterfall, scrum, and beyond (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Modelops: Cloud-based lifecycle management for reliable and trusted ai (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Initial Results of the HELENA Survey Conducted in Estonia with Comparison to Results from Sweden and Worldwide (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+Continuous software engineering and its support by usage and decision knowledge: An interview study with practitioners (count 3)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"', '"Continuous"+"DevOps"+"Regulated+Domains"']
+
+The bases for executive action: A multiple case study of leadership in the highly regulated long-term health care industry (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+The challenges of the new institutional environment: an Australian case study of older volunteers in the contemporary non-profit sector (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Agile development as a change management approach in software projects: Applied case study (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Innovation in a regulated service: The case of English housing associations (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Two's company, three's a crowd: a case study of crowdsourcing software development (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Crossing the Boundaries–Agile Methods in Large-Scale, Plan-Driven Organizations: A Case Study from the Financial Services Industry (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Positive deviance on the ethical continuum: Green Mountain Coffee as a case study in conscientious capitalism (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+IT governance and risk mitigation approach for private cloud adoption: case study of provincial healthcare provider (count 3)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Towards continuous security compliance in agile software development at scale (count 3)
+['"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"']
+
+Continuous integration applied to software-intensive embedded systems–problems and experiences (count 3)
+['"Regulated+Environments"+"Continuous"', '"Case+Study"+"Continuous"+"Regulated+Environments"', '"Continuous"+"Regulated+Environments"']
+
+Editors: Ken Lin, Booz Allen Hamilton (count 3)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"', '"Continuous"+"FDA+Requirements"+"Regulated+Environments"']
+
+Ovum Decision Matrix: Selecting an Agile Project Management Solution, 2016–17 (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Evolution of Integration, Build, Test, and Release Engineering Into DevOps and to DevSecOps (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Security impacts of sub-optimal DevSecOps implementations in a highly regulated environment (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Ovum Decision Matrix: Selecting an Application Lifecycle Management Solution, 2016–17 (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Lean Enterprise (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+More agile testing: learning journeys for the whole team (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+DECISION SCIENCES INSTITUTE (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+But Where Is My Value? (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Challenges and directions in service management automation (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+CompliancePal: A Tool for Supporting Practical Agile and Regulatory-Compliant Development of Medical Software (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Towards agile yet regulatory-compliant development of medical software (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Remote and agile improvement of industrial control and safety systems processes (count 3)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Does the domain of technology impact user trust? Investigating trust in automation across different consumer-oriented domains in young adults, military, and older … (count 3)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"', '"Regulated+Domains"+"Continuous"']
+
+DevOps adoption benefits and challenges in practice: a case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOps capabilities, practices, and challenges: Insights from a case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOps in practice: A multiple case study of five companies (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Continuous practices and devops: beyond the buzz, what does it all mean? (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Adopting DevOps in the real world: A theory, a model, and a case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Dependency management in large-scale agile: a case study of DevOps teams (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Towards continuous software reliability testing in DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Non-intrusive anomaly detection with streaming performance metrics and logs for DevOps in public clouds: a case study in AWS (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+A case analysis of enabling continuous software deployment through knowledge management (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Case+Study"', '"Continuous"+"DevOps"']
+
+DevOps improvements for reduced cycle times with integrated test optimizations for continuous integration (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+An Agile Framework for ITS Management In Organizations: A Case Study Based on DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+CMMI guided process improvement for DevOps projects: an exploratory case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Continuous and Integrated Software Development using DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+DevOps for IoT Systems: Fast & Continuous Monitoring Feedback of System Availability (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Productivity gains of DevOps adoption in an IT team: a case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOpRET: Continuous reliability testing in DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Implementing the Planning Process within DevOps Teams to Achieve Continuous Innovation (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Enabling DevOps collaboration and continuous delivery using diverse application environments (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+DevOps for information management systems (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Continuous scrum: A framework to enhance scrum with DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Designing Software Architecture to Support Continuous Delivery and DevOps: A Systematic Literature Review. (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+SKI: A New Agile Framework that Supports DevOps, Continuous Delivery, and Lean Hypothesis Testing (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+A software architecture framework for quality-aware DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+An exploratory study of devops extending the dimensions of devops with practices (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+SLA-based continuous security assurance in multi-cloud DevOps (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Adoption issues in devops from the perspective of continuous delivery pipeline (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+A qualitative study of DevOps usage in practice (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOps in practice: an exploratory case study (count 3)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Engineering the software for understanding climate change (count 3)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"']
+
+Good computer validation practice is good business practice (count 3)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+The Computer System Risk Management and Validation Life Cycle (count 3)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Device risk concept: A concrete method of risk assessment for quality system software (count 3)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Electronic Validation in the Pharmaceutical Industry (count 3)
+['"Software+Validation"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Automatic Data Generation for MC/DC Test Criterion Using Metaheuristic Algorithms (count 3)
+['"Continuous"+"Regulated+Domains"+"Software+Validation"', '"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"']
+
+Datasets from fifteen years of automated requirements traceability research: Current state, characteristics, and quality (count 3)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"', '"Case+Study"+"Regulated+Domains"+"Software+Validation"']
+
+Checklist for Computer Software Validation (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+A Rally Software Development Corporation Whitepaper (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+A Leaner Software System Development Process (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Qualifying Network Infrastructure-A Risk-Based Approach (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+SCRUM in the FDA context (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Efficient validation of tools used for medical software (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+System and method for monitoring a controlled environment (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+First Pass Yield Metric Implementation for Validation Documents (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Systém pro řízení chemického skladu ve farmacii (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Pharmaceutical Computer Systems Validation: Quality Assurance, Risk Management and Regulatory Compliance (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+The changing landscape of requirements engineering practices over the past decade (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Creating a Software Assembly Line (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Essential software testing: a use-case approach (count 3)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Challenges and Opportunities with Governance of Personally Generated Health Data (PGHD) (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Understanding the influence of multiple levels of governments on the development of inter-organizational systems (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Requirements traceability across organizational boundaries-a survey and taxonomy (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Humans as a service: The promise and perils of work in the gig economy (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+A Lightweight Software Process Assessment Approach Based on MDevSPICE® for Medical Device Development Domain (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+The role of distribution system operators in the Netherlands: Exploring the necessary strategies, resources and capabilities of the distribution system operators in the … (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Investigating the impact of institutional forces on the operations of an organisation-implemented ERP system in a developing country (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Performance metrics and operational parameters of RFID systems (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Continuous"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Computational Verification of Security Requirements (count 3)
+['"Regulated+Environments"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"+"Regulated+Environments"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Barriers to adopting agile practices when developing medical device software (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Balancing agility and discipline in a medical device software organisation (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Med-Adept: a lightweight assessment method for the Irish medical device software industry (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"']
+
+Pharmaceutical and Medical Devices Manufacturing Computer Systems Validation (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Overview of contemporary guidelines in digital pathology: what is available in 2015 and what still needs to be addressed? (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Software+Validation"+"Regulated+Environments"']
+
+Tailoring MDevSPICE® for mobile medical apps (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Take the (paper) weight off your mind (count 3)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Factors Affecting Adoption of Cloud Computing in the Life Sciences Industry (count 3)
+['"DevOps"+"FDA+Requirements"', '"Case+Study"+"DevOps"+"FDA+Requirements"', '"FDA+Requirements"+"DevOps"']
+
+Reproducible big data science: A case study in continuous FAIRness (count 3)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+HybridFluctuat: A static analyzer of numerical programs within a continuous environment (count 3)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Method validation in pharmaceutical analysis: A guide to best practice (count 3)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Models testing models in continuous integration of modeldriven development (count 3)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Enable more frequent integration of software in industry projects (count 2)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Agile Processes in Software Engineering and Extreme Programming–Workshops: XP 2020 Workshops, Copenhagen, Denmark, June 8–12, 2020, Revised Selected … (count 2)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"DevOps"+"Regulated+Environments"']
+
+An Industrial Roadmap for Continuous Delivery of Software for Safety-critical Systems (count 2)
+['"Case+Study"+"DevOps"+"Regulated+Environments"', '"Regulated+Environments"+"Continuous"']
+
+Economic and Regulatory Perspectives on Additive Manufacturing (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Design controls for the medical device industry (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Software and Data Regulatory Compliance in the Cloud. (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"']
+
+Benchmarking best practices in aerospace sector for the qualification and validation of medical devices (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Implementation of Good Manufacturing Practice Regulations for Positron Emission Tomography Radiopharmaceuticals: Challenges and Opportunities Perceived by … (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Software management for medical devices (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Software+Validation"+"FDA+Requirements"']
+
+Medical device industry: use of design quality metrics in reducing product recalls (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Review Regulatory Guidelines by Device Classification Type (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Limited output transcranial electrical stimulation (LOTES-2017): Engineering principles, regulatory statutes, and industry standards for wellness, over-the-counter, or … (count 2)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"', '"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+A simulation platform for human-machine interaction safety analysis of cyber-physical systems (count 2)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"']
+
+Health innovation processes at public–private interface (count 2)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Case+Study"+"Regulated+Domains"']
+
+Knowledge Spillovers and Absorptive Capacity—Institutional Evidence from the “German Mittelstand” (count 2)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"']
+
+Do students use testing and feedback while learning? A focus on key concept definitions and learning to criterion (count 2)
+['"Case+Study"+"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Case+Study"']
+
+LOT HISTORY RECORD STREAMLINE: A CASE STUDY (count 2)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"']
+
+Supporting medical device development: a standard product design process model (count 2)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+CASE STUDY No. III HERBICIDE-TOLERANT SOYBEAN (count 2)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"']
+
+A case study of Vioxx using STAMP (count 2)
+['"Case+Study"+"Continuous"+"FDA+Requirements"', '"Case+Study"+"FDA+Requirements"']
+
+Disk image selection in virtualized network environments (count 2)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"']
+
+Visual analytics for concurrent Java executions (count 2)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"']
+
+Deliverable D5. 3-analysis of requirements for software management (count 2)
+['"Software+Validation"+"DevOps"', '"Continuous"+"DevOps"+"Software+Validation"']
+
+Methodological Support for Task Coordination in Global Software Engineering Projects at Product Software Companies (count 2)
+['"Software+Validation"+"DevOps"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Deploying the Release (count 2)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"']
+
+Experience in Grid Site Testing for High Energy Physics with HammerCloud (count 2)
+['"Software+Validation"+"DevOps"', '"DevOps"+"Software+Validation"']
+
+Continuous practices: a strategic approach to accelerating the software production system (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Exploring Software Development as an Experiment System: An Interview-Based Qualitative Survey (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+An experience report on the adoption of microservices in three Brazilian government institutions (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"DevOps"+"Software+Validation"']
+
+Literature review of test automation models in Agile testing (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Getting Started with Chaos Engineering-design of an implementation framework in practice (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+AppFlow: using machine learning to synthesize robust, reusable UI tests (count 2)
+['"Continuous"+"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+HELENA study: initial observations of software development practices in Argentina (count 2)
+['"Regulated+Domains"+"DevOps"', '"DevOps"+"Regulated+Domains"']
+
+Rationality, accounting and politics: a case study of management control in a Bangladeshi jute mill (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Challenges in agile security engineering: a case study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Constraints for the design of variability-intensive service-oriented reference architectures–An industrial case study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+'Where Do I Begin?': A Case Study of Student Self-Regulation. (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Managing organizations in the Third World: a case study of management control in a Bangladeshi jute mill (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Testing, contesting and legitimizing technology diffusion in regulated environments (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Regulated open multi-agent systems based on contracts (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Case study of security development in an agile environment: building identity management for a government agency (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Social interaction regulation in virtual web environments using the Social Theatres model (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Transmission planning in deregulated environments (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+A case study of flexible solutions to transport demand in a deregulated environment (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Early Regulations of Distributed Ledger Technology/Blockchain Providers: A Comparative Case Study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Defining and assessing requisite supply chain visibility in regulated industries (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+The impact of mergers & acquisitions on IT governance structures: A case study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+… ACCESSIBILITY THROUGH IMPLEMENTING A SMART SCAN-ON M-TICKETING SOLUTION:: A UNITED KINGDOM CASE STUDY APPROACH WITHIN RURAL … (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Ion-suppression effects in liquid chromatography–tandem mass spectrometry due to a formulation agent, a case study in drug discovery bioanalysis (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+A market-based transmission planning for HVDC grid—case study of the North Sea (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Inventing hedge funds: A comparative study of institutional and individual entrepreneurship in ambiguously regulated environments (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+San Francisco Bay Area Boatyards: A Case Study in Regulating Small Polluters (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Value Proposition of Battery Energy Storage Systems on Electric Distribution Systems in Regulated Environments (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Strategic planning in unstable environments (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Blisstrail: an agile project business case study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+NIST risk assessment for Part 11 compliance: Evaluation of a GXP case study (count 2)
+['"Case+Study"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+Efficient engineering and production concepts for products in regulated environments–dream or nightmare? (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Designing Personalized and Self-regulated Environments in MOOC (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Design and operation of continuous countercurrent chromatography in biotechnological production (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Strategic planning for regulated companies (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Enhancing global competitiveness: benchmarking airline operational performance in highly regulated environments (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Use of the SSHAC methodology within regulated environments: Cost-effective application for seismic characterization at multiple sites (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Agile software development with verification and validation in high assurance and regulated environments (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Managing data for regulated environments (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Evolution of Continuous Chromatography: Moving Beyond Chiral Separations The author presents recent developments in simulated moving-bed chromatography in … (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+AN ANALYSIS OF SOFTWARE REQUIREMENTS SPECIFICATION CHARACTERISTICS IN REGULATED ENVIRONMENTS (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Convection liner for use in regulated environments for artificial limbs and associated methods (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Negative gauge pressure dynamic convection system having inner and outer airflow regulated environments for artificial limb and associated methods (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Public enterprise reforms and efficiency in regulated environments: the case of the postal sector (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Macroinvertebrate responses to flow and stream temperature variability across regulated and non‐regulated rivers (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Investigating efficacy expectancy as criterion for comparison of teacher-versus student-regulated learning in higher education (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Enhancing Global Competitiveness: Benchmarking Airline Operational Performance in Highly Regulated Environments Brent D. Bowen University of … (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Systems and methods for authenticating online users in regulated environments (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Security and Hardening in Continuous Delivery (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"DevOps"+"Regulated+Environments"']
+
+A theory of change in turbulent environments: the sequencing of dynamic capabilities following industry deregulation (count 2)
+['"Regulated+Environments"+"Continuous"', '"Continuous"+"Regulated+Environments"']
+
+Success in Academic Surgery: Innovation and Entrepreneurship Managing FDA Regulatory Requirements into a Positive Bridge for Commercial Success (count 2)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"']
+
+Review of aqueous chiral electrokinetic chromatography (EKC) with an emphasis on chiral microemulsion EKC (count 2)
+['"FDA+Requirements"+"Regulated+Environments"', '"Regulated+Environments"+"FDA+Requirements"']
+
+Implementing DevOps in a Regulated Traditionally Waterfall Environment (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+UML-Driven Software Performance Engineering (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Moving from blocker to enabler: cloud security and the modern CISO (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Healthcare Application Migration in Compliant Hybrid Clouds (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Magic Quadrant for Enterprise Agile Planning Tools (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Cloudy with high chance of DBMS: A 10-year prediction for Enterprise-Grade ML (count 2)
+['"Regulated+Environments"+"DevOps"', '"DevOps"+"Regulated+Environments"']
+
+Note on the paper “Regulated domains and Bergman type projections” (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Stable Caenorhabditis elegans chromatin domains separate broadly expressed and developmentally regulated genes (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Regulated domains and Bergman type projections (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Atomic decomposition in regulated domains (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Conservation and divergence of light-regulated genome expression patterns during seedling development in rice and Arabidopsis (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Insulator dynamics and the setting of chromatin domains (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Broad chromatin domains: an important facet of genome regulation (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Sup-norm estimates for Bergman-projections on regulated domains (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Bergman projection on simply connected domains (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+The transcriptome of Streptococcus pneumoniae induced by local and global changes in supercoiling (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Reciprocal insulation analysis of Hi-C data shows that TADs represent a functionally but not structurally privileged scale in the hierarchical folding of chromosomes (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Do local tobacco regulations influence perceived smoking norms? Evidence from adult and youth surveys in Massachusetts (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Genome-scale functional characterization of Drosophila developmental enhancers in vivo (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Stable C. elegans chromatin domains separate broadly expressed and developmentally regulated genes (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Signaling and gene regulatory networks in mammalian lens development (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+The Drosophila gene disruption project: progress using transposons with distinctive site specificities (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Euler Equations on General Planar Domains (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+RING tetramerization is required for nuclear body biogenesis and PML sumoylation (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Identification of Functional Domains of Nrf1 that Mediates ARE-driven Gene Expression (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+On Nehari disks and the inner radius (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Beneficial and Harmful Agile Practices for Product Quality (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Continuous assessment of software traceability (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Regulation of Lactobacillus casei sorbitol utilization genes requires DNA-binding transcriptional activator GutR and the conserved protein GutM (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Ephrin-B1 forward signaling regulates craniofacial morphogenesis by controlling cell proliferation across Eph–ephrin boundaries (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Enhancing domain-specific supervised natural language intent classification with a top-down selective ensemble model (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Software processes for a changing world (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Identification of a conserved erythroid specific domain of histone acetylation across the α-globin gene cluster (count 2)
+['"Continuous"+"Regulated+Domains"', '"Regulated+Domains"+"Continuous"']
+
+Challenges in adopting continuous delivery and DevOps in a globally distributed product team: a case study of a healthcare organization (count 2)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"']
+
+What We Know About Software Architecture Styles in Continuous Delivery and DevOps? (count 2)
+['"Case+Study"+"Continuous"+"DevOps"', '"Continuous"+"DevOps"']
+
+Orchestrating automation and sharing in DevOps teams: a revelatory case of job satisfaction factors, risk and work conditions (count 2)
+['"Case+Study"+"Continuous"+"DevOps"', '"DevOps"+"Case+Study"']
+
+The DevOps Reference Architecture Evaluation: A Design Science Research Case Study (count 2)
+['"Case+Study"+"Continuous"+"DevOps"', '"Case+Study"+"DevOps"']
+
+A case study in JML-based software validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Space software validation using abstract interpretation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Software validation in metrology: A case study for a GUM-supporting software (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Predicting fault-proneness using OO metrics. An industrial case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Verification and validation of bioinformatics software without a gold standard: a case study of BWA and Bowtie (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+An industrial case study of the verification and validation activities (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Model simulation, validation and case study of the 2004 THS of Toyota Prius (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Control system modernization: Turbogas unit case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A case study in design and verification of manufacturing system control software with hierarchical Petri nets (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+New assertion concepts for self-metric software validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A test generation solution to automate software testing (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Case study: Paris metro signaling system (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A case study in hardware-in-the-loop testing: Development of an ECU for a hybrid electric vehicle (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Software Validation Study. (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Requirements traceability: a systematic review and industry case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Integrated security verification and validation: Case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A case study on testing CMM uncertainty simulation software (VCMM) (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Measuring the cost of software quality of a large software project at bombardier transportation: a case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+V&V in the next decade [software validation] (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Socio-hydrosystem modelling for integrated water-resources management—the Hérault catchment case study, southern France (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Development and validation of energy signature method–Case study on a multi-family building in Sweden before and after deep renovation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Expressing and implementing operational profiles for reactive software validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A Case Study in JML-based Software Validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Predicting defect content and quality assurance effectiveness by combining expert judgment and defect data-a case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Towards the trustworthy development of active medical devices: a hemodialysis case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Reference Case Study “Traffic Control Systems” for Comparison and Validation of Formal Specifications Using a Railway Model Demonstrator (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Deploying hardware platforms for SoC validation: An industrial case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Requirements traceability in automated test generation: application to smart card software validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+A case study in developing control software of manufacturing systems with hierarchical Petri nets (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Use of GSPNs for concurrent software validation in EPOCA (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+The metrô rio ATP case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Continuous"+"Software+Validation"']
+
+Formal verification with Frama-C: A case study in the space software domain (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+The Airlift Capabilities Estimation Prototype: A Case Study in Model Validation (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Evaluating freshwater macroinvertebrates from eDNA metabarcoding: A river Nalón case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Validation of temperature-perturbation and CFD-based modelling for the prediction of the thermal urban environment: The Lecce (IT) case study (count 2)
+['"Software+Validation"+"Case+Study"', '"Case+Study"+"Software+Validation"']
+
+Software development practice for FDA-compliant medical devices (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Lifecycle considerations for device software (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Medical device standards' requirements for traceability during the software development lifecycle and implementation of a traceability assessment model (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Software Validation (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Validation of software" in-product" or" as-product" (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Collaborating for CT systems validation (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Improving software risk management in a medical device company (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Application software configuration management testing in a pharmaceutical laboratory automation environment (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Improving software risk management practices in a medical device company (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Statistical Software in Bioequivalence (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Improvements in processing and manufacturing at CeramTec (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Computer software quality assurance (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Validation and Implementation of a New Enterprise Resource Planning (ERP QAD) on Receiving Area (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Compliance Matters (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Medical Device Challenges (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Protecting and securing networked medical devices (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Safety and effectiveness considerations for clinical studies of visual prosthetic devices (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Clinical Trial Data Integrity Using Internet Technology to (count 2)
+['"Software+Validation"+"FDA+Requirements"', '"FDA+Requirements"+"Software+Validation"']
+
+Placing Agile in a Safety Context (count 2)
+['"DevOps"+"Software+Validation"', '"Case+Study"+"DevOps"+"Software+Validation"']
+
+Integrated solution for timely delivery of customer change requests: A case study of using devops approach (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Container and microservice driven design for cloud infrastructure devops (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Management challenges for DevOps adoption within UK SMEs (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Performance issues? Hey DevOps, mind the uncertainty (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Standards-based DevOps automation and integration using TOSCA (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Report: Devops literature review (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Streamlining DevOps automation for Cloud applications using TOSCA as standardized metamodel (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+BizDevOps: because DevOps is not the end of the story (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+A New Form of Collaboration in IT Teams-Exploring the DevOps Phenomenon. (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+A case study in enabling DevOps using Docker (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Profile your chains, not functions: Automated network service profiling in devops environments (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOps competences and maturity for software producing organizations (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Are you ready for Devops? Required skill set for Devops teams (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+It governance mechanisms for devops teams-how incumbent companies achieve competitive advantages (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Building a collaborative culture: a grounded theory of well succeeded devops adoption in practice (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Implementation of a DevOps pipeline for serverless applications (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Streamlining DevOps automation for Cloud applications (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+Factors inhibiting the adoption of DevOps in large organisations: South African context (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+DevOps: a definition and perceived adoption impediments (count 2)
+['"Case+Study"+"DevOps"', '"DevOps"+"Case+Study"']
+
+The Plasmodium falciparum transcriptome in severe malaria reveals altered expression of genes involved in important processes including surface antigen … (count 2)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"']
+
+A roadmap to ISO 14971 implementation (count 2)
+['"Software+Validation"+"Regulated+Domains"', '"Regulated+Domains"+"Software+Validation"']
+
+Conformance to medical device software development requirements with XP and Scrum implementation (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Implementing S88 in discrete manufacturing equipment (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+A software risk management capability model for medical device software (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Blockchain and iot integration: A systematic survey (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+The Medical Device Industry: Developments in Software Risk Management (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Monitoring the use of impaired hand by a new low cost device during daily life activities with real-time visual feedback (count 2)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+The correlation of the fda's computer system validation enforcement with the rate of adoption of erp technology by the medical device industry (count 2)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"', '"FDA+Requirements"+"Software+Validation"']
+
+Decision Making in the Context of Regulatory Policy: Is there a Role for DSS? (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Improving Processes by Integrating Agile Practices (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Child, Parent and Worker Vulnerabilities in (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Modelling organisations as electronic institutions (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+PBES: a policy based encryption system with application to data sharing in the power grid (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Development of high-integrity software product lines using model transformation (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Lords of the harvest: Third-party influence and regulatory approval of genetically modified organisms (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Combining Coordination and Organisation Mechanisms for the Development of a Dynamic Context-aware Information System Personalised by means of Logic-based … (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Secure, Policy-Based, Multi-Recipient Data Sharing (count 2)
+['"Regulated+Environments"+"Regulated+Domains"', '"Regulated+Domains"+"Regulated+Environments"']
+
+Recommendations for the validation of flow cytometric testing during drug development: I instrumentation (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Computer software validation in pharmaceuticals (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+A Validation/Qualification Solution for R (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+An insight into the difficulties of software development projects in the pharmaceutical industry (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+A Comparison of Software Development Methods in a Regulated and Commercial Environment (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+The Use of Predictive Tools and Software In a Building Regulatory Environment (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Electronic Data Capture in clinical trials–interface design and evaluation and system validation (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Computer system validation in the perspective of the pharmaceutical industry (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Qualification of Network Components and Validation of Networked Systems (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Installation Qualification of IBM Systems and Storage for FDA Regulated Companies (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+21 CFR part 11: Complete guide to international computer validation compliance for the pharmaceutical industry (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Validation of HPLC Analyses in Therapeutic Drug Monitoring (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Personal skills and competences (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+spectral searching capabilities for (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+EU Annex 11 Guide to Computer Validation Compliance for the Worldwide Health Agency GMP (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Collaboration with th. e (count 2)
+['"Regulated+Environments"+"Software+Validation"', '"Software+Validation"+"Regulated+Environments"']
+
+Why enterprises must adopt devops to enable continuous delivery (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Continuous integration and automation for DevOps (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Model-driven continuous deployment for quality devops (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Continuous delivery and DevOps: a quickstart guide (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+DevOps: continuous delivery, integration, and deployment with DevOps: dive into the core DevOps strategies (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Collaborative gathering and continuous delivery of DevOps solutions through repositories (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+The software architect and DevOps (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Continuous Integration, Deployment and Testing in DevOps Environment (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Continuous Integration and Automation (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+DevOps and its practices (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Applying DevOps Practices of Continuous Automation for Machine Learning (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+2nd workshop on DevOps and software analytics for continuous engineering and improvement (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Industry-academy collaboration in teaching DevOps and continuous delivery to software engineering students: towards improved industrial relevance in higher … (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Characterizing DevOps by hearing multiple voices (count 2)
+['"DevOps"+"Continuous"', '"DevOps"+"Case+Study"']
+
+Hands-on DevOps: Explore the concept of continuous delivery and integrate it with data science concepts (count 2)
+['"DevOps"+"Continuous"', '"Continuous"+"DevOps"']
+
+Agile software development and its compatibility with a document-driven approach? A case study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+WOC nurses as advocates for patients who are morbidly obese: a case study promoting the use of bariatric beds (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Regulation of positron emission tomography: a case study. (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Reusing single-use devices in hospitals: a case study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Re-Entering the US Market with Jamaican Ackees: A Case Study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Design of medical diagnostics products: A case-study of a saliva diagnostics kit (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Analytical validation of protein-based multiplex assays: a workshop report by the NCI-FDA interagency oncology task force on molecular diagnostics (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Encouraging translational research through harmonization of FDA and common rule informed consent requirements for research with banked specimens (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+From NCIIA E-team to lifesaving device: a case study of innovation and entrepreneurship (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+… Dossier in the Cloud: A Sociotechnical Architecture for a Real-Time and Metrics-Based Data Tracking System with Gene and Cell Therapies as a Case Study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+The future of traceability within the US food industry supply chain: A business case (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+The Oversimplification of Deregulation: A Case Study on Clinical Decision Support Software (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+FDA regulatory pathways for knee cartilage repair products (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+The impact of the FDA calorie menu labeling: A case study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Regulatory requirements of the Food and Drug Administration would preclude product claims based on observational research (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Gastrointestinal behavior of weakly acidic BCS class II drugs in man—case study of diclofenac potassium (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Implementing the additional strength biowaiver for generics: EMA recommended approaches and challenges for a US-FDA submission (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Case Study: Application of DoD Architecture Framework to Characterizing a Hospital Emergency Department as the Intended Use Environment for Medical Devices (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Bringing Liraglutide to market: A CER case study (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+FDA Catches Up with Health IT Revolution: Convergence of Healthcare and Information Technology Has FDA Scrambling to Update Policies (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+A case study on the procurement of CE marked pressure equipment from both inside and outside Europe (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+The First Amendment and FDA restrictions on off-label uses: the call for a new approach (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Statins and Adverse Cardiovascular Events in Moderate‐Risk Females: A Statistical and Legal Analysis with Implications for FDA Preemption Claims (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Internet marketing in healthcare: The case of generic drugs and the contagion effect (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+FDA approved guidance conduits and wraps for peripheral nerve injury: a review of materials and efficacy (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Regulatory Silence at the FDA (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Valuing the benefits and costs of improved food safety and nutrition (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+FDA & the Changing Paradigm for HCT/P Regulation (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Review of global regulations concerning biowaivers for immediate release solid oral dosage forms (count 2)
+['"Case+Study"+"FDA+Requirements"', '"FDA+Requirements"+"Case+Study"']
+
+Correctable myths about research misconduct in the biomedical sciences (count 2)
+['"Regulated+Domains"+"FDA+Requirements"', '"FDA+Requirements"+"Regulated+Domains"']
+
+The Presumption against Implied Preemption: How State Law Fraud-on-the-FDA Claims Complement, Rather than Conflict with Federal Law (count 2)
+['"Regulated+Domains"+"FDA+Requirements"', '"FDA+Requirements"+"Regulated+Domains"']
+
+Experimenting with reproducibility: a case study of robustness in bioinformatics (count 2)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"']
+
+Evaluation of specific energy consumption and GHG emissions for different drying methods (Case study: Pistacia Atlantica) (count 2)
+['"Case+Study"+"Continuous"+"Software+Validation"', '"Case+Study"+"Continuous"+"Software+Validation"']
+
+A conceptual framework for lean regulated software development (count 2)
+['"Case+Study"+"Continuous"+"Regulated+Environments"', '"Regulated+Environments"+"Case+Study"']
+
+A new era in continuous glucose monitoring: Food and Drug Administration creates a new category of factory-calibrated nonadjunctive, interoperable class II … (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Validation of a continuous granulation process using a twin-screw extruder (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Measures of accuracy for continuous glucose monitoring and blood glucose monitoring devices (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Benzalkonium chloride: a bronchoconstricting preservative in continuous albuterol nebulizer solutions (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Topical delivery of cultured stem cells to human non-healing wounds: GMP facility development in an academic setting and FDA requirements for an IND and human … (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Impact of the US Food and Drug Administration cardiovascular assessment requirements on the development of novel antidiabetes drugs (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Do the new FDA guidance documents help improving performance of blood glucose monitoring systems compared with ISO 15197? (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Pharmaceutical Master Validation Plan: the ultimate guide to FDA, GMP and GLP compliance (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Use of patient-reported outcomes in medical product development: a report from the 2009 NEI/FDA clinical trial endpoints symposium (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Managing Change for Continuous Improvement in a Regulated Industry (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Off-label or out of bounds-prescriber and marketer liability for unapproved uses of FDA-approved drugs (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Communication and interoperability for serial comparison in continuous health care–the new challenges (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Quasi-Continuous Particle Size Characterisation During Accelerated Stent Radial Fatigue Test (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Continuous glucose monitoring in insulin-treated patients in non-ICU settings (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Quality management benchmarking: FDA compliance in pharmaceutical industry (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Statistical issues on the FDA conjugated estrogen tablets bioequivalence guidance (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+The FDA and the tort system: postmarketing surveillance, compensation, and the role of litigation (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Validation of laboratory-developed molecular assays for infectious diseases (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Food and Drug Administration requirements for testing and approval of new radiopharmaceuticals (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+A review of design for X methods for medical devices: The introduction of a design for FDA approach (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+SCAI/ACC/HRS institutional and operator requirements for left atrial appendage occlusion (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Pendra goes Dutch; lessons for the CE mark in Europe (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Quality by design in analytical method development and validation (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+The issue of a US Food and Drug Administration moratorium on the use of the pulmonary artery catheter. (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+US Food and Drug Administration requirements for toxicity testing of contraceptive products (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+The future of pharmaceutical quality and the path to get there (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+FDA and USDA Nutrition Labeling Guide: Decision Diagrams, Check (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+INTERMACS (Interagency Registry for Mechanically Assisted Circulatory Support): a new paradigm for translating registry data into clinical practice (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+An Overview of International Cooperation (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Achieve compliance through CI (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Guidelines and requirements for the evaluation of contraceptive steroids (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Governmental regulations and radiation exposure (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+A Comparison of Common Diets for the Continuous Culture of Adult Lucilia sericata (Diptera: Calliphoridae) for Forensic and Medical Entomological Applications (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Assessing and demonstrating data saturation in qualitative inquiry supporting patient-reported outcomes research (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+A content analysis of direct-to-consumer television prescription drug advertisements (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Fermenter design (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Continuous sonication method for preparing protein encapsulated microbubbles (count 2)
+['"FDA+Requirements"+"Continuous"', '"Continuous"+"FDA+Requirements"']
+
+Economic analysis of integrated continuous and batch pharmaceutical manufacturing: a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+From value stream mapping toward a lean/sigma continuous improvement process: an industrial case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous program optimization: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Enabling continuous improvement: a case study of implementation (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Climbing the" Stairway to Heaven"--A Mulitiple-Case Study Exploring Barriers in the Transition from Agile Development towards Continuous Deployment of Software (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Integrating six sigma and theory of constraints for continuous improvement: a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous production of 5-hydroxymethylfurfural from fructose: a design case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Test case prioritization for continuous regression testing: An industrial case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous dual-career families: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Integrating continuous improvement and innovation into a corporate culture: a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Creating a culture of data use for continuous improvement: A case study of an Edison Project school (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Metabolism of Women during the Reproductive Cycle: VII. Utilization of Inorganic Elements (a Continuous Case Study of a Multipara): Three Figures (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous stress detection using wearable sensors in real life: Algorithmic programming contest case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Using opportunity costs to determine the cost of quality: A case study in a continuous-process industry (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+A case study in tool-aided analysis of discretely controlled continuous systems: the two tanks problem (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Conversion of clearcut beech coppices into high forests with continuous cover: a case study in central Italy (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Institutional imperatives versus emergent dynamics: A case study on continuous change in higher education (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+A scheduling system for the steelmaking-continuous casting process. A case study from the steel-making industry (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Characteristics and formation mechanism of continuous hazes in China: a case study during the autumn of 2014 in the North China Plain (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Interpreting time-series analyses for continuous-time biological models—measles as a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Challenges when adopting continuous integration: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous monitoring of rumen pH–a case study with cattle (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Ocean loading corrections for continuous GPS: A case study at the Canadian coastal site Holberg (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+School Teachers' Continuous Professional Development in an Online Learning Community: lessons from a case study of an e T winning Learning Event (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous integration and quality assurance: A case study of two open source projects (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Discrete and continuous time representations and mathematical models for large production scheduling problems: A case study from the pharmaceutical industry (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Implementing an industrial continuous improvement system: a knowledge management case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Experienced benefits of continuous integration in industry software product development: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous evolution through software architecture evaluation: a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Characterizing experimentation in continuous deployment: a case study on bing (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Process analytical technology for continuous manufacturing tableting processing: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Harmonic analysis of the Earth's gravitational field by means of semi-continuous ephemerides of a low Earth orbiting GPS-tracked satellite. Case study: CHAMP (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Fundamental discrepancies between average-case analyses under discrete and continuous distributions: A bin packing case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+The challenge of integrating non-continuous processes–milk powder plant case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Customer demand planning at Lucent Technologies: a case study in continuous improvement through sales forecast auditing (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Imputing variance estimates do not alter the conclusions of a meta-analysis with continuous outcomes: a case study of changes in renal function after living kidney … (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Strategic planning in nonprofit organizations: Continuous quality performance improvement-a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Optimal periodic scheduling of batch plants using RTN-based discrete and continuous-time formulations: a case study approach (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Continuous improvement capability: assessment within one case study organisation (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Land suitability evaluation using fuzzy continuous classification (a case study: Ziaran region) (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Understanding the users' continuous adoption of 3D social virtual world in China: A comparative case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Understanding uptake of continuous quality improvement in Indigenous primary health care: lessons from a multi-site case study of the Audit and Best Practice … (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Barriers to successful implementation of ABC for continuous improvement: A case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+A case study on a 2-1-1 cascaded continuous-time sigma-delta modulator (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Improving diabetes preventive care in a family practice residency program: a case study in continuous quality improvement (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Mitigating roadway impacts to migratory mule deer—a case study with underpasses and continuous fencing (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Discrete versus continuous Newton's method: a case study (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Formal verification of wastewater treatment processes using events detected from continuous signals by means of artificial neural networks. Case study: SBR plant (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+The integration of TLS and continuous GPS to study landslide deformation: a case study in Puerto Rico (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+Modeling of event and continuous flow hydrographs with HEC–HMS: case study in the Kelani River Basin, Sri Lanka (count 2)
+['"Continuous"+"Case+Study"', '"Case+Study"+"Continuous"']
+
+The role of norms and electronic institutions in multi‐agent systems applied to complex domains. The HARMONIA framework (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Characteristics of software ecosystems for Federated Embedded Systems: A case study (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Knowledge Sharing in Financial Credit Reporting: An Exploratory Case Study in an Australian Context (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Approach for enabling security across PLC phases: an industrial use case (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Managing changing compliance requirements by predicting regulatory evolution (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Traceability Network Analysis: A Case Study of Links in Issue Tracking Systems (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Towards regulatory compliance: Extracting rights and obligations to align requirements with regulations (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+The role of the state in voluntary environmental reform: A case study of public land (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Understanding knowledge management software-organisation misalignments from an institutional perspective: A case study of a global IT-management consultancy … (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+… KNOWLEDGE MANAGEMENT SOFTWARE-ORGANISATION MISALIGNMENTS FROM AN INSTITUTIONAL PERSPECTIVE: A CASE STUDY OF A GLOBAL IT … (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+An empirical investigation of software engineers' ability to classify legal cross-references (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+A Hybrid Approach to Achieve High MC/DC at Design Phase (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Internet censorship capabilities in Cyprus: An investigation of online gambling blocklisting (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Ontology learning from Italian legal texts. (count 2)
+['"Regulated+Domains"+"Case+Study"', '"Case+Study"+"Regulated+Domains"']
+
+Technology Engineering for Medical Devices-A Lean Manufacturing Plant Viewpoint (count 2)
+['"Software+Validation"+"Regulated+Environments"', '"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Development and validation of open-source software for DNA mixture interpretation based on a quantitative continuous model (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+umd-verification: Automation of Software Validation for the EGI Federated e-Infrastructure (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Artificial neural network software for real-time estimation of olive oil qualitative parameters during continuous extraction (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Probabilistic genotyping software: an overview (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Distributed software validation (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Enhancing discrete event simulation by integrating continuous models (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Software Validation Facility for the SPARC micro-processor (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+3D whole body scans: Measurement extraction software validation (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+A new approach to automatic continuous artery diameter measurement (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Climb trajectory prediction software validation for decision support tools and simulation models (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Verification and validation: process VS procedure (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+cgmanalysis: An R package for descriptive analysis of continuous glucose monitor data (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Use of failure-intensity models in the software-validation phase for telecommunications (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Software validation by means of statistical testing: Retrospect and future direction (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Assisting the continuous improvement of Scrum projects using metrics and Bayesian networks (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Vehicle Software Validation & Testing Automation (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Validation of alternative behavioral observation methods in young broiler chickens (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Modelica implementation and software-to-software validation of power system component models commonly used by nordic TSOs for dynamic simulations (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Software verification and validation: an overview (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Unit testing, model validation, and biological simulation (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Predicting the Postoperative Outcome of Percutaneous Nephrolithotomy with Machine Learning System: Software Validation and Comparative Analysis with Guy's … (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+ATLAS Trigger Software Validation Tool Website (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Development of mathematical reference standards for the validation of surface texture parameter calculation software (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Strapdown analytics (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Validation of software for Bayesian models using posterior quantiles (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+DNA Commission of the International Society for Forensic Genetics: recommendations on the validation of software programs performing biostatistical calculations for … (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Software validation facilities (count 2)
+['"Software+Validation"+"Continuous"', '"Continuous"+"Software+Validation"']
+
+Application of a software agility assessment model–AgilityMod in the field (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Agile methods on large projects in large organizations (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Generalizing generalizability in information systems research (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+The risks of agile software development: Learning from adopters (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Towards understanding the motivation of german organizations to apply certain software development methods (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Towards Understanding the Motivation of German Organizations to Apply Certain Software Development Methods (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Agile approaches on large projects in large organizations (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Security Compliance in Agile Software Development: A Systematic Mapping Study (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Going with the flow: An activity theory analysis of flow techniques in software development (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Dissimilarities between applied methods of project management impacting regression in business processes and technical architecture (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Agile risk management for multi-cloud software development (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Research Challenges in Empowering Agile Teams with Security Knowledge Based on Public and Private Information Sources. (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Rapid Agile Transformation at a Large IT Organization (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Beyond Technical Skills in Software Testing: Automated versus Manual Testing (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+The changing roles of the PMO with the introduction of agile ways of working: An exploratory research (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Případová studie a protypová implementace aplikace strojového učení v ALM Polarion (count 1)
+['"Case+Study"+"DevOps"+"Regulated+Environments"']
+
+Current Issues in Medical Device Quality Systems (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Trends in process analytical technology (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Percival, MW, University of California, Santa Barbara Dassau, E., University of California, Santa Barbara Zisser, H., Sansum Diabetes Research … (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+A Review on applications of GAMP-5 in Pharmaceutical Industries (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Extending extreme programming to support life sciences regulations (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+CLOSED-LOOP CONTROL OF AN ARTIFICIAL PANCREATIC ΒETA CELL USING MULTI-PARAMETRIC MODEL PREDICTIVE CONTROL (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Applications of Artificial Intelligence in Medical Devices and Healthcare (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Binodal, wireless epidermal electronic systems with in-sensor analytics for neonatal intensive care (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Understanding the differences between ISO 9001-2008 and the FDA quality system regulation for medical devices: A guide for quality professionals who … (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+FDA regulations for investigation and approval of medical devices: Laser and light-based systems (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Unmet clinical needs in dialysis: What can we do? (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+22 Living with 21 CFR Part 11 Compliance (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Regulatory Requirements for Investigational New Drug (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Substantial Equivalence Premarket Review (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+How to Validate a Pharmaceutical Process (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Cost-contained regulatory compliance: for the pharmaceutical, biologics, and medical device industries (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Multiregional Medical Device Registration (count 1)
+['"Continuous"+"FDA+Requirements"+"Software+Validation"']
+
+Searching for common ground: existing literature on automotive agile software product lines (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Stakeholder identification for a structured release planning approach in the automotive domain (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Addressing legal requirements in requirements engineering (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Do we teach the right thing? A comparison of GSE education and practice (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Public funding in collective innovations for public–private activities (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Toward Efficient Automation of Interpretable Machine Learning (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Searching for Common Ground: Existing Literature on Automotive Agile Software Product Lines (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Public Funding in Collective Innovations for Public–Private Activities (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Domains"']
+
+Applying Agile Software Development Methodologies to Business Process Redesign/Management (BPRM) (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+A Case Study on the Prevention of Segregation Caused by Uncontrolled Agglomeration During the Drying of a Pharmaceutical Powder in a Bolz-Summix® … (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+How can agile and documentation-driven methods be meshed in practice? (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Regulation and technology innovation: a comparison of stated and formal regulatory barriers throughout the technology innovation process (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+ETHICAL IMPLICATIONS OF BIOMEDICAL DEVICES (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Lot release and characterization testing of live-virus based vaccines and gene therapy products part1 (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Trade offer crisis: a case study on trade offer crisis of Square Toiletries Ltd which is handled by Square (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Formulating a Day Cream with SPF: A Case Study (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Case Study B.—The Development of a Malaria Vaccine (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+An integrated Quality by Design (QbD) approach towards design space definition of a blending unit operation by Discrete Element Method (DEM) simulation (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Innovative development path of ethnomedicines: a case study (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Opportunities and Pitfalls Associated with Early Utilization of Biomarkers: A Case Study in Anticoagulant Development (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Robust design modeling based on joint estimation of multiple and time-series responses on a drug development process (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Understanding Technological and Managerial Factors contributing on the Performance of Traceability Systems in the Fish Supply Chain, the case study of Tanzania (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Finding Value-Added Uses for Apples: A Case Study For Hoch Orchards of LaCrescent, Minnesota (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Through the looking glass of complexity leadership theory: A biomedical case study in radical innovation leadership (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Decay, shock, and renewal: Operational routines and process entropy in the pharmaceutical industry (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+… ‐BASED VISUALIZATION METHOD TO CHARACTERIZE THE FLOW BEHAVIOR OF FOOD PARTICULATES IN A MODEL CONTINUOUS ASEPTIC STERILIZER 3 (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Challenges to Establishing External API Manufacturing in China (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+On best practices: The Institute of Medicine scheme for developing, validating, and demonstrating clinical utility of omics‐based diagnostic and predictive tests (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Developments in aseptic processing (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Trends in food packaging and manufacturing systems and technology (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Pharmacy benefit management, cost-effectiveness analysis and drug formulary decisions (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Chipped pharmaceuticals from production to in VIVO (in body) drug delivery becoming reality (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+New phase of growth for xenogeneic-based bioartificial organs (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Robust postdonation blood screening under prevalence rate uncertainty (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+A comprehensive approach for medical device development: Incorporating regulations, critical factors and design for X in modeling a conceptual framework (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Meat slaughter and processing plants' traceability levels evidence from Iowa (count 1)
+['"Case+Study"+"Continuous"+"FDA+Requirements"']
+
+Automated Software Testing Practices and Pitfalls (count 1)
+['"Software+Validation"+"DevOps"']
+
+Software Assurance Measurement--State of the Practice (count 1)
+['"Software+Validation"+"DevOps"']
+
+A Container-based architecture for accelerating software tests via setup state caching and parallelization (count 1)
+['"Continuous"+"DevOps"+"Software+Validation"']
+
+A Hitchhiker's Guide to Model-Driven Engineering for Data-Centric Systems (count 1)
+['"Continuous"+"DevOps"+"Software+Validation"']
+
+The Political Dynamics of Corporate Co-Evolution: Replicating and Extending a Case Study (count 1)
+['"Case+Study"+"Regulated+Environments"']
+
+Country-of-origin effects, host-country effects, and the management of HR in multinationals: German companies in Britain and Spain (count 1)
+['"Case+Study"+"Regulated+Environments"']
+
+Initiatives supporting evidence informed health system policymaking in Cameroon and Uganda: a comparative historical case study (count 1)
+['"Case+Study"+"Regulated+Environments"']
+
+Sustainable development: Case study in the implementation of renewable energy in Brazil (count 1)
+['"Case+Study"+"Regulated+Environments"']
+
+New Method for Enhanced Continuous Circulation Automation (count 1)
+['"Regulated+Environments"+"Continuous"']
+
+Complex regulatory region mediating tailless expression in early embryonic patterning and brain development (count 1)
+['"Continuous"+"Regulated+Domains"']
+
+Toeplitz operators on Bergman spaces of polygonal domains (count 1)
+['"Continuous"+"Regulated+Domains"']
+
+Childhood self-regulatory skills predict adolescent smoking behavior (count 1)
+['"Continuous"+"Regulated+Domains"']
+
+Software Release Management Evolution-Comparative Analysis across Agile and DevOps Continuous Delivery (count 1)
+['"Case+Study"+"Continuous"+"DevOps"']
+
+Glazed space thermal simulation with IDA-ICE 4.61 software—Suitability analysis with case study (count 1)
+['"Software+Validation"+"Case+Study"']
+
+FSM-based test case generation methods applied to test the communication software on board the ITASAT university satellite: a case study (count 1)
+['"Software+Validation"+"Case+Study"']
+
+A case study in the use of defect classification in inspections (count 1)
+['"Software+Validation"+"Case+Study"']
+
+Automatic derivation of software performance models from case documents (count 1)
+['"Software+Validation"+"Case+Study"']
+
+Monitoring and predicting land use and land cover changes using remote sensing and GIS techniques—A case study of a hilly area, Jiangle, China (count 1)
+['"Software+Validation"+"Case+Study"']
+
+Virtual commissioning of a robotic cell: An educational case study (count 1)
+['"Software+Validation"+"Case+Study"']
+
+Integrating DevOps within IT Organizations-Key Pattern of a Case Study (count 1)
+['"Case+Study"+"DevOps"']
+
+DevOps in Practice–A preliminary Analysis of two Multinational Companies (count 1)
+['"Case+Study"+"DevOps"']
+
+The r FAQ (count 1)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"']
+
+Essential Testing: A Use Case Driven Approach (count 1)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"']
+
+Write It Down: Guidance for Preparing Effective and Compliant Documentation (count 1)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"']
+
+Estimating the real-world effects of expanding antiretroviral treatment eligibility: evidence from a regression discontinuity analysis in Zambia (count 1)
+['"Continuous"+"Regulated+Environments"+"Software+Validation"']
+
+ENTREPRENEURSHIP AND SUSTAINABILITY ISSUES (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+The Lived Experiences of Professional Engineers over the Life-Cycle of a Technological Device (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Adopting cloud computing and hosted services in pharmaceuticals industry (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+CLEANING AND WALIDATION OF CLEANING IN (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+CLEANING AND WALIDATION OF CLEANING IN BIOPHARMACEUTICAL PROCESSING: A SURVEY (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+In-line monitoring of low drug concentration of flowing powders in a new sampler device (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Computer Bugs in Hospitals: A New Killer (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+COMPUTER BUGS IN HOSPITALS: ANew KILLER (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+The hidden costs: Identification of indirect costs associated with acute gastrointestinal illness in an Inuit community (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Cyberattacks on medical devices and hospital networks: legal gaps and regulatory solutions (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Computer Bugs in Hospitals: An Unnoticed Killer (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Systems Theoretic Hazard Analysis (STPA) applied to the risk review of complex systems: an example from the medical device industry (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+The ethical and legal complications surrounding the implementation of a pan-Canadian electronic health record (EHR) system (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Current good manufacturing practice (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+SYSTEMS THEORETIC HAZARD ANALYSIS (STPA) APPLIED TO THE RISK REVIEW (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Risk Management and Recalls: A Survey of Medical Device Manufacturers (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Changing paradigms for batch record review in pharmaceuticals to drive real time product disposition (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+THE PERFORMANCE OF PIPELINE SYSTEM IN THE SUPPLY CHAIN OF WATER FOR INDUSTRY IN THAILAND (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+A quantitative and qualitative evaluation of the least burdensome provisions of the Food and Drug Administration Modernization Act of 1997 (count 1)
+['"Case+Study"+"FDA+Requirements"+"Software+Validation"']
+
+Risk-Based Validation of Commercial Off-the-Shelf Computer Systems (count 1)
+['"Regulated+Environments"+"Software+Validation"']
+
+DevOps: making it easy to do the right thing (count 1)
+['"DevOps"+"Continuous"']
+
+DevOps: Concepts, practices, tools, benefits and challenges (count 1)
+['"DevOps"+"Continuous"']
+
+The intersection of continuous deployment and architecting process: practitioners' perspectives (count 1)
+['"DevOps"+"Continuous"']
+
+Case study authors: André Brunoni and Felipe Fregni (count 1)
+['"Case+Study"+"FDA+Requirements"']
+
+Integration of biostatistics and pharmacometrics computing platforms for efficient and reproducible PK/PD analysis: A case study (count 1)
+['"Case+Study"+"FDA+Requirements"']
+
+A burn center paradigm to fulfill deferred consent public disclosure and community consultation requirements for emergency care research (count 1)
+['"Case+Study"+"FDA+Requirements"']
+
+A cloud-based TaaS infrastructure with tools for SaaS validation, performance and scalability evaluation (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Integrating formal methods into medical software development: The ASM approach (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Stereolithography (SLA) 3D printing of an antihypertensive polyprintlet: Case study of an unexpected photopolymer-drug reaction (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+The metrô rio case study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Flood hydrograph simulation using the SWMM model: A semiarid zone watershed case study, Shiraz Khoshk River, Iran (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Validation methodology for solar heating and cooling systems (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Testing and formal methods—Bos project case study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Formal validation and verification of a medical software critical component (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Best practices for validating research software prototypes-MARKOS case study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Better validation in a world-wide development environment (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Two-level process validation approach for medical devices (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Simulation and optimization of the operation strategy of ASHP heating system: A case study in Tianjin (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Impact of Continuous Climb Operations in ATC workload. Case-study Palma airport (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Collaborative Education: Building a Skilled Software Validation and Verification Community (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Automated operational modal analysis and ambient noise deconvolution interferometry for the full structural identification of historic towers: A case study of the Sciri … (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+An integrated framework for lean manufacturing in relation with blue ocean manufacturing-a case study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Software testing (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Developing Medical Devices from Abstract State Machines to Embedded Systems: A Smart Pill Box Case Study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Unification of verification and validation methods for software systems: progress report and initial case study formulation (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Investigation of integrated environmental solutions-virtual environment software accuracy for air temperature and relative humidity of the test room simulations (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Application of statistical process control to software defect metrics: An industry experience report (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Applying the AOGCM-AR5 models to the assessments of land suitability for walnut cultivation in response to climate change: a case study of Iran (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Scalability and validation of big data bioinformatics software (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Towards practical runtime verification and validation of self-adaptive software systems (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Work standardization and line balancing in a windmill gearbox manufacturing cell: A case study (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Modern code review: a case study at google (count 1)
+['"Case+Study"+"Continuous"+"Software+Validation"']
+
+Agile Methods (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Can the best interests of young people be met in residential care? An Ireland case study (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Agile Product Development: Features Identification and Application in the Electricity Sector (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Charting Collective Knowledge: Supporting Self-regulated Learning in the Workplace Author Details (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Quality by design for a vaccine release immunoassay: a case study (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+The impact of requirements on systems development speed: a multiple-case study in automotive (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Ergonomic assessment of a physical task using two different digital human modelling systems: a case study (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Ergonomic Assessment of a Physical Task Using Two Different Digital Human Modelling Systems: A case study (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Moving an eInnovation from a living lab to the real world: Politically savvy framing in ITAIDE's beer living lab (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Narratives of identity of self‐initiated expatriates in Qatar (count 1)
+['"Case+Study"+"Continuous"+"Regulated+Environments"']
+
+Why the FDA must preempt tort litigation: A critique of Chevron deference and a response to Richard Nagareda (count 1)
+['"FDA+Requirements"+"Continuous"']
+
+Moving Fast-Scan Cyclic Voltammetry toward FDA Compliance with Capacitive Decoupling Patient Protection (count 1)
+['"FDA+Requirements"+"Continuous"']
+
+Medical Device Patent Rights in the Age of FDA Modernization-The Potential Effect of Regulatory Streamlining on the Right to Exclude (count 1)
+['"FDA+Requirements"+"Continuous"']
+
+Compliance with FDA nicotine warning statement provisions in e-liquid promotion posts on Instagram (count 1)
+['"FDA+Requirements"+"Continuous"']
+
+Data driven knowledge discovery for continuous process improvement (count 1)
+['"Continuous"+"FDA+Requirements"']
+
+Multicolumn Continuous Chromatography: Understanding this Enabling Technology (count 1)
+['"Continuous"+"FDA+Requirements"']
+
+SCAI expert consensus statement on operator and institutional requirements for PFO closure for secondary prevention of paradoxical embolic stroke: The American … (count 1)
+['"Continuous"+"FDA+Requirements"']
+
+An experimental platform for characterizing cancer biomarkers with capabilities in noninvasive and continuous screening (count 1)
+['"Continuous"+"FDA+Requirements"']
+
+Parsing legal texts. A contrastive study with a view to Knowledge Management Applications (count 1)
+['"Regulated+Domains"+"Case+Study"']
+
+Does informality impact formal sector firms? A case study from Nicaragua (count 1)
+['"Regulated+Environments"+"Case+Study"']
+
+Assimilation of compliance software in highly regulated industries: An empirical multitheoretical investigation (count 1)
+['"Regulated+Environments"+"Case+Study"']
+
+R&D portfolio management: the case study of a big energy company in Brazil (count 1)
+['"Regulated+Environments"+"Case+Study"']
+
+Towards an Understanding of Needs, Capabilities and Alignment Mechanisms in Digital Preservation: Results from an Explorative Case Study. (count 1)
+['"Regulated+Environments"+"Case+Study"']
+
+Reproducible computer network experiments: A case study using popper (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+A CASE STUDY IN ASSURANCE CASE DEVELOPMENT FOR SCIENTIFIC SOFTWAR (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Model-driven process enactment for NFV systems with MAPLE (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+The general data protection regulation: requirements, architectures, and constraints (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Comparison of Requirements Management Solutions for Medical Device Development (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Whodo: Automating reviewer suggestions at scale (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+A decision-making support system for Enterprise Architecture Modelling (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Testing microservice applications (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+A systematic review of gamification in the context of software development landscapes (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+CCoDaMiC: A framework for Coherent Coordination of Data Migration and Computation platforms (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Demystifying the adoption of behavior-driven development in open source projects (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+IS Discontinuance: tracking down users' motivational journey from amotivated to motivated and back in crowdsourced software testing (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Software Processes in the Software Product Life Cycle (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+Towards an auction-based reward mechanism for effective bug resolution (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+An Anti-Malware Product Test Orchestration Solution for Multiple Pluggable Environments (count 1)
+['"Case+Study"+"DevOps"+"Software+Validation"']
+
+State coverage: Software validation metrics beyond code coverage (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Computational-experimental approach to drug-target interaction mapping: a case study on kinase inhibitors (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Validation of measurement software as an application of slicing and constraint solving (count 1)
+['"Case+Study"+"Software+Validation"']
+
+An open source and low cost solution for consumer electronics middleware validation (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Verification, validation and testing in software engineering (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Development and validation of system design principles for water reuse systems (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Software validation of medical instruments (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Application of rule‐based expert systems in hardware‐in‐the‐loop simulation case study: Software and performance validation of an engine electronic control unit (count 1)
+['"Case+Study"+"Software+Validation"']
+
+Open source software for mass spectrometry and metabolomics (count 1)
+['"Software+Validation"+"Regulated+Environments"']
+
+Predicting continuous integration build failures using evolutionary search (count 1)
+['"Software+Validation"+"Continuous"']
+
+Benchmarking large-scale continuous optimizers: the bbob-largescale testbed, a COCO software guide and beyond (count 1)
+['"Software+Validation"+"Continuous"']
+
+Maintenance cost evaluation for heterogeneous complex systems under continuous monitoring (count 1)
+['"Software+Validation"+"Continuous"']
+
+Continuous integration with reusable context aware jobs (count 1)
+['"Software+Validation"+"Continuous"']
+
+Four model variants within a continuous forensic DNA mixture interpretation framework: Effects on evidential inference and reporting (count 1)
+['"Software+Validation"+"Continuous"']
+
+Using software engineering technology to improve the quality of medical processes (count 1)
+['"Software+Validation"+"Continuous"']
+
+Continuous norming of psychometric tests: A simulation study of parametric and semi-parametric approaches (count 1)
+['"Software+Validation"+"Continuous"']
+
+Deterring Inefficient Pharmaceutical Litigation: An Economic Rationale for the FDA Regulatory Compliance Defense (count 1)
+['"FDA+Requirements"+"Case+Study"']
+
+Analysis of an FDA Compliance Defense for Pharmaceutical Tort Litigation (count 1)
+['"FDA+Requirements"+"Case+Study"']
+
+A Day on the Fish Farm: FDA and the Regulation of Aquaculture (count 1)
+['"FDA+Requirements"+"Case+Study"']
+
+Frozen Blood, Neonates, and FDA: The Regulation of Placental-Umbilical Cord Blood (count 1)
+['"FDA+Requirements"+"Case+Study"']
+
+Divergence Between Conceptual Business Process Management and its Practical Business Improvement Implementation: A Comparative Study (count 1)
+['"Case+Study"+"Regulated+Domains"']
+
+Improved modified condition/decision coverage using code transformation techniques (count 1)
+['"Case+Study"+"Regulated+Domains"']
+
+Single-use systems as principal components in bioproduction (count 1)
+['"Continuous"+"Regulated+Environments"']
+
+Total quality management for software (count 1)
+['"Continuous"+"Regulated+Environments"']
+
+An examination of firm slack and risk-taking in regulated and deregulated airlines (count 1)
+['"Continuous"+"Regulated+Environments"']
+
+Production of Reliable Flight Crucial Software: Validation Methods Research for Fault Tolerant Avionics and Control Systems Sub-Working Group Meeting (count 1)
+['"Continuous"+"Software+Validation"']
+
+An assessment of the performance of the probabilistic genotyping software EuroForMix: trends in likelihood ratios and analysis of Type I & II errors (count 1)
+['"Continuous"+"Software+Validation"']
+
+Verification, validation, and certification challenges for adaptive flight-critical control system software (count 1)
+['"Continuous"+"Software+Validation"']
+
+Measuring critical factors of software quality management: development and validation of an instrument (count 1)
+['"Continuous"+"Software+Validation"']
+
+Possible effects of the next generation programming language on the software process model (count 1)
+['"Continuous"+"Software+Validation"']
+
+NatHERS Software Validation (count 1)
+['"Continuous"+"Software+Validation"']
+
+Software Validation Study (count 1)
+['"Continuous"+"Software+Validation"']
+
+Application of some explicit formulas for the matrix exponential in linear systems software validation (count 1)
+['"Continuous"+"Software+Validation"']
+
+Expanding our horizons in verification, validation, and accreditation research and practice (count 1)
+['"Continuous"+"Software+Validation"']
+
+Aspects of atomic decompositions and Bergman projections (count 1)
+['"Regulated+Domains"+"Continuous"']
+
+Irradiation behavior of dispersion fuels (count 1)
+['"Regulated+Domains"+"Continuous"']
+
+Software artefacts consistency management towards continuous integration: A roadmap (count 1)
+['"Continuous"+"DevOps"']
+
+Test orchestration a framework for continuous integration and continuous deployment (count 1)
+['"Continuous"+"DevOps"']
+
+Enabling continuous integration in a formal methods setting (count 1)
+['"Continuous"+"DevOps"']
+
+A strategy for the use of electronic records and electronic signatures in accordance with FDA ruling 21 CFR part 11 (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Mobile medical app development with a focus on traceability (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Mobile Medical App Development with a Focus on Traceability (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Involving user perspective in a software risk management process (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Quality risk analysis in a cGMP environment: multiple models for comprehensive failure mode identification during the computer system lifecycle (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+SOFTWARE RISK MANAGEMENT IN THE SAFETY-CRITICAL MEDICAL DEVICE DOMAIN (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+A validação de sistemas computorizados na indústria farmacêutica (count 1)
+['"Case+Study"+"Regulated+Environments"+"Software+Validation"']
+
+Agile application security: enabling security in a continuous delivery pipeline (count 1)
+['"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Continuous integration and delivery applied to large-scale software-intensive embedded systems (count 1)
+['"Continuous"+"DevOps"+"Regulated+Environments"']
+
+The modern cloud-based platform (count 1)
+['"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Agile methods in Air Force sustainment: Status and outlook (count 1)
+['"Continuous"+"DevOps"+"Regulated+Environments"']
+
+Large scale agile software development compliant to IEC 62443-4-1: artefact design and tool support (count 1)
+['"Continuous"+"DevOps"+"Regulated+Environments"']
+

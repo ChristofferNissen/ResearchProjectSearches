@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Application of WAMS and SCADA data to online modeling of series-compensated transmission lines
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract 8, NO. 4, JULY 2017 Application of WAMS and SCADA Data to Online Modeling of Series-Compensated Transmission Lines  Case studies through software and hardware simulation efforts demonstrate validity of the modeling approach
+     Url https://ieeexplore.ieee.org/abstract/document/7401091/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  in the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE  real-time hardware-in-the- loop simulation for rail vehicles: A case study”, EPE'97
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract We apply the same concept towards transparent hardware simulation envi- ronment  OF AN ELEVATOR CIRCUIT CONTROLLER System specification The goal of this case study is to design  To implement the controller, the following Integrated Circuits (ICs) are used: • 74169: A
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract Moreover, to verify the proposed platform, a case study of wide area load control was  simulation speed, and close practicality; (2) the application of a hardware simulation into the  system (WAMS) security, and supervisory control and data acquisition (SCADA) security analysis
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Parallel simulation of mixed-abstraction SystemC models on GPUs and multicore CPUs
+     Author ['R Sinha', 'A Prakash', 'HD Patel']
+     Venue 17th Asia and South Pacific …
+     Year 2012
+     Abstract Notice that these efforts do not identify nor leverage graph- ics processing units (GPUs) as a potential platform for paral- lel computation  co-simulation of RTL and TLM SystemC models on CPUs and GPUs.We experiment with synthetic benchmarks, and a case study that shows
+     Url https://ieeexplore.ieee.org/abstract/document/6164991/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract block of the HIL simula- tion of either such a sophisticated, cyber-physical system like a  The paper reported the development of a case study for creating a HIL simulation environment for  approach of power elec- tronics controls,” IEEE Transactions on Industrial Electron- ics, vol
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract TABLE 3 COMPUTATIONAL ALLOCATION AND REAL-TIME PERFORMANCE FOR SECOND CASE STUDY  Global control systems based on Phase Measurement Units and SCADA systems can  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Multi-agent systems in a distributed smart grid: Design and implementation
+     Author ['M Pipattanasomporn', 'H Feroze']
+     Venue 2009 IEEE/PES Power …
+     Year 2009
+     Abstract systems, this is accomplished by Supervisory Control and Data Acquisition (SCADA) systems [4  The simulation setup, the case study description and results are discussed below  4. Microgrid hardware simulation in Matlab, consisting of a 50kW distributed generator, grid interface
+     Url https://ieeexplore.ieee.org/abstract/document/4840087/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cyber-Physical Systems: A New Paradigm for Energy Technology Development
+     Author ['D Tucker', 'P Pezzini', 'KM Bryden']
+     Venue ASME Power …
+     Year 2018
+     Abstract In this regard, SCADA systems are used for implementing or advising multi-objective  CASE STUDY: FUEL CELL TURBINE HYBRIDS Fuel cell turbine hybrid power systems serve as an  The cyber-physical system hardware was physically coupled to a gas turbine, exhaust gas
+     Url https://asmedigitalcollection.asme.org/POWER/proceedings-abstract/POWER2018/51395/V001T04A001/277478
+

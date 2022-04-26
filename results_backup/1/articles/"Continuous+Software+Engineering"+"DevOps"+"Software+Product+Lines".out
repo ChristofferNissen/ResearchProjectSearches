@@ -1,0 +1,388 @@
+Showing papers for search query "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Modeling DevOps deployment choices using process architecture design dimensions
+     Author ['Z Babar', 'A Lapouchnian', 'E Yu']
+     Venue IFIP Working Conference on The Practice …
+     Year 2015
+     Abstract These tools are configured (designed) for use in any particular DevOps implementation and  CI and CD are well understood concepts in continuous software engineering where the objective  and increase the range of product features offered through software product lines (SPLs
+     Url https://link.springer.com/chapter/10.1007/978-3-319-25897-3_21
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Promote-pl: a round-trip engineering process model for adopting and evolving product lines
+     Author ['J Krüger', 'W Mahmood', 'T Berger']
+     Venue … of the 24th ACM Conference on …
+     Year 2020
+     Abstract CCS CONCEPTS • Software and its engineering → Software evolution; Software product lines; Software development process management  disregard recent trends of blurred boundaries between software-engineering phases (eg, continuous software engineering [29]), and
+     Url https://dl.acm.org/doi/abs/10.1145/3382025.3414970
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous delivery: Huge benefits, but challenges too
+     Author ['L Chen']
+     Venue IEEE Software
+     Year 2015
+     Abstract Key Words: Continuous Delivery, Release Engineering, Deployment, DevOps, Continuous Software Engineering 1. Introduction  His research interests include software requirements and architecture, release engineering, and software product lines
+     Url https://ieeexplore.ieee.org/abstract/document/7006384/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Variability middleware for multi-tenant SaaS applications: a research roadmap for service lines
+     Author ['D Van Landuyt', 'S Walraven', 'W Joosen']
+     Venue Proceedings of the 19th …
+     Year 2015
+     Abstract whereas —as mentioned 1 Even in the context of dynamic software product lines [15, 24  in this paper, classical development methodologies are being challenged by more agile DevOps- inspired approaches  Continuous software engineering and beyond: Trends and challenges
+     Url https://dl.acm.org/doi/abs/10.1145/2791060.2791080
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Summary of the International Conference on Software andSystem Processes (ICSSP 2018)
+     Author ['M Kuhrmann', "RV O'Connor", 'D Houston']
+     Venue ACM SIGSOFT …
+     Year 2019
+     Abstract Similar to the DevOps-movement that brought development and operations closer together, safety and  [4] discussed techniques and experiences in the context of continuous software engineering, and Klünder  [5] discussed agility in the context of software product lines and their
+     Url https://dl.acm.org/doi/abs/10.1145/3282517.3302403
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Feasibility predictability model for software test automation projects in DevOps setting
+     Author ['J Angara', 'S Prasad', 'S Gutta']
+     Venue International Journal of …
+     Year 2020
+     Abstract and Gutta, S. (2016a) 'DevOps product line engineering (DPLE): where DevOps meets software product lines', International Journal  Erich, F., Chintan, A. and Daneva, M. (2014) DevOps Literature Review, October [online] http  2014) 'Continuous software engineering and beyond
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJFSE.2020.110588
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Towards holistic continuous software performance assessment
+     Author ['V Ferme', 'C Pautasso']
+     Venue Proceedings of the 8th ACM/SPEC on …
+     Year 2017
+     Abstract They are applied in contexts where the developed software is stable in functionality over time, eg in Software Product Lines [35], or by reusing unit/functional tests re- sults augmented with  Continuous Software Engineering  Performance-oriented DevOps: A Research Agenda
+     Url https://dl.acm.org/doi/abs/10.1145/3053600.3053636
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title DevOps Project Management Tools for Sprint Planning, Estimation and Execution Maturity
+     Author ['J Angara', 'S Prasad', 'G Sridevi']
+     Venue Cybernetics and Information …
+     Year 2020
+     Abstract In: Proc. of 1st International Workshop on Rapid Continuous Software Engineering (RCoSE), 2014, pp  57, 2015, pp. 21-31. 11. A ngara, J., S. P rasad, S. G utt a. DevOps Product Line Engineering (DPLE): Where DevOps Meets Software Product Lines
+     Url https://content.sciendo.com/view/journals/cait/20/2/article-p79.xml
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous and collaborative technology transfer: Software engineering research with real-time industry impact
+     Author ['T Mikkonen', 'C Lassenius', 'T Männistö', 'M Oivo']
+     Venue Information and …
+     Year 2018
+     Abstract The same goes for engineering practices that are under constant improvement, following Agile [2], Lean [33], and, more recently, Continuous * [34] and DevOps [35] ideals  3. Technology Transfer 2.0: continuous software engineering research
+     Url https://www.sciencedirect.com/science/article/pii/S0950584917304007
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Modeling Software Process Configurations for Enterprise Adaptability.
+     Author ['Z Babar']
+     Venue PoEM (Short Papers)
+     Year 2015
+     Abstract 61–62. ACM (2013) 4. Lwakatare, LE, Kuvaja, P., Oivo, M.: Dimensions of DevOps  212–217. Springer (2015) 5. Bosch, J. (Ed.): Continuous Software Engineering  (2003) 9. Van Gurp, J., Bosch, J., Svahnberg, M.: On the notion of variability in software product lines
+     Url http://ceur-ws.org/Vol-1497/PoEM2015_DCPaper5.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title The nature of software evolution
+     Author ['G Taentzer', 'M Goedicke', 'B Paech']
+     Venue Managed Software …
+     Year 2019
+     Abstract 6, continuous software engineering is considered as being a special kind of software evolution  In a similar vein, the recent emphasis on DevOps recognises that the integration  As configuration management may become very complex for software product lines, this problem is
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=29
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title The future of software development methods
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue The Routledge Companion to Management …
+     Year 2017
+     Abstract For example, cloud computing, software product lines (SPL) and service-oriented architectures (SOA) are all  emerging software development practices and techniques, including agile methods, DevOps, continuous deployment, and continuous software engineering
+     Url https://cora.ucc.ie/handle/10468/6770
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title A hybrid DevOps process supporting software reuse: A pilot project
+     Author ['N Ali', 'H Daneth', 'JE Hong']
+     Venue Journal of Software: Evolution and …
+     Year 2020
+     Abstract developed for reuse, which is also known as domain engineering in software product lines, while (b  of this study is to exploit the tests constructed in continuous software engineering to retrieve  When this approach would be fully integrated into the DevOps process, as an active
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2248
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Software reuse and continuous software development: A systematic mapping study
+     Author ['JLB Justo', 'NM Araujo', 'AG Garcia']
+     Venue IEEE Latin America …
+     Year 2018
+     Abstract 3 Repository reuse 2 Dynamic Software Product Lines (DSPL) 1  [3] B. Fitzgerald, KJ Stol, Continuous software engineering: A roadmap and agenda, J. Syst. Softw  1545 Page 8. [AR7] J. Wettinger, V. Andrikopoulos, F. Leymann, Enabling DevOps Collaboration and Continuous
+     Url https://ieeexplore.ieee.org/abstract/document/8408452/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title ICSSP 2018—Special issue introduction
+     Author ["RV O'Connor", 'D Houston', 'R Hebig']
+     Venue Journal of Software …
+     Year 2019
+     Abstract utilization of automation, for example, model‐based development and DevOps; advanced performance  Johanssen et al10, Practitioners' eye on continuous software engineering: An interview study, Best  Klünder et al14, Becoming agile while preserving software product lines
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.2174
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous integration, delivery and deployment: a systematic review on approaches, tools, challenges and practices
+     Author ['M Shahin', 'MA Babar', 'L Zhu']
+     Venue IEEE Access
+     Year 2017
+     Abstract Index Terms— continuous integration, continuous delivery, continuous deployment, continuous software engineering, systematic literature review, empirical software engineering  Continuous software engineering is an emerging area of research and practice
+     Url https://ieeexplore.ieee.org/abstract/document/7884954/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous delivery: Overcoming adoption challenges
+     Author ['L Chen']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract adoption. Previous article in issue; Next article in issue. Keywords. Agile Software Development. Continuous Delivery. Continuous Deployment. Continuous Software Engineering. DevOps. Adoption. 1. Introduction. Continuous Delivery
+     Url https://www.sciencedirect.com/science/article/pii/S0164121217300353
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title We're doing it live: A multi-method empirical study on continuous experimentation
+     Author ['G Schermann', 'J Cito', 'P Leitner', 'U Zdun']
+     Venue Information and Software …
+     Year 2018
+     Abstract However, not all teams are staffed with experts in all relevant fields, we have seen that these teams can request support from internal consulting teams (eg, data scientists, DevOps engineers, or performance engineers)  DevOps
+     Url https://www.sciencedirect.com/science/article/pii/S0950584917302136
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title An empirical study of architecting and organizing for DevOps
+     Author ['M Shahin']
+     Venue NA
+     Year 2018
+     Abstract Page 1. An Empirical Study of Architecting and Organizing for DevOps Author: Mojtaba Shahin Principle Supervisor: Prof. Dr. Muhammad Ali Babar Co-supervisor: Prof  126 Chapter 7 On the Role of Software Architecture in DevOps Success ..... 129
+     Url https://digital.library.adelaide.edu.au/dspace/handle/2440/116767
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous Delivery of Customized SaaS Edge Applications in Highly Distributed IoT Systems
+     Author ['R López-Viana', 'J Díaz', 'VH Díaz']
+     Venue IEEE Internet of Things …
+     Year 2020
+     Abstract DevOps promotes collaboration between development and oper- ation teams and automation at all steps of software construction to achieve continuous delivery (CD) of business value  Section II introduces the concepts of edge computing and DevOps
+     Url https://ieeexplore.ieee.org/abstract/document/9142209/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title How PHP Releases Are Adopted in the Wild?
+     Author ['J Ruohonen', 'V Leppänen']
+     Venue 2017 24th Asia-Pacific Software …
+     Year 2017
+     Abstract Motivated by continuous software engineering practices and software traceabil- ity improvements for release engineering, the empirical analysis is based on big data collected by web crawling  Continuous software engineering Continuous feedback Continuous tracing
+     Url https://ieeexplore.ieee.org/abstract/document/8305929/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title A Model-driven Approach to Continuous Practices for Modern Cloud-based Web Applications
+     Author ['T Tegeler', 'F Gossen', 'B Steffen']
+     Venue 2019 9th International …
+     Year 2019
+     Abstract CONTINUOUS SOFTWARE ENGINEERING Software engineering has increasing requirements in the technical and  in developing modern web applications are DevOps and cloud  dependencies and to exploit knowledge accumulated when establishing software product lines
+     Url https://ieeexplore.ieee.org/abstract/document/8776962/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title DevOps in Finland-Study of Practitioners' Perception
+     Author ['T Paulin']
+     Venue NA
+     Year 2018
+     Abstract Page 1. DevOps in Finland - Study of Practitioners' Perception University  Page 2. 2 Abstract DevOps is currently one of the latest software development practices. Lately it has gained the interest of people in academia and practice. DevOps
+     Url http://jultika.oulu.fi/files/nbnfioulu-201812063244.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Self-service cybersecurity monitoring as enabler for DevSecOps
+     Author ['J Díaz', 'JE Pérez', 'MA Lopez-Peña', 'GA Mena']
+     Venue IEEE …
+     Year 2019
+     Abstract continuous software engineering [9]) and makes the operation and monitoring of production systems a difficult and tedious task, and more specifically  DevOps does not have methodologies as Agile has (eg, Scrum and extreme programming), and thus compa- nies have
+     Url https://ieeexplore.ieee.org/abstract/document/8766805/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Proceedings of the 13th European Conference on Software Architecture,{ECSA} 2019, Companion Proceedings (Proceedings Volume 2)
+     Author ['L Duchien', 'A Koziolek', 'R Mirandola', 'EMN Martinez']
+     Venue NA
+     Year 2019
+     Abstract 163 5.3.1 Measuring Performance Quality Scenarios in Big Data Analytics Applications: A DevOps and Domain-Specific Model Approach  This year was special, as we shared the venue and part of the program with the Systems & Software Product Lines Conference (SPLC)
+     Url https://lilloa.univ-lille.fr/bitstream/handle/20.500.12210/22174/https:/aisberg.unibg.it/bitstream/10446/153288/4/3344948.fm.pdf?sequence=1
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Quality management challenges in iterative software product development of a selected software development organisation in Cape Town, South Africa
+     Author ['E Chipunza']
+     Venue NA
+     Year 2018
+     Abstract Page 1. QUALITY MANAGEMENT CHALLENGES IN ITERATIVE SOFTWARE PRODUCT DEVELOPMENT OF A SELECTED SOFTWARE DEVELOPMENT ORGANISATION IN CAPE TOWN, SOUTH AFRICA by ENCILIAH CHIPUNZA (216274001)
+     Url http://etd.cput.ac.za/handle/20.500.11838/2779
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title The Architect's Role in Software Ecosystems Health
+     Author ['S da Silva Amorim', 'JD McGregor']
+     Venue Proceedings of the 2nd …
+     Year 2017
+     Abstract With the advent of DevOps, agile technolo- gies, and ecosystems strategies, the function of software architect has changed, and developers also have architecture responsibilities  2009. From Software Product Lines to Software Ecosystems  Continuous Software Engineering
+     Url https://dl.acm.org/doi/abs/10.1145/3098322.3098324
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title ITI43414 Advanced topics in information systems (Spring 2019)
+     Author ['R Colomo-Palacios']
+     Venue NA
+     Year NA
+     Abstract 1-17. 6. New Trends in Business Software. Bosch, J. (2009). From software product lines to software ecosystems  IEEE. Debois, P. (2011). Devops: A software revolution in the making  Fitzgerald, B., & Stol, KJ (2015). Continuous software engineering: A roadmap and agenda
+     Url https://www.hiof.no/english/studies/courses/it/2019/spring/iti43414.html
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings …
+     Author ['D Laurence', 'K Anne', 'M Raffaela', 'EMN Martínez']
+     Venue NA
+     Year 2019
+     Abstract 163 5.3.1 Measuring Performance Quality Scenarios in Big Data Analytics Applications: A DevOps and Domain-Specific Model Approach  This year was special, as we shared the venue and part of the program with the Systems & Software Product Lines Conference (SPLC)
+     Url https://aisberg.unibg.it/bitstream/10446/153288/4/3344948.fm.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous Delivery: Huge Benefits, But Challenges Too
+     Author ['PLC Paddy Power']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Continuous testing and solutions for testing problems in continuous delivery: A systematic literature review
+     Author ['MA Mascheroni', 'E Irrazábal']
+     Venue Computación y Sistemas
+     Year 2018
+     Abstract [Not Found]
+     Url http://www.scielo.org.mx/scielo.php?pid=S1405-55462018000301009&script=sci_arttext
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Performance analysis strategies for software variants and versions
+     Author ['T Thüm', 'A van Hoorn', 'S Apel', 'J Bürdek']
+     Venue Managed Software …
+     Year 2019
+     Abstract Second, developers simultaneously develop vari- ants of software to meet contradictory requirements (aka. configurable software or software product lines [CE00, Ape+ 13]). While versions typically replace existing versions, variants co-exist to meet certain requirements each
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=190
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Frequent releases in open source software: A systematic review
+     Author ['A Cesar Brandão Gomes da Silva']
+     Venue Information
+     Year 2017
+     Abstract Considering the possibility of continuous flow, S26 mentions that rapid and continuous software engineering refers to the “organizational capability to develop, release and learn from software in rapid parallel cycles, such as hours, days or very few weeks”
+     Url https://www.mdpi.com/2078-2489/8/3/109
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Automotive software architectures
+     Author ['M Staron']
+     Venue Automot. Softw. Archit
+     Year 2017
+     Abstract while ensuring robustness and security. Agile service delivery models combining DevOps, micro- services and cloud solutions will allow functional changes far beyond the traditional V approach. The techniques presented in
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-58610-6.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title ASCIENTIAE RERUM
+     Author ['T Karvonen']
+     Venue NA
+     Year NA
+     Abstract PRODUCTS TOWARDS A REFERENCE MODEL FOR CONTINUOUS SOFTWARE ENGINEERING  CONTINUOUS SOFTWARE ENGINEERING IN THE DEVELOPMENT OF SOFTWARE-INTENSIVE PRODUCTS Towards a reference model for continuous software
+     Url https://www.researchgate.net/profile/Teemu_Karvonen/publication/320585567_Continuous_software_engineering_in_the_development_of_software-intensive_products_towards_a_reference_model_for_continuous_software_engineering/links/59f7203aa6fdcc075ec62dc4/Continuous-software-engineering-in-the-development-of-software-intensive-products-towards-a-reference-model-for-continuous-software-engineering.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title The Development and Implementation of Model-Driven Software Configuration Management Solutions
+     Author ['A Bartusevičs']
+     Venue NA
+     Year 2015
+     Abstract CON 2015]. The conference is considered to be the beginning of DevOps methodology, which aims to accelerate the works of software development and installations, as well as improve the quality of it [AZO 2014]. Tracy Ragan
+     Url https://ortus.rtu.lv/science/en/publications/20611/summary.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title End-to-end testing on Web Experience Management Platform
+     Author ['H Nguyen']
+     Venue NA
+     Year 2020
+     Abstract 2.4 E2E testing in Continuous Development 2.4.1 Continuous Development Lean concept of software development and recent emphasis on DevOps re- alize that the integration between software development and its operational deployment needs to be a continuous one
+     Url https://aaltodoc.aalto.fi/handle/123456789/44928
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Survey and Requirements of Risk-driven Continuous Delivery of
+     Author ['J Dominiak', 'N Ferry', 'A Huélamo']
+     Venue NA
+     Year 2018
+     Abstract 2 Agile and Continuous Risk Management The first stage of the development cycle of the DevOps approach is about planification  techniques, in particular related to NFRs. Fitzgerald et al [20] illustrate how Lean Thinking [21] can be applied to continuous software engineering
+     Url https://enact-project.eu/deliverables/D2.1_continuous_delivery.pdf
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Formal Software Architectural Migration Towards Emerging Architectural Styles
+     Author ['N Chondamrongkul', 'J Sun', 'I Warren']
+     Venue European Conference on Software …
+     Year 2020
+     Abstract advantage of new technologies and principles [1], such as continuous software engineering, microservices, containerisation  [17] presented a framework for refactoring the architecture of software product lines (SPLs)  In: Bruel, J.-M., Mazzara, M., Meyer, B. (eds.) DEVOPS 2019
+     Url https://link.springer.com/chapter/10.1007/978-3-030-58923-3_2
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Challenges of Large-ScaleSoftware Testing and the Role of Quality Characteristics: Empirical Study
+     Author ['E Belay']
+     Venue NA
+     Year 2020
+     Abstract The sample space includes testers/quality assurance engineers, programmers, test and project managers, DevOps engineers, system analysts, and technologies that are currently working in the IT Industries, Telecom companies, Finance and Bank, Gaming Industry, etc
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1421638
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Middleware for customizable multi-staged dynamic upgrades of multi-tenant saas applications
+     Author ['F Gey', 'D Van Landuyt', 'W Joosen']
+     Venue 2015 IEEE/ACM 8th …
+     Year 2015
+     Abstract to provide alternative impact variants on service continuity for unforeseen upgrades out of which one can be chosen and configured by involved stakeholders of the application's operation in a multi-staged [41] fashion; much in line with recent trends such as DevOps [16] that
+     Url https://ieeexplore.ieee.org/abstract/document/7431401/
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Future Research.
+     Author ['RH Reussner', 'M Goedicke', 'W Hasselbring']
+     Venue NA
+     Year 2019
+     Abstract [Ape+ 13] Sven Apel et al. Feature-Oriented Software Product Lines: Concepts and Implemen- tation Springer Publishing Company Incorporated, 2013  [Bos14] Jan Bosch. Continuous Software Engineering: An Introduction  Performance-oriented DevOps: A Research Agenda
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=394
+
+
+     Search term "Continuous+Software+Engineering"+"DevOps"+"Software+Product+Lines"
+     Title Automated management of undesired code use based on predicted valuation and risk analysis
+     Author ['S Pandit', 'K Weldemariam', 'S Kwatra', 'A Diriye']
+     Venue US Patent …
+     Year 2020
+     Abstract US10628138B2 - Automated management of undesired code use based on predicted valuation and risk analysis - Google Patents. Automated management of undesired code use based on predicted valuation and risk analysis. Download PDF Info
+     Url https://patents.google.com/patent/US10628138B2/en
+

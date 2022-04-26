@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Effective Software Verification and Validation Approach for Nuclear Power Plant Digital Instrumentation and Control Systems
+     Author ['S Yang', 'J Ding', 'H Miao']
+     Venue International …
+     Year 2010
+     Abstract As part of high- quality engineering assurance, rigorous software Verification and Validation (V&V) life-cycle methodologies are  Factory Acceptance Testing (FAT) FAT is used to determine whether a system satisfies the re- quirements  Stakeholder Requirements DCS FAT
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE18/49293/659/347327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title The Several Issues in Safety Review of Digital Control System in Chinese Nuclear Power Plant
+     Author ['YB Zhang', 'ZQ Wang', 'Y Feng', 'JB Liu']
+     Venue … Symposium on Software …
+     Year 2016
+     Abstract 3.4 Software Verification and Validation  version in the V&V report are helpful to ensure the implementation of the configuration management program of DCS. The configuration management can effectively control the hardware and software version in factory test phase and site
+     Url https://link.springer.com/chapter/10.1007/978-981-10-3361-2_18
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Sandboxing for Cross-Platform Applications of Robots
+     Author ['HP Halvorsen', 'A Jonsaas']
+     Venue 2019 IEEE International …
+     Year 2019
+     Abstract DeltaV of Emerson Process Management is a DCS for factory wide control  PLC, DCS (Distributed Control System) and SCADA have many common features and are frequently found in manufacturing robotic applications
+     Url https://ieeexplore.ieee.org/abstract/document/8790414/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety conditions verification of communication in distributed control system
+     Author ['W Mikluszka']
+     Venue 3rd International Conference on Human System …
+     Year 2010
+     Abstract most of these buses are Modbus RTU, Profibus DP, DeviceNet, CANopen, FF (Foundation Fieldbus) and FIP (Factory Information Protocol)  3. Distributed control system  3 shows an example of a system consisting of SCADA workstation, sensors, actuators, touch panels and PID
+     Url https://ieeexplore.ieee.org/abstract/document/5514477/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Enterprise integration and interoperability in manufacturing systems: Trends and issues
+     Author ['H Panetto', 'A Molina']
+     Venue Computers in industry
+     Year 2008
+     Abstract planning) and manufacturing floor control supervisory control and data acquisition (SCADA)  e-Engineering, e-Marketing, e-Brokerage, e-Productivity, e-Factory) in order to  Schnoebelen, P. McKenzieSystems and Software verification: Model Checking Techniques and Tools
+     Url https://www.sciencedirect.com/science/article/pii/S0166361508000353
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title The Realization of Verification and Validation for Safety I&C System in The Third Generation Nuclear Power Plant [J]
+     Author ['W Ping']
+     Venue Science & Technology Vision
+     Year 2012
+     Abstract Power Plant Automation Co.,Ltd.,Nanjing 210003,China);Application of DCS in Ling  China,Hengyang,Hunan,421001,China;2.Beijing Nuclear Instrument Factory,Beijing,100176  Shanghai 200233,China);Research for techniques in NPP safety software verification and
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-KJSJ201224145.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual factory laboratory system and its application
+     Author ['Y Wu', 'J Zhang', 'Y Feng', 'G Rong']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract grating various application modules, it is capable of carrying on research of enterprise operation management, software validation, algorithm de  Equipment DCS/PLC  4. HIL simulation system tual factory laboratory system turns into a HIL simulation system which is shown in Fig
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015360122
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Temporal logic (tl)-based autonomy for smart manufacturing systems
+     Author ['HS Bank', "S D'souza", 'A Rasam']
+     Venue Procedia Manufacturing
+     Year 2018
+     Abstract Other than software verification,one can give several examples of the applications from academia  Manufacturing, where manu- facturers try to adapt these technologies on factory floor and  issues which would be hard to encode in runtime intelligence of cyber-physical system
+     Url https://www.sciencedirect.com/science/article/pii/S2351978918308357
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Project Experience of MMIS for Shin-Hanul units 1&2 (Component Design, Manufacturing and Testing)
+     Author ['S Koo', 'K Kim']
+     Venue NA
+     Year 2015
+     Abstract Doosan MMIS manufacturing is based on PLC and DCS platform  Software verification and validation (V&V) is a software-engineering discipline that helps to build quality into  as integrated system test (IST), MMIS-integrated system test (MMIS-IST), and factory acceptance test
+     Url https://www.kns.org/files/pre_paper/34/15A-%EA%B5%AC%EC%84%9C%EB%A3%A1I.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Research of Digital Reactor Protection System for Nuclear Power Plant
+     Author ['H Wang', 'L Liu', 'X Li', 'D Xu', 'J Zhou']
+     Venue Nuclear Power Engineering
+     Year 2002
+     Abstract 8, ;Study on DCS Fault and Maintenance Policy for Safety System of Nuclear Power  Xue-jun;DENG Peng;Zhang Fu-lin Beijing Nuclear Instrument Factory, Beijing 100020  Tsinghua Univ., Beijing 100084, China);Preliminary research on safety software verification and validation
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-HDLG2002S1015.htm
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Overview of cyber-security of industrial control system
+     Author ['X Fan', 'K Fan', 'Y Wang', 'R Zhou']
+     Venue … cities, industrial control system …
+     Year 2015
+     Abstract In this way, complex SCADA attacks will be identified as well  response and fault diagnosis ability helps the further protection of the safety of industrial control system. Masatoshi TAKANO[25] proposed ICS network security incident response and troubleshooting process
+     Url https://ieeexplore.ieee.org/abstract/document/7245324/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Demystifying cyber-physical malware
+     Author ['SC Kothari']
+     Venue 2018 IEEE/ACM 40th International Conference on …
+     Year 2018
+     Abstract No matter how exhaustive the reliability testing in the factory, the GPS manufacturer will not  vast expanse from mobile phones apps to Supervisory Control and Data Acquisition (SCADA) systems  to model and analyze control systems software for automobile, avion- ics, and other
+     Url https://ieeexplore.ieee.org/abstract/document/8449654/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title SELECTION AND MANAGEMENT OF ORGANIZATION FOR IMPLEMENTING V&V ACTIVITIES IN APPLICATION SOFTWARE OF DIGITAL INSTRUMENT CONTROL …
+     Author ['Q Li', 'X Wang', 'S Wang', 'S Liu']
+     Venue The Proceedings of the International …
+     Year 2019
+     Abstract project schedule and cost, it is particularly important for the selection of the implementation units of the software validation and validation  of DCS to be  software function test record to the United States without the consent of Company A after the software factory system integration
+     Url https://www.jstage.jst.go.jp/article/jsmeicone/2019.27/0/2019.27_1029/_article/-char/ja/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal modeling and verification in the software engineering framework of IEC 61499: a way to self-verifying systems
+     Author ['V Vyatkin', 'HM Hanisch']
+     Venue … Emerging Technologies and Factory …
+     Year 2001
+     Abstract However, the existing methods of software validation (manual testing or computer-aided simulation) are too slow  As it is shown in Figure 1, the distributed control system can be easily upgraded by  to disturbances, adaptability and flexibility to rapid change on the factory floor of
+     Url https://ieeexplore.ieee.org/abstract/document/997677/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Continuous-discrete interactions in chemical processing plants
+     Author ['S Engell', 'S Kowalewski', 'C Schulz']
+     Venue Proceedings of the …
+     Year 2000
+     Abstract industry, mathematical programming, modeling, optimization methods, scheduling, simulation, software verification and validation  contents of the reactor were spilled within the factory and in  part of which is usually implemented in a distributed control system (DCS)] performs a
+     Url https://ieeexplore.ieee.org/abstract/document/871308/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying the IEC-61499 model to the shoe manufacturing sector
+     Author ['M Colla', 'A Brusaferri']
+     Venue … Technologies and Factory …
+     Year 2006
+     Abstract 2005 the trial 5.0 version, freely downloadable by courtesy of ICS Triplex, focusing  The Factory Automation Laboratory of the Tampere University of Technology in Finland has also  can be directly connected to the real manufacturing plant without any other software verification
+     Url https://ieeexplore.ieee.org/abstract/document/4178255/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Software factory for industrial automation: focus on the PLC software quality
+     Author ['D Chalon', 'W Ait-Cheik-Bihi']
+     Venue NA
+     Year NA
+     Abstract This can include code generation and extension to take into account SCADA  [Dut07] Mathias D Dutour. Software factory techniques applied to process control at cern  [fda02] General principles of software validation; final guidance for industry and fda staff
+     Url https://www.researchgate.net/profile/Wafaa_Ait-Cheik-Bihi2/publication/277609165_Software_factory_for_industrial_automation_focus_on_the_PLC_software_quality_wins_1st_Prize_in_Automation_40/links/556eb29808aeccd7773f734c.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking practices in  a total of 31 papers published in the area; among those, IEEE Conference on Emerging Technologies and Factory Automation proceedings
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Computerized System Validation: Regulatory Compliance and Process Safety in the Pharmaceutical Industry
+     Author ['Y Samson']
+     Venue NA
+     Year 2006
+     Abstract CSVC Computer System Validation Committee (part of PMA) DCS Distributed Control System DNA Deoxyribo  Agency for the Evaluation of Medicinal Products FAT Factory Acceptance Test  Quality Management System SAT Site Acceptance Test SCADA Supervisory, Control
+     Url https://hal.archives-ouvertes.fr/hal-02270463/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Security fusion implementation and optimization in SCADA systems
+     Author ['W Casper', 'S Papa', 'S Nair']
+     Venue 2012 IEEE Conference on …
+     Year 2012
+     Abstract However, the owner or corporation that operates the factory may be greatly affected if the factory ceases operation due to an attack on its industrial control system  It is proposed that performing a detailed risk analysis of the failure points in the SCADA system while
+     Url https://ieeexplore.ieee.org/abstract/document/6459920/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Turbine control system upgrade for Bruce nuclear plant units 1 and 2
+     Author ['SF Gray', 'S Basu']
+     Venue 2009 IEEE International Conference on …
+     Year 2009
+     Abstract completion of the verification and validation during the Factory Acceptance Test  III. DISTRIBUTED CONTROL SYSTEM ARCHITECTURE The hardware, software and, communications for the new DCS are  The DCS breaks down complex control tasks into smaller, simpler steps
+     Url https://ieeexplore.ieee.org/abstract/document/5189655/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer science and engineering Curricula: The bridge from theory to applications
+     Author ['PP Fasang', 'DC Rine']
+     Venue Computer
+     Year 1980
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Validation of algorithms used in commercial off-the-shelf dive computer
+     Author ['D Fraedrich']
+     Venue Diving and Hyperbaric Medicine
+     Year 2018
+     Abstract This study presents how man-trial data with known P DCS can be used by the non-Navy scientific community for  preliminary testing indicates that while none of the four passed all of these proposed tests with factory default settings  Standard for software verification and validation
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6355308/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Security technology for smart grid networks
+     Author ['AR Metke', 'RL Ekl']
+     Venue IEEE Transactions on Smart Grid
+     Year 2010
+     Abstract need to make more consistent the security solutions applied to SCADA deployments  it is useful to have a method of performing secure software validation on running  With device attestation techniques, accredited manufacturers can factory install device attestation certificates in
+     Url https://ieeexplore.ieee.org/abstract/document/5460903/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title D&T NEWS
+     Author ['MCC CAD']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract ICS.....Industrial Control System  1 Page 16. The research that we are proposing addresses the issue of industrial control system  Related Work Currently, most facilities that use factory automation are turning to SCADA systems
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title A logic for real-time discrete event processes
+     Author ['JS Ostroff']
+     Venue IEEE Control Systems Magazine
+     Year 1990
+     Abstract or turn in time, the robot might collide with another object on the factory floor  Software Verification In the software verification literature, much attention has been focused on the description and  be flexible enough to model not only programs but also the plant dynam- ics (eg, there
+     Url https://ieeexplore.ieee.org/abstract/document/56283/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Control system modernization: Turbogas unit case study
+     Author ['RR Garduño', 'PM Sánchez']
+     Venue IFAC Proceedings Volumes
+     Year 1995
+     Abstract is done at the modernization methodology, automation and control scheme design, and control software validation stages  The new control system, DCS-GP, is a distnbuted digital control system (see Fig.l). Its main  Factory acceptance test, Commissioning (start-up) and Validation
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017447999
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of optimised Syrian electricity generation operation
+     Author ['M Abdullah', 'M Pezic', 'PE Robinson']
+     Venue NA
+     Year 2002
+     Abstract This is in use i) to obtain early beneﬁts in advance of SCADA/EMS implementation, ii) to provide PEGTE  5 x 213 Steam l-[FO North AlZara 3 X 213 Steam HFO / NG Centre 7. SOFTWARE VALIDATION Functional and quality tests were carried out, both in_ the factory and on
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp_20020029
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title MODEL BASED TESTING OF PLC FACTORY AUTOMATION SOFTWARE
+     Author ['A Kuusik', 'J Vain']
+     Venue NA
+     Year NA
+     Abstract Methodologies for PLC software testing are rather weakly developed and used which makes fast software verification a complex task  thought of, severely reduces the motivation. Some HMI and SCADA systems allow this  production testing cell at an electronics factory
+     Url https://digikogu.taltech.ee/et/Download/c9f7dd5f-3ed5-4645-96b6-9141ed4d7665/MudeliphinePLCTstustarkvaraTestimine.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying trusted network technology to process control systems
+     Author ['H Okhravi', 'D Nicol']
+     Venue International Conference on Critical Infrastructure …
+     Year 2008
+     Abstract categories (with 31 attack patterns), which we believe are meaningful in the ICS context and  J. Karsch, D. Hoffman and N. Kube, The special needs of SCADA/PCN firewalls  Proceed- ings of the Tenth IEEE Conference on Emerging Technologies and Factory Automation, 2005
+     Url https://link.springer.com/chapter/10.1007/978-0-387-88523-0_5
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Status of the observatory control system for the GMT
+     Author ['M Pi', 'JM Filgueira', 'M Cox', 'C Peng']
+     Venue … for Astronomy V
+     Year 2018
+     Abstract 2.5. Component Development Lifecycle. The SDFs are one of the deliverables of the OCS during the development phases. The following diagram describes an overview of the Device Control System (DCS) implementation strategy
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10707/1070705/Status-of-the-observatory-control-system-for-the-GMT/10.1117/12.2315850.full?webSyncID=68bead49-a285-31ab-0d3a-6b03c97c009b&sessionGUID=6bcd746b-80d8-e8ab-eeae-d6ae05c117aa
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer Science and Engineering Curricula: The Bridge from Theory to Applications
+     Author ['P Fasang', 'D Rine']
+     Venue IEEE Annals of the History of Computing
+     Year 1980
+     Abstract machines, it is said, will invade factory, office, laboratory  AND COMPUTING SYSTEMS SYNTHESIS TECHNIQUES ARCHITECTURE SOFTWARE VERIFICATION AND SOFTWARE  SOFTWARE ENGINEERING SOFTWARE BUSINESS ECONOM ICS COMPUTER SCIENCE OR
+     Url https://ieeexplore.ieee.org/abstract/document/1653664/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Energy Monitoring and Targeting System IEC61131 Compatible Framework
+     Author ['RE Castro', 'CE Pereira', 'FB Líbano']
+     Venue 2013 IEEE 6th …
+     Year 2013
+     Abstract Moreover, aiming at aggregating all tools associated to M&T in an EnMS scenario, this paper proposes the use of a Supervisory Control and Data Acquisition (SCADA) tool integrated to real time software (Soft-PLC) that runs the control application and a factory floor distributed
+     Url https://ieeexplore.ieee.org/abstract/document/6717322/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Mixed-Signal Test Software Generation Process-Open Environment, Software Engineering Methods and Tools for Improving Quality and Productivity
+     Author ['S Vock', 'HM von Staudt']
+     Venue INTERNATIONAL SYMPOSIUM FOR …
+     Year 2006
+     Abstract The ICs are listed in historical order. It should be mentioned that these numbers do not include any factory automation code (data logging, handler communi- cation, equipment monitoring  It is normally not acceptable to consume tester time for pure software verification purposes
+     Url https://books.google.com/books?hl=de&lr=&id=kc90GGEp1KEC&oi=fnd&pg=PA172&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Factory%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=3vN7AM5ZPk&sig=lIRXqlc-HT73pAGsHbGmclGlKMY
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Novel applications of cryptography in digital communications
+     Author ['JK Omura']
+     Venue IEEE Communications Magazine
+     Year 1990
+     Abstract equipment, electronic mail and data inter- change, access control and audit trails, software verification and virus  These card ICs not only contain mem- ory cells for holding considerable amount of  by the certification center, it can be embedded into each termi- nal at the factory
+     Url https://ieeexplore.ieee.org/abstract/document/54344/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Industry 4.0-Digital Twin Applied to Direct Digital Manufacturing
+     Author ['J Vitorino', 'E Ribeiro', 'R Silva', 'C Santos']
+     Venue Applied Mechanics …
+     Year 2019
+     Abstract Its history comes from the 18th century with the first glass factory  The implementation of ICS is currently happening in large scale across numerous industries  model that can coordinate architecture, mechanical, electrical, software, verification, and other discipline specific models
+     Url https://www.scientific.net/AMM.890.54
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Application of trusted network technology to industrial control networks
+     Author ['H Okhravi', 'DM Nicol']
+     Venue International Journal of Critical Infrastructure …
+     Year 2009
+     Abstract The RTU connects to a switch on the factory floor via a network cable; the switch  Since nearly 78% of the (external) SCADA security incidents are caused by malware [1], TPCN incidents  categories (with 31 attack patterns), which we believe are meaningful in the ICS context and
+     Url https://www.sciencedirect.com/science/article/pii/S1874548209000171
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Future of developer testing: Building quality in code
+     Author ['T Xie', 'N Tillmann', 'J De Halleux', 'W Schulte']
+     Venue Proceedings of the FSE …
+     Year 2010
+     Abstract Although much progress has been made in software verification, software testing remains by far the  in detecting omission faults, which are related to missing functionalities or log- ics  Some example guidance to tools given by developers include writing factory methods [40, 6, 13
+     Url https://dl.acm.org/doi/abs/10.1145/1882362.1882447
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Acceptance checkout equipment-Spacecraft Monthly progress report, 15 Jan.-15 Feb. 1966
+     Author ['LM Downes', 'JF Stafford']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Railway power SCADA system commissioning" case example"
+     Author ['IM Hampton', 'K Lam']
+     Venue Proceedings Second Asia-Pacific …
+     Year 2001
+     Abstract Railway Power SCADA System Commissioning “Case Example” Ir  This paper describes the methodology adopted to facilitate and manage the factory preparation, installation, testing, commissioning, subsequent transition of the New PRC System to Operations and a System
+     Url https://ieeexplore.ieee.org/abstract/document/990018/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title A Dynamic Positioning MODU Critical Control Systems Communications and Software Reliability Assessment
+     Author ['S Savoy', 'R Wilson', 'C Dewitt', 'M Romero']
+     Venue Offshore Technology …
+     Year 2015
+     Abstract user with access to the technical manuals, access to top-level factory and administrative  critical networked assets effectively prevents the delivery of infected code to an ICS  measures effectively prevents unauthorized access and subsequent infection of SCADA control systems
+     Url https://www.onepetro.org/conference-paper/OTC-25981-MS
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Productivity and code quality improvement of mixed-signal test software by applying software engineering methods
+     Author ['S Vock', 'U Flogaus']
+     Venue 2006 IEEE Design and …
+     Year 2006
+     Abstract It should be mentioned that these numbers do not include any factory automation code (data  IC / test program (different power management ICs) Lines of code (LoC) Number of tests LoC  It is normally not acceptable to consume tester time for pure software verification purposes
+     Url https://ieeexplore.ieee.org/abstract/document/1649593/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Finding faults: A scoping study of fault diagnostics for Industrial Cyber-Physical Systems
+     Author ['B Dowdeswell', 'R Sinha', 'S MacDonell']
+     Venue Journal of Systems and Software
+     Year 2020
+     Abstract [Not Found]
+     Url https://www.sciencedirect.com/science/article/pii/S0164121220301114
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title A Stochastic Approach for Integrated Production and Distribution Planning in Dairy Supply Chains
+     Author ['A Guarnaschelli', 'HE Salomone', 'CA Méndez']
+     Venue Computers & Chemical …
+     Year 2020
+     Abstract The planning model decides on the following aspects of the business cycle: production campaigns sizes, lengths, and working shifts for every production plant; inventory level decisions for factory and DCs warehouses. Required
+     Url https://www.sciencedirect.com/science/article/pii/S0098135420301253
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Factory eco-efficiency modelling
+     Author ['A Davé', 'M Oates', 'C Turner', 'P Ball']
+     Venue International Journal of Energy …
+     Year 2015
+     Abstract had access to. Case features a broad scope of factory assets and encounters granularity and modelling challenges. Asset data were collated through direct contact with process engineers and SCADA systems. Data cleansed
+     Url https://www.emerald.com/insight/content/doi/10.1108/IJESM-05-2013-0004/full/html
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title THE CONTROL OF A MATERIAL HANDLING SYSTEM VIA SEQUENTIAL FUNCTIONAL CHARTS
+     Author ['F BASILE', 'P CHIACCHIO', 'P RUBINO']
+     Venue Theory and Practice of …
+     Year 1998
+     Abstract by internal AGV, ie SURFACE TREATMENT, AGV-1, AGV+1 and LIFTER zones; - two PCs for the SCADA (Supervisory Control and  PCs are linked on SIMATIC Industrial Ethernet network where is hold the communication with the factory informative system  6 Software validation
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789814447317_0110
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title FACTORY MODELLING: THE IMPACT OF DATA GRANULARITY ON MANUFACTURING AND BUILDING ASSET SIMULATION RESULTS QUALITY
+     Author ['A Davé', 'M Oates', 'C Turner', 'P Ball']
+     Venue NA
+     Year NA
+     Abstract study is an industrial paint-shop that the research group had access to • Case features a broad scope of factory assets and encounters granularity and modelling chal- lenges • Asset data was collated through direct contact with process engineers and SCADA systems • Data
+     Url https://www.researchgate.net/profile/Chris_Turner2/publication/272490608_The_Impact_of_Data_Granularity_on_Manufacturing_and_Building_Asset_Simulation_Results_Quality/links/5ebbc076458515626ca5ab48/The-Impact-of-Data-Granularity-on-Manufacturing-and-Building-Asset-Simulation-Results-Quality.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Digital twin-driven cyber-physical production system towards smart shop-floor
+     Author ['H Zhang', 'G Zhang', 'Q Yan']
+     Venue Journal of Ambient Intelligence and …
+     Year 2019
+     Abstract These related works include Digital Factory, Internet of Things (IoT), Cloud Computing, Service  Digi- tal twin is a core concept of Cyber Physical System (CPS) inspired by  system model that can coordinate architecture, mechani- cal, electrical, software, verification, and other
+     Url https://link.springer.com/content/pdf/10.1007/s12652-018-1125-4.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Factory"+"Software+Validation"+OR+"Software+Verification"
+     Title Security framework for industrial collaborative robotic cyber-physical systems
+     Author ['A Khalid', 'P Kirisci', 'ZH Khan', 'Z Ghrairi', 'KD Thoben']
+     Venue Computers in …
+     Year 2018
+     Abstract robot collaboration (HRC) in an industrial connected manufacturing environment [20], known as 'Collaborative Robotic Cyber-Physical System' (CRCPS) [21]  There are protocol verification methods in which both hardware and software verification is conducted through system
+     Url https://www.sciencedirect.com/science/article/pii/S016636151730088X
+

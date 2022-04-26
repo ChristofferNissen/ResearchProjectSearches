@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"PLC"+OR+"FPGA"+"Testing"
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Guided semi-automatic system testing in factory automation
+     Author ['S Ulewicz', 'B Vogel-Heuser']
+     Venue 2016 IEEE 14th International …
+     Year 2016
+     Abstract Automatic test case generation for PLC programs using coverage metrics,” in 2015 IEEE 20th Conference on Emerging Technologies & Factory Automation (ETFA), 2015, pp. 1–4. [12] E. Jee, J. Yoo, S. Cha, and D. Bae, “A data flow-based structural testing technique for FBD
+     Url https://ieeexplore.ieee.org/abstract/document/7819148/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Software changes in factory automation: Towards automatic change based regression testing
+     Author ['S Ulewicz', 'D Schütz']
+     Venue IECON 2014-40th Annual …
+     Year 2014
+     Abstract process in factory automation engineering, but few are directly applicable to real PLC code or need extensive manual effort not available in this domain. The presented approach is closely oriented at industrial demands, linking changes and their impact on needed testing efforts
+     Url https://ieeexplore.ieee.org/abstract/document/7048875/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated plc software testing using adapted uml sequence diagrams
+     Author ['B Kormann', 'D Tikhonov', 'B Vogel-Heuser']
+     Venue IFAC Proceedings Volumes
+     Year 2012
+     Abstract A framework for automated testing of automa- tion systems. IEEE Conference on Emerging Technolo- gies and Factory Automation (ETFA), 1–4. Witsch, D., Ricken, M., and Kormann, B. (2010). Plc state charts: An approach to integrate uml state charts in open-loop control
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016333821
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Application of PLC in the Fast Test System for Electric Pump [J]
+     Author ['MA Dong-qi']
+     Venue Fluid Machinery
+     Year 2011
+     Abstract of Mechanical Sciences,Fuzhou 350005,China). In view of the need of factory examination in  one kind of Electric Pumps fast test system was designed by PLC control technology  measure synchronously and share the database.The system controls the overall testing process by
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-LTJX201111012.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design, manufacture and factory testing of the Ion Source and Extraction Power Supplies for the SPIDER experiment
+     Author ['M Bigi', 'L Rinaldi', 'M Simon', 'L Sita', 'G Taddia']
+     Venue Fusion Engineering and …
+     Year 2015
+     Abstract The control unit of the Power distribution is implemented using a Siemens S7 PLC based on  OCEM, are composed of a main board based on a STRATIX II GX FPGA from Altera  level, power testing is required before the individual power supplies are dispatched from the factory
+     Url https://www.sciencedirect.com/science/article/pii/S0920379615302192
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Efficient on-line testing of FPGAs with provable diagnosabilities
+     Author ['V Verma', 'S Dutt', 'V Suthar']
+     Venue Proceedings of the 41st annual Design …
+     Year 2004
+     Abstract possible settings of its FF(s), etc. This will be required when it is not known which circuit(s) will be mapped to the FPGA, as for eg during factory-testing of FPGAs that could be sold to any user. In functional testing, which can only be
+     Url https://dl.acm.org/doi/abs/10.1145/996566.996705
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title MODEL BASED TESTING OF PLC FACTORY AUTOMATION SOFTWARE
+     Author ['A Kuusik', 'J Vain']
+     Venue NA
+     Year NA
+     Abstract This thesis describes author's developments and engineering activities in the field of model based testing of PLC-based automation systems. The work describes limitations of PLC operation, its software debugging complexity and time consumption, which led to the needs
+     Url https://digikogu.taltech.ee/et/Download/c9f7dd5f-3ed5-4645-96b6-9141ed4d7665/MudeliphinePLCTstustarkvaraTestimine.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Hierarchical built-in self-testing and fpga based healing methodology for system-on-a-chip
+     Author ['SK Venishetti', 'A Akoglu', 'R Kalra']
+     Venue Second NASA/ESA …
+     Year 2007
+     Abstract We relaxed the testing, healing and configuration timing penalty in this work as it is  Time Self-Reconfiguration,”IEEE International Conference on Emerging Technologies and Factory Automation, Catania  Hybrid BIST for System-on-a- Chip Using an Embedded FPGA Core”, Proc
+     Url https://ieeexplore.ieee.org/abstract/document/4291989/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Built-in-self-test of FPGAs with provable diagnosabilities and high diagnostic coverage with application to online testing
+     Author ['S Dutt', 'V Verma', 'V Suthar']
+     Venue IEEE Transactions on Computer …
+     Year 2008
+     Abstract settings of its flip-flops (FFs), etc. This will be required when it is not known which circuit(s) will be mapped to the FPGA, eg, during factory testing of FPGAs that could be sold to any user. In the functional testing, which can only
+     Url https://ieeexplore.ieee.org/abstract/document/4358297/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title … 150001, China; 2. Alumimun Ware Fabrication Factory, Northeast Light Alloy Co. Ltd, Harbin 150040, China); An approach for testing FPGA logic cells based …
+     Author ['WU Ji-juan']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract [1] ANSI/ISA 62381: Factory Acceptance Test (FAT), Site Acceptance Test (SAT), and Site Integration Test (SIT), Automation Systems in the Process Industry. [2] E. Dustin, T. Garrett, B. Gauf  Model-based Automated Testing of Critical PLC Programs.11th INDIN
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Design and test issues of an FPGA based data acquisition system for medical imaging using PEM
+     Author ['C Leong', 'P Bento', 'P Lousã', 'J Nobre']
+     Venue … on Nuclear Science
+     Year 2006
+     Abstract Testing is carried out in two steps, one non-deterministic and one deterministic  been carried out to produce realistic datasets that have been used to study the FPGA design, assess  modules (Phantom Factory/PEMSim) [4], [11] modules were interfaced with DIGITSim and a list of
+     Url https://ieeexplore.ieee.org/abstract/document/1644939/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title An FPGA based SoC design for testing embedded automotive communication systems employing the flexray protocol
+     Author ['M Horauer', 'F Rothensteiner', 'M Zauner', 'E Armengaud']
+     Venue NA
+     Year 2004
+     Abstract An FPGA based SoC Design for Testing Embedded Automotive Communication  In this paper we presented an overview of our FPGA-based SoC implementation tailored to  5th IEEE International Work- shop on Factory Communication Systems (WFCS'04), Septem- ber 2004
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.464.7917&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Motorcycle control prototyping using an FPGA-based embedded control system
+     Author ['C Dase', 'JS Falcon', 'B Maccleery']
+     Venue IEEE Control Systems …
+     Year 2006
+     Abstract FPGA on Backplane of Chassis I/O Modules Real-Time Processor Page 2  The factory ECU was originally located under- neath the seat but was removed after initial testing to reverse engineer the software and the calibrations
+     Url https://ieeexplore.ieee.org/abstract/document/1700040/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based testing system of NAND-memory multi-chip modules
+     Author ['S Podryadchikov', 'V Putrolaynen', 'M Belyaev']
+     Venue Microelectronics …
+     Year 2019
+     Abstract The following procedures are realized for MCM in FPGA testing: • “Searching Bad Block”: to scan all LUNs for the presence of factory bad blocks; • “Status Check”: to read and check values of the Status registers for all MCMs; • “Erase All”: to erase information in all blocks; •
+     Url https://www.sciencedirect.com/science/article/pii/S0026269218304403
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Study on Testing and Harden Technique of Single Event Upset for SRAM-Based FPGA
+     Author ['J Qiu', 'H Xu', 'X Pan', 'M Zhu']
+     Venue … yu Kongzhi(Electronics, Optics & Control …
+     Year 2011
+     Abstract Prov.730050,China);The manufacture and application of equipment for testing SRAM radiation effect  University of Defence Technology,Changsha 410073,China)(2 No.539 Factory,Shanghai Aerospace  Co.Ltd,Shanghai 201800);Radiation Effect to SRAM-based FPGA in Space
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-DGKQ201108022.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title The design of a factory aquiculture monitor system based on PLC [J]
+     Author ['MA Cong-guo', 'NI Wei']
+     Venue Industrial Instrumentation & Automation
+     Year 2005
+     Abstract The design of a factory aquiculture monitor system based on PLC. MA Cong-guo,NI Wei (College Engineering of Huaiyin,Jiangsu Huaian 223001,China). The paper analyses the present conditions and some problems of aquiculture
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-GYZD200502017.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title On-the-fly conformance testing of safety PLC code using QuickCheck
+     Author ['A Khan', 'D Thönnessen']
+     Venue 2019 IEEE 17th …
+     Year 2019
+     Abstract During the factory acceptance testing phase, the assigned engineer spends several days at the contractor's facility to confirm that the product conforms with the agreed specification  Furthermore, the limitations of IOCOS for testing the safety PLC code is highlighted
+     Url https://ieeexplore.ieee.org/abstract/document/8972277/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Worlds in collision-ethernet and the factory floor
+     Author ['E Byres', 'J Carter', 'A Elramly']
+     Venue ISA 2002 Emerging …
+     Year 2002
+     Abstract We then discuss the security analysis of a specific PLC and finally we close with a series of recommendations for a sound plant floor  Internet Factory Floor Reliability Occasional failures tolerated Beta test in the field acceptable Outages intolerable Thorough QA testing expected
+     Url https://www.researchgate.net/profile/Eric_Byres/publication/249885454_Worlds_in_Collision_Ethernet_and_the_Factory_Floor/links/546cfaef0cf2193b94c57c06.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Implementation of ADC Wobbler Test in FPGA
+     Author ['J Vedral']
+     Venue Conference on Design of Circuits and Integrated …
+     Year 2008
+     Abstract Implementation of ADC Wobbler Test in FPGA  Common testing methods are mentioned as far as the accuracy and time necessary for the complete test are  The suitable area of proposed method application is „each-piece“ factory testing requiring extremely short testing tim
+     Url https://www.researchgate.net/profile/Josef_Vedral2/publication/268384349_Implementation_of_ADC_Wobbler_Test_in_FPGA/links/556c465c08aefcb861d63cba/Implementation-of-ADC-Wobbler-Test-in-FPGA.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title A verification-supported evolution approach to assist software application engineers in industrial factory automation
+     Author ['S Ulewicz', 'M Ulbrich', 'A Weigl', 'M Kirsten']
+     Venue … on Assembly and …
+     Year 2016
+     Abstract B. Schlich, and S. Kowalewski, “Automatic test case generation for PLC programs using coverage metrics,” in IEEE Conference on Emerging Technologies in Factory Automation, 2015. [11] E. Jee, J. Yoo, S. Cha, and D. Bae, “A data flow-based structural testing technique for
+     Url https://ieeexplore.ieee.org/abstract/document/7750714/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Multi-channel data acquisition based on FPGA in magnetic flux leakage testing [J]
+     Author ['L YANG', 'Q ZHANG', 'S GAO', 'X WANG']
+     Venue Journal of Shenyang …
+     Year 2008
+     Abstract Science and Engineering,Beijing Institute of Technology,Beijing 100081,China;2.Lanzhou Cigarette Factory,Lanzhou,Gansu  Electronic Engineering,Shandong University of Science and Technology,Qingdao 266510 );The reactive current testing based on CPLD/FPGA[A];[C
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYGY200804022.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title A PLC programming environment based on a virtual plant
+     Author ['SC Park', 'CM Park', 'GN Wang']
+     Venue The international journal of advanced …
+     Year 2008
+     Abstract conventional PLC programming environments are not especially intuitive, particularly for the testing and debugging  Figure 2 shows the architecture of the proposed PLC programming environment  The model layer has three models, a plant model (virtual factory model), a PLC
+     Url https://link.springer.com/content/pdf/10.1007/s00170-007-1306-3.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Development of a LCR testing instrument based on FPGA [J]
+     Author ['L XU', 'Y ZOU', 'Z HUANG', 'C TANG']
+     Venue Engineering Journal of Wuhan …
+     Year 2006
+     Abstract of Science and Technology,Wuhan430074,China;2.Jiannan Machinery Factory,Hunan Huaihua418000  Mao-yi,WANG Wei(National Institute of Measurement and Testing Technology,Electronic  Chengdu 610021,China);Development of Digital Bridge Based on FPGA
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-WSDD200601022.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Power quality and factory automation
+     Author ['VE Wagner', 'AA Andreshak']
+     Venue IEEE Transactions on …
+     Year 1990
+     Abstract 623 WAGNER el al.: POWER QUALITY AND FACTORY AUTOMATION '  However, this machine used a newer version PLC with dc servo positioners and adjustable frequency induction motor  Testing Method The purpose of testing was to determine the sag threshold of the three
+     Url https://ieeexplore.ieee.org/abstract/document/55984/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Simplified FPGA-based data acquisition system for PET
+     Author ['CM Laymon', 'RS Miyaoka', 'BK Park']
+     Venue 2002 IEEE Nuclear …
+     Year 2002
+     Abstract provide a system for component testing for the MiCE scanner as well as initial imaging experience for our investigators, we are constructing an  2) Event Logic The event logic is implemented using a single field programmable gate array (FPGA) factory mounted on a test board
+     Url https://ieeexplore.ieee.org/abstract/document/1239421/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Development of Digital Impact Testing Machine base on FPGA [J]
+     Author ['T Liguo', 'L Jing', 'H Yanchun', 'H Wei']
+     Venue Engineering & Test
+     Year 2012
+     Abstract Institute for Mechanical Science Co.,Ltd.Changchun 130012,Jilin,China;2.Jilin Automobile Brake Factory,Changchun 130012,Jilin  and Technology,Changchun 130022,Jilin,China);Application of High-Speed Data Acquisition System base on FPGA to Impact Testing Machine[J
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SNSN201203018.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automatic test of safety specifications for PLC programs in the Oil and Gas Industry
+     Author ['TJ Prati', 'JM Farines', 'MH De Queiroz']
+     Venue IFAC-PapersOnLine
+     Year 2015
+     Abstract The Factory Acceptance Test (FAT) document describes how to test the final automation program in order to validate the  In order to create and validate a PLC program, tech- niques based on the correct construction of a program or techniques based on testing programs can
+     Url https://www.sciencedirect.com/science/article/pii/S2405896315008721
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title FPGA-based novel adaptive scheme using PN sequences for self-calibration and self-testing of MEMS-based inertial sensors
+     Author ['EH Sarraf', 'A Kansal', 'M Sharma', 'E Cretu']
+     Venue Journal of Electronic Testing
+     Year 2012
+     Abstract of a model-based adaptive identification method based on PN sequences for self-testing and self-calibration of MEMS-based accelerometers and gyroscopes. A reference behavioral model of the device (DUT-R), implemented on FPGA, is initialized with factory default values
+     Url https://link.springer.com/article/10.1007/s10836-012-5336-x
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title A light-weight fault injection approach to test automated production system PLC software in industrial practice
+     Author ['S Rösch', 'B Vogel-Heuser']
+     Venue Control Engineering Practice
+     Year 2017
+     Abstract In Section 4, the test case specification for SWIFI testing of the PLC software is described. Section 5 presents a case study evaluation of our approach to testing aPS as well as an expert evaluation of this testing  4.1. Fault injection operators for testing aPS PLC software
+     Url https://www.sciencedirect.com/science/article/pii/S0967066116302143
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Virtual factory revisited for manufacturing data analytics
+     Author ['S Jain', 'G Shao']
+     Venue … of the Winter Simulation Conference 2014
+     Year 2014
+     Abstract 2010. “The Virtual Factory: Exploring 3D worlds as industrial collaboration and control environments.” IEEE Virtual Reality 2010 conference  2013. Testing and verifying PLC code with a virtual model of Tetra Pak Filling Machine. Master Thesis Report no. EX016/2013
+     Url https://ieeexplore.ieee.org/abstract/document/7019949/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title A concept for PLC hardware-in-the-loop testing using an extension of Structured Text
+     Author ['D Thönnessen', 'N Reinker', 'S Rakel']
+     Venue … and Factory …
+     Year 2017
+     Abstract Hardware-in-the-loop (HiL) Simulation is a powerful method to reduce the risk of system failures leading to expensive damages. Many existing HiL tools require the tester to use proprietary test specification languages, usually unknown to the domain of a PLC
+     Url https://ieeexplore.ieee.org/abstract/document/8247580/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Research of bearing quality testing system on product-line based on PLC [J]
+     Author ['D WANG', 'M LI']
+     Venue Manufacturing Automation
+     Year 2007
+     Abstract 9, HUANG Jian-long, YU Xia, Qing Jian-hua, LU Ru-jin(School of Mechanical and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China);Application of PLC Control in Bearing Testing and Selecting System[J];Journal of Gansu Sciences;2005-01
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JXGY200711018.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Real-time implementation of intelligent modeling and control techniques on a PLC platform
+     Author ['C Parrot', 'GK Venayagamoorthy']
+     Venue 2008 IEEE Industry …
+     Year 2008
+     Abstract powerful, and a robust platform with applications beyond the standard control and factory automation  a complete system redesign would be needed with a computer, DSP or FPGA based design  Since the PLC executes a single program in a sequential fashion it can recover from
+     Url https://ieeexplore.ieee.org/abstract/document/4658952/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Node-covering based defect and fault tolerance methods for increased yield in FPGAs
+     Author ['F Hanchek', 'S Dutt']
+     Venue … of 9th International Conference on VLSI …
+     Year 1996
+     Abstract If testing identifies a faulty cell, switches are set to reconfigure the faulty cell out of the array. Not only can reconfiguration of the FPGA be performed by the user, but it can also be done at the factory an such a way as to be transparent to a user programming the array
+     Url https://ieeexplore.ieee.org/abstract/document/489489/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Portable Testing System for PV Array Based on FPGA [J]
+     Author ['L LIU', 'X ZENG', 'Q LI', 'Q CHEN']
+     Venue Instrument Technique and Sensor
+     Year 2010
+     Abstract which has solved the problem that the data acquired by traditional capacitive testing systems are  7, Wang Dong-xiang;Dong Jun(Yunnan Semiconductor Device Factory  City,Zaoyang 441204,China);Multi-channel high speed data acquisition system based on FPGA[J];Journal
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-YBJS201008005.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title An energy saving, factory-validated disturbance decoupling control design for extrusion processes
+     Author ['Q Zheng', 'Z Gao']
+     Venue Proceedings of the 10th world congress on …
+     Year 2012
+     Abstract and factory testing of a disturbance decoupling control (DDC) approach for hose extrusion processes. A unique dynamic DDC strategy, based on the active disturbance rejection control (ADRC) framework, is designed and implemented in programmable logic control (PLC) code
+     Url https://ieeexplore.ieee.org/abstract/document/6358364/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title PLCStudio: simulation based PLC code verification
+     Author ['SC Park', 'CM Park', 'GN Wang', 'J Kwak']
+     Venue 2008 Winter Simulation …
+     Year 2008
+     Abstract that the conventional PLC programming environments are not especially intuitive, particularly for the testing and debugging  2 shows the architecture of the proposed PLC programming environment  The model layer has three models, a plant model (virtual factory model), a PLC
+     Url https://ieeexplore.ieee.org/abstract/document/4736071/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Intelligent Control Positioning System Based on Machine Vision and PLC [J]
+     Author ['D WANG', 'L Geng', 'W CHENG']
+     Venue Instrument Technique and Sensor
+     Year 2012
+     Abstract using PC image acquisition,then the information of coordinates was sent to PLC,while PLC according to  delay parameters testing.Now the system has reduced by 30% than the past method in testing time.At present,this system has already passed the factory's evaluation,and
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-YBJS201211029.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Separation of Gas Particle Using Venturi-Type Wet Scrubber in Ashaka Cement Factory PLC
+     Author ['BM Tela', 'GM Ngala', 'AB Abubakar']
+     Venue International Journal of …
+     Year 2014
+     Abstract Wet Scrubber in Ashaka Cement Factory PLC  The study demonstrated an abatement strategy for dust produced in cement production in Ashaka Cement Industry Plc  This lead to the idea of designing constructing and testing of venture type wet scrubber
+     Url https://www.researchgate.net/profile/Alhaji_Abubakar/publication/339312893_Separation_of_Gas_Particle_Using_Venturi-Type_Wet_Scrubber_in_Ashaka_Cement_Factory_PLC/links/5e4ac97b299bf1cdb933a0ac/Separation-of-Gas-Particle-Using-Venturi-Type-Wet-Scrubber-in-Ashaka-Cement-Factory-PLC.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title ASIC versus antifuse FPGA reliability
+     Author ['J McCollum']
+     Venue 2009 IEEE Aerospace conference
+     Year 2009
+     Abstract As such it has all the same defect considerations as the ASIC, but with the addition of the antifuse. Due to the fact that the FPGA is blank when shipped from the factory there have been numerous testing methods built in to the design for testing prior to personalization
+     Url https://ieeexplore.ieee.org/abstract/document/4839526/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Method and apparatus for reducing the power of a signal electromagnetically coupled from a PLC medium to a DSL medium
+     Author ['RS Parnell']
+     Venue US Patent 9,391,668
+     Year 2016
+     Abstract However, the spectra of DSL and PLC are not disjoint. They overlap at 2 MHz and above. Testing confirms what stands to reason: that parasitic coupling is sufficient at some premises, at some locations, to degrade performance significantly
+     Url https://patents.google.com/patent/US9391668B2/en
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Simulation, animation, and shop-floor control
+     Author ['C Erikson', 'A Vandenberge', 'T Miles']
+     Venue … of the 19th conference on Winter …
+     Year 1987
+     Abstract in which such a link between factory-floor devices and a simulation language may be desirable. Several mechanisms for implementation are also discussed here. 2. TESTING CONTROL LOGIC Linking a simulation directly to a programmable logic controller (PLC) provides a
+     Url https://dl.acm.org/doi/abs/10.1145/318371.318678
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Source code metrics for programmable logic controller (PLC) ladder diagram (LD) visual programming language
+     Author ['L Kumar', 'R Jetley', 'A Sureka']
+     Venue 2016 IEEE/ACM 7th International …
+     Year 2016
+     Abstract Complexity metrics for PLC programming languages used in the do- main of factory and industrial  motivated by the need to define practical and rigorous met- rics for PLC domain specific  aim of our study is to define size, vocabulary, cognitive complexity and testing complexity of
+     Url https://ieeexplore.ieee.org/abstract/document/7809283/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated testing of industrial automation software: practical receipts and lessons learned
+     Author ['R Ramler', 'W Putschögl', 'D Winkler']
+     Venue … of the 1st International Workshop on …
+     Year 2014
+     Abstract these include: (1) module testing (MT), (2) integration testing (IT), (3) factory ac- ceptance  One example is the virtualized test environment for PLC systems developed by Freiseisen et  describes an approach for automated generation of simulation models for control code testing
+     Url https://dl.acm.org/doi/abs/10.1145/2593783.2593788
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Control System of Refrigeration and Air-conditioning Product Prerformance Testing Device Based on PLC and Touch Screen [J]
+     Author ['X KONG', 'J XU', 'J MA', 'D YANG']
+     Venue Machinery & Electronics
+     Year 2009
+     Abstract of the Control System for Refrigeration and Air Conditioning Composite Performance Testing Device[J  Application of High Speed Input of Programmable Logical Controller (PLC)[J];Journal  Beijing 102617) Chu Xiaoming (Research Institute, Hydraulic mechanical factory of Shou
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JXYD200901014.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Development of Ultrasonic Devices for Non-destructive Testing: Ultrasonic Vibro-tactile Sensor and FPGA-Based Research Platform
+     Author ['Y Qian']
+     Venue NA
+     Year 2020
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Application of Touch Screen and PLC in Compressor Capability Testing System
+     Author ['R WANG', 'M TIAN', 'H CHEN']
+     Venue Manufacturing Technology & Machine …
+     Year 2006
+     Abstract Jiangsu University ,Zhenjiang 212013,China);The Design of Pumps Testing Process Control  Factory,Gongzhuling 136100,China;2.Hot Mixing Sub-Factory, Gongzhuling Highway Engineering Company,Gongzhuling 136100, China );Antijamming measure of PLC in control
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-ZJYC200611018.htm
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Virtual industrial Ethernet devices for testing purposes
+     Author ['S Mätzler', 'R Lehmann', 'S Theurich']
+     Venue … & Factory …
+     Year 2012
+     Abstract Testing a wide range of features calls for the necessity to have a variety  These tests are performed to test PLC code before the target hardware, especially the  Integrated Modular Avionics,” in International Conference on Emerging Tech- nologies & Factory Automation, Toulouse
+     Url https://ieeexplore.ieee.org/abstract/document/6489698/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Testing"
+     Title Experience of I&C systems modernization using FPGA technology
+     Author ['I Bakhmach', 'V Kharchenko', 'A Siora']
+     Venue Proceedings of the …
+     Year 2010
+     Abstract Application of FPGAs as programmable components instead of programmable logic controllers (PLC) is an advanced solution  Factory Acceptance Testing of I&C system  7. V. Kharchenko, A. Siora, V. Sklyar, “Design and Testing Technique of FPGA-Based Critical Systems
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/290632797_Experience_of_I_C_systems_modernization_using_FPGA_technology/links/5831d43f08ae004f74c2a857/Experience-of-I-C-systems-modernization-using-FPGA-technology.pdf
+

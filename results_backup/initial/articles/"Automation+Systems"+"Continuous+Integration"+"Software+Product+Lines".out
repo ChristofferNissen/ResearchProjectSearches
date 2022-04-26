@@ -1,0 +1,208 @@
+Showing papers for search query "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Towards software sustainability guidelines for long-living industrial systems
+     Author ['H Koziolek', 'R Weiss', 'Z Durdik', 'J Stammel']
+     Venue Software Engineering …
+     Year 2011
+     Abstract While industrial automation systems originate from manufacturing, now there are many other  Even more profound, software product lines help to manage system vari- ability, while  for overall software quality, for sustainable systems continuous integration testing, regression
+     Url https://dl.gi.de/handle/20.500.12116/19906
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Software engineering in industrial automation: State-of-the-art review
+     Author ['V Vyatkin']
+     Venue IEEE Transactions on Industrial Informatics
+     Year 2013
+     Abstract – This paper presents one perspective on recent developments related to software engineering in the industrial automation sector that spans from manufacturing factory automation to process control systems and energy automation systems
+     Url https://ieeexplore.ieee.org/abstract/document/6502240/
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Evolution of software in automated production systems: Challenges and research directions
+     Author ['B Vogel-Heuser', 'A Fay', 'I Schaefer', 'M Tichy']
+     Venue Journal of Systems and …
+     Year 2015
+     Abstract [Not Found]
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001818
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Maintainability and evolvability of control software in machine and plant manufacturing—An industrial survey
+     Author ['B Vogel-Heuser', 'F Ocker']
+     Venue Control Engineering Practice
+     Year 2018
+     Abstract Vyatkin (2011) introduced a software architecture for distributed automation systems based on the IEC  modeling in the aPS domain based on the work on software product lines of (Pohl  answers, eg, in case additional tools were mentioned for continuous integration (#3.13) or
+     Url https://www.sciencedirect.com/science/article/pii/S0967066118304118
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Modularity and Architecture of PLC-based Software for Automated Production Systems: An analysis in industrial companies
+     Author ['B Vogel-Heuser', 'J Fischer', 'S Feldmann']
+     Venue Journal of Systems and …
+     Year 2017
+     Abstract chain support (mean value machine manufacturing companies) can be identified for selected aspects, ia continuous integration, code generation  Vyatkin proposes a software architecture for distributed automation systems based on the IEC 61499 standard (Vyatkin, 2011, IEC
+     Url https://www.sciencedirect.com/science/article/pii/S0164121217300985
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title AGENT BASED SYSTEMS IN SOFTWARE TESTING–A SYSTEMATIC MAPPING STUDY
+     Author ['P Perumal Kumaresen']
+     Venue NA
+     Year 2020
+     Abstract As a result, there is an increasing need for continuous integration and testing of the software at hand  Continuous integration and testing of the modifications made to the system throughout the development life cycle are highly costly and labor intensive
+     Url https://www.diva-portal.org/smash/get/diva2:1439393/FULLTEXT01.pdf
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Indirect effects in evidential assessment: a case study on regression test technology adoption
+     Author ['E Engström', 'R Feldt', 'R Torkar']
+     Venue … of the 2nd international workshop on …
+     Year 2012
+     Abstract strategies have emerged which demand more frequent testing, eg agile strategies with continuous integration of software  Software Product Lines: Practices and Patterns  Systems, Man and Cybernetics, Part A: Systems and Humans, IEEE Transactions on, 30(3):286 –297, May
+     Url https://dl.acm.org/doi/abs/10.1145/2372233.2372239
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Automatic GUI test generation for smartphone applications-an evaluation
+     Author ['A Jaaskelainen', 'M Katara', 'A Kervinen']
+     Venue 2009 31st …
+     Year 2009
+     Abstract Software test automation systems offer benefits over manual testing and are found useful in  Software product lines enable the introduction of new software prod- ucts at a pace much faster  can be limited, allowing, for instance, smoke testing in a continuous integration cycle [9
+     Url https://ieeexplore.ieee.org/abstract/document/5070969/
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Development of Domestic Programming Technology
+     Author ['EM Lavrischeva']
+     Venue Cybernetics and Systems Analysis
+     Year 2014
+     Abstract out of objects in the corresponding PLs and libraries of classes, routines, data types, and also automation systems (COM, CORBA  in industrial companies manufacturing products (IBM, MS.Net, Sun Microsystems, Oberon, Unix, Intel, etc.), and Software Product Lines (http://www
+     Url https://link.springer.com/content/pdf/10.1007/s10559-014-9634-4.pdf
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Informatics: Formation of computer software and technologies of software systems
+     Author ['EM Lavrishcheva', 'AK Petrenko']
+     Venue Труды Института системного …
+     Year 2018
+     Abstract Streaming assembly by J. Greenfield [58]. • Chart assembly use case by G. Lenz and M. Fowler's continuous integration. • Programs assembling according to V. Glushkov [47, 64]  5.3. The way of automation systems modeling
+     Url https://cyberleninka.ru/article/n/informatics-formation-of-computer-software-and-technologies-of-software-systems
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Quality Needs Structure: Industrial Experiences in Systematically Defining Software Security Requirements
+     Author ['C Frühwirth', 'R Mordinyi']
+     Venue International Conference on Software Quality
+     Year 2012
+     Abstract Doppler Laboratory “Software Engineering Integration for Flexible Automation Systems”, Vienna University  We used the OpenCIT platform, a continuous integration and testing framework widely  usability, in multi-vendor engineering projects using software product lines (SPL) to
+     Url https://link.springer.com/chapter/10.1007/978-3-642-27213-4_15
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Agent-Based Software Testing: A Definition and Systematic Mapping Study
+     Author ['PP Kumaresen', 'M Frasheri', 'E Enoiu']
+     Venue arXiv preprint arXiv:2007.10224
+     Year 2020
+     Abstract testing (4 studies) indicates that this area of research has not scaled to regression test selection and continuous integration practices  web-based applications (19.5% of the stud- ies), network applications (almost 15% of the studies), and industrial automation systems (19.5% of
+     Url https://arxiv.org/abs/2007.10224
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Context-Aware Integrability and Maintainability of Cyber-Physical Ecosystems: Tactics and Tools
+     Author ['M Tomlein']
+     Venue NA
+     Year 2018
+     Abstract Compared to mechanisms used in software ecosystems and software product lines [35], integration of software variants in Cyber-Physical Systems requires novel tools that can acquire and reason with more expressive, contextual models of physical systems
+     Url https://pure.au.dk/ws/files/136711274/Matus_Tomlein_thesis.pdf
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Code routine performance prediction using test results from code integration tool
+     Author ['E Busi', 'D Levi', 'O Gurfinkel']
+     Venue US Patent App. 15/101,111
+     Year 2016
+     Abstract The term continuous integration (CI) may refer to code integration that happens regularly and often, for example, several times a day. BRIEF DESCRIPTION OF THE DRAWINGS; The following detailed description references the drawings, wherein: FIG
+     Url https://patents.google.com/patent/US20160306613A1/en
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Barriers To Radical Innovations As Stable Designs: Insights From An It Case Study
+     Author ['L Kompella']
+     Venue International Journal of Innovation Management
+     Year 2019
+     Abstract Organisations also create Software Product Lines (SPL) that draw upon principles of  move further from imple- menting an iterative methodology to continuous integration, aligning of  various domains such as big-data, workflow automation, systems software, telecommunications
+     Url https://www.worldscientific.com/doi/abs/10.1142/S1363919619500476
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Agile construction and evolution of product-line architectures
+     Author ['JD Fernández']
+     Venue NA
+     Year 2012
+     Abstract 49 2.3.1 Main Concepts of Software Product Lines  189 Figure 8.8 FPLA model - Feature model of home automation systems SPL . 190 Figure 8.9 FPLA model - Core View of home automation systems SPL
+     Url https://core.ac.uk/download/pdf/12001283.pdf
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts
+     Author ['J Ingeno']
+     Venue NA
+     Year 2018
+     Abstract their goals Knowing when to compromise Being aware of cultural differences Software risk management Risk avoidance Transferring the risk to another party Risk mitigation Risk acceptance Configuration management Changing management Software product lines Benefits of
+     Url https://books.google.com/books?hl=en&lr=lang_en&id=6EZsDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Automation+Systems%22+%22Continuous+Integration%22+%22Software+Product+Lines%22&ots=EJ5NplHoE6&sig=u0ds18VmuxuRzYDdvsljb0SBlUE
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Learning from Evolution for Evolution
+     Author ['S Kögel', 'M Tichy', 'A Chakraborty', 'A Fay']
+     Venue Managed Software …
+     Year 2019
+     Abstract in a product family [KKT14] and a complete environment for developing delta-oriented model-based software product lines [Pie+ 15  the two SPP1593 projects, MoDEMMiCAS (Model-Driven Evolution Management for Microscopic Changes in Automation Systems) and
+     Url https://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=269
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Future Research.
+     Author ['RH Reussner', 'M Goedicke', 'W Hasselbring']
+     Venue NA
+     Year 2019
+     Abstract Feature-Oriented Software Product Lines: Concepts and Implemen- tation Springer Publishing Company  Jewgenij Botaschanjan et al.“Integrated Behavior Models for Factory Automation Systems”  Based Semantic Code Analysis to Support Continuous Integration of Industrial
+     Url http://library.oapen.org/bitstream/handle/20.500.12657/22886/1007275.pdf?sequence=1#page=394
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title A Framework for Industry 4.0
+     Author ['JBM Silva']
+     Venue NA
+     Year 2017
+     Abstract Page 1. A Framework for Industry 4.0 JOSÉ BRUNO MARTINS DA SILVA Julho de 2017 Page 2. José Bruno Martins da Silva A Framework for Industry 4.0 Dissertation in Computer Engineering, Area of Specialization in Software Engineering
+     Url http://recipp.ipp.pt/handle/10400.22/10529
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Choosing a tool for improved software test management
+     Author ['L Pohjoisvirta']
+     Venue NA
+     Year 2013
+     Abstract Page 1. LASSI POHJOISVIRTA CHOOSING A TOOL FOR IMPROVED SOFTWARE TEST MAN- AGEMENT Master of Science Thesis Examiner: Professor Miia Martinsuo Examiner and topic approved by the Faculty Council of
+     Url https://trepo.tuni.fi/handle/123456789/21872
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title Automatic Tailoring of the Multi-Purpose Linux Operating System on Embedded Devices
+     Author ['B Heinloth']
+     Venue NA
+     Year 2014
+     Abstract more specific use cases for small-scale systems which could be driven by Linux, such as home automation systems or electronic  Andreas Ruprecht and super- vised by Daniel Lohmann as “Automatic Feature Selection in Large-Scale System- Software Product Lines” [45] at the
+     Url https://www4.cs.fau.de/Ausarbeitung/MA-I4-2014-09-Heinloth.pdf
+
+
+     Search term "Automation+Systems"+"Continuous+Integration"+"Software+Product+Lines"
+     Title D5. 1 OpenReq Approach for Requirements Knowledge and Dependency Management
+     Author ['UPC UH']
+     Venue NA
+     Year NA
+     Abstract We have also carried out a tertiary study about software product lines and variability (Raatikainen2017) as well rely on our earlier review of  energy domain in Finland is presented based on a descriptive case study that focuses on the safety-related automation systems of the
+     Url https://openreq.eu/wp-content/uploads/2019/02/D5.1-OpenReq-Approach-for-Requirements-Knowledge-and-Dependency-Management.pdf
+

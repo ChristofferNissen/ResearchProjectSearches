@@ -1,0 +1,91 @@
+Showing papers for search query "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title In-place traceability for automated production systems: A survey of PLC and SysML tools
+     Author ['W Wang', 'N Niu', 'M Alenazi']
+     Venue IEEE Transactions on …
+     Year 2018
+     Abstract Due to the long-term sustainability in the face of the continuous changes, the aPS artifacts evolve within their own  environments is crucial for practical traceability solutions [9]. Critically reviewing, organizing, and comparing the in-place traceability [9] of the PLC and SysML
+     Url https://ieeexplore.ieee.org/abstract/document/8515085/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Introducing traceability and consistency checking for change impact analysis across engineering tools in an automation solution company: an experience report
+     Author ['A Demuth', 'R Kretschmer', 'A Egyed']
+     Venue 2016 IEEE International …
+     Year 2016
+     Abstract code in form of links and consistency rules; and how through continuous consistency checking  is feasible with Java, it is also feasible with an actual PLC programming language  reduces the amount of information that is available in the DesignSpace for establishing traceability
+     Url https://ieeexplore.ieee.org/abstract/document/7816505/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Achieving Quality and Traceability in FPGA/ASIC Flows for DO-254 Aviation Projects
+     Author ['M Lange', 'T Dewey']
+     Venue 2008 IEEE Aerospace Conference
+     Year 2008
+     Abstract FAA/EASA mandate, companies providing flight hardware for commercial aviation systems now must build their complex electronic hardware components (ie, ASIC/FPGA) to the standard known as DO-254. Focusing on design assurance (including quality, traceability, and strict
+     Url https://ieeexplore.ieee.org/abstract/document/4526687/
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Continuous Integration of FPGA firmware and software
+     Author ['P Durante']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Continuous Integration of FPGA firmware and software A CASE STUDY  19/09/2018 TWEPP 2018 - FPGA WORKING GROUP 9 Page 10. Issues and lessons (2/2) ▪ Traceability ▪ Custom tools for firmware identification, firmware database ▪ WinCC OA integration
+     Url https://cds.cern.ch/record/2643451/files/TWEPP18_FPGA_WG_Durante%2019.09.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Blockchain and IoT based food traceability for smart agriculture
+     Author ['J Lin', 'Z Shen', 'A Zhang', 'Y Chai']
+     Venue … of the 3rd International Conference on …
+     Year 2018
+     Abstract In recent two decades, with the rapid development of the economy and the continuous improvement of  The sensors controlled by the PLC are used to collect the information in farming as  The traceability information is designed to be exchanged and used on a web-based system
+     Url https://dl.acm.org/doi/abs/10.1145/3265689.3265692
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title An automated pipeline for continuous integration of FPGA firmware and software for the LHCb Run3 upgrade
+     Author ['P Durante', 'LG Cardosoa', 'JVV Barbosaa']
+     Venue Topical Workshop on …
+     Year 2018
+     Abstract To improve traceability, dedicated tools were implemented to extract additional information from a running  during synthesis, and then retrieved in the field from a programmed FPGA over USB or  Continuous integration of FPGA firmware and software for the LHCb Run3 upgrade
+     Url https://s3.cern.ch/inspire-prod-files-5/5187c431d5f214c8ff52ef05a33c5417
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title An intelligent value stream-based approach to collaboration of food traceability cyber physical system by fog computing
+     Author ['RY Chen']
+     Venue Food Control
+     Year 2017
+     Abstract of dynamic simulation, Improve the handling of batch identities in continuous production of  This article applies CPS-based intelligent systems into food traceability system that can  all the elements having industrial automation capabilities including smart PLC (programmable logic
+     Url https://www.sciencedirect.com/science/article/pii/S0956713516303565
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Runtime Traceability Challenges in Systems of Systems
+     Author ['P Grünbacher']
+     Venue NA
+     Year 2015
+     Abstract for adaptive systems. JSS 85(12): 2829-2839 (2012) • Specific focus: traceability in systems of systems 3  C-‐HMI PLC I-‐DB S-‐DB C-‐DB • Continuous evolution → checking compliance after upgrades • Multiple systems, multiple suppliers → V&V beyond individual systems
+     Url http://materials.dagstuhl.de/files/15/15162/15162.PaulGr%C3%BCnbacher1.Slides.pdf
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Applying blockchain technology to improve agri-food traceability: A review of development methods, benefits and challenges
+     Author ['H Feng', 'X Wang', 'Y Duan', 'J Zhang', 'X Zhang']
+     Venue Journal of Cleaner …
+     Year 2020
+     Abstract Consumers and food chain participants need to be fully informed about the product life cycle (PLC) to assure that products are  Smart contracts in traceability business process  It contributes to data sharing and continuous process improvement among supply chain participants
+     Url https://www.sciencedirect.com/science/article/pii/S0959652620310787
+
+
+     Search term "Continuous"+"PLC"+OR+"FPGA"+"Traceability"
+     Title Tracking and traceability solution using a novel material handling system
+     Author ['A Mousavi', 'M Sarhadi', 'S Fawcett', 'S Bowles']
+     Venue Innovative Food Science …
+     Year 2005
+     Abstract The system should ensure 100% traceability with error-free identification, data acquisition, and information structure  Fig. 9. Noninvasive identification system for real-time continuous identification  is then transferred via the RS232 gateway to the Devicenet and into the PLC
+     Url https://www.sciencedirect.com/science/article/pii/S1466856404001055
+

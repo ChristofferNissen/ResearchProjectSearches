@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware and Software: Verification and Testing: 6th International Haifa Verification Conference, HVC 2010, Haifa, Israel, October 4-7, 2010. Revised …
+     Author ['S Barner', 'I Harris', 'D Kroening', 'O Raz']
+     Venue NA
+     Year 2011
+     Abstract Barner Ian Harris Daniel Kroening Orna Raz (Eds.) Hardware and Software: Verification and Testing  Donald Bren Hall, Room 3088, Irvine, CA 92697, USA E-mail: harris@ ics  The debugging session took examples from hardware simulation, static analysis, software, pre-silicon
+     Url https://link.springer.com/content/pdf/10.1007/978-3-642-19583-9.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A partially automated HiL test environment for model-based development using Simulink® and OPC technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue 2011 XXIII …
+     Year 2011
+     Abstract an automated testing tool, developed in Matlab®/Simulink® environment, that performs software verification during runtime  The test or hardware simulation can be started from the HiL test model  hardware that conform to the OPC DA communication standard (DCS, PLC) using
+     Url https://ieeexplore.ieee.org/abstract/document/6102112/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods in embedded design
+     Author ['SD Johnson']
+     Venue Computer
+     Year 2003
+     Abstract To enable automated reason- ing, the hardware simulation lan- guages superimpose synchronous  Formal software verification involves automated model extraction to elimi- nate extraneous detail  hardware, and middleware for automotive and avion- ics applications already
+     Url https://ieeexplore.ieee.org/abstract/document/1244539/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title hardware-Software Co-Design for embedded Systems
+     Author ['S DhaDiwal baiD']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Apparatus and method for verifying a multi-component electronic design
+     Author ['E Evans', 'D Jurasek']
+     Venue US Patent 6,279,146
+     Year 2001
+     Abstract US6279146B1 - Apparatus and method for verifying a multi-component electronic design - Google Patents. Apparatus and method for verifying a multi-component electronic design. Download PDF Info. Publication number US6279146B1
+     Url https://patents.google.com/patent/US6279146B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Software tool to allow field programmable system level devices
+     Author ['MT Mason', 'DA McConnell', 'AV Dasari']
+     Venue US Patent 6,272,451
+     Year 2001
+     Abstract to the present invention, as embodied and broadly described herein, a method for co-verifying a hardware simulation, programmed logic of  invention combines programmability with system level integration, to develop a family of system level integrated circuits (ICs) with specific
+     Url https://patents.google.com/patent/US6272451B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and apparatus for translating a verification process having recursion for implementation in a logic emulator
+     Author ['P Tseng', 'S Peng']
+     Venue US Patent 7,991,605
+     Year 2011
+     Abstract include programmable logic devices or other types of integrated circuits (ICs) in which  Such software verification processes must use co-simulation interfaces to work with the emulator. Software simulation is inherently slower than the hardware simulation, and thus the recursive
+     Url https://patents.google.com/patent/US7991605B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Skylab's Apollo telescope mount
+     Author ['WB Chubb']
+     Venue Shuttle Pointing of Electro-Optical Experiments
+     Year 1981
+     Abstract On the system level, extensive computer simulation and software verification was performed. Unexpected anomalies during the mission required 108 / SPIE Vol  Design verification of the hardware system was conducted in the MSFC Hardware Simulation Laboratory (HSL)
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/0265/0000/Skylabs-Apollo-Telescope-Mount/10.1117/12.959859.short
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Collaborative verification and testing platform for NoC-based SoC
+     Author ['Y Zhang', 'N Wu', 'F Ge', 'X Chen']
+     Venue … World Congress on …
+     Year 2015
+     Abstract The function verification information can be transmitted to the testing platform by certain interfaces to reconstruct NoC, meanwhile the hardware simulation results can be acquired by the  The software validation environment in Fig  On CAD/ICS(TCAD), submitted for publication
+     Url https://pdfs.semanticscholar.org/7877/00f975974b1be7a19fa1825bf974bb20032b.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Application of co-verification tools to the testing of IC designs
+     Author ['CA Whitehill']
+     Venue US Patent 6,842,883
+     Year 2005
+     Abstract Integrated circuits (ICs) are usually designed by creating an IC specification that describes the functions of the IC  on hardware simulator 12 to provide test stimuli 26 to IC design 10 through a hardware simulation of system  Method and System for Performing Software Verification
+     Url https://patents.google.com/patent/US6842883B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Initial flight qualification and operational maintenance of X-29A flight software
+     Author ['M EARLS', 'J SITZ']
+     Venue Guidance, Navigation and Control Conference
+     Year 1989
+     Abstract fense Advanced Research Projects Agency PARPA) and managed by the US Air Force Flight Dynam- ics Laboratory  It includes software design standards and practices (de- scribed above), configuration management, reviews, test philosophy, software verification and system
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.1989-3596
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for logic verification using mirror interface
+     Author ['RJ Devins', 'PJ Ferro', 'PD Lafauci', 'KA Mahler']
+     Venue US Patent …
+     Year 2005
+     Abstract Before ICs are released to market, the logic designs incorporated therein are typically subject to a testing and de-bugging process known as “verification.” Verification of logic designs using  Software verification typically entails the use of software “models” of design logic
+     Url https://patents.google.com/patent/US6865502B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Using matlab for mixed-signal verification of a software radio ASIC
+     Author ['PM Overs']
+     Venue IEE Colloquium on DSP enabled Radio
+     Year 2003
+     Abstract expensive co-simulation tools allowing us to develop complex mixed-signal ICs in very  so that we had in all environments (Matlab simulation, software simulation, hardware simulation and hardware  Figure 3 shows the basic flow for software verification against the Matlab model
+     Url https://digital-library.theiet.org/content/conferences/10.1049/ic.2003.0320
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title System and method for testing parameterized logic cores
+     Author ['R Stamm', "M O'connor", 'C Brotelande']
+     Venue US Patent 7,024,345
+     Year 2006
+     Abstract US8799867B1 (en), 2010-06-08, 2014-08-05, Cadence Design Systems, Inc. Methods, systems, and articles of manufacture for synchronizing software verification flows  Methods, systems, and articles of manufacture for synchronizing software verification flows
+     Url https://patents.google.com/patent/US7024345B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Design for test in automotive electronics
+     Author ['S Stoica']
+     Venue Proceedings of 3rd International Workshop on the …
+     Year 1994
+     Abstract here ,is a major ,challenge ,for the ,ECAD ,industry ,to ,produce tools ,that ,are targeted for a mixed-signal environment for hard- ,38 ,ware ,test ,and ,for ,automatic ,software ,validation  This ,would be ,quite simple ,if ,the ,ICs weren't  In ,addition to ,hardware ,simulation ,tools ,we
+     Url https://www.computer.org/csdl/proceedings-article/icedtm/1994/00496090/12OmNzZmZo2
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A HiL test bench for verification and validation purposes of model-based developed applications using Simulink® and OPC DA technology
+     Author ['W Chaaban', 'M Schwarz', 'B Batchuluun']
+     Venue … on Electrical and …
+     Year 2011
+     Abstract placed over the last years their major responsibility and work on software verification and testing  When those steps are achieved, hardware simulation can be started from the HiL test model  target hardware that conform to the OPC DA communication standard (DCS, PLC) using
+     Url https://ieeexplore.ieee.org/abstract/document/6140141/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The 5ESS‐2000 Switch: Exceeding Customer Expectations
+     Author ['HG Holland', 'CP Huang', 'CE Jeschke']
+     Venue AT&T Technical …
+     Year 1994
+     Abstract Improved Hardware Simulation. With the increase in the level of circuit complexity (for example, larger ICS with higher speeds), circuit simulation at the device, pack, and multicircuit pack level became an integral part of the development process to ensure design functionali- ty
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1994.tb00617.x
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for co-simulation of two or more mathematical models
+     Author ['S Phatak', 'DJ McCune']
+     Venue US Patent 9,075,939
+     Year 2015
+     Abstract Deadlock avoidance mechanism for virtual bus distributed hardware simulation. US6389375B1 (en) *, 1999-01-22, 2002-05-14, Interlego Ag, Virtual reality modelling  Deadlock avoidance mechanism for virtual bus distributed hardware simulation. US6425762B1 (en) *, 1998-02
+     Url https://patents.google.com/patent/US9075939B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for logic verification using mirror interface
+     Author ['RJ Devins', 'PJ Ferro', 'PD LaFauci', 'KA Mahler']
+     Venue US Patent …
+     Year 2010
+     Abstract Before ICs are released to market, the logic designs incorporated therein are typically subject to a  Software verification typically entails the use of software “models” of design logic  US7627462B2 (en) *, 2001-11-27, 2009-12-01, Arm Limited, Hardware simulation using a test
+     Url https://patents.google.com/patent/US7729877B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for logic verification using mirror interface
+     Author ['RJ Devins', 'PJ Ferro', 'PD Lafauci', 'KA Mahler']
+     Venue US Patent …
+     Year 2008
+     Abstract Before ICs are released to market, the logic designs incorporated therein are typically subject to a  Software verification typically entails the use of software “models” of design logic  US7627462B2 (en) *, 2001-11-27, 2009-12-01, Arm Limited, Hardware simulation using a test
+     Url https://patents.google.com/patent/US7353131B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title On the Detection of Synchronization Errors
+     Author ['IG Harris']
+     Venue NA
+     Year 2004
+     Abstract harris@ics.uci.edu  Figure 2 assumes a discrete time model which is common in hardware simulation but the concept applies to continuous time as  A significant body of research is dedicated to hardware and software validation [10], but little of this existing research focuses on
+     Url https://pdfs.semanticscholar.org/d64d/57b6c2cf212be8787494d2c1663111bb0c1b.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Insertion of test points in RTL designs
+     Author ['S Roy']
+     Venue US Patent 6,301,688
+     Year 2001
+     Abstract test vectors, patterns or sequences; G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment. G—PHYSICS; G01—MEASURING; TESTING;
+     Url https://patents.google.com/patent/US6301688B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method and system for logic verification using mirror interface
+     Author ['R Devins', 'P Ferro', 'P LaFauci', 'K Mahler']
+     Venue US Patent App. 11 …
+     Year 2007
+     Abstract Before ICs are released to market, the logic designs incorporated therein are typically subject to a testing and de-bugging process known as “verification.” Verification of logic designs using  Software verification typically entails the use of software “models” of design logic
+     Url https://patents.google.com/patent/US20070204246A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Annotation of RTL to Simplify Timing Analysis
+     Author ['MR Krishnan']
+     Venue US Patent App. 12/876,659
+     Year 2012
+     Abstract The general operation of design process of FIG. 1 is well known in the art and also should be understood with reference to the descriptions above. The EDA system may be any suitable collection of software tools that provides computer-aided design of ICs
+     Url https://patents.google.com/patent/US20120060133A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The art of fault injection
+     Author ['A Benso', 'S DiCarlo']
+     Venue Journal of Control Engineering and Applied …
+     Year 2011
+     Abstract be used only in microprocessor-based systems; • hybrid fault injection: hardware, simulation, and soft  for the dependability community, but also for the manufacturers of large production ICs  testing is visible in two of the mainstream approaches for software validation (Kuball et al
+     Url http://ceai.srait.ro/index.php?journal=ceai&page=article&op=download&path%5B%5D=1213&path%5B%5D=930
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Real-time process control simulation method and apparatus
+     Author ['JS Bowling']
+     Venue US Patent 5,752,008
+     Year 1998
+     Abstract As shown in FIG. 1, a typical industrial control system 100 comprises a plant 105, at least one device controller 110, a man-machine interface (MMI) unit 115, and a proprietary communication network 120 that links the control system's different elements
+     Url https://patents.google.com/patent/US5752008A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Computer-Aided Design of Multi-Agent Cyber-Physical Systems
+     Author ['J Sini', 'M Violante', 'R Dessì']
+     Venue 2018 IEEE 23rd International …
+     Year 2018
+     Abstract HIL is a well-established software verification technique  Figure 2. Flow-chart of the proposed workflow Testing the software components of a multi-agent cyber- physical system is a very challenging task  A real-time hardware simulation device. IV. IMPLEMENTATION
+     Url https://ieeexplore.ieee.org/abstract/document/8502448/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Spacelab software development and integration concepts study report, volume 1
+     Author ['PL Rose', 'BG Willis']
+     Venue NA
+     Year 1973
+     Abstract Page 1. Prepared for the - ' 31 October 1973 GEORGE C. MARSHALL SPACE FLIGHT CENTER Contract No.: NAS8-30376 Huntsville, Alabama MSFC No.: MSFC-DR L-389, Line Item No. 2 IBM No.: 73W-00326 SPACE LAB
+     Url https://ntrs.nasa.gov/search.jsp?R=19740025199
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Statistically based estimate of embedded software execution time
+     Author ['GE Martin', 'P Giusto']
+     Venue US Patent 7,007,270
+     Year 2006
+     Abstract The architecture supports hardware simulation and software development tools  disks, ROMs, RAMs, EPROMs, EEPROMs, DRAMs, VRAMs, flash memory devices (including flash cards), magnetic or optical cards, nanosystems (including molecular memory ICs), RAID devices
+     Url https://patents.google.com/patent/US7007270B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Cognon Neural Model Software Verification and Hardware Implementation Design
+     Author ['PH Negre']
+     Venue NA
+     Year 2013
+     Abstract Cognon Neural Model Software Verification and Hardware Implementation Design  In recent years, projects based upon massive hardware simulation of interconnected neurons  ics, art, music, and planning) occurs primarily in the neocortex, which is the most phylogenetically
+     Url https://scholar.colorado.edu/downloads/5999n366z
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title System and method for monitoring address traffic in an electronic design
+     Author ['NA Heaton']
+     Venue US Patent 10,114,912
+     Year 2018
+     Abstract DISCUSSION OF THE RELATED ART Electronic design automation (EDA) utilizes software tools that may be used in the design and analysis of numerous electronic systems such as printed circuit boards (PCBs) and integrated circuits (ICs)
+     Url https://patents.google.com/patent/US10114912B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Software tool to allow field programmable system level devices
+     Author ['D Mc Connell', 'A Dasari', 'M Mason']
+     Venue US Patent App. 09/782,589
+     Year 2001
+     Abstract [0030]. According to the present invention, as embodied and broadly described herein, a method for co-verifying a hardware simulation of a  invention combines programmability with system level integration, to develop a family of system level integrated circuits (ICs) with specific
+     Url https://patents.google.com/patent/US20010049593A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Tools for reduced precision computation: A survey
+     Author ['S Cherubin', 'G Agosta']
+     Venue ACM Computing Surveys (CSUR)
+     Year 2020
+     Abstract Page 1. 33 Tools for Reduced Precision Computation: A Survey STEFANO CHERUBIN and GIOVANNI AGOSTA, Politecnico di Milano, ITA The use of reduced precision to improve performance metrics such as computation
+     Url https://dl.acm.org/doi/abs/10.1145/3381039
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Hardware certification for real-time safety-critical systems: State of the art
+     Author ['AJ Kornecki', 'J Zalewski']
+     Venue Annual Reviews in Control
+     Year 2010
+     Abstract including military aerospace. • PLDs have particular advantages over microprocessor- based systems in terms of processing power, I/O capacity, reduced footprint and a reduction in number of ICs on the circuit board. • The DO
+     Url https://www.sciencedirect.com/science/article/pii/S1367578810000167
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title System and method for identifying constraint solver calls
+     Author ['DA Cohen', 'JLR Pierce', 'PW Spacek', 'PP Rao']
+     Venue US Patent 9,373,077
+     Year 2016
+     Abstract DISCUSSION OF THE RELATED ART Electronic design automation (EDA) utilizes software tools that may be used in the design and analysis of numerous electronic systems such as printed circuit boards (PCBs) and integrated circuits (ICs)
+     Url https://patents.google.com/patent/US9373077B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Analyses, Hardware/Software Compilation, Code Optimization for Complex Dataflow HPC Applications
+     Author ['C Alias', 'L Gonnord', 'M Moy']
+     Venue NA
+     Year 2017
+     Abstract We already have industrial partnerships with STMicroelectronics on hardware simulation, with Kalray on dataflow programming for many-core and with  This research is done in collaboration with STMicroelectron- ics, and is centered on the SystemC/TLM technology for System
+     Url https://matthieu-moy.fr/spip/IMG/pdf/projet-equipe-cash.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract CNF Conjunction Normal Form CPS Cyber-physical System COI Cone-of-Influence COVE Continuum of Verification Engines  Then, it presents the importance and necessity of verification methods in the development of embedded systems. This chapter con
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Method for automatically searching for functional defects in a description of a circuit
+     Author ['CR Ho', 'RK Mardjuki', 'DL Dill', 'JC Lin', 'PF Yeung']
+     Venue US Patent …
+     Year 2009
+     Abstract US7478028B2 - Method for automatically searching for functional defects in a description of a circuit - Google Patents. Method for automatically searching for functional defects in a description of a circuit. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US7478028B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title The safety of industrially-based controllers incorporating software
+     Author ['PA Bennett']
+     Venue NA
+     Year 1985
+     Abstract Page 1. Open Research Online The Open University's repository of research publications and other research outputs The safety of industrially-based controllers incorporating software Thesis How to cite: Bennett, Philip Anthony (1985)
+     Url http://oro.open.ac.uk/56902/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulators and emulators for WSNs
+     Author ['HMA Fahmy']
+     Venue Wireless sensor networks
+     Year 2016
+     Abstract accurate solution. Fundamentally, software validation and verification is different from model validation and verification. Software validation and verification is required when a computer program or code is the end product. Model
+     Url https://link.springer.com/chapter/10.1007/978-981-10-0412-4_6
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Surviving the SoC revolution
+     Author ['H Chang', 'L Cooke', 'M Hunt', 'G Martin', 'A McNelly']
+     Venue NA
+     Year 1999
+     Abstract Changes in the derivative products are abandoned because of the risk of introducing errors. ICs are spending too much time on the test equipment during production, thus raising overall costs. Pre-existing VCs must be constantly redesigned
+     Url https://link.springer.com/content/pdf/10.1007/b116290.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Engineering the complex SOC: fast, flexible design with configurable processors
+     Author ['C Rowen']
+     Venue NA
+     Year 2008
+     Abstract Page 1. Fast, Flexible Design with Configurable Processors BIIBIS RIJWEN Page 2. Prentice Hall Modern Semiconductor Design Series James R. Armstrong and F. Gail Gray VHDL Design Representation and Synthesis Jayaram
+     Url https://books.google.com/books?hl=ro&lr=&id=L_-3Pd5NXm8C&oi=fnd&pg=PT1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=AQyrTJw0mZ&sig=qe3_h5sEs9kfxeknleb7hfKvYSs
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A complete formal semantics of x86-64 user-level instruction set architecture
+     Author ['S Dasgupta', 'D Park', 'T Kasampalis', 'VS Adve']
+     Venue Proceedings of the 40th …
+     Year 2019
+     Abstract CCS Concepts · Theory of computation → Program reasoning; · Hardware → Simulation and emulation; · Software and its engineering → Formal language  37] automatically synthesized formal semantics of 1905 instruction variants (representing 466 unique mnemon- ics) of the
+     Url https://dl.acm.org/doi/abs/10.1145/3314221.3314601
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Engineering Education Directory
+     Author ['AL Johnson']
+     Venue NA
+     Year 1988
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Embedded systems handbook
+     Author ['R Zurawski']
+     Venue NA
+     Year 2005
+     Abstract advances in system-on-chip design and testing of core-based ICs  architecture and hardware/software codesign, and hardware/software coverification and hardware simulation  The languages for software verification overviewed include programming languages: C/C++
+     Url https://books.google.com/books?hl=ro&lr=&id=qYAqBgAAQBAJ&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=agzdjFPYBb&sig=C063sx5aMc8-FvIw4Pu8uYePzBA
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Verifying safety and accuracy of approximate parallel programs via canonical sequentialization
+     Author ['V Fernando', 'K Joshi', 'S Misailovic']
+     Venue Proceedings of the ACM on …
+     Year 2019
+     Abstract properties of the approximate benchmarks. CCS Concepts: • Computing methodologies → Parallel programming languages; • Software and its engineering → Formal software verification. Additional Key Words and Phrases
+     Url https://dl.acm.org/doi/abs/10.1145/3360545
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title High Level Hardware Synthesis of RVC Dataflow Programs
+     Author ['K Jerbi']
+     Venue NA
+     Year 2012
+     Abstract Page 1. HAL Id: tel-00827163 https://tel.archives-ouvertes.fr/tel-00827163 Submitted on 28 May 2013 HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci- entific research documents, whether they are pub- lished or not
+     Url https://tel.archives-ouvertes.fr/tel-00827163/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Publication Report–Final
+     Author ['C FABRE']
+     Venue NA
+     Year 2012
+     Abstract [7] “3D-ICE: Fast Compact Transient Thermal Modeling for 3D-ICs with Inter-Tier Liquid Cooling”  In this paper we present 3D-ICE, a compact transient thermal model (CTTM) for the thermal simulation of 3D ICs with multiple inter-tier microchannel liquid cooling
+     Url http://132.166.172.48/wp-content/uploads/2013/06/PRO3D-D6.4-publi-report-final-v2012-12-22-16h05.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title A study on run time assurance for complex cyber physical systems
+     Author ['M Clark', 'X Koutsoukos', 'J Porter', 'R Kumar']
+     Venue NA
+     Year 2013
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"
+     Title Airborne Electronic Hardware Design Assurance: A Practitioner's Guide to RTCA/DO-254
+     Author ['R Fulton', 'R Vandermolen']
+     Venue NA
+     Year 2017
+     Abstract We would like to express our utmost gratitude to all those people who have taken the time to help us further our understanding and application of design assurance in the realm of safety critical system and electron- ics development
+     Url https://books.google.com/books?hl=ro&lr=&id=ZQMvDwAAQBAJ&oi=fnd&pg=PP1&dq=%22Cyber-physical+system%22+OR+%22Industrial+control+system%22+OR+%22ICS%22+OR+%22SCADA%22+OR+%22Distributed+control+system%22+OR+%22DCS%22+%22Hardware+simulation%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=Dqra5IAeGD&sig=-OjMpyMsel3teQafnAOqRxD_mL0
+

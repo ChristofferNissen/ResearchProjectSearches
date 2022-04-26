@@ -1,0 +1,451 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Best practice for caching of single-path code
+     Author ['M Schoeberl', 'B Cilku', 'D Prokesch']
+     Venue … Workshop on Worst …
+     Year 2017
+     Abstract long running benchmarks, as cycle accurate hardware simulation is time consuming.1 1 The simulation of the remaining benchmarks, just for a single cache size configuration, still takes 6–8 hours on a contemporary notebook. WCET 2017 Page 6. 2:6 Best Practice for Caching
+     Url https://drops.dagstuhl.de/opus/volltexte/2017/7305/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Performance monitoring in a time-sharing system
+     Author ['TB Pinkerton']
+     Venue Communications of the ACM
+     Year 1969
+     Abstract Some general guidelines are offered for the construction of future monitoring programs  Another basic software tech- nique is that of hardware simulation [3]. The present facility, because it was carefully designed into the operat- ing system itself, provides information more
+     Url https://dl.acm.org/doi/abs/10.1145/363269.363279
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Energy neutral operation of vibration energy-harvesting sensor networks for bridge applications
+     Author ['A Gaglione', 'D Rodenas-Herraiz', 'Y Jia', 'S Nawaz']
+     Venue NA
+     Year 2018
+     Abstract Besides achieving energy neutral operation of a multihop sensor network in simulation for a certain set of applications, it provides general guidelines for designing and developing similar systems based on traffic-induced vibra- tions on bridges  LTspice hardware simulation
+     Url http://publications.aston.ac.uk/id/eprint/38883/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title European white book on real-time power hardware in the loop testing: Derlab report no. r-005.0
+     Author ['E de Jong', 'R de Graff', 'P Vassen', 'P Crolla', 'A Roscoe']
+     Venue NA
+     Year 2012
+     Abstract The alternative to hardware testing has traditionally always been software simulation. This has very strong advantages over a pure hardware simulation as it is very flexible and has typically only a fraction of the eco- nomical costs
+     Url https://strathprints.strath.ac.uk/id/eprint/43450
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Application Based Guidelines for Terrain Profile Resolution Requirements
+     Author ['S Southward', 'S Schneider']
+     Venue International …
+     Year 2009
+     Abstract From the general guidelines in Figure 1, at a sample rate of 100 Hz, and at a vehicle speed of 72 km/h, the required spatial  of a terrain profile is limited by the vehicle speed and the achievable sample rate in either a numerical simulation or a real-time hardware simulation on a
+     Url https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2009/49033/913/341266
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Surrogate based optimization for multidisciplinary design
+     Author ['L Boussouf']
+     Venue NA
+     Year 2011
+     Abstract on recent work in operational research and numerical optimization, this article describes a methodology and best practice that allows  While hardware simulation means became more and more efficient, software simulation tools became more and more reliable, modeling more
+     Url https://www.sae.org/publications/technical-papers/content/2011-01-2507/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Novel methods for endoscopic training
+     Author ['CE Gessner', 'PS Jowell', 'J Baillie']
+     Venue Gastrointestinal Endoscopy Clinics of …
+     Year 1995
+     Abstract of Internal Medicine (ABIM) issued its first general guidelines on training in gastroenterology"; these included general guidelines for endoscopic  Guy CN., Gillies DF, Burger P, et al: Hardware simulation of endoscope loops for computer based colonoscopy training [abstract]
+     Url https://www.sciencedirect.com/science/article/pii/S1052515718304434
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Data centre infrastructure monitoring
+     Author ['N Meyer']
+     Venue NA
+     Year 2016
+     Abstract The best practice information was presented at the “7th European Workshop on HPC Centre Infrastructures” organised in Garching  devices, • Handheld wireless barcode scanner for easy asset identification, based on Motorola MC75 hardware, • Simulation, optimisation and
+     Url https://prace-ri.eu/wp-content/uploads/WP226.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Embedded Systems Hardware/Software Co-Development
+     Author ['F Schirrmeister']
+     Venue Software Engineering for Embedded Systems
+     Year 2013
+     Abstract Rather than creating an entirely new methodology, a virtual prototype supports existing best-practice design, debug and verification processes for  They are, however, useful for verification of low-level software in the context of hardware simulation.As described earlier, virtual
+     Url https://www.sciencedirect.com/science/article/pii/B9780124159174000025
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title The performance analysis of docker and rkt based on kubernetes
+     Author ['XL Xie', 'P Wang', 'Q Wang']
+     Venue 2017 13th International Conference …
+     Year 2017
+     Abstract Compared to virtual machines, because the container does not rely on hardware simulation, it has little additional performance loss  Although this centralized architecture is easy to deploy, it is not the best practice to follow the Unix process and privilege separation
+     Url https://ieeexplore.ieee.org/abstract/document/8393101/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Product Manager C4ISR On-The-Move Experimentation
+     Author ['W Utroska', 'R Langan', 'M Amabile']
+     Venue NA
+     Year 2006
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Involving students in undergraduate research and development: Two perspectives
+     Author ['M Kurland', 'H Rawicz']
+     Venue … Frontiers in Education 1995 25th Annual …
+     Year 1995
+     Abstract A second(an intern) required a knowledge of testing, analog and digital hardware, simulation techniques and the abil- ity to function in  were formed and a functional block diagram(circuit placement) of the pulse generator was pre- sented along with general guidelines for each
+     Url https://ieeexplore.ieee.org/abstract/document/483207/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title A life cycle for modeling and simulation
+     Author ['O Balci']
+     Venue Simulation
+     Year 2012
+     Abstract Hardware-in-the-loop M&S 15. Hardware + Simulation 16. Human-in-the-loop M&S 16  UC- based requirements engineering is considered to be the best practice for the following reasons. 1. A UC represents a small amount of work the simu- lation model is required to perform
+     Url https://journals.sagepub.com/doi/abs/10.1177/0037549712438469
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title The Performance Comparison of Native and Containers for the Cloud
+     Author ['XL Xie', 'P Wang', 'Q Wang']
+     Venue 2018 International Conference on …
+     Year 2018
+     Abstract Compared to virtual machines, because the container does not rely on hardware simulation, it has little additional performance loss  Although this centralized architecture is easy to deploy, it is not the best practice to follow the Unix process and privilege separation
+     Url https://ieeexplore.ieee.org/abstract/document/8498359/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Co-verification of hardware and software for ARM SoC design
+     Author ['J Andrews']
+     Venue NA
+     Year 2004
+     Abstract xv Page 17. Preface Audience The primary audience is the engineer looking to develop best practice techniques for SoC verification of both hardware and software not only to increase confidence in the design, but also to complete verification in a shorter period of time
+     Url https://books.google.com/books?hl=en&lr=&id=qbfi3tJJhPEC&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22&ots=YDZlLthxsh&sig=uh77-j7acmOBCivfYuVqNvC1DiM
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title A new operating system and application programming interface for the evbot robot platform
+     Author ['M Colon']
+     Venue NA
+     Year 2010
+     Abstract 8 3.2.1 General Guidelines  Guidelines are given below. 3.2.1 General Guidelines After looking at previous iterations of the EvBots and discussing the needs and prefer- ences, the following set of four general guidelines evolved. There is a need for: 8 Page 19
+     Url https://repository.lib.ncsu.edu/handle/1840.16/6277
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Product management: visualization technology and 3D simulator of Aker Solutions
+     Author ['T Tongpradith']
+     Venue NA
+     Year 2014
+     Abstract systems. 2.1.2 Development of Visualization Technology System The advances in graphics and hardware simulation technology have significantly developed recently therefore, the cost of computer systems that operate visualization systems has reduced from the past
+     Url https://uis.brage.unit.no/uis-xmlui/handle/11250/220123
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Real‐time hardware simulation of a small‐scale helicopter dynamics
+     Author ['A Budiyono', 'IE Putro', 'K Yoon', 'GB Raharja']
+     Venue Aircraft Engineering …
+     Year 2010
+     Abstract The plant target PC is shown in Figure 2 as part of real‐time hardware simulation  The best practice in this case would be a model‐based control design. Linear model is first derived based on first principle (Budiyono et al., 2007) or system identification (Shim, 2000)
+     Url https://www.emerald.com/insight/content/doi/10.1108/00022661011104510/full/html
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Realization of class–A chopper using dSPACE
+     Author ['A Jain', 'D Joshi']
+     Venue Procedia computer science
+     Year 2018
+     Abstract loop control. This paper aims to put up the results based on software as well as hardware simulation. DC chopper is  for its operation. Instead of using such a tedious circuit, best practice is to use a single switch instead. Here as
+     Url https://www.sciencedirect.com/science/article/pii/S1877050918307427
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title An overview about simulation and emulation in robotics
+     Author ['M Reckhaus', 'N Hochgeschwender', 'J Paulus']
+     Venue Proceedings of …
+     Year 2010
+     Abstract 5 ACKNOWLEDGMENTS The research leading to these results has received funding from the European Community's Seventh Framework Programme (FP7/2007-2013) under grant agree- ment no. FP7-ICT-231940-BRICS (Best Practice in Robotics). References
+     Url https://www.academia.edu/download/41524608/An_Overview_about_Simulation_and_Emulati20160124-16415-10sph0f.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Optimization of wireless locating in complex environments by placement of anchor nodes with evolutionary algorithms
+     Author ['T Leune', 'T Wehs', 'M Janssen', 'C Koch']
+     Venue 2013 IEEE 18th …
+     Year 2013
+     Abstract Page 2. 2 Hardware, simulation and genetics  This effect hints at the possibility of stable design rules for good solutions which can be used as ”'best practice”' without individual simulations to improve the proposed algorithm in the future
+     Url https://ieeexplore.ieee.org/abstract/document/6648068/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title The craft of system security
+     Author ['S Smith', 'J Marchesini']
+     Venue NA
+     Year 2007
+     Abstract Standards 11.1.1. Common Criteria 11.1.2. NIST 11.1.3. ANSI 11.1.4. PKCS 11.1.5. RFCs Page 15. 11.1.6. Flaws in Standards 11.2. Policy Compliance 11.2.1. HIPAA 11.2.2. SOX 11.2.3. GLBA 11.2.4. Best Practice Frameworks 11.2.5. Audit 11.3
+     Url https://books.google.com/books?hl=en&lr=&id=8fNz4cqWKKUC&oi=fnd&pg=PT29&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22&ots=aVdm7MH5Fl&sig=gSgr4usrl-uZHtZweUsVF2h-wBc
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Safe adaptation of vehicle software systems
+     Author ['M Hussein', 'R Nouacer', 'A Radermacher']
+     Venue Microprocessors and …
+     Year 2017
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116304173
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Exploiting quasi-periodicity in receiver dynamics to enhance GNSS carrier phase tracking
+     Author ['S Bhaskar']
+     Venue Proceedings of the 27th International Technical …
+     Year 2014
+     Abstract Although it is very likely that this technique will be subjected to tuning and modifications based on the actual receiver dynamics, general guidelines will be provided to minimize these modifications, alternatively, by imposing constraints without incurring significant performance
+     Url https://schulich.ucalgary.ca/position-location-and-navigation/files/position-location-and-navigation/bhaskar2014_conference.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …
+     Year 2018
+     Abstract In different engineering systems such automotive, mechatronic or control systems, best practice for V&V requests the con- struction of a real  to find the best way to bring together FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Towards model-driven development of hard real-time systems
+     Author ['C Ferdinand', 'R Heckmann', 'HJ Wolff', 'C Renz']
+     Venue Automotive Software …
+     Year 2006
+     Abstract of safety require- ments, and it helps to speed up the project by aiding in the establishment of general guidelines, the configuration of the  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution time for some fixed inputs
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70930-5_10
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Cathode Temperature Management During Hybrid System Startup
+     Author ['LE Banta', 'B Restrepo', 'AJ Tsai']
+     Venue … on Fuel Cell …
+     Year 2010
+     Abstract During startup, the turbine/compressor operates with limited stall margin, and best practice for avoiding stall calls for ramping the  Characterization of Air Flow Management and Control in a Fuel Cell Turbine Hybrid Power System Using Hardware Simulation”, Proceedings of the
+     Url https://asmedigitalcollection.asme.org/FUELCELL/proceedings-abstract/FUELCELL2010/44052/141/363085
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Towards Integrating Model-Driven Development of Hard RealTime Systems with Static Program Analyzers
+     Author ['C Ferdinand', 'R Heckmann', 'HJ Wolff', 'C Renz', 'M Gupta']
+     Venue SAE Transactions
+     Year 2007
+     Abstract of safety requirements, and it helps to speed up the project by aiding in the es- tablishment of general guidelines, the configuration of the  Hardware simulation, emula- tion, or direct measurement with logic analyzers can only determine the execution time for some fixed inputs
+     Url https://www.jstor.org/stable/44719917
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Towards an Integration of Low-Level Timing Analysis and Model-Based Code Generation
+     Author ['C Ferdinand', 'R Heckmann', 'HJ Wolff']
+     Venue … of Formal Methods …
+     Year 2006
+     Abstract satisfaction of safety requirements, and it helps to speed up the project by aiding in the establishment of general guidelines, the configuration  Hardware simulation, emulation, or direct measurement with logic analyzers can only determine the execution time for some fixed inputs
+     Url https://ieeexplore.ieee.org/abstract/document/4463716/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title SYLLABUS FOR COURSE
+     Author ['DT Plan']
+     Venue NA
+     Year NA
+     Abstract Design Entry 2.4. Hardware Simulation(Modeling Digital Systems) [1, 3, 6, 9] - Domains and Levels of Simulation(Modeling) [3] - Functional and Timing Simulation [1] - Oblivious Simulation [9] - Event-Driven Simulation [9] 2.5  General Guidelines of VHDL Synthesis 10.2
+     Url http://www.cs.huji.ac.il/course/2002/vhdl/Syllabus.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title UVM Verification Framework
+     Author ['MB Roligheten']
+     Venue NA
+     Year 2014
+     Abstract perform better in terms of execution speed for hardware simulation compared to VHDL and SystemC [9]. However, the use of the many features was not necessarily easy, and many struggled to use these efficiently. The lack of a shared understand- ing of best practice and with
+     Url https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2371066
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Proactive event driven computing
+     Author ['Y Engel', 'Z Feldman']
+     Venue US Patent 10,643,133
+     Year 2020
+     Abstract component is intended to refer to a computer-related entity, a hardware or hardware simulation, a combination of hardware simulation and software, software  Obtaining the EDF allows association with survival analysis and provides general guidelines on how this could be done
+     Url https://patents.google.com/patent/US10643133B2/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title FPGA-based hardware-in-the-loop for multi-domain simulation
+     Author ['AD Benhamadouche', 'F Djahli', 'A Ballouti']
+     Venue International Journal of …
+     Year 2019
+     Abstract In different engineering systems, such as automotive, mechatronic or control systems, the best practice for V&V requests the construction of a real prototype to test the  7. Parma GG, Dinavahi V., Real-time digital hardware simulation of power electronics and drives, IEEE Trans
+     Url https://www.worldscientific.com/doi/abs/10.1142/S179396231950020X
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Simulation of Automated File Migratoon in Information Lifecycle Management
+     Author ['LA Turczyk', 'C Frei', 'M Behrens', 'N Liebau']
+     Venue AMCIS 2008 …
+     Year 2008
+     Abstract COMPARISON OF MIGRATION RULES Industry best practice is to take a strategic view of storage architectures and determine the best solutions based on total cost of ownership (TCO) and operating expense (OPEX) minimization
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1407&context=amcis2008
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title DOE High Performance Computing Operational Review (HPCOR): Enabling Data-Driven Scientific Discovery at HPC Facilities
+     Author ['R Gerber', 'W Allcock', 'C Beggio', 'S Campbell', 'A Cherry']
+     Venue NA
+     Year 2014
+     Abstract 8 factors. • In situ and in transit visualization and analysis will become more common, and their design should be driven by the end user in collaboration with the other relevant parties (hardware, simulation, visualization, and analysis experts) to ensure success
+     Url https://www.osti.gov/biblio/1163236
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Verification of a CubeSat via hardware-in-the-loop simulation
+     Author ['S Corpino', 'F Stesina']
+     Venue IEEE Transactions on Aerospace and …
+     Year 2014
+     Abstract HIL is a hybrid software/hardware simulation architecture, in which the hardware part can vary from a few pieces to the  The project aims at increasing CubeSat mission reliability through several actions: improving design implementation, defining best practice for conducting the
+     Url https://ieeexplore.ieee.org/abstract/document/6978879/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title System on Chip
+     Author ['W Badawy']
+     Venue System-on-chip for real-time applications
+     Year 2003
+     Abstract for design, test-benches, model creation and physical integration [8]. These guidelines provide the underlying methodology to establish a best practice IP reuse  is a step in this direction but is not sufficient due to deficient processor models and slow hardware simulation speeds
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-0351-4_1
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Timing constraint generator
+     Author ['NA Oleksinski', 'MA Minter']
+     Venue US Patent 7,062,736
+     Year 2006
+     Abstract Chip vendors commonly teach the customers how to write constraints that are compatible with the tools used by the chip vendor. Constraints are commonly written in many useful ways, yet there is usually a best practice to apply that should be learned for each tool
+     Url https://patents.google.com/patent/US7062736B2/en
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Development of an effective remote interactive laboratory for online internetworking education
+     Author ['SC Sivakumar', 'W Robertson']
+     Venue 37th Annual Hawaii International …
+     Year 2004
+     Abstract In the online context, the design and the implementation of an effective remote interactive laboratory (RIL) environment is highly challenging on account of the special hardware, simulation and computing needs of the Internetworking courses
+     Url https://ieeexplore.ieee.org/abstract/document/1265054/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Defending against attacks on main memory persistence
+     Author ['W Enck', 'K Butler', 'T Richardson']
+     Venue 2008 Annual …
+     Year 2008
+     Abstract We evaluate a MECU-enhanced architecture using the Sim- pleScalar hardware simulation framework on several hard- ware benchmarks  65 Page 2. longer [14]. Therefore, best practice recommends ensuring memory plaintext never reaches disk
+     Url https://ieeexplore.ieee.org/abstract/document/4721545/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Defending against attacks on main memory persistence
+     Author ['W Enck', 'K Butler', 'T Richardson']
+     Venue 2008 Annual …
+     Year 2008
+     Abstract We evaluate a MECU-enhanced architecture using the Sim- pleScalar hardware simulation framework on several hard- ware benchmarks  65 Page 2. longer [14]. Therefore, best practice recommends ensuring memory plaintext never reaches disk
+     Url https://ieeexplore.ieee.org/abstract/document/4721545/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Embedded software debug in simulation and emulation environments for interface IP
+     Author ['C Wronka', 'J Kotas']
+     Venue Embedded Software Verification and Debugging
+     Year 2017
+     Abstract In current hardware simulation environments, it is possible to use a Virtual Platform Environment (VPE) type environment (diagram) where the CPU and all system  The best practice is to set up a clean sandbos with a fully scripted path through the tests and a full control over
+     Url https://link.springer.com/chapter/10.1007/978-1-4614-2266-2_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title EQUITAS: A tool-chain for functional safety and reliability improvement in automotive systems
+     Author ['R Nouacer', 'M Djemal', 'S Niar', 'G Mouchard']
+     Venue Microprocessors and …
+     Year 2016
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0141933116301156
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Emulation of software faults: Representativeness and usefulness
+     Author ['H Madeira', 'J Durães', 'M Vieira']
+     Venue Latin-American Symposium on …
+     Year 2003
+     Abstract Page 1. R. de Lemos et al. (Eds.): LADC 2003, LNCS 2847, pp. 137–159, 2003. © Springer-Verlag Berlin Heidelberg 2003 Emulation of Software Faults: Representativeness and Usefulness Henrique Madeira1, João Durães2, and Marco Vieira2
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45214-0_13
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Building OPB Slave Peripherals using System Generator for DSP
+     Author ['J Ballagh', 'J Hwang', 'P James-Roxby']
+     Venue Xilinx …
+     Year 2004
+     Abstract IP2OPB_IF connects signals driven by the peripheral to the OPB. Wherever possible, register these signals to improve timing. The interface and subsystem logic for the OPB2IP_IF component is shown in Figure 5. A best practice design registers the signals read from the OPB
+     Url http://application-notes.digchip.com/077/77-43059.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Prüfen von C-Code und Statemate-Matlab-Spezifikationen: ein Experiment
+     Author ['F Houdek', 'D Ernst', 'T Schwinn']
+     Venue NA
+     Year 2013
+     Abstract Die Hardwaresimulation bildet dabei das Verhalten der Sensoren und Aktuatoren nach. Au erdem bietet die Hardware- simulation die M oglichkeit, Skripte abzuarbeiten, um so zu reproduzierbaren Testf allen zu gelangen  Event Hardware- Simulation
+     Url https://oparu.uni-ulm.de/xmlui/handle/123456789/2526
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Integrating the HERMES spectrograph for the AAT
+     Author ['J Heijmans', 'M Asplund', 'S Barden']
+     Venue Ground-based and …
+     Year 2012
+     Abstract System Engineering Manual. The manual is based on the ISO standard (ISO/IEC 15288 systems and software engineering – system life cycle processes) and the best practice INCOSE systems engineering handbook. The process
+     Url https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8446/84460W/Integrating-the-HERMES-spectrograph-for-the-AAT/10.1117/12.925806.short
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping
+     Author ['T De Schutter']
+     Venue NA
+     Year 2014
+     Abstract “Better Software. Faster!” nicely merges a practical overview of the benefits of virtual prototypes with best practice case studies from real users.” Stephan Lauterbach Lauterbach Not for resale Page 4. Page 5. Better Software. Faster
+     Url https://books.google.com/books?hl=en&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Hardware+simulation%22&ots=cw6VuaFyg-&sig=zrijfV9KoojJWCGYhFAWPXwlibw
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Experiences from planetary autonomy software from research to planetary flight robots
+     Author ['IAD Nesnas']
+     Venue NA
+     Year 2017
+     Abstract Page 1. Experiences from Robotic Autonomy Software From research to planetary flight robots Dr. Issa AD Nesnas Supervisor, Robotic Mobility Principal Technologist Jet Propulsion Laboratory, California Institute of Technology
+     Url https://trs.jpl.nasa.gov/bitstream/handle/2014/48929/CL%2317-6662.pdf?sequence=1&isAllowed=y
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Hardware+simulation"
+     Title Advanced Simulation and Computing Fiscal Year 2014 Program Notebook for Compuatational Systems and Software Environment and Facility Operations and …
+     Author ['M McCoy', 'B Archer', 'M Matzen', 'T Hoang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. Lawrence Livermore National Laboratory is operated by Lawrence Livermore National Security, LLC, for the US Department of Energy, National Nuclear Security Administration under Contract DE-AC52-07NA27344. LLNL-TR-652433 L L N L - X X X X - X X X X X
+     Url https://www.osti.gov/servlets/purl/1129134
+

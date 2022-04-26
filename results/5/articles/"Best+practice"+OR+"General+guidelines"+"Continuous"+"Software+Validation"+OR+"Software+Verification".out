@@ -1,0 +1,451 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Method validation in pharmaceutical analysis: A guide to best practice
+     Author ['J Ermer', 'JHMB Miller']
+     Venue NA
+     Year 2006
+     Abstract Method Validation in Pharmaceutical Analysis A Guide to Best Practice Edited by Joachim Ermer, John H. McB. Miller  Analysis 1 1 Analytical Validation within the Pharmaceutical Environment 3 Joachim Ermer Regulatory Requirements 4 Integrated and Continuous Validation 5
+     Url https://books.google.com/books?hl=en&lr=&id=HbBlyvlRgwkC&oi=fnd&pg=PR5&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Continuous%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=nWAuzOD3Kg&sig=ImS60e4M3UyS6w3yWjQEY_9bm-c
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Continuous Integration for Android Application Development and Training
+     Author ['PD Hung', 'DT Giang']
+     Venue Proceedings of the 2019 3rd International …
+     Year 2019
+     Abstract CCS Concepts • Software and its engineering ➝ Software creation and management➝Software verification and validatio  All these steps can be automated with the help of continuous integration tools. In recent years CI has become a best practice for software development and is
+     Url https://dl.acm.org/doi/abs/10.1145/3345120.3345158
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Foundations for event-based process analysis in heterogeneous software engineering environments
+     Author ['WD Sunindyo', 'T Moser', 'D Winkler']
+     Venue 2010 36th EUROMICRO …
+     Year 2010
+     Abstract Keywords - software process, software validation and verification  The CI&T process will implement continuous processes of applying quality control frequently, which consists  various tools (build, automated tests, and deployment) as a representative best-practice approach from
+     Url https://ieeexplore.ieee.org/abstract/document/5598113/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Deliverable D5. 3-analysis of requirements for software management
+     Author ['M Wolski', 'R Martinovic', 'S Kupiński', 'M Łabędzki']
+     Venue NA
+     Year 2017
+     Abstract was released in 2012 and is still applicable as it provides general guidelines on the use  Further progress in the adoption of continuous integration services will be beneficial to the  Some of these strategies are set out in best practice documents covering software documentation
+     Url https://www.geant.org/Projects/GEANT_Project_GN4/deliverables/D5-3_Analysis-of-Requirements-for-Software-Management.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title A test-driven approach to developing embedded software
+     Author ['M Underseth']
+     Venue EE-Evaluation Engineering
+     Year 2007
+     Abstract Following a best practice from test-driven development (TDD), ideally developers would create  This practice is referred to as continuous integration and very effective for  In these cases, the software verification platform provides management, report generation, and automation
+     Url https://go.gale.com/ps/i.do?id=GALE%7CA162457782&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01490370&p=AONE&sw=w
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title A new model of software life cycle processes for consistent design, development, management, and maintenance of secure information systems
+     Author ['D Horie', 'T Kasahara', 'Y Goto']
+     Venue 2009 Eighth IEEE/ACIS …
+     Year 2009
+     Abstract maintainers, and abrogaters should always follow the best practice for ensuring relia  software life cycle processes do not take continuous attacks by  Software Documentation Management Software Quality Assurance Software Verification Software Validation Software Review
+     Url https://ieeexplore.ieee.org/abstract/document/5223137/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Extending the Integrated Capability Maturity Model (CMMI) for Safety-related Applications
+     Author ['N Robinson', 'P Lindsay']
+     Venue … : Software Verification …
+     Year 2000
+     Abstract is part of the “DefSafe” project being undertaken by the Software Verification Research Centre at  The process areas in the CMMI continuous model are divided into four categories  assumed that the existing CMMI model would be consistent with best-practice safety engineering
+     Url https://espace.library.uq.edu.au/view/UQ:10585/svrc_00_40.pdf?dsi_version=f302b8768029bc603ba322c4b25ac029
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Support for Metrology Best Practice Guide No. 1
+     Author ['B Wichmann', 'G Parkin', 'R Barker']
+     Venue Validation of Software in Measurement …
+     Year 2007
+     Abstract 7 Software validation techniques 39  Software Support for Metrology Best Practice Guide No  SSfM–2] for research and information in this area [SSfM-Model]: BPG-Model for discrete modelling and model validation, and CMSC 29/03 for model validation in continuous modelling
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.675&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Boost the Impact of Continuous Formal Verification in Industry
+     Author ['FR Monteiro', 'MR Gadelha', 'LC Cordeiro']
+     Venue arXiv preprint arXiv:1904.06152
+     Year 2019
+     Abstract It is of paramount importance a software project follows two key best-practice principles: (i) keep the project as modular as possible and  Fitzgerald, B., Stol, KJ: Continuous Software Engineering: A Roadmap and Agenda  Beyer, D., Lemberger, T.: Software Verification: Testing vs
+     Url https://arxiv.org/abs/1904.06152
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Scientific Test and Analysis Techniques for Software Testing
+     Author ['F Ortiz']
+     Venue Scientific Test and Analysis Techniques Center of …
+     Year 2015
+     Abstract Please see Grier (2013) for a best practice on using survey for test and evaluations  and confidence are two common measures used to evaluate the adequacy of a test design when the response is continuous and stochastic  Guide for Software Verification and Validation Plans
+     Url https://www.afit.edu/stat/statcoe_files/STAT%20for%20Software%20Testing%20V2.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Software quality approaches: testing, verification, and validation: software best practice 1
+     Author ['M Haug', 'EW Olsen', 'L Consolini']
+     Venue NA
+     Year 2001
+     Abstract 30 Part II Testing, Verification, and Quality Management 31 4 Perspectives 33 4.1 Introduction to the Subject Domain 33 4.2 Software Verification & Validation  1.5 Dimensions of Software Best Practice Software Best Practice activities focus on the continuous and stepwise
+     Url https://books.google.com/books?hl=en&lr=&id=jHxVqhW_axYC&oi=fnd&pg=PA1&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Continuous%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=MlY0a4vUb3&sig=sLnldQ6i31pLKqocXIyeceVSOcE
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title The University of Queensland
+     Author ['G Robinson', 'P Lindsay', 'A Pitman']
+     Venue NA
+     Year 2000
+     Abstract is part of the 'DefSafe' project being undertaken by the Software Verification Research Centre at  The process areas in the CMMI continuous model are divided into four categories  assumed that the existing CMMI model would be consistent with best-practice safety engineering
+     Url http://staff.itee.uq.edu.au/pal/defsafe/Publications/tr00-40.ps
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of Best-Practice Software-Engineering Setup in. net Application Development
+     Author ['S KALS', 'DI SCHWEIGER']
+     Venue NA
+     Year 2004
+     Abstract Page 1. Implementation of Best-Practice Software-Engineering Setup in .net Application Development  Kent Beck [1] for example suggests the use of a separate build server applying the Continuous Integration strategy of Extreme Programming
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.89.7677&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Validation of software in measurement systems (Software for Metrology Best Practice Guide No. 1).
+     Author ['B Wichmann', 'GI Parkin', 'RM Barker']
+     Venue NA
+     Year 2007
+     Abstract 12 Software Validation Techniques 57  SSf M Best Practice Guide No  of the SSf M programme [SSfM–2] for research and information in this area [SSfM-Model]: BPG-Model for discrete modelling and model validation, and CMSC 29/03 for model validation in continuous modelling
+     Url http://eprintspublications.npl.co.uk/id/eprint/3922
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title 7.4.4 Extending the Integrated Capability Maturity Model® (CMMISM) for Safety‐related Applications
+     Author ['N Robinson', 'P Lindsay', 'A Pitman']
+     Venue INCOSE International …
+     Year 2001
+     Abstract study is part of the DefSafe project being undertaken by the Software Verification Research Centre  The process areas in the CMMI continuous model are divided into four categories  assumed that the existing CMMI model would be consistent with best-practice safety engineering
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.2001.tb02357.x
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title analysis of germline and somatic variants [version 1; peer
+     Author ['M Garcia', 'S Juhos', 'M Larsson', 'PI Olason', 'M Martin']
+     Venue NA
+     Year NA
+     Abstract Sarek follows the GATK best-practice recommendations for read alignment and pre-processing, and includes a wide range of software for the identification  Software, Validation, Writing – Review & Editing;  This is also used for Continuous Integration testing with GitHub Actions
+     Url https://www.researchgate.net/profile/Maxime_Garcia/publication/338907742_Sarek_A_portable_workflow_for_whole-genome_sequencing_analysis_of_germline_and_somatic_variants/links/5e39687e458515072d7d378e/Sarek-A-portable-workflow-for-whole-genome-sequencing-analysis-of-germline-and-somatic-variants.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title BLAST Work Package 5 (WP 5) Validation of the End Result
+     Author ['U Tagne']
+     Venue NA
+     Year NA
+     Abstract This WP will concentrate on a best practice network amongst stakeholders from data providers to end users  2.1 Software Validation Concept  The Data Validation must be a continuous process as new information might still be available at a later phase
+     Url http://archive.northsearegion.eu/files/repository/20150107095032_ValidationReportFinal11042012.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Acquisition Best Practices: Experiences from the Space Systems Domain
+     Author ['RJ Adams', 'S Eslinger', 'KL Owens', 'MA Rich']
+     Venue NA
+     Year 2004
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Experience with extending CMMISM for safety related applications
+     Author ['M Bofinger', 'N Robinson', 'P Lindsay']
+     Venue … Council on Systems …
+     Year 2002
+     Abstract indication that the model is a true reflection of system safety best practice  œ Integrated for Systems Engineering/Software Engineering, Version 1.0 Continuous Representation“, Software  M ark Bofingeris a Senior Research Fellow in the Software Verification Research Centre
+     Url http://staff.itee.uq.edu.au/pal/defsafe/Publications/INCOSE2002.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title A compliance office for heavily regulated enterprises—a best practice approach to meeting US FDA requirements
+     Author ['JK Himmelreich']
+     Venue BT technology journal
+     Year 2007
+     Abstract validation appeared in 1997 when the FDA published draft guidance entitled 'General Principles of Software Validation' and, in  Driving continuous improvement  The MOM is revised to reflect improved best practice, current or new activities, and any change in requirements. 11
+     Url https://link.springer.com/content/pdf/10.1007/s10550-007-0007-7.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Transfer function identification in power system applications
+     Author ['JR Smith', 'F Fatehi', 'CS Woods', 'JF Hauer']
+     Venue … on Power Systems
+     Year 1993
+     Abstract 4 . Kpdel validation. Equally important to software validation is model validation. The  function. There are many methods for doing this transformationwhich differ in the assumptions anduses of hold circuits in the continuous time model
+     Url https://ieeexplore.ieee.org/abstract/document/260866/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title How to assure correctness and safety of medical software: the hemodialysis machine case study
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue … , Alloy, B, TLA, VDM, and Z
+     Year 2016
+     Abstract Both documents establish general guidelines on the use of common software engineering activities, but they do not  A continuous defect prevention is supported  The ASM process allows preparation for software validation and verification as early as possible, since V&V can start
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33600-8_30
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Adapting Agile practices in globally distributed large scale software development
+     Author ['M Ivček', 'T Galinac']
+     Venue … of the International Convention MIPRO 2009
+     Year 2009
+     Abstract current environment conditions force software development organizations to continuous change without  we identified with this paper is presenting Ericsson best practice in adopting  Car, Software Verification Process Improvement Proposal Using Six Sigma, Lecture Notes in
+     Url https://www.researchgate.net/profile/Tihana_Galinac_Grbac2/publication/228997788_Adapting_Agile_practices_in_globally_distributed_large_scale_software_development/links/02e7e51bce77f23f5d000000.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Best practice strategies for validation of micro moulding process simulation
+     Author ['F Costa', 'G Tosello', 'B Whiteside']
+     Venue Polym. Process Engin
+     Year 2009
+     Abstract experimental validation studies are an important tool for establishing best practice methodologies for use during analysis set up on all future design  Figure 2 Two-cavity dog-bone tensile bar moulding The moulding procedure was conducted as a continuous process with part
+     Url https://pdfs.semanticscholar.org/5b99/0e3fa2ff4fd5d5a53a3dc973c3d6608ad5e4.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Best practices for developing DO-178 compliant software using Model-Based Design
+     Author ['RG Estrada', 'G Sasaki', 'E Dillaber']
+     Venue AIAA Infotech@ Aerospace (I@ A) …
+     Year 2013
+     Abstract using an executable model as the basis for design, simulation, and software verification and validation  in the software development process but rather is used in a continuous fashion  A best practice is to automate the installation and setup of the development environment for all
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2013-4566
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Evaluation of functionality of business management systems for effective implementation in complex business processes
+     Author ['D Dzemydiene', 'R Baltrusaitis']
+     Venue Baltic Journal of Modern Computing
+     Year 2015
+     Abstract Reuse of the best practice from the  The smooth (uniform), continuous and linked information flow across- entire value chain  It should include: Technical preparation - the adequacy of the network setting; servers and software (including client software) verification; assessment of
+     Url https://www.bjmc.lu.lv/fileadmin/user_upload/lu_portal/projekti/bjmc/Contents/3_3_3_Dzemydiene.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Evaluation of computational fluid dynamic methods for reactor safety analysis (ECORA)
+     Author ['M Scheuerer', 'M Heitsch', 'F Menter', 'Y Egorov']
+     Venue … Engineering and Design
+     Year 2005
+     Abstract 3.1. WP1: establishment of best practice guidelines  An extension of this model has also been implemented. The model allows simulation of flows with both the continuous liquid layer and the dispersed liquid droplets above the free surface  3.5. WP5: software validation
+     Url https://www.sciencedirect.com/science/article/pii/S0029549304003139
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving knowledge on vaccine storage management in general practices: Learning effectiveness of an online-based program
+     Author ['A Thielmann', 'MT Puth', 'B Weltermann']
+     Venue Vaccine
+     Year 2020
+     Abstract After successful completion participants receive a certificate; physicians additionally receive one continuous medical education point (CME)  The item with the highest net change (+76.7%) addressed the best-practice of recording temperatures twice-daily
+     Url https://www.sciencedirect.com/science/article/pii/S0264410X2031210X
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Collaborative Education: Building a Skilled Software Validation and Verification Community
+     Author ['S Acharya', 'PA Manohar', 'PY Wu']
+     Venue Proceedings of the EDSIG …
+     Year 2018
+     Abstract Software validation and verification (SV&V) is proven to be effective in ensuring software  50 Requirements from a Customer's Perspective 250 Configuration Management Continuous Integration 100  picture for the audience to appreciate the process of SV&V best practice
+     Url http://proc.iscap.info/2018/pdf/4645.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title A Proposal for Integrating DevOps into Software Engineering Curricula
+     Author ['C Jones']
+     Venue … on Software Engineering Aspects of Continuous …
+     Year 2018
+     Abstract 47. Software Testing. Software verification, validation, and quality  https://www.axelos.com/best- practice-solutions/itil/what-is-itil. 14  Humble, J., Farley, D.: Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+     Url https://link.springer.com/chapter/10.1007/978-3-030-06019-0_3
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title The Environmental Measurement of Residential Buildings
+     Author ['P Nagle', 'M Dewsbury']
+     Venue NA
+     Year 2011
+     Abstract another software, (which may also be producing an incorrect zone temperature), is not viewed as best practice for software validation. This method is considerably better than the mathematical comparison but not as comprehensive as empirical validation
+     Url https://www.researchgate.net/profile/Mark_Dewsbury/publication/275954213_The_Environmental_Measurement_of_Residential_Buildings_A_Technical_Guide/links/554afa630cf21ed2135901d5/The-Environmental-Measurement-of-Residential-Buildings-A-Technical-Guide.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title New directions-the status of mathematics and software in legal metrology: recommendations for the Software Support for Metrology programme 2004-2007.
+     Author ['J Goulding']
+     Venue NA
+     Year 2003
+     Abstract No measurement system manufacturers reported the use of continuous modelling techniques  This is very curious, bearing in mind that measurement system software validation in support of  SSfM programme produced a guide on virtual instruments (SSfM Best Practice Guide No
+     Url http://eprintspublications.npl.co.uk/id/eprint/2616
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Enabling Technologies for Post Market Surveillance of Medical Devices
+     Author ['J Chaudhry', 'AK Bashir', 'SH Ahmed', 'J Haas', 'G Zheng']
+     Venue NA
+     Year 2018
+     Abstract IMDs), Medical Devices (MDs), and Medical Support Devices (MSDs) for continuous health monitoring  the financial sector with cryptocurrency proposed for trading, supply chain, and software validation  the best of our knowledge, there is no standard “best practice” for medical
+     Url https://internetinitiative.ieee.org/newsletter/march-2018/enabling-technologies-for-post-market-surveillance-of-medical-devices
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title 2.3.4 Experience with Extending CMMISM for Safety Related Applications: Twelfth Annual International Symposium of the International Council On Systems …
+     Author ['M Bofinger', 'N Robinson', 'P Lindsay']
+     Venue INCOSE …
+     Year 2002
+     Abstract indication that the model is a true reflection of system safety best practice  Model – Integrated for Systems Engineering/Software Engineering, Version 1.0 Continuous Representation”, Software  Bofinger is a Senior Research Fellow in the Software Verification Research Centre
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.2002.tb02508.x
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Closing the certification gaps in adaptive flight control software
+     Author ['S Jacklin']
+     Venue AIAA Guidance, Navigation and Control Conference …
+     Year 2008
+     Abstract performance of the final code against the defined software requirements is called software validation  output of a model-based simulation against measured data.) Software verification is the  comprised of finite state executive controllers coupled to a continuous domain adaptive
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2008-6988
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title An assessment of the performance of the probabilistic genotyping software EuroForMix: trends in likelihood ratios and analysis of Type I & II errors
+     Author ['CCG Benschop', 'A Nijveld', 'FE Duijs', 'T Sijen']
+     Venue Forensic Science International …
+     Year 2019
+     Abstract The use of replicates or an LR threshold minimizes type II errors. Abstract. Continuous probabilistic genotyping software enables the interpretation of highly complex DNA profiles that are prone to stochastic effects and/or consist of multiple contributions
+     Url https://www.sciencedirect.com/science/article/pii/S1872497319301711
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Clinical assessment of suicide risk and suicide attempters' self-reported suicide intent: A cross sectional study
+     Author ['CC Choo', 'KM Harris', 'PKH Chew', 'RC Ho']
+     Venue PloS one
+     Year 2019
+     Abstract analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Validation, Visualization, Writing  modelling of suicide risk requires using validated continuous measures of  the findings have implications for informing best practice in suicide
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217613
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Sarek: A portable workflow for whole-genome sequencing analysis of germline and somatic variants
+     Author ['M Garcia', 'S Juhos', 'M Larsson', 'PI Olason']
+     Venue …
+     Year 2020
+     Abstract Eisfeldt, Software, Validation, Writing – Review & Editing, 6 Sebastian DiLorenzo, Software, Validation, Writing – Review  Sarek follows the GATK best-practice recommendations for read alignment and pre  This is also used for Continuous Integration testing with GitHub Actions
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7111497.1/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Software process improvement for the medical industry
+     Author ['CD Nugent']
+     Venue Personalised Health Management …
+     Year 2005
+     Abstract which complies with the regulatory guidance criteria, while introducing best practice techniques and  the MeDeSPI Model Software process improvement is a continuous process that an  [8] FDA/CDRH Guidance Document." General Principles of Software Validation." June 1997
+     Url https://pdfs.semanticscholar.org/63a8/e6da96b6e0c26876a5f66795c58599123462.pdf#page=127
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Non-negotiable quality functions
+     Author ['R Delport']
+     Venue Management Today
+     Year 2005
+     Abstract research, to establish best practice, benchmarking, etc., co-ordinating quality related tasks, generating and  The field of testing or software verification and valida- tion includes all those  and quality parameters, maintaining the QMS and ensuring continuous quality improvement
+     Url https://www.ingentaconnect.com/content/sabinet/mantod/2005/00000021/00000003/art00028
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title From knowledge based systems to knowledge sharing technology: Evaluation and assessment
+     Author ['A Gómez-Pérez']
+     Venue Knowledge Systems Lab., Stanford University …
+     Year 1994
+     Abstract The main problem appears to be: there is no set of general guidelines to evaluate KST, specific ideas to evaluate user-independent ontologies  of a well-defined and well- structured set of requirements at the beginning of the development process, and the continuous changes in
+     Url https://www.researchgate.net/profile/Asuncion_Gomez-Perez/publication/50809939_From_Knowledge_Based_Systems_to_Knowledge_Sharing_Technology_Evaluation_and_Assessment/links/0c960516888bd664b5000000/From-Knowledge-Based-Systems-to-Knowledge-Sharing-Technology-Evaluation-and-Assessment.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title An assessment of the performance of the probabilistic genotyping software EuroForMix: trends in likelihood ratios and analysis of Type I & II errors
+     Author ['CCG Benschop', 'A Nijveld', 'FE Duijs', 'T Sijen']
+     Venue Forensic Science International …
+     Year 2019
+     Abstract The use of replicates or an LR threshold minimizes type II errors. Abstract. Continuous probabilistic genotyping software enables the interpretation of highly complex DNA profiles that are prone to stochastic effects and/or consist of multiple contributions
+     Url https://www.sciencedirect.com/science/article/pii/S1872497319301711
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Analysis the Strength of Agile Methodologies in Software Development
+     Author ['KM Jyoti', 'MT Singh', 'P Saharavat']
+     Venue NA
+     Year 2018
+     Abstract Each of these two practitioners (best practice and previous success and failure experience) had their own different  Software validation: The software should satisfy  be gathered completely in the beginning of the project due to various factors, continuous customer interaction is
+     Url http://www.academia.edu/download/57333040/CSEIT183611.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Clinical assessment of suicide risk and suicide attempters' self-reported suicide intent: A cross sectional study
+     Author ['CC Choo', 'KM Harris', 'PKH Chew', 'RC Ho']
+     Venue PloS one
+     Year 2019
+     Abstract analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Validation, Visualization, Writing  modelling of suicide risk requires using validated continuous measures of  the findings have implications for informing best practice in suicide
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217613
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Non-negotiable quality functions
+     Author ['R Delport']
+     Venue Management Today
+     Year 2005
+     Abstract research, to establish best practice, benchmarking, etc., co-ordinating quality related tasks, generating and  The field of testing or software verification and valida- tion includes all those  and quality parameters, maintaining the QMS and ensuring continuous quality improvement
+     Url https://www.ingentaconnect.com/content/sabinet/mantod/2005/00000021/00000003/art00028
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Repeated in-field radiosurgery for locally recurrent brain metastases: Feasibility, results and survival in a heavily treated patient cohort
+     Author ['P Balermpas', 'S Stera', 'J Müller von der Grün']
+     Venue PloS one
+     Year 2018
+     Abstract Roles Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Resources, Software, Validation, Writing – review &  for the Gamma Knife System according to international best practice guidelines [24  A continuous increase in the size of a lesion (defined as
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198692
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title How amendments to the Medical Device Directive affect the development of medical device software
+     Author ['M Mc Hugh', 'F Mc Caffery', 'V Casey']
+     Venue NA
+     Year 2011
+     Abstract the recom- mendations of the assessment and restarting the cycle [8]. This process of continuous assessment and  device software development which medical device software developers should follow in order to implement best practice medical device  2.2 Software Validation
+     Url http://193.1.102.107/handle/10344/1716
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Intellectual Merit and Broader Impact: Collaborative Education toward Building a Skilled Software Verification and Validation Community
+     Author ['S Acharya', 'P Manohar', 'PY Wu']
+     Venue Information Systems Education Journal
+     Year 2019
+     Abstract Software Verification and Validation (SV&V) is proven to be effective in ensuring software  50 Requirements from a Customer's Perspective 250 Configuration Management Continuous Integration 100  picture for the audience to appreciate the process of SV&V best practice
+     Url http://isedj.org/2019-17/n6/ISEDJv17n6p12.html
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Model based design and HIL simulations
+     Author ['T Kelemenová', 'M Kelemen', 'Ľ Miková']
+     Venue American Journal of …
+     Year 2013
+     Abstract can provide rapid prototyping, virtual functional verification, and software testing and hardware/software validation  and component-level design and simulation, automatic code generation, and continuous test and  When developing plant models, it is a best practice to start
+     Url https://www.researchgate.net/profile/Erik_Prada/publication/259443931_Model_Based_Design_and_HIL_Simulations/links/00b7d52b9b17039938000000/Model-Based-Design-and-HIL-Simulations.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Continuous"+"Software+Validation"+OR+"Software+Verification"
+     Title Improving safety management in defence acquisition
+     Author ['B Atchison', 'P Lindsay', 'T Cant']
+     Venue NA
+     Year 1999
+     Abstract Organisation, Defence Science Technology Organisation (DSTO) and the Software Verification Research Centre  In a sense, existing Safety standards embody 'best practice' in safety management  future, Defence faces the challenge of maintaining a continuous safety program
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.8064&rep=rep1&type=pdf
+

@@ -1,0 +1,451 @@
+Showing papers for search query "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Software engineering methods for safe programmable logic controllers (SEMSPLC)
+     Author ['DJ Maisey', 'SJ Clarke']
+     Venue … in Software Engineering for PLC
+     Year 1993
+     Abstract The pragmatic approach has been to distil the current best practice in the PLC world  be necessary to develop language specific coding standards from the general guidelines which have  The theoretical approach would advocate that the use of formal methods provides the most
+     Url https://ieeexplore.ieee.org/abstract/document/274595/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Sharing ideas: the SEMSPLC project
+     Author ['AA Canning', 'GT Moran', 'SJ Clarke', 'D Maisey', 'S Pegler']
+     Venue IEE Review
+     Year 1994
+     Abstract covering both research in the area of software development, and current best practice  According to the theoretical approach, the use of formal methods provides the most  necessary to develop language-specific coding standards from the general guidelines already established
+     Url https://digital-library.theiet.org/content/journals/10.1049/ir_19940220
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A New Master's Program in Integrated Electronic System Design
+     Author ['K Jeppson', 'L Peterson', 'L Svensson']
+     Venue Proc. 7th European …
+     Year 2008
+     Abstract 4) Re-use of existing advanced specialist courses (formal methods, computer architecture, and  System design using Matlab and FPGA co-design exemplifies a system-oriented  o methodological limitations and possibilities of the design flows that represent current best practice
+     Url https://www.researchgate.net/profile/Kjell_Jeppson/publication/237265565_A_New_Master's_Program_in_Integrated_Electronic_System_Design/links/0deec52b14fe0a46c2000000/A-New-Masters-Program-in-Integrated-Electronic-System-Design.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Methods for safe control systems design and implementation
+     Author ['JM Faure', 'JJ Lesage']
+     Venue IFAC Proceedings Volumes
+     Year 2001
+     Abstract The first mean to ensure safety during realisation is to manage the system development as advocated in the life-cycle model. This model indeed provides general guidelines to develop a system in a structured way  Formal methods in PLC programming
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017332755
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Mandated requirements for hardware/software combination in safety-critical systems
+     Author ['AJ Hilton', 'JG Hall', 'M Keynes']
+     Venue Proceedings of the …
+     Year 2002
+     Abstract From this we see that best practice for the use of PLDs should facilitate similar  In ACM/SIGDA Ninth International Symposium on Field Programmable Gate Arrays (FPGA'01), pages  In FM'99 — Formal Methods; Proceedings, volume 1709 of Lec- ture Notes in Computer Science
+     Url https://pdfs.semanticscholar.org/5732/8d47bb076c4eff5b77367c0eb41deba83319.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Experiences with proof in a formal development
+     Author ['D Clutterbuck', 'JC Bicarregui', 'BM Matthews']
+     Venue First Conference on the B …
+     Year 1996
+     Abstract We conclude with some more general guidelines by which the proof facilities could be enhanced to improve the  4LUCOL is a registered trademark of Lucas Industries plc  and whilst successful, further bene ts may be achieved with more extensive application of formal methods
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.6672&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Reqcap: Hierarchical requirements modeling and test generation for industrial control systems
+     Author ['A Almohammad', 'JF Ferreira']
+     Venue 2017 IEEE 25th …
+     Year 2017
+     Abstract in an in- dustrial context (at Applied Integration UK) and captures best practice gathered by  by an academic team from Teesside University who specialise in formal methods in software  points that emerged from Applied Integration's experience in delivering PLC-based control
+     Url https://ieeexplore.ieee.org/abstract/document/8054877/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title SoK: Attacks on Industrial Control Logic and Formal Verification-Based Defenses
+     Author ['R Sun', 'A Mera', 'L Lu', 'D Choffnes']
+     Venue arXiv preprint arXiv:2006.04806
+     Year 2020
+     Abstract aims to systematically investigate control logic modification attacks and formal methods based defenses  We recommend PLC vendors to prioritize security with standardized design, so  operators, and formal verification experts, to adopt existing best practice formal verification
+     Url https://arxiv.org/abs/2006.04806
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Safety Related Systems: Current And Emerging Technologies
+     Author ['MJ Ashman']
+     Venue IEE Colloquium on Computers & Safety Papers …
+     Year 1996
+     Abstract The pragmatic approach argues for the use of best practice currently available in the PLC world, augmented by  software but that steps need to be taken to achieve the aim of producing demol.lstrably safe software, such as the introduction of formal methods into parts
+     Url https://ieeexplore.ieee.org/abstract/document/578324/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Demo abstract: Closed-loop testing for implantable cardiac pacemakers
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the 10th ACM …
+     Year 2011
+     Abstract testing platform between a timed automata based heart model on a FPGA board and  no specific requirements or software verification standards are issued, a set of general guidelines for software  While formal methods of verification is needed for medical device software [2, 7, 8
+     Url https://ieeexplore.ieee.org/abstract/document/5779074/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model-driven development of control software for distributed automation: a survey and an approach
+     Author ['CH Yang', 'V Vyatkin', 'C Pang']
+     Venue IEEE Transactions on Systems …
+     Year 2013
+     Abstract 3) The order of components invocation within a PLC scan is implicit  Their proposed solution is to use SP88 standard as a specification and set up formal rules or general guidelines to construct corresponding IEC 61499 blocks [30], 104]
+     Url https://ieeexplore.ieee.org/abstract/document/6663742/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Dealing with uncertainties in analog/mixed-signal systems
+     Author ['C Grimm', 'M Rathmair']
+     Venue 2017 54th ACM/EDAC/IEEE Design …
+     Year 2017
+     Abstract We instead propose a generic basis that complements best practice with a more formal background that is nevertheless intuitive to understand for  For the PLC example, we used uncertain signals represented by AAF for optimization  Formal Methods in Computer Aided Design
+     Url https://ieeexplore.ieee.org/abstract/document/8060407/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Regulatory requirements for computerised systems in pharmaceutical manufacture
+     Author ['S Wyn']
+     Venue Software Engineering Journal
+     Year 1996
+     Abstract the term 'Good Automated Manufacturing Practice' (GAMP) to refer to accepted best practice in this  The Guide does not contain any guidance on formal methods, safety-critical systems, formal risk  The Guide also caters for embed- ded systems, such as PLC control systems for
+     Url https://digital-library.theiet.org/content/journals/10.1049/sej.1996.0011
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Safe Comp 95: The 14th International Conference on Computer Safety, Reliability and Security, Belgirate, Italy 11–13 October 1995
+     Author ['G Rabe']
+     Venue NA
+     Year 2013
+     Abstract The Application of Formal Methods to Railway Signalling Systems Specification and the ESPRIT III Project CASCADE  Mansfelda 4 60-854 Poznan 6, Poland WA Halang FernUniversität Hagen Postfach 940 D-58084 Hagen, Germany AJ Harrison Railtrack PLC, 355 Euston
+     Url https://books.google.com/books?hl=en&lr=&id=5CDUBwAAQBAJ&oi=fnd&pg=PA3&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=X8JUlh0YT1&sig=q-P8gBDCiViS322d-Md67D-aW6Y
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Dagstuhl Seminar on High Integrity Programmable Electronic Systems1
+     Author ['WJ Cullyer', 'WA Halang', 'BJ Krämer']
+     Venue NA
+     Year NA
+     Abstract Software ..... 14 L. Barroca, Application of Formal Methods: an Architectural Approach 16 H. Langmaack, The ProCoS-Way Towards Correct Systems  Programs ..... 19 FW von Henke, Formal Methods between Research and Practice
+     Url https://www.dagstuhl.de/fileadmin/files/Reports/95/9509.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The industrial take-up of formal methods in safety-critical and other areas: A perspective
+     Author ['J Bowen', 'V Stavridou']
+     Venue International Symposium of Formal Methods …
+     Year 1993
+     Abstract do not have the familiarity to make full benefit of them." Martyn Thomas, Chairman, Praxis plc: "If you can  Many so-called formal "methods" have concentrated on notations and/or tools and have not addressed how they should be slotted into existing industrial best practice
+     Url https://link.springer.com/chapter/10.1007/BFb0024646
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Achievement and Assurance of Safety: Proceedings of the Third Safety-critical Systems Symposium
+     Author ['F Redmill', 'T Anderson']
+     Venue NA
+     Year 2012
+     Abstract technologies are represented by chapters on neural networks, artificial intelligence, formal methods and robotics  188 A Code of Practice for the Development of Safe PLC Software Stephen  effective transfer and use of technology, the identification of best practice, the definition
+     Url https://books.google.com/books?hl=en&lr=&id=c3_TBwAAQBAJ&oi=fnd&pg=PP10&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=zipM2oR_AY&sig=LmX64TqKJc-tQ4PwsVrKx94x2Ak
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automatic analysis and adaption of the interface of automated material flow systems to improve backwards compatibility
+     Author ['T Aicher', 'D Schütz', 'M Spindler', 'S Liu', 'WA Günthner']
+     Venue IFAC-PapersOnLine
+     Year 2017
+     Abstract Furthermore, millions of PLC programs already exist that cannot be formally treated any other way  ie a model-based design approach, of aMFM based on a meta model, which enables the definition of consistent (pre)defined interfaces, eg by AML Best Practice (2016), between
+     Url https://www.sciencedirect.com/science/article/pii/S2405896317306778
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Justification of an FPGA-based system performing a Category C function: development of the approach and application to a case study
+     Author ['S Guerra', 'D Sheridan']
+     Venue 8th American Nuclear Society …
+     Year 2012
+     Abstract Techniques such as formal methods and statistical testing are expensive for systems of significant complexity  The implementation of the FPGA-based Gag EVM system is still under development  argument used for the first leg is based on compliance with best practice, which is
+     Url https://pdfs.semanticscholar.org/9e33/9061dc3ce39d2b0610167d549635ee3af4a9.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Functional and formal checks
+     Author ['T Hinterstoisser', 'F Khalid', 'S Mangard', 'M Matschnig']
+     Venue NA
+     Year NA
+     Abstract best practice security analysis techniques are becoming obsolete. Thus, to ensure safety and security within the  Within IoT4CPS FPGA functions that assess the randomness of a  Very recently, progress has been made in using formal methods to show security properties of
+     Url https://iot4cps.at/wp-content/uploads/2019/07/IoT4CPS_D4.2_V11-final_formatok.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title On the limitations of software process assessment and the recognition of a required re-orientation for global process improvement
+     Author ['EM Gray', 'WL Smith']
+     Venue Software Quality Journal
+     Year 1998
+     Abstract in the more recent decades, for example CASE tools, various programming paradigms, formal methods and so on  SAM/Healthcheck by BT plc (UK) [11]; TRILLIUM by Bell Canada [12] SEI-Capability  of an optimal agreed model; a search for definitions of best practice norms as
+     Url https://link.springer.com/article/10.1023/B:SQJO.0000042057.89615.60
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Research of software tools for DO-254 projects
+     Author ['Y Tian', 'P Wang']
+     Venue … on Computer Science and Service System …
+     Year 2011
+     Abstract [6] M. Lange, Best Practice VHDL Coding Standards for DO-254 Programs, Position Paper, Rev  2009. [10] DO-254 Support for FPGA Design Flows, White Paper, Altera Corp., July 2008  [12] H. Foster, D. Landoll, M. Lange, Understanding Formal Methods for use in DO-254
+     Url https://ieeexplore.ieee.org/abstract/document/5975052/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Security metrics-a critical analysis of current methods
+     Author ['M Kaur', 'A Jones']
+     Venue NA
+     Year 2008
+     Abstract Manwinder Kaur, Andy Jones British Telecom plc manwinder.kaur@bt.com, andrew.28.jones@ bt.com  However, it is more often than not referred to as a best practice guide or a  views on the methods of assessing risk and there are just as many criticisms on the formal methods
+     Url https://ro.ecu.edu.au/isw/29/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of UML-modeled machine controls
+     Author ['T Klotz', 'E Fordran', 'B Straube']
+     Venue 2009 IEEE Conference on …
+     Year 2009
+     Abstract Efficient repre- sentation for formal verification of PLC programs  [12] TL Johnson. Improving automation software depend- ability: A role for formal methods  [15] J. Krasner. Model Driven Development of Certifi- able Software: A Best Practice for Safety-Critical Applications
+     Url https://ieeexplore.ieee.org/abstract/document/5347044/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Targetting PLDs for high-level High Integrity Systems Development
+     Author ['A Hilton', 'JG Hall']
+     Venue NA
+     Year 2002
+     Abstract data lines link packages together, and a block on the front of the FPGA manages communication  On applying software development best practice to FPGAs in safety-critical systems  In FM'99 — Formal Methods; Proceedings, volume 1709 of Lecture Notes in Computer Science
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.97.1630&rep=rep1&type=pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The PLC implementation of fractional-order operator using CFE approximation
+     Author ['K Oprzedkiewcz', 'W Mitkowski', 'E Gawin']
+     Venue International Conference …
+     Year 2017
+     Abstract The use of formal methods in PLC programming was considered for example in [10], an example of implementation for special, model based control  The implementation of special control algorithm at PLC should be done with respect to general guidelines formulated in the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-54042-9_2
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A PLC Implementation of PSE Approximant for Fractional Order Operator
+     Author ['K Oprzedkiewicz', 'E Gawin', 'W Mitkowski']
+     Venue Conference on Non-integer …
+     Year 2017
+     Abstract The use of formal methods in PLC programming was considered for example in [9], an example of implementation for special  It is obvious that each real implementation of special control algorithm at PLC should be done with respect to general guidelines formulated in the
+     Url https://link.springer.com/chapter/10.1007/978-3-319-78458-8_10
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Should we trust computers? Part II
+     Author ['M Thomas']
+     Venue Computer Fraud & Security Bulletin
+     Year 1988
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title User modelling and user interface design
+     Author ['C Kelly', 'L Colgan']
+     Venue People and computers
+     Year 1992
+     Abstract of computer users is, she says, qualitatively different from that anticipated by formal methods  The task-independent constraints produce general guidelines and are used to influence an abstract version  is the result of work carried out by British Aerospace plc (Sowerby Research
+     Url https://books.google.com/books?hl=en&lr=&id=J83pppQhUbkC&oi=fnd&pg=PA227&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=Z2gBZfG_S1&sig=xz68fbXcV0bJ_183P7rGtpdE1mU
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modelling system reliability aspects of ERTMS/ETCS by fault trees and Bayesian networks
+     Author ['F Flammini', 'S Marrone', 'N Mazzocca']
+     Venue Proc. European Safety …
+     Year 2006
+     Abstract the techniques used to evaluate system dependability for critical control systems, giving general guidelines  Formal methods allow to predict system reliability since early stages of system development  3 CPU cards with dedicated memory; a redundant FPGA- based majority
+     Url https://www.researchgate.net/profile/Francesco_Flammini/publication/203738559_Modeling_system_reliability_aspects_of_ERTMSETCS_by_Fault_Trees_and_Bayesian_Networks/links/56d6f9fb08aebe4638af04dc.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title University accreditation and the corporate learning agenda
+     Author ['C Prince']
+     Venue Journal of Management Development
+     Year 2004
+     Abstract will examine the issues associated with accreditation by highlighting some examples of best practice, drawing on  are best learned on the job, being too complex to be taught through formal methods  Case illustration: Bass plc.This illustration dates back to the early 1990s and is
+     Url https://www.emerald.com/insight/content/doi/10.1108/02621710410524113/full/html
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Advances in Systems Safety: Proceedings of the Nineteenth Safety-Critical Systems Symposium, Southampton, UK, 8-10th February 2011
+     Author ['C Dale', 'T Anderson']
+     Venue NA
+     Year 2010
+     Abstract 8–10th February 2011 The publication of these proceedings is sponsored by BAE Systems plc 123  in critical systems, and the second takes a pragmatic look at the use of formal methods  and effec- tive transfer and use of technology, the identification of best practice, the defini
+     Url https://books.google.com/books?hl=en&lr=&id=DEhtNRsMWXIC&oi=fnd&pg=PP6&dq=%22Best+practice%22+OR+%22General+guidelines%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=Z-AmUrYu5h&sig=HQe4rII27w7BDIlXPggVbbIIbRc
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Closing Session
+     Author ['P Maegaard']
+     Venue NA
+     Year NA
+     Abstract arrays, cellular processors Reconfigurable processing structures FPGA and ASIC  Logic synthesis Estimation and evaluation Formal methods HW description languages  oriented software Software design methodologies architectures Software best practice Theme subcommittee
+     Url https://ieeexplore.ieee.org/iel3/3987/11477/x0081020.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Banking on efficiency: -how DEA was used to look at the efficiency of a building society's branches
+     Author ['N Hand', 'L White']
+     Venue OR Insight
+     Year 1996
+     Abstract To date little has been published on formal methods for evaluating the appropriate inputs and outputs or for  Formerly business analyst in the fi- nance department at Abbey National plc  These branches appear satisfactory and may be useful as examples of best practice
+     Url https://www.tandfonline.com/doi/abs/10.1057/ori.1996.22
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Software support for metrology interim status report on the flow area.
+     Author ['R Paton']
+     Venue NA
+     Year 1999
+     Abstract with further information and will help in the identification of best-practice to be  Examples do exist where professional programmers are employed and full formal methods are used  Knowledge of PLC programming is generally low with some experts providing the support
+     Url http://eprintspublications.npl.co.uk/1254/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Towards safer industrial computer controlled systems
+     Author ['PR Croll', 'C Chambers', 'M Bowell', 'PWH Chung']
+     Venue Safe Comp 97
+     Year 1997
+     Abstract This can require the use of formal methods, especialIy where the aim is to demonstrate to a  and in the algorithms used to stop machines safely; and the use of PLC relay ladder  as general evidence of conformance to safety guidelines, by showing the use of 'best practice' at the
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0997-6_25
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title On controller and plant modeling for model-based formal verification
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko']
+     Venue 2005 IEEE Conference on …
+     Year 2005
+     Abstract 1. Introduction We apply formal methods for modeling and verification of shop-floor equipment used in factory automation  There are a number ofworks done in PLC modeling [1], [4], [13], [14] - to name just a few  [5] gave general guidelines of modeling LD code with TNCES
+     Url https://ieeexplore.ieee.org/abstract/document/1612510/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Applying lean thinking to new product introduction
+     Author ['B Haque', 'M James-Moore']
+     Venue Journal of Engineering design
+     Year 2004
+     Abstract Integration was achieved at different levels: (a) people via multifunctional teams; (b) processes via formal methods such as Quality Function Deployment (QFD), Design for X (DFx), and technology  A view was taken that not all-current best practice is necessarily Lean practice
+     Url https://www.tandfonline.com/doi/abs/10.1080/0954482031000150125
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Case Study–Creating the WCRM Concept of Operations
+     Author ['J Loubersac', 'B Halliday']
+     Venue idea
+     Year 2001
+     Abstract Requirements Engineering best practice provides some guidance that can be applied to try and  He has an excellent knowledge of formal methods and requirements engineering, in particular  In 1997 Brian joined Railtrack PLC as Systems Engineering Manager within the West
+     Url https://pdfs.semanticscholar.org/5c79/d2d38179172d0d6deb164edeeaea9a0d2c7a.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A formal design and implementation method for real-time embedded systems
+     Author ['S Bradley', 'W Henderson', 'D Kendall']
+     Venue … of EUROMICRO 96 …
+     Year 1996
+     Abstract Many formal methods for real-time systems have been proposed, but this technique (AORTA) is  respond; devel- opers might reasonably be expected to be aware of best-practice and use  International Research & Development Ltd., a sub- sidiary of Rolls-Royce PLC, amongst its
+     Url https://ieeexplore.ieee.org/abstract/document/546368/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Distributed Control Architecture for Automated Surgical Task Execution with Coordinated Robot Arms
+     Author ['M Bonfe', 'N Preda', 'C Secchi', 'F Ferraguti']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract (2012), we show that formal methods can be  of expert sur- geons is interviewed on the objectives of the surgical process, the main procedures (“best practice”) to be  It is important to remark that the events collection mech- anism of rFSM is quite different from the PLC-like execu
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016432349
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Data-centered runtime verification of wireless medical cyber-physical system
+     Author ['Y Jiang', 'H Song', 'R Wang', 'M Gu']
+     Venue IEEE transactions on …
+     Year 2016
+     Abstract It combines formal methods in software engineering and practice guide- lines in medicine to rigorously  data and complex temporal properties within a clinical scenario of best practice guideline are  into a netlist and loaded into dynamically reconfigurable blocks of FPGA [21], [16
+     Url https://ieeexplore.ieee.org/abstract/document/7480373/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Methods of improving the dependability of self-optimizing systems
+     Author ['R Dorociak', 'J Gausemeier']
+     Venue Dependability of Self-Optimizing Mechatronic …
+     Year 2014
+     Abstract 1. Condition monitoring and diagnostics of machines – General guidelines (ISO 17359:2011)  In: Proccedings of the 2nd International Symposium on Leveraging Applications of Formal Methods, Verification and Validation, ISoLA 2006 (2006), doi:10.1109/ISoLA.2006.38Google
+     Url https://link.springer.com/chapter/10.1007/978-3-642-53742-4_3
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Obtaining Diagnostic Coverage Metrics Using Rapid Prototyping of Multicore Systems
+     Author ['S Brewerton', 'R Schneider', 'F Bruno']
+     Venue SAE International Journal of …
+     Year 2011
+     Abstract the industry has also embraced the upcoming ISO26262 norm as a 'best practice' approach to  to be a check that can be performed on the TCP (FPGA plus Analogue  Infineon uses a multiple tiered verification environment suite, that includes Formal Methods, coverage driven
+     Url https://www.sae.org/publications/technical-papers/content/2011-01-1007/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title THE LEARNING
+     Author ['V VoN FraNk']
+     Venue NA
+     Year 2009
+     Abstract can help schools attain high levels of learning for all students by providing a clearinghouse of best practice options to  Cognitive and skill base Within the school there are formal methods for sharing expertise among faculty members so that mar  “We decided the PLC model was
+     Url https://learningforward.org/wp-content/uploads/sites/40/2009/04/april-2009-system.pdf
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Advancement and transfer of skills by reciprocal interaction of human skills and techniques via a production support system in the chemical Industry
+     Author ['H Eguchi', "D O'Donovan"]
+     Venue Journal of chemical engineering of Japan
+     Year 2010
+     Abstract The establishment of formal methods for the transfer of such skills is criti- cal as it  a collective de- cision may be taken to standardize the most effective content as organizational best practice  Noguchi and Y. Kozaki; “Model Predictive Control of Batch Reactor with PLC,” Keiso, 45
+     Url https://www.jstage.jst.go.jp/article/jcej/43/5/43_09We190/_article/-char/ja/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE 2020)
+     Author ['G Di Natale', 'C Bolchini', 'EI Vatajelu']
+     Venue NA
+     Year NA
+     Abstract for EDA, and the Deployment of deep learning networks on FPGA (Mathworks)  in the Exhibition Theatre, which will combine presentations by exhibiting companies, best-practice reports by  D4 Formal Methods and Verification DT5 Design and Test for Analog andMixed-Signal
+     Url https://ieeexplore.ieee.org/abstract/document/9116424/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The IP quality revolution
+     Author ['M Keating']
+     Venue International Symposium on Signals, Circuits and …
+     Year 2004
+     Abstract In the future, formal methods for specifying and verifying code may well add a great deal of mathematical  experts agree that a line-by-line walk-through of the code is the best practice, and that  Hardware validation of IP, either in an FPGA or in a test chip, is an important adjunct
+     Url https://ieeexplore.ieee.org/abstract/document/1283666/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Proposal of architecture and implementation process for IEC61508 compliant, dependable robot systems
+     Author ['R Hanai', 'H Saito', 'Y Nakabo', 'K Fujiwara']
+     Venue … on Robotics and …
+     Year 2012
+     Abstract It also recommends some software engineering techniques such as formal methods in each development  to be conducted, but gives objectives to be achieved and general guidelines when considering  The function blocks are based on traditional PLC lan- guages, which are
+     Url https://ieeexplore.ieee.org/abstract/document/6491136/
+
+
+     Search term "Best+practice"+OR+"General+guidelines"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Advance the Practice of Software Engineering
+     Author ['C OPPOR']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+

@@ -1,0 +1,91 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract the PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware  of Power Quality, Energy Management and Real Time Control, Hardware Simulation for Hybrid
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Real-time device-level transient electrothermal model for modular multilevel converter on FPGA
+     Author ['Z Shen', 'V Dinavahi']
+     Venue IEEE Transactions on Power Electronics
+     Year 2015
+     Abstract (9) Similarly, Thévenin equivalence for all SMs of the MMC are processed in parallel on the FPGA. rarm(Tvj ) and vHist arm (t  where n is the number of SMs in one converter arm. The dynam- ics of the other linear passive elements can also be discretized by Trapezoidal rule
+     Url https://ieeexplore.ieee.org/abstract/document/7336536/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Energy and performance evaluation of an FPGA-based SoC platform with AES and PRESENT coprocessors
+     Author ['X Guo', 'Z Chen', 'P Schaumont']
+     Venue International Workshop on Embedded …
+     Year 2008
+     Abstract The GEZEL cosimulation environment creates a platform simulator by com- bining a hardware simulation kernel with  Energy and Performance Evaluation of an FPGA-Based SoC Platform  IEEE Design and Test of Computers – Special Issue on Secure ICs for Secure Embedded
+     Url https://link.springer.com/chapter/10.1007/978-3-540-70550-5_12
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Concurrent hardware-software co-simulation
+     Author ['Y Tzori']
+     Venue US Patent 6,202,044
+     Year 2001
+     Abstract US6202044B1 - Concurrent hardware-software co-simulation - Google Patents. Concurrent hardware-software co-simulation. Download PDF Info. Publication number US6202044B1. US6202044B1 US09/096,672 US9667298A
+     Url https://patents.google.com/patent/US6202044B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Anyboard: An FPGA-based, reconfigurable system
+     Author ['DE Van den Bout', 'JN Morris', 'D Thomae']
+     Venue IEEE Design & Test …
+     Year 1992
+     Abstract than equivalent mask- programmed gate arrays or ASlCs (applicationspecific ICs). Low cost. An RS is much cheaper for each new application than an ASIC. Configuring an RS for a new task requires only that the PC user reprogram the connection of logic gates in each FPGA
+     Url https://ieeexplore.ieee.org/abstract/document/156155/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Training SCADA operators with real-time simulation
+     Author ['RJ Strand', 'AJ Clemmens']
+     Venue SCADA and Related …
+     Year 2005
+     Abstract an established system, the simulator had to interface with the SCADA system at the external communication layer–the same layer used to communicate with the RTU's or PLC's  The communication between the hardware simulation and the SCADA system uses the Modbus
+     Url https://mountainscholar.org/bitstream/handle/10217/46525/101_Proceedings%202005%20USCID%20Vancouver.pdf?sequence=1#page=327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract be a building block of the HIL simula- tion of either such a sophisticated, cyber-physical system like a  testing approach of power elec- tronics controls,” IEEE Transactions on Industrial Electron- ics, vol  4] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract [22] C. Dufour, J. Bélanger, S. Abourida, V. Lapointe, “FPGA-Based Real  Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  in the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Smart Grid Testbed using SCADA Software and Xbee Wireless Communication
+     Author ['A Soetedjo', 'A Lomi', 'YI Nakhoda']
+     Venue (IJACSA) International Journal of …
+     Year 2015
+     Abstract The proposed testbed combines both the software simulation and the hardware simulation  Our previous work [7] proposed the Smart Grid testbed using the SCADA (Supervisory Control and  It consists of the PLC (Power Line Communication) gateway that uses the power line
+     Url http://eprints.itn.ac.id/3140/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"+"PLC"+OR+"FPGA"
+     Title Design of PLC Experimental System Based on Siemens S7-200 [J]
+     Author ['J JIANG', 'Y LIU', 'M DENG', 'H HUANG']
+     Venue Research and Exploration in …
+     Year 2008
+     Abstract The system makes full use of soft-hardware simulation technology,MCU application technology, USB  Technical Institute,Kaifeng 475003,China);Design and Development of PLC-Based Grinding  China) Chen Jianfeng Zhao Dean;Study and Design of DCS System Based on
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYSY200808071.htm
+

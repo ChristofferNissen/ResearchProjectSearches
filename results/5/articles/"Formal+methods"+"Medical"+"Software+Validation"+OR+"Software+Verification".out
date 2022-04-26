@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Integrating formal methods into medical software development: The ASM approach
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini', 'A Mashkoor']
+     Venue Science of Computer …
+     Year 2018
+     Abstract Integrating formal methods into medical software development: The ASM approach  how the ASM-based design process covers most of the engineering activities required by the related standards, and provides rigorous approaches for medical software validation and verification
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301430
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title An invitation to formal methods
+     Author ['H Saiedian']
+     Venue Computer
+     Year 1996
+     Abstract challenging tasks in software system design is to assure reliability, especially as these systems are increasingly used in sensitive and often life-critical environments such as medical systems, air traffic control, and space applications. Many claim that formal methods not only
+     Url https://dl.acm.org/doi/abs/10.1109/MC.1996.488298
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Trends and challenges in algorithmic software verification
+     Author ['R Alur']
+     Venue Working Conference on Verified Software: Theories …
+     Year 2005
+     Abstract Trends and Challenges in Algorithmic Software Verification  When embedded software is employed in safety-critical applications such as automobiles and autonomous medical devices, the  This creates an opportunity and a challenge problem for the formal methods community
+     Url https://link.springer.com/chapter/10.1007/978-3-540-69149-5_26
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Trustable formal specification for software certification
+     Author ['D Méry', 'NK Singh']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2010
+     Abstract KL: A review of the fda draft guidance document for software validation: guidance for  2. A Research and Development Needs Report by NITRD: High-Confidence Medical Devices: Cyber  web.pdf 3. Bowen, J., Stavridou, V.: Safety-critical systems, formal methods and standards
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16561-0_31
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of medical monitoring software using Z language: a representative sample
+     Author ['SM Babamir', 'M Borhani']
+     Venue Journal of medical systems
+     Year 2012
+     Abstract According to what mentioned above, the patient monitoring is undertaken by software in modern medical devices and so software verification of such devices have been noticed. Fischmeister and Azim [6] and Baier et al [7] used formal methods timed automata and Labeled
+     Url https://link.springer.com/article/10.1007/s10916-011-9739-5
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification and Validation: The Role of IEC 60601-1
+     Author ['A Fernando']
+     Venue Biomedical instrumentation & technology
+     Year 2011
+     Abstract Formal testing can be used to demonstrate via formal methods (ie, topology and set theory) that  BS EN ISO 14971. Medical Devices – Application of risk management to medical devices. , Second Edition  Std 1059-1993 IEEE Guide for Software Verification and Validation Plans
+     Url https://meridian.allenpress.com/bit/article-abstract/45/5/370/142244
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title The challenges of high-confidence medical device software
+     Author ['Z Jiang', 'H Abbas', 'KJ Jang', 'R Mangharam']
+     Venue Computer
+     Year 2016
+     Abstract By explicitly allowing for nondetermin- ism in the systems they study, formal methods are well-suited for dealing with this uncertainty  lenge: how can investigators verify that a device works well in a popula- tion of patients who differ greatly in characteristics and medical history
+     Url https://ieeexplore.ieee.org/abstract/document/7383160/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Leveraging Applications of Formal Methods, Verification, and Validation: 4th International Symposium on Leveraging Applications, ISoLA 2010, Heraklion …
+     Author ['T Margaria', 'B Steffen']
+     Venue NA
+     Year 2010
+     Abstract of the Internet of Things • Learning techniques for software verification and validation  systems—an “aero- motive” perspective • Web science • Leveraging formal methods through collaboration  industrial scale validation • Certification of software-driven medical devices • Formal
+     Url https://books.google.com/books?hl=ru&lr=&id=_aBuCQAAQBAJ&oi=fnd&pg=PR2&dq=%22Formal+methods%22+%22Medical%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=ZLxg9BMW9W&sig=UVL_UbfhEL1D-KahZneVASXkweY
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Developing Medical Devices from Abstract State Machines to Embedded Systems: A Smart Pill Box Case Study
+     Author ['A Bombarda', 'S Bonfanti', 'A Gargantini']
+     Venue International Conference on …
+     Year 2019
+     Abstract As shown by [6], formal methods are increasingly used in the development of medical software and devices because human safety  been used to show how an hemodialysis machine can be designed providing a rigorous approach for medical software validation and verification
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29852-4_7
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title A systematic literature review of the use of formal methods in medical software systems
+     Author ['S Bonfanti', 'A Gargantini']
+     Venue Journal of Software …
+     Year 2018
+     Abstract A systematic literature review of the use of formal methods in medical software systems. Silvia Bonfanti  As shown in Figure 2, until 2004, only 5 publications have been published. Starting from 2004, the interest on application of formal methods to medical devices increases
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1943
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title The Role of Usability in Software Validation-Case: Medical Device Manufacturing
+     Author ['E Kaivosoja']
+     Venue NA
+     Year 2015
+     Abstract 10 medical device manufacturing or in implementation of the medical device manufacturer's quality system. [3]  [16] 3.2 Software Validation Software verification and validation (V&V) is performed in order to ensure the quality of the software
+     Url https://aaltodoc.aalto.fi/handle/123456789/18672
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling a cardiac pacemaker visually and formally
+     Author ['J Leemans', 'N Amálio']
+     Venue 2012 IEEE Symposium on Visual …
+     Year 2012
+     Abstract Recently, there has been interest in applying formal methods to this domain to answer regulators' increas  1]. This paper outlines a formal model of a cardiac pacemaker, a medical device that  an informal specification [2] of a pilot case study of the software verification challenge [3
+     Url https://ieeexplore.ieee.org/abstract/document/6344542/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Sound verification techniques for developing high-integrity medical device software
+     Author ['J Abraham', 'P Jones', 'R Jetley']
+     Venue ESC
+     Year 2009
+     Abstract verification and testing methods may not provide the optimum solution. This paper discusses the application of sound verification techniques in the development of high integrity medical device software. Specifically, this paper will explore the application of formal methods based
+     Url https://ww2.mathworks.cn/content/dam/mathworks/tag-team/Objects/f/55971_ESC-360Paper_TMW_FDA.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Software certification: methods and tools (Dagstuhl Seminar 13051)
+     Author ['D Cofer', 'J Hatcliff', 'M Huhn', 'M Lawford']
+     Venue Dagstuhl Reports
+     Year 2013
+     Abstract The latest advances in relevant formal methods for software verification, and integrating formal method with other quality assurance techniques such as testing in the context of certified system development  125 Software verification in the medical domain Jozef Hooman
+     Url https://drops.dagstuhl.de/opus/volltexte/2013/4011/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal development and automatic code generation: Cardiac pacemaker
+     Author ['D Méry', 'NK Singh']
+     Venue International Conference on …
+     Year 2011
+     Abstract Formal methods are very efficient techniques for formal ver- ification of a specification and to find  and a de-facto standard in many industrial application domains, such as medical, avionics and  Cardiac pacing system is a Grand Challenge in the area of Software Verification
+     Url https://pdfs.semanticscholar.org/f00e/3ebaa2602290babae42ea929f87edb477adc.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods and software safety
+     Author ['JP Bowen', 'V Stavridou']
+     Venue Safety of Computer Control Systems 1992 …
+     Year 1992
+     Abstract Deaths due to software in medical equipment have been documented elsewhere (eg, the  The factors that diminish the effectiveness of formal methods in this context are: · Some  Code size: Software Validation Phase: Number of Defects Avoided: Total Cost of Defects: Cost per
+     Url https://www.sciencedirect.com/science/article/pii/B9780080418933500203
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal validation and verification of a medical software critical component
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue … on Formal Methods …
+     Year 2015
+     Abstract that software validation and verification are conducted throughout the entire software life cycle. Both IEC standard and FDA principles aim for more rigor- ous approaches, based on the use of formal methods, to assure safety and reliability of software for medical devices [7
+     Url https://ieeexplore.ieee.org/abstract/document/7340473/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Failure modes in medical device software: an analysis of 15 years of recall data
+     Author ['DR Wallace', 'DR Kuhn']
+     Venue … Journal of Reliability, Quality and Safety …
+     Year 2001
+     Abstract 00058 Failure Modes in Medical Device Software 357  While recognizing the value of better specification methods, specifically formal methods in some of these situations, we classified most of these as logic problems at the point of failure
+     Url https://www.worldscientific.com/doi/abs/10.1142/S021853930100058X
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE SCHOOL OF INFORMATION TECHNOLOGY THE UNIVERSITY OF QUEENSLAND
+     Author ['P Lindsay', 'D Hemer']
+     Venue NA
+     Year 1997
+     Abstract a collaboration between Telec- tronics Pacing Systems and the Software Verification Re- search  Telectronics develops and manufactures software-driven medical devices such as implantable de  Existing formal methods were examined but were as- sessed as either not meeting
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.35.8281&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Cyber–physical modeling of implantable cardiac medical devices
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the IEEE
+     Year 2011
+     Abstract An effective software verification methodology is therefore needed for the risk analysis and certification of medical device software during the premarket submission phase. While formal methods of verification are used for medical device software [14]–[16], testing continues to be
+     Url https://ieeexplore.ieee.org/abstract/document/5985460/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of medical device user interfaces using PVS
+     Author ['P Masci', 'Y Zhang', 'P Jones', 'P Curzon']
+     Venue … Approaches to Software …
+     Year 2014
+     Abstract Keywords: Software verification, Medical devices, User interfaces. 1 Introduction  These previous efforts have demonstrated that formal methods can be used to identify human factors issues in reverse-engineered models of medical devices
+     Url https://link.springer.com/chapter/10.1007/978-3-642-54804-8_14
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification via Separation Logic
+     Author ['WN Chin']
+     Venue NA
+     Year NA
+     Abstract His recent research topics include software verification, memory resource analysis, OO genericity and  is an advisor to Cancer Research UK and to the UK Medical Research Council  and Internet Technology (ICDCIT), co-chair of the Brazilian Formal Methods Symposium (SBMF
+     Url https://ieeexplore.ieee.org/abstract/document/5521545/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification for Robotic Systems: A Systematic Mapping Study
+     Author ['A Somma', 'S Russo', 'R Pietrantuono']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Methods for Industrial Critical Systems: 18th International Workshop, FMICS 2013, Madrid, Spain, September 23-24, 2013, Proceedings
+     Author ['M Dierkes', 'C Pecheur']
+     Venue NA
+     Year 2013
+     Abstract Complex Digital System Design: A Methodology and Its Application to Medical Implants  and Stefan Kowalewski High-Level Guidance for Managers Deploying Formal Methods in Their  XIV Table of Contents Auditing User-Provided Axioms in Software Verification Conditions
+     Url https://books.google.com/books?hl=ru&lr=&id=U5u5BQAAQBAJ&oi=fnd&pg=PP5&dq=%22Formal+methods%22+%22Medical%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=NbvybhmnxE&sig=txdOUqAe50Xk2nRujTVE8b6dJE8
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title TEC~~ Q
+     Author ['PLD Hemer']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying software dependability principles to medical robotics
+     Author ['NJ Dowler']
+     Venue Computing & Control Engineering Journal
+     Year 1995
+     Abstract medical device (robotic) developers. Fault-tolerance, n~version program- ming, and to some degree formal methods require effort which is usually untransferable to the cost of the medical device. Exceptionally safe and reliable
+     Url https://digital-library.theiet.org/content/journals/10.1049/cce_19950504
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Applying SOFL to a generic insulin pump software design
+     Author ['CL Ling', 'W Shen', 'D Kountanis']
+     Venue International Workshop on Structured …
+     Year 2012
+     Abstract The application of formal methods in industrial practices has been hurdled by both the steep learning curve to master these methods and computational  Diabetes Science and Technology 4(2) (2010) [4] Vogel, D.: Medical Device Software Verification, Validation, and
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39277-1_9
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title A product-focused approach to software certification
+     Author ['T Maibaum', 'A Wassyng']
+     Venue Computer
+     Year 2008
+     Abstract These are considered entities with attributes, exactly like products, and thus their attributes must be specified and measured. The FDA's guidelines for medical software validation lack such objec- tive criteria  The first of these is the Pacemaker Formal Methods Challenge (www
+     Url https://ieeexplore.ieee.org/abstract/document/4454410/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Experiences from testing a radiotherapy support system with QuickCheck
+     Author ['AF Yamashita', 'A Bergqvist']
+     Venue Tests and Proofs: Papers …
+     Year 2008
+     Abstract 23. R. Jetley, P. Iyer and P. Jones: A Formal Methods Approach to Medical Device Review. IEEE Computer, 39 (4),(2006) 61–67 24. Food and Drug Administration (FDA).“General Principles of Software Validation: Final Guid- ance for Industry and FDA Staff”, FDA, 2002
+     Url https://hbz.opus.hbz-nrw.de/opus45-kola/files/209/2008_05_Arbeitsberichte.pdf#page=9
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title A framework of basics for sensor modelling, using Higher-Order Logic (HOL), as a sensing mechanics inference computational platform
+     Author ['DNT Kumar', 'Q Wei', 'T Dan']
+     Venue International Journal of Applied …
+     Year 2011
+     Abstract to support formal reasoning in many areas, including hardware and software verification  and safe functioning of industrial systems, like Nuclear Systems, Medical systems, Intelligent  Sensing, Higher Order Logic –HOL, Theorem Provers, Axioms, Formal Methods, Lemmas
+     Url http://www.indianjournals.com/ijor.aspx?target=ijor:ijaritac&volume=2&issue=3&article=006
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title How to assure correctness and safety of medical software: the hemodialysis machine case study
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini']
+     Venue … , Alloy, B, TLA, VDM, and Z
+     Year 2016
+     Abstract Jetley, R., Purushothaman Iyer, S., Jones, PL: A formal methods approach to medical device review  General principles of software validation; final guidance for industry and FDA staff, version 2.0, January 2002Google Scholar. Copyright inf.
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33600-8_30
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Real-time heart model for implantable cardiac device validation and verification
+     Author ['Z Jiang', 'M Pajic', 'A Connolly', 'S Dixit']
+     Venue 2010 22nd Euromicro …
+     Year 2010
+     Abstract and verify medical device software, as is currently done in the domains of avionics and industrial control automation [3]. Medical devices are  5]. While several cellular-based heart models exist [6], [7], [8], [9], they are useful for simulation only and not for software verification
+     Url https://ieeexplore.ieee.org/abstract/document/5562916/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title A framework of basics for sensor modelling, using Higher-Order Logic (HOL), as a sensing mechanics inference computational platform
+     Author ['DNT Kumar', 'Q Wei', 'T Dan']
+     Venue International Journal of Applied …
+     Year 2011
+     Abstract to support formal reasoning in many areas, including hardware and software verification  and safe functioning of industrial systems, like Nuclear Systems, Medical systems, Intelligent  Sensing, Higher Order Logic –HOL, Theorem Provers, Axioms, Formal Methods, Lemmas
+     Url http://www.indianjournals.com/ijor.aspx?target=ijor:ijaritac&volume=2&issue=3&article=006
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal methods and their future
+     Author ['G Musgrave', 'S Finn', 'M Francis', 'R Harris']
+     Venue … on Computer Aided …
+     Year 1993
+     Abstract These factors together with an increasing number of safety-critical applications in avionics, nuclear and medical fields have  Such high-level reasoning necessitates the use of formal methods and by bridging the knowledge gap it is  Automatic Software Verification and Synthesis
+     Url https://link.springer.com/chapter/10.1007/3-540-57601-0_49
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Hacker-proof coding
+     Author ['E Shein']
+     Venue NA
+     Year 2017
+     Abstract Formal software verification uses methods that don't rely on running the program; rather, they  The proof system used by DeepSpec and the UW medical center radiotherapy team for  Aviation Administration (FAA) has issued guidelines that allow the use of formal methods tools to
+     Url https://dl.acm.org/doi/fullHtml/10.1145/3105423
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Formalization of signaling system by process calculus
+     Author ['Y Ibayashi', 'S Nishizaki']
+     Venue IERI Procedia
+     Year 2014
+     Abstract example in core banking, enterprise resource planning systems, electronic medical record systems, telephone exchange systems, etc. In such fundamental systems, we desire not only correctness but also robustness. Formal methods, such as software verification, have focused
+     Url https://www.sciencedirect.com/science/article/pii/S2212667814001191
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Towards trustworthy medical devices and body area networks
+     Author ['M Zhang', 'A Raghunathan', 'NK Jha']
+     Venue Proceedings of the 50th Annual …
+     Year 2013
+     Abstract There- fore, formal methods provide a means to symbolically exam- ine the entire state  leverage the power of formal verification in the context of medical devices [24]. First, current software verification tools target specifications written in high-level programming languages, and
+     Url https://dl.acm.org/doi/abs/10.1145/2463209.2488751
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Compositional, approximate, and quantitative reasoning for medical cyber-physical systems with application to patient-specific cardiac dynamics and devices
+     Author ['R Grosu', 'E Cherry', 'EM Clarke', 'R Cleaveland']
+     Venue … of Formal Methods …
+     Year 2014
+     Abstract its current trajectory, unless a systematic approach for medical device software verification, validation and  requisite data will be obtained from ablation and other medical, cardiac-related  In: Proceedings of the 13th International Conference on Formal Methods in Computer Aided
+     Url https://link.springer.com/chapter/10.1007/978-3-662-45231-8_26
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title High-confidence medical device software development
+     Author ['Z Jiang', 'R Mangharam']
+     Venue NA
+     Year 2015
+     Abstract and the lack of existing industry standards to enforce software validation make this an ideal domain for exploring design automation challenges for integrated functional and formal modeling with closed-loop analysis. The primary goal of high-confidence medical device software
+     Url https://repository.upenn.edu/mlab_papers/76/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title SE547: Lecture
+     Author ['A Jeffrey']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE DEPARTMENT OF COMPUTER SCIENCE THE UNIVERSITY OF QUEENSLAND
+     Author ['P Lindsay', 'D Hemer', 'R Matthews', 'K Harwood', 'T Arens']
+     Venue NA
+     Year 1995
+     Abstract SOFTWARE VERIFICATION RESEARCH CENTRE  Telectronics develops and manufactures software- driven medical devices such as implantable de brillators. The company has long been motivated to investigate the use of formal methods for the economical and timely de
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.36.66&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to Special Issue on Application of Concurrency to System Design (ACSD'13)
+     Author ['J Carmona', 'MT Lazarescu', 'M Pietkiewicz-koutny']
+     Venue NA
+     Year 2014
+     Abstract Many formal methods were introduced for their specification and verification, such as Petri  develop- ments in the game industry and Internet and medical applications, new  concurrency plays a significant role, including software engineering, software verification, mathematics of
+     Url https://dl.acm.org/doi/pdf/10.1145/2627347
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Trustworthiness of medical devices and body area networks
+     Author ['M Zhang', 'A Raghunathan', 'NK Jha']
+     Venue Proceedings of the IEEE
+     Year 2014
+     Abstract Therefore, formal methods provide a means to symbolically examine the entire state space of a  leverage the power of formal verification in the context of medical devices [34  First, current software verification tools target specifications written in high-level programming languages
+     Url https://ieeexplore.ieee.org/abstract/document/6827202/
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Assurance and Certification of Software Artifacts for High-Confidence Medical Devices
+     Author ['P Jones']
+     Venue High Confidence Medical Device Software and …
+     Year 2005
+     Abstract Software validation, like other parts of the Quality System Regulation, is driven by the  patients, and to provide them with assurance that the medical devices used  These include process-oriented methodologies, testing, formal methods, and programming language technologies
+     Url https://rtg.cis.upenn.edu/hcmdss/Papers/submissions/19.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Computerised controllers for safety critical medical applications
+     Author ['WA Halang', 'M Śnieżek', 'M Colnarič']
+     Venue International journal of medical …
+     Year 1998
+     Abstract elements within a given function block library employing appropriate (formal) methods before being  Employing diverse back translation for software verification is facilitated by the problem oriented  Many safety related control programs, including medical ones, have the form of
+     Url https://www.sciencedirect.com/science/article/pii/S1386505698000379
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title KORSO: Methods, Languages, and tools for the Construction of Correct Software
+     Author ['M Broy', 'S Jähnichen']
+     Venue NA
+     Year 1995
+     Abstract The last paper in this part, The Kiv Approach to Software Verification describes the Kiv (Karlsruhe Interactive Verifier) system, focusing  Even the last paper in this volume, The KORSO Case Study for Software Engineering with Formal Methods: A Medical Information System, is
+     Url https://books.google.com/books?hl=ru&lr=&id=hdbEx47O7H4C&oi=fnd&pg=PA1&dq=%22Formal+methods%22+%22Medical%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=8zirTohYFf&sig=IGOWBCk7hnA5f6yCqlJsKQEutzU
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to Special Issue on Application of Concurrency to System Design (ACSD'13)
+     Author ['L Zhang', 'H Hermanns', 'JC Godskesen']
+     Venue NA
+     Year NA
+     Abstract Many formal methods were introduced for their specification and verification, such as Petri  developments in the game industry and Internet and medical applications, new  concurrency plays a significant role, including software engineering, software verification, mathematics of
+     Url https://core.ac.uk/download/pdf/76525557.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Med-Trace: traceability assessment method for medical device software development
+     Author ['V Casey', 'F Mc Caffery']
+     Venue NA
+     Year 2011
+     Abstract in The 4th international conference on Leveraging applications of formal methods, verification, and  laws of the Members States relating to active implantable medical devices  Center for Devices and Radiological Health, General Principles of Software Validation; Final Guidance
+     Url https://ulir.ul.ie/handle/10344/1746
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Utilizing multicore architectures to enhance software verification in real-time embedded systems
+     Author ['PJ Fogarty']
+     Venue NA
+     Year 2013
+     Abstract It is the challenges associated with software verification on that embedded platform which is the subject of this research  and off-line recording/display. Using a case-study from an actual medical device, the author  In spite of shortcomings, formal methods research has
+     Url https://ulir.ul.ie/handle/10344/3602
+
+
+     Search term "Formal+methods"+"Medical"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of software for medical device user interfaces in PVS
+     Author ['P Masci', 'Y Zhang', 'P Curzon', 'MD Harrison']
+     Venue … paper, URL http …
+     Year 2013
+     Abstract Keywords: Software verification; Medical devices; User interfaces; Theorem proving. 1 Introduction  These previous efforts have demonstrated that formal methods can be used to identify human factors issues in reverse engineered models of medical devices
+     Url https://www.researchgate.net/profile/Yi_Zhang35/publication/259931008_Verification_of_Software_for_Medical_Device_User_Interfaces_in_PVS/links/0f31752e9461bef3bc000000/Verification-of-Software-for-Medical-Device-User-Interfaces-in-PVS.pdf
+

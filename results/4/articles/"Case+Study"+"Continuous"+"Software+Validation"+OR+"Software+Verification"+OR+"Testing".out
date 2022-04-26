@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Test case prioritization for continuous regression testing: An industrial case study
+     Author ['D Marijan', 'A Gotlieb', 'S Sen']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract Regression testing in continuous integration environment is bounded by tight time constraints. To satisfy time constraints and achieve testing goals, test cases must be efficiently ordered in execution. Prioritization techniques are commonly used to order test
+     Url https://ieeexplore.ieee.org/abstract/document/6676952/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automated testing in the continuous delivery pipeline: A case study of an online company
+     Author ['J Gmeiner', 'R Ramler', 'J Haslinger']
+     Venue … on Software Testing …
+     Year 2015
+     Abstract Companies running an online business need to be able to frequently push new features and bug fixes from development into production. Successful high-performance online companies deliver code changes often several times per day. Their continuous delivery model supports
+     Url https://ieeexplore.ieee.org/abstract/document/7107423/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Reducing wasted development time via continuous testing
+     Author ['D Saff', 'MD Ernst']
+     Venue 14th International Symposium on Software …
+     Year 2003
+     Abstract wasted time by 4–41% in our case study. Changing the frequency with which tests are run can reduce wasted time by 31–82% (but developers cannot know the ideal fre- quency except after the fact). We introduce and evaluate a new technique, continuous testing, that uses
+     Url https://ieeexplore.ieee.org/abstract/document/1251050/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Visualizing testing activities to support continuous integration: A multiple case study
+     Author ['A Nilsson', 'J Bosch', 'C Berger']
+     Venue International Conference on Agile Software …
+     Year 2014
+     Abstract While efficient testing arrangements are the key for software companies that are striving for continuous integration, most companies struggle with arranging these highly complex and interconnected testing activities. There is often a lack of an adequate overview of companies'
+     Url https://link.springer.com/chapter/10.1007/978-3-319-06862-6_12
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Techniques for improving regression testing in continuous integration development environments
+     Author ['S Elbaum', 'G Rothermel', 'J Penix']
+     Venue Proceedings of the 22nd ACM …
+     Year 2014
+     Abstract A few pieces of work do address continuous integration and test- ing. Saff and Ernst [26] consider a form of continuous testing in which regression tests are run continuously as developers write code  [21] briefly present a prioritization algorithm for continuous regression testing
+     Url https://dl.acm.org/doi/abs/10.1145/2635868.2635910
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Search-based automated testing of continuous controllers: Framework, tool support, and case studies
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue Information and …
+     Year 2015
+     Abstract Conclusion. We propose an automated approach to MiL testing of continuous controllers using search. The approach is implemented in a tool and has been successfully applied to a real case study from the automotive domain. Previous article in issue; Next article in issue
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914001244
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Stakeholder Perceptions of the Adoption of Continuous Integration--A Case Study
+     Author ['E Laukkanen', 'M Paasivaara']
+     Venue 2015 agile conference
+     Year 2015
+     Abstract We interviewed 27 stakeholders and found differing perceptions of continuous integration: how suitable it is for  adoption should be organized, and whether it is possible to achieve sufficient quality through automated testing  Based on the case study, we propose three guidelines
+     Url https://ieeexplore.ieee.org/abstract/document/7284593/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automated continuous testing of multi-agent systems
+     Author ['CD Nguyen', 'A Perini', 'P Tonella', 'FB Kessler']
+     Venue The fifth European workshop …
+     Year 2007
+     Abstract discovered error through the bug tracking system. The results obtained from the case study indicate that continuous testing has a big potential to complement the manual testing activity. In fact, especially for faults involving long
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.114.4261&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous experimentation and a/b testing: A mapping study
+     Author ['R Ros', 'P Runeson']
+     Venue … Workshop on Rapid Continuous Software …
+     Year 2018
+     Abstract The reason for wanting to stop early is to reduce opportunity cost and the reason not to is due to issues with multiple testing caused by continuous monitoring (which is not allowed in classic statistics without adjustment). Another
+     Url https://ieeexplore.ieee.org/abstract/document/8452106/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An experimental evaluation of continuous testing during development
+     Author ['D Saff', 'MD Ernst']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2004
+     Abstract Continuous Testing During Development David Saff Michael D. Ernst  ABSTRACT Continuous testing uses excess cycles on a developer's workstation to continuously run regression tests in the background, providing rapid feedback about test failures as source code is edited
+     Url https://dl.acm.org/doi/abs/10.1145/1013886.1007523
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Understanding DevOps & bridging the gap from continuous integration to continuous delivery
+     Author ['M Virmani']
+     Venue Fifth International Conference on the Innovative …
+     Year 2015
+     Abstract Continuous Integration Continuous Delivery Continuous Testing CCC ooo nnn ttt iii nnn uuu ooo uuu sss DDD eee ppp lll ooo yyy m mm eee nnn ttt ttt ooo PPP rrr ooo ddd uuu ccc ttt iii ooo nnn Optional Feedback Calls 80 Page 4. B. How to bridge the gap : case study
+     Url https://ieeexplore.ieee.org/abstract/document/7173368/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous TTCN-3: testing of embedded control systems
+     Author ['I Schieferdecker', 'E Bringmann']
+     Venue Proceedings of the 2006 …
+     Year 2006
+     Abstract With the application of these testing principles it became apparent that the testing of systems with continuous  the initial design of Continuous TTCN-3. It presents the concepts for specifying continuous and hybrid test  The TTCN-3 extensions are demonstrated for a case study.1
+     Url https://dl.acm.org/doi/abs/10.1145/1138474.1138481
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Taming Google-scale continuous testing
+     Author ['A Memon', 'Z Gao', 'B Nguyen', 'S Dhanda']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract Page 1. Taming Google-Scale Continuous Testing Atif Memon, Zebao Gao Department of Computer Science, University of Maryland, College Park, USA Email: {atif,gaozebao}@cs. umd.edu  Keywords-software testing, continuous integration, selection
+     Url https://ieeexplore.ieee.org/abstract/document/7965447/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Bifrost: Supporting continuous deployment with automated enactment of multi-phase live testing strategies
+     Author ['G Schermann', 'D Schöni', 'P Leitner']
+     Venue Proceedings of the 17th …
+     Year 2016
+     Abstract Live testing is used in the context of continuous delivery and deployment to  tion that allows developers to define and automatically enact complex live testing strategies  behavior of Bifrost in three rollout scenarios of a microservice-based case study application, and
+     Url https://dl.acm.org/doi/abs/10.1145/2988336.2988348
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Experienced benefits of continuous integration in industry software product development: A case study
+     Author ['D Ståhl', 'J Bosch']
+     Venue The 12th IASTED International Conference on …
+     Year 2013
+     Abstract the data presented above, we find that the first hypothesis (continuous integration supports the agile testing practices of automated customer acceptance tests and writing unit tests in conjunction with production code) can not be validated by this case study, although interesting
+     Url http://www.actapress.com/PDFViewer.aspx?paperId=455452
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Test re-prioritization in continuous testing environments
+     Author ['Y Zhu', 'E Shihab', 'PC Rigby']
+     Venue 2018 IEEE International …
+     Year 2018
+     Abstract This paper is organized as follows. We provide background on continuous testing in Section II. Section III summarizes the related work. Section IV sets up our case study and introduces our proposed re-prioritization algorithms and evaluation criteria
+     Url https://ieeexplore.ieee.org/abstract/document/8530018/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An automated framework for buildings continuous commissioning and performance testing–A university building case study
+     Author ['M Jradi', 'N Liu', 'K Arendt', 'CG Mattera']
+     Venue Journal of Building Engineering
+     Year 2020
+     Abstract One of the main challenges facing the building sector nowadays is the reported mismatch between the predicted and the actual performance throughout the building operational phase. This mismatch is referred to as the 'building performance gap'. In this regard, the
+     Url https://www.sciencedirect.com/science/article/pii/S2352710220302412
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing for unequal amounts of evolution in a continuous character on different branches of a phylogenetic tree using linear and squared‐change parsimony: an …
+     Author ['MA Butler', 'JB Losos']
+     Venue Evolution
+     Year 1997
+     Abstract a large body of work investigating tests of correlated evolution of two continuous characters exists  In this study, we present a methodology for testing such a hypothesis using ancestral character  As a case study, we tested a hypothesis of character displacement in body size of
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1558-5646.1997.tb01485.x
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A learning algorithm for optimizing continuous integration development and testing practice
+     Author ['D Marijan', 'A Gotlieb', 'M Liaaen']
+     Venue Software: Practice and …
+     Year 2019
+     Abstract 4. We perform a more comprehensive evaluation of the algorithm and the overall approach to test redundancy reduction by introducing a novel case study of continuous regression testing, which reduces the threat to the external validity of our results
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2661
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous integration and visual gui testing: Benefits and drawbacks in industrial practice
+     Author ['E Alégroth', 'A Karlsson']
+     Venue … on Software Testing …
+     Year 2018
+     Abstract CI in industrial practice [1]. The descriptive model is also verified through an illustrative case study  of CI as a baseline for more stringent, associated, practices such as continuous delivery and  This work focuses on automated testing, which is stated as a key mechanism for CI to
+     Url https://ieeexplore.ieee.org/abstract/document/8367046/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploratory testing of large-scale systems–testing in the continuous integration and delivery pipeline
+     Author ['T Mårtensson', 'D Ståhl', 'J Bosch']
+     Venue International Conference on Product …
+     Year 2017
+     Abstract Both engineers and test pilots embraced exploratory testing, and appreciated more freedom. Coordination with other test activities in the continuous integration and delivery pipeline was described as a problem at the beginning of the case study, but this improved later on
+     Url https://link.springer.com/chapter/10.1007/978-3-319-69926-4_26
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Automated model-in-the-loop testing of continuous controllers using search
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue … Symposium on Search …
+     Year 2013
+     Abstract Our case study is a Supercharger Bypass Flap Position Control (SBPC) module. SBPC is an air compressor blowing into a turbo-compressor to Page 11. Automated Model-in-the-Loop Testing of Continuous Controllers Using Search 151
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39742-4_12
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous integration and visual gui testing: Benefits and drawbacks in industrial practice
+     Author ['E Alégroth', 'A Karlsson']
+     Venue … on Software Testing …
+     Year 2018
+     Abstract CI in industrial practice [1]. The descriptive model is also verified through an illustrative case study  of CI as a baseline for more stringent, associated, practices such as continuous delivery and  This work focuses on automated testing, which is stated as a key mechanism for CI to
+     Url https://ieeexplore.ieee.org/abstract/document/8367046/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Enhanced regression testing technique for agile software development and continuous integration strategies
+     Author ['S Ali', 'Y Hafeez', 'S Hussain', 'S Yang']
+     Venue Software Quality Journal
+     Year 2019
+     Abstract Page 1. Enhanced regression testing technique for agile software development and continuous integration strategies Sadia Ali1 & Yaser Hafeez1 & Shariq Hussain2 & Shunkun Yang3 © Springer Science+Business Media, LLC, part of Springer Nature 2019
+     Url https://link.springer.com/content/pdf/10.1007/s11219-019-09463-4.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Signal generation for search-based testing of continuous systems
+     Author ['A Windisch', 'N Al Moubayed']
+     Venue … conference on software testing …
+     Year 2009
+     Abstract Both white- and black-box test- ing techniques would be applicable for continuous systems with it  to generating input signals capable of solving the problems of evolutionary testing is to  briefly in section 3.1, the results of the experimental approx- imation case study is presented
+     Url https://ieeexplore.ieee.org/abstract/document/4976377/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Adopting continuous integration-a case study
+     Author ['L Hukkanen']
+     Venue NA
+     Year 2015
+     Abstract Test environments cause significant complications, while testing in these environments reveals few human mistakes in programming work. Keywords: continuous integration, CI, case study, process improvement, software, agile software development, ASD Language: English ii
+     Url https://aaltodoc.aalto.fi/handle/123456789/17798
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Testing landscape metrics as indicators of habitat loss and fragmentation in continuous eucalypt forests (Queensland, Australia)
+     Author ['CA McAlpine', 'TJ Eyre']
+     Venue Landscape Ecology
+     Year 2002
+     Abstract model based on relevant ecological theory is an essential prequisite to empirically testing landscape metrics  Montreal Process Indicator 1.1e, fragmentation of for- est types, for continuous dry eucalypt  The study is one of three case study areas for developing Montreal Pro- cess
+     Url https://link.springer.com/article/10.1023/A:1022902907827
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Effect of time window on the performance of continuous regression testing
+     Author ['D Marijan', 'M Liaaen']
+     Venue 2016 IEEE International Conference on …
+     Year 2016
+     Abstract results show that by varying the size of the window, we can achieve up to threefold improvement in fault-detection performance of continuous regression testing. In the remainder of the paper, we set the context for our research, motivated by an industrial case study, and present
+     Url https://ieeexplore.ieee.org/abstract/document/7816510/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Evolutionary functional testing of continuous control systems
+     Author ['A Windisch', 'F Lindlar', 'S Topuz', 'S Wappler']
+     Venue Proceedings of the 11th …
+     Year 2009
+     Abstract Features of this test environment include the ability of automatically generating and optimizing continuous test data sets. The efficiency of the method is assessed by performing an exper- imental case study and by comparison with random testing
+     Url https://dl.acm.org/doi/abs/10.1145/1569901.1570249
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous software engineering and beyond: trends and challenges
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue … 1st International Workshop on Rapid Continuous …
+     Year 2014
+     Abstract a case study of the development of a mission-critical weapons system that followed a waterfall lifecycle augmented with the concept of 'continuous verifica- tion.' Each phase (requirements analysis, high level design, detailed design, code, unit testing, integration testing) was
+     Url https://dl.acm.org/doi/abs/10.1145/2593812.2593813
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Monitored natural recovery of contaminated marine sediments. Proposal of a monitoring plan for in situ continuous testing and sensing
+     Author ['S De Gisi', 'D Minetto', 'F Todaro']
+     Venue 2017 IEEE …
+     Year 2017
+     Abstract 25] suggested the use of in situ bioaccumulation and toxicity testing, continuous water quality sensing and multi-phase chemical analyses. Thus, the proposal of monitoring plan for the case study addressed need to be improved also using sensors and measurements in remote
+     Url https://ieeexplore.ieee.org/abstract/document/7969744/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Optimal selection and release problem in software testing process: A continuous time stochastic control approach
+     Author ['P Cao', 'K Yang', 'K Liu']
+     Venue European Journal of Operational Research
+     Year 2020
+     Abstract release problem for a software testing process. • The problem is formulated as a continuous time stochastic control model. • A threshold structure of the optimal release policy is derived. • Simple structures of the optimal selection policy are obtained. • A case study is conducted
+     Url https://www.sciencedirect.com/science/article/pii/S0377221719301560
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Communication between developers and testers in distributed continuous agile testing
+     Author ['DS Cruzes', 'NB Moe', 'T Dybå']
+     Venue 2016 IEEE 11th International …
+     Year 2016
+     Abstract Distributed Continuous Agile Testing  We have previously described an experience report in which we describe how continuous testing based on continuous and frequent feedback ensures knowledge sharing and safe- guarding the quality of the system under development [21]
+     Url https://ieeexplore.ieee.org/abstract/document/7577420/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Towards continuous software reliability testing in DevOps
+     Author ['R Pietrantuono', 'A Bertolino']
+     Venue 2019 IEEE/ACM 14th …
+     Year 2019
+     Abstract We overview the envisaged test and monitoring pipeline, describe the approach and present a case-study evaluating how reliability assessment  to a system and the change being placed into normal production, while ensuring high quality” [4]. Continuous testing and monitoring
+     Url https://ieeexplore.ieee.org/abstract/document/8822025/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Trade-offs in continuous integration: assurance, security, and flexibility
+     Author ['M Hilton', 'N Nelson', 'T Tunnell', 'D Marinov']
+     Venue Proceedings of the 2017 …
+     Year 2017
+     Abstract Danny Dig Oregon State University, USA digd@oregonstate.edu ABSTRACT Continuous integration (CI) systems automate the compilation, building, and testing of software  KEYWORDS Continuous Integration, Automated Testing
+     Url https://dl.acm.org/doi/abs/10.1145/3106237.3106270
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Test Case Prioritization in Continuous Integration environments: A systematic mapping study
+     Author ['JAP Lima', 'SR Vergilio']
+     Venue Information and Software Technology
+     Year 2020
+     Abstract 41. 2013, Marijan et al. [45], Test Case Prioritization for Continuous Regression Testing: An Industrial Case Study, 73. 2014, Elbaum et al. [46], Techniques for Improving Regression Testing in Continuous Integration Development Environments, 157
+     Url https://www.sciencedirect.com/science/article/pii/S0950584920300185
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title An empirical study of activity, popularity, size, testing, and stability in continuous integration
+     Author ['A Gautam', 'S Vishwasrao']
+     Venue 2017 IEEE/ACM 14th …
+     Year 2017
+     Abstract H. Alahyari, and J. Bosch, “Climbing the” stairway to heaven”–a mulitiple-case study exploring barriers in  Synthesizing travis ci and github for full-stack research on continuous integration,” in  and F. Servant, “An Empirical Study of Activity, Popularity, Size, Testing, and Stability in
+     Url https://ieeexplore.ieee.org/abstract/document/7962405/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Transitioning towards continuous delivery in the B2B domain: a case study
+     Author ['O Rissanen', 'J Münch']
+     Venue International Conference on Agile Software …
+     Year 2015
+     Abstract This article presents a case study that is conducted in a medium-sized software company operating  of this study is to analyze the challenges and benefits of continuous delivery in  Some customers require to perform manual accep- tance testing, while some are reluctant towards
+     Url https://link.springer.com/chapter/10.1007/978-3-319-18612-2_13
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A systematic study of reward for reinforcement learning based continuous integration testing
+     Author ['Y Yang', 'Z Li', 'L He', 'R Zhao']
+     Venue Journal of Systems and Software
+     Year 2020
+     Abstract A systematic study of reward for reinforcement learning based continuous integration testing  The continuous integration system itself is continuously modified and updated, which requires continuous testing in a fast time frame
+     Url https://www.sciencedirect.com/science/article/pii/S0164121220301965
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration
+     Author ['A Bertolino', 'A Guerriero', 'B Miranda']
+     Venue Proceedings of the …
+     Year 2020
+     Abstract Learning-to-Rank vs Ranking-to-Learn: Strategies for Regression Testing in Continuous Integration Antonia Bertolino antonia.bertolino@isti.cnr.it ISTI - CNR Pisa, Italy  2020. Learning-to-Rank vs Ranking-to-Learn: Strategies for Regression Testing in Continuous
+     Url https://dl.acm.org/doi/abs/10.1145/3377811.3380369
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Quality and productivity outcomes relating to continuous integration in GitHub
+     Author ['B Vasilescu', 'Y Yu', 'H Wang', 'P Devanbu']
+     Venue Proceedings of the 2015 …
+     Year 2015
+     Abstract by a project using CI, the contribution is merged automatically into a testing branch, and  2013/09/28/automate-all-the-things- continuous-integration-and-continuous-deployment-at  Bhattacharya [4] reports on an industrial case study from an insurance company, where developer
+     Url https://dl.acm.org/doi/abs/10.1145/2786805.2786850
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Improving continuous integration with similarity-based test case selection
+     Author ['FG de Oliveira Neto', 'A Ahmad', 'O Leifler']
+     Venue Proceedings of the 13th …
+     Year 2018
+     Abstract CCS CONCEPTS • Software and its engineering → Software verification and validation; Software maintenance tools  3 CASE STUDY We perform a case study with the objective of exploring the  of using similarity-based test case selection to leverage continuous integration by
+     Url https://dl.acm.org/doi/abs/10.1145/3194733.3194744
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous performance testing in virtual time
+     Author ['N Baltas', 'T Field']
+     Venue 2012 Ninth International Conference on …
+     Year 2012
+     Abstract and illustrate the principles involved by way of a simple Java application development case study. I. INTRODUCTION In this paper, we present a new approach to software performance engineering that supports continuous software performance testing throughout the
+     Url https://ieeexplore.ieee.org/abstract/document/6354629/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Cost-effective regression testing using bloom filters in continuous integration development environments
+     Author ['JH Kwon', 'IY Ko']
+     Venue 2017 24th Asia-Pacific Software Engineering …
+     Year 2017
+     Abstract Regression testing in continuous integration devel- opment environments must be cost-effective and should provide fast feedback on test suite failures to the developers. In order to provide faster feedback on failures
+     Url https://ieeexplore.ieee.org/abstract/document/8305938/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Combining model-based testing and continuous integration
+     Author ['M Koskinen', 'D Truscan', 'T Ahmad']
+     Venue ICSEA 2013, The …
+     Year 2013
+     Abstract A case study on developing an in-house academic tool is presented in which the online model-based testing approach is used with the continuous integration process. Keywords— Continuous Integration; Model-Based Testing; UP- PAAL Timed Automata I. INTRODUCTION
+     Url https://www.researchgate.net/profile/Tanwir_Ahmad2/publication/281280222_Combining_Model-Based_Testing_and_Continuous_Integration/links/5ec79845a6fdcc90d68cb141/Combining-Model-Based-Testing-and-Continuous-Integration.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Usage, costs, and benefits of continuous integration in open-source projects
+     Author ['M Hilton', 'T Tunnell', 'K Huang']
+     Venue 2016 31st IEEE/ACM …
+     Year 2016
+     Abstract Continuous integration (CI) systems automate the compila- tion, building, and testing of software. Despite CI rising as a big success story in automated software engineering, it has received almost no attention from the research community
+     Url https://ieeexplore.ieee.org/abstract/document/7582778/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Exploring the ability of oscillation based test for testing continuous-time ladder filters
+     Author ['JL Catalano', 'G Peretti', 'E Romero']
+     Venue … Symposium on Quality …
+     Year 2006
+     Abstract In this work, we explore the ability of OBT for test- ing continuous-time low-pass Butterworth and elliptic  An alternative approach for evaluating the testing structures is also proposed in the paper  [4] E. Romero, G. Peretti, and C. Marqués: “Oscillation Test Strategy: a Case Study”
+     Url https://ieeexplore.ieee.org/abstract/document/1613195/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A Workflow for Continuous Performance Testing in Smart Buildings
+     Author ['E Markoska', 'S Lazarova-Molnar']
+     Venue European Conference on Ambient …
+     Year 2018
+     Abstract Continuous commissioning can be implemented through performance testing which analyses a building's behavior  In this paper, we present a workflow for performance testing in smart buildings  from the different models with the observed behavior of a case study building in
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03062-9_4
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title CiCUTS: combining system execution modeling tools with continuous integration environments
+     Author ['JH Hill', 'DC Schmidt', 'AA Porter']
+     Venue 15th Annual IEEE …
+     Year 2008
+     Abstract issues, as opposed to wrestling with tedious and error-prone low-level testing concerns  CiCUTS, which combines the CUTS SEM tool with the CruiseControl.NET continuous integration envi  Second, we present a case study that shows how CiCUTS helps reduce the time and
+     Url https://ieeexplore.ieee.org/abstract/document/4492388/
+
+
+     Search term "Case+Study"+"Continuous"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous Security Testing: A Case Study on Integrating Dynamic Security Testing Tools in CI/CD Pipelines
+     Author ['T Rangnau', 'R Buijtenen', 'F Fransen']
+     Venue 2020 IEEE 24th …
+     Year 2020
+     Abstract Continuous Integration (CI) and Continuous Delivery (CD) have become a well-known practice in DevOps to ensure fast delivery of new features. This is achieved by automatically testing and releasing new software versions, eg multiple times per day. However, classical
+     Url https://ieeexplore.ieee.org/abstract/document/9233212/
+

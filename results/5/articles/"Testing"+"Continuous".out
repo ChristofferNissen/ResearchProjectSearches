@@ -1,0 +1,451 @@
+Showing papers for search query "Testing"+"Continuous"
+
+     Search term "Testing"+"Continuous"
+     Title Testing continuous-time models of the spot interest rate
+     Author ['Y Ait-Sahalia']
+     Venue The review of financial studies
+     Year 1996
+     Abstract Different continuous-time models for interest rates coexist in the literature. We test parametric models by comparing their implied parametric density to the same density estimated nonparametrically. We do not replace the continuous-time model by discrete
+     Url https://academic.oup.com/rfs/article-abstract/9/2/385/1630735
+
+
+     Search term "Testing"+"Continuous"
+     Title Software testing and continuous quality improvement
+     Author ['WE Lewis']
+     Venue NA
+     Year 2017
+     Abstract It is often assumed that software testing is based on clearly defined requirements and software development standards. However, testing is typically performed against changing, and sometimes inaccurate, requirements. The third edition of a bestseller, Software Testing
+     Url https://books.google.com/books?hl=en&lr=&id=fgaBDd0TfT8C&oi=fnd&pg=PP1&dq=%22Testing%22+%22Continuous%22&ots=gXguGFKthT&sig=6KIgZCJ7eO9g63aDrF7GKNhxfAg
+
+
+     Search term "Testing"+"Continuous"
+     Title Enabling agile testing through continuous integration
+     Author ['S Stolberg']
+     Venue 2009 agile conference
+     Year 2009
+     Abstract A continuous integration system is often considered one of the key elements involved in supporting an agile software development and testing environment. As a traditional software tester transitioning to an agile development environment it became clear to me that I would
+     Url https://ieeexplore.ieee.org/abstract/document/5261055/
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing for different rates of continuous trait evolution using likelihood
+     Author ["BC O'Meara", 'C Ané', 'MJ Sanderson', 'PC Wainwright']
+     Venue Evolution
+     Year 2006
+     Abstract Rates of phenotypic evolution have changed throughout the history of life, producing variation in levels of morphological, functional, and ecological diversity among groups. Testing for the presence of these rate shifts is a key component of evaluating hypotheses
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.0014-3820.2006.tb01171.x
+
+
+     Search term "Testing"+"Continuous"
+     Title An experimental evaluation of continuous testing during development
+     Author ['D Saff', 'MD Ernst']
+     Venue ACM SIGSOFT Software Engineering Notes
+     Year 2004
+     Abstract Continuous testing uses excess cycles on a developer's workstation to continuously run regression tests in the background, providing rapid feedback about test failures as source code is edited. It is intended to reduce the time and energy required to keep code well-tested
+     Url https://dl.acm.org/doi/abs/10.1145/1013886.1007523
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing the constancy of regression parameters against continuous structural change
+     Author ['CFJ Lin', 'T Teräsvirta']
+     Venue Journal of econometrics
+     Year 1994
+     Abstract A standard explicit or implicit assumption underlying many parameter constancy tests in linear models is that there is a single structural break in the sample. In this paper that assumption is replaced by a more general one stating that the parameters of the model may
+     Url https://www.sciencedirect.com/science/article/pii/0304407694900221
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals
+     Author ['DV Zaykin', 'PH Westfall', 'SS Young', 'MA Karnoub']
+     Venue Human …
+     Year 2002
+     Abstract There have been increasing efforts to relate drug efficacy and disease predisposition with genetic polymorphisms. We present statistical tests for association of haplotype frequencies with discrete and continuous traits in samples of unrelated individuals. Haplotype
+     Url https://www.karger.com/Article/Abstract/57986
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous stiffness measurement during instrumented indentation testing
+     Author ['J Hay', 'P Agee', 'E Herbert']
+     Venue Experimental Techniques
+     Year 2010
+     Abstract Conclusions CSM is a valuable tool for instrumented indentation testing. CSM is often used to measure properties of thin films and surface layers as a continuous function of penetration depth. CSM should always be used when testing materials that exhibit significant
+     Url https://link.springer.com/article/10.1111/j.1747-1567.2010.00618.x
+
+
+     Search term "Testing"+"Continuous"
+     Title Reducing wasted development time via continuous testing
+     Author ['D Saff', 'MD Ernst']
+     Venue 14th International Symposium on Software …
+     Year 2003
+     Abstract Testing is often performed frequently during development to ensure software reliability by catching regression errors quickly. However, stopping frequently to test also wastes time by holding up development progress. User studies on real development projects indicate that
+     Url https://ieeexplore.ieee.org/abstract/document/1251050/
+
+
+     Search term "Testing"+"Continuous"
+     Title Nonparametric specification testing for continuous-time models with applications to term structure of interest rates
+     Author ['Y Hong', 'H Li']
+     Venue The Review of Financial Studies
+     Year 2005
+     Abstract We develop a nonparametric specification test for continuous-time models using the transition density. Using a data transform and correcting for the boundary bias of kernel estimators, our test is robust to serial dependence in data and provides excellent finite
+     Url https://academic.oup.com/rfs/article-abstract/18/1/37/1592259
+
+
+     Search term "Testing"+"Continuous"
+     Title Techniques for improving regression testing in continuous integration development environments
+     Author ['S Elbaum', 'G Rothermel', 'J Penix']
+     Venue Proceedings of the 22nd ACM …
+     Year 2014
+     Abstract In continuous integration development environments, software engineers frequently integrate new or changed code with the mainline codebase. This can reduce the amount of code rework that is needed as systems evolve and speed up development time. While
+     Url https://dl.acm.org/doi/abs/10.1145/2635868.2635910
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous, large strain, tension/compression testing of sheet material
+     Author ['RK Boger', 'RH Wagoner', 'F Barlat', 'MG Lee']
+     Venue International Journal of …
+     Year 2005
+     Abstract Modeling sheet metal forming operations requires understanding of the plastic behavior of sheet alloys along non-proportional strain paths. Measurement of hardening under reversed uniaxial loading is of particular interest because of its simplicity of interpretation and its
+     Url https://www.sciencedirect.com/science/article/pii/S0749641905000410
+
+
+     Search term "Testing"+"Continuous"
+     Title Taming Google-scale continuous testing
+     Author ['A Memon', 'Z Gao', 'B Nguyen', 'S Dhanda']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract Growth in Google's code size and feature churn rate has seen increased reliance on continuous integration (CI) and testing to maintain quality. Even with enormous resources dedicated to testing, we are unable to regression test each code change individually
+     Url https://ieeexplore.ieee.org/abstract/document/7965447/
+
+
+     Search term "Testing"+"Continuous"
+     Title Pilot plant testing of continuous hydrothermal liquefaction of microalgae
+     Author ['C Jazrawi', 'P Biller', 'AB Ross', 'A Montoya']
+     Venue Algal Research
+     Year 2013
+     Abstract We describe a pilot plant for continuous hydrothermal processing of biomass. Results were obtained for two microalgae strains, Chlorella and Spirulina, across a range of biomass loadings (1–10 wt.%), temperatures (250–350° C), residence times (3–5 min) and pressures
+     Url https://www.sciencedirect.com/science/article/pii/S2211926413000532
+
+
+     Search term "Testing"+"Continuous"
+     Title Cardiopulmonary exercise testing for prognosis in chronic heart failure: continuous and independent prognostic value from VE/VCO2slope and peak VO2
+     Author ['DP Francis', 'W Shamim', 'LC Davies']
+     Venue European heart …
+     Year 2000
+     Abstract Background Chronic heart failure carries a poor prognosis. Cardiopulmonary exercise testing is useful in predicting survival. We set out to establish the prognostic value of peak VO2and VE/VCO2slope across a range of threshold values. Method and Results Three
+     Url https://academic.oup.com/eurheartj/article-abstract/21/2/154/522611
+
+
+     Search term "Testing"+"Continuous"
+     Title A continuous-flow mini-diluter system for toxicity testing
+     Author ['DA Benoit', 'VR Mattson', 'DL Olson']
+     Venue Water Research
+     Year 1982
+     Abstract A space saving portable mini-diluter exposure system for testing early life stages of fish and invertebrates has been developed and successfully used both in the laboratory and on-site with single chemicals and with complex effluents. This gravity-operated system can also be
+     Url https://www.sciencedirect.com/science/article/pii/0043135482901713
+
+
+     Search term "Testing"+"Continuous"
+     Title Sequential decision problems for processes with continuous time parameter. Testing hypotheses
+     Author ['A Dvoretzky', 'J Kiefer', 'J Wolfowitz']
+     Venue The Annals of Mathematical …
+     Year 1953
+     Abstract The purpose of the present paper is to contribute to the sequential theory of testing hypotheses about stochastic processes with a continuous parameter (say, $ t $ which one may think of as time). Sequential decision problems about such processes seem not to have
+     Url https://projecteuclid.org/euclid.aoms/1177729031
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous testing in Eclipse
+     Author ['D Saff', 'MD Ernst']
+     Venue Electronic Notes in Theoretical Computer Science
+     Year 2004
+     Abstract Continuous testing uses excess cycles on a developer's workstation to continuously run regression tests in the background, providing rapid feedback about test failures as source code is edited. It is intended to reduce the time and energy required to keep code well
+     Url https://www.sciencedirect.com/science/article/pii/S1571066104051941
+
+
+     Search term "Testing"+"Continuous"
+     Title Test case prioritization for continuous regression testing: An industrial case study
+     Author ['D Marijan', 'A Gotlieb', 'S Sen']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract Regression testing in continuous integration environment is bounded by tight time constraints. To satisfy time constraints and achieve testing goals, test cases must be efficiently ordered in execution. Prioritization techniques are commonly used to order test
+     Url https://ieeexplore.ieee.org/abstract/document/6676952/
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing for continuous-time models of the short-term interest rate
+     Author ['L Broze', 'O Scaillet', 'JM Zakoian']
+     Venue Journal of Empirical Finance
+     Year 1995
+     Abstract The recent financial literature has been much concerned with the short-term interest rate. Several models have been proposed and studied quite extensively. Despite the number of models, relatively little is known about their empirical comparison. A first approach of this
+     Url https://www.sciencedirect.com/science/article/pii/092753989500003D
+
+
+     Search term "Testing"+"Continuous"
+     Title The impact of continuous glucose monitoring on hospital point-of-care testing programs
+     Author ['FL Kiechle']
+     Venue Diabetes Technology & Therapeutics
+     Year 2001
+     Abstract DIABETES MELLITUS is a heterogeneous group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion, insulin action, or both. 1, 2 In the adult population of the United States, 6.6% have diabetes mellitus, while 11.2% have
+     Url https://www.liebertpub.com/doi/pdf/10.1089/15209150152811298
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous strip of fluid sampling and testing devices and methods of making, packaging and using the same
+     Author ['L Olson', 'D McAllister']
+     Venue US Patent App. 10/142,409
+     Year 2003
+     Abstract The present invention provides continuous strips of testers in an individually-sealed water-impermeable packaging which maintains the testers in a sterile condition until used. The subject testers include a test strip sensor integrated with a microneedle for accessing and
+     Url https://patents.google.com/patent/US20030211619A1/en
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing the accuracy of methods for reconstructing ancestral states of continuous characters
+     Author ['AJ Webster', 'A Purvis']
+     Venue … of the Royal Society of London …
+     Year 2002
+     Abstract Many methods are available for estimating ancestral values of continuous characteristics, but little is known about how well these methods perform. Here we compare six methods: linear parsimony, squared–change parsimony, one–parameter maximum likelihood
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2001.1873
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous, evolutionary and large-scale: A new perspective for automated mobile app testing
+     Author ['M Linares-Vásquez', 'K Moran']
+     Venue 2017 IEEE International …
+     Year 2017
+     Abstract Mobile app development involves a unique set of challenges including device fragmentation and rapidly evolving platforms, making testing a difficult task. The design space for a comprehensive mobile testing strategy includes features, inputs, potential contextual app
+     Url https://ieeexplore.ieee.org/abstract/document/8094439/
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing continuous moderators in meta‐analysis: A comparison of procedures
+     Author ['J Sánchez‐Meca']
+     Venue British Journal of …
+     Year 1998
+     Abstract Using Monte Carlo simulation, we compare the statistical power and Type I error rates of three procedures commonly applied in meta‐analysis to detect the influence of a continuous moderator variable on the estimated effect sizes from a set of independent primary studies
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2044-8317.1998.tb00683.x
+
+
+     Search term "Testing"+"Continuous"
+     Title Adaptive testing in continuous-time diffusion models
+     Author ['J Gao', 'M King']
+     Venue Econometric Theory
+     Year 2004
+     Abstract We propose an optimal test procedure for testing the marginal density functions of a class of nonlinear diffusion processes. The proposed test is not only an optimal one but also avoids undersmoothing. An adaptive test is constructed, and its asymptotic properties are
+     Url https://www.jstor.org/stable/3533552
+
+
+     Search term "Testing"+"Continuous"
+     Title Finger arterial versus intrabrachial pressure and continuous cardiac output during head-up tilt testing in healthy subjects
+     Author ['WT Jellema', 'BPM Imholz', 'J Van Goudoever']
+     Venue Clinical …
+     Year 1996
+     Abstract 1. The aims of this study were to determine the clinical feasibility of continuous, non-invasive Finapres recordings as a replacement for intrabrachial pressure during a 30 min head-up tilt, and the reliability of continuous cardiac output computation by pulse contour analysis from
+     Url https://portlandpress.com/clinsci/article-abstract/91/2/193/76587
+
+
+     Search term "Testing"+"Continuous"
+     Title Method of testing memory with continuous, varying data
+     Author ['C Lee']
+     Venue US Patent 7,073,101
+     Year 2006
+     Abstract A method of testing memory using continuous, varying data. More specifically, a method for testing whether a memory is weakened or damaged by continuously inputting and outputting varying data through the data I/O pins of the memory. At least a 75% data variation ratio on
+     Url https://patents.google.com/patent/US7073101B2/en
+
+
+     Search term "Testing"+"Continuous"
+     Title Site installation and testing of a continuous acoustic monitoring
+     Author ['S Fricker', 'T Vogel']
+     Venue Construction and Building Materials
+     Year 2007
+     Abstract In recent years much experience has been gained with continuous acoustic monitoring of monostrands and stay cables. However, there is little knowledge with monitoring of post-tensioned bridges with bonded tendons. An acoustic monitoring system has been installed
+     Url https://www.sciencedirect.com/science/article/pii/S0950061806000729
+
+
+     Search term "Testing"+"Continuous"
+     Title ICD with continuous regular testing of defibrillation lead status
+     Author ['MW Kroll']
+     Venue US Patent 5,944,746
+     Year 1999
+     Abstract An implantable cardiac stimulating device which incorporates the functionality of both a pacemaker and an implantable cardioverter-defibrillator (ICD). The implantable cardiac stimulating device is adapted to periodically obtain an impedance measurement by applying
+     Url https://patents.google.com/patent/US5944746A/en
+
+
+     Search term "Testing"+"Continuous"
+     Title Development and application of large–scale continuous pseudo–dynamic testing techniques
+     Author ['G Magonette']
+     Venue … Transactions of the Royal Society of …
+     Year 2001
+     Abstract This paper reviews the latest developments made at the European Laboratory for Structural Assessment (ELSA) of the Joint Research Centre to extend the spectrum of applications of the pseudo–dynamic (PsD) methodology. After decades of development, a variety of new
+     Url https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2001.0873
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous flow apparatus for biological testing
+     Author ['NA Posch']
+     Venue US Patent 4,053,284
+     Year 1977
+     Abstract A test apparatus for conducting diagnostic tests on body fluids, said apparatus having (1) a reaction vessel containing immunochemical test reagents supported as on beads and (2) a washing means cooperating with the reaction vessel, said washing means supplying
+     Url https://patents.google.com/patent/US4053284A/en
+
+
+     Search term "Testing"+"Continuous"
+     Title Eight-Point Glucose Testing Versus the Continuous Glucose Monitoring System in Evaluation of Glycemic Control in Type 1 Diabetes
+     Author ['Diabetes Research in Children Network ']
+     Venue The Journal of …
+     Year 2005
+     Abstract Context: Advantages/disadvantages of continuous vs. discrete glucose monitoring are not well documented. Objective: Compare glucose profiles from home meters vs. continuous sensors. Design: Randomized clinical trial conducted by the Diabetes Research in Children
+     Url https://academic.oup.com/jcem/article-abstract/90/6/3387/2870572
+
+
+     Search term "Testing"+"Continuous"
+     Title Reliability of continuous measurement copy-testing methods.
+     Author ['I Fenwick', 'MD Rice']
+     Venue Journal of Advertising Research
+     Year 1991
+     Abstract Discusses the interest in emotional reactions to advertising and describes a continuous measurement system that measures individuals' responses continuously while they watch advertising. With this system, a hand-held unit records Ss' responses every 2 or 3 sec. A
+     Url https://psycnet.apa.org/record/1991-26085-001
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing landscape metrics as indicators of habitat loss and fragmentation in continuous eucalypt forests (Queensland, Australia)
+     Author ['CA McAlpine', 'TJ Eyre']
+     Venue Landscape Ecology
+     Year 2002
+     Abstract Landscape metrics are widely applied in landscape ecology to quantify landscape structure. However, many are poorly tested and require rigorous validation if they are to serve as reliable indicators of habitat loss and frag-mentation, such as Montreal Process Indicator 1.1
+     Url https://link.springer.com/article/10.1023/A:1022902907827
+
+
+     Search term "Testing"+"Continuous"
+     Title In vitro testing of a potentially biocompatible continuous ambulatory peritoneal dialysis fluid
+     Author ['N Topley', 'R Mackenzie', 'MM Petersen']
+     Venue Nephrology Dialysis …
+     Year 1991
+     Abstract In the present study a newly formulated dialysis solution (HDF) was tested for its effects on phagocyte viability and function as well as its ability to support bacterial growth. This solution differs from standard CAPD solution (NPD) by the inclusion of histidine to buffer the fluid to
+     Url https://academic.oup.com/ndt/article-abstract/6/8/574/1839008
+
+
+     Search term "Testing"+"Continuous"
+     Title End to end automation on cloud with build pipeline: the case for DevOps in insurance industry, continuous integration, continuous testing, and continuous delivery
+     Author ['M Soni']
+     Venue 2015 IEEE International Conference on Cloud …
+     Year 2015
+     Abstract In modern environment, delivering innovative idea in a fast and reliable manner is extremely significant for any organizations. In the existing scenario, Insurance industry need to better respond to dynamic market requirements, faster time to market for new initiatives and
+     Url https://ieeexplore.ieee.org/abstract/document/7436936/
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing quantitative genetic hypotheses about the evolutionary rate matrix for continuous characters
+     Author ['LJ Revell', 'LJ Harmon']
+     Venue Evolutionary Ecology Research
+     Year 2008
+     Abstract Aim: Provide a new multivariate hypothesis testing approach for the evolution of continuous characters in a phylogenetic context. Background: Brownian motion is the most commonly used model for the evolution of quantitative traits. Under multivariate Brownian motion, the
+     Url http://www.evolutionary-ecology.com/abstracts/v10/2235.html
+
+
+     Search term "Testing"+"Continuous"
+     Title Effect of crossflow testing conditions, including feed pH and continuous feed filtration, on commercial reverse osmosis membrane performance
+     Author ['EM Van Wagner', 'AC Sagle', 'MM Sharma']
+     Venue Journal of Membrane …
+     Year 2009
+     Abstract Crossflow filtration experiments were performed to characterize the water flux and NaCl rejection of three commercial polyamide reverse osmosis (RO) membranes (LE and XLE from DOW Water Solutions and AG from GE Water and Process Technologies). Thorough
+     Url https://www.sciencedirect.com/science/article/pii/S0376738809006309
+
+
+     Search term "Testing"+"Continuous"
+     Title Testing conditional independence for continuous random variables
+     Author ['WP Bergsma']
+     Venue NA
+     Year 2004
+     Abstract A common statistical problem is the testing of independence of two (response) variables conditionally on a third (control) variable. In the first part of this paper, we extend Hoeffding's concept of estimability of degree r to testability of degree r, and show that independence is
+     Url https://www.researchgate.net/profile/Wicher_Bergsma/publication/251188458_Testing_conditional_independence_for_continuous_random_variables/links/5406eb460cf2bba34c1e760f.pdf
+
+
+     Search term "Testing"+"Continuous"
+     Title Comparative effectiveness of exercise testing and continuous monitoring for detecting arrhythmias in patients with previous myocardial infarction
+     Author ['M Crawford', "RA O'ROURKE", 'N Ramakrishna']
+     Venue Circulation
+     Year 1974
+     Abstract To detect unsuspected arrhythmias, 60 patients with previous myocardial infarction were studied by both submaximal treadmill exercise testing and 10 hours of continuous ECG monitoring (Holter technique) during normal activity. Significant arrhythmias were detected
+     Url https://www.ahajournals.org/doi/abs/10.1161/01.CIR.50.2.301
+
+
+     Search term "Testing"+"Continuous"
+     Title Fatigue testing and damage development in continuous fiber reinforced metal matrix composites
+     Author ['WS Johnson']
+     Venue Metal Matrix Composites: Testing, Analysis, and Failure …
+     Year 1989
+     Abstract Continuous fiber reinforced metal matrix composites (MMC) are projected for use in high-temperature stiffness critical parts that will be subjected to cyclic loadings. This paper presents a general overview of the fatigue behavior of MMC. The objectives of this paper are
+     Url https://www.astm.org/DIGITAL_LIBRARY/STP/PAGES/STP22856S.htm
+
+
+     Search term "Testing"+"Continuous"
+     Title Search-based automated testing of continuous controllers: Framework, tool support, and case studies
+     Author ['R Matinnejad', 'S Nejati', 'L Briand', 'T Bruckmann']
+     Venue Information and …
+     Year 2015
+     Abstract Context Testing and verification of automotive embedded software is a major challenge. Software production in automotive domain comprises three stages: Developing automotive functions as Simulink models, generating code from the models, and deploying the resulting
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914001244
+
+
+     Search term "Testing"+"Continuous"
+     Title A continuous pure moment loading apparatus for biomechanical testing of multi-segment spine specimens
+     Author ['JT Lysack', 'JP Dickey', 'GA Dumas', 'D Yen']
+     Venue Journal of biomechanics
+     Year 2000
+     Abstract An apparatus is described that enables the application of continuous pure moment loads to multi-segment spine specimens. This loading apparatus allows continuous cycling of the spine between specified flexion and extension (or right and left lateral bending) maximum
+     Url https://www.sciencedirect.com/science/article/pii/S002192900000021X
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous cooling deformation testing of steels
+     Author ['AZ Hanzaki', 'R Pandi', 'PD Hodgson', 'S Yue']
+     Venue Metallurgical and Materials …
+     Year 1993
+     Abstract In the processing of steel, the design of any kind of heat treatment and/or thermomechanical processing schedule, to obtain a given microstructure, is greatly facilitated by the knowledge of the austenite-to-ferrite transformation characteristics. In the past, isothermal and
+     Url https://link.springer.com/content/pdf/10.1007/BF02659490.pdf
+
+
+     Search term "Testing"+"Continuous"
+     Title Automatic continuous consolidation testing in Sweden
+     Author ['R Larsson', 'G Sällfors']
+     Venue Consolidation of soils: testing and evaluation
+     Year 1986
+     Abstract The constant rate of strain test has been successfully used as a routine test in Sweden for more than seven years. The paper describes in detail the experience gained so far. Methods of interpretation of test results and calculation of settlements are given. A critical comparison
+     Url https://www.astm.org/DIGITAL_LIBRARY/STP/PAGES/STP34621S.htm
+
+
+     Search term "Testing"+"Continuous"
+     Title Data debugging with continuous testing
+     Author ['K Muşlu', 'Y Brun', 'A Meliou']
+     Venue Proceedings of the 2013 9th Joint Meeting …
+     Year 2013
+     Abstract Today, systems rely as heavily on data as on the software that manipulates those data. Errors in these systems are incredibly costly, annually resulting in multi-billion dollar losses, and, on multiple occasions, in death. While software debugging and testing have received
+     Url https://dl.acm.org/doi/abs/10.1145/2491411.2494580
+
+
+     Search term "Testing"+"Continuous"
+     Title Harmonic testing for continuous well and reservoir monitoring
+     Author ['F Hollaender', 'PS Hammond']
+     Venue SPE Annual Technical …
+     Year 2002
+     Abstract Copyright 2002, Society of Petroleum Engineers Inc. This paper was prepared for presentation  at the SPE Annual Technical Conference and Exhibition held in San Antonio, Texas, 29  September–2 October 2002. This paper was selected for presentation by an SPE Program Committee
+     Url https://www.onepetro.org/conference-paper/SPE-77692-MS
+
+
+     Search term "Testing"+"Continuous"
+     Title Mixtures of continuous and categorical variables in discriminant analysis: A hypothesis-testing approach
+     Author ['WJ Krzanowski']
+     Venue Biometrics
+     Year 1982
+     Abstract In the classical case of discrimination between two multivariate normal populations, an allocation rule based on a hypothesis-testing approach (John's Z statistic) has long been in competition with the rule based on simple parameter estimation and substitution in the
+     Url https://www.jstor.org/stable/2529879
+
+
+     Search term "Testing"+"Continuous"
+     Title Continuous ink jet printing apparatus and method including self-testing for printing errors
+     Author ['Y Sheinman', 'M Weksler']
+     Venue US Patent 6,003,980
+     Year 1999
+     Abstract A method and apparatus for sensing improper operation of an ink jet printer having a plurality of nozzles each emitting, towards a substrate, a series of ink drops broken-off from a continuous ink jet filament, and selectively charging and deflecting said drops according to a
+     Url https://patents.google.com/patent/US6003980A/en
+

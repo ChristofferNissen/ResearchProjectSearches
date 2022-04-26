@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"DevOps"+"Medical"
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps in regulated software development: case medical devices
+     Author ['T Laukkarinen', 'K Kuusinen']
+     Venue 2017 IEEE/ACM 39th …
+     Year 2017
+     Abstract As both DevOps and continuous deployment aim at con- stantly delivering added value to end users, automation is needed to reduce repetitive work  III. RELATED WORK We could not identify related research on DevOps for medical device software development, and
+     Url https://ieeexplore.ieee.org/abstract/document/7966870/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Regulated software meets DevOps
+     Author ['T Laukkarinen', 'K Kuusinen', 'T Mikkonen']
+     Venue Information and Software …
+     Year 2018
+     Abstract industry [4] and our work focuses on practices and tools, we define DevOps as “practices that reduce and join repetitive tasks with automation in development  The paper is a sequel to [5], where we identified key inhibitors of DevOps in the domain of medical software based
+     Url https://www.sciencedirect.com/science/article/pii/S0950584918300144
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract Using DevOps in medical device development shares characteristics with the traditional DevOps architecture [8]: more automation, tools and testing as well as short planning cycles and structured requirements management
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps
+     Author ['C Ebert', 'G Gallardo', 'J Hernantes', 'N Serrano']
+     Venue Ieee Software
+     Year 2016
+     Abstract DevOps pushes automation from the application to the infrastructure  Such tools are a major DevOps enabler, es- pecially as architecture moves from a monolithic block of  However, for critical applications in which failure isn't an option—for ex- ample, medical or aerospace
+     Url https://ieeexplore.ieee.org/abstract/document/7458761/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Towards agile yet regulatory-compliant development of medical software
+     Author ['V Stirbu', 'T Mikkonen']
+     Venue 2018 IEEE International Symposium on …
+     Year 2018
+     Abstract interest. The high level of automation and transparency builds trust within the team  impediment. References [1] Laukkarinen, T., Kuusinen, K., and Mikkonen, T. DevOps in regulated software development: case medical devices. In
+     Url https://ieeexplore.ieee.org/abstract/document/8539216/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A survey of DevOps concepts and challenges
+     Author ['L Leite', 'C Rocha', 'F Kon', 'D Milojicic']
+     Venue ACM Computing Surveys …
+     Year 2019
+     Abstract We review the lit- erature and develop a DevOps conceptual map, correlating the DevOps automation tools with these concepts  They identified six areas related to DevOps: social aspects, automation, measurements, sharing, quality assurance, and leanness
+     Url https://dl.acm.org/doi/abs/10.1145/3359981
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title CompliancePal: A Tool for Supporting Practical Agile and Regulatory-Compliant Development of Medical Software
+     Author ['V Stirbu', 'T Mikkonen']
+     Venue 2020 IEEE International Conference on …
+     Year 2020
+     Abstract that enables an agile team to perform, in an automatic fashion, a subset of the compliance activities required by the regulatory framework specific for medical de- vice software. Although the idea of using modern automation practices, commonly known as DevOps, has been
+     Url https://ieeexplore.ieee.org/abstract/document/9095608/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Automation of Production Servers using DevOps (Puppet) Tools
+     Author ['S Kodali']
+     Venue NA
+     Year 2016
+     Abstract 64. https://repository.stcloudstate.edu/mme_etds/64 Page 2. Automation of Production Servers using DevOps (Puppet) Tools by Sailesh Kodali A Starred Paper  It also distributes medicines and other medical products to over 75% of the hospitals in the United States
+     Url https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1075&context=mme_etds
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps and software quality: A systematic mapping
+     Author ['A Mishra', 'Z Otaiwi']
+     Venue Computer Science Review
+     Year 2020
+     Abstract The study shows research was mainly focused in automation, culture, continuous delivery, fast feedback of DevOps  Keywords. DevOps. Development. Operations. Software. Software quality. Automation. Measurement. Systematic mapping. 1. Introduction
+     Url https://www.sciencedirect.com/science/article/pii/S1574013720304081
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Building a collaborative culture: a grounded theory of well succeeded devops adoption in practice
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Proceedings of the 12th ACM/IEEE …
+     Year 2018
+     Abstract First, GT is a consolidated method in other areas of research - notably medical sociology [6], nursing [5], education [17] and man- agement [19]  Examples of new questions include: (1) What is the relationship between deployment automation and DevOps adoption
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240299
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A Cloud Architecture for the Execution of Medical Imaging Biomarkers
+     Author ['S López-Huguet', 'F García-Castro']
+     Venue International Conference …
+     Year 2019
+     Abstract production-quality processing services implies a Continuous Integration and Deployment DevOps problem that is  to deal with the processing of massive sets of medical images  This implies automation, minimal customer intervention, progressive rollouts, roll backs, and version
+     Url https://link.springer.com/chapter/10.1007/978-3-030-22744-9_10
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Adopting DevOps in the real world: A theory, a model, and a case study
+     Author ['WP Luz', 'G Pinto', 'R Bonifácio']
+     Venue Journal of Systems and Software
+     Year 2019
+     Abstract First, GT is a consolidated method in other areas of research — notably medical sociology (Charmaz, 1990), nursing (Barnsteiner, 2002), education  Examples of new questions include: (1) What is the relationship between deployment automation and DevOps adoption
+     Url https://www.sciencedirect.com/science/article/pii/S0164121219301517
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Agile development model for certifiable medical device software
+     Author ['EEF Lima']
+     Venue NA
+     Year 2020
+     Abstract 47 7.1 Human factors affect outcomes of using medical devices [27] . . . . 55 7.2 Summary of the most observable clauses in the standards with DevOps [24] . . . 58 7.3 Non-ConformanceRerport . . . . . 59
+     Url https://repositorio-aberto.up.pt/handle/10216/129850
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A cambrian explosion of DevOps tools
+     Author ['M Kersten']
+     Venue IEEE Annals of the History of Computing
+     Year 2018
+     Abstract Most of the many vendors on this map are vying to provide a reposi- tory or automation layer for a seg- ment of the software value  ON DEVOPS  This is similar to other fields (such as the medical field) in which the ben- efits of the division of labor have caused ever-increasing
+     Url https://www.cse.unr.edu/~dascalus/Paper_ARITRA.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title The DevOps adoption playbook: a guide to adopting DevOps in a multi-speed IT enterprise
+     Author ['S Sharma']
+     Venue NA
+     Year 2017
+     Abstract 249 Play: Develop an API Economyy . . . . . 253 Deployment Automation and APIs. . . . . 255 DevOps Platform and APIs. . . . . 255 Play: Organizing for Innovation
+     Url https://books.google.com/books?hl=da&lr=&id=leXWDQAAQBAJ&oi=fnd&pg=PR23&dq=%22Automation%22+%22DevOps%22+%22Medical%22&ots=j1ziaz1w-j&sig=WrkXc7EYySEXQsqt1g0coeblbQc
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A New Form of Collaboration in IT Teams-Exploring the DevOps Phenomenon.
+     Author ['A Wiedemann']
+     Venue PACIS
+     Year 2017
+     Abstract Automation Is defined as the full automated building, deployment, and testing of software to gain short lead times, rapid delivery  Case 5 Health Care Employees: 20.000-50.000 Team size: 10 people Agile method: Scrum Product: Medical device DevOps orientation since
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1206&context=pacis2017
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Medical Image Encryption Scheme Based on Arnold Transformation and ID-AK Protocol.
+     Author ['O Wahballa', 'A Wahaballa', 'F Li', 'II Idris', 'C Xu']
+     Venue IJ Network Security
+     Year 2017
+     Abstract 776 Medical Image Encryption Scheme Based on Arnold Transformation and ID-AK Protocol  3 & Oct. 6, 2016) Abstract Providing security on transmitted medical image over public channels has become an essential part of computer- aided diagnosis systems
+     Url http://ijns.jalaxy.com.tw/contents/ijns-v19-n5/ijns-2017-v19-n5-p776-784.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Proposal to Avoid Issues in the DevOps Implementation: A Systematic Literature Review
+     Author ['M Muñoz', 'M Negrete', 'J Mejía']
+     Venue World Conference on Information Systems …
+     Year 2019
+     Abstract which have been developed to define guidelines and explain in more detail the processes to adapt tools getting a future automation in some  A7 T. Laukkarinen, K. Kuusinen, and T. Mikkonen: DevOps in regulated software development: Case medical devices, Proc
+     Url https://link.springer.com/chapter/10.1007/978-3-030-16181-1_63
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Dealing with security in a real DevOps environment
+     Author ['X Larrucea', 'A Berreteaga', 'I Santamaria']
+     Venue European Conference on …
+     Year 2019
+     Abstract Martino, R., D'Antonio, S., Coppolino, L., Romano, L.: Security in cross - border medical data interchange: a technical analysis and a discussion of possible improvements, July (2017  Schaefer, A., Reichenbach, M., Fey, D.: Continuous integration and automation for DevOps
+     Url https://link.springer.com/chapter/10.1007/978-3-030-28005-5_35
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Productivity gains of DevOps adoption in an IT team: a case study
+     Author ['MA Silva', 'JP Faustino', 'R Pereira', 'M Mira da Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry [15] Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices [6
+     Url https://aisel.aisnet.org/isd2014/proceedings2018/ISDevelopment/8/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title An attempt to adopt DevOps on embedded system development: empirical evidence
+     Author ['PE Wijaya', 'I Rosyadi', 'A Taryana']
+     Venue Journal of Physics: Conference …
+     Year 2019
+     Abstract [11] Johannes Wettinger, Uwe Breitenbucher, Frank Leymann, "Standards-based DevOps Automation and Integration  5 - 10, 2015. [20] Teemu Laukkarinen, Kati Kuusinen, Tommi Mikkonen, "DevOps in Regulated Software Development: Case Medical Devices," in
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078/meta
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Comparison of Requirements Management Solutions for Medical Device Development
+     Author ['T Virtanen']
+     Venue NA
+     Year 2020
+     Abstract Reporting of lifecycle artefacts • Process automation and tool integration  can be used to show compliance with applicable regulations. Medical device develop  Microsoft Azure DevOps platform and the current tools used for testing and low-level documentation
+     Url https://www.theseus.fi/handle/10024/333837
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract industries that require level compliance in order to meet regulatory requirements (medical, finance,food  2. Collect all challenges while adopting DevOps in software development including DevOps architecture, management, tooling, automation, and environments
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT02.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A large agile organization on its journey towards DevOps
+     Author ['K Kuusinen', 'V Balakumar', 'SC Jepsen']
+     Venue 2018 44th Euromicro …
+     Year 2018
+     Abstract In other cases, there are external regulations which prohibits rapid releases, for example in the medical software domain, which is heavily regulated to ensure that a system does not cause human harm [6]  The major barrier for taking DevOps tools and automation into use
+     Url https://ieeexplore.ieee.org/abstract/document/8498186/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Exploring the disruptive power of adopting DevOps for software development
+     Author ['L Yu', 'C Guerra']
+     Venue NA
+     Year 2019
+     Abstract industries that require level compliance in order to meet regulatory requirements (medical, finance,food  2. Collect all challenges while adopting DevOps in software development including DevOps architecture, management, tooling, automation, and environments
+     Url https://www.diva-portal.org/smash/get/diva2:1334453/FULLTEXT03.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Risks in the software supply chain
+     Author ['M Sherman']
+     Venue NA
+     Year 2019
+     Abstract Cross lifecycle issues Automation (DevOps) Page 6  Industrial and home automation • 3D printing (additive manufacturing) • Autonomous robots • Interconnected SCADA • Aviation  Smart grid • Smart electric meters • Smart metering infrastructure • Embedded medical devices
+     Url https://apps.dtic.mil/sti/pdfs/AD1090495.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A Systematic Literature Review on DevOps Capabilities and Areas
+     Author ['D Teixeira', 'R Pereira', 'TA Henriques', 'M Silva']
+     Venue International Journal of …
+     Year 2020
+     Abstract speed,﻿but﻿also﻿ the﻿infrastructure﻿consistency,﻿productivity﻿of﻿teams,﻿and﻿repeatability﻿of﻿tasks﻿(de﻿ França﻿et﻿al.,﻿ 2016).﻿Automation﻿is﻿used﻿not﻿just﻿to﻿save﻿time,﻿but﻿it﻿also﻿prevents﻿defects,﻿creates﻿ consistency,﻿and﻿ enables﻿self-service.﻿Automation﻿is﻿one﻿of﻿the﻿main﻿areas﻿of﻿DevOps:﻿it﻿allows﻿for
+     Url https://www.igi-global.com/article/a-systematic-literature-review-on-devops-capabilities-and-areas/252844
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title To what extent the medical device software regulations can be achieved with agile software development methods? XP—DSDM—Scrum
+     Author ['Ö Özcan-Top', 'F McCaffery']
+     Venue The Journal of Supercomputing
+     Year 2019
+     Abstract Lean Development, Feature Driven Development, and DevOps are the other agile methods that were referred in the papers  The studies emphasize the benefits of using agile methods in medical device software development
+     Url https://link.springer.com/article/10.1007/s11227-019-02793-x
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Software Engineering using DevOps-a Silver Bullet?
+     Author ['M Eriksson']
+     Venue NA
+     Year 2019
+     Abstract Today we have technology that help us scan millions of medical databases in a glimpse of an eye and self-driving cars that are outperforming humans at driving  Automation: Since DevOps strive to be agile, automation [5] is a good way to achieve that
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1289116
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Continuous delivery and DevOps: a quickstart guide
+     Author ['P Swartout']
+     Venue NA
+     Year 2012
+     Abstract Page 1. I'IIIIIIGI nlnlluu Continuous Delivery and DevOps : A Quickstart Guide Continuous delrvety and DevOps explamed Paul Swartout Page 2  Summary Index Page 8. Continuous Delivery and DevOps: A Quickstart Guide Page 9
+     Url https://books.google.com/books?hl=da&lr=&id=L-g6Qxb_43sC&oi=fnd&pg=PT17&dq=%22Automation%22+%22DevOps%22+%22Medical%22&ots=edQ7DL-SI4&sig=ax8eZ-thsW9vsIs3A_NsjFNcqpI
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Adopting DevOps in Agile: Challenges and Solutions
+     Author ['C Wang', 'C Liu']
+     Venue NA
+     Year 2018
+     Abstract However, because of each company's nature, scale, infrastructure, and automation level are different, the challenges they face will be quite different  [29] studied the challenges of adopting DevOps in Agile, but the challenges were aimed at medical standards, the scope
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1228684
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Adoption of DevOps Practices in the Finnish Software Industry: an Empirical Study
+     Author ['P Laihonen']
+     Venue NA
+     Year 2018
+     Abstract 25 2.5 Summary . . . . . 28 3 Research Methods 30 3.1 DevOps and Automation Maturity Models  (Humble and Molesky, 2011) Automation is an important part of DevOps as it connects with almost every direction
+     Url https://aaltodoc.aalto.fi/handle/123456789/34400
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title On the Role of Software Architecture in DevOps Transformation: An Industrial Case Study
+     Author ['M Shahin', 'MA Babar']
+     Venue arXiv preprint arXiv:2003.06108
+     Year 2020
+     Abstract Other studies report the challenges (eg, limited visibility of customer environments) that organizations encountered in DevOps adoption and the practices (eg, test automation) employed to address those challenges [11] [12] [13] [14]
+     Url https://arxiv.org/abs/2003.06108
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Leading the transformation: Applying agile and devops principles at scale
+     Author ['G Gruver', 'T Mouser']
+     Venue NA
+     Year 2015
+     Abstract definition of done at the release branch means that the feature is signed off, defects-free, and the test automation is ready  From business objectives and continuous improvement to planning and DevOps, Leading the Transformation takes you through the step-by-step process of
+     Url https://books.google.com/books?hl=da&lr=&id=olFECgAAQBAJ&oi=fnd&pg=PT9&dq=%22Automation%22+%22DevOps%22+%22Medical%22&ots=EbgZqImjga&sig=E22YJjcUUPmO1Ju4wMhAC83t_Ag
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Automating Static Code Analysis for Risk Assessment and Quality Assurance of Medical Record Software
+     Author ['H Kaur']
+     Venue NA
+     Year 2017
+     Abstract can help development and operations teams to collaborate resulting into a successful DevOps environment  To exercise a system that continuously integrates source code of the medical software, OSCAR  The automation of these builds can be monitored, such that a build can be
+     Url http://venus.library.uvic.ca/bitstream/handle/1828/8861/Kaur_Harneet_MSc_2017.pdf?sequence=1&isAllowed=y
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Identification and prioritization of DevOps success factors using fuzzy-AHP approach
+     Author ['MA Akbar', 'S Mahmood', 'M Shafiq', 'A Alsanad']
+     Venue Soft Computing
+     Year 2020
+     Abstract To accommodate continuous releases, DevOps encourages automation of the change, configuration and release processes (Jabbari et al. 2016; Lwakatare et al. 2016)  DevOps focuses on improving efficiency through automation with DevOps tools
+     Url https://link.springer.com/article/10.1007/s00500-020-05150-w
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps For Dummies
+     Author ['E Freeman']
+     Venue NA
+     Year 2019
+     Abstract xii Devops For Dummies 0004416104.INDD xii Trim size: 7.375 in x 9.25 in July 10, 2019 11:59 AM Page 13. CHAPTER 17: Preparing for Incidents. . . . . 229 Combating "Human Error" with Automation
+     Url https://books.google.com/books?hl=da&lr=&id=QNShDwAAQBAJ&oi=fnd&pg=PR17&dq=%22Automation%22+%22DevOps%22+%22Medical%22&ots=kb-FtXLORv&sig=ADE24nVw26goWdGBuwTbFd_bUjM
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Continuous software engineering: A roadmap and agenda
+     Author ['B Fitzgerald', 'KJ Stol']
+     Venue Journal of Systems and Software
+     Year 2017
+     Abstract This means that code no longer can be “thrown over the wall” to operations. • Automation— DevOps relies on full automation of the build, deployment and testing in order to achieve short lead times, and consequently rapid delivery and feedback from end-users. •
+     Url https://www.sciencedirect.com/science/article/pii/S0164121215001430
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps under control: development of a framework for achieving internal control and effectively managing risks in a DevOps environment
+     Author ['OH Plant']
+     Venue NA
+     Year 2019
+     Abstract Four main aspects of DevOps are collaboration, automation, measurement and monitoring  The findings of this study implicate that companies first have to find a way to establish a solid DevOps culture before relying on automation practices
+     Url http://essay.utwente.nl/77376/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title An overview of devops
+     Author ['B Patwardhan']
+     Venue CSI Communications
+     Year 2012
+     Abstract Better management of software assets by using version control and automation Negative Views  really-does-speed-things- up-study-shows-7000020783/ [7] The DevOps Challenge, Michael A  For example medical products can have drug usage statistics, clinical samples, and
+     Url http://csi-india.org.in/communications/CSIC%20August%202014.pdf#page=14
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Continuous architecting with microservices and DevOps: a systematic mapping study
+     Author ['D Taibi', 'V Lenarduzzi', 'C Pahl']
+     Venue … on Cloud Computing and Services Science
+     Year 2018
+     Abstract Automation Requirement. A full DevOps stack is fundamental to manage the whole system and automate the whole process. Without the adoption of DevOps the system development would be much slower with microservices than with monolithic systems [S37]
+     Url https://link.springer.com/chapter/10.1007/978-3-030-29193-8_7
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps for AI–Challenges in Development of AI-enabled Applications
+     Author ['LE Lwakatare', 'I Crnkovic']
+     Venue … Conference on Software …
+     Year 2020
+     Abstract In many domains (eg medical diagnose), ML has demonstrated superiority in providing re- sults in comparison to traditional software applications, and outperformed humans  Building on agile software development method, an important tenet in DevOps is automation of build
+     Url https://ieeexplore.ieee.org/abstract/document/9238323/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title A Project Report On
+     Author ['LN Panda', 'S Mishra']
+     Venue Status of Dairy Farming in Odisha”, I nternational …
+     Year 2013
+     Abstract Among the Various roles played by Jarvis are: 1. Search Engine with voice interactions 2. Medical diagnosis with Medicine aid. 3. Reminder and To-Do application  DevOps automation DevOps automation can be achieved by repackaging platforms, systems, and
+     Url https://files.gitter.im/COSS-Jarvis/community/nUVs/JARVIS-_-Report-_2_.pdf
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Criteria, use cases and effects of information technology process automation (ITPA)
+     Author ['HP Fung']
+     Venue Advances in Robotics & Automation
+     Year 2014
+     Abstract Hence, application deployment automation via robot or software can improve speed and consistency, reduce failure rates, increase ability to make changes across multitudes of  The adoption of robotic software in Development Operations (DevOps) enables end-to-end Page
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2588999
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Secure DevOps Foundations for Large-Scale Software Systems
+     Author ["D O'Neill"]
+     Venue Crosstalk
+     Year 2017
+     Abstract Beyond the range of typical Secure DevOps, the sectors of the critical infrastructure with their stovepipe yet interdependent operations face more insidious  The medical sector depends on the Internet to distribute and present patient electronic medical records  and Automation
+     Url https://www.researchgate.net/profile/Sibonelo_Vundla/project/Software-Engineering-Research-DevOps/attachment/593593271042bfac89182bb4/AS:501940305633280@1496683302997/download/Secure+DevOps+Foundations+for+Large-Scale+Software+Systems.pdfcontext=ProjectUpdatesLog
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT
+     Author ['TA Limoncelli', 'CJ Hogan', 'SR Chalup']
+     Venue NA
+     Year 2016
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps practices in incident management process
+     Author ['JPC Faustino']
+     Venue NA
+     Year 2018
+     Abstract Test Automation Test automation will save some time by performing regression tests to be sure that older functionalities will not  configured to enable continuous delivery Stakeholder Participation The participation of stakeholders will provide more feedback to the DevOps teams
+     Url https://repositorio.iscte-iul.pt/handle/10071/18294
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Critical success factors of continuous practices in a DevOps context
+     Author ['M van Belzen', 'J Trienekens', 'R Kusters']
+     Venue NA
+     Year 2019
+     Abstract Journal of Systems and Software. 125 271–288 (2017) 2. Albuquerque, AB, Cruz, VL: Implementing DevOps in Legacy Systems. In: Silhavy, R., Silhavy, P., and Prokopova, Z. (eds.) Intelligent Systems in Cybernetics and Automation Control Theory. pp. 143–161
+     Url https://aisel.aisnet.org/isd2014/proceedings2019/ISDMethodologies/6/
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title Productivity gains of DevOps adoption: a case study
+     Author ['MÂR Silva']
+     Venue NA
+     Year 2018
+     Abstract CS.3 End to End Automation On Cloud with Build Pipeline: The case for DevOps in Insurance Industry (Soni, 2016) Collaborative development Continuous testing Continuous release and deployment CS.4 DevOps in Regulated Software Development: Case Medical Devices
+     Url https://repositorio.iscte-iul.pt/handle/10071/18293
+
+
+     Search term "Automation"+"DevOps"+"Medical"
+     Title DevOps Finetuning
+     Author ['A Ravichandran', 'K Taylor', 'P Waterhouse']
+     Venue DevOps for Digital Leaders
+     Year 2016
+     Abstract are stupid, dumb and inefficient—In healthcare, accidents can occur when medical practitioners disable  but not limited to, agile project management, build management, and release automation  who are experienced integrating these to build a fully automated DevOps toolchain
+     Url https://link.springer.com/chapter/10.1007/978-1-4842-1842-6_10
+

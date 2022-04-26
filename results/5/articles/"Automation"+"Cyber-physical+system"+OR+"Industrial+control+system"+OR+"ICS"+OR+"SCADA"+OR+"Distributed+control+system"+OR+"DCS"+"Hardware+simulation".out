@@ -1,0 +1,451 @@
+Showing papers for search query "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract from the PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  for Modeling and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware  has an experience of 15 years in the field of industrial automation and control
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Training SCADA operators with real-time simulation
+     Author ['RJ Strand', 'AJ Clemmens']
+     Venue SCADA and Related …
+     Year 2005
+     Abstract Simulation Software As previously noted, since 1991, the USWCL has made extensive use of hydraulic simulation models as part of ongoing canal automation research (Clemmens et al  The communication between the hardware simulation and the SCADA system uses
+     Url https://mountainscholar.org/bitstream/handle/10217/46525/101_Proceedings%202005%20USCID%20Vancouver.pdf?sequence=1#page=327
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title System level hardware simulator and its automation
+     Author ['NL Gehlot']
+     Venue US Patent 6,353,806
+     Year 2002
+     Abstract The invention relates generally to hardware simulation and more specifically to the automation of hardware  and software) remains a function of the time taken to develop ICs and boards  There is also the need to develop such an automated hardware simulation generator which
+     Url https://patents.google.com/patent/US6353806B1/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title HAL; a block level hardware logic simulator
+     Author ['T Sasaki', 'N Koike', 'K Ohmori']
+     Venue 20th Design Automation …
+     Year 1983
+     Abstract 20th Design Automation Conference  logic simulator was described, which simulates a 1,500,000 gate custom LSI and 2M byte RAM ICs digital system  by 32 parallel processes and pipe-line processor architecture, utilizing a new Block Oriented Hardware Simulation Technique
+     Url https://ieeexplore.ieee.org/abstract/document/1585641/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cyber-physical system security of a power grid: State-of-the-art
+     Author ['CC Sun', 'CC Liu', 'J Xie']
+     Venue Electronics
+     Year 2016
+     Abstract ADSs and IDSs, and the false alarm issues are discussed in Section 3. Section 4 presents the cyber-physical system (CPS) testbeds for  Substation Automation System  The testbed consists of four parts: (1) a commercial EMS is used in the SCADA system network; (2) IEC 61850
+     Url https://www.mdpi.com/2079-9292/5/3/40
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Improvements in electronic hardware design productivity through design automation and the use of simulation
+     Author ['WA Hanna']
+     Venue Proceedings of the IEEE National Aerospace and …
+     Year 1989
+     Abstract In this paper we presented a quick overview of electronic hardware simulation and design automation tools and  The chip was also a first pass success which is new to our ICs design group  that the design process is made easy with the availability of design automation tools on
+     Url https://ieeexplore.ieee.org/abstract/document/40184/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract 11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Good Vibrations: Modal Dynamics for Graph- ics and Animation  In ICRA2001: IEEE Interna- tional Conference on Robotics and Automation, Seoul Korea, May 2001
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Concurrent hardware-software co-simulation
+     Author ['Y Tzori']
+     Venue US Patent 6,202,044
+     Year 2001
+     Abstract US6202044B1 - Concurrent hardware-software co-simulation - Google Patents. Concurrent hardware-software co-simulation. Download PDF Info. Publication number US6202044B1. US6202044B1 US09/096,672 US9667298A
+     Url https://patents.google.com/patent/US6202044B1/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  in the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE  in-the- Loop Simulation", IEEE Conference on Mechatronics and Automation, June 2006
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware-software debugger using simulation speed enhancing techniques including skipping unnecessary bus cycles, avoiding instruction fetch simulation …
+     Author ['M Bershteyn', 'RT Casley', 'C Chien', 'A Ghosh']
+     Venue US Patent …
+     Year 1997
+     Abstract According to the data of James A. Rowson's paper "Hardware-Software Co-Simulation" in the Proceedings of 1994 Design Automation Conference, the software simulated in a cycle-accurate mode runs only at 50-1000 instructions per second
+     Url https://patents.google.com/patent/US5678028A/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Implementation of Process Simulation for Marine Automation System
+     Author ['M Mononen']
+     Venue NA
+     Year 2020
+     Abstract Symbols and abbreviations Abbreviations AC Automation and Control Solutions Finland DCS Distributed Control System DMAIC Define, Measure, Analyze, Improve, Control FAT Factory Acceptance Test FMEA Failure Mode and Effects Analysis HAT Harbor Acceptance Test
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract Despite the high-speed internal dynam- ics of the power electronics-based apparatus, the system- level interactions may not require a very  A. Monti is with the E.ON Energy Research Center, Institute for Automation of Complex Power Systems, RWTH Aachen University, Aachen
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DCS Migration Strategy and Implementation
+     Author ['M Vernak']
+     Venue NA
+     Year NA
+     Abstract Plants with an aging DCS will require an upgrade to a modern automation system at some point  Page 11. References 1. Justification for Migration: How to calculate financial justification for migration from an existing distributed control system to a new automation system; Mike
+     Url https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/proces-wp006_-en-p.pdf
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Study on simulation and testing of FLISR
+     Author ['L Jinsong', 'L Dong', 'L Wangshui']
+     Venue CICED 2010 …
+     Year 2010
+     Abstract system can implement multiple simulations of a distribution automation system, displaying  testing is successfully implemented depends on factors like SCADA functions, communication  simulation testing technologies can be divided into hardware simulation, software simulation
+     Url https://ieeexplore.ieee.org/abstract/document/5736124/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design and Application of SCADA Based Control System for filling process (Inter facing and Monitoring)
+     Author ['NM Aung', 'ML Maung', 'KM Win']
+     Venue NA
+     Year 2008
+     Abstract 1. To use easily SCADA system for industrial automation in the developing country;  And the hardware simulation (btHardware) for linking the filling icon process is utilized to open the  The data box (btData) for user guide for filling process using SCADA is used to open the data
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:40059685
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Experience and Lessons in Building an ICS Security Testbed
+     Author ['Y Tao', 'W Xu', 'H Li', 'S Ji']
+     Venue 2019 1st International Conference on …
+     Year 2019
+     Abstract Zone includes systems and devices used for the monitoring, control and automation of physical  to industrial control systems (ics) security: Supervisory control and data acquisition (scada) systems, distributed  [11] J. Weiss, ”Assuring industrial control system (ICS) cyber security
+     Url https://ieeexplore.ieee.org/abstract/document/8850804/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A reconfigurable logic machine for fast event-driven simulation
+     Author ['J Bauer', 'M Bershteyn', 'I Kaplan']
+     Venue … Design and Automation …
+     Year 1998
+     Abstract event queues for a particular simulation cycle, the synchronizer re-starts the hardware simulation clock  33ed ACMIIEEE Design Automation Conference, 1996, pp 421-426  mit/proiects/ transiVtn129/tn129,html [4] DeHon, A. DPGA-Coupled Microprocessors: Commodity ICs for the
+     Url https://ieeexplore.ieee.org/abstract/document/724555/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Eigenskin: real time large deformation character skinning in hardware
+     Author ['PG Kry', 'DL James', 'DK Pai']
+     Venue Proceedings of the 2002 ACM SIGGRAPH …
+     Year 2002
+     Abstract a) FEM simulated pose b) SSD only c) EigenSkin d) Real time hardware simulation  PENTLAND, A., AND WILLIAMS, J. July 1989. Good vibrations: Modal dynam- ics for graphics and animation  In ICRA2001: IEEE International Conference on Robotics and Automation
+     Url https://dl.acm.org/doi/abs/10.1145/545261.545286
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Development of SCADA system for Turbocharger testing
+     Author ['SN Lakade', 'SU Bhandari']
+     Venue … Control and automation (ICCUBEA …
+     Year 2016
+     Abstract as T and M (Test and Measurement) and workshop requests like monitoring, domination, contraption automation and creation  work deals with setting up a lab for testing of Turbocharger wherein SCADA system will  And lastly in section V, results for hardware simulation is given
+     Url https://ieeexplore.ieee.org/abstract/document/7860134/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Review of hardware platforms for real-time simulation of electric machines
+     Author ['S Mojlish', 'N Erdogan', 'D Levine']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract Page 1. 2332-7782 (c) 2016 IEEE. Personal use is permitted, but republication/ redistribution requires IEEE permission. See http://www.ieee.org/ publications_standards/publications/rights/index.html for more information. This
+     Url https://ieeexplore.ieee.org/abstract/document/7829408/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Dynamic modeling and simulation of leukocyte integrin activation through an electronic design automation framework
+     Author ['N Bombieri', 'R Distefano', 'G Scardoni', 'F Fummi']
+     Venue … Methods in Systems …
+     Year 2014
+     Abstract Briefings in Bioinformat- ics 8(4), 210–219 (2007) 11  P., Chandran, P., Chandra, J., Simon, BP, Ravi, D.: Parallelizing SystemC kernel for fast hardware simulation on SMP  In: Proceedings of the 2010 Asia and South Pacific Design Automation Conference, ASPDAC 2010, pp
+     Url https://link.springer.com/chapter/10.1007/978-3-319-12982-2_11
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Investigating the robustness of re-scheduling policies with multi-agent system simulation
+     Author ['M Merdan', 'T Moser', 'P Vrba', 'S Biffl']
+     Venue The International Journal of Advanced …
+     Year 2011
+     Abstract A distributed control system is more robust than a centralized control system as this  into the industrial automation domain because the existing, widely adopted industrial automation hardware and software architectures, like PLCs, operator panels, and SCADA systems, can
+     Url https://link.springer.com/article/10.1007/s00170-010-3049-9?null
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware design system based on object-oriented principles
+     Author ['AJ Van der Hoeven', 'P Van Prooijen']
+     Venue … Design Automation.
+     Year 1991
+     Abstract 7. Program Fmcution and Hardware Simulation In the above, we have described how the description of nodes in the  with hardware ICs to emphasize their potential for reuse and consequently calls classes 'software-ICs'  European Design Automation Conference, (March 1990)
+     Url https://ieeexplore.ieee.org/abstract/document/206447/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Certification issues for complex digital hardware
+     Author ['LH Harrison', 'PJ Saraceni']
+     Venue AIAA/IEEE Digital Avionics Systems …
+     Year 1994
+     Abstract Hardware simulation tools are now used extensively  Self-testing ICs using built-in logic are a necessity for acceptable levels of test coverage  The hardware revolution has created the need €or software development automation tools
+     Url https://ieeexplore.ieee.org/abstract/document/369479/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Built-in test for complex digital integrated circuits
+     Author ['B Konemann', 'G Zwiehoff']
+     Venue IEEE Journal of Solid-State …
+     Year 1980
+     Abstract EB Eichelberger and TW Williams, “A logic design structure for LSI testability,” in Proc. 14th Design Automation Con&  489-497, May 1975. B. Konemann et al., “Signaturregister fur selbst-testende ICS,” in NTG-Fachberichte Band 68. Berlin, Germany: VDE-Verlag, 1979, pp
+     Url https://ieeexplore.ieee.org/abstract/document/1051391/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Simulation, measurement and/or control system and method with coordinated timing
+     Author ['JL Kodosky', 'JE MacCrisken']
+     Venue US Patent 7,865,349
+     Year 2011
+     Abstract The computer 102 connects through the one or more devices to a process or device 150 to perform an automation function, such as MMI (Man Machine Interface), SCADA (Supervisory Control and Data Acquisition), portable or distributed data acquisition, process control
+     Url https://patents.google.com/patent/US7865349B2/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A digital multiprocessor hardware accelerator board for cellular neural networks: CNN‐HAC
+     Author ['T Roska', 'G Bártfai', 'P Szolgay', 'T Szirányi']
+     Venue … journal of circuit …
+     Year 1992
+     Abstract UGRAY AND A. ZARANDYS Computer and Automation Institute of the Hungarian Academy  The hardware accelerator boards using catalogue programmable VLSI ICs represent a trade  paper describes a hardware accelerator architecture (HAC) for the hardware simulation of a
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.4490200512
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract convenience, low development cost, high simulation speed, and close practicality; (2) the application of a hardware simulation into the  system optimization, wide area measurement system (WAMS) security, and supervisory control and data acquisition (SCADA) security analysis
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A Review of CIGRE'2008 on Protection and Automation [J]
+     Author ['X ZHAO', 'D CAO', 'X ZHU', 'L XU']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Automated testing of industrial automation software: practical receipts and lessons learned
+     Author ['R Ramler', 'W Putschögl', 'D Winkler']
+     Venue … Methods for Industrial Automation
+     Year 2014
+     Abstract [17] on automated unit testing for SCADA control software  On the left-hand side it shows the automation system in the production context, and on the right-hand side it illustrates how testing can be integrated in the system's  Machine (Hardware) Simulation (Hardware/Software)
+     Url https://dl.acm.org/doi/abs/10.1145/2593783.2593788
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design of PLC Experimental System Based on Siemens S7-200 [J]
+     Author ['J JIANG', 'Y LIU', 'M DENG', 'H HUANG']
+     Venue Research and Exploration in …
+     Year 2008
+     Abstract The system makes full use of soft-hardware simulation technology,MCU application technology, USB communication technology and  1, Zhong Lintian;The Current Status and Developing Trend of Dis-tributed Control System (DCS][J];Process Automation Instrumentation;1995
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-SYSY200808071.htm
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Digital twin—the simulation aspect
+     Author ['S Boschert', 'R Rosen']
+     Venue Mechatronic futures
+     Year 2016
+     Abstract As more and more features are realized using software instead of hardware, simulation models are needed  Existing IT systems like PLM, PDM and SCADA 7 systems store and provide huge  an executable simulation model as an assist system module of the automation software
+     Url https://link.springer.com/chapter/10.1007/978-3-319-32156-1_5
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A proposed hardware fault simulation engine
+     Author ['D Cock', 'A Carpenter']
+     Venue … Conference on Design Automation.
+     Year 1991
+     Abstract Introduction As the complexity of ICs increases, the inability to intu- itively produce a comprehensive test sequence means that test pattern generation becomes increasingly important  In Electronic Design Automation Conference, page ~411, June 1988. VD Agrawal, KT Cheng
+     Url https://ieeexplore.ieee.org/abstract/document/206472/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware simulation of an adaptive control algorithm
+     Author ['S He', 'X Xu']
+     Venue Conference on Modelling and Simulation, Montreal …
+     Year 2007
+     Abstract In this research, preliminary work was conducted to ex- plore the possibility of setting up a hardware simulation to exam  on Design Automation Confer- ence, NewOrleans, Louisiana, USA, 1999, 610-615  on Systems, Man and Cybernet- ics-Part B: Cybernetics, 32(1), Feb
+     Url https://www.actapress.com/Abstract.aspx?paperId=30605
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time process control simulation method and apparatus
+     Author ['JS Bowling']
+     Venue US Patent 5,752,008
+     Year 1998
+     Abstract As shown in FIG. 1, a typical industrial control system 100 comprises a plant 105, at least one device controller 110, a man-machine interface (MMI) unit 115, and a proprietary communication network 120 that links the control system's different elements
+     Url https://patents.google.com/patent/US5752008A/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Simulation by emulating level sensitive latches with edge trigger latches
+     Author ['BD McMinn', 'G Ganapathy']
+     Venue US Patent 5,721,695
+     Year 1998
+     Abstract If the ratio is too high, then the hardware simulation system wastes time that could be  Custom IC hardware modeling using standard ICs for use in IC design validation  US5095454A (en) *, 1989-05-25, 1992-03-10, Gateway Design Automation Corporation, Method and apparatus
+     Url https://patents.google.com/patent/US5721695A/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title μ-Synthesis and Hardware-in-the-loop Simulation of Miniature Helicopter Control System
+     Author ['L Mollov', 'J Kralev', 'T Slavov', 'P Petkov']
+     Venue Journal of Intelligent & Robotic …
+     Year 2014
+     Abstract Page 1. J Intell Robot Syst (2014) 76:315–351 DOI 10.1007/s10846-014-0033-x µ-Synthesis and Hardware-in-the-loop Simulation of Miniature Helicopter Control System L. Mollov · J. Kralev · T. Slavov · P. Petkov Received: 6
+     Url https://link.springer.com/article/10.1007/s10846-014-0033-x
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Development and Design of Simulation Test Environment for Digital Substation Process Level [J]
+     Author ['N YIN', 'M HU', 'X DOU']
+     Venue Jiangsu Electrical Engineering
+     Year 2010
+     Abstract environment for digital substation process level is mainly consisted of hardware simulation device and  Bin(Nanjing Automation Research Institute,Nanjing 210003,China);Architecture of the SCADA System of Digitized Hydropower Plants[J];Hydropower Automation and Dam
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JSDJ201002002.htm
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Retiming-based design flow for delay recovery on inter-die paths in 3D ICs
+     Author ['K Chakrabarty', 'B Noia']
+     Venue US Patent 8,832,608
+     Year 2014
+     Abstract According to certain embodiments, a retiming-based design flow for 3D ICs is provided, where an automated delay recovery can be applied after synthesis and DfT insertion  FIG. 3 illustrates a system in which the delay recovery automation may be implemented. FIGS
+     Url https://patents.google.com/patent/US8832608B1/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Emulation of an Automation System
+     Author ['C Lodes', 'C Spiska', 'M Wangerow']
+     Venue US Patent App. 13/380,782
+     Year 2012
+     Abstract Method and system for testing configuration logic design of DCS (Distributed Control System) of nuclear  US5600579A (en), 1997-02-04, Hardware simulation and design verification system and method  2019-06-27, Method and control device for controlling an automation system
+     Url https://patents.google.com/patent/US20120173221A1/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … on Energy, Automation …
+     Year 2011
+     Abstract Global control systems based on Phase Measurement Units and SCADA systems can also be  of the 2010 International Symposium on Power Electronics Electrical Drives Automation and Motion  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Methodology for the optimization of testing and diagnosis of analog and mixed signal ICs and embedded cores
+     Author ['S Saxena', 'PD Mcnamara', 'C Guardiani']
+     Venue US Patent …
+     Year 2006
+     Abstract test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in  Consequently, the delay in the availability of prototypes and the lack of automation for analog  the major concern for testing analog and mixed signal integrated circuits (Ics) and embedded
+     Url https://patents.google.com/patent/US7003742B2/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design of Embedded Linux Simulation Development Environment
+     Author ['W WANG', 'Z WU']
+     Venue Computer Simulation
+     Year 2005
+     Abstract cooperate.To meet the requirement we discussed current software/hardware simulation technologies  4, Zhang Zuying;Research on Ethernet-based Board-type DCS Application Technology[J  LI Tie-jun,PENG Shi-qiang,SHAO Gui-fang(College of Automation,Chongqing
+     Url http://en.cnki.com.cn/Article_en/CJFDTotal-JSJZ200509069.htm
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Justification for Migration
+     Author ['M Vernak']
+     Venue Manufacturing Business Technology
+     Year 2014
+     Abstract Many process plants have an outdated Distributed Control System (DCS) currently in place  new controllers to existing I/O infrastructures, minimizing downtime during a DCS upgrade  Fortunately, many automation suppliers have I/O scanners or other interface components that
+     Url https://literature.rockwellautomation.com/idc/groups/literature/documents/wp/proces-wp005_-en-p.pdf
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title REDUNDANT FIRMWARE TEST SETUP IN SIMULATION AND HARDWARE: A FEASIBILITY STUDY
+     Author ['P Ekström', 'E Eriksson']
+     Venue NA
+     Year 2018
+     Abstract One company providing automation equipment for industrial use are ABB and their ABB AbilityTM System 800xA1 series, which is a distributed control system (DCS) and supervisory control- and data acquisition (SCADA) system for process automation
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1224969
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Method for modeling a reflected electrical wave in a digital simulation
+     Author ['JC Baco']
+     Venue US Patent 6,892,171
+     Year 2005
+     Abstract BACKGROUND Design automation for integrated circuits (ICs), particularly application specific integrated circuits (ASICs) or entire digital systems on single chipsets, is becoming increasingly important as the integrated circuits (ICs) become more complex and dense
+     Url https://patents.google.com/patent/US6892171B2/en
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design Automation Tools for ASIP Design
+     Author ['K Karuri', 'R Leupers']
+     Venue Application Analysis Tools for ASIP Design
+     Year 2011
+     Abstract As predicted by Gordon Moore in 1965, the number of transistors on ICs have doubled every two years  36 3 Design Automation Tools for ASIP Design  for performance through instruction-set simulation or detailed register transfer level (RTL) based hardware simulation, and the
+     Url https://link.springer.com/chapter/10.1007/978-1-4419-8255-1_3
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title ETFA-2011 Middleware-based Training System for Control and Automation Engineering
+     Author ['C Bruce-Boye', 'D Kazakov', 'S Heinecke', 'M Weg']
+     Venue NA
+     Year NA
+     Abstract The hosts 1..6 simulated the nodes of a distributed control system connected via  Automation Technology The third approach of a distributed middleware is the hardware and  all observed from one control station and centralized data acquisition (SCADA – Supervisory Control
+     Url http://cbb.de/fileadmin/_migrated/content_uploads/middleware_based_training_system_etfa_2011.pdf
+
+
+     Search term "Automation"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A sockets-based implementation of hardware and software co-design
+     Author ['A Herbert']
+     Venue Proceedings. IEEE International Verilog HDL …
+     Year 1996
+     Abstract 94538 R&D (510) 353-6982 Abstract The EDA community has provided the tools to automate and accelerate much of the IC design process. However, the development of large ICs still remains expensive and complex. One
+     Url https://ieeexplore.ieee.org/abstract/document/496021/
+

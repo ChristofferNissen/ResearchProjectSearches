@@ -1,0 +1,35 @@
+Executed Queries:
+
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="DevOps"+"Medical"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"DevOps"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Medical"+"Testing"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Testing"+"Regulated+Domain"
+/scholar?hl=en&lr=lang_en&as_vis=0&as_sdt=0,33&q="Regulated+Domain"+"Medical"
+
+Results for combined keywords
+
+     Combinations with "Regulated+Domain"
+         "Regulated+Domain"+"DevOps" 8
+         "Regulated+Domain"+"Testing" 484
+         "Regulated+Domain"+"Medical" 631
+     Combinations with "DevOps"
+         "DevOps"+"Regulated+Domain" 8
+         "DevOps"+"Testing" 1000
+         "DevOps"+"Medical" 988
+     Combinations with "Medical"
+         "Medical"+"Regulated+Domain" 631
+         "Medical"+"Testing" 1000
+         "Medical"+"DevOps" 988
+     Combinations with "Testing"
+         "Testing"+"Regulated+Domain" 484
+         "Testing"+"DevOps" 999
+         "Testing"+"Medical" 1000
+
+

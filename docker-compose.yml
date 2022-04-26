@@ -1,0 +1,79 @@
+version: '3.3'
+
+services:
+
+    tor:
+      build: tor/
+      image: stifstof/tor:latest
+      container_name: tor_container
+      restart: always
+      network_mode: host
+      ports:
+        - target: 9050
+          published: 9050
+          protocol: tcp
+          mode: host
+        - target: 9051
+          published: 9051
+          protocol: tcp
+          mode: host
+
+    torchecker:
+      build: socks-checker/
+      image: stifstof/torchecker:latest
+      container_name: checker_container
+      restart: always
+      network_mode: host
+      depends_on:
+        - tor
+
+    # multi-tor:
+    #   build: multi-tor/
+    #   image: stifstof/multitor:latest
+    #   container_name: multi-tor_container
+    #   restart: always
+    #   network_mode: host
+    #   environment:
+    #     - TOR_INSTANCES=50
+    #   ports:
+    #     - target: 16379
+    #       published: 16379
+    #       protocol: tcp
+    #       mode: host
+
+    # multi-tor-checker:
+    #   build: http-tor-checker/
+    #   image: stifstof/multitorchecker:latest
+    #   container_name: multitorchecker_container
+    #   restart: always
+    #   network_mode: host
+    #   depends_on:
+    #     - multi-tor
+
+    analysis:
+      build: scraper/
+      image: stifstof/scraper:latest
+      container_name: scraper_container
+      restart: on-failure
+      network_mode: host
+      depends_on:
+        - tor
+      env_file:
+        - envfile.env
+      volumes:
+        # - /home/cn/Documents/git/ResearchProjectSearches/scraper/output:/vagrant/output
+        - /vagrant/output:/output
+
+    consolidate:
+      build: consolidate/
+      image: stifstof/consolidate:latest
+      container_name: consolidator_container
+      restart: on-failure
+      network_mode: host
+      depends_on:
+        - tor
+      env_file:
+        - envfile.env
+      volumes:
+        # - /home/cn/Documents/git/ResearchProjectSearches/scraper/output:/results
+        - /vagrant/output:/output

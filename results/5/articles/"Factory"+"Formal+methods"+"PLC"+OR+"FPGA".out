@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Improving automation software dependability: A role for formal methods?
+     Author ['TL Johnson']
+     Venue Control engineering practice
+     Year 2007
+     Abstract Factory-level regression test suites will probably become a reality  Formal methods for developing and verifying diagnostic codes have been proposed (Paoli & Lafortune  However, even for networks consisting exclusively of interconnected PLC's, system level verification remains
+     Url https://www.sciencedirect.com/science/article/pii/S0967066106001249
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Development of RTOS for PLC using formal methods
+     Author ['JH Kim', 'SY Lee', 'YA Ahn', 'JH Sim', 'JS Yang']
+     Venue … for Verification and …
+     Year 2004
+     Abstract Programmable logic controller(PLC) is a computer system for instrumentation and control (I&C) systems such as control of machin- ery on factory assembly lines and nuclear power plants  In this paper, we apply formal methods to a development of RTOS for PLC,which is
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30476-0_40
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods in factory automation
+     Author ['C Popescu', 'JLM Lastra']
+     Venue NA
+     Year 2010
+     Abstract Unlike verification, validation cannot be fully automated, because it implies investigation of informal specification. Page 7. Formal Methods in Factory Automation 469 Fig. 5. Formal methods in PLC programming (adapted from (Frey & Litz, 2000)) Fig. 6. Model checking
+     Url https://www.researchgate.net/profile/Jose_Luis_Martinez_Lastra/publication/221908293_Formal_Methods_in_Factory_Automation/links/09e4150dc9eaf06c87000000/Formal-Methods-in-Factory-Automation.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design of safe PLC programs by using Petri nets and formal methods
+     Author ['EI Gergely', 'L Coroiu', 'A Gacsadi']
+     Venue Recent Advances in Automation & …
+     Year 2010
+     Abstract Yang, NY Lee and JY Choi, Development of RTOS for PLC using formal methods, Lecture  Analysis of different Networked Automation System Architectures, Proceedings of the 13th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA
+     Url https://www.academia.edu/download/51320578/Design_of_safe_PLC_programs_by_using_Pet20170112-20346-1yjfaqp.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A verification-supported evolution approach to assist software application engineers in industrial factory automation
+     Author ['S Ulewicz', 'M Ulbrich', 'A Weigl', 'M Kirsten']
+     Venue … on Assembly and …
+     Year 2016
+     Abstract Weigl, “Regression Verification for Programmable Logic Controller Software,” in Formal Methods and Software  Kormann, D. Tikhonov, and B. Vogel-Heuser, “Automated PLC Software Testing  results,” in IEEE Conference on Emerging Technologies in Factory Automation, 2011
+     Url https://ieeexplore.ieee.org/abstract/document/7750714/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal validation of PLC programs: a survey
+     Author ['S Lampérière-Couffin', 'O Rossi']
+     Venue 1999 European …
+     Year 1999
+     Abstract Babb M., “IEC 1131-3: A Standard Programming Resource for PLC”, Control Engineering  S., Ralston T., “An International Survey of Industrial Applications of Formal Methods”, Volume 1  5th IEEE International Conference on Emerging Technologies and Factory Automation, (1996
+     Url https://ieeexplore.ieee.org/abstract/document/7099641/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Improving automation software dependability: a role for formal methods?
+     Author ['TL Johnson']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract Factory- level regression test suites will probably become a reality  Formal methods for developing and verifying diagnostic codes have been proposed (Paoli and LaFortune  However, even for networks consisting exclusively of interconnected PLC's, system level verification
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361128
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A classification of PLC models and applications
+     Author ['A Mader']
+     Venue Discrete Event Systems
+     Year 2000
+     Abstract In the past years there is an increasing interest in analysing PLC appli- cations with formal methods  The criteria include the PLC execution mechanism, the treatment of time and language fragments used  costs quickly get out of hand, eg for shutting down a factory, or replication
+     Url https://link.springer.com/chapter/10.1007/978-1-4615-4493-7_24
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A survey of static formal methods for building dependable industrial automation systems
+     Author ['R Sinha', 'S Patil', 'L Gomes']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract of PLC programs based on extended λ-calculus appears in [87], leading toward theorem proving and model checking. Some works deal with graphical, intuitive, and more user- friendly front-end specification languages that are aimed at making formal methods more accessible
+     Url https://ieeexplore.ieee.org/abstract/document/8678839/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Towards usage of formal methods within embedded systems co-design
+     Author ['L Gomes', 'JP Barros', 'A Costa', 'R Pais']
+     Venue … and Factory …
+     Year 2005
+     Abstract on a reconfigurable platform, typically based on a FPGA (Field Programmable  Co-design"; MEMOCODE'2003 - First ACM/IEEE Conference on Formal Methods and Programming  2003 - 2003 IEEE Conference on Emerging Technologies and Factory Automation Proceedings
+     Url https://ieeexplore.ieee.org/abstract/document/1612535/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract Praxis plc, 20 Manvers Street, Bath BA1 1PX, UK  IBM PS/2 micro- computers, was formally specified in VVSL and (in June 1992) has passed factory acceptance  These standards, and several others in production or recently issued, recommend the use of formal methods for safety
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A formal method based re-implementation concept for PLC programs and its application
+     Author ['MB Younis', 'G Frey']
+     Venue … on Emerging Technologies and Factory …
+     Year 2006
+     Abstract 10]. The re- engineering consists of the following main steps which will be detailed in the following sections: 1. Reverse-engineering of the given PLC program through formal methods using Internet technologies. 2. Evolution
+     Url https://ieeexplore.ieee.org/abstract/document/4178179/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract The difference being whether the tests are performed in the factory or in the real plant  where testing procedures must be applied, the test methods employed focusing basically in automated tests mechanisms and formal methods  UNICOS PLC CONTROL SYSTEMS
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal model-based development in industrial automation with reactive blocks
+     Author ['P Herrmann', 'JO Blech']
+     Venue Federation of International Conferences on …
+     Year 2016
+     Abstract Accessed 28 Jan 2016. 26. Rausch, M., Krogh, BH: Formal verification of PLC programs  Rushby, J.: Disappearing formal methods. In: High-Assurance Systems Engineering Symposium, pp. 95–96. ACM  In: Emerging Technologies and Factory Automation (ETFA), vol
+     Url https://link.springer.com/chapter/10.1007/978-3-319-50230-4_19
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A Petri Net formal design methodology for discrete-event control of industrial automated systems
+     Author ['S Korotkin', 'G Zaidner', 'B Cohen']
+     Venue 2010 IEEE 26-th …
+     Year 2010
+     Abstract with strict safety requirements for discrete event control systems (DECS) made the application of formal methods in PLC  illions, June 2000, pp.5019-5024 [3] M. Minas and G. Frey, “Visual PLC-Programming using  IEEE Symp Emerging Technology and Factory Automation (ETFA
+     Url https://ieeexplore.ieee.org/abstract/document/5662187/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An International Survey of Industrial Applications of Formal Methods. Volume 2. Case Studies
+     Author ['DH Craigen', 'SL Gerhart', 'TJ Ralston']
+     Venue NA
+     Year 1993
+     Abstract client, Praxis formally defined the interfaces between various components of a distributed factory control system  1. Hall, JA, "Seven Myths of Formal Methods," IEEE Software, September, 1990, pp  Date of Interview: May 15, 1992 Organization: Praxis Systems plc, Bath, England
+     Url https://apps.dtic.mil/sti/citations/ADA272179
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC-statecharts: An approach to integrate UML-statecharts in open-loop control engineering–aspects on behavioral semantics and model-checking
+     Author ['D Witsch', 'B Vogel-Heuser']
+     Venue IFAC Proceedings Volumes
+     Year 2011
+     Abstract This approach enables the further use of formal methods such as model-checking  PLC- statecharts the integration of model-checking techniques into PLC-programming will  2009 - 14th IEEE International Conference on Emerging Technologies and Factory Automation, Palma
+     Url https://www.sciencedirect.com/science/article/pii/S147466701644872X
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The state-of-the-art in formal methods
+     Author ['M Barjaktarovic', 'M Nassiff']
+     Venue … for Rome Research Site, Formal Methods …
+     Year 1998
+     Abstract Use of formal methods also improves product quality, but this argument might not elicit enthusiastic response from the management unless it is  For example, auto-manufacturing industry loses $3,000-4,000 every minute of factory downtime; Intel lost over $400 million on the
+     Url http://www.cs.utexas.edu/users/csed/formal-methods/docs/StateFM.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Component-based formal modeling of PLC systems
+     Author ['R Wang', 'Y Guan', 'L Liming', 'X Li', 'J Zhang']
+     Venue Journal of Applied …
+     Year 2013
+     Abstract A tiny error may cause financial losses or even cost human lives. Formal methods are an effective way to analyze and assure the reliability of complex systems. Programmable logic controller (PLC), a typical control system, is popular in industry
+     Url https://www.hindawi.com/journals/jam/2013/721624/abs/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A methodology for automatic generation, formal verification and implementation of safe PLC programs for power supply equipment of the electric lines of railway …
+     Author ['M Niang', 'B Riera', 'A Philippot', 'J Zaytoon', 'F Gellot']
+     Venue Computers in …
+     Year 2020
+     Abstract after proofreading of the new deliverables, the V&V phases are conducted in factory before real  The reason is twofold: on the one hand formal methods proposed in the literature are  However, practical experience of the PLC engineering shows that the major modifications are
+     Url https://www.sciencedirect.com/science/article/pii/S0166361520305625
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal component-based modeling and synthesis for PLC systems
+     Author ['M Zhou', 'H Wan', 'R Wang', 'X Song', 'C Su', 'M Gu']
+     Venue Computers in industry
+     Year 2013
+     Abstract It is widely applied in control of machinery or factory assembly lines  A known fact is that testing is practical but incomplete. To overcome this incompleteness, there are many works that aim at verifying existing PLC systems by using formal methods
+     Url https://www.sciencedirect.com/science/article/pii/S0166361513001371
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A hybrid PC/PLC architecture for manufacturing-system control—theory and implementation
+     Author ['A Ramirez-Serrano', 'SC Zhu', 'SKH Chan']
+     Venue Journal of intelligent …
+     Year 2002
+     Abstract in a manufacturing system, and neither two nor more events can be executed by the workcell during the same PLC scan cycle  PNs and RW Automata theory, however, are the two formal methods proposed by a large number of researchers (D'Souza and Khator, 1994; Lauzon et
+     Url https://link.springer.com/article/10.1023/A:1016020327884
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A method for PLC implementation of supervisory control of discrete event systems
+     Author ['AD Vieira', 'EAP Santos', 'MH de Queiroz']
+     Venue … on Control Systems …
+     Year 2016
+     Abstract activities. Due to their exper- tise and/or application of formal methods, programmable logic controller (PLC) practitioners and equipment manufacturers develop efficient and safe solutions to address this problem. The second
+     Url https://ieeexplore.ieee.org/abstract/document/7452406/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Virtual start–up of plants using formal methods
+     Author ['S Preuße', 'C Gerber']
+     Venue International journal of …
+     Year 2011
+     Abstract This might sound as a restriction, but if formal methods prove the software to be correct, it will only have to be adjusted if the plant configuration changes  In this contribution, a Siemens Programmable Logic Controller (PLC) is used
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2011.045401
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modeling and analysis of FPGA based power management system for renewables
+     Author ['PS Tekale', 'R Ayyagari', 'SD Sudarsan']
+     Venue … and Factory …
+     Year 2017
+     Abstract Our main objective is to ensure correctness of the system design using formal methods based techniques. Through our case study, we establish the correctness of the FPGA based control algorithm with respect to the system requirements
+     Url https://ieeexplore.ieee.org/abstract/document/8247717/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A modeling approach for verification of IEC1499 function blocks using net condition/event systems
+     Author ['V Vyatkin', 'HM Hanisch']
+     Venue … Emerging Technologies and Factory …
+     Year 1999
+     Abstract by formal methods. An inherent feature of present real-time systems development is their formal verification. Theoreti- cally it is based on the works of E. Clarke [8], J. Os- troff [12, 131, Z. Manna and A. Pnueli [ll], R. Alur et al. [5,6]. In particular, verification of PLC programs (within
+     Url https://ieeexplore.ieee.org/abstract/document/815365/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Simulation framework for the verification of PLC programs in automobile industries
+     Author ['LJ Koo', 'CM Park', 'CH Lee', 'SC Park']
+     Venue International Journal of …
+     Year 2011
+     Abstract However, formal methods for verification and validation are not fully employed in manufacturing industries. These techniques have been confined mostly to academic research labs  (2006) tried to verify the ladder logic of PLC programs using a virtual factory that consists
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207543.2010.492404
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automatic test of safety specifications for PLC programs in the Oil and Gas Industry
+     Author ['TJ Prati', 'JM Farines', 'MH De Queiroz']
+     Venue IFAC-PapersOnLine
+     Year 2015
+     Abstract The Factory Acceptance Test (FAT) document describes how to test the final automation program in  In order to create and validate a PLC program, tech- niques based on the correct  Petri Nets, timed automata and other formal methods have been widely used for validation in the
+     Url https://www.sciencedirect.com/science/article/pii/S2405896315008721
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Structural reasoning in proving system correctness
+     Author ['A Lobov', 'JLM Lastra']
+     Venue … on Emerging Technologies and Factory …
+     Year 2007
+     Abstract Also it may increase the usability of formal methods by allowing programmers to develop PLC code directly that is translated later to the formal model. Finding the right balance in formal methods application is one of the main challenges. On one hand, the factory floor engineer
+     Url https://ieeexplore.ieee.org/abstract/document/4416835/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An Algorithm for Siemens STL representation in TNCES
+     Author ['A Lobov', 'C Popescu', 'JLM Lastra']
+     Venue … Technologies and Factory …
+     Year 2006
+     Abstract executed on dedicated device (eg Programmable Logic Controller (PLC))  In order to bring the potentials of formal methods to the factory floor, different approach may be utilized that is based on formalization of ready-made implementation
+     Url https://ieeexplore.ieee.org/abstract/document/4178286/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLCverif re-engineered: An open platform for the formal analysis of PLC programs
+     Author ['D Darvas', 'E Blanco', 'SV Molnár']
+     Venue Proceedings of the 17th …
+     Year 2019
+     Abstract 2013 IEEE 18th Int. Conf. on Emerging Technologies & Factory Automation, 2013, pp  doi:10. 18429/JACoW-ICALEPCS2015-WEPGF092 [5] D. Darvas, M. István and E. Blanco, “Formal Verification of Safety PLC Based Control Software”, Integrated Formal Methods, ser
+     Url http://icalepcs2019.vrws.de/papers/mobpp01.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A toolset for model checking of PLC software
+     Author ['A Pakonen', 'T Mätäsniemi', 'J Lahtinen']
+     Venue … & Factory Automation …
+     Year 2013
+     Abstract like NuSMV a viable tool for the evaluation of PLC software. Due to lack of domain-specific tools, however, application of model checking is all but mainstream in the control engineering domain. A lot of time and expertise are needed, as is common with formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/6648065/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Manufacturing plant control challenges and issues
+     Author ['G Morel', 'P Valckenaers', 'JM Faure', 'CE Pereira']
+     Venue Control Engineering …
+     Year 2007
+     Abstract centralized older solutions and the ability to cope with the real-factory dynamics of  (2004) address the issue of bridging the gap between industrial practices and formal methods  Wonham supervisory control theory to the automatic model generation and plc code implementation
+     Url https://www.sciencedirect.com/science/article/pii/S096706610700113X
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Development of RTOS for PLC Using Formal Methods
+     Author ['JS Yang', 'NY Lee', 'JY Choi']
+     Venue Automated Technology for Verification and …
+     Year 2004
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automatic generation of PLC programs for control of flexible manufacturing cells
+     Author ['J Richardsson', 'M Fabian']
+     Venue … Emerging Technologies and Factory …
+     Year 2003
+     Abstract After that the mechanical design is verified by a 3D-simulation. Finally the same control function is implemented a third time, in the PLC program. Formal methods, that is mathematical reasoning about system model properties
+     Url https://ieeexplore.ieee.org/abstract/document/1248719/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title User-friendly formal specification languages-conclusions drawn from industrial experience on model checking
+     Author ['A Pakonen', 'C Pang', 'I Buzhinsky']
+     Venue … and Factory Automation …
+     Year 2016
+     Abstract analyzing I&C systems, discrete time is usually a sufficient approximation for the cyclic processing of time in, for example, PLC equipment [15  Verification of safety properties, in particular, highlights the advantages of formal methods, as it can be difficult to assess what kind of test
+     Url https://ieeexplore.ieee.org/abstract/document/7733717/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Factory Automation
+     Author ['J Silvestre-Blanes']
+     Venue NA
+     Year 2010
+     Abstract 1832. Open access peer-reviewed. 23. Formal Methods in Factory Automation By Corina Popescu and Jose L. Martinez Lastra. 2082. Open access peer-reviewed. 24  27. Developing FPGA-based Embedded Controllers Using Matlab/Simulink By T. Barlas and M. Moallem
+     Url https://www.intechopen.com/books/factory-automation
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of UML-modeled machine controls
+     Author ['T Klotz', 'E Fordran', 'B Straube']
+     Venue … Technologies & Factory …
+     Year 2009
+     Abstract Improving automation software depend- ability: A role for formal methods  by Transformation of Hierachical State Machine Control Models into IEC 61131 PLC Code  Proceedings of the IEEE International Conference on Emerging Technologies and Factory Automation, pages
+     Url https://ieeexplore.ieee.org/abstract/document/5347044/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A model-driven approach for transforming GRAFCET specification into PLC code including hierarchical structures
+     Author ['R Julius', 'T Trenner', 'J Neidig', 'A Fay']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Control practitioners regard the use of formal specification languages for PLC programming as an  On the other hand, formal methods proposed in the literature are often based on  Hamburg, Germany {robert.julius, alexander.fay}@hsu-hh.de ** Digital Factory Division, Siemens
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319314387
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Real-Time SCADA Attack Detection by Means of Formal Methods
+     Author ['F Mercaldo', 'F Martinelli']
+     Venue 2019 IEEE 28th …
+     Year 2019
+     Abstract using peripheral devices such as pro- grammable logic controller (PLC) [1]. There  II. BACKGROUND Preliminary concepts about the formal methods technique considered in this paper  IEEE 17th International Conference on Emerging Technologies & Factory Automation
+     Url https://ieeexplore.ieee.org/abstract/document/8795430/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title MODEL BASED TESTING OF PLC FACTORY AUTOMATION SOFTWARE
+     Author ['A Kuusik', 'J Vain']
+     Venue NA
+     Year NA
+     Abstract Page 1. Tallinn 2017 TALLINN UNIVERSITY OF TECHNOLOGY School of Information Technologies Eren Cizmecioglu 146675IVEM MODEL BASED TESTING OF PLC FACTORY AUTOMATION SOFTWARE Master's thesis Supervisor: Co-Supervisor: Alar Kuusik PhD
+     Url https://digikogu.taltech.ee/et/Download/c9f7dd5f-3ed5-4645-96b6-9141ed4d7665/MudeliphinePLCTstustarkvaraTestimine.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design framework of PLC-based control for reconfigurable manufacturing systems
+     Author ['M Schreyer', 'MM Tseng']
+     Venue … of international conference on flexible automation …
+     Year 2000
+     Abstract 4. Boucher, TO, and Jafari, MA (1992), “Design of a factory floor sequence controller  8. Duran, O. and Batocchio, A. (1999), “Automatic PLC software generator with a natural  Olderog, ER (1998), “Formal methods in real-time systems,” Proceedings of IEEE EuroMicro '98, Berlin
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.42.8102&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Sensor graphs for discrete event modeling applied to formal verification of PLCs
+     Author ['T Alenljung', 'B Lennartson']
+     Venue IEEE transactions on …
+     Year 2011
+     Abstract of Sensor Graphs is to sim- plify the modeling of the plant/process that is to be controlled by a discrete controller, for example a programmable logic controller (PLC); thereby making formal verification and other model-based formal methods more applicable for PLC programmers
+     Url https://ieeexplore.ieee.org/abstract/document/6046105/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Transformation of GRAFCET to PLC code including hierarchical structures
+     Author ['R Julius', 'M Schürenberg', 'F Schumacher']
+     Venue Control Engineering …
+     Year 2017
+     Abstract The reason is twofold: on the one hand formal methods proposed in the literature are based on  2, S. 1034–1039., Witsch, D., Vogel-Heuser, B.: PLC-Statecharts: An Approach to  In: 2009 IEEE Conference on Emerging Technologies & Factory Automation, Mallorca, 2009, S. pp
+     Url https://www.sciencedirect.com/science/article/pii/S0967066117300709
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC-statecharts: An approach to integrate umlstatecharts in open-loop control engineering
+     Author ['D Witsch', 'M Ricken', 'B Kormann']
+     Venue 2010 8th IEEE …
+     Year 2010
+     Abstract of PLC-statecharts can easily support code- synthesis, but also formal methods like model  However, in this context PLC-statecharts can be used transparently with other IEC  2009 - 14th IEEE International Conference on Emerging Technologies and Factory Automation, Palma
+     Url https://ieeexplore.ieee.org/abstract/document/5549619/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Applicability of generalized test tables: a case study using the manufacturing system demonstrator xPPU
+     Author ['S Cha', 'A Weigl', 'M Ulbrich', 'B Beckert']
+     Venue at …
+     Year 2018
+     Abstract Thus, there is a need to support formal verification of PLC soft- ware [8]. But formal verification is not  While non-formal behavior verification, eg, using a conventionaltestingprocess, islargelybasedontheactual execution of a system, formal methods provide proofs en- suring
+     Url https://www.degruyter.com/view/journals/auto/66/10/article-p834.xml
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Experience with formal methods implementing the PROFIBUS FMS and DP protocol for industrial applications
+     Author ['A Poschmann', 'J Hahniche', 'P Deicke']
+     Venue … Workshop on Factory …
+     Year 1997
+     Abstract Our experience is that formal methods are in general very useful also in the kind of embedded applications  We recommend the use of one Estelle module for each sublayer for implementation issues in factory communi- cation systems
+     Url https://ieeexplore.ieee.org/abstract/document/634310/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title On controller and plant modeling for model-based formal verification
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko']
+     Venue … Technologies and Factory …
+     Year 2005
+     Abstract 1. Introduction We apply formal methods for modeling and verification of shop-floor equipment used in factory automation  Programmable Logic Controller (PLC) is seen here as a controller device used at the shop-floor. Figure 1. Elements of verification procedure
+     Url https://ieeexplore.ieee.org/abstract/document/1612510/
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract Studies that use modelling languages (Petri nets, UML, etc.) in representing PLC software  Studies that use formal methods other than model checking like theorem proving  the area; among those, IEEE Conference on Emerging Technologies and Factory Automation proceedings
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Factory"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Specification and verification of the RTOS for plant protection systems
+     Author ['JH Kim', 'YA Ahn', 'SY Lee', 'JY Choi', 'NY Lee']
+     Venue NA
+     Year 2004
+     Abstract [Not Found]
+     Url https://www.osti.gov/etdeweb/biblio/20654308
+

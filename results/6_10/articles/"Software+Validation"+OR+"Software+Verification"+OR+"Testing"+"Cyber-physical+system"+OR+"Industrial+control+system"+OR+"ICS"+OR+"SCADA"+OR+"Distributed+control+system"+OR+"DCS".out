@@ -1,0 +1,91 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing ICs: Getting to the core of the problem
+     Author ['BT Murray', 'JP Hayes']
+     Venue Computer
+     Year 1996
+     Abstract The article examines the market and technology trends affecting the testing of integrated circuits, with emphasis on the role of predesigned components-cores-and built in self test. We explain manufacturing testing, as opposed to design testing, which happens before
+     Url https://ieeexplore.ieee.org/abstract/document/544235/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Very-low-voltage testing for weak CMOS logic ICs
+     Author ['H Hao', 'EJ McCluskey']
+     Venue Proceedings of IEEE International Test …
+     Year 1993
+     Abstract In this paper we propose a very-low-voltage (VLV) testing technique for CMOS logic ICs. Voltage dependence of CMOS logic circuit operation in the presence of resistive shorts and hot carrier damage is studied. It is shown that at certain much-lower-than-normal power
+     Url https://ieeexplore.ieee.org/abstract/document/470686/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing TSV-based three-dimensional stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2010 Design, Automation & Test in Europe …
+     Year 2010
+     Abstract To meet customer's product-quality expectations, each individual IC needs to be tested for manufacturing defects incurred during its many high-precision, and hence defect-prone manufacturing steps; these tests should be both effective and cost-efficient. The
+     Url https://ieeexplore.ieee.org/abstract/document/5457087/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A gated clock scheme for low power scan testing of logic ICs or embedded cores
+     Author ['Y Bonhomme', 'P Girard', 'L Guiller']
+     Venue … 10th Asian Test …
+     Year 2001
+     Abstract Test power is now a big concern in large system-on-chip designs. In this paper, we present a novel approach for minimizing power consumption during scan testing of integrated circuits or embedded cores. The proposed low power technique is based on a gated clock scheme
+     Url https://ieeexplore.ieee.org/abstract/document/990291/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Assessing the organizational context for EBP implementation: the development and validity testing of the Implementation Climate Scale (ICS)
+     Author ['MG Ehrhart', 'GA Aarons', 'LR Farahnak']
+     Venue Implementation Science
+     Year 2014
+     Abstract Background Although the importance of the organizational environment for implementing evidence-based practices (EBP) has been widely recognized, there are limited options for measuring implementation climate in public sector health settings. The goal of this research
+     Url https://link.springer.com/article/10.1186/s13012-014-0157-1
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Challenges and emerging solutions in testing TSV-based 2 1 over 2D-and 3D-stacked ICs
+     Author ['EJ Marinissen']
+     Venue 2012 Design, Automation & Test in Europe …
+     Year 2012
+     Abstract Through-Silicon Vias (TSVs) provide high-density, low-latency, and low-power vertical interconnects through a thinned-down wafer substrate, thereby enabling the creation of 2.5 D-and 3D-Stacked ICs. In 2.5 D-SICs, multiple dies are stacked side-by-side on top of a
+     Url https://ieeexplore.ieee.org/abstract/document/6176689/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Small delay testing for TSVs in 3-D ICs
+     Author ['SY Huang', 'YH Lin', 'KH Tsai', 'WT Cheng']
+     Venue DAC Design …
+     Year 2012
+     Abstract In this work, we present a robust small delay test scheme for through-silicon vias (TSVs) in a 3D IC. By changing the output inverter's threshold of a TSV in a testable oscillation ring structure, we can approximate the propagation delay across that TSV, and thereby detecting
+     Url https://ieeexplore.ieee.org/abstract/document/6241631/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Test Generation for Current Testing (CMOS ICs)
+     Author ['P Nigh', 'W Maly']
+     Venue IEEE Design & Test of Computers
+     Year 1990
+     Abstract Current testing is useful for testing CMOS ICs because it can detect a large class of manufacturing defects, including defects that traditional stuck-at fault testing misses. The effectiveness of current testing can be enhanced if built-in current sensors are applied on
+     Url https://ieeexplore.ieee.org/abstract/document/46891/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Adaptable wafer probe assembly for testing ICs with different power/ground bond pad configurations
+     Author ['GL Small']
+     Venue US Patent 5,491,426
+     Year 1996
+     Abstract An adaptable probe card assembly for testing an IC die includes a probe card and a decoupling apparatus selectably mounted on the probe card. A different decoupling apparatus is used for each IC die to be tested having a different power and ground bond pad
+     Url https://patents.google.com/patent/US5491426A/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Testing oriented analysis of CMOS ICs with opens
+     Author ['W Maly', 'PK Nag', 'P Nigh']
+     Venue 1988 IEEE International Conference on …
+     Year 1988
+     Abstract In a typical approach to VLSI testing, open faults are modeled by the transistor-stuck-open fault model or are not explicitly covered at all. It is shown that functional faults caused by opens, ie by regions with missing material, cannot be modeled well by a transistor stuck
+     Url https://www.computer.org/csdl/proceedings-article/iccad/1988/00122525/12OmNxXl5Az
+

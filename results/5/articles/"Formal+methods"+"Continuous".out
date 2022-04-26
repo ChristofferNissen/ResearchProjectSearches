@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Continuous"
+
+     Search term "Formal+methods"+"Continuous"
+     Title Continuous reasoning: Scaling the impact of formal methods
+     Author ["PW O'Hearn"]
+     Venue Proceedings of the 33rd Annual ACM/IEEE Symposium …
+     Year 2018
+     Abstract This paper describes work in continuous reasoning, where formal reasoning about a (changing) codebase is done in a fashion which mirrors the iterative, continuous model of software development that is increasingly practiced in industry. We suggest that advances in
+     Url https://dl.acm.org/doi/abs/10.1145/3209108.3209109
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Application of level set methods to control and reachability problems in continuous and hybrid systems.
+     Author ['IM Mitchell']
+     Venue NA
+     Year 2003
+     Abstract Tomlin.<br><p>Computer control is an intimate part of many modern devices, and yet there exist few formal methods for designing and analyzing the complex interactions between the discrete realm of digital computers and the continuous dynamics that hold sway outside of it
+     Url https://elibrary.ru/item.asp?id=5395101
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Enabling continuous integration in a formal methods setting
+     Author ['LD Couto', 'PWV Tran-Jørgensen', 'RS Nilsson']
+     Venue International Journal on …
+     Year 2019
+     Abstract In modern software development, the practices of continuous integration and DevOps are widely used to increase delivery speed and reduce the time it takes to deploy software changes to production. If formal method tools cannot be efficiently integrated in a DevOps
+     Url https://link.springer.com/content/pdf/10.1007/s10009-019-00546-y.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Coverage-guided test generation for continuous and hybrid systems
+     Author ['T Dang', 'T Nahhal']
+     Venue Formal Methods in System Design
+     Year 2009
+     Abstract In this paper, we describe a formal framework for conformance testing of continuous and hybrid systems, using the international standard 'Formal Methods in Conformance Testing'FMCT. We propose a novel test coverage measure for these systems, which is
+     Url https://link.springer.com/content/pdf/10.1007/s10703-009-0066-0.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Continuous modeling of real-time and hybrid systems: from concepts to tools
+     Author ['KG Larsen', 'B Steffen', 'C Weise']
+     Venue International Journal on Software Tools for …
+     Year 1997
+     Abstract What this article is about: • Continuous time modeling • Formal methods: a key towards automation • The essence of discrete time modeling • Timed automata-based modeling • The power of drifting clocks • The nature of hybrid systems • The tools Kronos, Uppaal, HyTech
+     Url https://link.springer.com/content/pdf/10.1007/s100090050006.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Towards Hilbertian Formal Methods
+     Author ['MC Bujorianu', 'ML Bujorianu']
+     Venue … International Conference on …
+     Year 2007
+     Abstract This mixed discrete/continuous mathematics form the basis of the well-developed theory of hybrid systems [5]. In the deterministic case, formal methods are now mature for specification and verification of a large class of safety prop- erties
+     Url https://ieeexplore.ieee.org/abstract/document/4276287/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Performance Evaluation and Control of Manufacturing Systems A Continuous Petri Nets View
+     Author ['M Silva', 'E Fraca', 'L Wang']
+     Venue Formal Methods in Manufacturing
+     Year 2018
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal verification of cyber-physical systems: coping with continuous elements
+     Author ['MU Sanwal', 'O Hasan']
+     Venue … Conference on Computational Science and Its …
+     Year 2013
+     Abstract Page 4. Formal Verification of Cyber-Physical Systems 361 of CPS in [20]. Moreover, in order to formally specify CPS along with their continuous aspects, a combination of formal methods Timed-CSP, ZimOO and differential (algebraic) equations is used in [30]
+     Url https://link.springer.com/chapter/10.1007/978-3-642-39637-3_29
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Invisible formal methods for embedded control systems
+     Author ['A Tiwari', 'N Shankar', 'J Rushby']
+     Venue Proceedings of the IEEE
+     Year 2003
+     Abstract Embedded control systems typically comprise continuous con- trol laws combined with discrete mode logic  We motivate a methodology called invisible formal methods that provides a graded sequence of formal analysis technologies ranging from extended typechecking
+     Url https://ieeexplore.ieee.org/abstract/document/1173184/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal reasoning about expectation properties for continuous random variables
+     Author ['O Hasan', 'N Abbasi', 'B Akbarpour', 'S Tahar']
+     Venue … on Formal Methods
+     Year 2009
+     Abstract Expectation (average) properties of continuous random variables are widely used to judge performance characteristics in engineering and physical sciences. This paper presents an infrastructure that can be used to formally reason about expectation properties of most of the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-05089-3_28
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Provably correct continuous control for high-level robot behaviors with actions of arbitrary execution durations
+     Author ['V Raman', 'N Piterman']
+     Venue 2013 IEEE International …
+     Year 2013
+     Abstract Formal methods have recently been successfully applied to construct verifiable high-level robot control  Relaxing these assumptions unearths a number of challenges in the continuous implementation of automatically-synthesized hybrid controllers
+     Url https://ieeexplore.ieee.org/abstract/document/6631152/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Continuous formal verification of Amazon s2n
+     Author ['A Chudnov', 'N Collins', 'B Cook', 'J Dodds']
+     Venue … on Computer Aided …
+     Year 2018
+     Abstract their security proof in our work. O'Hearn details the industry impact of continuous reasoning about code in [19], and describes additional instances of integration of formal methods with developer workflows. 2 Proof of HMAC
+     Url https://link.springer.com/chapter/10.1007/978-3-319-96142-2_26
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods for modeling and analysis of hybrid systems
+     Author ['A Tiwari', 'PD Lincoln']
+     Venue US Patent 7,574,334
+     Year 2009
+     Abstract US7574334B2 - Formal methods for modeling and analysis of hybrid systems - Google Patents. Formal methods for modeling and analysis of hybrid systems. Download PDF Info. Publication number US7574334B2. US7574334B2
+     Url https://patents.google.com/patent/US7574334B2/en
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods for biochemical signalling pathways
+     Author ['M Calder', 'S Gilmore', 'J Hillston']
+     Venue Formal Methods: State of …
+     Year 2010
+     Abstract We apply quantitative formal methods to a domain from the life sciences: biochemical signalling pathways. The key idea is to model pathways as stochastic continuous time distributed systems
+     Url https://link.springer.com/chapter/10.1007/978-1-84882-736-3_6
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Anomaly detection in cyber-physical systems: A formal methods approach
+     Author ['A Jones', 'Z Kong', 'C Belta']
+     Venue 53rd IEEE Conference on Decision …
+     Year 2014
+     Abstract In this paper, we apply formal methods to an anomaly de- tection framework to identify whether or not a given CPS is under attack  fits a given set of data by iteratively using the DAG to perform a search over the set of iPSTL formula and using continuous optimization methods in
+     Url https://ieeexplore.ieee.org/abstract/document/7039487/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Pegasus: A framework for sound continuous invariant generation
+     Author ['A Sogokon', 'S Mitsch', 'YK Tan', 'K Cordwell']
+     Venue … on Formal Methods
+     Year 2019
+     Abstract Continuous invariants are an important component in deductive verification of hybrid and continuous systems. Just like discrete invariants are used to reason about correctness in discrete systems without unrolling their loops forever, continuous invariants are used to
+     Url https://link.springer.com/chapter/10.1007/978-3-030-30942-8_10
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Direct formal verification of liveness properties in continuous and hybrid dynamical systems
+     Author ['A Sogokon', 'PB Jackson']
+     Venue International Symposium on Formal Methods
+     Year 2015
+     Abstract This paper is concerned with proof methods for the temporal property of eventuality (a type of liveness) in systems of polynomial ordinary differential equations (ODEs) evolving under constraints. This problem is of a more general interest to hybrid system verification, where
+     Url https://link.springer.com/chapter/10.1007/978-3-319-19249-9_32
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods for the specification and design of real-time safety critical systems
+     Author ['JS Ostroff']
+     Venue Journal of Systems and Software
+     Year 1992
+     Abstract This article surveys formal methods for specifying, design- ing, and verifying real-time systems so as to improve their safety and reliability  Time is continuous, monotonic, and divergent, whereas pro- gram variables generally do not have such properties
+     Url https://www.sciencedirect.com/science/article/pii/016412129290045L
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods for discrete-time dynamical systems
+     Author ['C Belta', 'B Yordanov', 'EA Gol']
+     Venue NA
+     Year 2017
+     Abstract comprehensive expositions of theory and practice of embedded and cyber-physical systems, together with corresponding verification and synthesis techniques; [162, 144] are research monographs on formal methods for hybrid systems, which combine continuous and discrete
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-50763-7.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Enhancing continuous learning: Diagnostic findings from multiple companies
+     Author ['SI Tannenbaum']
+     Venue … : Published in Cooperation with the School of …
+     Year 1997
+     Abstract describes, both conceptually and empirically, how salient aspects of an or- ganization's work environment can influence whether continuous learning will  US) businesses spend up- wards of $30 billion per year on formalized training, and other less formal methods of learning
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-050X(199724)36:4%3C437::AID-HRM7%3E3.0.CO;2-W
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title " Continuous verification" in mission critical software development
+     Author ['T Chang', 'A Danylyzsn', 'S Norimatsu']
+     Venue Proceedings of the …
+     Year 1997
+     Abstract “Continuous Verification” in Mission Critical Software Development  Recognizing that traditional testing is conducted too late in development to ensure the quality of mission critical sof*lvare, the process emphasizes verification through applying formal methods, inspections in all
+     Url https://ieeexplore.ieee.org/abstract/document/663184/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Application of formal methods to biological regulatory networks: extending Thomas' asynchronous logical approach with temporal logic
+     Author ['G Bernot', 'JP Comet', 'A Richard', 'J Guespin']
+     Venue Journal of theoretical biology
+     Year 2004
+     Abstract Discrete and differential modelings are coherent: The Thomas discrete multivalued approach has been built as a discretization of continuous differential equation  Some formal methods have been already introduced to revisit the discrete asynchronous approach of Thomas
+     Url https://www.sciencedirect.com/science/article/pii/S0022519304001444
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Multiple Cracks On Continuous Caster Rolls' Surface: A Three-Dimensional View
+     Author ['PV Yasniy', 'PO Maruschak', 'IV Konovalenko', 'V Gliha']
+     Venue NA
+     Year 2010
+     Abstract Короткий огляд (реферат): A procedure for numerical analysis of the surface state of a roll for a billet continuous casting machine at  The scientific background and formal methods for optical inspection quality control are proposed on the basis of the optimization of the system
+     Url http://elartu.tntu.edu.ua/handle/123456789/1662
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Integrating formal methods by unifying abstractions
+     Author ['R Boute']
+     Venue … Conference on Integrated Formal Methods
+     Year 2004
+     Abstract Hence this paper shows abstractions that cut across levels and bound- aries between disciplines, help unifying the growing diversity of aspects now covered by separate formal methods and mathematical models, and even bridge the gap between “continuous” and “discrete
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24756-2_24
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract Two general approaches to model Formal Methods • 629 ACM Computing Surveys, Vol. 28, No  Stereo components. One of the emerg- ing application domains of automatic verification is the design of hybrid systems, which consist of both dis- crete and continuous components
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title A formal approach to adaptive software: continuous assurance of non-functional requirements
+     Author ['A Filieri', 'C Ghezzi', 'G Tamburrelli']
+     Venue Formal Aspects of Computing
+     Year 2012
+     Abstract Formal Aspects of Computing A formal approach to adaptive software: continuous assurance of non-functional requirements  Models continue to exist at run time to enable continuous verification and detection of changes that require adaptation
+     Url https://link.springer.com/article/10.1007/s00165-011-0207-2
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Continuous model-driven engineering
+     Author ['T Margaria', 'B Steffen']
+     Venue Computer
+     Year 2009
+     Abstract and-requirements time and delivery-and-acceptance time—with all the associated pit- falls—by a continuous, cooperative development  These methods reveal their power in the context of formal methods-based tooling with jABC, our corresponding development and execution
+     Url https://ieeexplore.ieee.org/abstract/document/5280666/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Implementing rule-based monitors within a framework for continuous requirements monitoring
+     Author ['WN Robinson']
+     Venue Proceedings of the 38th Annual Hawaii …
+     Year 2005
+     Abstract Page 1. Implementing Rule-based Monitors within a Framework for Continuous Requirements Monitoring  A vocabulary mapping defines the translation between the terms of monitored events and the terms in requirements. 3.5 Continuous Monitoring
+     Url https://ieeexplore.ieee.org/abstract/document/1385616/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Adaptive software needs continuous verification
+     Author ['C Ghezzi']
+     Venue … on Software Engineering and Formal Methods
+     Year 2010
+     Abstract Modern software applications increasingly live in an open world, characterized by continuous change in the environment in which they are situated and in the requirements they have to meet. Continuous changes occur autonomously and unpredictably, in a way
+     Url https://ieeexplore.ieee.org/abstract/document/5637398/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title A layered agent calculus with concurrent, continuous processes
+     Author ['CG Jung', 'K Fischer']
+     Venue … Workshop on Agent Theories, Architectures, and …
+     Year 1997
+     Abstract In contrast, hybrid architectures in the software engineering tradition, such as INTERRAP [9], tend to neglect formal methods, leaving a gap between theory and practice. We present the Coop cal- culus, a language for concurrent, continuous inference processes, as a means to
+     Url https://link.springer.com/chapter/10.1007/BFb0026763
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Combining theorem proving and continuous models in synchronous design
+     Author ['S Nadjm-Tehrani', 'O Åkerlund']
+     Venue … Symposium on Formal Methods
+     Year 1999
+     Abstract Support for system specification in terms of modelling and simulation environments has become a common practice in safety-critical applications. Also, a current trend is the automatic code-generation, and integration with formal methods tools in terms of translators
+     Url https://link.springer.com/chapter/10.1007/3-540-48118-4_23
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Using formal methods to verify safe deep stall landing of a MAV
+     Author ['W Pointner', 'G Kotsis', 'P Langthaler']
+     Venue 2011 IEEE/AIAA 30th …
+     Year 2011
+     Abstract Page 1. 978-1-61284-798-6/11/$26.00 ©2011 IEEE 5D1-1 USING FORMAL METHODS TO VERIFY SAFE DEEP STALL LANDING OF A MAV  This system contains both continuous and discrete state dynamics that model the aircraft in each landing phase
+     Url https://ieeexplore.ieee.org/abstract/document/6096086/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title The impact of national culture on the continuous learning environment: Exploratory findings from multiple countries
+     Author ['D Flynn', 'ER Eddy', 'SI Tannenbaum']
+     Venue Journal of East-West Business
+     Year 2006
+     Abstract Companies spend billions of dollars on formalized train- ing, and other less formal methods of learning are perhaps even more pervasive  This explor- atory research examined the continuous learning environment in four countries: United States, Japan, Korea, and China
+     Url https://www.tandfonline.com/doi/abs/10.1300/J097v12n02_05
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Safe reinforcement learning via formal methods
+     Author ['N Fulton', 'A Platzer']
+     Venue AAAI Conference on Artificial Intelligence
+     Year 2018
+     Abstract Page 1. Safe Reinforcement Learning via Formal Methods Toward Safe Control Through Proof and Learning  Hybrid (dynamical) systems (Alur et al. 1992; Platzer 2012b) are mathematical models for analyzing the interac- tion between discrete and continuous dynamics
+     Url http://www.cs.cmu.edu/~aplatzer/pub/SafeRL.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Managerial issues for the consideration and use of formal methods
+     Author ['DC Stidolph', 'J Whitehead']
+     Venue International Symposium of Formal Methods …
+     Year 2003
+     Abstract For example, some formal methods tools support continuous refinement of design through code generation, but the requirements had to be identified before they could be formally specified, and the resulting code has to be tested and its configuration managed, all functions in
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_11
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods and social context in software development
+     Author ['JA Goguen']
+     Venue Colloquium on Trees in Algebra and Programming
+     Year 1995
+     Abstract One major problem has been that formal methods have not taken sufficient account of the social context of computer systems. For example, social context causes a continuous evolution of requirements for large complex systems
+     Url https://link.springer.com/chapter/10.1007/3-540-59293-8_187
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Monitoring temporal properties of continuous signals
+     Author ['O Maler', 'D Nickovic']
+     Venue Formal Techniques, Modelling and Analysis of …
+     Year 2004
+     Abstract Page 1. Monitoring Temporal Properties of Continuous Signals  de Vignate, 38610 Gi`eres, France {Dejan.Nickovic,Oded.Maler}@imag.fr Abstract. In this paper we introduce a variant of temporal logic tailored for spec- ifying desired properties of continuous signals
+     Url https://link.springer.com/chapter/10.1007/978-3-540-30206-3_12
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title A formal approach to collaborative modelling and co-simulation for embedded systems†
+     Author ['JS Fitzgerald', 'PG Larsen', 'KG Pierce']
+     Venue … Structures in Computer …
+     Year 2013
+     Abstract Received 21 June 2011; revised 31 August 2011 The effective use of model-based formal methods in the development of complex embedded systems requires the integration of discrete-event models of controllers with continuous-time models of their environments
+     Url https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/formal-approach-to-collaborative-modelling-and-cosimulation-for-embedded-systems/AB726A755761E3D56B4AB42062A51AA2
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal semantics and analysis methods for Simulink Stateflow models
+     Author ['A Tiwari']
+     Venue NA
+     Year 2002
+     Abstract Embedded control systems typically comprise continuous con- trol laws combined with discrete mode logic  We motivate a methodology called “invisible formal methods” that provides a graded sequence of formal analysis tech- nologies ranging from extended
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1.3492&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Really rethinking'formal methods'
+     Author ['DL Parnas']
+     Venue Computer
+     Year 2010
+     Abstract For com- plex programs, we are describing piecewise-continuous or discrete valued functions; in those cases, conventional expressions can be  The earliest formal methods assumed that a program would be started with initial values of a data structure, and execution would
+     Url https://www.math.pku.edu.cn/teachers/qiuzy/fm_B/literatures/ReallyRethinking.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Resilience Modelling through Discrete Event and Continuous Time Co-Simulation
+     Author ['Z Andrews', 'J Fitzgerald', 'M Verhoef']
+     Venue NA
+     Year 2007
+     Abstract Currently the main focus of formal methods is to check a model of a system for correct behaviour  For the tank case study, initial experiments have shown that it is possible to inject faults in the interface between the continuous time simulator and the discrete event controller, and
+     Url https://repository.ubn.ru.nl/bitstream/handle/2066/36410/36410.pdf
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title An automated framework for formal verification of timed continuous petri nets
+     Author ['M Kloetzer', 'C Mahulea', 'C Belta']
+     Venue IEEE Transactions on …
+     Year 2010
+     Abstract In this paper, we develop an automated framework for formal verification of timed continuous Petri nets (ContPNs)  Formal methods provide rich specification languages, such as temporal logics, to express such requirements, and algorithms, such as model checkers
+     Url https://ieeexplore.ieee.org/abstract/document/5473124/
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Retrenchment: Extending refinement for continuous and control systems
+     Author ['MR Poppleton', 'RH Banach']
+     Venue … Irish Workshop on Formal Methods …
+     Year 2000
+     Abstract Discussion of a radiation dose calculation example demonstrates various expressive limitations of the refinement calculus, particularly for systems with continuous variables. A liberalization of refinement, called retrenchment, is proposed, which will support an
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/IWFM2000.6
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title An integrated framework for continuous improvement on user satisfaction of information systems
+     Author ['YL Lee', 'SL Hwang', 'EMY Wang']
+     Venue Industrial Management & Data …
+     Year 2006
+     Abstract in this research or formal methods mentions in literatures, also give user interface engineers a great deal of time saving. For general users, the proposed framework provides a coherent and conscious way to user interface design, evaluation, and continuous improvement
+     Url https://www.emerald.com/insight/content/doi/10.1108/02635570610661633/full/html
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods@ runtime
+     Author ['R Calinescu', 'S Kikuchi']
+     Venue Monterey Workshop
+     Year 2010
+     Abstract Formal Aspects of Computing 6(5), 512–535 (1994) 17. Aziz, A., et al.: Model checking continuous time Markov chains  Agerholm, S., Larsen, PG: A lightweight approach to formal methods. In: Hutter, D., Traverso, P. (eds.) FM-Trends 1998. LNCS, vol. 1641, pp. 168–183
+     Url https://link.springer.com/chapter/10.1007/978-3-642-21292-5_7
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Lightweight statistical model checking in nondeterministic continuous time
+     Author ["PR D'Argenio", 'A Hartmanns', 'S Sedwards']
+     Venue … of Formal Methods
+     Year 2018
+     Abstract Lightweight scheduler sampling brings statistical model checking to nondeterministic formalisms with undiscounted properties, in constant memory. Its direct application to continuous-time models is rendered ineffective by their dense concrete state spaces and the
+     Url https://link.springer.com/chapter/10.1007/978-3-030-03421-4_22
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Improving medical protocols by formal methods
+     Author ['A Ten Teije', 'M Marcos', 'M Balser']
+     Venue Artificial intelligence in …
+     Year 2006
+     Abstract Our approach to solve the quality problem of medical guidelines and protocols relies on the use of formal methods  The main entry point of the protocol is the “diagnostics-and-treatment- hyperbilirubinemia” plan — the three “check-for-  ” plans model a continuous monitoring of
+     Url https://www.sciencedirect.com/science/article/pii/S0933365705001211
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods for performance evaluation
+     Author ['U Herzog']
+     Venue School organized by the European Educational Forum
+     Year 2000
+     Abstract (1) Page 9. Formal Methods for Performance Evaluation 9  Table 3. Some Examples for Random Variables (RV) Continuous RV Discrete RV - Interarrival times of jobs - Number of buffered jobs - Activity times - Idle/busy/overflow-states - Waiting times - Arrivals in a fixed interval
+     Url https://link.springer.com/chapter/10.1007/3-540-44667-2_1
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract involved. 1.2.1 Analytic Formal Methods Each engineering  its field. In many cases, the relevant applied mathematics uses partial differential equations to model the variations in continuous physical quantities over time or space. For
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Formal+methods"+"Continuous"
+     Title Towards formal verification of analog designs
+     Author ['S Gupta', 'BH Krogh', 'RA Rutenbar']
+     Venue IEEE/ACM International …
+     Year 2004
+     Abstract 1. Introduction Formal methods have evolved to become essential in a variety of digital design scenarios  for the analog and mixed-signal designs that are increasingly prevalent, as chips merge digital computation with analog interfaces to the continuous- valued external world
+     Url https://ieeexplore.ieee.org/abstract/document/1382573/
+

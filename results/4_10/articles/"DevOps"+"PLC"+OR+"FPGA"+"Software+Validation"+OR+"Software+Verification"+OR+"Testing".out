@@ -1,0 +1,91 @@
+Showing papers for search query "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract The next section describes the basic infrastructure we build, while Sects. 28.3 and 28.4 describe the DevOps inspired parts  They are used for testing GPU codes and FPGA designs. The backup server is located off-site to increase disaster safety. 28.2 The Network
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A DevOps approach to integration of software components in an EU research project
+     Author ['M Stillwell', 'JGF Coutinho']
+     Venue … Workshop on Quality-Aware DevOps
+     Year 2015
+     Abstract In Section 3 we present a high-level view of the HARNESS DevOps workflow  5 we report our automated testing infrastructure and our novel methodology for testing full systems  a) VM and network resources managed by OpenStack [10], (b) networked FPGA devices managed
+     Url https://dl.acm.org/doi/abs/10.1145/2804371.2804372?casa_token=D6mbB1Cuf3cAAAAA:qDGB96TokvK46oCWVv0SuoXU97BHfd9DvaS3roaNWx6oL8wdieNOopG2yVFSpnWQaTpJhVKzhenD0jQ
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title SHIMMER and BioMOBIUS: A Health Research Platform
+     Author ['', 'J Awards', 'DR List', 'VAC Winners', 'WE is DevOps']
+     Venue NA
+     Year 2009
+     Abstract Informa Dr. Dobb's is part of the Informa Tech Division of Informa PLC. Informa PLC; About us; Investor relations; Talent. This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London
+     Url https://www.drdobbs.com/parallel/shimmer-and-biomobius-a-health-research/221700058?pgno=7
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous Integration of FPGA Designs for CMS
+     Author ['R Glein', 'A Perloff', 'K Ulmer']
+     Venue Topical Workshop on Electronics for Particle …
+     Year 2019
+     Abstract Figure 3 shows a screenshot of the CI pipeline. Note that due to the lack of a dedicated FPGA board for hardware testing, that portion of the CI workflow has been skipped  [Online]. Available: https://about.gitlab.com/devops-tools  Continuous Integration of FPGA Designs for CMS
+     Url https://s3.cern.ch/inspire-prod-files-8/8f534b5362f6cd8a16723f15cc1f57f4
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A DevOps Approach to Integration of Software Components in an EU Research Project
+     Author ['MSJGF Coutinho']
+     Venue NA
+     Year 2015
+     Abstract A DevOps Approach to Integration of Software  MPC-XMPC-X DFE GPGPU FPGA OSDs/ MRCs  let developers easily work individually ▶ turn configuration/setup issues into software issues ▶ allow for version control, merging ▶ allow for automated acceptance testing
+     Url http://download.fortiss.org/public/pmwt/qudos2015/slides/ADevOpsApproachToIntegrationOfSoftwareComponentsInAnEUResearchProject.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract regression testing in continuous integration development environments. In FSE. [6] Hüttermann, M.,2012, “DevOps for developers,” Berkeley, CA: Apress. [7] Duvall, PM (2010)  hardware laboratory for remote FPGA experiments on real hardware. In
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract DevOps: Advances in Release Management and Automation (OI00127-072  deployment: from check-in to production Solution allows this possibility with all automated testing included  without the prior permission of the publisher, Ovum (a subsidiary company of Datamonitor plc)
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Managing Memory on iOS
+     Author ['JRC Cruz', 'MRFD Edition', 'SL Android']
+     Venue NA
+     Year NA
+     Abstract RSS Testing  Copyright © 2020 Informa PLC. Informa PLC is registered in England and Wales with company number 8860726 whose registered and head office is 5 Howick Place, London, SW1P 1WG.
+     Url http://www.drdobbs.com/testing/managing-memory-on-ios/232200738?pgno=3
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Utilising CI environment for efficient and effective testing of NFRs
+     Author ['L Yu', 'E Alégroth', 'P Chatzipetrou', 'T Gorschek']
+     Venue Information and Software …
+     Year 2020
+     Abstract These two main research questions were separated into both SOTA and SOTP since we wanted to compare what academic studies state about CI-NFR testing to what actual  (“software”) AND (“continuous integration” OR “continuous deployment” OR “DevOps” OR “continuous
+     Url https://www.sciencedirect.com/science/article/pii/S095058491930206X
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Analyzing the Behaviour of Applying Agile Methodologies & DevOps Culture in e-Commerce Web Application
+     Author ['N Govil', 'M Saurakhia', 'P Agnihotri']
+     Venue … on Trends in …
+     Year 2020
+     Abstract operational teams together so that constant testing and delivery can take place  [16] https://www.einfochips.com/blog/how-devops-helps-e-commerce- businesses-gain-a  [18] Aprna Tripathi, Varsha Kumari, Nikhil Govil, "Impacts of PLC Reducer on Software Design Cohesiveness
+     Url https://ieeexplore.ieee.org/abstract/document/9142895/?casa_token=Gl0_9T-dX70AAAAA:yw3OBECzbyOdDETEMn7VOc-dV_-J9dfpijUgHv5Z7MRToCHQVrgs4JQHA6MSaf4zyaPyU5PR7QhR
+

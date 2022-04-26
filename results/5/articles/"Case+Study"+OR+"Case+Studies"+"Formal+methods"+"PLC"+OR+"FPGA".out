@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Bringing automated model checking to PLC program development—a CERN case study—
+     Author ['BF Adiego', 'D Darvas', 'JC Tournier', 'EB Viñuela']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract The paper presents a real-life case study to validate a general approach meant to apply formal verification to PLC programs  model and of formalizing the require- ments from the control engineer, as it does not require any expertise in the field of formal methods from the
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015374334
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Design of a plc control program for a batch plant vhs case study 1
+     Author ['A Mader', 'E Brinksma', 'H Wupper', 'N Bauer']
+     Venue European Journal of Control
+     Year 2001
+     Abstract We conclude that the judicious use of standard formal methods and tools suffices for the systematic  As part of the project a number of case studies concerning par- ticular examples of hybrid  This article reports on our experience with VHS case study 1 and the results we obtained
+     Url https://www.sciencedirect.com/science/article/pii/S0947358001701811
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of safety PLC based control software
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue … Conference on Integrated Formal Methods
+     Year 2016
+     Abstract The validation and our experiences on the above-presented case study are discussed in Sect  identified semantics of the IL instructions are generic, not specific to our case studies  verification project at CERN, the requirements were extracted by formal methods experts, rather
+     Url https://link.springer.com/chapter/10.1007/978-3-319-33693-0_32
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title The UniForM workbench a universal development environment for formal methods
+     Author ['B Krieg-Brückner', 'J Peleska', 'ER Olderog']
+     Venue … on Formal Methods
+     Year 1999
+     Abstract It is quite obvious that we should use formal methods eventually to produce our own tools; but is this realistic at the moment for really large systems  5 Case Studies  In close cooperation with the industrial partner Elpro, a case study "control of a single track segment" was defined
+     Url https://link.springer.com/chapter/10.1007/3-540-48118-4_13
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Graphical specification and reasoning: Case study generalised railroad crossing
+     Author ['H Dierks', 'C Dietz']
+     Venue International Symposium of Formal Methods Europe
+     Year 1997
+     Abstract in [9] and suggested as a benchmark problem in comparing the suitability of different formal methods in [10  Though our approach works for this simple case study, there might remain doubts about its scalability  To prove this statement more complex case studies are needed
+     Url https://link.springer.com/chapter/10.1007/3-540-63533-5_2
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification of PLC programs using formal proof techniques
+     Author ['A Sülflow', 'R Drechsler']
+     Venue FORMS/FORMAT
+     Year 2008
+     Abstract Equivalence Checking (EC) using Boolean satisfiability (SAT) and evaluate the framework in a case study  A PLC is a re- programmable computer, based on sensors and ac- tors, which  user pro- gram one can use test and simulation approaches, or formal methods, that provide
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.500.8515&rep=rep1&type=pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title MOBY/PLC—Graphical development of PLC-automata
+     Author ['J Tapken', 'H Dierks']
+     Venue International Symposium on Formal Techniques in …
+     Year 1998
+     Abstract and allow formal reasoning about properties of PLC-Automata [7]. The language of PLC-Automata, developed in the UniForM-project [8], has been applied to real-world case studies of the  Fig. 1. SLS case study in MOBY/PLC  UniForM -- Universal Formal Methods Workbench
+     Url https://link.springer.com/chapter/10.1007/BFb0055360
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Towards formal verification of PLC programs
+     Author ['H Barbosa', 'D Déharbe']
+     Venue … Brazilian Symposium on Formal Methods …
+     Year 2011
+     Abstract We also present a case study that is being carried out in a real railway project with high speed trains. Keywords: B method, PLC, safety critical systems, formal methods 1 Introduction Programmable Logic Controllers (PLCs) are used in control applications, be- ing common in
+     Url https://www.academia.edu/download/30913549/sp.pdf#page=24
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract different commercial tools, such as those used for the INRS case study: SysML system  methods based on SysML requirements and block diagrams, and formal methods such as  levels, common experiments on laboratory-scale and industrial- scale case-studies emphasize that
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Integrated virtual preparation and commissioning: supporting formal methods during automation systems development
+     Author ['M Dahl', 'K Bengtsson', 'P Bergagård', 'M Fabian']
+     Venue IFAC-PapersOnLine
+     Year 2016
+     Abstract by VIRTCOM-Virtual preparation and commissioning of production systems including PLC logics, reference  a familiar simulation environment as the base for using formal methods can make  Through a case study, one possible application of IVPC is demonstrated by applying
+     Url https://www.sciencedirect.com/science/article/pii/S2405896316312022
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Increasing the efficiency of PLC program verification using a plant model
+     Author ['J Machado', 'B Denis', 'JJ Lesage', 'JM Faure', 'JF da Silva']
+     Venue NA
+     Year 2003
+     Abstract Our case study did not entail any major increase in computing time, which always remained less than 2 seconds; for larger case studies however, this factor could become penalizing. Conclusion and outlook  Formal Methods in PLC programming
+     Url https://hal.archives-ouvertes.fr/hal-00424030/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Using formal methods to model hybrid manufacturing processes
+     Author ['A Nassehi', 'S Newman', 'V Dhokia', 'Z Zhu']
+     Venue Enabling Manufacturing …
+     Year 2012
+     Abstract 4, pp. 626-643. [14] Frey, G., Litz, L. (2000): Formal methods in PLC programming, in: Proceedings of the IEEE Conference on Systems, Man, and Cybernetics, pp. 2431-2436. [15] Wehrheim, H. (2000), Specification of an automatic manufacturing system: A case study in using
+     Url https://link.springer.com/chapter/10.1007/978-3-642-23860-4_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods in PLC control demonstrated at a flexible manufacturing line
+     Author ['G Frey']
+     Venue International Conference on Information Technology for …
+     Year 2002
+     Abstract ppAI47-4152. May 2002. 2. Frey G. Litz L. Formal methods in PLC programming  Georg. Automatic Implementation of Petri Net based Control Algorithms on PLC  Stephane. A case study in design and formal verification of control algorithms using interpreted Petri Nets and SFC
+     Url https://link.springer.com/chapter/10.1007/978-0-387-35613-6_57
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Applicability of generalized test tables: a case study using the manufacturing system demonstrator xPPU
+     Author ['S Cha', 'A Weigl', 'M Ulbrich', 'B Beckert']
+     Venue at …
+     Year 2018
+     Abstract a case study using the manufacturing system  non-formal behavior verification, eg, using a conventionaltestingprocess,islargelybasedontheactual execution of a system, formal methods provide proofs  is a recent re- search topic, there has been work on verifying PLC soft- ware
+     Url https://www.degruyter.com/view/journals/auto/66/10/article-p834.xml
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modeling and validation of PLC-controlled systems: a case study
+     Author ['R Wang', 'M Zhou', 'L Yin', 'L Zhang', 'J Sun']
+     Venue … Aspects of Software …
+     Year 2012
+     Abstract For this case study, the system model contains 46 atomic components and 185 connectors (interactions)  based modeling and validation methodology for a real control system implemented on a PLC  Validation by using formal methods suffers well-known complexity limitations
+     Url https://ieeexplore.ieee.org/abstract/document/6269640/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC-automata: A new class of implementable real-time automata
+     Author ['H Dierks']
+     Venue International AMAST Workshop on Aspects of Real …
+     Year 1997
+     Abstract 11] and CSP [5] which is part of our project UniForM [7]. We are also looking for comprehensive case studies to evaluate  As a result of our experiences with case study of the UniForM-project we think that our approach is a very  UniForM -- Universal Formal Methods Workbench
+     Url https://link.springer.com/chapter/10.1007/3-540-63010-4_8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Specifying and verifying PLC systems with TLA+: A case study
+     Author ['H Zhang', 'S Merz', 'M Gu']
+     Venue Computers & Mathematics with Applications
+     Year 2010
+     Abstract Formal methods promise to ensure the correctness of complex systems  The PLC system should react to any meaningful input according to its functional specification  In our case study, this variable takes values in the set StateSet ≜ { “init” , “power” , “openpumpSent
+     Url https://www.sciencedirect.com/science/article/pii/S0898122110003664
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modelling and Verifying of a 'Cash-Point Service'Using MOBY/PLC
+     Author ['H Dierks', 'J Tapken']
+     Venue Formal Aspects of Computing
+     Year 2000
+     Abstract developed in the UniForM-project [KPO96], has been applied to real- world case studies of the  We present a model of this case study employing the means of Moby/plc  [KPO96] Krieg-Brückner, B., Peleska, J., Olderog, E.-R. et al.: UniForM: Universal Formal Methods Workbench
+     Url https://link.springer.com/article/10.1007/s001650070015
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automated formal verification of PLC programs written in IL
+     Author ['O Pavlovic', 'R Pinger', 'M Kollmann']
+     Venue Conference on Automated …
+     Year 2007
+     Abstract aim of this work study, however, is to apply the proving technique to far more complex case studies  The efficiency and convenience of the tool were demonstrated by means of a case study  of the 6th Sympo- sium on Formal Methods for Automation and Safety in Railway and
+     Url https://www.academia.edu/download/45267045/A_History-based_Verification_of_Distribu20160502-15955-16zkt8c.pdf#page=160
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Improving large-sized PLC programs verification using abstractions
+     Author ['V Gourcuff', 'O De Smet', 'JM Faure']
+     Venue IFAC Proceedings Volumes
+     Year 2008
+     Abstract This third case study focuses on the real control system of a power plant which  Those three case studies show clearly the effectiveness of the representation based on the two  However, transferring these formal methods to the industrial world requires methods that deliver formal
+     Url https://www.sciencedirect.com/science/article/pii/S147466701639752X
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modeling and analysis of FPGA based power management system for renewables
+     Author ['PS Tekale', 'R Ayyagari', 'SD Sudarsan']
+     Venue 2017 22nd IEEE …
+     Year 2017
+     Abstract Our main objective is to ensure correctness of the system design using formal methods based techniques. Through our case study, we establish the correctness of the FPGA based control algorithm with respect to the system requirements
+     Url https://ieeexplore.ieee.org/abstract/document/8247717/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title An approach using the B method to formal verification of PLC programs in an industrial setting
+     Author ['H Barbosa', 'D Déharbe']
+     Venue Brazilian Symposium on Formal Methods
+     Year 2012
+     Abstract We also presented a case study in a real railway application where our ap- proach was applied  As we expand the scope of our method, we also intend to perform more case studies  In: 14th Brazilian Symposium on Formal Methods: Short Papers, S˜ao Paulo- SP (2011) 6 http
+     Url https://link.springer.com/chapter/10.1007/978-3-642-33296-8_4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Direct model checking of PLC programs in IL
+     Author ['B Schlich', 'J Brauer', 'J Wernerus']
+     Venue IFAC Proceedings Volumes
+     Year 2009
+     Abstract This case study shows that the verification time scales roughly linear with the number of executed  The case studies could show that our approach scales at least as good as the approaches  In G. Tarnai and E. Schnieder (eds.), Formal Methods for Automa- tion and Safety in
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015355919
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title JACoW: Applying model checking to critical PLC applications: An ITER case study
+     Author ['B Fernández Adiego', 'E Blanco Viñuela']
+     Venue NA
+     Year 2018
+     Abstract studies where widely-used PLC framework block libraries [3] or logics of safety PLCs [4  Bringing automated model checking to PLC pro- gram development – A CERN case study,” in Proc  Formal verification of safety PLC based control software,” in Integrated Formal Methods, ser
+     Url https://cds.cern.ch/record/2305319
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods diffusion: Past lessons and future prospects
+     Author ['R Bloomfield', 'D Craigen', 'F Koob', 'M Ullmann']
+     Venue … on Computer Safety …
+     Year 2000
+     Abstract and in the area of safety there is active research, case studies and serious  that influence significant projects and products (ie not just a case study culture) • increasing  16. J. Rushby, Formal Methods and Digital Systems Validation for Airborne Systems, NASA Contractor Report
+     Url https://link.springer.com/chapter/10.1007/3-540-40891-6_19
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification of PLC properties based on formal semantics in Coq
+     Author ['JO Blech', 'SO Biha']
+     Venue … on Software Engineering and Formal Methods
+     Year 2011
+     Abstract Cert- PLC tool and the non-inductive proof techniques used manually in the case study have been  Using our Coq semantics and CertPLC, basic properties of a PLC can be verified by  make the approach usable for people who have some knowledge in formal methods but are
+     Url https://link.springer.com/chapter/10.1007/978-3-642-24690-6_6
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal component-based modeling and synthesis for PLC systems
+     Author ['M Zhou', 'H Wan', 'R Wang', 'X Song', 'C Su', 'M Gu']
+     Venue Computers in industry
+     Year 2013
+     Abstract there are many works that aim at verifying existing PLC systems by using formal methods  It consists of modeling, verification and code synthesis dedicated for PLC programs (in fact, for  We evaluate our methodology with an industrial case study on PLC device controlling system
+     Url https://www.sciencedirect.com/science/article/pii/S0166361513001371
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification and optimization of a PLC control schedule
+     Author ['E Brinksma', 'A Mader']
+     Venue International SPIN Workshop on Model Checking of …
+     Year 2000
+     Abstract To assess the capacity of state-of-the-art formal methods and tools for the analysis  the EC research project VHS (Verification of Hybrid Systems) has defined a number of case studies  For this case study these techniques proved sufficient to verify the design of the controller and
+     Url https://link.springer.com/chapter/10.1007/10722468_5
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLCverif: A tool to verify PLC programs based on model checking techniques
+     Author ['D Darvas', 'E Blanco Vinuela', 'B Fernández Adiego']
+     Venue NA
+     Year 2015
+     Abstract This paper focuses on this tool and on the bridge between the formal methods and PLC domains. PLCverif: A BRIDGE BETWEEN FORMAL VERIFICATION AND PLC DOMAINS  The PLC codes are parsed using Xtext  CASE STUDY
+     Url https://cds.cern.ch/record/2213507
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Arcade. PLC: A verification platform for programmable logic controllers
+     Author ['S Biallas', 'J Brauer', 'S Kowalewski']
+     Venue 2012 Proceedings of the …
+     Year 2012
+     Abstract such systems may have hazardous effects on humans or the environment, the ap- plication of formal methods to ensure  Arcade.PLC itself has been implemented in Java  The second case study examines programs for controlling conveyor belts using a Siemens SIMATIC S7 PLC
+     Url https://ieeexplore.ieee.org/abstract/document/6494950/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model checking of reconfigurable FPGA modules specified by Petri nets
+     Author ['I Grobelna']
+     Venue Journal of Systems Architecture
+     Year 2018
+     Abstract Section 5 illustrates shortly the presented approach using a simple case study  design and the implementation phase of a fuzzy logic controller on the reconfigurable FPGA system  Formal methods are also applied for the verification of properties of control systems designed for
+     Url https://www.sciencedirect.com/science/article/pii/S1383762118300948
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Compositional verification of industrial control systems: methods and case studies
+     Author ['B Lukoschus']
+     Venue NA
+     Year 2004
+     Abstract 5 1.3.3 Optimizing the Model . . . . . 5 1.4 Case Studies . . . . . 7 1.5 Technical Contributions of the Thesis . . . . . 8 1.5.1 Analysis and Definition of PLC Software Semantics . 8 1.5.2 Automatic Generation of SMV Code
+     Url https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00001398/d1398.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Automatic verification of event-driven control programs: A case study
+     Author ['P Liu', 'G Luo', 'M Xia', 'M He']
+     Venue The Fourth International Workshop …
+     Year 2011
+     Abstract In order to take into account interaction of PLC controller with execution environment, the proposed method extends the modeling method with an  We have validated our approach on a concrete case study, a controller for steel plate transfer devices, and report on the results
+     Url https://ieeexplore.ieee.org/abstract/document/6160012/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal verification of UML-modeled machine controls
+     Author ['T Klotz', 'E Fordran', 'B Straube']
+     Venue 2009 IEEE Conference on …
+     Year 2009
+     Abstract However, the translation is only ex- plained in terms of case studies  The provided case study illustrates that based on the gen- erated formal models, complex requirements of the PLC  logic is complex and error-prone, not only for practitioners but for formal methods experts as
+     Url https://ieeexplore.ieee.org/abstract/document/5347044/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title ZB 2000: Formal Specification and Development in Z and B: First International Conference of B and Z Users York, UK, August 29-September 2, 2000 …
+     Author ['JP Bowen', 'S Dunne', 'A Galloway', 'S King']
+     Venue NA
+     Year 2003
+     Abstract The location of ZB 2000 at the University of York reflected important work in the area of formal methods at the university, including Z and B. In  The confe- rence was sponsored by Praxis Critical Systems, Daimler-Chrysler AG, IBM, Rolls-Royce plc, and BAE SYSTEMS plc
+     Url https://books.google.com/books?hl=en&lr=&id=4zVuCQAAQBAJ&oi=fnd&pg=PP4&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22&ots=uBWmXm72Th&sig=cIJ3ZNeRzPCHwtAeGQ_kCCesgC4
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal modeling and synthesis of programmable logic controllers
+     Author ['R Wang', 'X Song', 'J Zhu', 'M Gu']
+     Venue Computers in Industry
+     Year 2011
+     Abstract increasing system complexity, shortening time-to-market, and growing demand for real-time systems, formal methods are becoming  design process in [4]. We propose an algorithm to transfer design model to executable PLC code  A case study illustrates the proposed strategies
+     Url https://www.sciencedirect.com/science/article/pii/S0166361510000886
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Verification and optimization of a PLC control schedule
+     Author ['E Brinksma', 'A Mader', 'A Fehnker']
+     Venue International Journal on Software Tools …
+     Year 2002
+     Abstract To compare and in- terpret the results we carried out the same case study with the aid of  To assess the capacity of state-of-the-art formal methods and tools for the analysis of  the EU research project VHS (Verification of Hybrid Sys- tems) has defined a number of case studies
+     Url https://link.springer.com/article/10.1007/s10009-002-0079-0
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Exploring formal verification methodology for FPGA-based digital systems
+     Author ['Y Hu']
+     Venue Sandia National Laboratories, New Mexico, California
+     Year 2012
+     Abstract This section presents several case studies to demonstrate the application of formal methods and formal verification for mission-critical and safety-critical systems  This is a case study that demonstrates a practical design process for mission-critical system
+     Url https://prod-ng.sandia.gov/techlib-noauth/access-control.cgi/2012/127926.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Discrete and Logico-numerical Control for Dynamic Partial Reconfigurable FPGA-based Embedded Systems: a Case Study
+     Author ['SMK Gueye', 'G Delaval', 'E Rutten']
+     Venue 2018 IEEE Conference …
+     Year 2018
+     Abstract and generic models behaviours and objectives ; Section V presents a case study, and Section  Hence, multiple applications can run on a single FPGA by sharing hardware resources, as in  Discrete Controller Synthesis In this section we briefly recall the formal methods and tools
+     Url https://ieeexplore.ieee.org/abstract/document/8511552/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Testing & verification of PLC code for process control
+     Author ['B Fernández', 'E Blanco']
+     Venue Proc. of the 14th Int. Conf …
+     Year 2013
+     Abstract The advantages and limitations of both approaches are presented and illustrated with a case study, validating a  procedures must be applied, the test methods employed focusing basically in automated tests mechanisms and formal methods  UNICOS PLC CONTROL SYSTEMS
+     Url https://accelconf.web.cern.ch/ICALEPCS2013/papers/thppc080.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Modelling and formal verification of timing aspects in large PLC programs
+     Author ['BF Adiego', 'D Darvas', 'EB Viñuela', 'JC Tournier']
+     Venue IFAC Proceedings …
+     Year 2014
+     Abstract (2010) presents a case study where a global model for a timed multitask PLC program is created for verification pur- poses  Section 4 presents in detail the two proposed ways to model timing aspects of PLC programs, along with a case study applying the mod- elization
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016421208
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Runtime Verification of A PLC System: An Industrial Case Study
+     Author ['M Heidari']
+     Venue NA
+     Year 2017
+     Abstract Like any other platform that provides an array of different tools and programming languages to be utilized for development, PLC offers the same  Text (ST) and Sequential Function Chart (SFC) [8]. These will be the languages that are being used in this case study hence IEC
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1113375
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title PLC-automata: a new class of implementable real-time automata
+     Author ['H Dierks']
+     Venue Theoretical Computer Science
+     Year 2001
+     Abstract PLCs. A case study is used to demonstrate the suitability of this approach  available. cO 2001 Elsevier Science BV All rights reserved. Keywords: Real time; Specification; Formal methods; Duration calculus; PLC 1. Introduction In
+     Url https://www.sciencedirect.com/science/article/pii/S030439750000089X
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Model checking PLC software written in function block diagram
+     Author ['O Pavlovic', 'HD Ehrich']
+     Venue 2010 Third International Conference on …
+     Year 2010
+     Abstract In the past years, there has been an increasing interest in analyzing PLC applications with formal methods  The paper is organized as follows. Section 2 briefly reviews the PLC structure and PLC programming languages  Section 4 contains a case study which
+     Url https://ieeexplore.ieee.org/abstract/document/5477057/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Mode-aware concolic testing for PLC software
+     Author ['H Simon', 'S Kowalewski']
+     Venue … Conference on Integrated Formal Methods
+     Year 2018
+     Abstract Keywords. Software testing Integration of formal methods Programmable Logic Controllers. Download conference paper PDF. 1 Introduction  1. Snapshot of the execution of a PLC program  3. Pseudocode of our mode-aware concolic testing algorithm. 5 Experiments/Case Study
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_21
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title A case study of system synthesis with non-synthesizable components using extended VHDL
+     Author ['JDS Babcock', 'A Dollas']
+     Venue Proceedings Sixth IEEE International …
+     Year 1995
+     Abstract In this paper we will describe a case study using the com- pleted tools to demonstrate the method and to eval- uate  Finally, we will introduce some error generation capability that results from the use of formal methods in the definition of the VHDL  Pollution Control Cache (FPGA)
+     Url https://ieeexplore.ieee.org/abstract/document/518587/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Requirements towards a formal specification language for PLCs
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue Proc. of the 22th PhD Mini …
+     Year 2015
+     Abstract PLC-specific formal specification language based on general works, comparative case studies and own  automated model checking to PLC program development – A CERN case study,” in Proc  Knight, CL DeJong, MS Gibble, and LG Nakano, “Why are formal methods not used
+     Url https://www.researchgate.net/profile/Daniel_Darvas/publication/271850932_Requirements_towards_a_formal_specification_language_for_PLCs/links/54d4f4f90cf246475806ac87.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formalization of existing PLC programs: A survey
+     Author ['MB Younis', 'G Frey']
+     Venue Proceedings of CESA
+     Year 2003
+     Abstract The work of [26] was carried out as a part of a case study for the EC VHS (verification of Hybrid Sys- tems) [27]. The goal of this work is to verify and design a PLC program for an experimental chemi- cal Plant  [1] G. Frey and L. Litz: Formal methods in PLC programming
+     Url https://www.uni-saarland.de/fileadmin/user_upload/Professoren/FreyG/GF_MBY_CESA_jul_2003.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Formal methods in real-time systems
+     Author ['ER Olderog']
+     Venue … . 10th EUROMICRO Workshop on Real-Time …
+     Year 1998
+     Abstract 3. Logic-Based Approach How can different notations and formal methods for real- time systems be tied together  Let us illustrate this idea by the case study of a railroad crossing due to [23]  A PLC interacts with sensors and actuators in a cyclic manner
+     Url https://ieeexplore.ieee.org/abstract/document/685130/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"+"PLC"+OR+"FPGA"
+     Title Justification of an FPGA-based system performing a Category C function: development of the approach and application to a case study
+     Author ['S Guerra', 'D Sheridan']
+     Venue 8th American Nuclear Society …
+     Year 2012
+     Abstract A CATEGORY C FUNCTION: DEVELOPMENT OF THE APPROACH AND APPLICATION TO A CASE STUDY  Key Words: FPGA, UK, Category C, goal-based, vulnerabilities  Techniques such as formal methods and statistical testing are expensive for systems of significant
+     Url https://pdfs.semanticscholar.org/9e33/9061dc3ce39d2b0610167d549635ee3af4a9.pdf
+

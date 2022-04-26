@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"Medical"+"Testing"
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods based development of a PCA infusion pump reference model: Generic infusion pump (GIP) project
+     Author ['D Arney', 'R Jetley', 'P Jones', 'I Lee']
+     Venue … Confidence Medical …
+     Year 2007
+     Abstract Formal methods have been used ex- tensively in the analysis of real-time embedded sys- tems [12], and in the automotive and  unlike these applications, there are as of yet no established guidelines for formal meth- ods based development and testing of medical devices
+     Url https://ieeexplore.ieee.org/abstract/document/4438161/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A formal methods approach to medical device review
+     Author ['R Jetley', 'SP Iyer', 'P Jones']
+     Venue Computer
+     Year 2006
+     Abstract From a premarket perspective, subtle errors and latent bugs might exist in the software that only formal model-checking techniques or exhaus- tive white-box testing can detect  A Formal Methods Approach to Medical Device Review Page 2. 62 Computer
+     Url https://ieeexplore.ieee.org/abstract/document/1620997/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Integrating formal methods into medical software development: The ASM approach
+     Author ['P Arcaini', 'S Bonfanti', 'A Gargantini', 'A Mashkoor']
+     Venue Science of Computer …
+     Year 2018
+     Abstract Integrating formal methods into medical software development: The ASM approach  executable models available, ASM techniques for conformance checking (model-based testing and runtime  By proposing the ASM process for medical software development, we respond to the
+     Url https://www.sciencedirect.com/science/article/pii/S0167642317301430
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Protocure: supporting the development of medical protocols through formal methods
+     Author ['M Balser', 'O Coltell', 'J van Croonenborg']
+     Venue Studies in health …
+     Year 2004
+     Abstract proving: Although we may find many errors through validation and testing, it is  of the guideline is the desired one under any circumstances, we have to employ formal methods  Refinement: Medical guidelines and protocols contain more or less precise recommen- dations about
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.1334&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods reality check: Industrial usage
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue IEEE Transactions on …
+     Year 1995
+     Abstract An example of the use of formal methods in “communication” is the use of Z in  Interestingly, while HP-SL is not being adopted by the Waltham Medical Instruments Group, there  Cleanroom has also empha- sized process by separating the development and testing tehs , and by
+     Url https://ieeexplore.ieee.org/abstract/document/345825/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal Methods & Testing
+     Author ['M Mac an Airchinnigh']
+     Venue Tutorials of the Sixth International Software …
+     Year 1993
+     Abstract as applied to the cho- sen application, taken from the domains of medical information and  with the Federal Information Processing Standard on the validation, verification, and testing of (computer  evident from the title of the tutorial, in the placing of formal methods before testing
+     Url https://scss.tcd.ie/andrew.butterfield/IrishVDM/reading/Testing1995.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Observations on industrial practice using formal methods
+     Author ['S Gerhart', 'D Craigen', 'T Ralston']
+     Venue Proceedings of 1993 15th …
+     Year 1993
+     Abstract trains, planes, ships, satellites, martcar&, transaction processing, arithmetic units, networks, medical instruments, and  Formal methods may be used digerently in digerent situations  regulators: a specific safety analysis technique; simulation of timing; and testing using operational
+     Url https://ieeexplore.ieee.org/abstract/document/346058/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Medical protocol diagnosis using formal methods
+     Author ['D Méry', 'NK Singh']
+     Venue International Symposium on Foundations of Health …
+     Year 2011
+     Abstract Page 11. Medical Protocol Diagnosis Using Formal Methods 11 represented by two branches. KO indicates that the diagnosis criteria have found some conditions for further testing, while OK indicates the absence of any disease
+     Url https://link.springer.com/chapter/10.1007/978-3-642-32355-3_1
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Analyzing the effects of formal methods on the development of industrial control software
+     Author ['JF Groote', 'A Osaiweran']
+     Venue 2011 27th IEEE …
+     Year 2011
+     Abstract On completion of testing, software is known to pass certain tests, but can still fail for cases not tested. It is claimed that formal methods allow the development of complex software under a firm mathematical foundation resulting in high quality, more correct software compared to
+     Url https://ieeexplore.ieee.org/abstract/document/6081983/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title The role of the user within the medical device design and development process: medical device manufacturers' perspectives
+     Author ['AG Money', 'J Barnett', 'J Kuljis', 'MP Craven']
+     Venue BMC medical informatics …
+     Year 2011
+     Abstract Usability testing protocols involve users carrying out specific tasks with a specific device, whilst usability measures are  Thus far, we have detailed a range of formal methods that may be used to elicit user perspectives as part of the process of medical device development and
+     Url https://link.springer.com/article/10.1186/1472-6947-11-15
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods reality check: Industrial usage
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue … Symposium of Formal Methods Europe
+     Year 1993
+     Abstract An example of the use of formal methods in "communication" is the use of Z in  Interestingly, while HP-SL is not being adopted by the Waltham Medical Instruments Group, there  Cleanroom has also emphasized process by separating the development and testing teams, and by
+     Url https://link.springer.com/chapter/10.1007/BFb0024650
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Using formal methods to improve home-use medical device safety
+     Author ['A Banerjee', 'Y Zhang', 'P Jones']
+     Venue Biomedical …
+     Year 2013
+     Abstract Ayan Banerjee, Yi Zhang, Paul Jones, Sandeep Gupta; Using Formal Methods to Improve Home-Use Medical  known as closedloop control, not only facilitates early detection of adverse medical conditions,1,2  Current assessment methods rely on experimentation and testing
+     Url https://meridian.allenpress.com/bit/article-abstract/47/s1/43/200809
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A case study on applying formal methods to medical devices: computer-aided resuscitation algorithm
+     Author ['RP Jetley', 'C Carlos', 'SP Iyer']
+     Venue International Journal on Software Tools for …
+     Year 2004
+     Abstract Though most manufactur- ers employ testing methodologies, there are no standard guidelines to ensure that a device meets  difficult to learn [1]. In this paper we investigate the feasibility of using techniques from formal methods research for reason- ing about medical devices
+     Url https://link.springer.com/article/10.1007/s10009-003-0137-2
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Ensuring patient safety in wireless medical device networks
+     Author ['V Cehlot', 'EB Sloane']
+     Venue Computer
+     Year 2006
+     Abstract Increasingly, developers consider formal methods an integral part of software engineering and system  any deficiencies identified in the CPN model; • simulation or site-testing to assure  of RF conflicts; • verification of reliable interoperability of embedded medical device decision
+     Url https://ieeexplore.ieee.org/abstract/document/1620996/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract however, decreased the overall cost of software development because of the huge savings in testing  To give the reader a sense of the applicability of formal methods, we list some  An HP Medical Instru- ments real-time database for storing patient monitoring information [Bear
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Using formal methods to enable more secure vehicles: DARPA's HACMS program
+     Author ['K Fisher']
+     Venue Proceedings of the 19th ACM SIGPLAN international …
+     Year 2014
+     Abstract in penetration testing called the SMACCMCopter "the most secure UAV on the planet"  and Design]: Real-time systems and embedded systems Keywords High Assurance Software; Formal Methods; Cyber- Physical  Design challenges for secure implantable medical devices
+     Url https://dl.acm.org/doi/abs/10.1145/2628136.2628165
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Challenges in formal methods for testing and verification of cloud computing systems
+     Author ['A Gawanmeh', 'A Alomari']
+     Venue Scalable Computing: Practice and Experience
+     Year 2015
+     Abstract on the need for reliable abstraction techniques that will lead into efficient testing and verification of  into the cloud, for instance, the development frameworks for cloud based medical images processing [43] is a new prominent subject where formal methods can be
+     Url https://www.scpe.org/index.php/scpe/article/view/1104
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods: Practice and experience
+     Author ['J Woodcock', 'PG Larsen', 'J Bicarregui']
+     Venue ACM computing surveys …
+     Year 2009
+     Abstract 4. HIGHLIGHTED PROJECTS We present a series of industrial formal methods projects, chosen to  legacy Microsoft code with assertions for use in massive regression testing, and [Larus  a wide range of applications, from verifying protocols for medical procedures [Hommersom
+     Url https://dl.acm.org/doi/abs/10.1145/1592434.1592436
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A systematic literature review of the use of formal methods in medical software systems
+     Author ['S Bonfanti', 'A Gargantini']
+     Venue Journal of Software …
+     Year 2018
+     Abstract We would like to underline that the SLR carried out in this work considers only formal methods applied to medical device/software. Other processes applied to medical device/software are outside of our goal (eg, code implementation, testing,8 and hardware configuration)
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1943
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title The use of formal methods for safety-critical systems
+     Author ['PJ Trafford']
+     Venue NA
+     Year 1997
+     Abstract study, the formal specification and refinement of a communications protocol for medical devices (the  takes a standard safety lifecycle model and considers where and how formal methods can play  is supported by the enhancement of the theory of con-formance testing that has
+     Url http://eprints.kingston.ac.uk/id/eprint/20609
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title How Amazon web services uses formal methods
+     Author ['C Newcombe', 'T Rath', 'F Zhang', 'B Munteanu']
+     Venue Communications of the …
+     Year 2015
+     Abstract We have found that testing the code is inadequate as a method for finding subtle  Formal Methods for Real-World Systems In industry, formal methods have a reputation for requiring a  return on investment is justified only in safety-critical domains (such as medical systems and
+     Url https://dl.acm.org/doi/abs/10.1145/2699417
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Ten commandments of formal methods... ten years later
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue Computer
+     Year 2006
+     Abstract certain errors or help detect them, but formal methods must partner with appropriate testing  Moreover, formal methods generally result in a cleaner architecture, making a system more efficient  arguably the most significant failure of software assurance in a medical or biological
+     Url https://ieeexplore.ieee.org/abstract/document/1580381/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal specification of medical systems by proof-based refinement
+     Author ['D Méry', 'NK Singh']
+     Venue ACM Transactions on Embedded Computing …
+     Year 2013
+     Abstract formal methods. The role of verification and validation is very important in the development of safety critical medical systems. Verification starts from the requirements analysis stage where design reviews and checklists are used for the validation stage, where functional testing
+     Url https://dl.acm.org/doi/abs/10.1145/2406336.2406351
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods software engineering for the CARA system
+     Author ['JC Martin']
+     Venue International Journal on Software Tools for Technology …
+     Year 2004
+     Abstract It was for this reason that a formal methods software engineering (FMSE) approach, specifically the  With this in mind, testing is employed in a FMSE approach primarily to  The WRAIR staff included medical doctors, physiologists, and biomedical engineers whose primary focus
+     Url https://link.springer.com/article/10.1007/s10009-003-0113-x
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Quality and safety of clinical decision support technologies: a discussion of the role of formal methods
+     Author ['J Fox']
+     Venue Proc. Int. Conference on Integrated Design and …
+     Year 2002
+     Abstract avoid them (cf unanticipated side-effects of new drugs despite rigorous testing in clinical  This applies to medical software as much as conventional clinical interventions so software  Formal methods may have a particular role in offering certain clinical safety guarantees, but they
+     Url https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.9300&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Trustable formal specification for software certification
+     Author ['D Méry', 'NK Singh']
+     Venue … On Leveraging Applications of Formal Methods …
+     Year 2010
+     Abstract Formal methods have emerged as a complementary approach to ensuring quality and correctness of high-confidence medical systems, overcoming limitations of traditional validation techniques such as sim- ulation and testing
+     Url https://link.springer.com/chapter/10.1007/978-3-642-16561-0_31
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal Methods, Artificial Intelligence, Big-Data Analytics, and Knowledge Engineering in Medical Care to Reduce Disease Burden and Health Disparities
+     Author ['S Ganesh', 'AK Talukder']
+     Venue International Conference on Big Data Analytics
+     Year 2018
+     Abstract Our formal methods automate evidence based clinical pathways  This increases the accuracy of the medical decision and reduces the medical error  Out autonomous model will reduce the testing and maintenance cost of clinical medical system at the point of care
+     Url https://link.springer.com/chapter/10.1007/978-3-030-04780-1_21
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A Formal Framework for Modelling and Validating Medical Systems
+     Author ['G Eleftherakis']
+     Venue Studies in health technology and informatics
+     Year 2001
+     Abstract The proposed framework is accompanied by an example, which demonstrates the use of X-Machines in specification, testing and verification. Keywords: Medical Informatics; Formal Methods; Safety Critical Systems Introduction
+     Url http://www.academia.edu/download/6190351/551_eleftherakis.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title The challenges of high-confidence medical device software
+     Author ['Z Jiang', 'H Abbas', 'KJ Jang', 'R Mangharam']
+     Venue Computer
+     Year 2016
+     Abstract By explicitly allowing for nondetermin- ism in the systems they study, formal methods are well-suited for  in a popula- tion of patients who differ greatly in characteristics and medical history  the burden of conducting trials by pro- viding fast, early, and rigorous testing of assumptions
+     Url https://ieeexplore.ieee.org/abstract/document/7383160/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal verification of the AAMP5 microprocessor: A case study in the industrial use of formal methods
+     Author ['SP Miller', 'M Srivas']
+     Venue Proceedings of 1995 IEEE Workshop on …
+     Year 1995
+     Abstract life threatening, such as aircraft, nuclear power plants, weapon systems, and medical instrumentation. Several authors have demon- strated the infeasibility of showing that such systems meet ulua-high reliability requirements through testing alone [8,18]. Formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/515475/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A formal approach to pre-market review for medical device software
+     Author ['R Jetley', 'SP Iyer', 'PL Jones']
+     Venue 30th Annual International …
+     Year 2006
+     Abstract testing and usage models. Section 6 contains our conclusions. 2. The pre-market software review process Medical devices must be safe and effective. Accordingly, all software used therein must be highly reliable and free of errors. To this end, it is suggested that formal methods
+     Url https://ieeexplore.ieee.org/abstract/document/4020075/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Literature review of testing techniques for medical device software
+     Author ['JJ Majikes', 'R Pandita', 'T Xie']
+     Venue Proceedings of the 4th Medical …
+     Year 2013
+     Abstract Table 5: Software-Testing Techniques Formal Methods Modeling [21, 24], Infusion Model-Driven Development [36], Pump Model-Based Development [36], Safety Case [42], Model Checking [38], Model-Based Dependability [38] Medical Regression Testing [23], Dependability
+     Url https://taoxie.cs.illinois.edu/publications/mcps13-slr.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title FME'96: Industrial Benefit and Advances in Formal Methods: Third International Symposium of Formal Methods Europe Co-Sponsored by IFIP WG 14.3, Oxford …
+     Author ['MC Gaudel', 'J Woodcock', 'J Woodcock']
+     Venue NA
+     Year 1996
+     Abstract contain descriptions of applications to numerous and important areas: information systems, medical systems, aerospace  as: the role of formal methods in requirement analysis, user interfaces for formal methods, performance analysis, fault-tolerance, testing, reuse, and
+     Url https://books.google.com/books?hl=sv&lr=&id=h2tfI17gUbYC&oi=fnd&pg=PA1&dq=%22Formal+methods%22+%22Medical%22+%22Testing%22&ots=0NOaA6wWng&sig=AOsg3l5J3g8Zo8ITwjmq8eXQOxo
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Teaching formal methods using magic tricks
+     Author ['P Curzon', 'PW McOwan']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title When formal systems kill: Computer ethics and formal methods
+     Author ['D Abramson', 'L Pike']
+     Venue APA Newsletter on Philosophy and Computers
+     Year 2011
+     Abstract software by mathematically proving programs correct as opposed to merely testing them  systems, automotive subsystems, computer systems for piloted spacecraft, and computerized medical devices  that in discussion of the question 'how often should formal methods be applied
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.436.6308&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Whatever happened to formal methods for security?
+     Author ['J Voas', 'K Schaffer']
+     Venue Computer
+     Year 2016
+     Abstract manufacturers to demonstrate that they applied very modern techniques for testing and safety  While the use of formal methods is not mandated, formal evidence can support approaches  such as the AAMI (Association for the Advancement of Medical Instrumentation), concerned
+     Url https://www.ncbi.nlm.nih.gov/pmc/articles/pmc5120363/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods and their role in the certification of critical systems
+     Author ['J Rushby']
+     Venue Safety and reliability of software based systems
+     Year 1997
+     Abstract cause for a catastrophic failure condition, experience with similar systems together with testing and analysis  Similarly, much of the software in the Therac 25 medical electron accelerator, which led  In the next section, I introduce formal methods, which provide a way to move the
+     Url https://link.springer.com/chapter/10.1007/978-1-4471-0921-1_1
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Seven more myths of formal methods: Dispelling industrial prejudices
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue International Symposium of Formal Methods …
+     Year 1994
+     Abstract been a number of (somewhat successful) approaches to the formal specification of UIs [23], in general it is accepted that UI conformance testing lies in  31. Hall, JA: Seven Myths of Formal Methods  Haughton, H. & Lano, K.: Formal Development of Safety-Critical Medical Systems
+     Url https://link.springer.com/chapter/10.1007/3-540-58555-9_91
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Ten commandments revisited: a ten-year perspective on the industrial application of formal methods
+     Author ['JP Bowen', 'MG Hinchey']
+     Venue … international workshop on Formal methods for …
+     Year 2005
+     Abstract of this conceptual construct, not the labor of representing it and testing the fidelity  Moreover, formal methods generally result in a cleaner architecture [26], making a system more efficient  of, arguably, the most significant failure of software assurance in the medical/biological field
+     Url https://dl.acm.org/doi/abs/10.1145/1081180.1081183
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Cyber–physical modeling of implantable cardiac medical devices
+     Author ['Z Jiang', 'M Pajic', 'R Mangharam']
+     Venue Proceedings of the IEEE
+     Year 2011
+     Abstract phase. While formal methods of verification are used for medical device software [14]–[16], testing continues to be required because it can expose different kinds of problems (eg, compiler bugs), can examine the program in its
+     Url https://ieeexplore.ieee.org/abstract/document/5985460/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Safety and reliability of real-time engineering systems using formal methods
+     Author ['WM Elseaidy']
+     Venue NA
+     Year 1995
+     Abstract From aircraft navigation systems to medical devices, computerized systems are occupying an increasingly  notions such as formal modeling, formal verification, and real-time testing techniques to  Title, Safety and reliability of real-time engineering systems using formal methods
+     Url https://dl.acm.org/citation.cfm?id=220608
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Runtime verification for interconnected medical devices
+     Author ['M Leucker', 'M Schmitz', 'D à Tellinghusen']
+     Venue … Applications of Formal Methods
+     Year 2016
+     Abstract ISoLA 2016: Leveraging Applications of Formal Methods, Verification and Validation: Discussion, Dissemination, Applications pp 380-387 | Cite as  In this paper we have presented the OSCP SDK that simplifies implementation and testing of medical devices using
+     Url https://link.springer.com/chapter/10.1007/978-3-319-47169-3_29
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Experiences from testing a radiotherapy support system with QuickCheck
+     Author ['AF Yamashita', 'A Bergqvist']
+     Venue Tests and Proofs: Papers …
+     Year 2008
+     Abstract Keywords: Lightweight formal methods, model-based testing, medical software, soft- ware verification, software testing. 1 Introduction With the increased use of software in medical devices, high demands on software verification and analysis in the medical domain are inevitable
+     Url https://hbz.opus.hbz-nrw.de/opus45-kola/files/209/2008_05_Arbeitsberichte.pdf#page=9
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Introducing formal methods into industry using Cleanroom and CSP
+     Author ['GH Broadfoot', 'PJ Hopcroft']
+     Venue Dedicated Systems Magazine
+     Year 2005
+     Abstract components causing problems that could not be identified or reproduced using conventional testing  issue: if the domain experts were trained in the necessary formal methods (or a  experts (for example, the domain experts required for the development of medical technology will
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.1030&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A preliminary systematic literature review of the use of formal methods in medical software systems
+     Author ['S Bonfanti', 'A Gargantini']
+     Venue Industrial Proceedings of …
+     Year 2016
+     Abstract Define criteria to include and exclude papers Silvia Bonfanti - A Preliminary Systematic Literature Review of the use of Formal Methods in Medical Software Systems Page 6. Where has been applied SLR in Computer Science? • Web Application testing
+     Url http://2017.eurospi.net/images/EuroSPI2016/ppt/bonfanti_eurospi2016.pdf
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title The industrial use of formal methods
+     Author ['M Thomas']
+     Venue Microprocessors and Microsystems
+     Year 1993
+     Abstract and designed in Z, managing Z projects or carrying out system testing on Z  of detail) are drawn from aviation, railway vehicle control, nuclear power, medical systems and ammunition control, illustrating the range of industry sectors which have adopted formal methods to some
+     Url https://www.sciencedirect.com/science/article/pii/014193319390091K
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title A symbiotic relationship between formal methods and security
+     Author ['JM Wing']
+     Venue … , Dependability, and Assurance: From Needs to …
+     Year 1998
+     Abstract the formal methods community is clear: security still remains a challenge. The motivation from the security community is strong too. More and inore pee ple place their trust in computing systems today for doing everything from casual shopping to medical recordkeeping; and
+     Url https://ieeexplore.ieee.org/abstract/document/798355/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Understanding formal methods
+     Author ['JF Monin']
+     Venue NA
+     Year 2012
+     Abstract Page 1. Understanding Formal Methods Written and translated by: Jean-François Monin Translation editor: º, Michael G. Hinchey {5} Springer Page 2. Understanding Formal Methods Page 3. Springer-Verlag London Ltd. Page 4
+     Url https://books.google.com/books?hl=sv&lr=&id=7GsKBwAAQBAJ&oi=fnd&pg=PA1&dq=%22Formal+methods%22+%22Medical%22+%22Testing%22&ots=4GUEgtgTTj&sig=h5TnuXcDZ9_V7eac0qGWIfH4YQU
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title Formal methods in a system-of-systems development
+     Author ['DS Caffall', 'JB Michael']
+     Venue 2005 IEEE International Conference on …
+     Year 2005
+     Abstract From a study of 387 software errors discovered during the integration and testing phase of the Voyager and Galileo spacecraft, Robyn Lutz  Wallace and Kuhn analyzed software faults from 342 medical systems and determined that 43% of the soft- ware  4 Formal Methods
+     Url https://ieeexplore.ieee.org/abstract/document/1571417/
+
+
+     Search term "Formal+methods"+"Medical"+"Testing"
+     Title The practice of formal methods in safety-critical systems
+     Author ['S Liu', 'V Stavridou', 'B Dutertre']
+     Venue Journal of Systems and Software
+     Year 1995
+     Abstract project team produced a complete formal specification of the safety-critical part of the software used in a medical instrument  activity of formal methods, such as consistency checking of specifications, specification refinements, correctness proofs, software testing, etc
+     Url https://www.sciencedirect.com/science/article/pii/016412129400082X
+

@@ -1,0 +1,91 @@
+Showing papers for search query "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title LastLayer: Towards Hardware and Software Continuous Integration
+     Author ['L Vega', 'J Roesch', 'J McMahan', 'L Ceze']
+     Venue IEEE Micro
+     Year 2020
+     Abstract LastLayer, an open-source tool1 that enables hardware and software continuous integration and  register transfer level (RTL) abstraction, LastLayer provides a mechanism for testing Verilog designs  and memories in the design as well as control over the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/9099634/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract 68 VOLUME 2, NO. 2, JUNE 2015 Page 7. FARUQUE et al.: Real-Time Simulation Technologies for Power Systems Design, Testing, and Analysis  With continuous customer support, these simulators can be used to accommodate any special needs of the consumers
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract or a high chopper frequency of the emulation part would be useful to impose a continuous current idcm  [4] H. Hanselmann, "HIL simulation testing and its  IEEE-PESC'07, Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract 1 Abstract—This paper presents a compendious summary of power hardware-in- the-loop (PHIL) simulations that are used for designing, analyzing and testing of electrical power system components. PHIL simulations are an
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Simulation experiments on applying the HiL system are used to verify the validity of self  the effectiveness and importance of our method in the process of testing and verifying  Work The development of autonomous driving technologies re- quires the continuous verification and
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Randomized differential testing as a prelude to formal verification
+     Author ['A Groce', 'G Holzmann', 'R Joshi']
+     Venue 29th International Conference …
+     Year 2007
+     Abstract mis- sions, with the goal of using the full array of available software verification and validation  inject a fault F (eg, write failure or system reset) into the hardware simulation layer  To date, the longest continuous run of successful tests includes over 3.5 billion randomly selected
+     Url https://ieeexplore.ieee.org/abstract/document/4222623/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The aim of this paper is to show how Hardware in the Loop simulation can be a very effective approach to perform software verification in those systems  The plant model that is a continuous system is transformed into a discrete-time model and modeled by difference equations
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title FIR Filter Software and Hardware Simulation
+     Author ['RN Zobel']
+     Venue UKSC 84
+     Year 1984
+     Abstract This allows software configuration of microprogrammed digital filters operated under single step or continuous operation, for assistance with  This results in the important system aspect of compatibility between software simulation, hardware simulation and hardware testing
+     Url https://www.sciencedirect.com/science/article/pii/B9780408015042500491
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Method and system for generating electronic hardware simulation models
+     Author ['DA Fura']
+     Venue US Patent 5,953,519
+     Year 1999
+     Abstract US5953519A - Method and system for generating electronic hardware simulation models - Google Patents. Method and system for generating electronic hardware simulation models. Download PDF Info. Publication number US5953519A
+     Url https://patents.google.com/patent/US5953519A/en
+
+
+     Search term "Continuous"+"Hardware+simulation"+"Software+Validation"+OR+"Software+Verification"+OR+"Testing"
+     Title Real-time FPGA-based hardware-in-the-loop simulation test bench applied to multiple-output power converters
+     Author ['O Lucia', 'I Urriza', 'LA Barragan']
+     Venue IEEE Transactions …
+     Year 2010
+     Abstract 2) is made up by the power converter and a versatile control architecture based on a SoPC implemented into an FPGA. It allows testing modulation patterns directly from a PC  Each network configuration is described by a continuous time state- space equation
+     Url https://ieeexplore.ieee.org/abstract/document/5677465/
+

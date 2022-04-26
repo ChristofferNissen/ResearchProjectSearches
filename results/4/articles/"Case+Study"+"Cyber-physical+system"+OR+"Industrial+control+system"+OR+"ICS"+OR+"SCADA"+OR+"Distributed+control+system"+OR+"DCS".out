@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Rethinking security properties, threat models, and the design space in sensor networks: A case study in SCADA systems
+     Author ['AA Cardenas', 'T Roosta', 'S Sastry']
+     Venue Ad Hoc Networks
+     Year 2009
+     Abstract In recent years we have witnessed the emergence and establishment of research in sensor network security. The majority of the literature has focused on discovering numerous vulnerabilities and attacks against sensor networks, along with suggestions for
+     Url https://www.sciencedirect.com/science/article/pii/S1570870509000468
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Engineering insights from an anthropocentric cyber-physical system: A case study for an assembly station
+     Author ['BC Pirvu', 'CB Zamfirescu', 'D Gorecky']
+     Venue Mechatronics
+     Year 2016
+     Abstract To effectively cope with the complexity of manufacturing control problems the cyber-physical systems are engineered to work in the social space. Therefore the research in the field of cyber-physical systems needs to address social aspects when this concept is adopted in
+     Url https://www.sciencedirect.com/science/article/pii/S095741581500152X
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Capitalizing on SDN-based SCADA systems: An anti-eavesdropping case-study
+     Author ['EG da Silva', 'LAD Knob', 'JA Wickboldt']
+     Venue 2015 IFIP/IEEE …
+     Year 2015
+     Abstract Power grids are responsible for the transmission and distribution of electricity to end-users. These systems are undergoing a modernization process through the use of Information and Communication Technology (ICT), transforming the electric system into Smart Grids. In this
+     Url https://ieeexplore.ieee.org/abstract/document/7140289/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Cyber-physical-system-based safety monitoring for blind hoisting with the internet of things: A case study
+     Author ['C Zhou', 'H Luo', 'W Fang', 'R Wei', 'L Ding']
+     Venue Automation in Construction
+     Year 2019
+     Abstract This study proposed a cyber-physical-system-based safety monitoring system (CPS-SMS) for blind hoisting in metro and underground constructions. Wuhan Metro's Sanyang road tunnel, which crosses the Yangtze River in China, was selected for this case study. A slurry
+     Url https://www.sciencedirect.com/science/article/pii/S0926580518303443
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Automated unit testing of a SCADA control software: an industrial case study based on action research
+     Author ['SA Jolly', 'V Garousi']
+     Venue 2012 IEEE Fifth …
+     Year 2012
+     Abstract We report in this case-study paper our experience and success story with a practical approach and tool for unit regression testing of a SCADA (Supervisory Control and Data Acquisition) software. The tool uses a black-box specification of the units under test to
+     Url https://ieeexplore.ieee.org/abstract/document/6200132/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Human-centred assembly: a case study for an anthropocentric cyber-physical system
+     Author ['CB Zamfirescu', 'BC Pirvu', 'D Gorecky']
+     Venue Procedia …
+     Year 2014
+     Abstract To engineer the factory of the future the paper argues for an anthropocentric cyber-physical reference model that assimilate in an integrated, dynamic, structural and functional way all the required components (ie physical, computational and human) of a synthetic hybrid
+     Url https://www.sciencedirect.com/science/article/pii/S2212017314001534
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A digital twin for production planning based on cyber-physical systems: A Case Study for a Cyber-Physical System-Based Creation of a Digital Twin
+     Author ['F Biesinger', 'D Meike', 'B Kraß', 'M Weyrich']
+     Venue Procedia CIRP
+     Year 2019
+     Abstract The increasing change of production leads to differences between the current shop floor and the state of planning. This difference causes significant challenges for production planners while integrating new products into existing production systems. To tackle this issue, this
+     Url https://www.sciencedirect.com/science/article/pii/S2212827119302045
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title How wind turbines alignment to wind direction affects efficiency? A case study through SCADA data mining
+     Author ['F Castellani', 'D Astolfi', 'A Garinei', 'S Proietti', 'P Sdringola']
+     Venue Energy Procedia
+     Year 2015
+     Abstract SCADA control systems are the keystone for reliable performance optimization of wind farms. Processing into knowledge the amount of information they spread is a challenging task, involving engineering, physics, statistics and computer science skills. The present work
+     Url https://www.sciencedirect.com/science/article/pii/S1876610215012631
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Demystifying 3D ICs: The pros and cons of going vertical
+     Author ['WR Davis', 'J Wilson', 'S Mick', 'J Xu', 'H Hua']
+     Venue IEEE Design & Test …
+     Year 2005
+     Abstract study of a fast Fourier transform (FFT) placed and routed in a 0.18-µm through-via silicon-on-insulator (SOI) technol- ogy, comparing the 3D design to a traditional 2D approach in terms of wire length and critical-path delay. Overview of vertical interconnect technologies
+     Url https://ieeexplore.ieee.org/abstract/document/1541910/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A robust prescriptive framework and performance metric for diagnosing and predicting wind turbine faults based on SCADA and alarms data with case study
+     Author ['K Leahy', 'C Gallagher', "P O'Donovan", 'K Bruton']
+     Venue Energies
+     Year 2018
+     Abstract Using 10-minute wind turbine supervisory control and data acquisition (SCADA) system data to predict faults can be an attractive way of working toward a predictive maintenance strategy without needing to invest in extra hardware. Classification methods have been
+     Url https://www.mdpi.com/1996-1073/11/7/1738
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title DCS implementation of optimal operational policies: a crystallisation case study
+     Author ['A Abbas', 'JA Romagnoli']
+     Venue International journal of computer …
+     Year 2006
+     Abstract This work features the integrated utilisation of various technologies including advanced modelling software (both off-line and real time), model-predictive control and distributed computer control technology in a collective environment. The outcome will be a structured
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2006.009393
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Migration of a SCADA system to IaaS clouds–a case study
+     Author ['P Church', 'H Mueller', 'C Ryan']
+     Venue Journal of Cloud …
+     Year 2017
+     Abstract SCADA systems allow users to monitor and/or control physical devices, processes, and events remotely and in real-time. As these systems are critical to industrial processes, they are often run on highly reliable and dedicated hardware. Moving these SCADA systems to
+     Url https://www.biomedcentral.com/openurl?doi=10.1186/s13677-017-0080-5
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Investigation of wind resource characteristics in mountain wind farm using multiple-unit SCADA data in Chenzhou: A case study
+     Author ['J Dai', 'Y Tan', 'W Yang', 'L Wen', 'X Shen']
+     Venue Energy Conversion and …
+     Year 2017
+     Abstract Wind resource characteristics in a mountain wind farm is more complicated and changeable than that in a flat wind farm due to the influence of complex mountain terrain-topography on air flow. Although there have been a large number of investigations on wind resource
+     Url https://www.sciencedirect.com/science/article/pii/S0196890417305320
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Automatically identifying and predicting unplanned wind turbine stoppages using scada and alarms system data: Case study and results
+     Author ['K Leahy', 'CV Gallagher', 'K Bruton']
+     Venue Journal of Physics …
+     Year 2017
+     Abstract Using 10-minute wind turbine SCADA data for fault prediction offers an attractive way of gaining additional prognostic capabilities without needing to invest in extra hardware. To use these data-driven methods effectively, the historical SCADA data must be labelled with
+     Url https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012011/meta
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Construction of cyber-physical system–integrated smart manufacturing workshops: A case study in automobile industry
+     Author ['M Zheng', 'X Ming']
+     Venue Advances in Mechanical Engineering
+     Year 2017
+     Abstract Along with the change of global economic landscape and the development of manufacturing technologies, cyber–physical-system-integrated smart manufacturing system has become a general solution for both developed and developing countries to upgrade their
+     Url https://journals.sagepub.com/doi/abs/10.1177/1687814017733246
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Model-based documentation of dynamicity constraints for collaborative cyber-physical system architectures: Findings from an industrial case study
+     Author ['J Brings', 'M Daun', 'T Bandyszak', 'V Stricker']
+     Venue Journal of Systems …
+     Year 2019
+     Abstract Background Collaborative cyber-physical systems form highly dynamic networks, consisting of collaborating individual systems at run-time. These networks provide functionality that goes beyond the functionality of the individual systems that are part of the network. The
+     Url https://www.sciencedirect.com/science/article/pii/S1383762118303527
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Comparison between commercial and open-source SCADA packages—A case study
+     Author ['O Barana', 'P Barbato', 'M Breda', 'R Capobianco']
+     Venue Fusion Engineering and …
+     Year 2010
+     Abstract SPIDER (Source for the Production of Ions of Deuterium Extracted from Rf plasma) is a new experimental device under development at Consorzio RFX aimed at providing a full-scale ion source prototype for MITICA (Megavolt ITer Injector and Concept Advance), the
+     Url https://www.sciencedirect.com/science/article/pii/S092037961000030X
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Case study of WSN as a replacement for SCADA
+     Author ['C Amarawardhana', 'KS Dayananada']
+     Venue … on Industrial and …
+     Year 2009
+     Abstract The increasing interconnectivity of SCADA (Supervisory Control and Data Acquisition) networks has exposed them to a wide range of network security problems. Also in that case WSN (Wireless Sensor Networks), which is a new computing paradigm that emerged from
+     Url https://ieeexplore.ieee.org/abstract/document/5429891/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Availability of a SCADA/OMS/DMS system—a case study
+     Author ['M Jensen', 'C Sel', 'U Franke', 'H Holm']
+     Venue 2010 IEEE PES …
+     Year 2010
+     Abstract With the advent of the smart grid, new challenges arise for electricity distribution. In particular, reliable power distribution will become evermore dependent upon information and communication technology (ICT). With this increasing dependency comes a need for a
+     Url https://ieeexplore.ieee.org/abstract/document/5638912/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Model-based real-time evaluation of security patterns: A SCADA system case study
+     Author ['A Motii', 'A Lanusse', 'B Hamid', 'JM Bruel']
+     Venue International Conference on …
+     Year 2016
+     Abstract Securing critical systems such as cyber physical systems (CPS) is an important feature especially when it comes to critical transmitted data. At the same time, the implementation of security counter-measures in such systems may impact other functional or non-functional
+     Url https://link.springer.com/chapter/10.1007/978-3-319-45480-1_30
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Forensics in industrial control system: a case study
+     Author ['P Van Vliet', 'MT Kechadi', 'NA Le-Khac']
+     Venue Security of Industrial Control …
+     Year 2015
+     Abstract Industrial Control Systems (ICS) are used worldwide in critical infrastructures. An ICS system can be a single embedded system working stand-alone for controlling a simple process or ICS can also be a very complex Distributed Control System (DCS) connected to
+     Url https://link.springer.com/chapter/10.1007/978-3-319-40385-4_10
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Bolt-on security extensions for industrial control system protocols: A case study of DNP3 SAv5
+     Author ['JA Crain', 'S Bratus']
+     Venue IEEE Security & Privacy
+     Year 2015
+     Abstract Design issues with DNP3 Secure Authentication version 5 are related to implementation complexity, parsing ambiguities, and coupled state. An analysis seeks to help the designers of similar functionality in other SCADA and industrial control system protocols to avoid the
+     Url https://ieeexplore.ieee.org/abstract/document/7118080/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Continuous collaboration: A case study on the development of an adaptive cyber-physical system
+     Author ['M Hölzl', 'T Gabor']
+     Venue 2015 IEEE/ACM 1st International Workshop …
+     Year 2015
+     Abstract The need to interact with complex environments that are often not well understood at design time makes the development of smart cyber-physical systems (sCPS) a challenging endeavor. We propose a set of practices and tools that support the design and
+     Url https://ieeexplore.ieee.org/abstract/document/7173939/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Through-silicon-via aware interconnect prediction and optimization for 3D stacked ICs
+     Author ['DH Kim', 'S Mukhopadhyay', 'SK Lim']
+     Venue Proceedings of the 11th …
+     Year 2009
+     Abstract size. Based on this new prediction model, we explain the impact of several design parameters newly introduced in 3D ICs. We also present a case study to show how the model can help make early design decisions for 3D ICs
+     Url https://dl.acm.org/doi/abs/10.1145/1572471.1572486
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Energy consumption analysis in wastewater treatment plants using simulation and SCADA system: Case study in northern Taiwan
+     Author ['WY Sean', 'YY Chu', 'LL Mallu', 'JG Chen']
+     Venue Journal of Cleaner …
+     Year 2020
+     Abstract Energy consumption is a crucial aspect in wastewater treatment plants. Biological processes using aeration systems contribute significantly to energy usage. Tao-bay plants in northern Taiwan are recent plants that have not introduced automated control on aeration systems
+     Url https://www.sciencedirect.com/science/article/pii/S0959652620342931
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Adopting a component-based software architecture for an industrial control system–a case study
+     Author ['F Lüders', 'I Crnkovic', 'P Runeson']
+     Venue Component-Based Software …
+     Year 2005
+     Abstract This chapter presents a case study from a global company developing a new generation of programmable controllers to replace several existing products. The system needs to incorporate support for a large number of I/O systems, network types, and communication
+     Url https://link.springer.com/chapter/10.1007/11591962_12
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Resilience of cyber-physical system: A case study of safe school environment
+     Author ['J Rajamäki', 'P Rathod', 'A Ahlgren', 'J Aho']
+     Venue 2012 European …
+     Year 2012
+     Abstract Modern critical infrastructure includes a combination of computational and physical components, known as cyber-physical system (CPS). Often, urban built infrastructures represent a critical node within the intertwined networks of an urban area. Current school
+     Url https://ieeexplore.ieee.org/abstract/document/6298846/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Towards a future SCADA
+     Author ['ZA Vale', 'H Morais', 'M Silva']
+     Venue 2009 IEEE Power & …
+     Year 2009
+     Abstract The paper includes a case-study of using future SCADA fea- tures to use DER to deal with incident situations, preventing blackouts  CASE-STUDY The proposed concept of an intelligent SCADA is being tested on a simulation environment implement in PSCAD
+     Url https://ieeexplore.ieee.org/abstract/document/5275561/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Industry 4.0 as a cyber-physical system study
+     Author ['PJ Mosterman', 'J Zander']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract Industry 4.0 as a Cyber-Physical System study 19  Figure 2 shows a representation of an industry process (eg, for manufactur- ing purposes) with a supervisory control and data acquisition (SCADA) system that can sort a stack of blocks akin to the Towers of Hanoi puzzle [18,19]
+     Url https://link.springer.com/content/pdf/10.1007/s10270-015-0493-x.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Design of integrated SCADA systems in piston production manufacturing case study on the conveyor, the coolant, the hydraulic, and the alarm systems using PLC …
+     Author ['S Ardi', 'A Ponco', 'RA Latief']
+     Venue 2017 4th International Conference …
+     Year 2017
+     Abstract This research was conducted at the company in Indonesia which is engaged in the production of piston. Piston is an important part of a vehicle. This research is based on the condition of the manufacturing plant, where there is an abnormality on all production lines
+     Url https://ieeexplore.ieee.org/abstract/document/8257700/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Impact of DER integration on the cyber security of SCADA systems-The medium voltage regulation case study
+     Author ['G Dondossola', 'F Garrone', 'G Proserpio', 'C Tornelli']
+     Venue NA
+     Year 2012
+     Abstract The operation of active distribution grids with high penetration of Distributed Energy Resources, connected to Medium Voltage bars and feeders, requires the implementation of new Medium Voltage regulation functions. Assuming that this control function is best
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2012.0808
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Use of SCADA and CMS signals for failure detection and diagnosis of a wind turbine gearbox
+     Author ['Y Feng', 'Y Qiu', 'CJ Crabtree', 'H Long']
+     Venue … and Exhibition 2011 …
+     Year 2011
+     Abstract 3 Case Study on SCADA Signals  A case study on a 2 MW variable speed WT confirm that oil, bearing & nacelle temperatures and power output SCADA signals can be used to detect planetary gear failure providing 3 months warning
+     Url http://eprints.whiterose.ac.uk/83334/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title ICS security testbed with delay attack case study
+     Author ['E Korkmaz', 'A Dolgikh', 'M Davis']
+     Venue MILCOM 2016-2016 …
+     Year 2016
+     Abstract Critical infrastructure components are digitally controlled and operate alongside setups of interconnected machinery, computers and network devices, ie as cyber-physical systems. As such they became a frequent target of cyber-attacks. In this paper we investigate the
+     Url https://ieeexplore.ieee.org/abstract/document/7795340/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Building a SCADA security testbed
+     Author ['C Queiroz', 'A Mahmood', 'J Hu', 'Z Tari']
+     Venue 2009 Third International …
+     Year 2009
+     Abstract security testing. In Section IV, we describe the main components of our SCADA simulation using a case study of a water treatment plant SCADA system. In Section V, we present the SCADA simulation architecture. In Section
+     Url https://ieeexplore.ieee.org/abstract/document/5319283/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Malicious control system cyber security attack case study–Maroochy Water Services, Australia
+     Author ['M Abrams', 'J Weiss']
+     Venue McLean, VA: The MITRE Corporation
+     Year 2008
+     Abstract Information Systems to better address ICS – Revision 2 published December 2007 ■ Develop SP 800-82 Guide to Supervisory Control and Data Acquisition (SCADA) and Industrial Control System Security – Second draft September 2007  7 Case Study Overview
+     Url http://www.icsdefender.ir/files/scadadefender-ir/paygahdanesh/gheyreboomi/motaleatemoredi/Case%20Study%20-%20NIST%20-%20Maroochy%20(presentation).pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Uncertainty-wise cyber-physical system test modeling
+     Author ['M Zhang', 'S Ali', 'T Yue', 'R Norgren', 'O Okariz']
+     Venue Software & Systems …
+     Year 2019
+     Abstract It is important that a Cyber-Physical System (CPS) with uncertainty in its behavior caused by its unpredictable operating environment, to ensure its  UncerTum was evaluated with two industrial CPS case studies, one real-world case study, and one open-source CPS case study
+     Url https://link.springer.com/article/10.1007/s10270-017-0609-6
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Vulnerability assessment of cybersecurity for SCADA systems
+     Author ['CW Ten', 'CC Liu', 'G Manimaran']
+     Venue IEEE Transactions on Power …
+     Year 2008
+     Abstract Index Terms—Cyber-physical system, dependability measures, passwords, Petri nets, power systems, vulnerability indices  The impact factor for the attack upon a SCADA system is determined  A. IEEE Case Study and Implementations The wide area communication link between
+     Url https://ieeexplore.ieee.org/abstract/document/4652578/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A Cyber-Physical System-Based Velocity-Profile Prediction Method and Case Study of Application in Plug-In Hybrid Electric Vehicle
+     Author ['Y Zhang', 'L Chu', 'Y Ou', 'C Guo', 'Y Liu']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Benefitting from the advances in sensor nets, wireless communication, and embedded systems, the cyber-physical system (CPS) has been implemented in many practical areas. The cyber world and the physical world in CPS are closely linked and merged, guaranteeing
+     Url https://ieeexplore.ieee.org/abstract/document/8788462/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title An integrated cyber-physical system for cloud manufacturing
+     Author ['L Wang', 'R Gao', 'I Ragai']
+     Venue International …
+     Year 2014
+     Abstract This paper presents an integrated cyber-physical system for remote accessibility and controllability of factory equipment, eg CNC machines and  This paper covers the basis of the approach, system architecture and implementation, and a case study of remote control
+     Url https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2014/45806/V001T04A029/268422
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Electrical packaging requirements for low-voltage ICs-3.3 V high-performance CMOS devices as a case study
+     Author ['R Senthinathan', 'A Mehra']
+     Venue … Technology: Part B
+     Year 1994
+     Abstract Motivated by reduced-power dissipation and increased demand for portable systems, supply voltage for ICs is scaled down from present 5 V. However, packaging these reduced supply voltage devices demands closer attention to electrical packaging requirements. This work
+     Url https://ieeexplore.ieee.org/abstract/document/338714/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A blockchain enabled Cyber-Physical System architecture for Industry 4.0 manufacturing systems
+     Author ['J Lee', 'M Azamfar', 'J Singh']
+     Venue Manufacturing Letters
+     Year 2019
+     Abstract Cyber-Physical System. Industry 4.0. Blockchain technology. Artificial Intelligence. Cloud computing. Big data. Peer to Peer network. Fog computing  2 presents a PHM case study illustrating how each function of BCPS is implemented in health monitoring of manufacturing machines
+     Url https://www.sciencedirect.com/science/article/pii/S2213846319300264
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Power benefit study for ultra-high density transistor-level monolithic 3D ICs
+     Author ['YJ Lee', 'D Limbrick', 'SK Lim']
+     Venue Proceedings of the 50th Annual Design …
+     Year 2013
+     Abstract Page 1. Power Benefit Study for Ultra-High Density Transistor-Level Monolithic 3D ICs  DAC'13, May 29 - June 07 2013, Austin, TX, USA. Copyright 2013 ACM 978-1-4503-2071-9/13/05 ...$15.00. based 3D ICs and conventional 2D ICs in terms of footprint, tim- ing, and power
+     Url https://dl.acm.org/doi/abs/10.1145/2463209.2488863
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Rule-based intrusion detection system for SCADA networks
+     Author ['Y Yang', 'K McLaughlin', 'T Littler', 'S Sezer', 'HF Wang']
+     Venue NA
+     Year 2013
+     Abstract using an in-depth protocol analysis and a Deep Packet Inspection (DPI) method. The proposed SCADA-IDS involving signature-based and model-based detection is exemplified using a protocol traffic case-study. 1 Introduction
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2013.1729
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Case study: linking Bristol Babcock's SCADA systems to WaterCAD, a water distribution modeling tool
+     Author ['P Joshi', 'T Walski', 'S Gandhi', 'B Babcock', 'JA Andrews']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Issues in bilingualism and biculturalism: A Hong Kong case study
+     Author ['DCS Li']
+     Venue NA
+     Year 1996
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A study of wind turbine wakes in complex terrain through RANS simulation and SCADA data
+     Author ['D Astolfi', 'F Castellani', 'L Terzi']
+     Venue Journal of Solar …
+     Year 2018
+     Abstract A Study of Wind Turbine Wakes in Complex Terrain Through RANS Simulation and SCADA Data  Astolfi, D., Castellani, F., and Terzi, L. (February 20, 2018). "A Study of Wind Turbine Wakes in Complex Terrain Through RANS Simulation and SCADA Data." ASME. J. Sol
+     Url https://asmedigitalcollection.asme.org/solarenergyengineering/article/473342/A-Study-of-Wind-Turbine-Wakes-in-Complex-Terrain
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Magnetic microscopy for ICs failure analysis: comparative case studies using SQUID, GMR and MTJ systems
+     Author ['O Crépel', 'P Poirier', 'P Descamps']
+     Venue Proceedings of the 11th …
+     Year 2004
+     Abstract flows in ICs. After revie) the performances of SQUID, GMR (hard disk head ti Jlogies) and MTJ existing sensors, we will present results obtained on various case studies. This comparison will show the benefit of each approach according to each case study (packaged devices
+     Url https://ieeexplore.ieee.org/abstract/document/1345534/
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Improved cooking stove (ICS) and its impact on firewood consumptions and reducing carbon dioxide emission: a case study from TMJ area, Nepal
+     Author ['RC Khanal', 'L Bajracharya']
+     Venue IUCN Nepal
+     Year 2010
+     Abstract Background: Improved Cooking Stove (ICS) is becoming one of the widely adopted rural technologies in some rural parts of the country in Nepal. Although ICS has social, economic and environmental benefits, its proper promotion at larger scale is still weak. In the context of
+     Url http://www.academia.edu/download/46793440/BP56_SuppPaper_ICSNEPAL_Khanal_Bajrachar20160625-24543-ywhqqf.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title A log mining approach for process monitoring in SCADA
+     Author ['D Hadžiosmanović', 'D Bolzoni', 'PH Hartel']
+     Venue International Journal of …
+     Year 2012
+     Abstract A preliminary case study suggests that our approach is effective in detecting anomalous events that might alter the regular process workflow. Keywords ICS · SCADA · Security · SCADA log · Log analysis · Frequent pattern mining · Process related threat · HAZOP · PHEA
+     Url https://link.springer.com/content/pdf/10.1007/s10207-012-0163-8.pdf
+
+
+     Search term "Case+Study"+"Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"
+     Title Distribution system operation supported by contextual energy resource management based on intelligent SCADA
+     Author ['Z Vale', 'H Morais', 'P Faria', 'C Ramos']
+     Venue Renewable Energy
+     Year 2013
+     Abstract This SCADA model is used to support the energy resource management undertaken by a distribution network operator (DNO)  The paper includes a case study using a 114 bus distribution network and load demand based on real data. Highlights
+     Url https://www.sciencedirect.com/science/article/pii/S0960148112006647
+

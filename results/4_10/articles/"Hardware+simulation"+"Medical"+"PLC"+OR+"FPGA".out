@@ -1,0 +1,91 @@
+Showing papers for search query "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware design and implementation of a wavelet de-noising procedure for medical signal preprocessing
+     Author ['SW Chen', 'YH Chen']
+     Venue Sensors
+     Year 2015
+     Abstract Keywords: field programmable gate array (FPGA); medical signal preprocessing; electrocardiogram (ECG); signal integrity; wavelet de-noising. 1. Introduction. Signal integrity always plays a crucial role for applications into medical signal sensing and processing
+     Url https://www.mdpi.com/1424-8220/15/10/26396
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA simulations of charge sharing effect compensation algorithms for implementation in deep sub-micron technologies
+     Author ['P Maj', 'A Drozd', 'R Szczygiel']
+     Venue 2013 UKSim 15th …
+     Year 2013
+     Abstract describes the advantages of using the Field Programmable Gate Arrays (FPGA) for significant  The implementation of the C8P1 algorithm is described at the hardware simulation level, including  deep sub-micron solution technology, which aims to improve medical, scientific and
+     Url https://ieeexplore.ieee.org/abstract/document/6527518/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Hardware-software co-simulation for medical x-ray control units.
+     Author ['B Kleinert', 'GR Rahimi', 'M Reichenbach', 'D Fey']
+     Venue SimuTools
+     Year 2015
+     Abstract 3.2 Hardware simulation We developed a hardware simulator, that is able to interpret our SDL as input and  presented our contribution to master the complexity of product adaption cycles of a medical X-ray  is built from two compo- nents, an x86 64 PC to which an FPGA board is
+     Url http://cs.virginia.edu/~gr5yf/Reza_files/papers/Simutool2015.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title An FPGA platform for real-time simulation of spiking neuronal networks
+     Author ['D Pani', 'P Meloni', 'G Tuveri', 'F Palumbo']
+     Venue Frontiers in …
+     Year 2017
+     Abstract Reviewed by. Stavros Zanos. Feinstein Institute for Medical Research, United States. Francesco Leporati  Front. Neurosci., 28 February 2017 | https://doi.org/10.3389/fnins.2017.00090. An FPGA Platform for Real-Time Simulation of Spiking Neuronal Networks
+     Url https://www.frontiersin.org/articles/10.3389/fnins.2017.00090/full
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA-based adaptive noise cancellation for ultrasonic NDE application
+     Author ['C Brady', 'J Arbona', 'IS Ahn', 'Y Lu']
+     Venue 2012 IEEE International …
+     Year 2012
+     Abstract FPGA-based adaptive noise cancellation is designed  Software simulation and hardware simulation shows that the adaptive filter could be an effective tool for  G. Cincotti, G. Loi, and M. Pappalardo, “ Frequency decomposition and compounding of ultrasound medical images with
+     Url https://ieeexplore.ieee.org/abstract/document/6220729/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title Encrypted biography of biomedical image-a pentalayer cryptosystem on FPGA
+     Author ['D Ravichandran', 'S Rajagopalan', 'HN Upadhyay']
+     Venue Journal of Signal …
+     Year 2019
+     Abstract Medical image with the extension .dcm was read through the Biomedical Toolkit of LabVIEW 2014 and the  The generated pixels were stored in off-chip SRAM of the FPGA for further processing  Hardware simulation waveforms of synthetic image generation unit are shown in Fig
+     Url https://link.springer.com/article/10.1007/s11265-018-1337-z
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of semi-fragile reversible watermarking by histogram bin shifting in real time
+     Author ['S Hazra', 'S Ghosh', 'S De', 'H Rahaman']
+     Venue Journal of Real-Time Image …
+     Year 2018
+     Abstract Hardware implementation of a RW scheme for radiological medical images is proposed in [28]  bin shifting based watermarking process, the hardware-based simulation using FPGA is carried  The hardware simulation for the section images is performed using the Spartan-3E
+     Url https://link.springer.com/article/10.1007/s11554-017-0672-9
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of color image encryption using a new chaotic map
+     Author ['HA Abdullah', 'HN Abdullah']
+     Venue Indonesian J Electr Eng Comput Sci
+     Year 2019
+     Abstract The hardware simulation results show that the number of pins that used of the proposed  [6] Syed Shahzad Hussain Shah, Gulistan Raja,, "FPGA Implementation of  V Lokesha, "A Naïve Visual Cryptographic Algorithm for the Transfer of Compressed Medical Images," Bulletin of
+     Url https://www.researchgate.net/profile/Hamsa_Abdulkareem/publication/330509208_FPGA_implementation_of_color_image_encryption_using_a_new_chaotic_map/links/5c44de8792851c22a38493f2/FPGA-implementation-of-color-image-encryption-using-a-new-chaotic-map.pdf
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title High-Performance Hardware 3D Medical Imaging using Wavelets in the Residue Number System
+     Author ['NI Chervyakov', 'PA Lyakhov']
+     Venue 2020 9th …
+     Year 2020
+     Abstract Keywords —medical imaging; residue number system; parallel computing; discrete wavelet transform; hardware implementation; 3D image processing; FPGA  V. HARDWARE SIMULATION OF THE 3D MEDICAL IMAGES WAVELET PROCESSING An example of 3D 8-bit
+     Url https://ieeexplore.ieee.org/abstract/document/9134123/
+
+
+     Search term "Hardware+simulation"+"Medical"+"PLC"+OR+"FPGA"
+     Title FPGA implementation of non-subsampled Shearlet transform for image fusion
+     Author ['PC Bhaskar', 'MVR Munde']
+     Venue 2017 International Conference on …
+     Year 2017
+     Abstract Fig.6. Hardware Simulation Result for Image Fusion model on ML605 Virtex-6 xc6vlx240t-1ff1156  So from power analysis and device utilization report we observed that, FPGA consumes less  Wang, Yulin Xiong, “A Novel Fusion Technique for CT and MRI Medical Image Based
+     Url https://ieeexplore.ieee.org/abstract/document/8463747/
+

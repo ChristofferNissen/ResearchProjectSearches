@@ -1,0 +1,451 @@
+Showing papers for search query "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract This property of formal methods is useful since it is known that the most serious (and hard to fix) software defects are known to  These methods are applied in a large context in PLC software verification; however, we will be focusing on model checking practices in this paper's
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title SPIN Model Checking and Software Verification: 7th International SPIN Workshop Stanford, CA, USA, August 30-September 1, 2000 Proceedings
+     Author ['K Havelund', 'J Penix', 'W Visser']
+     Venue NA
+     Year 2006
+     Abstract wider focus than previous workshops in that papers on software verification were encouraged  talks, and three invited tutorials about commercial testing and formal methods tools, represented by  University of Technology) Verification and Optimization of a PLC Control Schedule
+     Url https://books.google.com/books?hl=ru&lr=&id=8UBsCQAAQBAJ&oi=fnd&pg=PA1&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=247e74_efm&sig=SINVafsC6U4X11xY-a4zAwN-JqM
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A toolset for model checking of PLC software
+     Author ['A Pakonen', 'T Mätäsniemi', 'J Lahtinen']
+     Venue 2013 IEEE 18th …
+     Year 2013
+     Abstract A lot of time and expertise are needed, as is common with formal methods  [8] J. Yoo, S. Cha, E. Jee, “Verification of PLC Programs Written in FBD with VIS”, Nuclear Engineering and Technology, Vol. 41, pp. 79-90, 2009. [9] R. Huuck, Software Verification for Programmable
+     Url https://ieeexplore.ieee.org/abstract/document/6648065/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of PLC programs Used in Real-Time Applications
+     Author ['D Zmaranda', 'G Gabor']
+     Venue Journal of Computer …
+     Year 2010
+     Abstract In this paper, some issues regarding PLC software verification methods are analyzed. These methods are generally based on two approaches: formalization and simulation. Starting form the idea that formal methods are very useful but have limited applicability in practice for
+     Url http://search.proquest.com/openview/d0a2da0cfdcf876809a27a48a72bfaae/1?pq-origsite=gscholar&cbl=60389
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Verification of PLC programs
+     Author ['S Ferro']
+     Venue NA
+     Year 2020
+     Abstract input devices and sending commands to output devices. In this thesis, we introduce a formal framework for software verification of the robustness of PLC programs  There exist some papers in the domain of static analysis, formal methods and model checking on PLC programs
+     Url http://dspace.unive.it/handle/10579/17637
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Leveraging Horn clause solving for compositional verification of PLC software
+     Author ['D Bohlender', 'S Kowalewski']
+     Venue Discrete Event Dynamic Systems
+     Year 2020
+     Abstract To approach these requirements, formal verification of the PLC software is desired and many successful applications of formal methods have been  but intractable hardware-level verification, which is why hardware-in-the-loop testing is complementary to software verification
+     Url https://link.springer.com/article/10.1007/s10626-019-00296-8
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal verification of the FPGA cores
+     Author ['CJ Lillieroth', 'S Singh']
+     Venue Nordic Journal of Computing
+     Year 1999
+     Abstract Formal verification of the FPGA cores. Share on. Authors: Carl Johan Lillieroth profile image Carl Johan Lillieroth  Automated Verification in Railways. In Industrial-Strength Formal Methods in Practice, Hinchey, MG and Bowen, JP, Editors
+     Url https://dl.acm.org/doi/abs/10.5555/774455.774460
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title New coloured reductions for software validation
+     Author ['S Evangelista', 'S Haddad', 'JF Pradat-Peyre']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract Copyright © 2004 IFAC Keywords: Software Validation, Reductions  The use of formal methods in software design may be decomposed in two steps a modelling stage which must lead to a model as close as possible to the analysed software and a  is defined from PlC) to PlC
+     Url https://www.sciencedirect.com/science/article/pii/S147466701730770X
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title System and method for verification and validation of redundancy software in plc systems
+     Author ['K Ji', 'Z Song']
+     Venue US Patent App. 13/415,897
+     Year 2012
+     Abstract in a redundant PLC system). As described in detail above, formal methods such as model checking are used to verify the FSM of the PLC redundancy software and ensure its proper operation as installed in a working system
+     Url https://patents.google.com/patent/US20120246612A1/en
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software verification for programmable logic controllers
+     Author ['R Huuck']
+     Venue NA
+     Year 2003
+     Abstract On the one hand, we give references to other projects in software verification and their proposed methods in general. On the other hand, we present a thorough overview of existing work applying formal methods to PLC and PLC programming lan- guages
+     Url https://macau.uni-kiel.de/servlets/MCRFileNodeServlet/dissertation_derivate_00000726/d726.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Menhir: Generic High-Speed FPGA Model-Checker
+     Author ['E Fournier', 'C Teodorov']
+     Venue 2020 23rd Euromicro …
+     Year 2020
+     Abstract Among formal methods, model-checking offers a high-level of automation and can  Two preliminary studies on FPGA model-checking show a high-performance increase  modular hardware model-checker, inspired by the architecture of software verification frameworks
+     Url https://ieeexplore.ieee.org/abstract/document/9217803/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Testbed for Model-based Verification of Cyber-physical Production Systems.
+     Author ['CJ Budnik', 'S Eckl', 'M Gario']
+     Venue ARCH@ CPSWeek
+     Year 2017
+     Abstract makes PLC software verification as difficult as more traditional (eg, C) software verification problems  Therefore, verifying a CPPS means verifying both the PLC software, but also verifying  From a formal methods perspective the use of hybrid modeling languages does not directly
+     Url https://wvvw.easychair.org/publications/download/cssx
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Functions and Software Verification of NPP Safety Important Systems
+     Author ['EP Jharko']
+     Venue IFAC-PapersOnLine
+     Year 2019
+     Abstract Formal methods as a correctness proof may be applied both for ready SW and at early stages of developing all SHWC, but in any case, one of the first verification steps is  Software verification process and methodology for the develop- ment of FPGA-based engineered
+     Url https://www.sciencedirect.com/science/article/pii/S2405896319313734
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuDE 2.0: A Formal Method-based Software Development, Verification and Safety Analysis Environment for Digital I&Cs in NPPs
+     Author ['ES Kim', 'DA Lee', 'S Jung', 'J Yoo', 'JG Choi']
+     Venue Journal of Computing …
+     Year 2017
+     Abstract and model-based software development methodology. Category: Embedded computing Keywords: MBD; Formal methods; Safety analysis; PLC; FPGA; Digital I&C I. INTRODUCTION The programmable logic controller (PLC) [1
+     Url http://www.ndsl.kr/soc_img/society/kiss/E1EIKI/2017/v11n1/E1EIKI_2017_v11n1_9.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A hierarchy framework on compositional verification for PLC software
+     Author ['L Xiao', 'M Li', 'M Gu', 'J Sun']
+     Venue 2014 IEEE 5th International …
+     Year 2014
+     Abstract II. RELATED WORK ON SOFTWARE VERIFICATION To ensure software correctness, testing, formal or mathematic and  Verification of PLC properties based on formal semantics in Coq  of the 9th international conference on Software engineering and formal methods (SEFM'11)
+     Url https://ieeexplore.ieee.org/abstract/document/6933545/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title On-chip support for software verification and debug in multi-core embedded systems
+     Author ['P Fogarty', 'C MacNamee', 'D Heffernan']
+     Venue IET Software
+     Year 2013
+     Abstract When available, simulation environments are useful for initial software verification and debugging; where  a simulation environment with snapshot data acquired from an FPGA platform, thereby  In spite of shortcomings, formal methods research has huge potential and continues
+     Url https://digital-library.theiet.org/content/journals/10.1049/iet-sen.2011.0212
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation framework for the verification of PLC programs in automobile industries
+     Author ['LJ Koo', 'CM Park', 'CH Lee', 'SC Park']
+     Venue International Journal of …
+     Year 2011
+     Abstract Cheon et al. (2004) introduced a verification and validation process for a PLC program in a nuclear power plant. They used a Model Checker/Model Certifier, which is a state chart-based formal verification tool. However, formal methods for verification and validation are not fully
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207543.2010.492404
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Direct model checking of PLC programs in IL
+     Author ['B Schlich', 'J Brauer', 'J Wernerus']
+     Venue IFAC Proceedings Volumes
+     Year 2009
+     Abstract In Hardware and Software: Verification and Testing (HVC 2007), Haifa, Israel, volume 4899 of Lecture Notes in  Auto- mated formal verification of plc programms written in IL  In G. Tarnai and E. Schnieder (eds.), Formal Methods for Automa- tion and Safety in Railway and
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015355919
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design and Verification of Restart-Robust Industrial Control Software
+     Author ['D Bohlender', 'S Kowalewski']
+     Venue … Conference on Integrated Formal Methods
+     Year 2018
+     Abstract the restart behaviour for delayed and immediate write semantics, and sketch its integration with established approaches for PLC software verification  industrial automation, the use of formal verification is advisable and many successful applications of formal methods have been
+     Url https://link.springer.com/chapter/10.1007/978-3-319-98938-9_4
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NuSEE: An integrated environment of software specification and V&V for PLC based safety-critical systems
+     Author ['SR Koo', 'PH Seong', 'J Yoo', 'SD Cha']
+     Venue Nuclear Engineering …
+     Year 2006
+     Abstract Thus far, most formal methods are so complex and hard to use that nuclear en  SPACE provides tool-supported design verification and simulation-based software validation for TELEPERM XS (TXS  SIEMENS is a well known PLC manufacturer and NPP vendor, and the target
+     Url https://www.researchgate.net/profile/Poong_Seong/publication/228681552_NuSEE_an_integrated_environment_of_software_specification_and_VV_for_PLC_based_safety-critical_systems/links/00b7d53225d98372ed000000/NuSEE-an-integrated-environment-of-software-specification-and-V-V-for-PLC-based-safety-critical-systems.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model-based automated testing of critical PLC programs
+     Author ['BF Adiego', 'EB Viñuela', 'JC Tournier']
+     Venue 2013 11th IEEE …
+     Year 2013
+     Abstract While some standards (eg [11]) already address the issue of hardware validation, software validation of PLC systems, ie ensuring that the PLC program meets the requirements and specifica- tions made by the  [7] G. Frey and L. Litz, “Formal methods in PLC programming,” in
+     Url https://ieeexplore.ieee.org/abstract/document/6622973/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Nude: Development environment for safety-critical software of nuclear power plant
+     Author ['JH Lee', 'J Yoo']
+     Venue … of the Korean Nuclear Society Spring …
+     Year 2012
+     Abstract NuDE supports formal methods based techniques  of Knowledge Economy), Korea, under the Development of Performance Improvement Technology for Engineering Tool of Safety PLC (Programmable Logic  [2] IEEE, IEEE 1012 Standard for Software Verification and Validation
+     Url https://pdfs.semanticscholar.org/505b/7cf0b88d6d104cf85026630787022f813dc1.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Complying with DO-178C and DO-331 using Model-Based Design
+     Author ['B Potter']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Model checking: towards generating a correct specification for logic controllers
+     Author ['X Weng', 'L Litz']
+     Venue Proceedings of the 2002 American Control …
+     Year 2002
+     Abstract systems. Formal methods provide promising approaches to achieve this. In this contribution, relevant criteria are proposed to get a correct specification of PLC controllers using Signal Interpreted Petri Net (SIPN) framework
+     Url https://ieeexplore.ieee.org/abstract/document/1025352/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal specification and verification of industrial control logic components
+     Author ['O Ljungkrantz', 'K Akesson', 'M Fabian']
+     Venue IEEE Transactions on …
+     Year 2009
+     Abstract Index Terms—Design by contract, formal verification, manufac- turing automation software, programmable logic controller (PLC), software requirements and specifications, software reusability, software verification and validation. I. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/5350407/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Methods and tools to the verification of safety-related control software
+     Author ['T Mertke', 'T Menzel']
+     Venue … , and their complex interactions'(cat. no. 0
+     Year 2000
+     Abstract Although these methods based on formal methods they are covered with user-friendly interfaces. The document displays the modelling of a control-system, which consists of a programmable logic controller (PLC), a user program and the environment, it demonstrates the
+     Url https://ieeexplore.ieee.org/abstract/document/884360/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Deadlock detection in FPGA design: A practical approach
+     Author ['D Wang', 'F He', 'Y Deng', 'C Su', 'M Gu']
+     Venue Tsinghua Science and …
+     Year 2015
+     Abstract While there are many formal methods for verifying VHDL, there is no widely used VHDL verification  Dexi Wang et al.: Deadlock Detection in FPGA Design: A Practical Approach  (2) A general solution to locating deadlock codes by the use of server software verification tools such
+     Url https://ieeexplore.ieee.org/abstract/document/7085635/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Proceedings of Formal Methods in Computer Aided Design, FMCAD 2010
+     Author ['R Bloem', 'N Sharygina']
+     Venue NA
+     Year 2010
+     Abstract Korchemny, Michael Lifshits, Alexander Nadel DFT Logic Verification through Property Based Formal Methods- SOC to IP  Amit Roy, Bijitendra Mittra, Subir K Roy Session 3. Software Verification SLAM2: Static  SAT and QBF Relieving Capacity Limits on FPGA-based SAT-solvers
+     Url https://repositories.lib.utexas.edu/handle/2152/20112
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Using PLCs in safety related process control applications
+     Author ['G Gabor', 'D Zmaranda']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modeling of industrial FPGA-based controllers with ForSyDe
+     Author ['A Panarin', 'V Sklyar', 'V Kharchenko']
+     Venue … on Information and …
+     Year 2017
+     Abstract REFERENCES [1] D. Zheng, Y. Wang, Z. Xueyi, “The methods of FPGA software verification,” 2011 IEEE International Conference on  FPGA-based Digital Convolution for Wireless Applications, Springer, 2017, pp  In: Albert E., Sekerinski E. (eds) Integrated Formal Methods
+     Url https://ieeexplore.ieee.org/abstract/document/8024290/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation based control program verification in an automobile industry
+     Author ['CM Park', 'KY Seong', 'SC Park', 'GN Wang']
+     Venue … Conference on Modeling …
+     Year 2008
+     Abstract Software Verification and Validation Process for a PLC-based Engineered Safety Features-Component Control System in Nuclear Power Plants. The 30th Annual Conference of the IEEE Industrial Electronics Society, 2004, 827-831. [6] G. Frey and L. Litz, Formal Methods
+     Url http://www.actapress.com/Abstract.aspx?paperId=32385
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A verification framework for FBD based software in nuclear power plants
+     Author ['J Yoo', 'S Cha', 'E Jee']
+     Venue 2008 15th Asia-Pacific Software …
+     Year 2008
+     Abstract essential task when replacing traditional relay-based analog system with PLC-based software  This paper proposes a software verification framework for FBD software in nuclear power  When verifying safety-critical software, formal methods [2] play critical roles in demonstrating
+     Url https://ieeexplore.ieee.org/abstract/document/4724570/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Deadlock detection in FPGA design: a practical way
+     Author ['D Wang', 'F He', 'Y Deng', 'C Su', 'M Gu', 'J Sun']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Compositional verification of PLC software using horn clauses and mode abstraction
+     Author ['D Bohlender', 'S Kowalewski']
+     Venue IFAC-PapersOnLine
+     Year 2018
+     Abstract To approach these requirements, formal verification of the PLC software is desired and many success- ful applications of formal methods have been  but intractable hardware-level verification, which is why hardware-in-the-loop testing is complementary to software verification
+     Url https://www.sciencedirect.com/science/article/pii/S2405896318306669
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of FPGA application design by model checking
+     Author ['A Pakonen']
+     Venue 9th International Workshop on the Application of Field …
+     Year 2016
+     Abstract PLC, FPGA, PC, µC  [1] https://www.simulationstore.com/node/52 [2] A. Pakonen, T. Mätäsniemi, J. Lahtinen, T. Karhela, A Toolset for Model Checking of PLC Software, 18th  Proceedings of the Second International Conference on Formal Methods in Computer-Aided Design
+     Url https://sunport.ch/wp-content/uploads/2017/06/D2-4-VTT.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling and verification of PLC-based systems programmed with ladder diagrams
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko', 'V Vyatkin']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The work (Heiner and Menzel, 1998) describes general steps for PLC software verification and validation that is depicted  Industrial engineers in general are not familiar with the formal methods  Currently the formats of data storage for PLC projects are not standardized
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361165
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Toolset for model checking of PLC software Author (s) Pakonen, Antti; Mätäsniemi, Teemu; Lahtinen, Jussi; Karhela, Tomm
+     Author ['A Pakonen']
+     Venue NA
+     Year 2013
+     Abstract A lot of time and expertise are needed, as is common with formal methods  [8] J. Yoo, S. Cha, E. Jee, “Verification of PLC Programs Written in FBD with VIS”, Nuclear Engineering and Technology, Vol. 41, pp. 79-90, 2009. [9] R. Huuck, Software Verification for Programmable
+     Url https://www.vttresearch.com/sites/default/files/julkaisut/muut/2013/OA-a_toolset_for_model.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Closed-loop modeling in future automation system engineering and validation
+     Author ['V Vyatkin', 'HM Hanisch', 'C Pang']
+     Venue IEEE Transactions on …
+     Year 2008
+     Abstract of industrial automation systems based on systematic application of formal methods  Terms—Manufacturing automation, mechatronics, soft- ware reusability, software verification and validation  support of traditional programmable logic controller (PLC) programming languages
+     Url https://ieeexplore.ieee.org/abstract/document/4717249/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal Methods in Computer Aided Design
+     Author ['M Formal']
+     Venue NA
+     Year 2010
+     Abstract Formal Methods in Computer Aided Design Lugano, Switzerland• 20-23 October, 2010 Edited  by Roderick Bloem and Natasha Sharygina In cooperation with ACM's SIGPLAN (Special Interest  Group on Programming Languages) and SIGSOFT (Special Interest Group on Software
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.687.5252&rep=rep1&type=pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A verified development of hardware using CSP‖ B
+     Author ['AA McEwan', 'S Schneider']
+     Venue NA
+     Year NA
+     Abstract whilst still attaining reasonable area usage is guided by knowledge of the application domain and the target FPGA platform  MEMOCODE '06: Proceedings of the Fourth ACM/IEEE International Conference on Formal Methods and Models for Co-Design. January 2006
+     Url https://dl.acm.org/doi/abs/10.1109/MEMCOD.2006.1695904
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A verified development of hardware using CSP‖ B
+     Author ['AA McEwan', 'S Schneider']
+     Venue NA
+     Year NA
+     Abstract whilst still attaining reasonable area usage is guided by knowledge of the application domain and the target FPGA platform  MEMOCODE '06: Proceedings of the Fourth ACM/IEEE International Conference on Formal Methods and Models for Co-Design. January 2006
+     Url https://dl.acm.org/doi/abs/10.1109/MEMCOD.2006.1695904
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Survey of Formal Verification in Mission-critical High-consequence Applications.
+     Author ['Y Hu', 'RC Armstrong']
+     Venue NA
+     Year 2011
+     Abstract attendant case studies. Keywords- formal verification, formal methods, hardware verification, software verification, model checking, mission- critical, tools, FPGA, ASIC, VHDL, Verilog I. INTRODUCTION Design and verification
+     Url https://www.osti.gov/servlets/purl/1109051
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Introduction to the special issue for SPIN 2019
+     Author ['F Biondi', 'T Given-Wilson', 'A Legay']
+     Venue NA
+     Year NA
+     Abstract or with inter- esting results; engineering and implementation of software verification and analysis  and comparative studies for formal verification and analysis tools; formal methods education and  Although a recently debuted FPGA swarm is faster, the deployment process to the
+     Url https://link.springer.com/content/pdf/10.1007/s10009-020-00580-1.pdf
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal modeling and verification in the software engineering framework of IEC 61499: a way to self-verifying systems
+     Author ['V Vyatkin', 'HM Hanisch']
+     Venue ETFA 2001. 8th International …
+     Year 2001
+     Abstract However, the existing methods of software validation (manual testing or computer-aided simulation) are  also far from being satisfactory.The successes in development of formal methods create new  of the whole application, rather than merely a programming language for PLC
+     Url https://ieeexplore.ieee.org/abstract/document/997677/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Prototype Design of Hierarchical Cluster Multiprocessor on Platform FPGA
+     Author ['RH Mu', 'PZ Zhao', 'D Li']
+     Venue … and Knowledge Engineering: Theory and Practice
+     Year 2012
+     Abstract And this design has been implemented as a prototype on FPGA  targeted towards the co-design of complex MPSoC system [3], [4]. The use of stable formal methods to design  Abstraction [8] is modified by many scientists and used in the hardware and software verification of the
+     Url https://link.springer.com/chapter/10.1007/978-3-642-25349-2_91
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal model and code verification in Model-Based Design
+     Author ['K Popovici', 'M Lalo']
+     Venue 2009 Joint IEEE North-East Workshop on …
+     Year 2009
+     Abstract Thus, software verification is an essential aspect of embedded  code (Verilog or VHDL) if the implementation is in hardware (eg, Xilinx FPGA board  FORMAL VERIFICATION IN MODEL-BASED DESIGN Formal methods are mathematically rigorous procedures used to analyze all
+     Url https://ieeexplore.ieee.org/abstract/document/5290500/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Achieving Safety and Reliability with Computer Systems
+     Author ['BK Daniels']
+     Venue NA
+     Year 2012
+     Abstract SCIENCE PUBLISHERS LTD 1987 © IC PYLE AND SYSTEMS DESIGNERS plc 1987—pp  The trend is towards more industrial usage of Formal Methods, and tools to  J. Gorski Designing for Safety Using Ada Packages IC Pyle SOFTWARE VERIFICATION, ACCEPTANCE AND
+     Url https://books.google.com/books?hl=ru&lr=&id=I_z0CAAAQBAJ&oi=fnd&pg=PR12&dq=%22Formal+methods%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=tYtSZGUDhg&sig=n1hacLkBYfcK81bI_yPXxxaLAIc
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A Verification Approach for Programmable Logic Controllers
+     Author ['X LUO', 'LI Yong', 'W DU', 'Y Fan']
+     Venue DEStech Transactions on …
+     Year 2016
+     Abstract Application of formal methods for PLC software has been proposed [2-3]. In the previous work,formal models are extracted from the PLC programs for  It is successfully applied to a few software verification projects to verify device drivers, C programs and Java software [5-7
+     Url http://www.dpi-proceedings.com/index.php/dtetr/article/view/6016
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Conformance checking for programmable logic controller programs and specifications
+     Author ['D Darvas', 'I Majzik', 'EB Viñuela']
+     Venue 2016 11th IEEE Symposium on …
+     Year 2016
+     Abstract Formal verification is a good candidate to complement testing in order to improve the verification of PLC-based control software. Verification needs detailed, precise specifica- tions: without defined requirements it is not possible to argue about correctness
+     Url https://ieeexplore.ieee.org/abstract/document/7509409/
+
+
+     Search term "Formal+methods"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Control logic verification for an automotive body assembly line using simulation
+     Author ['CM Park', 'S Park', 'GN Wang']
+     Venue International Journal of Production …
+     Year 2009
+     Abstract Cheon et al. (2004) introduced a verification and validation process for PLC programs in nuclear power plants. They used ModelChecker/ModelCertifier, which is a state chart-based formal verification tool. Implementation of formal methods for verification and validation has not
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207540802350716
+

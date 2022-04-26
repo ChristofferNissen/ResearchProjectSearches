@@ -1,0 +1,91 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing tool comprising an automated multidimensional traceability matrix for implementing and validating complex software systems
+     Author ['BM Blackwell', 'LR Guzman Jr', 'JP Collen']
+     Venue US Patent …
+     Year 2009
+     Abstract The present invention relates to a testing tool for testing of complex software systems having a plurality of interrelated system components and a suite of test scenarios for testing the performance of the plurality of interrelated system components. The testing tool includes an
+     Url https://patents.google.com/patent/US7490319B2/en
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Testing improvements in the chocolate traceability system: Impact on product recalls and production efficiency
+     Author ['R Saltini', 'R Akkerman']
+     Venue Food Control
+     Year 2012
+     Abstract The primary aim of food traceability is to increase food safety, but traceability systems can also bring other benefits to production systems and supply chains. In the literature these benefits are extensively discussed, but studies that quantify them are scarce. In this paper
+     Url https://www.sciencedirect.com/science/article/pii/S095671351100288X
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title SNPs for parentage testing and traceability in globally diverse breeds of sheep
+     Author ['MP Heaton', 'KA Leymaster', 'TS Kalbfleisch', 'JW Kijas']
+     Venue PloS one
+     Year 2014
+     Abstract DNA-based parentage determination accelerates genetic improvement in sheep by increasing pedigree accuracy. Single nucleotide polymorphism (SNP) markers can be used for determining parentage and to provide unique molecular identifiers for tracing sheep
+     Url https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094851
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Towards traceability of model-based testing artifacts
+     Author ['L Naslavsky', 'H Ziv', 'DJ Richardson']
+     Venue … Advances in model-based testing
+     Year 2007
+     Abstract Practitioners regard software testing as the central means for ensuring that a system behaves as expected. Due to the recent widespread adoption of model-driven development (MDD), code is no longer the single source for selecting test cases. Testing against original
+     Url https://dl.acm.org/doi/abs/10.1145/1291535.1291546
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract Automated test case and test driver generation from a formal model is becoming a more widely used practice in the smart card area. This innovative approach for validation testing makes it possible to ensure the functional coverage of the test suite and to automate the
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Using traceability to support model-based regression testing
+     Author ['L Naslavsky', 'DJ Richardson']
+     Venue Proceedings of the twenty-second IEEE …
+     Year 2007
+     Abstract Model-driven development is leading to increased use of models in conjunction with source code in software testing. Model-based testing, however, introduces new challenges for testing activities, which include creation and maintenance of traceability information among
+     Url https://dl.acm.org/doi/abs/10.1145/1321631.1321744
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Implementation and testing of an EPCglobal-aware discovery service for item-level traceability
+     Author ['U Barchetti', 'A Bucciero', 'M De Blasi']
+     Venue … Conference on Ultra …
+     Year 2009
+     Abstract The item-level tracing requirements are quickly becoming a key issue in many application scenarios, in order to guarantee major transparency in products flow along the whole supply chain. The continuous evolution of auto-identification technologies, as Radio Frequency
+     Url https://ieeexplore.ieee.org/abstract/document/5345580/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title On testing quality and traceability of virgin olive oil by calorimetry
+     Author ['M Angiuli', 'C Ferrari', 'L Lepori', 'E Matteoli']
+     Venue Journal of thermal …
+     Year 2006
+     Abstract Extra Virgin olive oils (7 samples) originating from different areas of Tuscany, defective olive oils (5 samples), commercial edible seed oils (4 samples) and two commercial samples of olive oil (one declared 'extra virgin olive oil'and one 'olive oil') were studied by different
+     Url https://akjournals.com/view/journals/10973/84/1/article-p105.xml
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Establishing traceability links between unit test cases and units under test
+     Author ['B Van Rompaey', 'S Demeyer']
+     Venue 2009 13th European Conference …
+     Year 2009
+     Abstract testing levels with call trace information, to reveal the scope of test cases, identify shortcomings in the test suite or remove redundant test cases [18]. The reverse engineering techniques behind these works are related to our static and dynamic analysis strategies. Traceability in
+     Url https://ieeexplore.ieee.org/abstract/document/4812754/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+OR+"Testing"+"Traceability"
+     Title Mbsrt2: Model-based selective regression testing with traceability
+     Author ['L Naslavsky', 'H Ziv']
+     Venue … on Software Testing …
+     Year 2010
+     Abstract Widespread adoption of model-centric development has created opportunities for software testing, with Model-Based Testing (MBT). MBT supports the generation of test cases from models and the demonstration of model and source-code compliance. Models evolve, much
+     Url https://ieeexplore.ieee.org/abstract/document/5477097/
+

@@ -1,0 +1,343 @@
+Showing papers for search query "Factory"+"Formal+methods"+"Hardware+simulation"
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Large-scale hardware simulation: Modeling and verification strategies
+     Author ['DW Clark']
+     Venue Proceedings of the 25th Anniversary Symposium …
+     Year 1990
+     Abstract Large-Scale Hardware Simulation: Modeling and  Second is the challenge of correctness: since formal methods are not yet practical for verifying the correctness of an entire  of pre- cision and formality, but at the bottom level|the level communicated to the factory|the requirement
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.482.4432&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Enhancing hardware design flows with MyHDL
+     Author ['K Jaic', 'MC Smith']
+     Venue Proceedings of the 2015 ACM/SIGDA International …
+     Year 2015
+     Abstract Genesis2[9] extends SystemVerilog capabilities for connecting HDL to hardware simulation  Examples of useful factory functions include bitfields and ctypes  In Proceedings. Second ACM and IEEE International Conference on Formal Methods and Models for Co-Design, 2004
+     Url https://dl.acm.org/doi/abs/10.1145/2684746.2689092
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Incremental development of production units using HW/SW-encapsulation and simulation supported by a complete toolset
+     Author ['U Schmidtmann', 'G von Cölln', 'G Kreutz']
+     Venue … and Factory …
+     Year 2005
+     Abstract Complexity can be mastered by formal methods and tools used ina stricttop-down process based on UML and other specification  Connecting 3D simulations based on VRML exports with the I/O-Hardware simulation establishes a powerful environment which enables software
+     Url https://ieeexplore.ieee.org/abstract/document/1612579/
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Simulation-Based Hardware Verification with High-Level Decision Diagrams
+     Author ['M Jenihhin']
+     Venue NA
+     Year 2008
+     Abstract Hardware verification is usually divided into two types. They are, first, formal, which assumes theorem proving and other formal methods of mathematics and, second, simulation-based, which relies on design simulation with the provided set of test vectors (aka stimuli)
+     Url https://digikogu.taltech.ee/en/Download/adfa3660-806a-41ac-a6d8-4c03ac3e9912/SimulationBasedHardwareVerificationwithHighL.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Energy consumption and execution time estimation of embedded system applications
+     Author ['G Callou', 'P Maciel', 'E Tavares', 'E Andrade']
+     Venue Microprocessors and …
+     Year 2011
+     Abstract simulation [20]. In hardware simulation, despite the great computational effort, more accurate results might be obtained in comparison with instruction simulation due to the laborious system specification. However, instruction
+     Url https://www.sciencedirect.com/science/article/pii/S0141933110000529
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Incremental Development of Production Units Using HW/SW-Encapsulation and Simulation Supported By a Complete Toolset
+     Author ['F Emden']
+     Venue NA
+     Year NA
+     Abstract Complexity can be mastered by formal methods and tools used in a strict top-down  Connecting 3D simulations based on VRML exports with the I/O-Hardware simulation establishes a  ETFA'03 IEEE International Con- ference on Emerging Technologies and Factory Automa- tion
+     Url http://fileadmin.cs.lth.se/ai/Proceedings/etfa2005/html/articles/CF-000527.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Implementation of Process Simulation for Marine Automation System
+     Author ['M Mononen']
+     Venue NA
+     Year 2020
+     Abstract Symbols and abbreviations Abbreviations AC Automation and Control Solutions Finland DCS Distributed Control System DMAIC Define, Measure, Analyze, Improve, Control FAT Factory Acceptance Test FMEA Failure Mode and Effects Analysis HAT Harbor Acceptance Test
+     Url https://aaltodoc.aalto.fi/handle/123456789/44996
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Intentions and issues of model-driven development and an introduction to the OMG MARTE™ profile
+     Author ['LL VanZandt']
+     Venue 2009 IEEE Aerospace conference
+     Year 2009
+     Abstract which frequently arise in DRE systems: the Creational patterns of: Factory and Singleton  Furthermore, models of computation are often derived from formal methods and mathematics and  the Discrete-Event model which is the core of digital hardware simulation; the Synchronous
+     Url https://ieeexplore.ieee.org/abstract/document/4839643/
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title A hybrid methodology to enable the verification of temporal properties as system-level.
+     Author ['T Grimm']
+     Venue NA
+     Year 2019
+     Abstract Page 35. 1.2. THE ROLE OF VERIFICATION to optimizations in the factory processes, the introduction of Cyber-physical Sys- tems (CPSs) enables the access to important data that allow such improvements. Furthermore, data
+     Url https://d-nb.info/1180027841/34
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Embedded software design and programming of multiprocessor system-on-chip
+     Author ['K Popovici', 'F Rousseau', 'AA Jerraya', 'M Wolf']
+     Venue NA
+     Year 2010
+     Abstract architecture, and virtual prototype). At each design step, different software components are generated and verified using hardware simulation models. The overall design flow is given in this chapter. Examples of target architectures
+     Url https://link.springer.com/content/pdf/10.1007/978-1-4419-5567-8.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title SEN-R9707 May 31, 1997
+     Author ['JR Moonen', 'JMT Romijn', 'O Sies', 'JG Springintveld']
+     Venue NA
+     Year NA
+     Abstract examples are academic and we expect that the fault coverage in practice is quite satis- factory  Executing VHDL code means hardware simulation, for which we use the Cadence Leapfrog tool  HDL-based integration of formal methods and CAD tools in the PREVAIL environment
+     Url https://ir.cwi.nl/pub/4748/04748D.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Comparison of embedded system models: From signals to transactions
+     Author ['G Funchal']
+     Venue NA
+     Year 2007
+     Abstract Embedded systems range from small portable devices to large stationary installations like traffic lights, factory controllers, weather monitoring stations or networks and  Many tech- niques are used: logic simulation, formal methods, hard- ware emulation, code checking, and so on
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.545.3235&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title SEN-R9707 1997
+     Author ['JR Moonen', 'JMT Romijn', 'O Sies', 'JG Springintveld']
+     Venue NA
+     Year NA
+     Abstract examples are academic and we expect that the fault coverage in practice is quite satis- factory  Executing VHDL code means hardware simulation, for which we use the Cadence Leapfrog tool  HDL-based integration of formal methods and CAD tools in the PREVAIL environment
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.1730&rep=rep1&type=pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Energy consumption and execution time estimation of embedded system applications
+     Author ['G Rau de Almeida Callou']
+     Venue NA
+     Year 2009
+     Abstract 41 3.2 Hardware simulation-related-works . . . . . 42  In hardware simulation, despite the very high computation effort, more accurate results might be obtained in comparison with instruc- tion simulation due to the laborious system specification
+     Url https://attena.ufpe.br/handle/123456789/1877
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title The co-design of virtual machines using reconfigurable hardware
+     Author ['KB Kent']
+     Venue NA
+     Year 2003
+     Abstract Page 1. The Co-Design of Virtual Machines Using Reconfigurable Hardware by Kenneth Blair Kent B.Sc. {hons). Memorial University of Newfoimdland, 1996 M.Sc., University of Victoria, 1999 A Dissertation Submitted in Partial Fulfillment of the Requirements for the Degree of
+     Url http://dspace.library.uvic.ca/handle/1828/7938
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title A systematic software, firmware, and hardware codesign methodology for digital signal processing
+     Author ['DY Chang']
+     Venue NA
+     Year 2014
+     Abstract Page 1. NAVAL POSTGRADUATE SCHOOL MONTEREY, CALIFORNIA DISSERTATION Approved for public release; distribution is unlimited A SYSTEMATIC SOFTWARE, FIRMWARE, AND HARDWARE CODESIGN METHODOLOGY FOR DIGITAL SIGNAL PROCESSING by
+     Url https://apps.dtic.mil/sti/citations/ADA607952
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Identification of missing properties in model checking
+     Author ['D Geist', 'O Grumberg', 'S Katz']
+     Venue US Patent 7,120,568
+     Year 2006
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking. Abstract. A method for verification includes providing an implementation model
+     Url https://patents.google.com/patent/US7120568B1/en
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title The safety of industrially-based controllers incorporating software
+     Author ['PA Bennett']
+     Venue NA
+     Year 1985
+     Abstract relevant to this thesis; the Nuclear Installations Inspectorate, the Mines and Quarries Inspectorate and the Factory Inspectorate. In hazard-related industrial control systems there is still a need to establish a method for assessing the safety of software once
+     Url http://oro.open.ac.uk/56902/
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Coordinated Execution of Multiple Process and Automation Simulators
+     Author ['H Milan']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Coordinated Execution of Multiple Process and Automation Simulators Henrik Milan School of Electrical Engineering Thesis submitted for examination for the degree of Master of Science in Technology. Espoo 14.8.2020 Supervisor Docent Seppo Sierla Advisors M.Sc
+     Url https://aaltodoc.aalto.fi/handle/123456789/47125
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Towards a Framework of Key Technologies for Drones
+     Author ['R Nouacer', 'M Hussein', 'H Espinoza']
+     Venue Microprocessors and …
+     Year 2020
+     Abstract Host-compiled simulation will play an important role, as the speed/accuracy ratio can be tuned to the required level [67]. Modeling the uncertain nature of the environment including human behavior is essential. Formal methods should be applied when necessary
+     Url https://www.sciencedirect.com/science/article/pii/S0141933120303094
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title A formal model for the requirements diagrams of SysML
+     Author ['F Valles-Barajas']
+     Venue IEEE Latin America Transactions
+     Year 2010
+     Abstract presented. This model is made using a modeling language called Alloy, which has been used to formally specify UML diagrams. Keywords— Formal methods, Alloy, SysML, requirement diagrams, system modeling. I. INTRODUCCIÓN
+     Url https://ieeexplore.ieee.org/abstract/document/5538400/
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Runtime-monitoring for industrial control systems
+     Author ['H Janicke', 'A Nicholson', 'S Webber', 'A Cau']
+     Venue Electronics
+     Year 2015
+     Abstract Keywords: SCADA; ICS; cyber; security; run-time; monitoring; ITL; formal methods. 1. Introduction  In addition, various researchers have applied Tempura to hardware simulation [39] and other areas where timing is important. 4.1. Syntax and Informal Semantics
+     Url https://www.mdpi.com/2079-9292/4/4/995
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title OOCOSIM-an object-oriented co-design method for embedded hw/sw systems
+     Author ['F Oppenheimer']
+     Venue NA
+     Year 2005
+     Abstract All embedded systems share the important property of being designed for a specific purpose. Very often they are embedded in a machine, a complex device (eg a car, a washing machine), or a production cell in a factory. The
+     Url https://oops.uni-oldenburg.de/id/eprint/142
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title SYSTEM AND METHOD FOR IMPLEMENTING FUNCTIONAL LOGICS OF VERIFICATION IP USING STATE DESIGN PATTERN BASED FSMs
+     Author ['K Kumar', 'P Balasubramanian']
+     Venue US Patent App. 16/370,615
+     Year 2020
+     Abstract G06F30/3323—Design verification, eg functional simulation or model checking using formal methods, eg equivalence checking or property checking  be modified for a particular test/scenario, entire uvm_driver/ovm_driver need to be overridden in factory infrastructure provided
+     Url https://patents.google.com/patent/US20200311216A1/en
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Better Software. Faster!: Best Practices in Virtual Prototyping
+     Author ['T De Schutter']
+     Venue NA
+     Year 2014
+     Abstract As such, we believe it will become increasingly important for engineering organizations to investigate formal methods and tools for enhancing integration between software, mechanical and electrical design (See Figure 6). Although the potential to reduce time to market and
+     Url https://books.google.com/books?hl=en&lr=&id=0VHKAwAAQBAJ&oi=fnd&pg=PP1&dq=%22Factory%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=cw6VucKufZ&sig=jHPjcZx9CJuqY4S-20OJ-MFW684
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Selection of a new hardware and software platform for railway interlocking
+     Author ['A Bhattacharya']
+     Venue NA
+     Year 2020
+     Abstract Page 1. Selection of a new hardware and software platform for railway interlocking Arghya Kamal Bhattacharya School of Electrical Engineering Thesis submitted for examination for the degree of Master of Science in Technology. Espoo 27.04.2020 Supervisor Prof
+     Url https://aaltodoc.aalto.fi/handle/123456789/44359
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Techniques and Tools for the Verification of Systems-on-a-Chip at the Transaction Level
+     Author ['M Moy']
+     Venue NA
+     Year 2005
+     Abstract Page 1. INSTITUT NATIONAL POLYTECHNIQUE DE GRENOBLE N˚ attribué par la biblioth`eque | | | | | TH `ESE pour obtenir le grade de DOCTEUR DE L'INPG Sp écialit é : « INFORMATIQUE : SYST `EMES ET COMMUNICATION »
+     Url https://tel.archives-ouvertes.fr/tel-00311033/document
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Surviving the SoC revolution
+     Author ['H Chang', 'L Cooke', 'M Hunt', 'G Martin', 'A McNelly']
+     Venue NA
+     Year 1999
+     Abstract Page 1. Page 2. Surviving the SOC Revolution A Guide to Platform-Based Design Henry Chang Larry Cooke Merrill Hunt Grant Martin Andrew McNelly Lee Todd KLUWER ACADEMIC PUBLISHERS NEW YORK, BOSTON, DORDRECHT, LONDON, MOSCOW Page 3. Contents
+     Url https://link.springer.com/content/pdf/10.1007/b116290.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Protocol Engineering Research Center: MURI/AFOSR FINAL REPORT
+     Author ['JJ Garcia-Luna-Aceves']
+     Venue NA
+     Year 2005
+     Abstract Page 1. UC Santa Cruz UC Santa Cruz Previously Published Works Title Protocol Engineering Research Center: MURI/AFOSR FINAL REPORT Permalink https://escholarship.org/uc/item/ 70b2f1zs Author Garcia-Luna-Aceves, JJ Publication Date 2005-12-01 eScholarship.org
+     Url https://escholarship.org/content/qt70b2f1zs/qt70b2f1zs.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Embedded systems handbook
+     Author ['R Zurawski']
+     Venue NA
+     Year 2005
+     Abstract design, function/architecture and hardware/software codesign, and hardware/software coverification and hardware simulation  and surveys available methods and tools to include: descriptive formal methods such as  demand for remote access to process data at the factory floor
+     Url https://books.google.com/books?hl=en&lr=&id=qYAqBgAAQBAJ&oi=fnd&pg=PP1&dq=%22Factory%22+%22Formal+methods%22+%22Hardware+simulation%22&ots=agzdjFT0Ba&sig=5l4VSRvHlmbFTRb_iWkhJaX7Ozg
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Debug output loosely coupled with processor block
+     Author ['GL Swoboda', 'RA Mcgowan']
+     Venue US Patent 6,754,599
+     Year 2004
+     Abstract US6754599B2 - Debug output loosely coupled with processor block - Google Patents. Debug output loosely coupled with processor block. Download PDF Info. Publication number US6754599B2. US6754599B2 US09/740,868
+     Url https://patents.google.com/patent/US6754599B2/en
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Contributions à la Modélisation Transactionnelle des Systèmes-sur-Puce
+     Author ['G Funchal']
+     Venue NA
+     Year 2011
+     Abstract Modern high-tech consumer electronic devices range from small portable devices such as cellphones, hand-held computers, navigation systems and sophisticated digital watches to large stationary installations like traffic lights, factory controllers and weather monitoring stations
+     Url https://pdfs.semanticscholar.org/9f7c/be2bf66f1e0621f10db4334b2cc1c297ba44.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Techniques and Tools for the Verification of Systems-on-a-Chip at the Transaction Level
+     Author ['MOY Matthieu']
+     Venue NA
+     Year 2005
+     Abstract proportions. For instance, the cost of a micro-electronics factory, the fixed costs 11 Page 12. Chapter 1. Introduction  problems. The co-operation with the Verimag laboratory is a way to have formal methods applied to concrete problems
+     Url https://matthieu-moy.fr/phd/these-en.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Efficient protocol design flow for embedded systems
+     Author ['D Dietterle']
+     Venue NA
+     Year 2009
+     Abstract 3 of wireless personal area networks (WPAN) and wireless sensor networks (WSN) are emerging. Application areas include, but are not limited to, home automation and security, personal health care, logistics, traffic control, process and factory automation, agriculture
+     Url https://opus4.kobv.de/opus4-btu/frontdoor/index/index/docId/671
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Techniques et outils pour la verification de Systemes-sur-Puce au niveau transaction
+     Author ['F Maraninchi']
+     Venue NA
+     Year 2005
+     Abstract Page 1. INSTITUT NATIONAL POLYTECHNIQUE DE GRENOBLE N˚ attribué par la biblioth`eque | | | | | TH `ESE pour obtenir le grade de DOCTEUR DE L'INPG Sp écialit é : « INFORMATIQUE : SYST `EMES ET COMMUNICATION »
+     Url https://www.researchgate.net/profile/Matthieu_Moy/publication/30516237_Techniques_et_outils_pour_la_verification_de_Systemes-sur-Puce_au_niveau_transaction/links/02bfe511249aeae3e8000000.pdf
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Protocol, Engineering Research Center, University of California, Santa Barbara
+     Author ['PM Melliar-Smith']
+     Venue NA
+     Year 2005
+     Abstract Page 1. REPORT DOCUMENTATION PAGE Public reporting burden for this collection of information is estimated to average I hour per response, including the time for reviewing instructions, searching existing da the collection of information
+     Url https://apps.dtic.mil/sti/citations/ADA442846
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Granada (SPAIN)
+     Author ['G Canaria']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"Formal+methods"+"Hardware+simulation"
+     Title Techniques et outils pour la verification de Systemes-sur-Puce au
+     Author ['CPLEMET LA', 'SAU SEIN', 'PLAS DES CYCLISTES']
+     Venue NA
+     Year NA
+     Abstract during the development because of time-to-market constraints: the software needs to be finished and validated a few weeks after the chip comes out of the factory  Unfortunately, due to the highly parallel nature of hardware, simulation of a large RTL design is extremely slow
+     Url https://moam.info/techniques-et-outils-pour-la-verification-de-systemes-sur-puce-au_5c53a355097c47e8488b45b8.html
+

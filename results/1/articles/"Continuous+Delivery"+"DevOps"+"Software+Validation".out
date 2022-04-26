@@ -1,0 +1,379 @@
+Showing papers for search query "Continuous+Delivery"+"DevOps"+"Software+Validation"
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Towards Utilization of Lean Canvas in the DevOps Software
+     Author ['P Nidagundi', 'L Novickis']
+     Venue … of the 11th International Scientific and …
+     Year 2017
+     Abstract In DevOps software development software validation and verification play a key role to fulfill the customer expectation with the error free software  Fig. 2. DevOps continuous delivery cycle overview Jenkins for code management and unaware of continuous integration practices
+     Url http://journals.rta.lv/index.php/ETR/article/view/2522
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Continuous integration in validation of modern, complex, embedded systems
+     Author ['M Kowzan', 'P Pietrzak']
+     Venue 2019 IEEE/ACM International …
+     Year 2019
+     Abstract This paper covers the challenges in software validation, especially in the context of  and contribution to design and implementation of this continuous Integration and continuous Delivery model. REFERENcES [1] IA Brief History of DevOps, Part III: Automated testing and
+     Url https://ieeexplore.ieee.org/abstract/document/8812867/
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Software analytics in continuous delivery: a case study on success factors
+     Author ['H Huijgens', 'D Spadini', 'D Stevens', 'N Visser']
+     Venue Proceedings of the 12th …
+     Year 2018
+     Abstract CCS CONCEPTS • Software and its engineering → Empirical software validation; KEYWORDS Software Economics, Software Analytics, DevOps, Continuous De- livery, Experience Report, ING ACM  Software Analytics in Continuous Delivery: A Case Study on Success Factors
+     Url https://dl.acm.org/doi/abs/10.1145/3239235.3240505
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Software release planning
+     Author ['X Franch', 'G Ruhe']
+     Venue 2016 IEEE/ACM 38th International …
+     Year 2016
+     Abstract decision-centric process is referred to as software release planning (SRP) [1]. It is connected to, and has inspired, various types of research (related to architecture, technical debt, etc.) and is of key importance for the success of software products (continuous delivery, DevOps)
+     Url https://ieeexplore.ieee.org/abstract/document/7883432/
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title DevOps: are you pushing bugs to your clients faster
+     Author ['W Ariola', 'C Dunlop']
+     Venue Thirty-Third Annual Pacific Northwest …
+     Year 2015
+     Abstract But it is one that yields significant benefits from a DevOps perspective  of whether your organization's specific expectations are satisfied—reducing the business risk of a fully- automated Continuous Delivery process  "General Principles of Software Validation; Final Guidance for
+     Url http://uploads.pnsqc.org/2015/papers/t-007_Ariola_paper.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title DevOps in an ISO 13485 Regulated Environment: A Multivocal Literature Review
+     Author ['MF Lie', 'M Sánchez-Gordón']
+     Venue Proceedings of the 14th …
+     Year 2020
+     Abstract In [ID41], automated verification activities were implemented by using new tooling in order to introduce a Continuous Integration / Continuous Delivery (CI/CD) process  In DevOps, this puts requirements on tooling and tool validation, outlined in a Software Validation Plan as
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3410679
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Evaluating gates for software in pipeline delivery
+     Author ['GH Chigakkagari', 'S Bansal']
+     Venue US Patent 10,620,929
+     Year 2020
+     Abstract system implementations described herein may have particular relevance to DevOps systems, and specifically in a continuous integration/continuous delivery (CI/CD  Additionally, sign-off checklists for software validation are generally manually executed, thus validation may
+     Url https://patents.google.com/patent/US10620929B2/en
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Comparing DevOps procedures from the context of a systems engineer
+     Author ['K Priyadarsini', 'EFI Raj', 'AY Begum']
+     Venue Materials Today …
+     Year 2020
+     Abstract to the environment is shortened and the company and the customer will gain more value from the increased quality of work [4]. This constant process of code validation and deployment is called continuous integration/continuous delivery or CI/CD in the DevOps environment (Fig
+     Url https://www.sciencedirect.com/science/article/pii/S2214785320373491
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Software Quality Assurance in INDIGO-DataCloud Project: a Converging Evolution of Software Engineering Practices to Support European Research e-Infrastructures
+     Author ['PO Fernández', 'M David', 'DC Duma', 'E Ronchieri']
+     Venue Journal of Grid …
+     Year 2020
+     Abstract Keywords Software reliability · Quality assurance · Software metrics · Software testing techniques · DevOps 1 Introduction  Automatic Certification √ √ √ Auto–generated Documentation √ √ √ √ √ DevOps practices adoption (CI, CD) √
+     Url https://link.springer.com/content/pdf/10.1007/s10723-020-09509-z.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Enabling continuous software engineering for embedded systems architectures with virtual prototypes
+     Author ['PO Antonino', 'M Jung', 'A Morgenstern']
+     Venue … Conference on Software …
+     Year 2018
+     Abstract and journals are limited to investigating the appropriateness of architecture styles for continuous delivery such as  achieved so far: (i) Jaguar Land Rover, which achieved 90% faster software validation for its vehicle  4.2 A Vison for Supporting the II-Model with CI/CD and DevOps
+     Url https://link.springer.com/chapter/10.1007/978-3-030-00761-4_8
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Enabling Continuous Software Engineering for Embedded Systems Architectures with Virtual Prototypes
+     Author ['F Faßnacht', 'T Bauer', 'A Bachorek', 'T Kuhn']
+     Venue … , ECSA 2018, Madrid …
+     Year 2018
+     Abstract investigating the appropriateness of architecture styles for continuous delivery such as microservices architectures [5], and  so far:(i) Jaguar Land Rover, which achieved 90% faster software validation for its  A Vison for Supporting the II-Model with CI/CD and DevOps Thinking
+     Url https://books.google.com/books?hl=en&lr=lang_en&id=KXdvDwAAQBAJ&oi=fnd&pg=PA115&dq=%22Continuous+Delivery%22+%22DevOps%22+%22Software+Validation%22&ots=z2MD6EJcZZ&sig=DSTsvgUKe6gRfZZIytENj-pVWa0
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Software Quality Assurance in INDIGO-DataCloud project: a converging evolution of software engineering practices to support European Research e-Infrastructures
+     Author ['P Orviz', 'M David', 'DC Duma', 'E Ronchieri', 'J Gomes']
+     Venue NA
+     Year 2020
+     Abstract lar the software validation phase  3.2.2 Continuous Delivery As DevOps suggests, frequent releases positively affect the reliability of the software as they reduce the time in which a given defect is exposed or has an impact, allowing the development teams to act promptly based
+     Url https://digital.csic.es/handle/10261/198315
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Automation tools in software development and production
+     Author ['S Kohvakka']
+     Venue NA
+     Year 2020
+     Abstract (Kerzazi and Adams 2016). Development and operations, or DevOps practices first emerged in 2009 to narrow the gap between development and operations teams  started to integrate changes and fix bugs. After switching to continuous delivery model
+     Url https://lutpub.lut.fi/bitstream/handle/10024/161628/Bachelors_thesis_Sami_Kohvakka.pdf?sequence=1
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Automatização de Teste em ambiente CI (Continuous Integration) para a Validação de Hardware
+     Author ['PD Faria']
+     Venue NA
+     Year 2017
+     Abstract one. 2.2.1 Jenkins CI Jenkins [Jen16] is a continuous integration and continuous delivery tool application, used to build and test software projects and help developers integrate new changes and features to the project. It also
+     Url https://repositorio-aberto.up.pt/handle/10216/102620
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title The Way Forward
+     Author ['DL Strategy', 'SL Strategy']
+     Venue Tasmanian Greens
+     Year 2004
+     Abstract Software validation includes various tasks among which test case scheduling is perceived as the most crucial to ease the  Continuous Engineering (CE) practices such as Continuous Integration (CI), Continuous Delivery (CDy), Continuous Deployment (CDt), and Continuous
+     Url http://certus-sfi.no/wp-content/uploads/2019/04/Certus-Annual-Report-2018_web.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Continuous practices: a strategic approach to accelerating the software production system
+     Author ['D StÎhl', 'T MÎrtensson']
+     Venue NA
+     Year 2018
+     Abstract integration has been joined on the stage not only by continuous delivery and continuous deployment, but terms like continuous testing, continuous release, continuous Security and more are being thrown around and often used interchangeably [3]. If one adds DevOps to that
+     Url https://books.google.com/books?hl=en&lr=lang_en&id=KYlUDwAAQBAJ&oi=fnd&pg=PP2&dq=%22Continuous+Delivery%22+%22DevOps%22+%22Software+Validation%22&ots=bTGwSxKz0P&sig=KlZUWFgWKHv4kPjhaZ1DSYZ_NUA
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Modernization of software delivery operations: engineering quality into software
+     Author ['J Nietula']
+     Venue NA
+     Year 2020
+     Abstract Key words: software quality engineering, software quality assurance, devops, scaled agile, lean, agile transformation Page 3. TIIVISTELMÄ  Asiasanat: ohjelmiston laadunvarmistus, devops, skaalautuva ketteryys, ketterä muutos Page 4. 4 CONTENTS
+     Url https://www.theseus.fi/handle/10024/341763
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title An Introduction to the DevOps Tool Related Challenges
+     Author ['S Bheri', 'SK Vummenthala']
+     Venue NA
+     Year 2019
+     Abstract and implementation, which transforms the specification into a working product ➢ software validation, which aims  development and go through the same process, ie continuous delivery and continuous  that are often used for database management in DevOps include DBMaestro
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:1333712
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Teaching testing to programmers. What sticks, and what slides off? A journey from Teflon to Velcro.
+     Author ['R Sabourin', 'M Wodzislawski']
+     Venue NA
+     Year 2020
+     Abstract The study guide was used in teaching System Performance Testing as part of the undergraduate Software Engineering course “ECSE 429 – Software Validation”  Page 15 ○ Continuous integration ○ Continuous testing ○ Continuous delivery and deploy, DevOps
+     Url http://uploads.pnsqc.org/2020/papers/Sabourin_2020.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title An experience report on the adoption of microservices in three Brazilian government institutions
+     Author ['W Luz', 'E Agilar', 'MC de Oliveira', 'CER de Melo']
+     Venue Proceedings of the …
+     Year 2018
+     Abstract its engineering → Software architectures; Soft- ware post-development issues; Empirical software validation;  flexible, leverage innovation, reduce time-to-market, enable DevOps adoption, and  that microservices con- tribute most for leveraging continuous delivery and making
+     Url https://dl.acm.org/doi/abs/10.1145/3266237.3266262
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title A hybrid assessment approach for medical device software development companies
+     Author ['Ö Özcan‐Top', 'F McCaffery']
+     Venue Journal of Software: Evolution and …
+     Year 2018
+     Abstract Software Use in Medical Devices, the FDA General Principles of Software Validation,17 and  Adopting agile practices (such as continuous delivery and story mapping) and embracing the agile  We selected eXtreme programming,50 Scrum,51 DevOps,52 Lean,53 Kanban,54
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/smr.1929
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Literature review of test automation models in Agile testing
+     Author ['T Virtanen']
+     Venue NA
+     Year 2018
+     Abstract ATDD Acceptance Test Driven Development BDD Behavior Driven Development CD Continuous Delivery CI Continuous Integration DDT Data Driven testing DevOps Development and Operations DTS Defect Tracking System JVM Java Virtual Machine LoC Lines of Code MBT
+     Url https://trepo.tuni.fi/handle/123456789/25869
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Audition: a DevOps-oriented quality control and testing framework for cloud environments
+     Author ['G Borgenholt']
+     Venue NA
+     Year 2013
+     Abstract Users expect new features released regularly and frequently, with no de- gradation in service quality. This request for continuous delivery of new features, have lead to the creation of DevOps. A development paradigm with a focus on automation and continuous deliveries
+     Url https://www.duo.uio.no/handle/10852/38243
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title 9th Inverted CERN School of Computing
+     Author ['K ALBERTSSON', 'A ANDRONIDIS', 'V CAIRO']
+     Venue NA
+     Year NA
+     Abstract 20 Appendix : lecture slides 22 Lecture 1 Continuous Integration : how can it help?.... A 1 Lecture 2 Continuous Delivery and Quality Monitoring  Lecture 2 Continuous Delivery and Quality Monitoring
+     Url https://indico.cern.ch/event/450743/attachments/1236685/1816218/Booklet_iCSC2016_compiled_final_v7.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Emerging software testing technologies
+     Author ['F Lonetti', 'E Marchetti']
+     Venue Advances in computers
+     Year 2018
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0065245817300529
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Exploring Software Development as an Experiment System: An Interview-Based Qualitative Survey
+     Author ['E Lindgren']
+     Venue NA
+     Year 2015
+     Abstract Software and its engineering → Software creation and management → Software verification and validation → Empirical software validation  Continuous delivery (CD) is an otherwise similar  The DevOps movement is noteworthy when discussing the building of a smooth
+     Url https://helda.helsinki.fi/handle/10138/153587
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Modularization of representative load tests for microservice applications
+     Author ['T Angerstein']
+     Venue NA
+     Year 2018
+     Abstract However, in times of DevOps and microservice architectures, using the existing ap- proaches of  is automated, in order to simplify an implementation into a continuous delivery pipeline  elaborated the new open challenges of software validation in the context of microservice
+     Url http://elib.uni-stuttgart.de/handle/11682/10401
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Software Engineering: Practical Approach Driven
+     Author ['KS Swarnalath', 'AE Manjunath', 'S Joshi']
+     Venue NA
+     Year 2020
+     Abstract Features 7.2 DevOps Architecture 7.3 DevOps Lifecycle 7.4 DevOps Workflow 7.5 DevOps Engineer 7.6 DevOps Tools 7.7 DevOps Automation 7.8 Case  3. Software validation: The software must be validated to ensure that it has all the functionalities that the customer needs
+     Url https://books.google.com/books?hl=en&lr=lang_en&id=MIHsDwAAQBAJ&oi=fnd&pg=PA7&dq=%22Continuous+Delivery%22+%22DevOps%22+%22Software+Validation%22&ots=eOebJdPwaz&sig=D7HBx4rByONoZAmNFn1t9izTX9M
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Getting Started with Chaos Engineering-design of an implementation framework in practice
+     Author ['H Jernberg', 'P Runeson', 'E Engström']
+     Venue Proceedings of the 14th ACM …
+     Year 2020
+     Abstract We recommend companies using the frame- work as a guide for the implementation of Chaos Engineering. CCS CONCEPTS • Software and its engineering → E-commerce infrastructure; Empirical software validation; KEYWORDS
+     Url https://dl.acm.org/doi/abs/10.1145/3382494.3421464
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Monitoring modern distributed software applications: challenges and solutions
+     Author ['M Miglierina']
+     Venue NA
+     Year 2017
+     Abstract the system into microservices managed by independent teams, applying continuous delivery and feature  publication in the 3rd International Workshop on Quality-Aware DevOps (QUDOS 2017)  Software validation consists in checking that the final product fulfills its intended use
+     Url https://www.politesi.polimi.it/handle/10589/133109
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Methodological Support for Task Coordination in Global Software Engineering Projects at Product Software Companies
+     Author ['CB Widiyatmoko']
+     Venue NA
+     Year 2017
+     Abstract Page 1. Methodological Support for Task Coordination in Global Software Engineering Projects at Product Software Companies Master Thesis Author: Carolus Borromeus Widiyatmoko 5590329 Supervisors: Dr. Sietse J. Overbeek Prof. dr. Sjaak Brinkkemper
+     Url https://dspace.library.uu.nl/handle/1874/351706
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title A Container-based architecture for accelerating software tests via setup state caching and parallelization
+     Author ['NML Neto']
+     Venue NA
+     Year 2019
+     Abstract called “DevOps” (Development Operations) [8]. The main goal of DevOps is to  Finally, the concepts of Continuous Integration, Continuous Delivery, Continuous Deployment and Build pipelines  this speed-up comes the necessity of equally faster software validation processes. 5
+     Url https://repositorio-aberto.up.pt/bitstream/10216/122203/2/351068.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title An Anti-Malware Product Test Orchestration Solution for Multiple Pluggable Environments
+     Author ['H Islam', 'BA Almeida', 'S Virtanen', 'A Hakkala']
+     Venue NA
+     Year 2018
+     Abstract software validation and increase test coverage. It has become commonplace in the field  DevOps involves automating the process of software delivery and infrastructure changes  continuous delivery (CD) due to the hands-off between development and operations
+     Url https://pdfs.semanticscholar.org/31cd/96249fc8395bf365fe6696b4320916bcae91.pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Testing microservice applications
+     Author ['D Savchenko']
+     Venue NA
+     Year 2019
+     Abstract DevOps, cloud computing, and SOA were linked even before microservice architecture introduc- tion (Hosono et al., 2011). All of these technologies together aimed to shorten software delivery time; in other words, continuous delivery (Pawson, 2011) – an approach that is
+     Url https://lutpub.lut.fi/handle/10024/160056
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Contribution to the Engineering of User Interfaces
+     Author ['A Blouin']
+     Venue NA
+     Year 2019
+     Abstract 2 Research Perspectives 29 2.1 DevOps and user interfaces  More precisely, the contributions focus on model-driven en- gineering, software validation and verification, and software variability, for engineering UIs. Page 8. 1.2. CHALLENGES AND OBJECTIVES 7
+     Url https://tel.archives-ouvertes.fr/tel-02354530/
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title System and method for integration, testing, deployment, orchestration, and management of applications
+     Author ['TP Mcclory', 'JC Damania', 'SM Vidmar']
+     Venue US Patent …
+     Year 2020
+     Abstract The individual microservices may also be independently built, tested, and deployed to facilitate continuous integration (CI) and continuous delivery (CD) software development and information technology operations (DevOps) paradigm(s)
+     Url https://patents.google.com/patent/US10691514B2/en
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Process Mining Concepts for Discovering User Behavioral Patterns in Instrumented Software
+     Author ['K Olson']
+     Venue NA
+     Year 2017
+     Abstract 126 DevOps ..... 127  methodology would address both of these temporal perspectives. When the methodology is applied during development, it may be seen as part of a comprehensive software validation exercise
+     Url https://epublications.regis.edu/theses/842/
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title IEEE Cloud Computing Special Issue on Cloud Security
+     Author ['CT Huang', 'S Yu', 'Z Tari', 'YD Lin']
+     Venue NA
+     Year 2015
+     Abstract Page 1. SEPTEMBER/OCTOBER 2015 www.computer.org/cloudcomputing Page 2. Submission deadline: 29 February 2016 • Publication date: September/October 2016 Many critical applications—from medical, financial, and
+     Url https://www.computer.org/csdl/api/v1/periodical/mags/cd/2015/05/download-issue/pdf
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title Research as code: Instrumenting scientific computing as executable containers
+     Author ['B Bam']
+     Venue NA
+     Year 2018
+     Abstract Page 1. Master Thesis Research as code : Instrumenting scientific computing as executable containers Bikram Bam Thesis submitted for the degree of Master in Network and System Administration 30 credits Department of Informatics
+     Url https://www.duo.uio.no/handle/10852/67399
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title System and method for rapid and asynchronous multitenant telemetry collection and storage
+     Author ['TP Mcclory', 'JC Damania', 'SM Vidmar']
+     Venue US Patent …
+     Year 2019
+     Abstract US10514967B2 - System and method for rapid and asynchronous multitenant telemetry collection and storage - Google Patents. System and method for rapid and asynchronous multitenant telemetry collection and storage. Download PDF Info
+     Url https://patents.google.com/patent/US10514967B2/en
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title System and method for management of deployed services and applications
+     Author ['TP Mcclory', 'JC Damania', 'SM Vidmar']
+     Venue US Patent 10,521,284
+     Year 2019
+     Abstract US10521284B2 - System and method for management of deployed services and applications - Google Patents. System and method for management of deployed services and applications. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US10521284B2/en
+
+
+     Search term "Continuous+Delivery"+"DevOps"+"Software+Validation"
+     Title System and method for real-time asynchronous multitenant gateway security
+     Author ['TP Mcclory', 'JC Damania', 'SM Vidmar']
+     Venue US Patent 10,761,913
+     Year 2020
+     Abstract US10761913B2 - System and method for real-time asynchronous multitenant gateway security - Google Patents. System and method for real-time asynchronous multitenant gateway security. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US10761913B2/en
+

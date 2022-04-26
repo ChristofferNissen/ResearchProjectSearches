@@ -1,0 +1,451 @@
+Showing papers for search query "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A novel approach for modeling and simulation of hybrid power systems using PLCs and SCADA for hardware in the loop test
+     Author ['YJ Reddy', 'A Ramsesh', 'KP Raju', 'YVP Kumar']
+     Venue NA
+     Year 2011
+     Abstract the PLC are available over SCADA which is built within the Distributed Control System (DCS) and on  and Simulation of Hybrid Power Systems Using PLCs and SCADA for Hardware  of Power Quality, Energy Management and Real Time Control, Hardware Simulation for Hybrid
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2011.0421
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Adjusting the neurons models in neuromimetic ICs using the voltage-clamp technique
+     Author ['S Saïghi', 'L Buhry', 'Y Bornat', "G N'Kaoua"]
+     Venue … on Circuits and …
+     Year 2008
+     Abstract We conclude by mentioning the potential applications of this technique in hardware simulation systems based on neuromimetic ASICs  4], or vision processing [5]. Alternatives to software-based solutions, neuromorphic systems are often based on custom ICs and systems
+     Url https://ieeexplore.ieee.org/abstract/document/4541730/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Parameter estimation of multiterminal transmission lines using joint PMU and SCADA data
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2014
+     Abstract Regarding the SCADA data, the error level is assumed to be twice that of PMU measurements, that is, 2%, to reflect this fact that the accuracy of SCADA data is lower than that of PMU data. However, the values associated with the hardware simulation inherently have some
+     Url https://ieeexplore.ieee.org/abstract/document/6966756/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Application of WAMS and SCADA data to online modeling of series-compensated transmission lines
+     Author ['SS Mousavi-Seyedi', 'F Aminifar']
+     Venue IEEE Transactions on …
+     Year 2016
+     Abstract 8, NO. 4, JULY 2017 Application of WAMS and SCADA Data to Online Modeling of Series-Compensated Transmission Lines  Case studies through software and hardware simulation efforts demonstrate validity of the modeling approach
+     Url https://ieeexplore.ieee.org/abstract/document/7401091/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Water treatment and distribution simulation for a SCADA security testbed.
+     Author ['KT Moss']
+     Venue NA
+     Year 2012
+     Abstract Chapters 4 and 5 discuss the implementation of the water sector model in both a software and hardware simulation  individuals that don't require it. These threats pose a real danger to SCADA security  not targeted directly at industrial control systems (ICS)
+     Url http://ir.library.louisville.edu/cgi/viewcontent.cgi?article=2012&context=etd
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Smart Grid Testbed using SCADA Software and Xbee Wireless Communication
+     Author ['A Soetedjo', 'A Lomi', 'YI Nakhoda']
+     Venue (IJACSA) International Journal of …
+     Year 2015
+     Abstract wireless communication. The proposed testbed combines both the software simulation and the hardware simulation. The Winlog SCADA software is employed to implement the algorithm in the Smart Grid system. To communicate
+     Url http://eprints.itn.ac.id/3140/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Training SCADA operators with real-time simulation
+     Author ['RJ Strand', 'AJ Clemmens']
+     Venue SCADA and Related …
+     Year 2005
+     Abstract and the SCADA computer remains untouched. The communication between the hardware simulation and the SCADA system uses the Modbus protocol over an RS-232 serial connection. USE AS A TRAINING TOOL As this
+     Url https://mountainscholar.org/bitstream/handle/10217/46525/101_Proceedings%202005%20USCID%20Vancouver.pdf?sequence=1#page=327
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title HAL; a block level hardware logic simulator
+     Author ['T Sasaki', 'N Koike', 'K Ohmori']
+     Venue 20th Design Automation …
+     Year 1983
+     Abstract which simulates a 1,500,000 gate custom LSI and 2M byte RAM ICs digital system at a 5 millisecond cl0ckspeed. High level performance was achieved by 32 parallel processes and pipe-line processor architecture, utilizing a new Block Oriented Hardware Simulation Technique
+     Url https://ieeexplore.ieee.org/abstract/document/1585641/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Concurrent hardware-software co-simulation
+     Author ['Y Tzori']
+     Venue US Patent 6,202,044
+     Year 2001
+     Abstract US6202044B1 - Concurrent hardware-software co-simulation - Google Patents. Concurrent hardware-software co-simulation. Download PDF Info. Publication number US6202044B1. US6202044B1 US09/096,672 US9667298A
+     Url https://patents.google.com/patent/US6202044B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title DyRT: dynamic response textures for real time deformation simulation with graphics hardware
+     Author ['DL James', 'DK Pai']
+     Venue Proceedings of the 29th annual conference on …
+     Year 2002
+     Abstract provide fast simulation and constraint handling for physically-based dynamic [19, 28] and also static [11, 10] deformable models, we are primarily interested in their amenability to graphics hardware simulation [14]  Good Vibrations: Modal Dynamics for Graph- ics and Animation
+     Url https://dl.acm.org/doi/abs/10.1145/566570.566621
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware-software debugger using simulation speed enhancing techniques including skipping unnecessary bus cycles, avoiding instruction fetch simulation …
+     Author ['M Bershteyn', 'RT Casley', 'C Chien', 'A Ghosh']
+     Venue US Patent …
+     Year 1997
+     Abstract US5678028A - Hardware-software debugger using simulation speed enhancing techniques including skipping unnecessary bus cycles, avoiding instruction fetch simulation, eliminating the need for explicit clock pulse generation and caching results of instruction decoding
+     Url https://patents.google.com/patent/US5678028A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cyber-physical system security of a power grid: State-of-the-art
+     Author ['CC Sun', 'CC Liu', 'J Xie']
+     Venue Electronics
+     Year 2016
+     Abstract alarm issues are discussed in Section 3. Section 4 presents the cyber-physical system (CPS) testbeds  of four parts: (1) a commercial EMS is used in the SCADA system network  The characteristics of the SCT includes: (1) a realistic software-hardware simulation environment;
+     Url https://www.mdpi.com/2079-9292/5/3/40
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Development of SCADA system for Turbocharger testing
+     Author ['SN Lakade', 'SU Bhandari']
+     Venue 2016 International Conference on …
+     Year 2016
+     Abstract This work deals with setting up a lab for testing of Turbocharger wherein SCADA system will be developed for testing  In section IV, use of PLC and its algorithm is given. And lastly in section V, results for hardware simulation is given. II TURBOCHARGER TESTING
+     Url https://ieeexplore.ieee.org/abstract/document/7860134/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract Machine Drives”, IEEE-PESC'07, Orlando, Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  S. Bogosyan, and A. Kilic, “Hardware in the Loop Simulation of Robot Manipulators through Internet in Mechatron- ics Education”, IEEE
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Digital logic simulation/emulation system
+     Author ['Y Tzori']
+     Venue US Patent 5,748,875
+     Year 1998
+     Abstract US5748875A - Digital logic simulation/emulation system - Google Patents. Digital logic simulation/emulation system. Download PDF Info. Publication number US5748875A. US5748875A US08/661,991 US66199196A US5748875A
+     Url https://patents.google.com/patent/US5748875A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title R-buffer: a pointerless A-buffer hardware architecture
+     Author ['CM Wittenbrink']
+     Venue Proceedings of the ACM SIGGRAPH/EUROGRAPHICS …
+     Year 2001
+     Abstract Keywords: Antialiasing, Frame Buffer Algorithms, Graph- ics Hardware, Rendering Hardware, Visibility Determination  We implemented a behavioral hardware simulation of the architecture in C, and modified Mesa (TM) to output frag- ments generated during rasterization to a
+     Url https://dl.acm.org/doi/abs/10.1145/383507.383529
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time hardware/software co-design using devs-based transparent M&S framework
+     Author ['JL Risco-Martín', 'S Mittal', 'JC Fabero']
+     Venue Proceedings of the …
+     Year 2016
+     Abstract We apply the same concept towards transparent hardware simulation envi- ronment  To implement the controller, the following Integrated Circuits (ICs) are used: • 74169: A bidirectional modulo 16 synchronous counter (with parallel load signal, active low, which takes prece
+     Url https://www.researchgate.net/profile/Jose_Ayala5/publication/303672283_Real-time_hardwaresoftware_co-design_using_DEVS-based_transparent_MS_framework/links/5f71aa75a6fdcc008643510c/Real-time-hardware-software-co-design-using-DEVS-based-transparent-M-S-framework.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Methodology for the optimization of testing and diagnosis of analog and mixed signal ICs and embedded cores
+     Author ['S Saxena', 'PD Mcnamara', 'C Guardiani']
+     Venue US Patent …
+     Year 2006
+     Abstract Methodology for the optimization of testing and diagnosis of analog and mixed signal ICs and embedded cores. Download PDF Info  G01R31/318364—Generation of test inputs, eg test vectors, patterns or sequences as a result of hardware simulation, eg in an HDL environment
+     Url https://patents.google.com/patent/US7003742B2/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A per-unit hardware-in-the-loop simulation of a fuel cell/battery hybrid energy system
+     Author ['L Gauchia', 'J Sanz']
+     Venue IEEE Transactions on Industrial Electronics
+     Year 2009
+     Abstract As in the case of the vehicle simulator, the interaction between the software and hardware simulation of the fuel cell system is done in  12 presents the simulated fuel cell current measured by a current transducer at the Sorensen DCS power source which emulates its behavior
+     Url https://ieeexplore.ieee.org/abstract/document/5340635/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Experience and Lessons in Building an ICS Security Testbed
+     Author ['Y Tao', 'W Xu', 'H Li', 'S Ji']
+     Venue 2019 1st International Conference on …
+     Year 2019
+     Abstract guide to industrial control systems (ics) security: Supervisory control and data acquisition (scada) systems, distributed control systems (dcs), and other control system configurations such  [11] J. Weiss, ”Assuring industrial control system (ICS) cyber security,” Center for
+     Url https://ieeexplore.ieee.org/abstract/document/8850804/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Certification issues for complex digital hardware
+     Author ['LH Harrison', 'PJ Saraceni']
+     Venue AIAA/IEEE Digital Avionics Systems …
+     Year 1994
+     Abstract These tools tend to be highly integrated and expensive. Such tools permit the design of complex ICs by using methods tailored specifically for hardware. These  hardware. Hardware simulation tools are now used extensively
+     Url https://ieeexplore.ieee.org/abstract/document/369479/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time simulation technologies for power systems design, testing, and analysis
+     Author ['MDO Faruque', 'T Strasser', 'G Lauss']
+     Venue IEEE Power and …
+     Year 2015
+     Abstract Despite the high-speed internal dynam- ics of the power electronics-based apparatus, the system- level interactions may not require a very small time-step. For simulating fast and slow subsystem transients, a multirate cosimulation approach can be adopted. Fig
+     Url https://ieeexplore.ieee.org/abstract/document/7138557/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Design and Application of SCADA Based Control System for filling process (Inter facing and Monitoring)
+     Author ['NM Aung', 'ML Maung', 'KM Win']
+     Venue NA
+     Year 2008
+     Abstract And the hardware simulation (btHardware) for linking the filling icon process is utilized to open the hardware dialog box (frmHardware). It writes- frmHardware. ShowDialogO The data box (btData) for user guide for filling process using SCADA is used to open the data box
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:40059685
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Retiming-based design flow for delay recovery on inter-die paths in 3D ICs
+     Author ['K Chakrabarty', 'B Noia']
+     Venue US Patent 8,832,608
+     Year 2014
+     Abstract US8832608B1 - Retiming-based design flow for delay recovery on inter-die paths in 3D ICs - Google Patents. Retiming-based design flow for delay recovery on inter-die paths in 3D ICs. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US8832608B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A simulation platform for reconfigurable computing research
+     Author ['W Fu', 'K Compton']
+     Venue 2006 International Conference on Field …
+     Year 2006
+     Abstract Among them is using uration methods, hardware scheduling algorithms, and hard- one or more real FPGAs to accelerate hardware simulation. ware structures  kid and the actual hardware configuration information can ics/GEMS environments is significantly simpler than adding
+     Url https://ieeexplore.ieee.org/abstract/document/4100974/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Cooperative, Trusted Software Repair for Cyber Physical System Resiliency
+     Author ['W Weimer', 'S Forrest', 'CL Goues', 'M Kim']
+     Venue NA
+     Year 2018
+     Abstract COOPERATIVE, TRUSTED SOFTWARE REPAIR FOR CYBER PHYSICAL SYSTEM RESILIENCY  Ultimately, we sought to improve UAV mission resilience and trustworthiness by (1) learning a model of the intended mission in software and hardware simulation, (2) measuring
+     Url https://apps.dtic.mil/sti/citations/AD1056764
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Position paper: Safety and security monitoring in ics/scada systems
+     Author ['A Nicholson', 'H Janicke', 'A Cau']
+     Venue … Symposium for ICS & SCADA …
+     Year 2014
+     Abstract Monitoring safety and security properties in industrial control system (ICS) and SCADA environments faces  Position Paper: Safety and Security Monitoring in ICS/SCADA Systems Nicholson  Figure 1: Typical SCADA System Architecture (Pacific Northwest National Laboratory
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/ICSCSR2014.8
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A reconfigurable logic machine for fast event-driven simulation
+     Author ['J Bauer', 'M Bershteyn', 'I Kaplan']
+     Venue … 1998 Design and …
+     Year 1998
+     Abstract When all processors have exhausted their event queues for a particular simulation cycle, the synchronizer re-starts the hardware simulation clock  from URL:http://www.ai.mit/proiects/ transiVtn129/tn129,html [4] DeHon, A. DPGA-Coupled Microprocessors: Commodity ICs for the
+     Url https://ieeexplore.ieee.org/abstract/document/724555/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Understanding the memory performance of data-mining workloads on small, medium, and large-scale cmps using hardware-software co-simulation
+     Author ['W Li', 'E Li', 'A Jaleel', 'J Shan', 'Y Chen']
+     Venue … Analysis of Systems …
+     Year 2007
+     Abstract prefetcher on an Intel射 Xeon射 machine. simulators, FPGA-based hardware simulation has been 1-4244-1081-9/07/$25.00 咕2007 IEEE 35  2.2. Classification and Prediction Workloads ics which is used to identify the similar and divergent re- gions between two sequences
+     Url https://ieeexplore.ieee.org/abstract/document/4211020/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware acceleration system for logic simulation
+     Author ['S Cadambi', 'P Ashar']
+     Venue US Patent App. 10/102,749
+     Year 2003
+     Abstract http://www.xilinx.com/partinfo/databook.htm. [0024]. 2. INTRODUCTION; a) The Verification Gap [0025]. New applications and processing demands have substantially increased the complexity and density of integrated circuits (ICs) over the past decade
+     Url https://patents.google.com/patent/US20030105617A1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Review of hardware platforms for real-time simulation of electric machines
+     Author ['S Mojlish', 'N Erdogan', 'D Levine']
+     Venue IEEE Transactions on …
+     Year 2017
+     Abstract Page 1. 2332-7782 (c) 2016 IEEE. Personal use is permitted, but republication/ redistribution requires IEEE permission. See http://www.ieee.org/ publications_standards/publications/rights/index.html for more information. This
+     Url https://ieeexplore.ieee.org/abstract/document/7829408/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A digital multiprocessor hardware accelerator board for cellular neural networks: CNN‐HAC
+     Author ['T Roska', 'G Bártfai', 'P Szolgay', 'T Szirányi']
+     Venue … journal of circuit …
+     Year 1992
+     Abstract The hardware accelerator boards using catalogue programmable VLSI ICs represent a trade-off having higher reconfigurability and lower cost  The present paper describes a hardware accelerator architecture (HAC) for the hardware simulation of a CNN, which provides a much
+     Url https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.4490200512
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title PAX: A mixed hardware/software simulation platform for spiking neural networks
+     Author ['S Renaud', 'J Tomas', 'N Lewis', 'Y Bornat', 'A Daouzli']
+     Venue Neural Networks
+     Year 2010
+     Abstract Keywords. Spiking neural networks. Integrated circuits. Hardware simulation. Conductance-based neuron models. Spike-Timing-Dependent Plasticity. 1. Introduction. Computational neuroscience commonly relies on software-based processing tools
+     Url https://www.sciencedirect.com/science/article/pii/S0893608010000638
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Eigenskin: real time large deformation character skinning in hardware
+     Author ['PG Kry', 'DL James', 'DK Pai']
+     Venue Proceedings of the 2002 ACM SIGGRAPH …
+     Year 2002
+     Abstract a) FEM simulated pose b) SSD only c) EigenSkin d) Real time hardware simulation Figure 1: Comparison of EigenSkin and Skeletal-Subspace Deformation for an extreme pose not in the training data  Good vibrations: Modal dynam- ics for graphics and animation
+     Url https://dl.acm.org/doi/abs/10.1145/545261.545286
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title System level hardware simulator and its automation
+     Author ['NL Gehlot']
+     Venue US Patent 6,353,806
+     Year 2002
+     Abstract develop, integrate and test a system (hardware and software) remains a function of the time taken to develop ICs and boards  There is also the need to develop such an automated hardware simulation generator which allows for the concurrent development of symbolic models
+     Url https://patents.google.com/patent/US6353806B1/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Ptolemy: A framework for simulating and prototyping heterogeneous systems
+     Author ['JT Buck', 'S Ha', 'EA Lee', 'DG Messerschmitt']
+     Venue NA
+     Year 1994
+     Abstract Rapid prototyping of new telecommunications services; • Mixed-mode hardware simulation; • Mapping applications onto heterogeneous multiprocessor systems; and  ics [9]. The DDF Domain does not attempt to model the relative timing relationship of Block invocations
+     Url http://s-space.snu.ac.kr/bitstream/10371/7554/1/buck92ptolemy.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Simulation by emulating level sensitive latches with edge trigger latches
+     Author ['BD McMinn', 'G Ganapathy']
+     Venue US Patent 5,721,695
+     Year 1998
+     Abstract If the ratio is too high, then the hardware simulation system wastes time that could be used simulating the hardware design. Claims (10). What  Inc. Custom IC hardware modeling using standard ICs for use in IC design validation
+     Url https://patents.google.com/patent/US5721695A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Built-in test for complex digital integrated circuits
+     Author ['B Konemann', 'G Zwiehoff']
+     Venue IEEE Journal of Solid-State …
+     Year 1980
+     Abstract Comput., vol. C-24, pp. 489-497, May 1975. B. Konemann et al., “Signaturregister fur selbst-testende ICS,” in NTG-Fachberichte Band 68  109-112. G. Zwiehoff et al., “Experimente mit einem Simulations modell fur selbst-testende ICS,” in NTG-Fachberichte Band 68
+     Url https://ieeexplore.ieee.org/abstract/document/1051391/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract convenience, low development cost, high simulation speed, and close practicality; (2) the application of a hardware simulation into the  system optimization, wide area measurement system (WAMS) security, and supervisory control and data acquisition (SCADA) security analysis
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Digital twin—the simulation aspect
+     Author ['S Boschert', 'R Rosen']
+     Venue Mechatronic futures
+     Year 2016
+     Abstract As more and more features are realized using software instead of hardware, simulation models are needed to describe all disciplines—separately  Existing IT systems like PLM, PDM and SCADA 7 systems store and provide huge amounts of information coming from multiple
+     Url https://link.springer.com/chapter/10.1007/978-3-319-32156-1_5
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Real-time process control simulation method and apparatus
+     Author ['JS Bowling']
+     Venue US Patent 5,752,008
+     Year 1998
+     Abstract As shown in FIG. 1, a typical industrial control system 100 comprises a plant 105, at least one device controller 110, a man-machine interface (MMI) unit 115, and a proprietary communication network 120 that links the control system's different elements
+     Url https://patents.google.com/patent/US5752008A/en
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Study on Implementation of Hardware Simulation System for Verification of Digital Circuit
+     Author ['HS Cho', 'MK Oh']
+     Venue Proceedings of the KAIS Fall Conference
+     Year 2007
+     Abstract Study on Implementation of Hardware Simulation System for Verification of Digital Circuit. 디지털  In this study, we've tried to get the logical signals from the PC based device we've developed that correspondents with the real ICs. It
+     Url https://www.koreascience.or.kr/article/CFKO200706950835855.page
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title A hardware design system based on object-oriented principles
+     Author ['AJ Van der Hoeven', 'P Van Prooijen']
+     Venue Proceedings of the …
+     Year 1991
+     Abstract 7. Program Fmcution and Hardware Simulation In the above, we have described how the description of nodes in the HiFi system  on 'Object-Oriented Programming' [7], compares the concept of classes in an object-oriented software environment with hardware ICs to emphasize
+     Url https://ieeexplore.ieee.org/abstract/document/206447/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Advances in real-time simulation for power distribution systems
+     Author ['R Venugopal', 'W Wang']
+     Venue … Conference on Energy …
+     Year 2011
+     Abstract Global control systems based on Phase Measurement Units and SCADA systems can also be analyzed using HIL, yielding large savings in terms of cost and time in the deployment of high  [12] G. Parma and V. Dinavahi, “ Real-time digital hardware simulation of power
+     Url https://ieeexplore.ieee.org/abstract/document/6147153/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title REAL‐TIME MONITORING OF SCADA BASED CONTROL SYSTEM FOR FILLING PROCESS
+     Author ['AK Soe', 'AN Myint', 'MM Latt', 'Theingi']
+     Venue AIP Conference Proceedings
+     Year 2008
+     Abstract ShowDialog( ) And the hardware simulation (btHardware) for linking the filling icon process is utilized to open the hardware dialog box (frmHardware). It writes- frmHardware.ShowDialog( ) The data box (btData) for user guide for filling process using SCADA is used to open the
+     Url https://aip.scitation.org/doi/abs/10.1063/1.3008669
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware-in-the-loop Simulation Framework
+     Author ['MAA Sanvido']
+     Venue NA
+     Year 2002
+     Abstract Not forgetting all their advice and helpful hints. I would like to thank all the people at the Institute for Computer Systems - ICS - and at the Automatic Control Laboratory - IfA - for their friendship, support and fruitful discussions
+     Url https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/146111/1/eth-25054-01.pdf
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Hardware system for biologically realistic, plastic, and real-time spiking neural network simulations
+     Author ['S Saïghi', 'T Levi', 'B Belhadj', 'O Malot']
+     Venue The 2010 International …
+     Year 2010
+     Abstract These ICs compute in real-time a biologically realistic neuron models  We have developed specific integrated circuits (lC) from biophysical models following the Hodgkin-Huxley (HH) formalism, in order to address two fields of research: (1) build a hardware simulation system for
+     Url https://ieeexplore.ieee.org/abstract/document/5596979/
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title μ-Synthesis and Hardware-in-the-loop Simulation of Miniature Helicopter Control System
+     Author ['L Mollov', 'J Kralev', 'T Slavov', 'P Petkov']
+     Venue Journal of Intelligent & Robotic …
+     Year 2014
+     Abstract Page 1. J Intell Robot Syst (2014) 76:315–351 DOI 10.1007/s10846-014-0033-x µ-Synthesis and Hardware-in-the-loop Simulation of Miniature Helicopter Control System L. Mollov · J. Kralev · T. Slavov · P. Petkov Received: 6
+     Url https://link.springer.com/article/10.1007/s10846-014-0033-x
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title Investigating the robustness of re-scheduling policies with multi-agent system simulation
+     Author ['M Merdan', 'T Moser', 'P Vrba', 'S Biffl']
+     Venue The International Journal of Advanced …
+     Year 2011
+     Abstract University of Technology), allowing direct comparisons between software and miniature hardware simulation  A distributed control system is more robust than a centralized control system as this  and software architectures, like PLCs, operator panels, and SCADA systems, can
+     Url https://link.springer.com/article/10.1007/s00170-010-3049-9?null
+
+
+     Search term "Cyber-physical+system"+OR+"Industrial+control+system"+OR+"ICS"+OR+"SCADA"+OR+"Distributed+control+system"+OR+"DCS"+"Hardware+simulation"
+     Title GPU-accelerated evaluation platform for high fidelity network modeling
+     Author ['Z Xu', 'R Bagrodia']
+     Venue 21st International Workshop on Principles of …
+     Year 2007
+     Abstract Recently we observe that hardware acceleration has also been used in various application areas, partially due to the fact that the computation capability of specialized hardware, eg graph- ics processing units (GPU), DSP platform etc., has been ad- vancing rapidly
+     Url https://ieeexplore.ieee.org/abstract/document/4262799/
+

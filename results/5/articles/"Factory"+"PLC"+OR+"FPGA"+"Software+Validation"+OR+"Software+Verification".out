@@ -1,0 +1,451 @@
+Showing papers for search query "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title A toolset for model checking of PLC software
+     Author ['A Pakonen', 'T Mätäsniemi', 'J Lahtinen']
+     Venue … & Factory Automation …
+     Year 2013
+     Abstract 2.2. PLC software verification Since 2007, we have been applying model checking in practical customer work, by performing independent verification of I&C software for both the Finnish Radiation and Nuclear Safety Authority (STUK), and recently also the Finnish nuclear power
+     Url https://ieeexplore.ieee.org/abstract/document/6648065/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title An overview of model checking practices on verification of PLC software
+     Author ['T Ovatman', 'A Aral', 'D Polat', 'AO Ünver']
+     Venue Software & Systems Modeling
+     Year 2016
+     Abstract These methods are applied in a large context in PLC software verification; however, we will  that use modelling languages (Petri nets, UML, etc.) in representing PLC software  area; among those, IEEE Conference on Emerging Technologies and Factory Automation proceedings
+     Url https://link.springer.com/article/10.1007/s10270-014-0448-7
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Development of virtual simulator for visual validation of PLC program
+     Author ['CM Park', 'SM Bajimaya', 'SC Park']
+     Venue … for Modelling Control …
+     Year 2006
+     Abstract [2] E.Freund, and DHPensky, COSIMIR Factory, “Extending the  571-585 [4] G.Gore, “Virtual Verification of Auto-generated PLC programs”, Licentiate Thesis, Department of Signals and  [5] SWCheon, JSLee, KCKwon, DHKim, and H.Kim, “The Software Verification and Validation
+     Url https://ieeexplore.ieee.org/abstract/document/4052679/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Objectives of integrated digital production engineering in the automotive industry
+     Author ['G Schmidgall', 'J Kiefer', 'T Bär']
+     Venue IFAC Proceedings Volumes
+     Year 2005
+     Abstract 2.3 PLC software validation  For example, process planners can now utilize the software tools of the digital factory to designate the optimal positions for the welding robots so that they can execute their tasks as quickly as possible without any collisions
+     Url https://www.sciencedirect.com/science/article/pii/S1474667016374705
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Modelling and verification of PLC-based systems programmed with ladder diagrams
+     Author ['A Lobov', 'JLM Lastra', 'R Tuokko', 'V Vyatkin']
+     Venue IFAC Proceedings Volumes
+     Year 2004
+     Abstract The work (Heiner and Menzel, 1998) describes general steps for PLC software verification and validation  Modeling of PLC Behavior by Means of Timed Net Condition/Event Systems, 6th International Conference on Emerging Technologies and Factory Automation, Los
+     Url https://www.sciencedirect.com/science/article/pii/S1474667017361165
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation framework for the verification of PLC programs in automobile industries
+     Author ['LJ Koo', 'CM Park', 'CH Lee', 'SC Park']
+     Venue International Journal of …
+     Year 2011
+     Abstract methodology. Hibino et al. (2006) tried to verify the ladder logic of PLC programs using a virtual factory that consists of a 3-D graphic model and a behaviour model that has been combined with a real factory. General discrete
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207543.2010.492404
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Advanced I&C systems for NPPS based on FPGA technology: European experience
+     Author ['I Bakhmach', 'V Kharchenko', 'A Siora']
+     Venue Proceedings of 17th …
+     Year 2009
+     Abstract ESFAS-3 for Kozloduy-5. The first ESFAS for Kozloduy NPP successfully passed Factory Acceptance Testing  verification results of integrated Nios software – verification results of integrated upper level software – verification results of integrated FPGA-projects – verification
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/304213648_Advanced_IC_Systems_for_NPPS_Based_on_FPGA_Technology_European_Experience/links/57d6cf0108ae5f03b494da6e/Advanced-I-C-Systems-for-NPPS-Based-on-FPGA-Technology-European-Experience.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation based control program verification in an automobile industry
+     Author ['CM Park', 'KY Seong', 'SC Park', 'GN Wang']
+     Venue … Conference on Modeling …
+     Year 2008
+     Abstract The proposed state-based modeling gives easy and fast construction of virtual factory, and also gives minimizing of modeling error  [5] SWCheon, JSLee, KCKwon, DHKim, and H.Kim The Software Verification and Validation Process for a PLC-based Engineered
+     Url http://www.actapress.com/Abstract.aspx?paperId=32385
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Effective Software Verification and Validation Approach for Nuclear Power Plant Digital Instrumentation and Control Systems
+     Author ['S Yang', 'J Ding', 'H Miao']
+     Venue International …
+     Year 2010
+     Abstract As part of high- quality engineering assurance, rigorous software Verification and Validation (V&V) life-cycle  Factory Acceptance Testing (FAT) FAT is used to determine whether a system satisfies the  Meantime, a bill-of-materials (BOM) (it may include the CPLD, FPGA etc) must
+     Url https://asmedigitalcollection.asme.org/ICONE/proceedings-abstract/ICONE18/49293/659/347327
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of FPGA application design by model checking
+     Author ['A Pakonen']
+     Venue 9th International Workshop on the Application of Field …
+     Year 2016
+     Abstract PLC, FPGA, PC, µC  [1] https://www.simulationstore.com/node/52 [2] A. Pakonen, T. Mätäsniemi, J. Lahtinen, T. Karhela, A Toolset for Model Checking of PLC Software, 18th IEEE International Conference on Emerging Technologies and Factory Automation, ETFA2013, 10
+     Url https://sunport.ch/wp-content/uploads/2017/06/D2-4-VTT.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Control logic verification for an automotive body assembly line using simulation
+     Author ['CM Park', 'S Park', 'GN Wang']
+     Venue International Journal of Production …
+     Year 2009
+     Abstract However, no concrete methodology and results were presented. A virtual factory consisting of a 3-D graphic model and behaviour model was combined with an actual factory to verify the ladder program in the PLC (Hibino et al. 2006)
+     Url https://www.tandfonline.com/doi/abs/10.1080/00207540802350716
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software Qualification Approach for Safety-critical Software of the Embedded System
+     Author ['J Kim', 'S Kim']
+     Venue … Conference on Future Generation Communication and …
+     Year 2012
+     Abstract has been used successfully for a hazard analysis in the industry such as a chemical factory  of this HAZOP concept in the hazard analysis of the safety-grade PLC software requirement  After the hazards and risks had been collected, we used software verification and the hazard
+     Url https://link.springer.com/chapter/10.1007/978-3-642-35594-3_25
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Experience of I&C systems modernization using FPGA technology
+     Author ['I Bakhmach', 'V Kharchenko', 'A Siora']
+     Venue Proceedings of the …
+     Year 2010
+     Abstract of FPGAs as programmable components instead of programmable logic controllers (PLC) is an  No FPGA-chips and configuration devices failures were detected during this period  The first ESFAS for Kozloduy NPP successfully passed Factory Acceptance Testing (FAT) in July
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/290632797_Experience_of_I_C_systems_modernization_using_FPGA_technology/links/5831d43f08ae004f74c2a857/Experience-of-I-C-systems-modernization-using-FPGA-technology.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FPGA realization of wavelet transform for detection of electric power system disturbances
+     Author ['SJ Huang', 'TM Yang', 'JT Huang']
+     Venue IEEE Transactions on Power …
+     Year 2002
+     Abstract Fol- lowing the software verification of each submodule, the syn- thesis is then activated that performs the translations of hard- ware  [11] M. Ikeshita, Y. Takeda, H. Murakoshi, N. Funakubo, and I. Miyazawa, “An application of FPGA to high  Factory Automat., Barcelona, Spain, Oct
+     Url https://ieeexplore.ieee.org/abstract/document/997905/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual factory laboratory system and its application
+     Author ['Y Wu', 'J Zhang', 'Y Feng', 'G Rong']
+     Venue IFAC Proceedings Volumes
+     Year 2006
+     Abstract grating various application modules, it is capable of carrying on research of enterprise operation management, software validation, algorithm de  Equipment DCS/PLC  4. HIL simulation system tual factory laboratory system turns into a HIL simulation system which is shown in Fig
+     Url https://www.sciencedirect.com/science/article/pii/S1474667015360122
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Verification of programmable logic controller code using
+     Author ['S Biallas']
+     Venue SAT
+     Year NA
+     Abstract 19th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA  C Programs }, booktitle = { Proceedings Seventh Conference on Systems Software Verification (SSV 2012  BIB Biallas, S., Brauer, ., and Kowalewski, S., "Arcade.PLC: A Verification
+     Url https://pdfs.semanticscholar.org/9a4e/07412fb668ca8b7f1630671266c072a3520a.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Learning in the AutFab–the fully automated Industrie 4.0 learning factory of the University of Applied Sciences Darmstadt
+     Author ['S Simons', 'P Abé', 'S Neser']
+     Venue Procedia Manufacturing
+     Year 2017
+     Abstract Another HMI has been implemented by user application webpages on the webserver of the main PLC  with a real value chain and with learning taking place on the factory-site, is a learning factory in the  components in hard- und software, verification and validation of the solution
+     Url https://www.sciencedirect.com/science/article/pii/S2351978917301415
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Project Experience of MMIS for Shin-Hanul units 1&2 (Component Design, Manufacturing and Testing)
+     Author ['S Koo', 'K Kim']
+     Venue NA
+     Year 2015
+     Abstract Doosan MMIS manufacturing is based on PLC and DCS platform  Software verification and validation (V&V) is a software-engineering discipline that helps to build quality into  as integrated system test (IST), MMIS-integrated system test (MMIS-IST), and factory acceptance test
+     Url https://www.kns.org/files/pre_paper/34/15A-%EA%B5%AC%EC%84%9C%EB%A3%A1I.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title NTHAS5-D005
+     Author ['JY Kim', 'KH Cha', 'SW Cheon', 'YJ Lee', 'JS Lee', 'KC Kwon']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title The Challenge of Complexity in Dependable PLC-Based Systems
+     Author ['DN Card']
+     Venue 2015 IEEE 39th Annual Computer Software and …
+     Year 2015
+     Abstract Additional research in the areas of PLC programming technology and safety analysis of  May 2010 [7] Food and Drug Administration, General Principles of Software Validation, 2002 [8] J  3 programs” IEEE 17th Conference on Emerging Technologies & Factory Automation, 2012
+     Url https://ieeexplore.ieee.org/abstract/document/7273285/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title FA 分野におけるモデルベースデザイン
+     Author ['藤井高史， 浪江正樹']
+     Venue 自動制御連合講演会講演論文集 第 57 回自動 …
+     Year 2014
+     Abstract OMRON Corporation made products of the development environment to introduce the Model Based Design into control system development in a machine and equipment of FA (Factory Automation) in  2. Auto code generation Simulink PLC Coder  Software verification
+     Url https://www.jstage.jst.go.jp/article/jacc/57/0/57_885/_article/-char/ja/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title 원전용 PLC 소프트웨어 확인 및 검증 방법
+     Author ['박상만， 이광재']
+     Venue 한국엔터테인먼트산업학회 학술대회 논문집
+     Year 2010
+     Abstract is a technique that has been used successfully for a hazard analysis in industry such as a chemical factory  and checklist take advantage of this HAZOP concept in hazard analysis of the safety-grade PLC software requirement  collected, they are used in software verification
+     Url http://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01790079
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Achieving Safety and Reliability with Computer Systems
+     Author ['BK Daniels']
+     Venue NA
+     Year 2012
+     Abstract SCIENCE PUBLISHERS LTD 1987 © IC PYLE AND SYSTEMS DESIGNERS plc 1987—pp  of high energy processes, of nuclear and chemical plants, of factory automation, of  Designing for Safety Using Ada Packages IC Pyle SOFTWARE VERIFICATION, ACCEPTANCE AND
+     Url https://books.google.com/books?hl=de&lr=&id=I_z0CAAAQBAJ&oi=fnd&pg=PR12&dq=%22Factory%22+%22PLC%22+OR+%22FPGA%22+%22Software+Validation%22+OR+%22Software+Verification%22&ots=tYtSZGUDij&sig=afUQl9pwqMPUdfwpiXuPQk2TECE
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test beam measurements of an irradiated prototype pixel sensor designed for the CEPC vertex detector
+     Author ['Y Han', 'H Zhu', 'X Ai', 'M Fu', 'R Kiuchi', 'Y Liu', 'Z Liu']
+     Venue Nuclear Instruments and …
+     Year 2020
+     Abstract Circular Electron Positron Collider (CEPC) [1], [2] will primarily operate at the center-of-mass energy of s = 240 GeV as a Higgs factory  As a part of the data acquisition (DAQ) system, a commercial FPGA board (KC705) was deployed to read in the digitized signals from the
+     Url https://www.sciencedirect.com/science/article/pii/S016890022030663X
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Handling Backtracking for Symbolic Testing of Embedded Software
+     Author ['VP Suresh', 'SK Chakrabarti', 'R Jetley']
+     Venue … and Factory …
+     Year 2019
+     Abstract Automated testing tools for programs written in IEC 61131-3 standard of programming languages supporting the development of PLC control software is less available  Index Terms—Software verification and validation, Testing I. INTRODUCTION
+     Url https://ieeexplore.ieee.org/abstract/document/8869097/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Cyber-Physical Labs to enhance engineering training and education
+     Author ['MEM García', 'AAC Pérez', 'ARI Alegría']
+     Venue International Journal on Interactive …
+     Year 2020
+     Abstract to interact with pieces of equipment and validate their success had risen opportunities of growth involving topics like factory environment, such as in  Originally, its purpose was to allow debugging of control programing code on an actual programmable logic controller (PLC)
+     Url https://link.springer.com/article/10.1007/s12008-020-00704-6
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title High tech TBM for the Cairo Metro Line 3 phase 2 project
+     Author ['T Camus']
+     Venue NA
+     Year NA
+     Abstract Page 5. Figure 4 – Final assembly stage in the NFM factory  6) • Installation of other slurry equipment (slurry pumps, gate valves) • Ducting of slurry circuits • Reconfiguration of PLC software • Validation tests a) EPB configuration
+     Url https://www.researchgate.net/profile/Thomas_Camus/publication/224904580_High_tech_TBM_for_the_Cairo_Metro-Line_3_phase_2_project/links/545269f50cf2cf51647a421f/High-tech-TBM-for-the-Cairo-Metro-Line-3-phase-2-project.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Test-Bed Infrastructure for Industrial Control Systems Validation
+     Author ['E Carpanzano', 'A Cataldo']
+     Venue Engineering …
+     Year 2006
+     Abstract At first a rough control software validation has been carried out by connecting the PLC to the process  of this work consists of using different type of fieldbus for the PLC / remote I  [6] A structured approach to the design and simulation- based testing of factory automation systems
+     Url https://asmedigitalcollection.asme.org/ESDA/proceedings-abstract/ESDA2006/42487/757/316117
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Virtual commissioning of a robotic cell: An educational case study
+     Author ['IA Fernández', 'MA Eguía']
+     Venue … and Factory Automation …
+     Year 2019
+     Abstract Only VC. Comments on emulation for software validation. - The real process is known without having it available, through a realistic virtual model of it  In the PLC debugging environment a lot of abstraction is required, and what is tested seems to be fine without being so
+     Url https://ieeexplore.ieee.org/abstract/document/8869373/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Design of a redundant fpga-based safety system for railroad vehicles
+     Author ['D Macii', 'M Avancini', 'L Benciolini']
+     Venue 2014 17th Euromicro …
+     Year 2014
+     Abstract Therefore, the complex and expensive techniques typically required for embedded software validation and verification (in accordance with the  [5] R. Dobias and H. Kubatova, “FPGA based design  on Emerging Technologies and Factory Automation (ETFA), Kraków, Poland, Sep
+     Url https://ieeexplore.ieee.org/abstract/document/6927313/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Implementation of PLC controller connected Gazebo-ROS to support IEC 61131-3
+     Author ['Y Kim', 'S Lee', 'S Lim']
+     Venue … on Emerging Technologies and Factory …
+     Year 2020
+     Abstract effect on the whole system, consequently simplifying the process of software verification and validation  supporting both control of 4 robots and PLCopen standard-based PLC language(5  3 support to ros based robots,“ IEEE Emerging Technologies & Factory Automation (ETFA
+     Url https://ieeexplore.ieee.org/abstract/document/9212096/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Formal modeling and verification in the software engineering framework of IEC 61499: a way to self-verifying systems
+     Author ['V Vyatkin', 'HM Hanisch']
+     Venue … Emerging Technologies and Factory …
+     Year 2001
+     Abstract However, the existing methods of software validation (manual testing or computer-aided simulation) are  for description of the whole application, rather than merely a programming language for PLC  to disturbances, adaptability and flexibility to rapid change on the factory floor of
+     Url https://ieeexplore.ieee.org/abstract/document/997677/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Development of energy consumption model for virtual commissioning software
+     Author ['O Bormanis']
+     Venue 2015 56th International Scientific Conference on …
+     Year 2015
+     Abstract 1]. VCS provides an opportunity for extensive testing, validation of automation configurations, operator training and factory level communication  of multiple mechatronic elements, including industrial robots, conveyers, lifts, whose operation is controlled from PLC, connected to a
+     Url https://ieeexplore.ieee.org/abstract/document/7343139/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title PLC code vulnerabilities through SCADA systems
+     Author ['SE Valentine Jr']
+     Venue NA
+     Year 2013
+     Abstract 17 2.3 Secure Software Verification Methods and Software Code Review Tools 20  Input: PLC code that has passed the PLC compilation successfully  3 Page 18. Chapter 2 Related Work Currently, most facilities that use factory automation are turning to SCADA systems
+     Url https://scholarcommons.sc.edu/etd/803/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Facilitating Modeling and Simulation of Complex Systems Through Interoperable Software
+     Author ['J Falcon']
+     Venue Keynote address at ACM/IEEE 20th International …
+     Year 2017
+     Abstract Test Rig Hardware in Loop Factory Acceptance Testing Page 15. Industry and Technology Trends ▪ Connectivity  Workspace Tools UI Objects Custom RT Tasks Models FPGA I/O LabVIEW Page 27. Real-Time Modeling Environments ▪ The MathWorks, Inc. Simulink® software
+     Url https://www.cs.utexas.edu/sites/default/files/documents/Models17FalconKeynote.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Energy Monitoring and Targeting System IEC61131 Compatible Framework
+     Author ['RE Castro', 'CE Pereira', 'FB Líbano']
+     Venue 2013 IEEE 6th …
+     Year 2013
+     Abstract Moreover, aiming at aggregating all tools associated to M&T in an EnMS scenario, this paper proposes the use of a Supervisory Control and Data Acquisition (SCADA) tool integrated to real time software (Soft-PLC) that runs the control application and a factory floor distributed
+     Url https://ieeexplore.ieee.org/abstract/document/6717322/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Taking the Lead# 1: System-on-a-Chip Solutions Deployed to IBM Woldwide ASIC Design Centers
+     Author ['P Nsame', 'H Linzer', 'M Kautzman', 'J Lavere', 'G Kling']
+     Venue … Quarter 2001, Vol. 7, No. 4
+     Year NA
+     Abstract one to three FPGAs is becoming attractive with the increasing FPGA gate counts  nonescalating alternative path for problem resolution when field and factory application support  They include: • TOS: Hardware/software verification environment for Power PC CoreConnect-based
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.129.2315&rep=rep1&type=pdf#page=11
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title CARV 2007
+     Author ['A Lobov', 'JLM Lastra']
+     Venue NA
+     Year NA
+     Abstract The program for the lifter is written in Ladder Diagrams for Omron CPM1A PLC and plant  At the factory floor, the electrical and mechanical engineers may be still busy doing their installations  Rakitin SR (2001) Software Verification and Validation for Practitioners and Managers
+     Url https://www.researchgate.net/profile/Andrei_Lobov/publication/316432474_Data_Mining_of_Systems_State_Spaces/links/58fdcfd6aca2728fa70c6fb3/Data-Mining-of-Systems-State-Spaces.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Simulation aid tools and ladder program verification systems
+     Author ['H Yamane']
+     Venue US Patent App. 10/898,686
+     Year 2005
+     Abstract US20050033457A1 - Simulation aid tools and ladder program verification systems - Google Patents. Simulation aid tools and ladder program verification systems. Download PDF Info. Publication number US20050033457A1
+     Url https://patents.google.com/patent/US20050033457A1/en
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Mechatronic-Oriented Design of Automated Manufacturing Systems in the Automotive Body Shop
+     Author ['J Kiefer', 'T Baer', 'H Bley']
+     Venue DS 48: Proceedings DESIGN 2008 …
+     Year 2008
+     Abstract standardization • Automated generation of cross-domain documentation and software • Validation and optimization of  of the developed control software and the used factory information systems  mechatronic components working documents PPR data base PLC program digital
+     Url https://www.designsociety.org/publication/26717/mechatronic-oriented_design_of_automated_manufacturing_systems_in_the_automotive_body_shop
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Project W-420 Ventilation Stack Monitoring System Year 2000 Compliance Assessment Project Plan
+     Author ['JH BUSSELL']
+     Venue NA
+     Year 1999
+     Abstract The procurement specification requires software description documents, software verification and validation plans, and test  whether the GEMS will have a supplementary computer in addition to the PLC  the Seller to include the required test suite in the “factory” acceptance test
+     Url https://www.osti.gov/biblio/797672
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Optimizing quality of control in networked automation systems using probabilistic models
+     Author ['J Greifeneder', 'G Frey']
+     Venue … on Emerging Technologies and Factory …
+     Year 2006
+     Abstract Clearly, in a system containing sensors and actuators connected via a network to a pro- grammable logic controller (PLC), the accuracy of any given control action will depend on the delay occurring between a signal change at a sensor and the correspond- ing reaction at an
+     Url https://ieeexplore.ieee.org/abstract/document/4178261/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title SARSS'87
+     Author ['BK Daniels']
+     Venue NA
+     Year NA
+     Abstract energy processes, of nuclear and chemical plants, of factory automation, of  Software for Aerospace Applications DA Rutherford, M. Dewshi SOFTWARE VERIFICATION, TEST AND  D. Mannering 44 Systems Designers plc, Pembroke House, Pembroke Broadway, Camberley
+     Url https://link.springer.com/content/pdf/10.1007/978-94-009-3461-0.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Emulation with DSOL
+     Author ['PHM Jacobs', 'A Verbraeck']
+     Venue Proceedings of the Winter …
+     Year 2005
+     Abstract test a newly designed and developed programmable logic controller. The aim of this commissioning was to debug the engineered system in the lab - not on the factory floor, for a number of reasons  Introduction to plc controllers  Simulation system for control software validation
+     Url https://ieeexplore.ieee.org/abstract/document/1574412/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Enforcing I/O sequences for PLC validation purposes
+     Author ['A Guignard', 'JM Faure']
+     Venue … on Emerging Technologies & Factory …
+     Year 2013
+     Abstract can be explained by a desynchronization such that i1 is detected by the PLC cycle before i2  performed by using enforcement techniques, as it will be shown in section 4. These tech- niques have been developed recently as an alternative for software verification during runtime
+     Url https://ieeexplore.ieee.org/abstract/document/6648100/
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Software factory for industrial automation: focus on the PLC software quality
+     Author ['D Chalon', 'W Ait-Cheik-Bihi']
+     Venue NA
+     Year NA
+     Abstract The PLC developer is freed from repetitive manual tasks  [Dut07] Mathias D Dutour. Software factory techniques applied to process control at cern  [fda02] General principles of software validation; final guidance for industry and fda staff
+     Url https://www.researchgate.net/profile/Wafaa_Ait-Cheik-Bihi2/publication/277609165_Software_factory_for_industrial_automation_focus_on_the_PLC_software_quality_wins_1st_Prize_in_Automation_40/links/556eb29808aeccd7773f734c.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title System and simulator for the disengageable simulation of installations or machines within programmable logic controllers
+     Author ['R Ermler', 'C Krebs', 'J Neidig', 'GQ Araya']
+     Venue US Patent App. 15/869,171
+     Year 2018
+     Abstract logic controller such that the simulator is provided for programming in a PLC language of  device for a factory installation, and control and monitoring methods for such a factory installation  US8930912B2 (en), 2015-01-06, Method and system for performing software verification
+     Url https://patents.google.com/patent/US20180203973A1/en
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Safety Critical FPGA-based NPP I&C Systems: Assessment, Development and Implementation
+     Author ['ES Bakhmach', 'AA Siora', 'VI Tokarev', 'VS Kharchenko']
+     Venue NA
+     Year NA
+     Abstract of basic I&C systems control functions; – To reduce a volume of software verification and validation  documentation; – Manufacturing of I&C system equipment and development of FPGA electronic designs and software; – Development of Factory Acceptance Testing
+     Url https://www.researchgate.net/profile/Vladimir_Sklyar/publication/305773658_Safety_Critical_FPGA-based_NPP_IC_Systems_Assessment_Development_and_Implementation/links/57a0bc1008ae5f8b2589597b/Safety-Critical-FPGA-based-NPP-I-C-Systems-Assessment-Development-and-Implementation.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Barrier isolator decontamination systems
+     Author ['J Fisher', 'RA Caputo']
+     Venue Pharmaceutical Technology
+     Year 2004
+     Abstract If the equipment has a PLC or computer control, the version of the control software  Users should conduct a software validation assess- ment to determine the extent of software validations  in the VHP 1000ED controls pressure fluctuations in the isolator.The factory PID settings
+     Url https://pdfs.semanticscholar.org/9171/1c2b3ab32a797ac259598be912023a413549.pdf
+
+
+     Search term "Factory"+"PLC"+OR+"FPGA"+"Software+Validation"+OR+"Software+Verification"
+     Title Asynchronous wrappers configuration within GALS systems specified by Petri nets
+     Author ['F Moutinho', 'L Gomes', 'A Costa']
+     Venue 2012 IEEE International …
+     Year 2012
+     Abstract connected by two asynchronous wrappers, and implemented in a FPGA-based platform  in ETFA'2005 - 10th IEEE Conference on Emerging Technologies and Factory Automation, Facolta' di  H. Sheng, O. Sheleh, and B. Batchuluun, “An automated software verification tool for
+     Url https://ieeexplore.ieee.org/abstract/document/6237288/
+

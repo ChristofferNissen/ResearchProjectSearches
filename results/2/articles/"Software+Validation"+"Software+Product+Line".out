@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+"Software+Product+Line"
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Coverage and adequacy in software product line testing
+     Author ['MB Cohen', 'MB Dwyer', 'J Shi']
+     Venue Proceedings of the ISSTA 2006 workshop …
+     Year 2006
+     Abstract Software product line modeling languages have been de  A significant body of work exists on exploiting the unique features of software architecture abstractions for software validation, for example, detecting component mismatch [1], planning integration testing [3], and using
+     Url https://dl.acm.org/doi/abs/10.1145/1147249.1147257
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title A reuse technique for performance testing of software product lines
+     Author ['S Reis', 'A Metzger', 'K Pohl']
+     Venue … on Software Product Line …
+     Year 2006
+     Abstract In: Proc. of the 5th Conf. on Software Validation for Healthcare, Düsseldorf, Germany, April 2005  [6] McGregor, JD: Testing a Software Product Line. Technical Report CMU/SEI-2001-TR-022, SEI, Carnegie Mellon University, December 2001
+     Url https://pdfs.semanticscholar.org/cbc1/edfc8671dae8d4fa0b93b811707f968d5c55.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title MARTE mechanisms to model variability when analyzing embedded software product lines
+     Author ['L Belategi', 'G Sagardui', 'L Etxeberria']
+     Venue International Conference on …
+     Year 2010
+     Abstract others. Model Driven Development (MDD) and Software Product Line (SPL) can be adequate paradigms to traditional development and validation methods  requirements. Making embedded software validation is not trivial
+     Url https://link.springer.com/chapter/10.1007/978-3-642-15579-6_38
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Variability management in embedded product line analysis
+     Author ['L Belategi', 'G Sagardui']
+     Venue 2010 Second International …
+     Year 2010
+     Abstract MODEL ANALYSIS IN SOFTWARE PRODUCT LINE ENGINEERING Quality is an important aspect to take into account from the beginning and during the  by which its quality will be judged by some stakeholder or stakeholders [7]. However, performing software validation is not
+     Url https://ieeexplore.ieee.org/abstract/document/5617192/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Verification and validation in software product line engineering
+     Author ['EA Addy']
+     Venue NA
+     Year 1999
+     Abstract 2.5 COTS Integration COTS components are routinely used as significant portions of systems developed using a software product line approach  Verification Development Validation Correspondence Figure 3-2. Framework for V&V within Reuse-Based Software Engineering
+     Url https://researchrepository.wvu.edu/etd/1034/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Project delay variability simulation in software product line development
+     Author ['M Nonaka', 'L Zhu', 'MA Babar', 'M Staples']
+     Venue International Conference on …
+     Year 2007
+     Abstract Eng. (ISESE'04) (2004) 156–164 11. Chen, Y., Gannod, GC, Collofello, JS: A software product line process simulator. Softw. Process Improve  IBM Systems Journal 33(1) (1994) 62–88 24. Remus, H.: Integrated software validation in the view of inspections / reviews. In: Proc
+     Url https://link.springer.com/chapter/10.1007/978-3-540-72426-1_24
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Project cost overrun simulation in software product line development
+     Author ['M Nonaka', 'L Zhu', 'MA Babar', 'M Staples']
+     Venue International Conference on …
+     Year 2007
+     Abstract Page 1. Project Cost Overrun Simulation in Software Product Line Development  Abstract. The cost of a Software Product Line (SPL) development project sometimes exceeds the initially planned cost, because of require- ments volatility and poor quality
+     Url https://link.springer.com/chapter/10.1007/978-3-540-73460-4_29
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title A systematic review of quality attributes and measures for software product lines
+     Author ['S Montagud', 'S Abrahão', 'E Insfran']
+     Venue Software Quality Journal
+     Year 2012
+     Abstract 1 Introduction. Software product line (SPL) engineering is a modern approach for developing a diversity of software products and software-intensive systems based on the underlying architecture of an organization product platform  2.1 Quality in software product line engineering
+     Url https://link.springer.com/article/10.1007/s11219-011-9146-7
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Model based analysis process for embedded software product lines
+     Author ['L Belategi', 'G Sagardui', 'L Etxeberria']
+     Venue Proceedings of the 2011 …
+     Year 2011
+     Abstract Keywords Software product line, model based analysis process, model driven development, quality attributes, performance, schedulability  supervision, user interfaces modes), criticality, real-time and consumption constraints” [1]. Therefore, software validation and verification
+     Url https://dl.acm.org/doi/abs/10.1145/1987875.1987886
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Model-based testing of software product lines
+     Author ['A Metzger', 'K Pohl', 'S Reis', 'A Reuys']
+     Venue NA
+     Year 2006
+     Abstract Further, they will be aware of the challenges that one faces during testing in software product line engineering and will have been  In: Proceedings of the 5th Conference on Software Validation for Healthcare – CSVHC 2005 (Düsseldorf, Germany, April 2005), SQS, 2005
+     Url https://ulir.ul.ie/handle/10344/2345
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Impact of architecture and quality investment in software product line development
+     Author ['M Nonaka', 'L Zhu', 'MA Babar']
+     Venue … Software Product Line …
+     Year 2007
+     Abstract Impacts of Architecture and Éuality Investment in Software Product Line Development  Investment in architecture and quality improvement for a software product line can increase reuse, and consequently reduce e«ort, enhance product reliability, and shorten time- to-market
+     Url https://ieeexplore.ieee.org/abstract/document/4339256/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title The scented method for testing software product lines
+     Author ['A Reuys', 'S Reis', 'E Kamsties', 'K Pohl']
+     Venue Software Product Lines
+     Year 2006
+     Abstract modules. Although the individual applications of a software product line are derived from the core assets (cf  diagram. Therefore, the original branch coverage criterion must be extended for the use within software product line engineering
+     Url https://link.springer.com/content/pdf/10.1007/978-3-540-33253-4_13.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title A New Approach to Feature-based Test Suite Reduction in Software Product Line Testing.
+     Author ['A Gotlieb', 'M Carlsson', 'D Marijan', 'A Petillon']
+     Venue ICSOFT-EA
+     Year 2016
+     Abstract A New Approach to Feature-based Test Suite Reduction in Software Product Line Testing Arnaud Gotlieb1, Mats Carlsson2, Dusica Marijan1 and Alexandre Pétillon1 1Certus Software Validation and Verification Centre, Simula Research Laboratory, Lysaker, Norway 2Swedish
+     Url https://www.scitepress.org/Papers/2016/59834/59834.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Automatic selection of test execution plans from a video conferencing system product line
+     Author ['S Wang', 'A Gotlieb', 'M Liaaen', 'LC Briand']
+     Venue Proceedings of the VARiability …
+     Year 2012
+     Abstract Utilizing a standard tool like pure::variants within a software validation process is still questionable as the methodology for using our ap- proach within a complete process is still an ongoing work  In Software Product Line Conference(SPLC'10),2010
+     Url https://dl.acm.org/doi/abs/10.1145/2425415.2425422
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Recovering the product line architecture of the apo-games
+     Author ['C Lima', 'I do Carmo Machado', 'ES de Almeida']
+     Venue … Software Product Line …
+     Year 2018
+     Abstract Software Product Line (SPL) engineering is a paradigm for the development of a family of products based on the systematic reuse of  CCS CONCEPTS • Software and its engineering → Software product lines; Software architectures; Empirical software validation;
+     Url https://dl.acm.org/doi/abs/10.1145/3233027.3236398
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Investigating the variability impact on the recovery of software product line architectures: an exploratory study
+     Author ['MPS Cardoso', 'C Lima', 'ES de Almeida']
+     Venue Proceedings of the 11th …
+     Year 2017
+     Abstract CCS CONCEPTS • Software and its engineering → Software product lines; Software architectures; Empirical software validation;  2017. Inves- tigating the Variability Impact on the Recovery of Software Product Line Architectures: An Exploratory Study
+     Url https://dl.acm.org/doi/abs/10.1145/3132498.3133835
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Advances in testing software product lines
+     Author ['H Lackner', 'BH Schlingloff']
+     Venue Advances in computers
+     Year 2017
+     Abstract Is it better to test selected variants on a concrete level, or shall the whole software product line be tested abstractly  Then, we compare domain-centered and application-centered approaches to software product line testing
+     Url https://www.sciencedirect.com/science/article/pii/S0065245817300311
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Using configuration management and product line software paradigms to support the experimentation process in software engineering
+     Author ['EGE Gallardo']
+     Venue … on Research Challenges in Information Science …
+     Year 2012
+     Abstract a line. A core asset is a software artefact that is used to produce one or more products of a software product line. It can  areas in which the group is experienced: software validation, requirements and usability. This information
+     Url https://ieeexplore.ieee.org/abstract/document/6240454/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title An Exploratory Study on Migrating Single-Products towards Product Lines in Startup Contexts
+     Author ['M Njima', 'S Demeyer']
+     Venue Proceedings of the 13th International Workshop …
+     Year 2019
+     Abstract CCS CONCEPTS • Software and its engineering → Software product lines; Em- pirical software validation; Maintaining software; • Social and pro  1 INTRODUCTION Software Product Line Engineering has been adopted as a large- scale development approach that enables the
+     Url https://dl.acm.org/doi/abs/10.1145/3302333.3302347
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Automated model-based performance analysis of software product lines under uncertainty
+     Author ['P Arcaini', 'O Inverso', 'C Trubiani']
+     Venue Information and Software Technology
+     Year 2020
+     Abstract Context: A Software Product Line (SPL) can express the variability of a system through the specification of configuration options  Feature models. Feature models are commonly used as a compact representation of all the products in a Software Product Line (SPL) [23]
+     Url https://www.sciencedirect.com/science/article/pii/S0950584920301403
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Towards testing response time of instances of a web-based product line
+     Author ['D Ganesan', 'U Maurer', 'M Ochs', 'B Snoek', 'M Verlage']
+     Venue Proceedings of
+     Year 2005
+     Abstract hetrick@ engenio. com Abstract. The production capability of a software product line development organi- zation can overwhelm traditional test practices  1 Introduction Software validation is widely recognized as a critical function of the software develop- ment cycle
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.85.391&rep=rep1&type=pdf#page=29
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Software evolution in time and space: Unifying version and variability management (dagstuhl seminar 19191)
+     Author ['T Berger', 'M Chechik', 'T Kehrer', 'M Wimmer']
+     Venue Dagstuhl Reports
+     Year 2019
+     Abstract Over the last decades, two large research fields, Software Configuration Management (SCM) and Software Product Line Engineering (SPLE  Software and its engineering→ Software product lines, Software and its engineering→ Empirical software validation Keywords and
+     Url https://drops.dagstuhl.de/opus/volltexte/2019/11379/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title An empirical study of performance using Clone & Own and software product lines in an industrial context
+     Author ['J Echeverría', 'F Pérez', 'JI Panach', 'C Cetina']
+     Venue Information and Software …
+     Year 2020
+     Abstract The Software Product Line (SPL) approach addresses the development of families of products with similar features, moving away from the production of isolated products  Keywords. Clone and Own. Software Product Line. Experiment. Empirical evaluation. 1. Introduction
+     Url https://www.sciencedirect.com/science/article/pii/S0950584920301968
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Eurostar E3000 Satellite On-Board Software Development of a product line towards multiple system needs
+     Author ['D Breton', 'A Rossignol']
+     Venue NA
+     Year 2006
+     Abstract Eurostar E3000 On board Software product line was settled to achieve these objectives  From a validation view point, the objective of the software validation for objects including data lists is to demonstrate the ability of importing and handling such data lists whatever their content
+     Url https://hal.archives-ouvertes.fr/hal-02270493/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Architecting for scale: the case for systematic software reuse in managing technical debt in start-ups
+     Author ['M Njima']
+     Venue Proceedings of the 13th European Conference on …
+     Year 2019
+     Abstract Software and its engineering → Software design tradeoffs; Software product lines; Maintaining software; Software usabil- ity; Empirical software validation; • Social and  There exists a significant body of knowledge on the transitioning to software product line for large companies
+     Url https://dl.acm.org/doi/abs/10.1145/3344948.3344950
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Value-based technical debt management: an exploratory case study in start-ups and scale-ups
+     Author ['M Njima', 'S Demeyer']
+     Venue Proceedings of the 2nd ACM SIGSOFT …
+     Year 2019
+     Abstract the interviews we found that depending on the life-cycle phase of the start-up software product line engineering proved  and its engineering → Software design tradeoffs; Software product lines; Maintaining software; Software usabil- ity; Empirical software validation; • Social and
+     Url https://dl.acm.org/doi/abs/10.1145/3340481.3342739
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Towards an automated product line architecture recovery: the Apo-Games case study
+     Author ['C Lima', 'WKG Assunção', 'J Martinez']
+     Venue Proceedings of the VII …
+     Year 2018
+     Abstract Software Product Line Engineering (SPLE) has been widely adopted for applying systematic reuse in families of systems  CCS CONCEPTS • Software and its engineering → Software product lines; Software architectures; Empirical software validation;
+     Url https://dl.acm.org/doi/abs/10.1145/3267183.3267187
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title A Generic method for assembling software product line components
+     Author ['D Correa Botero']
+     Venue NA
+     Year NA
+     Abstract Page 1. A Generic Method for Assembling Software Product Line Components Daniel Correa Universidad Nacional de Colombia  Medellín, Colombia 2020 Page 2. Page 3. A Generic Method for Assembling Software Product Line Components Daniel Correa
+     Url https://repositorio.unal.edu.co/handle/unal/77398
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Method and apparatus for generating virtual software platform based on component model and validating software platform architecture using the platform
+     Author ['K Son', 'J Kwon']
+     Venue US Patent 8,601,433
+     Year 2013
+     Abstract A software product line (SPL) system to effectively support development of multiple products based on reusability and variability in CE software development uses a method capable of performing automation of validation of a platform itself and implementation based on design
+     Url https://patents.google.com/patent/US8601433B2/en
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Use of Model-Based Software Product Line Engineering for Certifiable Avionics Software Development
+     Author ['N Sozen']
+     Venue NA
+     Year 2016
+     Abstract Page 1. UNIVERSITÉ DE MONTRÉAL USE OF MODEL-BASED SOFTWARE PRODUCT LINE ENGINEERING FOR CERTIFIABLE AVIONICS SOFTWARE DEVELOPMENT  Cette thèse intitulée: USE OF MODEL-BASED SOFTWARE PRODUCT LINE ENGINEERING FOR
+     Url https://publications.polymtl.ca/2492/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Yo variability! JHipster: a playground for web-apps analyses
+     Author ['A Halin', 'A Nuttinck', 'M Acher', 'X Devroey']
+     Venue Proceedings of the …
+     Year 2017
+     Abstract Software and its engineering → Software testing and debugging; Empirical software validation; Soft- ware  By combining configuration and generation in a constantly evolving stack of technologies, JHipster is akin to Mr Jour- dain's prose: a software product line initiative without
+     Url https://dl.acm.org/doi/abs/10.1145/3023956.3023963
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Automated product line test case selection: industrial case study and controlled experiment
+     Author ['S Wang', 'S Ali', 'A Gotlieb', 'M Liaaen']
+     Venue Software & Systems Modeling
+     Year 2017
+     Abstract Page 1. Softw Syst Model (2017) 16:417–441 DOI 10.1007/s10270-015-0462-4 SPECIAL SECTION PAPER Automated product line test case selection: industrial case study and controlled experiment Shuai Wang1,2 · Shaukat Ali1 · Arnaud Gotlieb1 · Marius Liaaen3
+     Url https://link.springer.com/content/pdf/10.1007/s10270-015-0462-4.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Systematic development of requirements documentation for general purpose scientific computing software
+     Author ['S Smith']
+     Venue 14th IEEE International Requirements Engineering …
+     Year 2006
+     Abstract Rather than document the NFRs in the CA this is left to the SRS, where the tradeoffs can be made explicit for a given program family member. Moreover, the SRS is a suitable place for describing how the NFRs will be vali- dated through the software validation strategy
+     Url https://ieeexplore.ieee.org/abstract/document/1704064/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title On the funding and economic evaluation of software product line practices
+     Author ['R Heinkens']
+     Venue NA
+     Year 2005
+     Abstract assets. Finally, management has to orchestrate both the aforementioned processes, including set- ting the roadmap for future evolution. Funding software product line activities  Measuring software product line practices Institutionalizing
+     Url http://fse.studenttheses.ub.rug.nl/8913/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Evolving a simulation model product line software architecture from heterogeneous model representations
+     Author ['KJ Greaney']
+     Venue NA
+     Year 2003
+     Abstract 181 B. PRODUCT LINES.....181 C. SOFTWARE PRODUCT LINES.....181 1. Potential Benefit of a Software Product Line.....184 2. Challenges for Software Product Lines
+     Url https://apps.dtic.mil/dtic/tr/fulltext/u2/a418550.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Colored Petri Nets formal transformation to B machines for safety critical software development
+     Author ['Z Boudi', 'S Collart-Dutilleul']
+     Venue 2015 International Conference …
+     Year 2015
+     Abstract IEEE Computer Society Press. [5] Guiho, G., Hennebert, C.: SACEM Software Validation  943-958, 2009. [24] Istoan, P.,: Methodology for the derivation of product behavior in a Software Product Line. PhD thesis, University of Rennes 1, University of Luxembourg, Feb 2013
+     Url https://ieeexplore.ieee.org/abstract/document/7380130/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Context, issues and solutions for automotive embedded software products
+     Author ['F Paganelli', 'L Bourgeois']
+     Venue NA
+     Year 2004
+     Abstract According to what is exposed in [cle02], there are no more places for opportunistic fine-grain re-use in a software product line. Re-use becomes a plan, enabled and organized activity  Coding Unit and integration Software validation tests Functional validation tests Acceptance
+     Url https://hal.archives-ouvertes.fr/hal-02271011/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Certification of Scientific Computing Software
+     Author ['G Sánchez', 'S Smith', 'N Nedialkov']
+     Venue NA
+     Year 2011
+     Abstract proof. However, in software validation (see §2.6), correctness refers to the suitability of the conceptual model for a problem, and then error refers to conceptual mis- takes pertaining to the corresponding application domain. Also
+     Url http://www.cas.mcmaster.ca/~sancheg/files/docs/McSCert_Report_2-Certification_of_Scientific_Computing%20Software.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Software Evolution in Time and Space: Unifying Version and Variability Management
+     Author ['T Berger', 'M Chechik', 'T Kehrer', 'M Wimmer']
+     Venue NA
+     Year NA
+     Abstract Over the last decades, two large research fields, Software Configuration Management (SCM) and Software Product Line Engineering (SPLE  Software and its engineering→ Software product lines, Software and its engineering→ Empirical software validation Keywords and
+     Url http://www.cse.chalmers.se/~bergert/paper/2019-dagstuhl19191-preprint.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Productization: Transforming from developing custom software to standard product software (validation)
+     Author ['K Güvendiren']
+     Venue NA
+     Year 2012
+     Abstract MASTER'S THESIS. Master's thesis. Augustus 2012. Status, Final, Version, V.01, Author: Kadri Guvendiren. Student number: 3376346. First supervisor: Sjaak Brinkkemper. Second supervisor: Slinger Jansen. MASTER'S THESIS. PRODUCTIZATION PROCESS
+     Url https://dspace.library.uu.nl/bitstream/handle/1874/255400/Master_scriptie_final_kadri.doc?sequence=1
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Certus: an organizational effort towards research-based innovation in software verification and validation
+     Author ['S Sen', 'D Marijan', 'A Gotlieb']
+     Venue International Journal of System Assurance …
+     Year 2018
+     Abstract for research-based innovation (Certus SFI) is a 5–8 year research centre within the area of software validation and verification  In: Proceedings of the 17th international software product line conference, pp 227–235Google Scholar. Potts C (1993) Software-engineering research
+     Url https://link.springer.com/article/10.1007/s13198-015-0352-8
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Establishing the state of the art of frameworks, methods and methodologies focused on lightening software process: A systematic literature review
+     Author ['J Miramontes', 'M Muñoz', 'JA Calvo-Manzano']
+     Venue Trends and Applications …
+     Year 2016
+     Abstract A lightweight approach to software validation by comparing UML use cases with internal program documentation selected via call graphs  SPLICE: A Lightweight Software Product Line Development Process for Small and Medium Size Projects
+     Url https://link.springer.com/chapter/10.1007/978-3-319-26285-7_7
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Controlling Software Complexity by Exploiting Software Similarity Patterns
+     Author ['S Jarzabek']
+     Venue NA
+     Year NA
+     Abstract group consisting of 10 specific interactions, plus the complexity of a generic representation (situation shown in Figure 1 (c)). Software validation and changes  In industrial software Product Line projects, feature combinations may lead to thousands of similar component versions6
+     Url http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.591.5315&rep=rep1&type=pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Managing Software Complexity with Power-Generics
+     Author ['S Jarzabek']
+     Venue Towards a Synergistic Combination of Research and …
+     Year 2018
+     Abstract Software validation and changes performed at the level of the generic components would be easier than at the level of concrete components due  structures also form natural units of reuse, potential building blocks for other similar systems (eg, forming a Software Product Line [5
+     Url https://link.springer.com/chapter/10.1007/978-3-319-65208-5_3
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Application Engineering for Embedded Systems
+     Author ['VH Fragal', 'RF Silva', 'IMS Gimenes', 'EAO Júnior']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Logics and Algorithms for Product and Family-Based Analysis of Software Product Lines
+     Author ['ZB Snaiba']
+     Venue NA
+     Year NA
+     Abstract The goal of a Software Product Line (SPL) is to provide standardised but customisable software systems in which we can tailor the features of the systems to the needs of the customer  Testing and simulation are widely used software validation techniques
+     Url https://pure.tue.nl/ws/portalfiles/portal/109403173/CSE659_verslag_ziad_ben_snaiba_Public.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title A technique for retrospective computer validation of drug manufacturing software
+     Author ['M Takahashi']
+     Venue International journal of computer applications …
+     Year 2009
+     Abstract GAMP's requirements. Page 4. 142 M. Takahashi Table 2 Work items in RCV Work items Development documents Software Validation IRCV Collecting documents N/A Collecting operating records, IQ, OQ, PQ MRCV Documents
+     Url https://www.inderscienceonline.com/doi/abs/10.1504/IJCAT.2009.026591
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title TESTING THE PRODUCT PROPAGATION
+     Author ['F Nordlund', 'S Åshäll']
+     Venue NA
+     Year NA
+     Abstract This chapter gives an introduction to the Software Engineering discipline and the software product line concept is introduced in that context  Software Validation and Verification The software verification and validation phase ensures that the system meets the specification and the
+     Url http://fileadmin.cs.lth.se/serg/upprepa/69_masterthesisreport.pdf
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Software testing: A survey and tutorial on white and black-box testing of C/C++ programs
+     Author ['M Nouman', 'U Pervez', 'O Hasan']
+     Venue 2016 ieee region 10 …
+     Year 2016
+     Abstract Similarly, the software validation process can also be described as a question, Either we are building the product which was demanded  Model- based pairwise testing for feature interaction coverage in software product line engineering
+     Url https://ieeexplore.ieee.org/abstract/document/7519409/
+
+
+     Search term "Software+Validation"+"Software+Product+Line"
+     Title Software test-code engineering: A systematic mapping
+     Author ['VG Yusifoğlu', 'Y Amannejad', 'AB Can']
+     Venue Information and Software …
+     Year 2015
+     Abstract JavaScript is disabled on your browser. Please enable JavaScript to use all the features on this page. Skip to main content Skip to article
+     Url https://www.sciencedirect.com/science/article/pii/S0950584914001487
+

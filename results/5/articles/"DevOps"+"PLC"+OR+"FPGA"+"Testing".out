@@ -1,0 +1,451 @@
+Showing papers for search query "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous integration and automation for DevOps
+     Author ['A Schaefer', 'M Reichenbach', 'D Fey']
+     Venue IAENG Transactions on Engineering …
+     Year 2013
+     Abstract The next section describes the basic infrastructure we build, while Sects. 28.3 and 28.4 describe the DevOps inspired parts  They are used for testing GPU codes and FPGA designs. The backup server is located off-site to increase disaster safety. 28.2 The Network
+     Url https://link.springer.com/chapter/10.1007/978-94-007-4786-9_28
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title A DevOps approach to integration of software components in an EU research project
+     Author ['M Stillwell', 'JGF Coutinho']
+     Venue … Workshop on Quality-Aware DevOps
+     Year 2015
+     Abstract In Section 3 we present a high-level view of the HARNESS DevOps workflow  5 we report our automated testing infrastructure and our novel methodology for testing full systems  a) VM and network resources managed by OpenStack [10], (b) networked FPGA devices managed
+     Url https://dl.acm.org/doi/abs/10.1145/2804371.2804372
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title SHIMMER and BioMOBIUS: A Health Research Platform
+     Author ['', 'J Awards', 'DR List', 'VAC Winners', 'WE is DevOps']
+     Venue NA
+     Year 2009
+     Abstract Informa Dr. Dobb's is part of the Informa Tech Division of Informa PLC. Informa PLC; About us; Investor relations; Talent. This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London
+     Url https://www.drdobbs.com/parallel/shimmer-and-biomobius-a-health-research/221700058?pgno=7
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous Integration of FPGA Designs for CMS
+     Author ['R Glein', 'A Perloff', 'K Ulmer']
+     Venue Topical Workshop on Electronics for Particle …
+     Year 2019
+     Abstract Figure 3 shows a screenshot of the CI pipeline. Note that due to the lack of a dedicated FPGA board for hardware testing, that portion of the CI workflow has been skipped  [Online]. Available: https://about.gitlab.com/devops-tools  Continuous Integration of FPGA Designs for CMS
+     Url https://s3.cern.ch/inspire-prod-files-8/8f534b5362f6cd8a16723f15cc1f57f4
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title DevOps: Advances in release management and automation
+     Author ['M Azoff']
+     Venue NA
+     Year 2011
+     Abstract DevOps: Advances in Release Management and Automation (OI00127-072  deployment: from check-in to production Solution allows this possibility with all automated testing included  without the prior permission of the publisher, Ovum (a subsidiary company of Datamonitor plc)
+     Url http://electric-cloud.co.jp/wp-content/uploads/2014/06/EC-IAR_Ovum-DevOps.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title A DevOps Approach to Integration of Software Components in an EU Research Project
+     Author ['MSJGF Coutinho']
+     Venue NA
+     Year 2015
+     Abstract A DevOps Approach to Integration of Software  MPC-XMPC-X DFE GPGPU FPGA OSDs/ MRCs  let developers easily work individually ▶ turn configuration/setup issues into software issues ▶ allow for version control, merging ▶ allow for automated acceptance testing
+     Url http://download.fortiss.org/public/pmwt/qudos2015/slides/ADevOpsApproachToIntegrationOfSoftwareComponentsInAnEUResearchProject.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Early risk identification in DevOps environments
+     Author ['DJ Dean', 'A Kochut', 'A Sailer', 'CO Schulz']
+     Venue US Patent 9,921,952
+     Year 2018
+     Abstract Assessing the risk of error before deployment may help DevOps managers decide whether to deploy or continue testing an application, and may minimize the impact of untested interactions, systems, platforms, architectures, etc
+     Url https://patents.google.com/patent/US9921952B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Identifying cause of incidents in the DevOps environment automatically
+     Author ['YN Doganata', 'JL Jones', 'DL Leigh']
+     Venue US Patent 9,740,478
+     Year 2017
+     Abstract A detailed description of the time series of data and causality testing aspects of the  Two types of data were collected in a DevOps environment  electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable
+     Url https://patents.google.com/patent/US9740478B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Continuous Integration and Automation
+     Author ['SM Mohammad']
+     Venue … Journal of Creative Research Thoughts (IJCRT) …
+     Year 2016
+     Abstract regression testing in continuous integration development environments. In FSE. [6] Hüttermann, M.,2012, “DevOps for developers,” Berkeley, CA: Apress. [7] Duvall, PM (2010)  hardware laboratory for remote FPGA experiments on real hardware. In
+     Url https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3655567
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing random number generators
+     Author ['J Dwyer', 'KB Williams']
+     Venue C/C++ Users Journal
+     Year 1996
+     Abstract This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726  RSS  Testing Random Number Generators
+     Url http://www.drdobbs.com/testing-random-number-generators/184403185
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Managing Memory on iOS
+     Author ['JRC Cruz', 'MRFD Edition', 'SL Android']
+     Venue NA
+     Year NA
+     Abstract RSS Testing  Copyright © 2020 Informa PLC. Informa PLC is registered in England and Wales with company number 8860726 whose registered and head office is 5 Howick Place, London, SW1P 1WG.
+     Url http://www.drdobbs.com/testing/managing-memory-on-ios/232200738?pgno=3
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Remote testing system and method
+     Author ['TA Roblett', 'GA Ward']
+     Venue US Patent 8,145,966
+     Year 2012
+     Abstract US8145966B2 - Remote testing system and method - Google Patents. Remote testing system and method. Download PDF Info  Abstract. A method and system of supporting and testing equipment distant from the support system are provided
+     Url https://patents.google.com/patent/US8145966B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Analyzing the Behaviour of Applying Agile Methodologies & DevOps Culture in e-Commerce Web Application
+     Author ['N Govil', 'M Saurakhia', 'P Agnihotri']
+     Venue … on Trends in …
+     Year 2020
+     Abstract operational teams together so that constant testing and delivery can take place  [16] https://www.einfochips.com/blog/how-devops-helps-e-commerce- businesses-gain-a  [18] Aprna Tripathi, Varsha Kumari, Nikhil Govil, "Impacts of PLC Reducer on Software Design Cohesiveness
+     Url https://ieeexplore.ieee.org/abstract/document/9142895/
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing random number generators, Part 2
+     Author ['J Dwyer', 'KB Williams']
+     Venue C/C++ Users Journal
+     Year 1996
+     Abstract Informa PLC's registered office is 5 Howick Place, London SW1P 1WG. Registered in England and Wales. Number 8860726  RSS  Testing Random Number Generators, Part 2. By Jerry Dwyer and KBWilliams, August 01, 1996
+     Url http://www.drdobbs.com/testing-random-number-generators-part-2/184403208
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title DevOps for Spacecraft Flight Software
+     Author ['C Heistand', 'J Thomas', 'N Tzeng']
+     Venue 2019 IEEE …
+     Year 2019
+     Abstract The team has established and implemented a DevOps architecture that has already benefited the DART mission, including successful integration testing with NASA's Evolutionary Xenon Thruster- Commercial (NEXT-C) electric propulsion system
+     Url https://ieeexplore.ieee.org/abstract/document/8742143/
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated and unattended process for testing software applications
+     Author ['P Macík']
+     Venue US Patent 8,739,125
+     Year 2014
+     Abstract This may be useful for a person to analyze testing progress and state of the tested application build  502 may also be one or more special-purpose processing devices such as an application specific integrated circuit (ASIC), a field programmable gate array (FPGA), a digital
+     Url https://patents.google.com/patent/US8739125B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Utilising CI environment for efficient and effective testing of NFRs
+     Author ['L Yu', 'E Alégroth', 'P Chatzipetrou', 'T Gorschek']
+     Venue Information and Software …
+     Year 2020
+     Abstract These two main research questions were separated into both SOTA and SOTP since we wanted to compare what academic studies state about CI-NFR testing to what actual  (“software”) AND (“continuous integration” OR “continuous deployment” OR “DevOps” OR “continuous
+     Url https://www.sciencedirect.com/science/article/pii/S095058491930206X
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Understanding how DevOps aligns development and operations: a tripartite model of intra-IT alignment
+     Author ['A Wiedemann', 'M Wiesche']
+     Venue European Journal of …
+     Year 2020
+     Abstract Such teams benefit from a high degree of automation that reduces arrangements and manual steps, for example, in testing. DevOps teams in Cases 2 and 8 achieved a high degree of process automation to resolve procedures (Mis-A2) by avoiding formerly necessary
+     Url https://orsociety.tandfonline.com/doi/abs/10.1080/0960085X.2020.1782277
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Identifying cause of incidents in the DevOps environment automatically
+     Author ['YN Doganata', 'JL Jones', 'DL Leigh']
+     Venue US Patent 9,710,258
+     Year 2017
+     Abstract A detailed description of the time series of data and causality testing aspects of the  Two types of data were collected in a DevOps environment  electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable
+     Url https://patents.google.com/patent/US9710258B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Maximize the synergies between ITIL and DevOps
+     Author ['A Orr']
+     Venue BMC Software
+     Year 2012
+     Abstract This effort includes design coordination, change management, release and deployment and service validation and testing (SVT)  Office on behalf of Her Majesty's Government in the United Kingdom and Capita plc to run  Maximize the synergies between ITIL® and DevOps 15
+     Url https://www.newhorizons.com/Portals/278/Documents/Maximize%20the%20Synergies%20Between%20ITIL%20and%20DevOps.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Systems and methods for hosting and testing services over a network
+     Author ['HJM Meijer', 'DA Manolescu', 'PAV Nielsen']
+     Venue US Patent 8,108,711
+     Year 2012
+     Abstract US8108711B2 - Systems and methods for hosting and testing services over a network - Google Patents. Systems and methods for hosting and testing services over a network. Download PDF Info  Communication symmetry is leveraged to facilitate testing of network services
+     Url https://patents.google.com/patent/US8108711B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated devops application deployment
+     Author ['K Jagannath', 'NR Prabhu', 'V Raj']
+     Venue US Patent App. 15/223,226
+     Year 2018
+     Abstract circuit such as an ASIC (application-specific integrated circuit), or in a dedicated FPGA (field-programmable gate  The DevOps toolchain is designed to promote collaboration, integration, and communication between development, operations, and testing/quality assurance
+     Url https://patents.google.com/patent/US20180032322A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Software development using DevOps tools and CD pipelines, A case study
+     Author ['O Jokinen']
+     Venue NA
+     Year 2020
+     Abstract Jost, M. 2018 Unrelated to study Managing quality assurance challenges of Devops through analytics  Unrelated to study Method of development and deployment of reconfigurable FPGA-based projects in  H. et.al 2018 Proceedings talk Strategy for continuous testing in iDevOps
+     Url https://helda.helsinki.fi/handle/10138/313590
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Securing the testing process for industrial automation software
+     Author ['M Eckhart', 'K Meixner', 'D Winkler', 'A Ekelhart']
+     Venue Computers & Security
+     Year 2019
+     Abstract analyze their experiences and viewpoints on software testing in depth. All male interviewees are working in different departments and are filling various roles, viz., (i) Project Manager in the department Automation Engineering, (ii) Head of the department PLC Programming, (iii
+     Url https://www.sciencedirect.com/science/article/pii/S0167404818314482
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Solid state drive applications in storage and embedded systems
+     Author ['S Siewert', 'D Nelson']
+     Venue Intel Technology Journal
+     Year 2009
+     Abstract Dr. Dobb's is part of the Informa Tech Division of Informa PLC  This site is operated by a business or businesses owned by Informa PLC and all copyright resides with them. Informa PLC's registered office is 5 Howick Place, London SW1P 1WG  Copyright © 2020 Informa PLC
+     Url https://www.drdobbs.com/architecture-and-design/solid-state-drive-applications-in-storag/224800023?pgno=5
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title A DevOps Reference Architecture for Multi-Cloud IoT Applications Deployment
+     Author ['G Bou Ghantous']
+     Venue NA
+     Year 2020
+     Abstract 37 Table 2.11: DevOps Practices Categories ..... 38 Table 2.12: DevOps Tools Categories  41 Table 2.21: Testing
+     Url https://opus.lib.uts.edu.au/handle/10453/140955
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Congnitive development of devops pipeline
+     Author ['XX Liu', 'JM Xu', 'Y Wang', 'JM Zhang']
+     Venue US Patent App. 15/622,558
+     Year 2018
+     Abstract Congnitive development of devops pipeline. Download PDF Info  G06F11/00—Error detection; Error correction; Monitoring; G06F11/36—Preventing errors by testing or debugging software; G06F11/3664—Environments for testing or debugging software
+     Url https://patents.google.com/patent/US20180364985A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Software development process improvements-Case QPR Software Plc
+     Author ['L Zalevskaya']
+     Venue NA
+     Year 2019
+     Abstract decision-making and improve their competitive advantage (QPR Software Plc, About QPR - Overview  by setting up Azure DevOps and code linting for Visual Studio Code  Beyond the scope of this study: Integrate code version control with CI&CD and automated testing
+     Url https://www.theseus.fi/handle/10024/265364
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Response-time baselining and performance testing capability within a software product
+     Author ['GC Covell', 'DJ Schlegel', 'PW Weiss']
+     Venue US Patent 9,910,756
+     Year 2018
+     Abstract US9910756B2 - Response-time baselining and performance testing capability within a software product - Google Patents. Response-time baselining and performance testing capability within a software product. Download PDF Info  Performance testing tool 610 in FIG
+     Url https://patents.google.com/patent/US9910756B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title ITIL® and DevOps
+     Author ['K Karu']
+     Venue NA
+     Year 2017
+     Abstract Continuous delivery is a DevOps software development practice where code changes are automatically built, tested and prepared for a release to production. It expands upon continuous integration by deploying all code changes to a testing environment and/or a production
+     Url https://metapm.com.au/wp-content/uploads/2018/03/ITIL-and-DevOps-Whitepaper.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Simplification of the design, deployment, and testing of 5G vertical services
+     Author ['M Femminella', 'M Pergolesi']
+     Venue NOMS 2020-2020 IEEE …
+     Year 2020
+     Abstract full solution for NFV management and orchestration, covering both design (ie DevOps) and runtime  are dynamically composed together), and also with the possibility to define testing conditions, metrics  The Master PLC component is a VNF included in an edge computing server
+     Url https://ieeexplore.ieee.org/abstract/document/9110401/
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Automated test input generation for integration testing of microservice-based web applications
+     Author ['S Rajagopalan', 'S Sinha']
+     Venue US Patent 10,261,891
+     Year 2019
+     Abstract US10261891B2 - Automated test input generation for integration testing of microservice- based web applications - Google Patents. Automated test input generation for integration testing of microservice-based web applications. Download PDF Info
+     Url https://patents.google.com/patent/US10261891B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Thermal Management for FPGA Nodes in HPC Systems
+     Author ['Y Luo', 'JC Zhao', 'A Aggarwal', 'S Ogrenci-Memik']
+     Venue ACM Transactions on …
+     Year 2020
+     Abstract bias. Each time, we make sure that the applications used for testing are different from the ones for training. Table 2 presents the average cross-validation RMSE and MAE of the four FPGA nodes resulted from each method. We
+     Url https://dl.acm.org/doi/abs/10.1145/3423494
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title TESTING AND RELEASE INFRASTRUCTURE IN THE CONTAINER WORLD
+     Author ['BA ORMANDY']
+     Venue NA
+     Year NA
+     Abstract machines can do better, faster and more consistently. This thesis documents the journey of Red Hat's DevOps team from manual to the automatic testing and deployments. The thesis will describe the original state, problems
+     Url https://dspace.vutbr.cz/bitstream/handle/11012/180415/final-thesis.pdf?sequence=12
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Testing and remediating compliance controls
+     Author ['CM Adam', 'RJ Cohen', 'R Filepp']
+     Venue US Patent App. 15 …
+     Year 2019
+     Abstract US20190075081A1 - Testing and remediating compliance controls - Google Patents. Testing and remediating compliance controls. Download PDF Info. Publication number US20190075081A1. US20190075081A1 US15/694,355
+     Url https://patents.google.com/patent/US20190075081A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Methods and systems for testing web applications
+     Author ['T Tuttle', 'J Waite', 'JEN Ping-Haur', 'P Gaikwad']
+     Venue US Patent …
+     Year 2020
+     Abstract FIG. 1 shows components of a system 100 for testing web applications, according to an exemplary embodiment  the dashboard server 112 may include a Web interface that runs Web pages from an Ethernet board and includes an HTTP protocol interpreter, a PLC back plane
+     Url https://patents.google.com/patent/US10719426B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Devops driven cognitive cost function for software defect prediction
+     Author ['A Sobran', 'Y Rane', 'B Zhang']
+     Venue US Patent App. 16/025,242
+     Year 2020
+     Abstract US20200004532A1 - Devops driven cognitive cost function for software defect prediction - Google Patents. Devops driven cognitive cost function for software defect prediction. Download PDF Info. Publication number US20200004532A1
+     Url https://patents.google.com/patent/US20200004532A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Smart Grid Communication Protocol Test Automation along with Protection Test Automation
+     Author ['SM Naik', 'M Fernandes']
+     Venue 2019 3rd International …
+     Year 2019
+     Abstract The DevOps concepts is been used since the technology is becoming advanced each and  Protection-And-Automation-Guide-2011 [3] Mattias Lehtosaari, “Integration testing of protection  of Modbus RTU and Modbus TCP Communication using SiemensS7-1200 PLC for Batch
+     Url https://ieeexplore.ieee.org/abstract/document/8862793/
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Designing a Competence Management System with Agile Methods: Case Silli Solutions PLC
+     Author ['E Niemi']
+     Venue MEDITERRANEAN CONFERENCE ON INFORMATION …
+     Year 2016
+     Abstract Moreover, the same team took full responsibility of development and operations (ie DevOps) mean- ing that  creating clean code from the beginning without a need for reactive testing and debugging  The Siili Solutions PLC CMS Knome is open for all its employees, partners, and
+     Url https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1023&context=mcis2016
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title FUNCTION-MESSAGE ORIENTED TEST CASE GENERATION FOR SUPPORTING CONTINUOUS GLOBALIZATION VERIFICATION TESTING
+     Author ['S Liu', 'D Anglin', 'F Yang', 'B Tzen']
+     Venue US Patent App. 16 …
+     Year 2020
+     Abstract test case generation for seamlessly supporting continuous globalization verification testing in DevOps  in first language, message content in a second language, testing locale environment  programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable
+     Url https://www.freepatentsonline.com/y2020/0242005.html
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title TIME-LIMITED DYNAMIC TESTING PIPELINES
+     Author ['K Jagannath', 'NR Prabhu']
+     Venue US Patent App. 16/675,658
+     Year 2020
+     Abstract to identify time-limits, various examples described herein may improve a devops system's ability  of an example apparatus 100 that may generate time-limited dynamic testing pipelines  application specific integrated circuit (ASIC), a field-programmable gate array (FPGA), and/or
+     Url https://www.freepatentsonline.com/y2020/0250078.html
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Function-message oriented test case generation for supporting continuous globalization verification testing
+     Author ['S Liu', 'D Anglin', 'F Yang', 'B Tzen']
+     Venue US Patent 10,698,793
+     Year 2020
+     Abstract FIG. 4 depicts an example block diagram of a system for function-message oriented test case generation for supporting continuous globalization verification testing in DevOps according to one or more embodiments of the present invention; FIG
+     Url https://patents.google.com/patent/US10698793B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Generating test scripts for testing a network-based application
+     Author ['A Yi']
+     Venue US Patent 10,248,552
+     Year 2019
+     Abstract In the procedure of testing the application, the development engineer may modify the program codes of the application based on  Especially, in the DevOps (Development & Operations) and other agile developments, such modifications to the application bring many changes to
+     Url https://patents.google.com/patent/US10248552B2/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Systems and methods for mainframe batch testing
+     Author ['JW Norton', 'JD Titlow', 'MW Holloway']
+     Venue US Patent …
+     Year 2018
+     Abstract US9916234B1 - Systems and methods for mainframe batch testing - Google Patents. Systems and methods for mainframe batch testing. Download PDF  62/106,002, entitled “Systems and Methods for Property-Based Validation Testing using a Finite-State Machine,” filed on Jan
+     Url https://patents.google.com/patent/US9916234B1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title PLC Virtualization and Software Defined Architectures in Industrial Control Systems
+     Author ['M Peltonen']
+     Venue NA
+     Year 2017
+     Abstract tion. When it comes to PLC virtualization, hardware assisted virtualization is the virtual  Containerization supports DevOps, continuous delivery and deployment and micro- services  teams, when building, testing and deploying your application occurs inside containers [18]
+     Url https://www.theseus.fi/handle/10024/134029
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Generating test scripts for testing a network-based application
+     Author ['A Yi']
+     Venue US Patent App. 16/200,706
+     Year 2019
+     Abstract In the procedure of testing the application, the development engineer may modify the program codes of the application based on  Especially, in the DevOps (Development & Operations) and other agile developments, such modifications to the application bring many changes to
+     Url https://patents.google.com/patent/US20190095319A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Machine learning enhanced optical-based screening for in-line wafer testing
+     Author ['RHK Chao', 'M Breton', 'H Huang', 'D Kong']
+     Venue US Patent App. 16 …
+     Year 2020
+     Abstract process employing machine learning techniques can classify a chip as “good” or “defective” prior to testing, and an  In some embodiments, electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable logic
+     Url https://patents.google.com/patent/US20200064275A1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Regression testing of new software version and deployment
+     Author ['C Padilla-Ruberte']
+     Venue US Patent 10,310,967
+     Year 2019
+     Abstract block 612, the sentinel engine 410 notifies the test team and/or the user that the regression testing is complete  In some embodiments, electronic circuitry including, for example, programmable logic circuitry, field-programmable gate arrays (FPGA), or programmable logic arrays
+     Url https://patents.google.com/patent/US10310967B1/en
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title High Performance Network Evaluation and Testing
+     Author ['A Pilimon']
+     Venue NA
+     Year 2018
+     Abstract NFV standardization activities, open source initia- tives and testing/performance benchmarking  Interconnect DCNs Data Center Networks DCs Data Centers DevOps Development and  Completion Time FIN Finish FMC Fixed-Mobile Convergence FPGA Field-Programmable
+     Url https://core.ac.uk/download/pdf/160015078.pdf
+
+
+     Search term "DevOps"+"PLC"+OR+"FPGA"+"Testing"
+     Title Generating test scripts for testing a network-based application
+     Author ['A Yi']
+     Venue US Patent 10,613,968
+     Year 2020
+     Abstract In the procedure of testing the application, the development engineer may modify the program codes of the application based on  Especially, in the DevOps (Development & Operations) and other agile developments, such modifications to the application bring many changes to
+     Url https://patents.google.com/patent/US10613968B2/en
+

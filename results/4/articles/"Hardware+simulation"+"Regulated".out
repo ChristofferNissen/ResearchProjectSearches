@@ -1,0 +1,451 @@
+Showing papers for search query "Hardware+simulation"+"Regulated"
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A wind speed estimation method using adaptive Kalman filtering for a variable speed stall regulated wind turbine
+     Author ['D Bourlis', 'JAM Bleijs']
+     Venue 2010 IEEE 11th International …
+     Year 2010
+     Abstract The hardware simulation results obtained by a hardware- in-the-loop simulator for stall regulated variable speed wind turbines confirm the ability of the control scheme to control a system which resembles an actual wind turbine by means of its dynamics
+     Url https://ieeexplore.ieee.org/abstract/document/5528980/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A complete control scheme for variable speed stall regulated wind turbines
+     Author ['D Bourlis', 'R Carriveau']
+     Venue … and advanced topics in wind power
+     Year 2011
+     Abstract the design process of the control system including the features and the importance of each part of the control system, hardware simulation results and finally conclusions and recommendations for future work. 3. Control strategy of a variable speed stall regulated wind turbine
+     Url https://books.google.com/books?hl=en&lr=&id=P9CPDwAAQBAJ&oi=fnd&pg=PA309&dq=%22Hardware+simulation%22+%22Regulated%22&ots=iDO-7k-Hh-&sig=fVmDdRcd67HNvQGve3WeJgsi0AE
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Examination of ambient pressure effects on hybrid solid oxide fuel cell turbine system operation using hardware simulation
+     Author ['D Tucker', 'L Lawson', 'J VanOsdol']
+     Venue … Expo: Power for …
+     Year 2006
+     Abstract a direct fired solid oxide fuel cell gas turbine hybrid power system has been studied using the Hybrid Performance (Hyper) project hardware simulation facility at  Since the Hyper facility is located in a test cell with a fairly well regulated temperature, a series of test was developed
+     Url https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2006/42398/449/315369
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Control of stall regulated variable speed wind turbine based on wind speed estimation using an adaptive Kalman filter
+     Author ['D Bourlis', 'JAM Bleijs']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware simulation of fuel cell/gas turbine hybrids
+     Author ['TP Smith']
+     Venue NA
+     Year 2007
+     Abstract Page 1. HARDWARE SIMULATION OF FUEL CELL / GAS TURBINE HYBRIDS A Dissertation Presented to The Academic Faculty By  May 2007 Copyright © 2007 by Thomas P. Smith Page 2. HARDWARE SIMULATION OF FUEL CELL / GAS TURBINE HYBRIDS Approved by
+     Url https://smartech.gatech.edu/handle/1853/14581
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware simulation with access restrictions
+     Author ['W Neifert', 'K Hotaling', 'J Marantz', 'A Ladd']
+     Venue US Patent App. 10 …
+     Year 2004
+     Abstract US20040093198A1 - Hardware simulation with access restrictions - Google Patents. Hardware simulation with access restrictions. Download PDF Info  US10/702,915 2002-11-08 2003-11-06 Hardware simulation with access restrictions Abandoned US20040093198A1 (en)
+     Url https://patents.google.com/patent/US20040093198A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Verification of a CubeSat via hardware-in-the-loop simulation
+     Author ['S Corpino', 'F Stesina']
+     Venue IEEE Transactions on Aerospace and …
+     Year 2014
+     Abstract HIL is a hybrid software/hardware simulation architecture, in which the hardware part can vary from a few pieces to the fully integrated system  Electrical power is stored in two battery packs, then regulated and distributed to other subsystems through two power buses at 3.3 V and
+     Url https://ieeexplore.ieee.org/abstract/document/6978879/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A novel integrated simulation and testing platform for self-driving cars with hardware in the loop
+     Author ['S Chen', 'Y Chen', 'S Zhang']
+     Venue IEEE Transactions on …
+     Year 2019
+     Abstract Simulation experiments on applying the HiL system are used to verify the validity of self-driving algorithms in virtual scenes, including perception  Besides, the transformation of coordinate systems between sensors or between sensors and the car is easier to be regulated than in
+     Url https://ieeexplore.ieee.org/abstract/document/8723561/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title DC-DC boost converter design for solar electric system
+     Author ['A Ponniran', 'AF Mat Said']
+     Venue NA
+     Year 2009
+     Abstract DC to DC converter (boost type) is successfully developed and constructed. The project is able to convert DC voltage, 12 V to regulated DC voltage 24 V. Table 6 shows the comparison between hardware, simulation and calculation estimation for several parameters
+     Url http://eprints.uthm.edu.my/id/eprint/1975
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A compact digitally controlled fuel cell/battery hybrid power source
+     Author ['Z Jiang', 'RA Dougal']
+     Venue IEEE Transactions on Industrial …
+     Year 2006
+     Abstract Rather than being controlled to serve only as a voltage or current regulator, the power converter is regulated to balance the power  Simulation and experiment results show that the control algorithm is able to correctly select the regulation mode and appropriately limit the fuel cell
+     Url https://ieeexplore.ieee.org/abstract/document/1667907/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Synchronized simulation of software and hardware in the analog domain
+     Author ['NJ Elias']
+     Venue US Patent 6,980,945
+     Year 2005
+     Abstract FIG. 2 is a process chart of steps for synchronizing operating software instruction activation with hardware simulation  The functional steps include, for example, start-up, maintaining a regulated power level for a predetermined time, initiating a second ignition if the first start up
+     Url https://patents.google.com/patent/US6980945B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Simulation of software objects generated from a hardware description
+     Author ['W Neifert', 'J Marantz', 'R Sayde', 'J Tatham']
+     Venue US Patent App. 10 …
+     Year 2004
+     Abstract US20040117167A1 - Simulation of software objects generated from a hardware description - Google Patents. Simulation of software objects generated from a hardware description. Download PDF Info. Publication number US20040117167A1
+     Url https://patents.google.com/patent/US20040117167A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware-in-the-loop simulation of FPGA embedded processor based controls for power electronics
+     Author ['O Jiménez', 'I Urriza', 'LA Barragán']
+     Venue 2011 IEEE …
+     Year 2011
+     Abstract The output voltage vo has to be regulated at Vo_ref = 5 V. Switch SWR is used to put in parallel an additional resistor in order to generate step load changes. qc SW Vg + - D C vo + RC iL + - RL RO SWR RO - H⋅vo VSW ADC L RS RS d(n) FPGA CLK PLB Bus MicroBlaze®
+     Url https://ieeexplore.ieee.org/abstract/document/5984385/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Modelling of Photovoltaic Systems for Real-Time Hardware Simulation
+     Author ['H Palahalli', 'Y Huo', 'G Gruosso']
+     Venue ELECTRIMACS 2019
+     Year 2020
+     Abstract ELECTRIMACS 2019 pp 3-15 | Cite as. Modelling of Photovoltaic Systems for Real-Time Hardware Simulation. Authors; Authors  drops. Power will be compensated by the energy stored and the voltage is brought regulated. When
+     Url https://link.springer.com/chapter/10.1007/978-3-030-37161-6_1
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Simulation & verification of new architectures for Galileo navigation signal demodulation
+     Author ['S Fischer', 'S Berberich', 'J Heim', 'PA Krauss']
+     Venue … of the Satellite Division of The …
+     Year 2003
+     Abstract providers. The next signal is the Public Regulated Service (PRS) which uses encrypted codes and data  codes. Hardware simulation results In order to verify the generation of the Galileo BOC signals, a BOC(2,1) signal is first generated
+     Url https://www.ion.org/publications/abstract.cfm?articleID=5387
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title BOC (x, y) signal acquisition techniques and performances
+     Author ['N Martin', 'V Leblond', 'G Guillotel', 'V Heiries']
+     Venue … of the Satellite Division of The …
+     Year 2003
+     Abstract plan proposes to use BOC modulation for Open Service (OS), Safety of Life Service (SOL) and even Public Regulated Service (PRS  Hardware simulation: In order not to have a prohibitive (and pointless) computation time, the true correlation process is not simulated based on a
+     Url https://www.ion.org/publications/abstract.cfm?articleID=5194
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Methods and regulated gaming machines configured for service oriented smart display buttons
+     Author ['TB De Courssou', 'CA Filipour']
+     Venue US Patent 8,147,340
+     Year 2012
+     Abstract US8147340B2 - Methods and regulated gaming machines configured for service oriented smart display buttons - Google Patents. Methods and regulated gaming machines configured for service oriented smart display buttons. Download PDF Info
+     Url https://patents.google.com/patent/US8147340B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Benchmarking model variants in development of a hardware-in-the-loop simulation system
+     Author ['ED Aretskin-Hariton', 'AM Zinnecker', 'JL Kratz', 'DE Culley']
+     Venue NA
+     Year 2016
+     Abstract To improve hardware simulation capability of the C-MAPSS40k system, a framework based around the IEEE 1451  6 represents reference demands for EPR (the value tracked by the controller) and fuel flow (which is regulated by the FMV); the other lines show the response of
+     Url https://ntrs.nasa.gov/search.jsp?R=20160004952
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Dosimetric Detector Hardware Simulation Model Based on Modified Additive Fibonacci Generator
+     Author ['V Maksymovych', 'M Mandrona']
+     Venue … Conference on Computer …
+     Year 2019
+     Abstract Hardware simulation models of dosimetric detectors can be used at the stages of design, adjustment and testing of dosimetric devices  ijigsp.2013.07.05CrossRefGoogle Scholar. 4. Khan, MRR, Kang, SW: Design and development of low-cost, highly stable regulated high-voltage
+     Url https://link.springer.com/chapter/10.1007/978-3-030-16621-2_15
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Lyapunov-based control for three-phase PWM AC/DC voltage-source converters
+     Author ['H Komurcugil', 'O Kukrer']
+     Venue IEEE Transactions on Power …
+     Year 1998
+     Abstract Experimental results, obtained with a microcontroller-based hardware simulation circuit of the converter, are also presented to verify the theoretical considerations. II  and . Note that in the hardware simulation circuit, voltages, and currents are scaled by a factor of ten
+     Url https://ieeexplore.ieee.org/abstract/document/712278/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Flexible energy-aware simulation of heterogenous wireless sensor networks
+     Author ['F Fummi', 'G Perbellini', 'D Quaglia']
+     Venue … Design, Automation & …
+     Year 2009
+     Abstract an mterrupt amves, the value of program counter IS changed accordmgly to execute the correspondmg serVIce fOlltme Hardware simulation is implemented by  The trade-off depends on the characteristics of the control law by which the core frequency is regulated depending on
+     Url https://ieeexplore.ieee.org/abstract/document/5090926/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Generation of software objects from a hardware description
+     Author ['W Neifert', 'J Marantz', 'R Sayde', 'J Tatham']
+     Venue US Patent App. 10 …
+     Year 2005
+     Abstract US20050055675A1 - Generation of software objects from a hardware description - Google Patents. Generation of software objects from a hardware description. Download PDF Info. Publication number US20050055675A1. US20050055675A1
+     Url https://patents.google.com/patent/US20050055675A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Microgrid frequency regulation using wind turbine controls
+     Author ['KJ Bunker', 'WW Weaver']
+     Venue 2014 Power and Energy Conference …
+     Year 2014
+     Abstract However, there are several issues that can arise with the use of microgrids. For example, when the microgrid is grid connected, the frequency is regulated by the grid  1 shows the scaled system that is used in computer and hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6804545/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware In the Loop (HIL) simulation of wind turbine power control
+     Author ['T Puleva', 'G Rouzhekov', 'T Slavov', 'B Rakov']
+     Venue NA
+     Year 2016
+     Abstract algorithms is presented. It is based on application of programmable logical controller (PLC) and on plant dynamics simulator. A system for hardware simulation of control algorithms is developed. Its structure and characteristics
+     Url https://digital-library.theiet.org/content/conferences/10.1049/cp.2016.1053
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A novel digital power controller for fuel cell/battery hybrid power sources
+     Author ['Z Jiang', 'RA Dougal', 'R Leonard']
+     Venue Twentieth Annual IEEE …
+     Year 2005
+     Abstract The power converter needs to be regulated to balance the power flow to satisfy the load requirements while ensuring the various limitations of electro- chemical components such as battery overcharge limit, fuel cell  Simulation and experiment results are given in the paper
+     Url https://ieeexplore.ieee.org/abstract/document/1452978/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title FPGA based Hardware-in-the-Loop Simulation for Digital Control of Power Converters using VHDL-AMS
+     Author ['AD Benhamadouche', 'A Ballouti', 'F Djahli']
+     Venue INTERNATIONAL …
+     Year 2018
+     Abstract to find the best way to bring together FPGA prototyping and VHDL-AMS modeling in an advanced software/hardware simulation platform  to validate our approach and to demonstrate its effectiveness, results of the implementation and simulation of a regulated power converter
+     Url http://13.233.42.234/Downloads/Volume9No12/Paper_73-FPGA_based_Hardware_in_the_Loop_Simulation.pdf
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Control Algorithms and Implementation for Variable Speed Stall Regulated Wind Turbines
+     Author ['D Bourlis']
+     Venue NA
+     Year 2011
+     Abstract 12 1.3.2. Variable Speed Wind turbines ..... 12 1.3.3. Power limitation-pitch and stall regulated wind turbines ..... 13  92 4.8.1.4.Hardware simulation results of Multiple Model Adaptive Estimator ..... 93 Page 7. 3
+     Url https://leicester.figshare.com/articles/Control_algorithms_and_implementation_for_variable_speed_stall_regulated_wind_turbines/10168340/files/18325217.pdf
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A power hardware-in-loop based testing bed for auxiliary active power control of wind power plants
+     Author ['Y Zhou', 'J Lin', 'Y Song', 'Y Cai', 'H Liu']
+     Venue Electric Power Systems Research
+     Year 2015
+     Abstract One more method is based on hardware simulation or offline recording, such as the apparatus namely Gridsim used by State Grid of  power, the damping controller of WPP suppresses oscillation efficiently through variation of wind farm active power output regulated according to
+     Url https://www.sciencedirect.com/science/article/pii/S0378779615000589
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Requirements Analysis for a Hardware, Discrete-Event, Simulation Engine Accelerator.
+     Author ['PJ Taylor Jr']
+     Venue NA
+     Year 1991
+     Abstract research use. 1.5 Scope Implementation of a specific hardware simulation accelerator was not the goal of this effort  1-6 Page 18. Simulation instructions and data along with CPU interface and control signals were used for accelerator design evaluation
+     Url https://apps.dtic.mil/sti/citations/ADA244202
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hybrid type satellite simulation system and method thereof
+     Author ['SU Lee', 'J Kim', 'HJ Lee', 'SP Lee']
+     Venue US Patent App. 11/182,133
+     Year 2006
+     Abstract signals in satellite systems. KR101600772B1 (en) *, 2014-09-02, 2016-03-09, 한국항공우주연구원, The Method for Tracking Nonlinear Aircraft Utilizing Regulated Point Mass Flight Dynamic Model. CN106094563A (en) *, 2016-06
+     Url https://patents.google.com/patent/US20060100846A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Humanoid Hand Moment by Using Threading and Screwing Mechanism
+     Author ['RP SUPPLY']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Real-time Validation of Formation Control for Fixed-wing UAVs using Multi Hardware-in-the-Loop Simulation
+     Author ['D Kang', 'SH Kim', 'D Jung']
+     Venue 2019 IEEE 15th International …
+     Year 2019
+     Abstract computer feeds the calculated control deflection to the simulator computers as input to the 6-DOF model, which complete the hardware simulation loop  In here, the speed control is rendered to reduce the along-track error while the lateral error is regulated by the heading rate
+     Url https://ieeexplore.ieee.org/abstract/document/8899577/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Optimized execution of software objects generated from a hardware description
+     Author ['W Neifert', 'J Marantz', 'R Sayde', 'J Tatham']
+     Venue US Patent App. 10 …
+     Year 2004
+     Abstract US20040122644A1 - Optimized execution of software objects generated from a hardware description - Google Patents. Optimized execution of software objects generated from a hardware description. Download PDF Info. Publication
+     Url https://patents.google.com/patent/US20040122644A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Global analysis of software objects generated from a hardware description
+     Author ['W Neifert', 'J Marantz', 'R Sayde', 'J Tatham']
+     Venue US Patent App. 10 …
+     Year 2004
+     Abstract US20040117168A1 - Global analysis of software objects generated from a hardware description - Google Patents. Global analysis of software objects generated from a hardware description. Download PDF Info. Publication number
+     Url https://patents.google.com/patent/US20040117168A1/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Real-time triggering of a Functional Electrical Stimulation device using Electroencephalography-a hardware simulation study
+     Author ['G Aggarwal']
+     Venue NA
+     Year 2014
+     Abstract hardware simulation study Gorish Aggarwal Page 3  SCP amplitudes are regulated within tight limits by a negative feedback-loop consisting of a cortical-basal ganglia threshold regulation system that maintains cortical activation within acceptable medium limits
+     Url https://hal.inria.fr/hal-01064082/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware Simulation for Testing IEC 61131-3
+     Author ['J Holmqvist', 'A Ulander']
+     Venue MSc Theses
+     Year 2005
+     Abstract The databases were found at Lund's University Library and typical search strings were ”hardware simulation”, ”process simulation”, ”IEC 61131-3  The separator is driven by an asynchronous induction motor regulated by a VFD (Variable Frequency Drive) and connected to the
+     Url https://lup.lub.lu.se/student-papers/record/8847881
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title PLC based intelligent traffic control system
+     Author ['MA Khattak']
+     Venue International Journal of Electrical & Computer Sciences …
+     Year 2011
+     Abstract Hardware simulation tests were successfully performed on the algorithm implemented into a PLC (programmable logic controller)  The T100MD2424+ PLC requires a single regulated, 12 to 24V (+/- 5% ripple) DC power supply for the CPU and I/Os (as shown in Figure 1). It is
+     Url https://www.academia.edu/download/53128853/110606-9494-IJECS-IJENS.pdf
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Protodrive: Simulation of electric vehicle powertrains
+     Author ['S Diaz']
+     Venue NSF summer undergraduate fellowship in sensor …
+     Year 2012
+     Abstract A portable power train platform, known as Protodrive, is here to provide a stage in between pure software simulation and full-scale hardware simulation  728-733. [6] PT Moseley, "High-rate, valve-regulated lead-acid batteries-suitable for hybrid electric vehicles?" in
+     Url https://sunfest.seas.upenn.edu/wp-content/uploads/2018/07/12-diaz.pdf
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware in the loop simulation for tension leveler
+     Author ['A Bukvić', 'N Tošić', 'V Dimitrijević', 'M Bebić']
+     Venue NA
+     Year NA
+     Abstract Speed regulated drives receive linear velocity reference which is generated in PLC as a ramp and is sent in cascade  IV. REALIZATION OF SIMULATION Hardware configuration of the PLC that controls tension leveler is emulated by dedicated hardware, Simulation Unit PN
+     Url http://www.empr.ftn.kg.ac.rs/test%20site/Radovi_TR33016/2016/M33%20IcETRAN%202016%20Bukvic/M33%20IcETRAN%202016%20Bukvic.pdf
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Synchronization of distributed simulation nodes by keeping timestep schedulers in lockstep
+     Author ['SA Sivier', 'CB Frankel', 'C Cavanagh']
+     Venue US Patent …
+     Year 2006
+     Abstract US7020722B2 - Synchronization of distributed simulation nodes by keeping timestep schedulers in lockstep - Google Patents. Synchronization of distributed simulation nodes by keeping timestep schedulers in lockstep. Download PDF Info
+     Url https://patents.google.com/patent/US7020722B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware in the loop model for irregular conditions in tension leveler applications
+     Author ['N Tošić', 'A Bukvić', 'V Dimitrijević']
+     Venue 2016 4th International …
+     Year 2016
+     Abstract Speed regulated drives receive linear velocity reference after ramp which is generated in PLC and is sent in cascade structure  REALZATION OF SIMULATION Hardware configuration of the PLC that controls tension leveler is emulated by dedicated hardware, Simulation Unit PN
+     Url https://ieeexplore.ieee.org/abstract/document/7748816/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Benchmarking Variants of a Hardware-in-the-Loop Simulation System
+     Author ['E Aretskin-Hariton', 'A Zinnecker', 'JL Kratz']
+     Venue AIAA Modeling and …
+     Year 2016
+     Abstract To improve hardware simulation capability of the C-MAPSS40k system, a framework based around the IEEE 1451  6 represents reference demands for EPR (the value tracked by the controller) and fuel flow (which is regulated by the FMV); the other lines show the response of
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2016-1425
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Effect of solar cell capacitance and interface cable inductance on the shunt switch current transients in spacecraft power conditioning unit
+     Author ['T Eshappa', 'R Ranjan']
+     Venue … Conference on Recent …
+     Year 2014
+     Abstract Spacecraft Bus is regulated with switching shunt voltage regulator having photovoltaic cells as the primary source of power  Hardware simulation by illuminating solar panel interfaced to a power condition unit with actual spacecraft cable length is a difficult approach
+     Url https://ieeexplore.ieee.org/abstract/document/6909298/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Hardware-in-the-Loop Assessment Methods
+     Author ['VH Nguyen', 'QT Tran', 'E Guillo-Sansano']
+     Venue European Guide to …
+     Year 2020
+     Abstract Due to the addition of the hardware/simulation interface, thus various external disturbances (especially the time delay), HIL experiments are sensitive in terms of stability and  The bus voltage in the microgrid is then regulated according to the three optimization criteria (Fig. 10)
+     Url https://link.springer.com/chapter/10.1007/978-3-030-42274-5_4
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A hybrid fuel cell power supply with rapid dynamic response and high peak-power capacity
+     Author ['Z Jiang', 'RA Dougal']
+     Venue Twenty-First Annual IEEE Applied Power …
+     Year 2006
+     Abstract This concept is then verified by numerical simulation and validated on real hardware. Simulation and experimental results are given. 1250  2, is selected to adapt the low DC voltage output from the fuel cell, which is about 18V at rated power, to the 28V regulated bus voltage
+     Url https://ieeexplore.ieee.org/abstract/document/1620699/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title A compiler for biological networks on silicon chips
+     Author ['JK Medley', 'J Teo', 'SS Woo', 'J Hellerstein']
+     Venue PLoS computational …
+     Year 2020
+     Abstract Author summary We present a “silicon compiler” that is capable of translating biochemical models encoded in the SBML standard into specialized analog cytomorphic hardware and transfer function–level simulations of such hardware. We show how the compiler and hardware address
+     Url https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008063
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Control and simulation for hybrid solid oxide fuel cell power systems
+     Author ['M Xu', 'C Wang', 'Y Qiu', 'B Lu', 'FC Lee']
+     Venue Twenty-First Annual …
+     Year 2006
+     Abstract uncontrolled. However, in the real implementation of the SOFC, the fuel cell output voltage is regulated by adjusting the inlet gas flow rate  together. The fuel cell channel handles most of the load power with regulated output voltage
+     Url https://ieeexplore.ieee.org/abstract/document/1620702/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Device and method for the simulation of a development system
+     Author ['M Walenta', 'M Klöckl', 'M Krainz']
+     Venue US Patent 8,825,460
+     Year 2014
+     Abstract For this purpose said test benches are controlled and regulated by dedicated automation systems, such as the PUMA series by the applicant  The hardware simulator 26 may supply hardware simulation data 27 to the development system 1 via the interface 8. For this purpose
+     Url https://patents.google.com/patent/US8825460B2/en
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Simulation and analysis of desulfator for smart battery system
+     Author ['KL Man', 'EG Lim', 'M Leach', 'JK Lee']
+     Venue 2014 International SoC …
+     Year 2014
+     Abstract Nowadays, the revolutionary developed valve regulated lead-acid (VRLA) batteries is widespread and used in transport vehicles, information technologies and energy  The circuit design and the relevant parameter calculations are validated through real hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/7087682/
+
+
+     Search term "Hardware+simulation"+"Regulated"
+     Title Advanced real-time powertrain systems analysis
+     Author ['BK Powell', 'GP Lawson', 'G Hogh']
+     Venue NA
+     Year 1988
+     Abstract Generally, the primary ADIO application is in aerospace hardware simulation, development, and testing, being used for tasks in which analog or classical  operation consists of procedures to run the engine/dynamometer at a fixed rpm over a series of regulated torque level
+     Url https://asmedigitalcollection.asme.org/gasturbinespower/article-abstract/110/3/325/407871
+

@@ -1,0 +1,91 @@
+Showing papers for search query "Case+Study"+"Continuous"+"Hardware+simulation"
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hardware-in-the-loop simulation of power electronic systems using adaptive discretization
+     Author ['MOO Faruque', 'V Dinavahi']
+     Venue IEEE transactions on industrial …
+     Year 2009
+     Abstract The voltage source converter (VSC) based HVDC sys- tem is used as a case study. Two  paramount. Therefore, the method used to discretize the continuous-time system model is a key factor influencing simulation accuracy
+     Url https://ieeexplore.ieee.org/abstract/document/5340670/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Different types of hardware-in-the-loop simulation for electric drives
+     Author ['A Bouscayrol']
+     Venue 2008 IEEE International Symposium on …
+     Year 2008
+     Abstract high chopper frequency of the emulation part would be useful to impose a continuous current idcm  Florida, June 2007 [23] GG Parma, V. Dinavahi, “Real-Time Digital Hardware Simulation of Power  real-time hardware-in-the- loop simulation for rail vehicles: A case study”, EPE'97
+     Url https://ieeexplore.ieee.org/abstract/document/4677304/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Characteristics and design of power hardware-in-the-loop simulations for electrical power systems
+     Author ['GF Lauss', 'MO Faruque', 'K Schoder']
+     Venue IEEE Transactions …
+     Year 2015
+     Abstract Page 1. 0278-0046 (c) 2015 IEEE. Personal use is permitted, but republication/ redistribution requires IEEE permission. See http://www.ieee.org/ publications_standards/publications/rights/index.html for more information. This
+     Url https://ieeexplore.ieee.org/abstract/document/7177085/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title A hardware-in-the-loop based co-simulation platform of cyber-physical power systems for wide area protection applications
+     Author ['Y Tang', 'W Tai', 'Z Liu', 'M Li', 'Q Wang', 'Y Liang', 'L Huang']
+     Venue Applied Sciences
+     Year 2017
+     Abstract Typical power system simulators apply the discrete step to approximate the continuous process, while  Moreover, to verify the proposed platform, a case study of wide area load control  simulation speed, and close practicality; (2) the application of a hardware simulation into the
+     Url https://www.mdpi.com/2076-3417/7/12/1279
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title PHEVs charging stations, communications, and control simulation in real time
+     Author ['L Herrera', 'R Murawski', 'F Guo', 'E Inoa']
+     Venue 2011 IEEE Vehicle …
+     Year 2011
+     Abstract have been developed, most focus on one aspect in modeling, either continuous (power electronics  In section V, a case study is shown to demonstrate the capabilities of the current  OPNET that can bridge the OPNET network simulation with the hardware simulation described in
+     Url https://ieeexplore.ieee.org/abstract/document/6043167/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Matlab/simulink generated FPGA based real-time HIL simulator and DSP controller: A case study
+     Author ['Z Suto', 'T Debreceni', 'T Kokenyesi', 'A Futo']
+     Venue Proceedings of the …
+     Year 2014
+     Abstract (a) Typical PWM and current signals (Continuous Current Conduction)  The paper reported the development of a case study for creating a HIL simulation environment for power elec- tronic systems  [4] GG Parma and V. Dinavahi, “Real-time digital hardware simulation of power
+     Url http://icrepq.com/icrepq'14/357.14-Suto.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Hybrid modeling of power electronic system for hardware-in-the-loop application
+     Author ['C Liu', 'R Ma', 'H Bai', 'Z Li', 'F Gechter', 'F Gao']
+     Venue Electric Power Systems …
+     Year 2018
+     Abstract At last, a comparative case study of traction system in the electrical locomotive train is also presented. For this case study, implementations are made on a Field Programmable Gate Arrays (FPGA) Kintex-7 embedded in National Instruments FlexRIO PXIe-7975
+     Url https://www.sciencedirect.com/science/article/pii/S0378779618301913
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Volume rendering multivariate data to visualize meteorological simulations: a case study.
+     Author ['J Kniss', 'CD Hansen', 'M Grenier', 'T Robinson']
+     Venue VisSym
+     Year 2002
+     Abstract This case study applies the ideas and techniques from multi-dimensional transfer function based volume rendering to the multivariate weather  Classic warm frontal weather consists of continuous rain, with possibly some embedded convec- tion, while cold fronts tend to produce
+     Url https://www.researchgate.net/profile/Joe_Kniss/publication/262237652_Volume_rendering_multivariate_data_to_visualize_meteorological_simulations_a_case_study/links/552c55b10cf21acb0920c793/Volume-rendering-multivariate-data-to-visualize-meteorological-simulations-a-case-study.pdf
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title FPGA-based detailed real-time simulation of power converters and electric machines for EV HIL applications
+     Author ['L Herrera', 'C Li', 'X Yao', 'J Wang']
+     Venue IEEE transactions on industry …
+     Year 2014
+     Abstract is a (interpolated) function describing the nonlinear saturated region. In order to make sure there is a smooth transition between the unsaturated to saturated region or vice versa, it is required that the function |λm|(|im|) ∈ C1, ie, continuous and with continuous first derivative
+     Url https://ieeexplore.ieee.org/abstract/document/6880790/
+
+
+     Search term "Case+Study"+"Continuous"+"Hardware+simulation"
+     Title Real time simulation for the study on smart grid
+     Author ['F Guo', 'L Herrera', 'R Murawski', 'E Inoa']
+     Venue 2011 IEEE Energy …
+     Year 2011
+     Abstract This work provides an example of combining discrete and continuous software to study communication  A. Model Description A smart grid model based on case study one is combined  for use with OPNET that bridges the OPNET network simulation with the hardware simulation
+     Url https://ieeexplore.ieee.org/abstract/document/6063883/
+

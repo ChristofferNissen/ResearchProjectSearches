@@ -1,0 +1,451 @@
+Showing papers for search query "Software+Validation"+OR+"Software+Verification"+"Traceability"
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux']
+     Venue ACM SIGSOFT Software …
+     Year 2005
+     Abstract Automated test case and test driver generation from a formal model is becoming a more widely used practice in the smart card area. This innovative approach for validation testing makes it possible to ensure the functional coverage of the test suite and to automate the
+     Url https://dl.acm.org/doi/abs/10.1145/1082983.1083282
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software verification and validation research laboratory (svvrl) of the university of kentucky: traceability challenge 2011: language translation
+     Author ['JH Hayes', 'H Sultanov', 'WK Kong', 'W Li']
+     Venue … Traceability in Emerging Forms …
+     Year 2011
+     Abstract We present the process and methods applied in undertaking the Traceability Challenge in addressing Grand Challenge C-GC1-Trace recovery. The Information Retrieval methods implemented in REquirementsTRacing On target .NET (RETRO .NET) were applied to the
+     Url https://dl.acm.org/doi/abs/10.1145/1987856.1987868
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title RELAP-7 Software Verification and Validation Plan: Requirements Traceability Matrix (RTM) Part 1–Physics and numerical methods
+     Author ['YJ Choi', 'JS Yoo', 'CL Smith']
+     Venue NA
+     Year 2015
+     Abstract This INL plan comprehensively describes the Requirements Traceability Matrix (RTM) on main physics and numerical method of the RELAP-7. The plan also describes the testing-based software verification and validation (SV&V) process—a set of specially designed
+     Url https://www.osti.gov/biblio/1245692
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Traceability Challenge 2013: Statistical analysis for traceability experiments: Software verification and validation research laboratory (SVVRL) of the University of …
+     Author ['M Hays', 'JH Hayes', 'AJ Stromberg']
+     Venue … on Traceability in …
+     Year 2013
+     Abstract An important aspect of traceability experiments is the ability to compare techniques. In order to assure proper comparison, it is necessary to perform statistical analysis of the dependent variables collected from technique application. Currently, there is a lack of components in
+     Url https://ieeexplore.ieee.org/abstract/document/6620161/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Linking functional requirements and software verification
+     Author ['H Post', 'C Sinz', 'F Merz', 'T Gorges']
+     Venue 2009 17th IEEE …
+     Year 2009
+     Abstract and implementation centric tests remains a challenge that is usually addressed by requirements reviews with testers and traceability policies. The claim of this work is that link- ing requirements, their scenario-based formalizations, and software verification provides a promising
+     Url https://ieeexplore.ieee.org/abstract/document/5328506/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Automated requirements traceability: The study of human analysts
+     Author ['D Cuddeback', 'A Dekhtyar']
+     Venue 2010 18th IEEE …
+     Year 2010
+     Abstract The requirements traceability matrix (RTM) sup- ports many software engineering and software verification and validation (V&V) activities such as change impact analysis, reverse engineering, reuse, and regression testing
+     Url https://ieeexplore.ieee.org/abstract/document/5636537/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Traceability Challenge 2013: Query+ enhancement for semantic tracing (QuEST): Software verification and validation research laboratory (SVVRL) of the University of …
+     Author ['W Li', 'JH Hayes']
+     Venue … 7th International Workshop on Traceability in …
+     Year 2013
+     Abstract We present the process and methods applied in undertaking the Traceability Challenge in addressing the Ubiquitous Grand Challenge, Research Project 3. Terms contained within queries (along with document collection terms, hence the “+”) have been enhanced to
+     Url https://ieeexplore.ieee.org/abstract/document/6620162/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software Verification and Validation on Object Oriented Software Development Using Traceability Matrix
+     Author ['HP Putro', 'AF Wibowo']
+     Venue 2018 Third International Conference on …
+     Year 2018
+     Abstract Traceability matrix is a software testing model which trace all the requirements displayed in matrix form. The various attributes of each requirement will be tracked throughout the development cycle. It will give chances to trace not only the requirement artifact but also
+     Url https://ieeexplore.ieee.org/abstract/document/8780518/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title OVERVIEW OF EMRP JOINT RESEARCH PROJECT NEW06 “TRACEABILITY FOR COMPUTATIONALLY-INTENSIVE METROLOGY”
+     Author ['AB Forbes', 'IM Smith', 'F Härtig']
+     Venue … and computational tools in …
+     Year 2015
+     Abstract An ultimate goal of the JRP is to establish an information and communications infrastructure for software validation. The steps required to reach this goal are described. Keywords: Traceability, software validation 1. Introduction
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789814678629_0019
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software validation made simple
+     Author ['A Remillard']
+     Venue … Ninth IEEE Symposium on Computer-Based …
+     Year 1996
+     Abstract Software Validation Made Simple  A complete software traceability matrix can facilitate a smooth test plan implementation process and is a helpful tool in  According to the IEEE Standard for Software Verification and Validation Plans, the definition of validation is the process of
+     Url https://ieeexplore.ieee.org/abstract/document/507122/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title RELAP-7 Software Verification and Validation Plan: Requirements Traceability Matrix (RTM) Update and Code Verification Strategy
+     Author ['J Yoo', 'YJ Choi']
+     Venue NA
+     Year 2017
+     Abstract This document describes the recent progress of the RELAP-7 Software Verification and Validation Plan (SVVP). The RELAP-7 RTM has been updated by adding the validation requirement items, rearranging the requirement items, and introducing the classifier to better
+     Url https://www.osti.gov/biblio/1468537
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title RELAP-7 Software Verification and Validation Plan-Requirements Traceability Matrix (RTM) Part 2: Code Assessment Strategy, Procedure, and RTM Update
+     Author ['JS Yoo', 'YJ Choi', 'CL Smith']
+     Venue NA
+     Year 2016
+     Abstract This document addresses two subjects involved with the RELAP-7 Software Verification and Validation Plan (SVVP):(i) the principles and plan to assure the independence of RELAP-7 assessment through the code development process, and (ii) the work performed to establish
+     Url https://www.osti.gov/biblio/1369368
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software validation made simple
+     Author ['A Remillard']
+     Venue … Ninth IEEE Symposium on Computer-Based …
+     Year 1996
+     Abstract Software Validation Made Simple  A complete software traceability matrix can facilitate a smooth test plan implementation process and is a helpful tool in  According to the IEEE Standard for Software Verification and Validation Plans, the definition of validation is the process of
+     Url https://ieeexplore.ieee.org/abstract/document/507122/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software Verification and Validation Research Laboratory (SVVRL) of the University of Kentucky: Traceability Challenge
+     Author ['JH Hayes', 'WK Kong', 'W Li', 'H Sultanov', 'SA Wilson']
+     Venue NA
+     Year 2009
+     Abstract We present the process and methods applied in undertaking the Traceability Challenge. Information retrieval methods implemented in REquirements TRacing On target (RETRO) were applied to the tracing of the EasyClinic dataset. Preliminary results based on a
+     Url https://selab.netlab.uky.edu/homepage/publications/tefse-traceab-challenge-2009-univ-ky-as-sent.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The software verification and validation process for a PLC-based engineered safety features-component control system in nuclear power plants
+     Author ['SW Cheon', 'JS Lee', 'KC Kwon']
+     Venue … Annual Conference of …
+     Year 2004
+     Abstract This paper introduces the software verification and vali- dation (VSrV) tasks for the ESF-CCS in nuclear power plants (NPPs  software de- sign, implementation, and integration) include a check- list-based review and inspection, a requirement traceability analysis, formal
+     Url https://ieeexplore.ieee.org/abstract/document/1433422/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software validation of medical instruments
+     Author ['DR Boccardo', 'RCS Machado']
+     Venue 2014 IEEE …
+     Year 2014
+     Abstract The main contributions of this work may be summarized as follows: - It introduces an architecture to deal with the software validation complexity, reducing the amount of intellectual property that should be validated; - It assures the traceability of the measurement, ensuring its
+     Url https://ieeexplore.ieee.org/abstract/document/6860090/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE SCHOOL OF INFORMATION TECHNOLOGY THE UNIVERSITY OF QUEENSLAND
+     Author ['SF Traceability', 'P Lindsay', 'O Traynor']
+     Venue NA
+     Year 1998
+     Abstract This paper describes the facilities currently available to support auditing and traceability within a system which provides ne-grained conguration and version management. We contend that the relationship between the con guration management system and the
+     Url https://www.researchgate.net/profile/Peter_Lindsay3/publication/2643393_Supporting_Fine-grained_Traceability_in_Software_Development_Environments/links/004635232d46dcf15d000000/Supporting-Fine-grained-Traceability-in-Software-Development-Environments.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Ontology-based model for Rational Unified Process artifacts traceability
+     Author ['SM Yassin', 'IF Moawad', 'R El Gohary']
+     Venue … & Systems (ICCES)
+     Year 2012
+     Abstract research approaches facilitate the creation and refinement of the domain Ontology to ensure the consistency of the software artifacts during the software development, there is not enough attention to the importance of linking both software verification and artifacts traceability
+     Url https://ieeexplore.ieee.org/abstract/document/6408522/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Discussion on Traceability Analysis Method of Safety Software in Nuclear Power Plants
+     Author ['PF Gu', 'YN He', 'JZ Tang', 'WP Ye']
+     Venue International Symposium on Software …
+     Year 2019
+     Abstract Safety software Requirements items Traceability analysis Software verification and validation. Download conference paper PDF  The second part is software verification and validation, introducing software verification and validation, traceability analysis and requirement items
+     Url https://link.springer.com/chapter/10.1007/978-981-15-1876-8_45
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Function extraction: automated behavior computation for aerospace software verification and certification
+     Author ['R Bartholomew', 'L Burns', 'T Daly', 'R Linger']
+     Venue … 2007 Conference and …
+     Year 2007
+     Abstract The purpose of software verification in the certification context is to eliminate errors introduced during development, typically in compliance with industry or  The team must also demonstrate traceability between the requirements, their implementation, and their verification
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2007-2929
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title 3rd international workshop on traceability in emerging forms of software engineering (tefse 2005)
+     Author ['JI Maletic', 'G Antoniol', 'J Cleland-Huang']
+     Venue Proceedings of the 20th …
+     Year 2005
+     Abstract Traceability between the free text documentation associated with the development and maintenance cycle of a software system and its source code are crucial in a number of tasks such as program comprehension, software maintenance, and software verification & validation
+     Url https://dl.acm.org/doi/abs/10.1145/1101908.1102002
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Investigation of traceability within a medical device organization
+     Author ['G Regan', 'F McCaffery', 'K McDaid', 'D Flood']
+     Venue International Conference on …
+     Year 2013
+     Abstract device standards and guidelines and are listed in Table 1. The obvious point of note is the variance in the requirements between the standards with only the FDA's General Principles of Software Validation document requiring traceability to the module and function level
+     Url https://link.springer.com/chapter/10.1007/978-3-642-38833-0_19
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title … : The Proactive Use of a Traceability Matrix in Spectrometry Software Validation, Part II: Practice-In the first part of this column series on traceability …
+     Author ['RD McDowall']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Modeling functional requirements to support traceability analysis
+     Author ['N Kececi', 'J Garbajosa']
+     Venue 2006 IEEE International …
+     Year 2006
+     Abstract This paper deals with traceability analysis within the context of software verification rather than within the context of software validation. The completeness of the verification of software requirements is fundamental to effective requirements management
+     Url https://ieeexplore.ieee.org/abstract/document/4078923/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title The software verification and validation tasks for a safety critical system in nuclear power plants
+     Author ['SW Cheon', 'KH Cha', 'KC Kwon']
+     Venue International journal of safety
+     Year 2004
+     Abstract The V&V techniques employed in this work include a checklist-based review and inspection, a requirement traceability analysis, formal verification, and life-cycle based software testing. Key words: nuclear power plants, safety critical systems, software, verification and validation
+     Url https://www.koreascience.or.kr/article/JAKO200428317682795.page
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Approaches for assigning numerical uncertainty to reference data pairs for software validation
+     Author ['GJP Kok', 'IM Smith']
+     Venue … And Computational Tools In Metrology And …
+     Year 2015
+     Abstract IM SMITH National Physical Laboratory, Teddington, Middlesex, UK This paper discusses the numerical uncertainty related to reference data pairs used for software validation  These perfor- mance metrics may be used to demonstrate traceability of metrology software
+     Url https://www.worldscientific.com/doi/abs/10.1142/9789814678629_0023
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title SIS-RT: an integrated software inspection support and requirement traceability tool
+     Author ['HS Son', 'SR Koo', 'PH Seong', 'DS Son', 'SS Choi']
+     Venue NA
+     Year 2000
+     Abstract capability. Inspection and requirement traceability analysis are widely believed to be the most effective software verification and validation methods. These techniques are labor-intensive and thus require to be partially automated
+     Url https://inis.iaea.org/search/search.aspx?orig_q=RN:34050458
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title RELAP-7 Software Verification and Validation Plan
+     Author ['J Yoo', 'YJ Choi', 'CL Smith']
+     Venue NA
+     Year 2016
+     Abstract This document addresses two subjects involved with the RELAP-7 Software Verification and Validation Plan (SVVP): (i) the principles and plan to assure the  Then, the Requirements Traceability Matrices (RTMs) proposed in previous document (INL-EXT-15-36684) are updated
+     Url https://lwrs.inl.gov/RiskInformed%20Safety%20Margin%20Characterization/RELAP-7_Software_Verification_and_Validation_Plan.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Computer software validation in pharmaceuticals
+     Author ['A Bendale', 'N Patel', 'D Damahe']
+     Venue Asian Journal of …
+     Year 2011
+     Abstract This includes a variety of analyses, audits, walkthroughs, reviews, and traceability exercises  IEEE standard of software verification and validation; institute of electrical and electronics engineers  General principles of software validation; final guidance for industry and FDA staff
+     Url https://www.researchgate.net/profile/Atul_Bendale/publication/215485194_Computer_Software_Validation_In_Pharmaceuticals/links/02e7e51c5c37b8e99c000000/Computer-Software-Validation-In-Pharmaceuticals.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Integrated technology for industrial software verification and testing
+     Author ['V Kotlyarov', 'P Drobintsev', 'I Nikiforov']
+     Venue Proceedings of the 2014 …
+     Year 2014
+     Abstract IV. TRACEABILITY MATRIX Verification project requirements formalization starts with Traceability matrix (TRM) [1] creation (TRM for specific project is presented in table format in Fig.2). “Identifier” and “Requirements” columns contain requirement's identifier, used in the initial
+     Url http://inase.org/library/2014/russia/bypaper/MEAS/MEAS-19.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Statistical analysis for traceability experiments: Software verification and validation research laboratory (SVVRL) of the University of Kentucky
+     Author ['M Hays', 'JH Hayes', 'AJ Stromberg', 'AC Bathke']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Requirements traceability in automated test generation: application to smart card software validation process
+     Author ['E Bernard', 'B Legeard']
+     Venue NA
+     Year 2005
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Industrial software verification and testing technology
+     Author ['P Drobintsev', 'V Kotlyarov', 'A Letichevsky']
+     Venue CEUR Workshop …
+     Year 2017
+     Abstract Page 1. Industrial software verification and testing technology PD Drobintsev Ph.D. assistant prof., SPbPU drob2@ics2.ecd.spbstu.ru  Based on the trace the tests can be generated which are needed for experimental evidence of the requirement coverage. 4 Traceability matrix
+     Url http://ceur-ws.org/Vol-1989/paper52.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Using Certified Software Validation Tools to Increase Software Reliability in Satellite and Spacecraft Applications
+     Author ['J Thomas']
+     Venue AIAA SPACE 2010 Conference & Exposition
+     Year 2010
+     Abstract Using Certified Software Validation Tools to Increase  3). On the right is a typical graphical view that illustrates the connections represented in the requirement traceability matrix  A software verification plan must cover both the source code and any requirements-based test case
+     Url https://arc.aiaa.org/doi/pdf/10.2514/6.2010-8625
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software verification and validation within the (rational) unified process
+     Author ['C Fuhrman', 'F Djlive', 'E Palza']
+     Venue 28th Annual NASA Goddard …
+     Year 2003
+     Abstract Page 2. Therefore, validation determines if the software meets the needs for its intended use. The IEEE Standard for Software Verification and Validation (IEEE Std  These are, in turn, comprised of tasks, such as Traceability Analysis, Software Design Evaluation, etc
+     Url https://ieeexplore.ieee.org/abstract/document/1270746/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE
+     Author ['SF Traceability', 'P Lindsay', 'O Traynor']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Requirements Traceability in Automated Test Generation-Application to Smart Card Software Validation, ICSE Int
+     Author ['F Bouquet', 'E Jaffuel', 'B Legeard', 'F Peureux', 'M Utting']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Performance evaluation and software validation of automatic bank of DC reference standard
+     Author ['SK Sharma', 'VN Ojha']
+     Venue NA
+     Year 2005
+     Abstract Keywords: Reference standard, Calibration, Traceability, Performance evaluation, Software validation IPC Code: G 01 G 19/413 Introduction National Physical Laboratory (NPL) is a National Measurement Institute of India and maintains the SI units1
+     Url http://nopr.niscair.res.in/handle/123456789/5159
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software Verification and Validation of Digital Nuclear Instrumentation System
+     Author ['M Zhang', 'JZ Wang', 'WJ Huang', 'BC Huang']
+     Venue International Symposium on …
+     Year 2019
+     Abstract According to the RPN software verification and validation plan and software lifecycle model, the  After standard conformity evaluation, interface analysis and traceability analysis, the software  and validation test specifications by V&V team, the RPN software validation test has
+     Url https://link.springer.com/chapter/10.1007/978-981-15-1876-8_32
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Traceability Challenge 2013: Statistical Analysis for Traceability Experiments
+     Author ['M Hays', 'H Hayes', 'AJ Stromberg', 'AC Bathke']
+     Venue NA
+     Year 2013
+     Abstract An important aspect of traceability experiments is the ability to compare techniques  The Software Verification and Validation Research Laboratory (SVVRL) and the Statistics Department of the University of Kentucky have developed a collection of such components as
+     Url http://selab.netlab.uky.edu/homepage/publications/tefse-challenge-2013-statistical-feb13.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software Verification and Validation of Digital Nuclear Instrumentation System
+     Author ['M Zhang', 'JZ Wang', 'WJ Huang', 'BC Huang']
+     Venue International Symposium on …
+     Year 2019
+     Abstract According to the RPN software verification and validation plan and software lifecycle model, the  After standard conformity evaluation, interface analysis and traceability analysis, the software  and validation test specifications by V&V team, the RPN software validation test has
+     Url https://link.springer.com/chapter/10.1007/978-981-15-1876-8_32
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title SOFTWARE VERIFICATION RESEARCH CENTRE
+     Author ['SF Traceability', 'P Lindsay', 'O Traynor']
+     Venue NA
+     Year NA
+     Abstract [Not Found]
+     Url [Not Found]
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Repeatable and Tracable Software Verification for 3D Coordinate Measuring Machines
+     Author ['B Müller']
+     Venue Proceedings of the 18th World Multi-Conference on …
+     Year 2014
+     Abstract Page 2. The TraCIM Software Verification System (TraCIM SVS) which is under active development at the moment is part of the TraCIM project (Traceability for computational-intensive metrology). We depict the project further
+     Url http://www.iiis.org/CDs2014/CD2014SCI/SCI_2014/PapersPdf/MA688QD.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title TRACEABILITY OF REQUIREMENTS IN SCRUM SOFTWARE DEVELOPMENT PROCESS
+     Author ['M Kodali']
+     Venue NA
+     Year 2015
+     Abstract In this direction, the establishment and the maintenance of traceability links between requirements and test cases have been appointed as promising technique towards a more efficient software verification and validation. Through
+     Url https://www.diva-portal.org/smash/record.jsf?pid=diva2:821945
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A new approach to CMM software validation
+     Author ['A Forbes', 'P Harris', 'F Haertig', 'U Lunze', 'I Smith']
+     Venue NA
+     Year NA
+     Abstract in software validation using data sets to assess the performance of CMM software for fitting geometric elements to data. These activities have primarily involved the offline assessment of the software. The Joint Research Project (JRP) NEW06 'Traceability for computationally
+     Url https://www.euspen.eu/knowledge-base/LAMP15121.pdf
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Establishing an Efficient Test Framework for Embedded Software Verification via Hardware-in-the-Loop Testing
+     Author ['D Kang', 'D Zhang', 'W Fleming', 'J Fron', 'V Jaikamal']
+     Venue NA
+     Year 2012
+     Abstract Embedded Software Verification via Hardware-in  the test framework must be able to function with the established set of tools and processes already in place within the development organization, while supporting separation of responsibilities, handling traceability to requirements
+     Url https://www.sae.org/publications/technical-papers/content/2012-01-2029/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Impact of standards on the role and application of traceability in the medical device domain
+     Author ['G Regan', 'F Mc Caffery', 'K Mc Daid', 'D Flood']
+     Venue NA
+     Year 2012
+     Abstract Traceability can control risk. For example the General Principles of Software Validation (GPSV) [10] states that a software requirements traceability analysis should be conducted to trace software requirements to (and from) system requirements and to risk analysis results
+     Url https://ulir.ul.ie/handle/10344/2526
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title LADEE Flight Software: Verification Techniques SPIN 2014
+     Author ['K Gundy-Burlet']
+     Venue NA
+     Year NA
+     Abstract Iterate while increasing fidelity of tests – Workstation Sim (WSIM), Processor-In-The-Loop (PIL), Hardware-in-the-Loop (HIL) • Automated self-documenting tests providing traceability to requirements Requirements Design/Algorithm Development  Bidirectional Traceability
+     Url https://ntrs.nasa.gov/api/citations/20140012997/downloads/20140012997.pdf?attachment=true
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title Software verification and validation: an overview
+     Author ['DR Wallace', 'RU Fujii']
+     Venue Ieee Software
+     Year 1989
+     Abstract 132, Guideline for Software Verification and Validation Plans, which adopts ANSMEEE Std 101 2-1986, the StandardforSoftware Verification and Validation Plans, -the US Air Force's AFSC/AFLC  Co nce p t Requirements Traceability analysis definition Requirements validation
+     Url https://ieeexplore.ieee.org/abstract/document/28119/
+
+
+     Search term "Software+Validation"+OR+"Software+Verification"+"Traceability"
+     Title A Methodology for Improving the SIS-RT in Analyzing the Traceability of the Documents written in Korean Language
+     Author ['YJ Yoo', 'MC Kim', 'PH Seong']
+     Venue Proceedings of the Korean Nuclear Society …
+     Year 2002
+     Abstract Kwangju, Korea, May 2002 A Methodology for Improving the SIS-RT in Analyzing the Traceability of the Documents written in Korean Language  Daejon, Korea 305-701 Abstract Inspection is widely believed to be an effective software verification and validation (V&V) method
+     Url https://www.kns.org/files/pre_paper/23/126%EC%9C%A0%EC%98%81%EC%A0%9C.pdf
+

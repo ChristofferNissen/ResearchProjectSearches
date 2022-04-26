@@ -1,0 +1,451 @@
+Showing papers for search query "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal development of reactive systems: case study production cell
+     Author ['C Lewerentz', 'T Lindner']
+     Venue NA
+     Year 1995
+     Abstract study" production cell". We will keep on maintaining an ftp database for task description, simulation, and recording contributed work, be it published papers, reports, or specifications and implemen- tations. Thus, all accumulated contributions may help in putting formal methods
+     Url https://books.google.com/books?hl=en&lr=&id=OYm_i54YdMkC&oi=fnd&pg=PR13&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22&ots=Xaz-CvxrcZ&sig=IOQP7C04Y1VboG2hOzbYrInCgi8
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal verification of the AAMP5 microprocessor: A case study in the industrial use of formal methods
+     Author ['SP Miller', 'M Srivas']
+     Venue Proceedings of 1995 IEEE Workshop on …
+     Year 1995
+     Abstract This paper describes the experiences of Collins Commercial Avionics and SRI International informally specifying and verifying the microcode for the AAMP5 microprocessor with the PVS verification system. This project was conducted to determine if an industrial
+     Url https://ieeexplore.ieee.org/abstract/document/515475/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods for verification and validation of partial specifications: A case study
+     Author ['S Easterbrook', 'J Callahan']
+     Venue Journal of Systems and Software
+     Year 1998
+     Abstract This paper describes our work exploring the suitability of formal specification methods for independent verification and validation (IV&V) of software specifications for large, safety-critical systems. An IV&V contractor often has to perform rapid analysis on incomplete
+     Url https://www.sciencedirect.com/science/article/pii/S0164121297001672
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Applying formal verification to the AAMP5 microprocessor: A case study in the industrial use of formal methods
+     Author ['MK Srivas', 'SP Miller']
+     Venue Formal Methods in System Design
+     Year 1996
+     Abstract Formal specification combined with mechanical verification is a promising approach for achieving the extremely high levels of assurance required of safety-critical digital systems. However, many questions remain regarding their use in practice: Can these techniques
+     Url https://link.springer.com/article/10.1007/BF00122419
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods into practice: case studies in the application of the B method
+     Author ['JC Bicarregui', 'DL Clutterbuck', 'G Finnie', 'H Haughton']
+     Venue IEE Proceedings …
+     Year 1997
+     Abstract The paper reports on an investigation into the application of the B method of formal software development. Six case studies are described, each exploring a different aspect of the use of the B methodology and toolkit. The case studies are drawn from a diverse range of
+     Url https://digital-library.theiet.org/content/journals/10.1049/ip-sen_19970974
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title The KORSO case study for software engineering with formal methods: A medical information system
+     Author ['F Cornelius', 'H Hußmann', 'M Löwe']
+     Venue … , and Tools for the Construction of …
+     Year 1995
+     Abstract This article summarizes the experiences and results which have been achieved within one of the central case studies of the Korso project. It has been set up as the formal, size-reduced, and slightly abstracted counterpart of an actual project which has been running for
+     Url https://link.springer.com/chapter/10.1007/BFb0015474
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Substitution: A formal methods case study using monads and transformations
+     Author ['F Bellegarde', 'J Hook']
+     Venue Science of computer programming
+     Year 1994
+     Abstract The specification and derivation of substitution for the de Bruijn representation of λ-terms is used to illustrate programming with a function-sequence monad. The resulting program is improved by interactive program transformation methods into an efficient implementation
+     Url https://www.sciencedirect.com/science/article/pii/0167642394000220
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Automatic testing with formal methods
+     Author ['GJ Tretmans', 'A Belinfante']
+     Venue NA
+     Year 1999
+     Abstract paper presents the state of the art and future perspectives in testing based on formal methods. The theory of formal testing is briefly outlined, a test tool is presented which automates both test derivation and test execution on-the-fly, and an application case study is discussed
+     Url http://www.cs.um.edu.mt/~svrg/FormalMethods/2011-2012/testing.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal specification and documentation using Z: A case study approach
+     Author ['JP Bowen']
+     Venue NA
+     Year 1996
+     Abstract X UNIX transputer DCS FORMAL SPECIFICATION AND DOCUMENTATION USING Z A CASE STUDY APPROACH Jonathan Bowen Page 3  3 1.2 Formal Specification 4 1.3 Case Studies 7 1.4 Conclusions 10 2 Industrial Use of Formal Methods 15 2.1 Introduction
+     Url http://images4.wikia.nocookie.net/__cb20091031155410/formalmethods/images/4/4e/Zbook.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods case studies for DO-333
+     Author ['D Cofer', 'SP Miller']
+     Venue NA
+     Year 2014
+     Abstract RTCA DO-333, Formal Methods Supplement to DO-178C and DO-278A provides guidance for software developers wishing to use formal methods in the certification of airborne systems and air traffic management systems. The supplement identifies the modifications
+     Url https://ntrs.nasa.gov/search.jsp?R=20140004055
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Application of formal methods to railway signalling—a case study
+     Author ['J Cullyer', 'W Wong']
+     Venue Computing & Control Engineering Journal
+     Year 1993
+     Abstract This article describes techniques for applying formal mathematical methods to the specification and design of railway signalling and interlocking equipment which is implemented using microprocessors and real-time software. Our results have been obtained
+     Url https://digital-library.theiet.org/content/journals/10.1049/cce_19930005
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title The steam boiler case study: Competition of formal program specification and development methods
+     Author ['JR Abrial', 'E Börger', 'H Langmaack']
+     Venue Formal Methods for Industrial …
+     Year 1996
+     Abstract This book wants to contribute to a realistic comparison, from the point of view of practicality for applications under industrial constraints, of the major techniques which are currently available for formally supported specification, design and verification of large programs and
+     Url https://link.springer.com/content/pdf/10.1007/BFb0027228.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Experiences using lightweight formal methods for requirements modeling
+     Author ['S Easterbrook', 'R Lutz', 'R Covington']
+     Venue IEEE Transactions …
+     Year 1998
+     Abstract The case studies differ from previously reported applications of formal methods in that formal methods were applied very early in  For each case study, we describe what methods were applied, how they were applied, how much effort was involved, and what the findings were
+     Url https://ieeexplore.ieee.org/abstract/document/663994/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formalizing Space Shuttle software requirements: Four case studies
+     Author ['J Crow', 'B Di Vito']
+     Venue ACM Transactions on Software Engineering and …
+     Year 1998
+     Abstract JUDITH CROW SRI International and BEN DI VITO VíGYAN, Inc. This article describes four case studies in which requirements for new flight software subsystems on NASA's Space Shuttle were analyzed using mechanically supported formal methods
+     Url https://dl.acm.org/doi/abs/10.1145/287000.287023
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Design and verification of the rollback chip using HOP: A case study of formal methods applied to hardware design
+     Author ['G Gopalakrishnan', 'R Fujimoto']
+     Venue ACM Transactions on Computer …
+     Year 1993
+     Abstract The use of formal methods in hardware design improves the quality of designs in many ways: it promotes better understanding of the design; it permits systematic design refinement through the discovery of invariants; and it allows design verification (informal or formal). In
+     Url https://dl.acm.org/doi/abs/10.1145/151244.151245
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Applications of formal methods
+     Author ['MG Hinchey', 'JP Bowen']
+     Venue NA
+     Year 1995
+     Abstract scale. It is very encouraging to publish a record of success in this endeavour. Jonathan Bowen and Michael Hinchey have put together a varied collection of industrial case studies under the title Applications of Formal Methods. I
+     Url https://www.researchgate.net/profile/Jonathan_Bowen/publication/319015764_Applications_of_Formal_Methods/data/598b0d6e45851519f1102f37/Applications-of-Formal-Methods.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Testing and formal methods—Bos project case study
+     Author ['W Geurts', 'K Wijbrans', 'J Tretmans']
+     Venue EuroSTAR
+     Year 1998
+     Abstract In this paper a case study is presented on the use of formal methods in the testing of a realistic (mission critical) system. The top level design was written in the formal language Promela, which made it possible to simulate a model of the system before it was built
+     Url https://research.utwente.nl/files/174459507/278_GeWiTr98.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods: State of the art and future directions
+     Author ['EM Clarke', 'JM Wing']
+     Venue ACM Computing Surveys (CSUR)
+     Year 1996
+     Abstract In both areas, researchers and practitioners are performing more and more industrial-sized case studies, and thereby gaining the benefits of us- ing formal methods  [1993a, 1993b, 1994, 1995] for a description of 12 case studies in formal methods (most cited in the preceding)
+     Url https://dl.acm.org/doi/abs/10.1145/242223.242257
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case study: Formal verification of a computerized railway interlocking
+     Author ['A Borälv']
+     Venue Formal Aspects of Computing
+     Year 1998
+     Abstract 339 regulations or certification bodies. The verification phase traditionally consists of testing and simulation, though the use of formal methods is often recommended [Eur96, Eur97a, Eur97b]  This case study is one of the many case studies carried out by ADtranz during 1995
+     Url https://link.springer.com/article/10.1007/s001650050021
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case study: Darlington nuclear generating station [software-driven shutdown systems]
+     Author ['D Craigen', 'S Gerhart', 'T Ralston']
+     Venue IEEE Software
+     Year 1994
+     Abstract tories, \'VashingLon, lJC, 1992. The authors' biographies are on p. 28. CASE STUDY: PARIS METRO SIGNALING M  1993. 3. D. Craigen, S. Gerhart, and T. Ralston, "An International Survey uflndustrial Applications of Formal Methods, Volume 2 Case Studies," 'lech
+     Url https://ieeexplore.ieee.org/abstract/document/251201/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Safer user interfaces: A case study in improving number entry
+     Author ['H Thimbleby']
+     Venue IEEE Transactions on Software Engineering
+     Year 2014
+     Abstract Page 1. Safer User Interfaces: A Case Study in Improving Number Entry Harold Thimbleby  Likewise, formal methods are not being applied effectively. User interfaces are not trivial and more attention should be paid to their correct design and implementation
+     Url https://ieeexplore.ieee.org/abstract/document/6991548/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Improving safety assessment of complex systems: An industrial case study
+     Author ['M Bozzano', 'A Cavallo', 'M Cifaldi', 'L Valacca']
+     Venue … of Formal Methods …
+     Year 2003
+     Abstract The complexity of embedded controllers is steadily increasing. This trend, stimulated by the continuous improvement of the computational power of hardware, demands for a corresponding increase in the capability of design and safety engineers to maintain
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_13
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Models, numbers, and cases: methods for studying international relations
+     Author ['Y Nahmias-Wolinsky']
+     Venue NA
+     Year 2004
+     Abstract Case Study Methods in International Security Studies Arie M. Kacowicz Part II  The proliferation of statistical and formal methods of analysis has been striking, alongside more systematic employment of qualitative case studies
+     Url https://books.google.com/books?hl=en&lr=&id=o0iOOrN3DQIC&oi=fnd&pg=PR7&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22&ots=t5IiIGvbKK&sig=5uuAQFHT4ov1WBS0q-tltnAVfcY
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case study: Paris metro signaling system
+     Author ['S Gerhart', 'D Craigen', 'T Ralston']
+     Venue IEEE Software
+     Year 1994
+     Abstract R6-1 91 The authors' biographies are on p.28. CASE STUDY: TRAFFIC ALERT AND COLLISION· AVOIDANCE SYil EM  1993. 3. D. Craigen, S. Gerhart, and T. Ralston, "An International Survey uflndustrial Applications of Formal Methods, Volume 2 Case Studies," 'lech
+     Url https://ieeexplore.ieee.org/abstract/document/1279941/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods for smart cards: an experience report
+     Author ['CB Breunesse', 'N Catano', 'M Huisman']
+     Venue Science of Computer …
+     Year 2005
+     Abstract Elsewhere the authors have reported on the individual case studies in two separate papers [2,5] with two separate tools, but here  The case study is publicly available.1 It is intended to be an example of a Java Card2 applet on which different formal methods could be
+     Url https://www.sciencedirect.com/science/article/pii/S0167642304001467
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Modeling and verification of safety critical systems: A case study on pacemaker
+     Author ['LA Tuan', 'MC Zheng', 'QT Tho']
+     Venue 2010 Fourth International …
+     Year 2010
+     Abstract Page 1. Modeling and Verification of Safety Critical Systems: A Case Study on Pacemaker  Abstract—The pacemaker challenge proposed by Software Quality Research Laboratory is looking for formal methods to produce precise and reliable systems
+     Url https://ieeexplore.ieee.org/abstract/document/5502858/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Computer-aided reasoning: ACL2 case studies
+     Author ['M Kaufmann', 'P Manolios', 'JS Moore']
+     Venue NA
+     Year 2013
+     Abstract But the resulting scripts are extremely valuable to the serious student of formal methods. Every case study can be treated as an exercise in formalizing the model and proof described, and a complete solution is available to help  Most of the case studies paraphrase the formulas
+     Url https://books.google.com/books?hl=en&lr=&id=EMneBwAAQBAJ&oi=fnd&pg=PR11&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22&ots=MmNH8XNifz&sig=GDgsjjHPZgK87qspf1YI_jsHzH0
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title The event-b modelling method: Concepts and case studies
+     Author ['D Cansell', 'D Méry']
+     Venue Logics of Specification Languages
+     Year 2008
+     Abstract Formal construction of a non-blocking concurrent queue algorithm (a case study in atomicity)  Springer World Congress on Formal Methods [104], pages 431–451, 1999.Google Scholar. 29. L. Burdy  Program Development by Refinement: Case Studies Using the B Method
+     Url https://link.springer.com/chapter/10.1007/978-3-540-74107-7_3
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Redevelopment of an industrial case study using Event-B and Rodin
+     Author ['A Rezazadeh', 'N Evans', 'M Butler']
+     Venue … Workshop: Formal Methods in …
+     Year 2007
+     Abstract CDIS is a commercial air traffic information system that was developed using formal methods 15 years ago by Praxis, and it is still in operation today. This system is an example of an industrial scale system that has been developed using formal methods. In particular, the
+     Url https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/FMI2007.6
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title The application of formal methods to the assessment of high integrity software
+     Author ['RE Bloomfield', 'PKD Froome']
+     Venue IEEE Transactions on Software …
+     Year 1986
+     Abstract 8 ORI instruction (OR immediate) has no effect. 9 Flag corruption - minus flag set to state of zero flag. RESULTS FROM THE CASE STUDY We found that the use of formal methods had three significant advantages in the assessment comprising the case study
+     Url https://ieeexplore.ieee.org/abstract/document/6313053/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title A formal approach for reverse engineering: a case study
+     Author ['GC Gannod', 'BHC Cheng']
+     Venue Sixth Working Conference on …
+     Year 1999
+     Abstract The primary objective of the case study is to illustrate how a formal method can be used along with infor- mal methods to derive information about the functionality of a software system. The application of formal methods to large systems has yet to be effectively demonstrated
+     Url https://ieeexplore.ieee.org/abstract/document/806951/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case study methods in the international relations subfield
+     Author ['A Bennett', 'C Elman']
+     Venue Comparative Political Studies
+     Year 2007
+     Abstract carried out with insufficient methodological rigor, and although case study researchers need  The IR subfield includes several outstanding case studies that have contributed, together with  within a single study combining qualitative, statistical, and formal methods or sequentially
+     Url https://journals.sagepub.com/doi/abs/10.1177/0010414006296346
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Reification of executable test scripts in formal specification-based test generation: The java card transaction mechanism case study
+     Author ['F Bouquet', 'B Legeard']
+     Venue International Symposium of Formal Methods …
+     Year 2003
+     Abstract Automatic generation of test cases from formal specification is a very promising way both to give a rationale for deciding the scope of testing and to reduce the time for test design and coding. In order to achieve this purpose, formal specification-based methods must solve the
+     Url https://link.springer.com/chapter/10.1007/978-3-540-45236-2_42
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal verification in hardware design: a survey
+     Author ['C Kern', 'MR Greenstreet']
+     Venue ACM Transactions on Design Automation of …
+     Year 1999
+     Abstract In order to provide insight into the scope and limitations of currently available techniques, we present a selection of case studies where formal methods were applied to industrial-scale designs, such as microprocessors, floating-point hardware, protocols, memory subsystems
+     Url https://dl.acm.org/doi/abs/10.1145/307988.307989
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Using formal verification/analysis methods on the critical path in system design: A case study
+     Author ['AT Eiriksson', 'KL McMillan']
+     Venue International Conference on Computer Aided …
+     Year 1995
+     Abstract We present a case study of the use of formal verification methods in a com- puter system  the use of COSPAN because we aren't aware of protocol verification case studies in the  A. Gupta, "Formal Hardware Verification Methods: A Survey", Formal Methods in System Design", Vol
+     Url https://link.springer.com/chapter/10.1007/3-540-60045-0_63
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case study “production cell”: A comparative study in formal specification and verification
+     Author ['C Lewerentz', 'T Lindner']
+     Venue KORSO: Methods, Languages, and Tools for the …
+     Year 1995
+     Abstract This case study was done as one of two major case studies of the KoRSo project [BJ93]. Both case studies have a common primary aim which is to show the usefulness of formal methods for critical software systems and to prove their applicability to real-world examples
+     Url https://link.springer.com/chapter/10.1007/BFb0015473
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title The handbook of formal methods in human-computer interaction
+     Author ['B Weyers', 'J Bowen', 'A Dix', 'P Palanque']
+     Venue NA
+     Year 2017
+     Abstract regard, the Handbook on Formal Methods in Human-Computer Inter- action presents a comprehensive collection of methods and approaches, which address various aspects and perspectives on formal methods and highlight these by means of a compilation of case studies
+     Url https://link.springer.com/content/pdf/10.1007/978-3-319-51838-1.pdf
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Case studies and theory development in the social sciences
+     Author ['AL George', 'A Bennett']
+     Venue NA
+     Year 2005
+     Abstract While qualitative and case study methods have also become more sophis- ticated, the proportion of  science market naturally declined as the more novel statistical and formal methods of research  from zero to over 40 percent; and the proportion using case studies plunged from
+     Url https://books.google.com/books?hl=en&lr=&id=JEGzE6ExN-gC&oi=fnd&pg=PA9&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22&ots=HN_j-8n6-y&sig=UiIAIpoyQuU0Nlp-Td2jf6npOdg
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal methods for industrial applications: Specifying and programming the steam boiler control
+     Author ['JR Abrial', 'E Börger', 'H Langmaack']
+     Venue NA
+     Year 1996
+     Abstract the material presented in this book will make to the discussion on the use of formal methods in practical applications. September 1996 Jean-Raymond Abrial Egon Borger Hans Langmaack Page 11. Table of Contents ABL: The Steam Boiler Case Study: Competition of Formal
+     Url https://books.google.com/books?hl=en&lr=&id=rBluUemThUEC&oi=fnd&pg=PA1&dq=%22Case+Study%22+OR+%22Case+Studies%22+%22Formal+methods%22&ots=a-fZIEJ5U4&sig=pKHMBG9AfBSr9h3nsSHtvwhAl-M
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Executing JML specifications of Java card applications: a case study
+     Author ['N Cataño', 'T Wahls']
+     Venue Proceedings of the 2009 ACM symposium on …
+     Year 2009
+     Abstract 2005. [6] N. Cata˜no and M. Huisman. Formal specification of Gemplus' electronic purse case study. In L.-H. Eriksson and PA Lindsay, editors, FME: Formal Methods Europe, volume 2391 of Lecture Notes in Computer Science
+     Url https://dl.acm.org/doi/abs/10.1145/1529282.1529373
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal specification and validation at work: A case study using VDM-SL
+     Author ['S Agerholm', 'PJ Lecoeur', 'E Reichert']
+     Venue … workshop on Formal methods in …
+     Year 1998
+     Abstract We report on a case study conducted at DASSAULT ELECTRONIQUE in order to assess the benefits of introducing formal specification and validation in an industrial context, using the IS0 Standard VDM Specification Language (VDMSL) and a commercial toolset marketed by
+     Url https://dl.acm.org/doi/pdf/10.1145/298595.298861
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal models of communication services: A case study
+     Author ['A Fekete']
+     Venue Computer
+     Year 1993
+     Abstract Page 1. Communication Services: A Case Study Alan Fekete, University of Sydney uture communication systems will  uted computing. Formal methods can play an important role in exploring these new services. The telecommunications
+     Url https://ieeexplore.ieee.org/abstract/document/223535/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Combining SysML and formal methods for safety requirements verification
+     Author ['JF Pétin', 'D Evrot', 'G Morel', 'P Lamy']
+     Venue NA
+     Year 2010
+     Abstract different commercial tools, such as those used for the INRS case study: SysML system  methods based on SysML requirements and block diagrams, and formal methods such as  levels, common experiments on laboratory-scale and industrial- scale case-studies emphasize that
+     Url https://hal.archives-ouvertes.fr/hal-00533311/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal modeling and analysis of hybrid systems: A case study in multi-robot coordination
+     Author ['R Alur', 'J Esposito', 'M Kim', 'V Kumar', 'I Lee']
+     Venue … on Formal Methods
+     Year 1999
+     Abstract The design of controllers for hybrid systems (ie mixed discrete-continuous systems) in a systematic manner remains a challenging task. In this case study, we apply formal modeling to the design of communication and control strategies for a team of autonomous robots to
+     Url https://link.springer.com/chapter/10.1007/3-540-48119-2_14
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Validation of railway interlocking systems by formal verification, a case study
+     Author ['A Bonacchi', 'A Fantechi', 'S Bacherini']
+     Venue … and Formal Methods
+     Year 2013
+     Abstract Notwithstanding the large amount of attempts to formally verify them, railway interlocking systems still represent a challenging problem for automatic verification. Interlocking systems controlling sufficiently large stations, due to their inherent complexity related to the high
+     Url https://link.springer.com/chapter/10.1007/978-3-319-05032-4_18
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Linking CSP-OZ with UML and Java: A case study
+     Author ['M Möller', 'ER Olderog', 'H Rasch']
+     Venue … Integrated Formal Methods
+     Year 2004
+     Abstract We describe how CSP-OZ, an integrated formal method combining the process algebra CSP with the specification language Object-Z, can be linked to standard software engineering languages, viz. UML and Java. Our aim is to generate a significant part of the CSP-OZ
+     Url https://link.springer.com/chapter/10.1007/978-3-540-24756-2_15
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Specification, validation, and synthesis of email agent controllers: a case study in function rich reactive system design
+     Author ['RJ Hall']
+     Venue Automated Software Engineering
+     Year 2002
+     Abstract improvements. Therefore, I believe that this provides a valuable real-world case study in the application of formal methods to the domain of Internet-style application programming. Here are the main novel points to be made in this paper
+     Url https://link.springer.com/article/10.1023/A:1016372507161
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Modelling the Hybrid ERTMS/ETCS Level 3 Case Study in Spin
+     Author ['P Arcaini', 'P Ježek', 'J Kofroň']
+     Venue … on Abstract State Machines, Alloy, B, TLA …
+     Year 2018
+     Abstract In the context of the ABZ 2018 conference, the Hybrid ERTMS/ETCS Level 3 Case Study [6] has been proposed as benchmark for comparing the strengths (and weaknesses) of different state-based formal methods. The solutions provided for the case study should demonstrate
+     Url https://link.springer.com/chapter/10.1007/978-3-319-91271-4_19
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Formal requirements engineering: Learning from the students
+     Author ['JP Gibson']
+     Venue Proceedings 2000 Australian Software Engineering …
+     Year 2000
+     Abstract Each case study was intended to illustrate why formalism was needed, what sort of formalism  The case studies were not in- tended to rival those which the students had already  was that we also identified weak- nesses in our understanding of formal methods: students' naive
+     Url https://ieeexplore.ieee.org/abstract/document/844574/
+
+
+     Search term "Case+Study"+OR+"Case+Studies"+"Formal+methods"
+     Title Concurrent systems: formal development in CSP
+     Author ['MG Hinchey', 'SA Jarvis']
+     Venue NA
+     Year 1995
+     Abstract An illustrative case study, based on the verification of a network protocol, forms a central part of the book and practical  Its example-based, but rigorous approach makes it ideal for both undergraduate and postgraduate courses in concurrency, formal methods, distributed and real
+     Url https://dl.acm.org/citation.cfm?id=546737
+
